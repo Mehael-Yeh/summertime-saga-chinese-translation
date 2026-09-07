@@ -70,7 +70,7 @@ translate zh_hans bar02_intro_9273474f:
 translate zh_hans bar02_intro_4de168b8:
 
     # barb "... But I doubt she'd have time with all her musical studies."
-    barb "……但我怀疑她有没有时间，毕竟她要学那么多音乐。"
+    barb "……但我担心她有没有时间，毕竟她要学那么多音乐。"
 
 # game/src/plot/bar02.rpy:15
 translate zh_hans bar02_intro_d5006672:
@@ -334,7 +334,7 @@ translate zh_hans bar02_barb_09a61ea7:
 translate zh_hans bar02_barb_mia_e87f08ac:
 
     # anon "Thanks again for agreeing to be my partner in art class."
-    anon "再次谢谢你答应做我的美术课搭档。"
+    anon "再次感谢你答应做我的美术课搭档。"
 
 # game/src/plot/bar02.rpy:142
 translate zh_hans bar02_barb_mia_b2854a1a:
@@ -796,25 +796,25 @@ translate zh_hans bar02_eve1_f732a64e:
 translate zh_hans bar02_eve1_merge_b65d90d7:
 
     # eve f_pensive ".. Unless..."
-    eve f_pensive "……除非……"
+    eve f_pensive "……可是……"
 
 # game/src/plot/bar02.rpy:383
 translate zh_hans bar02_eve1_merge_76ac2caf:
 
     # eve a_backpack_01 "... Hmm, it's not here."
-    eve a_backpack_01 "……嗯，不在这里。"
+    eve a_backpack_01 "……嗯，它不在这里。"
 
 # game/src/plot/bar02.rpy:385
 translate zh_hans bar02_eve1_merge_86f0d13a:
 
     # anon f_confused "No?"
-    anon f_confused "没有？"
+    anon f_confused "不在这里？"
 
 # game/src/plot/bar02.rpy:388
 translate zh_hans bar02_eve1_merge_4efc5f5b:
 
     # eve f_calm "Well, that's no problem."
-    eve f_calm "好吧，那也没问题。"
+    eve f_calm "好吧，其实也不是什么问题。"
 
 # game/src/plot/bar02.rpy:389
 translate zh_hans bar02_eve1_merge_91066a0f:
@@ -868,7 +868,7 @@ translate zh_hans bar02_eve1_merge_a88b67db:
 translate zh_hans bar02_eve1_merge_f1d4ac00:
 
     # anon f_worried "You lost your backpack?"
-    anon f_worried "你背包丢了？"
+    anon f_worried "你的背包丢了？"
 
 # game/src/plot/bar02.rpy:413
 translate zh_hans bar02_eve1_merge_fa708263:
@@ -886,7 +886,7 @@ translate zh_hans bar02_eve1_merge_a28026ff:
 translate zh_hans bar02_eve1_merge_e8a32974:
 
     # anon "Where was the last place you remember having it?"
-    anon "你最后记得在哪儿见过它？"
+    anon "你记得最后在哪儿见过它？"
 
 # game/src/plot/bar02.rpy:416
 translate zh_hans bar02_eve1_merge_6a653a68:
@@ -976,7 +976,7 @@ translate zh_hans bar02_eve1_barb_a95926e3:
 translate zh_hans bar02_eve1_barb_ea7ac5fb:
 
     # anon "No, sorry. I'm still working on it."
-    anon "不，抱歉。我还在弄呢。"
+    anon "还没有，抱歉。我还在处理呢。"
 
 # game/src/plot/bar02.rpy:466
 translate zh_hans bar02_eve1_barb_c9a61852:
@@ -1114,7 +1114,7 @@ translate zh_hans bar02_eve2_9e952577:
 translate zh_hans bar02_eve2_9bb8e2bf:
 
     # anon "No worries. I couldn't find your art pad though."
-    anon "没事。不过我没找到你的画板。"
+    anon "小事一桩。不过我没找到你的画板。"
 
 # game/src/plot/bar02.rpy:556
 translate zh_hans bar02_eve2_100cbd1d:
@@ -1210,7 +1210,7 @@ translate zh_hans bar02_chad_d70d4704:
 translate zh_hans bar02_chad_af6cfc3b:
 
     # anon "So, could I get it from you?"
-    anon "所以，能给我吗？"
+    anon "所以，能还给我吗？"
 
 # game/src/plot/bar02.rpy:593
 translate zh_hans bar02_chad_56941834:
@@ -1312,7 +1312,7 @@ translate zh_hans bar02_chad_cddec789:
 translate zh_hans bar02_chad_602805c4:
 
     # anon "Any idea where it could be?"
-    anon "知道可能在哪儿吗？"
+    anon "你知道可能在哪儿吗？"
 
 # game/src/plot/bar02.rpy:624
 translate zh_hans bar02_chad_074e89cc:
@@ -1654,13 +1654,13 @@ translate zh_hans bar02_eve3_rails_b57f2694:
 translate zh_hans bar02_art2_d0557485:
 
     # barb "... Hmm, I think my favorite one is the {i}Praia do Abricó{/i}."
-    barb "……嗯，我想我最喜欢的是{i}Praia do Abricó{/i}。"
+    barb "……嗯，我想我最喜欢的是{i}阿布里科海滩{/i}。"
 
 # game/src/plot/bar02.rpy:794
 translate zh_hans bar02_art2_21a10d4f:
 
     # barb "It's back home in Rio de Janeiro."
-    barb "它就在我的老家Rio de Janeiro。"
+    barb "它就在我的老家里约热内卢。"
 
 # game/src/plot/bar02.rpy:797
 translate zh_hans bar02_art2_936d2492:
@@ -1720,7 +1720,7 @@ translate zh_hans bar02_art2_2a43974f:
 translate zh_hans bar02_art2_7583b0de:
 
     # anon "You guys having fun?"
-    anon "你们玩得开心吗？"
+    anon "你们聊得开心吗？"
 
 # game/src/plot/bar02.rpy:819
 translate zh_hans bar02_art2_e029b265:
