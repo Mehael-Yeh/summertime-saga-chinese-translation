@@ -1,4 +1,4 @@
-# 夏日传说 重制版（Summertime Saga）中文汉化补丁
+# 夏日传说 重制版（Summertime Saga V21）中文汉化补丁
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Build zh_hans RPA](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml/badge.svg)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml)
