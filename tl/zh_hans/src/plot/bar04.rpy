@@ -352,7 +352,7 @@ translate zh_hans bar04_pause1_barb_b7bc787c:
 translate zh_hans bar04_pause1_barb_06241da5:
 
     # anon f_sceptical "Like, a real nude female {i}lady{/i} model?!"
-    anon f_sceptical "就是一个真正的全裸{i}女{/i}模特？！"
+    anon f_sceptical "就是一个真正的全裸的{i}女{/i}模特？！"
 
 # game/src/plot/bar04.rpy:182
 translate zh_hans bar04_pause1_barb_e1a67159:
@@ -1090,13 +1090,13 @@ translate zh_hans bar04_judith1_dexter_463f2e77:
 translate zh_hans bar04_judith1_dexter_60a2c492:
 
     # dexter "Yo everybody, this nerd here just asked me to show him my junk!"
-    dexter "嘿大家，这个书呆子刚才让我给他看我的家伙！"
+    dexter "嘿大家，这个书呆子刚才让我露鸡巴给他看！"
 
 # game/src/plot/bar04.rpy:533
 translate zh_hans bar04_judith1_dexter_7bc86563:
 
     # anon "You're such an asshole."
-    anon "大家快听，这个书呆子刚让我露鸡巴给他看！"
+    anon "你可真是个混蛋。"
 
 # game/src/plot/bar04.rpy:537
 translate zh_hans bar04_judith1_dexter_db29b82f:
@@ -1462,13 +1462,13 @@ translate zh_hans bar04_judith1_rhonda_e53833fd:
 translate zh_hans bar04_judith1_rhonda_a8a9fab8:
 
     # anon "Doing what?"
-    anon "做什么？"
+    anon "忙什么？"
 
 # game/src/plot/bar04.rpy:697
 translate zh_hans bar04_judith1_rhonda_ac1476fd:
 
     # rhonda f_angry "For real, [saga.cast.anon]?!"
-    rhonda f_angry "说真的，[saga.cast.anon]？！"
+    rhonda f_angry "你认真的，[saga.cast.anon]？！"
 
 # game/src/plot/bar04.rpy:700
 translate zh_hans bar04_judith1_rhonda_a6cf2148:
@@ -2248,13 +2248,13 @@ translate zh_hans bar04_art2_d022edfb:
 translate zh_hans bar04_art2_3dd485fc:
 
     # barb "You have nothing to be embarrassed about. Does she guys?"
-    barb "你根本没什么好害羞的，对吧，你们两个？"
+    barb "你根本没什么好害羞的，你们说是吧？"
 
 # game/src/plot/bar04.rpy:1076
 translate zh_hans bar04_art2_38639342:
 
     # anon "Not at all."
-    anon "一点也没有。"
+    anon "一点也不尴尬。"
 
 # game/src/plot/bar04.rpy:1079
 translate zh_hans bar04_art2_6e78d4a5:
@@ -2530,7 +2530,7 @@ translate zh_hans bar04_art2_473255cb:
 translate zh_hans bar04_art2_233c7640:
 
     # barb "We'll just strip down to our underwear."
-    barb "我们只脱到剩内衣。"
+    barb "我们脱到只剩内衣。"
 
 # game/src/plot/bar04.rpy:1239
 translate zh_hans bar04_art2_e177741c:
@@ -2914,7 +2914,7 @@ translate zh_hans bar04_art2_6390554a:
 translate zh_hans bar04_art2_c4882f66:
 
     # barb "... Well, look who came out to play!"
-    barb "……瞧瞧是谁出来玩了！"
+    barb "……瞧瞧是谁爽到了！"
 
 # game/src/plot/bar04.rpy:1458
 translate zh_hans bar04_art2_5ffa94f4_1:
@@ -3292,7 +3292,7 @@ translate zh_hans bar04_art2_1ba07455:
 translate zh_hans bar04_art2_d3d4727d:
 
     # mia "This ar-"
-    mia "这个艺——"
+    mia "这艺——"
 
 # game/src/plot/bar04.rpy:1635
 translate zh_hans bar04_art2_b766cca9:
@@ -3316,13 +3316,13 @@ translate zh_hans bar04_art2_30f06623:
 translate zh_hans bar04_art2_e9facd04:
 
     # ursula "A gift?! For me?! What, like a portrait?"
-    ursula "礼物？！给我的？！什么，像一幅肖像？"
+    ursula "礼物？！给我的？！什么东西，比如一幅肖像？"
 
 # game/src/plot/bar04.rpy:1646
 translate zh_hans bar04_art2_b69f25b0:
 
     # barb "Well, sure! If that's what you want..."
-    barb "嗯，当然！如果你想要的话……"
+    barb "嗯，当然！如果你希望是这样的话……"
 
 # game/src/plot/bar04.rpy:1649
 translate zh_hans bar04_art2_534b47aa:
@@ -3508,7 +3508,7 @@ translate zh_hans bar04_art2_2c1aa70b:
 translate zh_hans bar04_art2_d0e79d37:
 
     # ursula "... But only if your student here can recreate this quality on a portrait of me!"
-    ursula "……但前提是你这位学生能为我画一幅同等质量的人像！"
+    ursula "……但前提是你这位学生能为我画一幅同样质量的人像！"
 
 # game/src/plot/bar04.rpy:1723
 translate zh_hans bar04_art2_3ee543cf:

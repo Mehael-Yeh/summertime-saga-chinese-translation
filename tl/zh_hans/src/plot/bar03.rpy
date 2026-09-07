@@ -4,7 +4,7 @@
 translate zh_hans bar03_barb1_49ab8c22:
 
     # anon f_calm "When do you wanna do our next lesson, [saga.cast.barb]?"
-    anon f_calm "你什么时候想上下一节课，[saga.cast.barb]？"
+    anon f_calm "你打算什么时候安排下一节课，[saga.cast.barb]？"
 
 # game/src/plot/bar03.rpy:3
 translate zh_hans bar03_barb1_b317a11a:
@@ -82,7 +82,7 @@ translate zh_hans bar03_barb1_9bb50f6c:
 translate zh_hans bar03_barb1_dc9a7def:
 
     # anon f_calm "School and library."
-    anon f_calm "学校和图书馆，记住了。"
+    anon f_calm "学校和图书馆。"
 
 # game/src/plot/bar03.rpy:17
 translate zh_hans bar03_barb1_6b78992c:
@@ -352,7 +352,7 @@ translate zh_hans bar03_mags_kevin_d91a992e:
 translate zh_hans bar03_mags_kevin_7bc2ac58:
 
     # kevin "Come check out this beefcake, [saga.cast.anon]!"
-    kevin "来看看这个肌肉男，[saga.cast.anon]！"
+    kevin "来看看这个肌肉猛男，[saga.cast.anon]！"
 
 # game/src/plot/bar03.rpy:166
 translate zh_hans bar03_mags_kevin_848a0aab:
@@ -376,7 +376,7 @@ translate zh_hans bar03_mags_kevin_10f7fbde:
 translate zh_hans bar03_mags_kevin_c35d86ac:
 
     # kevin "Heh, I didn't know you were a fellow connoisseur of the masculine form..."
-    kevin "嘿，没想到你也是男性肉体的鉴赏家……"
+    kevin "嘿，没想到你也是男性形体的鉴赏家……"
 
 # game/src/plot/bar03.rpy:176
 translate zh_hans bar03_mags_kevin_a622fb35:
@@ -400,7 +400,7 @@ translate zh_hans bar03_mags_kevin_f98a3f15:
 translate zh_hans bar03_mags_kevin_94e7dc94:
 
     # kevin "Take all you need! This one will keep me busy for a while."
-    kevin "需要什么尽管拿！这本够我忙一阵子了。"
+    kevin "需要什么尽管拿！这本够我用一阵子了。"
 
 # game/src/plot/bar03.rpy:185
 translate zh_hans bar03_mags_kevin_479ebcec:
@@ -574,7 +574,7 @@ translate zh_hans bar03_mags_melody_b58fa014:
 translate zh_hans bar03_mags_melody_5502af91:
 
     # anon "Really?"
-    anon "真的吗？"
+    anon "认真的？"
 
 # game/src/plot/bar03.rpy:291
 translate zh_hans bar03_mags_melody_8a3911f4:
@@ -682,7 +682,7 @@ translate zh_hans bar03_barb2_313082cd:
 translate zh_hans bar03_barb2_d59bd28d:
 
     # anon a_side e_w p_stand "There ya go."
-    anon a_side e_w p_stand "给你。"
+    anon a_side e_w p_stand "放好了。"
 
 # game/src/plot/bar03.rpy:339
 translate zh_hans bar03_barb2_1773ad9e:
@@ -988,7 +988,7 @@ translate zh_hans bar03_art1_2b6e8d1e:
 translate zh_hans bar03_art1_f4332dcd:
 
     # barb "There's my favorite students!"
-    barb "我最喜欢的学生们来了！"
+    barb "我最喜欢的学生们！"
 
 # game/src/plot/bar03.rpy:487
 translate zh_hans bar03_art1_e28eb1ef:
@@ -1114,13 +1114,13 @@ translate zh_hans bar03_art1_e67957d1:
 translate zh_hans bar03_art1_8411fa68:
 
     # anon "Have fun you two."
-    anon "你们俩玩得开心。"
+    anon "你们俩聊得开心。"
 
 # game/src/plot/bar03.rpy:541
 translate zh_hans bar03_art1_c6ea781d:
 
     # mia "Hurry back!!"
-    mia "快回来！！"
+    mia "快去快回！！"
 
 # game/src/plot/bar03.rpy:554
 translate zh_hans bar03_take_a5b888ca:

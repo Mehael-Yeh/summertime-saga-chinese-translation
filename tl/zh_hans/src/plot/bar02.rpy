@@ -1336,7 +1336,7 @@ translate zh_hans bar02_chad_d522c726:
 translate zh_hans bar02_chad_da2cae27:
 
     # chad "Hurry back, man."
-    chad "快点回来，兄弟。"
+    chad "快去快回，兄弟。"
 
 # game/src/plot/bar02.rpy:637
 translate zh_hans bar02_chad_alt_8c918ceb:
