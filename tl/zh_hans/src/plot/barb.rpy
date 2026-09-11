@@ -100,13 +100,13 @@ translate zh_hans barb_school_art_nope_ae56d48c:
 translate zh_hans barb_school_art_nope_985c6d70:
 
     # barb "... Just let me know if anything changes."
-    barb "……如果有什么变化就告诉我。"
+    barb "……如果你改主意了就告诉我。"
 
 # game/src/plot/barb.rpy:97
 translate zh_hans barb_school_art_nope_fbec2aa5:
 
     # barb f_calm "I'll always make time for you, [saga.cast.anon]."
-    barb f_calm "我随时都会为你抽出时间，[saga.cast.anon]。"
+    barb f_calm "我可以随时为你抽出时间，[saga.cast.anon]。"
 
 # game/src/plot/barb.rpy:98
 translate zh_hans barb_school_art_nope_8348f969:
@@ -136,7 +136,7 @@ translate zh_hans barb_school_art_outro_26fded18:
 translate zh_hans barb_school_art_outro_dd883abe:
 
     # barb f_calm "Alright, go in peace, [saga.cast.anon]..."
-    barb f_calm "好吧，平安离去吧，[saga.cast.anon]……"
+    barb f_calm "好吧，注意安全，[saga.cast.anon]……"
 
 # game/src/plot/barb.rpy:109
 translate zh_hans barb_school_art_outro_e8491978:
@@ -279,7 +279,7 @@ translate zh_hans strings:
     # game/src/plot/barb.rpy:41
     # game/src/plot/barb.rpy:153
     old "Nothing right now."
-    new "现在没什么"
+    new "现在没什么事"
 
     # game/src/plot/barb.rpy:41
     old "I should go."

@@ -70,7 +70,7 @@ translate zh_hans bridget_school_track_intro_c13af039:
 translate zh_hans bridget_school_track_intro_878b0034:
 
     # bridget "You better be training your ass off at the gym, or I'm going to shove my foot up your ass!!"
-    bridget "你最好在健身房拼命训练，不然我就把脚塞进你屁股里！！"
+    bridget "你最好在健身房拼命训练，不然我就把脚踹进你屁股里！！"
 
 # game/src/plot/bridget.rpy:55
 translate zh_hans bridget_school_track_intro_f3c95301:

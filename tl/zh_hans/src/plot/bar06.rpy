@@ -172,7 +172,7 @@ translate zh_hans bar06_art_a3be3209:
 translate zh_hans bar06_art_83859534:
 
     # iwanka "I got your phone number from [saga.cast.barb]. I hope that's alright?"
-    iwanka "我从[saga.cast.barb]那里拿到了你的电话号码。希望这没关系？"
+    iwanka "我从[saga.cast.barb]那里拿到了你的电话号码。希望这没冒犯到你？"
 
 # game/src/plot/bar06.rpy:74
 translate zh_hans bar06_art_d845e517:
@@ -310,7 +310,7 @@ translate zh_hans bar06_art_64e9f8cb:
 translate zh_hans bar06_art_a0555063:
 
     # barb "She'll get there someday, don't you worry..."
-    barb "她总有一天会做到的，别担心……"
+    barb "她总有一天会学会的，别担心……"
 
 # game/src/plot/bar06.rpy:143
 translate zh_hans bar06_art_66c2249a:
@@ -490,7 +490,7 @@ translate zh_hans bar06_office3_9ed1ca37:
 translate zh_hans bar06_office3_5c190949:
 
     # anon "I'm not sure I..."
-    anon "我不太确定……"
+    anon "我不太确定……我"
 
 # game/src/plot/bar06.rpy:240
 translate zh_hans bar06_office3_64c3e0e7:
@@ -574,7 +574,7 @@ translate zh_hans bar06_office3_34e78cce:
 translate zh_hans bar06_office3_fe98171b:
 
     # barb "My first year of teaching actually."
-    barb "其实是我教学的第一年。"
+    barb "其实是在我执教的第一年。"
 
 # game/src/plot/bar06.rpy:294
 translate zh_hans bar06_office3_5502af91:
@@ -1030,7 +1030,7 @@ translate zh_hans bar06_office3_reuse_38c661c0:
 translate zh_hans bar06_office3_reuse_f3edb2f3:
 
     # barb "But that was something else entirely!"
-    barb "但那完全是另一回事！"
+    barb "但这完全是另一回事！"
 
 # game/src/plot/bar06.rpy:423
 translate zh_hans bar06_office3_reuse_c2808c5b:
@@ -1090,7 +1090,7 @@ translate zh_hans bar06_office3_reuse_d91a992e_1:
 translate zh_hans bar06_office3_reuse_6c2c8b7d:
 
     # barb "You wouldn't mind doing it again sometime, would you, [saga.cast.anon]?"
-    barb "你不介意以后再这样做一次吧，[saga.cast.anon]？"
+    barb "你不介意以后再这样做几次吧，[saga.cast.anon]？"
 
 # game/src/plot/bar06.rpy:452
 translate zh_hans bar06_office3_reuse_de351bcb:

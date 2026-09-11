@@ -117,14 +117,14 @@ translate zh_hans cedric_spot_fd1ce279:
 
 
     # anon "Can you spot me?"
-    anon "你能帮我护一下吗？"
+    anon "你能帮我护着点吗？"
 
 # game/src/plot/cedric.rpy:63
 translate zh_hans cedric_spot_7a2a8f1c:
 
 
     # cedric a_reject "Can you spot me?"
-    cedric a_reject "你能帮我护一下吗？"
+    cedric a_reject "你能帮我护着点吗？"
 
 # game/src/plot/cedric.rpy:65
 translate zh_hans cedric_spot_a3ed64bb:
@@ -208,7 +208,7 @@ translate zh_hans cedric_what_9a99067f:
 
 
     # cedric "Since I finally got that harpy roommate of yours off my back, I can finally focus on my workouts."
-    cedric "自从甩掉你那只讨厌的鹰身女室友后，我终于能专心锻炼了。"
+    cedric "多亏我终于甩掉了你那个烦人的室友，我现在终于能专心锻炼了。"
 
 # game/src/plot/cedric.rpy:92
 translate zh_hans cedric_what_4262fe51:
@@ -349,7 +349,7 @@ translate zh_hans cedric_gym_workout_outro_d0908f56:
 translate zh_hans cedric_gym_workout_spot_4daa88b5:
 
     # anon a_point_self f_confused "Can you spot me?"
-    anon a_point_self f_confused "你能帮我看着点儿吗？"
+    anon a_point_self f_confused "你能帮我护着点儿吗？"
 
 translate zh_hans cedric_gym_workout_spot_7a2a8f1c:
 
@@ -369,7 +369,7 @@ translate zh_hans cedric_gym_workout_spot_ee31d607:
 translate zh_hans cedric_gym_workout_spot_30a8020e:
 
     # cedric a_point "I don't wanna see you drop a nut or blow out your o-ring."
-    cedric a_point "我可不想看见你拧脱了螺母，或是把你的O型圈给崩了。"
+    cedric a_point "我可不想看你蛋碎了一地或者屁股开花。"
 
 translate zh_hans cedric_gym_workout_spot_00bef22c:
 
@@ -419,7 +419,7 @@ translate zh_hans cedric_gym_workout_what_9a99067f:
 translate zh_hans cedric_gym_workout_what_4262fe51:
 
     # cedric "Since I finally got that harpy roommate of yours off my back, I can finally focus on my workouts."
-    cedric "自从我终于摆脱了你那个鹰身女妖室友的纠缠，我就能专心锻炼了。"
+    cedric "多亏我终于甩掉了你那个烦人的室友，我现在终于能专心锻炼了。"
 
 translate zh_hans cedric_gym_workout_what_099e3cd6:
 

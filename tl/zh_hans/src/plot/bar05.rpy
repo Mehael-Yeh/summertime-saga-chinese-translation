@@ -226,7 +226,7 @@ translate zh_hans bar05_art1_c5467c1d:
 translate zh_hans bar05_art1_950b1c61:
 
     # mia "... And the honking."
-    mia "……还有那声喇叭。"
+    mia "……还有那声淫叫。"
 
 # game/src/plot/bar05.rpy:128
 translate zh_hans bar05_art1_d91a992e_1:
@@ -454,7 +454,7 @@ translate zh_hans bar05_art1_5489dfb1:
 translate zh_hans bar05_art1_a89dad23:
 
     # mia "At least this should be interesting to watch."
-    mia "至少这应该会挺有趣。"
+    mia "至少现场看着应该会挺有趣。"
 
 # game/src/plot/bar05.rpy:221
 translate zh_hans bar05_art1_b49e58fd:
@@ -490,7 +490,7 @@ translate zh_hans bar05_art1_5ddd52c6:
 translate zh_hans bar05_art1_ee1ea0b4:
 
     # barb "Believe me, I'm not happy about it either."
-    barb "相信我，我也不乐意。"
+    barb "相信我，尽管我也不乐意。"
 
 # game/src/plot/bar05.rpy:235
 translate zh_hans bar05_art1_ffa56b97:
@@ -622,7 +622,7 @@ translate zh_hans bar05_art1_5a07a061:
 translate zh_hans bar05_art1_07eae791:
 
     # anon "Huh, well, that's convenient!"
-    anon "哈，那可真方便！"
+    anon "哈，那可真是利人利己！"
 
 # game/src/plot/bar05.rpy:289
 translate zh_hans bar05_art1_6700de3a:
@@ -736,7 +736,7 @@ translate zh_hans bar05_art1_fe62518c:
 translate zh_hans bar05_art1_9c28b486:
 
     # barb "Focus on the linens."
-    barb "专注于这些亚麻布。"
+    barb "专注于取得亚麻布。"
 
 # game/src/plot/bar05.rpy:344
 translate zh_hans bar05_art1_316527a2:
@@ -784,13 +784,13 @@ translate zh_hans bar05_ang_b574c642:
 translate zh_hans bar05_ang_5ffc2b9d:
 
     # ang "I suppose I could give you some of our old baptismal robes. They're fraying anyways..."
-    ang "我想我可以给你一些旧洗礼袍。反正也都磨损了……"
+    ang "我想我可以给你一些旧的洗礼袍。反正也都磨损了……"
 
 # game/src/plot/bar05.rpy:371
 translate zh_hans bar05_ang_e952feda:
 
     # anon "That should work just fine! Thank you so very much."
-    anon "那应该就行了！非常感谢你。"
+    anon "那应该足够了！非常感谢你。"
 
 # game/src/plot/bar05.rpy:374
 translate zh_hans bar05_ang_918bd718:
@@ -1306,7 +1306,7 @@ translate zh_hans bar05_lily_01636bd2:
 translate zh_hans bar05_lily_271c5da9:
 
     # anon f_confused "Do I owe you anything?"
-    anon f_confused "我欠你什么吗？"
+    anon f_confused "我还需要付钱吗？"
 
 # game/src/plot/bar05.rpy:532
 translate zh_hans bar05_lily_cffad6c8:
@@ -1318,7 +1318,7 @@ translate zh_hans bar05_lily_cffad6c8:
 translate zh_hans bar05_lily_e07d465e:
 
     # lily "Tell [saga.cast.barb] that [saga.cast.lily] Padbury says, 'Hi.'"
-    lily "告诉[saga.cast.barb]，[saga.cast.lily] Padbury说“嗨”。"
+    lily "转告[saga.cast.barb]，[saga.cast.lily] Padbury向她问好。"
 
 # game/src/plot/bar05.rpy:534
 translate zh_hans bar05_lily_b6b1016e:
@@ -1450,7 +1450,7 @@ translate zh_hans bar05_barb3_0e66f7d1:
 translate zh_hans bar05_barb3_094661c7:
 
     # anon "By the way, the girl at Cosmic Cumics asked me to tell you, \"Hello\"..."
-    anon "顺便说一句，Cosmic Cumics 的女孩让我转告你，“你好”……"
+    anon "顺便说一句，Cosmic Cumics 的女孩让我代她向你问好……"
 
 # game/src/plot/bar05.rpy:600
 translate zh_hans bar05_barb3_65b761ef:
@@ -1510,7 +1510,7 @@ translate zh_hans bar05_barb3_4216f853:
 translate zh_hans bar05_barb3_1bbe8bb8:
 
     # barb @ f_calm "Well, I'll have to go down and visit her!"
-    barb @ f_calm "好吧，我得下去拜访她！"
+    barb @ f_calm "好吧，我得记得下次去拜访她！"
 
 # game/src/plot/bar05.rpy:613
 translate zh_hans bar05_barb3_1203a635:
@@ -1882,7 +1882,7 @@ translate zh_hans bar05_art2_retry_4f7de829:
 translate zh_hans bar05_art2_retry_1e1b229c:
 
     # annie "I told them they weren't allowed to be here, ma'am."
-    annie "我已经告诉他们这里不允许停留，校长。"
+    annie "我已经告诉她们这里不允许逗留了，校长。"
 
 # game/src/plot/bar05.rpy:839
 translate zh_hans bar05_art2_retry_b4761131:
@@ -1954,7 +1954,7 @@ translate zh_hans bar05_art2_retry_4944d09f:
 translate zh_hans bar05_art2_retry_374c73ea:
 
     # annie "Would you get out already!"
-    annie "你快给我出去！"
+    annie "你快给我滚出去！"
 
 # game/src/plot/bar05.rpy:873
 translate zh_hans bar05_art2_retry_b49e58fd:
@@ -2008,7 +2008,7 @@ translate zh_hans bar05_art2_retry_2c78e862:
 translate zh_hans bar05_art2_retry_f4e4f0d0:
 
     # ursula "Now, inform this one as to what is about to happen here."
-    ursula "现在，告诉本王这里将要发生什么。"
+    ursula "现在，告诉这个人这里将要发生什么。"
 
 # game/src/plot/bar05.rpy:910
 translate zh_hans bar05_art2_retry_e93a76b3:
@@ -2020,7 +2020,7 @@ translate zh_hans bar05_art2_retry_e93a76b3:
 translate zh_hans bar05_art2_retry_dfa18b5e:
 
     # anon "... What is happening right now?"
-    anon "……现在正在发生什么？"
+    anon "……这里将要发生什么？"
 
 # game/src/plot/bar05.rpy:917
 translate zh_hans bar05_art2_retry_56e6b9c5:
@@ -2062,7 +2062,7 @@ translate zh_hans bar05_art2_retry_d91a992e_1:
 translate zh_hans bar05_art2_retry_3abd1d7d:
 
     # annie "You don't want to forget rule 1, trust me!"
-    annie "你最好别忘记规矩一，相信我！"
+    annie "你最好别忘记规矩一，别怪我没提醒你！"
 
 # game/src/plot/bar05.rpy:935
 translate zh_hans bar05_art2_retry_af90c95a:
@@ -2098,7 +2098,7 @@ translate zh_hans bar05_art2_retry_9e7b456a:
 translate zh_hans bar05_art2_retry_0aa5a936:
 
     # annie "After we have finished here, you will never, {i}ever{/i}, reveal what transpired in this room."
-    annie "我们在这里结束后，你永远，{i}永远{/i}不能透露这个房间里发生的一切。"
+    annie "在我们结束后，你永远，{i}永远{/i}不能透露这个房间里发生的一切。"
 
 # game/src/plot/bar05.rpy:943
 translate zh_hans bar05_art2_retry_ddf295e7:
@@ -2278,7 +2278,7 @@ translate zh_hans bar05_art2_retry_1df5d4a0:
 translate zh_hans bar05_art2_retry_db53b767:
 
     # mono "Ooops! Did I say Mrs. [saga.cast.ursula.clan]?"
-    mono "哎呀！我是说了[saga.cast.ursula.clan]夫人吗？"
+    mono "哎呀！我刚才是叫[saga.cast.ursula.clan]夫人了吗？"
 
 # game/src/plot/bar05.rpy:1031
 translate zh_hans bar05_art2_retry_04aecbc8:
@@ -2626,7 +2626,7 @@ translate zh_hans bar05_art2_retry_5c174893:
 translate zh_hans bar05_art2_retry_6bbd2562:
 
     # anon "I'm pretty sure Mrs. [saga.cast.ursula.clan] would have me murdered in my sleep if I said anything more."
-    anon "我很确定，要是我再多说一句，[saga.cast.ursula.clan]夫人会在我睡觉时杀了我。"
+    anon "我很确定，要是我再多说一句，[saga.cast.ursula.clan]夫人会在我熟睡时杀了我。"
 
 # game/src/plot/bar05.rpy:1202
 translate zh_hans bar05_art2_retry_5c3d4e4f:
@@ -2686,7 +2686,7 @@ translate zh_hans bar05_art2_retry_c5fa00ff:
 translate zh_hans bar05_art2_retry_1d0f626d:
 
     # barb "I think you just saved my job, [saga.cast.anon]!"
-    barb "我觉得你刚刚保住了我的工作，[saga.cast.anon]！"
+    barb "我想你刚刚保住了我的工作，[saga.cast.anon]！"
 
 # game/src/plot/bar05.rpy:1249
 translate zh_hans bar05_art2_retry_02cadf1f:
