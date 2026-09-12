@@ -1876,3621 +1876,3850 @@ translate zh_hans deb26_until_block_9b329c2a:
     # anon @ -m_talk "( I need to focus on this date and what I'm going to say to her. )"
     anon @ -m_talk "（我得专注于这次约会，想好要跟她说什么。）"
 
-# game/src/plot/deb26.rpy:627
+# game/src/plot/deb26.rpy:628
 translate zh_hans deb26_pause_debbie_d1571d8a:
 
 
     # anon "Are you excited for our date this evening?"
     anon "你期待今晚的约会吗？"
 
-# game/src/plot/deb26.rpy:629
+# game/src/plot/deb26.rpy:630
 translate zh_hans deb26_pause_debbie_175138bd:
 
 
     # anon "Are you excited for our date tomorrow?"
     anon "你期待明天的约会吗？"
 
-# game/src/plot/deb26.rpy:631
+# game/src/plot/deb26.rpy:632
 translate zh_hans deb26_pause_debbie_c95d1519:
 
 
     # anon "Are you excited for our date on [saga.time.dow + when]?"
     anon "你期待[saga.time.dow + when]的约会吗？"
 
-# game/src/plot/deb26.rpy:633
+# game/src/plot/deb26.rpy:634
 translate zh_hans deb26_pause_debbie_4003b5b6:
 
 
     # debbie f_shy "Y-yeah, I am."
     debbie f_shy "是、是的，我很期待。"
 
-# game/src/plot/deb26.rpy:635
+# game/src/plot/deb26.rpy:636
 translate zh_hans deb26_pause_debbie_3fc5c12a:
 
 
     # debbie f_happy "Very excited, actually."
     debbie f_happy "其实……特别期待。"
 
-# game/src/plot/deb26.rpy:636
+# game/src/plot/deb26.rpy:637
 translate zh_hans deb26_pause_debbie_cf10ab8c:
 
     # debbie "It's been a very long time since anyone's taken me out some place nice."
     debbie "已经很久没人带我出去好好约会了。"
 
-# game/src/plot/deb26.rpy:639
+# game/src/plot/deb26.rpy:642
+translate zh_hans deb26_pause_debbie_28f426da:
+
+    # anon "Well, you deserve it, [saga.cast.debbie]."
+    anon "你值得，[saga.cast.debbie]。"
+
+# game/src/plot/deb26.rpy:644
 translate zh_hans deb26_pause_debbie_62144e21:
 
 
     # anon "It makes me really happy to pamper you a bit."
     anon "我很高兴终于能宠你一次。"
 
-# game/src/plot/deb26.rpy:641
+# game/src/plot/deb26.rpy:646
 translate zh_hans deb26_pause_debbie_1d99971f:
 
 
     # debbie @ -m_talk "Mm."
     debbie @ -m_talk "嗯。"
 
-# game/src/plot/deb26.rpy:650
+# game/src/plot/deb26.rpy:655
 translate zh_hans deb26_delay_a12535ea:
 
 
     # anon @ -m_talk "( Oh, it's time to pick up [saga.cast.debbie] for our date. )"
     anon @ -m_talk "（哦，该去接[saga.cast.debbie]赴约了。）"
 
-# game/src/plot/deb26.rpy:653
+# game/src/plot/deb26.rpy:658
 translate zh_hans deb26_delay_0e896659:
 
 
     # anon f_happy @ -m_talk "( She's probably in her room getting ready. )"
     anon f_happy @ -m_talk "（她大概在房间里做准备吧。）"
 
-# game/src/plot/deb26.rpy:655
+# game/src/plot/deb26.rpy:660
 translate zh_hans deb26_delay_2f0a40ce:
 
     # anon f_happy @ -m_talk "( I'd best hurry home and find her. )"
     anon f_happy @ -m_talk "（最好赶紧回家找到她。）"
 
-# game/src/plot/deb26.rpy:665
-translate zh_hans deb26_delay_debbie_03fd7742:
-
-
-    # debbie f_shy "I really am, sweetie."
-    debbie f_shy "我真的很期待，亲爱的。"
-
-# game/src/plot/deb26.rpy:667
-translate zh_hans deb26_delay_debbie_747950a9:
-
-
-    # debbie f_curious "Especially because you've not told me where we're going..."
-    debbie f_curious "尤其是你到现在还不肯告诉我要去哪儿……"
-
-# game/src/plot/deb26.rpy:668
-translate zh_hans deb26_delay_debbie_aa5ce3c3:
-
-
-    # anon a_fold f_horny_smug @ -m_talk "..."
-    anon a_fold f_horny_smug @ -m_talk "……"
-
-# game/src/plot/deb26.rpy:671
-translate zh_hans deb26_delay_debbie_555d0619:
-
-
-    # debbie f_pensive "Fine, keep your secrets!"
-    debbie f_pensive "行吧，继续保密！"
-
-# game/src/plot/deb26.rpy:672
-translate zh_hans deb26_delay_debbie_b649708c:
-
-    # anon a_hips f_happy "Thank you, I will."
-    anon a_hips f_happy "谢谢，我会的。"
-
-# game/src/plot/deb26.rpy:696
-translate zh_hans deb26_delay_skip_fea6722b:
-
-
-    # anon @ -m_talk "( Eh, I'm sure [saga.cast.debbie] will want to get herself ready here sometime in the next few hours, before our date. )"
-    anon @ -m_talk "（[saga.cast.debbie]约会前肯定要花几个小时好好打扮。）"
-
-# game/src/plot/deb26.rpy:697
-translate zh_hans deb26_delay_skip_11fd5ca7:
-
-
-    # anon f_worried_surprised @ -m_talk "( Probably not the best look if I'm randomly milling around in here. )"
-    anon f_worried_surprised @ -m_talk "（我要是一直在这里晃悠，她肯定不方便。）"
-
-# game/src/plot/deb26.rpy:709
-translate zh_hans deb26_bed1_176ff3a7:
-
-
-    # anon "[saga.cast.debbie]?!"
-    anon "[saga.cast.debbie]？！"
-
-# game/src/plot/deb26.rpy:710
-translate zh_hans deb26_bed1_f3d35567:
-
-
-    # anon "You ready to go?"
-    anon "你准备好出发了吗？"
-
-# game/src/plot/deb26.rpy:712
-translate zh_hans deb26_bed1_b7516436:
-
-
-    # debbie "Just a second, sweetie!"
-    debbie "马上就好，亲爱的！"
-
-# game/src/plot/deb26.rpy:713
-translate zh_hans deb26_bed1_9d649393:
-
-
-    # anon "I hope you've brought your appetite, because the food at this place is supposed to be-."
-    anon "希望你留着肚子，因为那家店的菜听说特别——"
-
-# game/src/plot/deb26.rpy:727
-translate zh_hans deb26_bed1_8ed6e7e5:
-
-
-    # anon "... S-supposed to be-"
-    anon "……特、特别——"
-
-# game/src/plot/deb26.rpy:732
-translate zh_hans deb26_bed1_5f2abdca:
-
-    # anon "Hoo-ly!"
-    anon "我——的——天！"
-
-# game/src/plot/deb26.rpy:742
-translate zh_hans deb26_bed1_9f964ddc:
-
-
-    # anon e_w @ -m_talk "Hmm?"
-    anon e_w @ -m_talk "嗯？"
-
-# game/src/plot/deb26.rpy:743
-translate zh_hans deb26_bed1_53ef7733:
-
-
-    # anon "O-oh, nothing's the matter..."
-    anon "没、没什么……"
-
-# game/src/plot/deb26.rpy:744
-translate zh_hans deb26_bed1_8f85114c:
-
-
-    # anon a_palm e_wsw "... You're just..."
-    anon a_palm e_wsw "……你只是……"
-
-# game/src/plot/deb26.rpy:747
-translate zh_hans deb26_bed1_ed85be7b:
-
-    # anon a_side e_w f_shy "... You look incredible!"
-    anon a_side e_w f_shy "……你看起来美极了！"
-
-# game/src/plot/deb26.rpy:752
-translate zh_hans deb26_bed1_b1da4887:
-
-    # debbie a_out e_s "I can't remember the last time I wore heels anywhere."
-    debbie a_out e_s "我都不记得上次穿高跟鞋是什么时候了。"
-
-# game/src/plot/deb26.rpy:758
-translate zh_hans deb26_bed1_e00b2068:
-
-    # anon a_palm "Shall I assist you to your vehicle, madam?"
-    anon a_palm "夫人，需要我扶您上车吗？"
-
-# game/src/plot/deb26.rpy:766
-translate zh_hans deb26_bed1_741d5a29:
-
-
-    # debbie "Such a gentleman."
-    debbie "真有绅士风度。"
-
-# game/src/plot/deb26.rpy:770
-translate zh_hans deb26_bed1_b9d63618:
-
-
-    # anon "That's right."
-    anon "那当然。"
-
-# game/src/plot/deb26.rpy:774
-translate zh_hans deb26_bed1_244739f4:
-
-
-    # mono ""
-    mono ""
-
-# game/src/plot/deb26.rpy:784
-translate zh_hans deb26_bed1_92cde044:
-
-
-    # debbie a_wheel_down oa_fingers p_car_turn z_b_ob_f_of_a "So, you gonna tell me where you're taking me now?"
-    debbie a_wheel_down oa_fingers p_car_turn z_b_ob_f_of_a "所以，现在总能告诉我你要带我去哪儿了吧？"
-
-# game/src/plot/deb26.rpy:785
-translate zh_hans deb26_bed1_64216387:
-
-
-    # anon @ e_nw f_pensive -m_talk "Mmm..."
-    anon @ e_nw f_pensive -m_talk "嗯……"
-
-# game/src/plot/deb26.rpy:786
-translate zh_hans deb26_bed1_b91c08f2:
-
-
-    # anon "... Not yet."
-    anon "……还不行。"
-
-# game/src/plot/deb26.rpy:787
-translate zh_hans deb26_bed1_62ef6ce2:
-
-
-    # debbie f_confused "How am I supposed to drive there if I don't know where we're going?"
-    debbie f_confused "我连要去哪儿都不知道，怎么开车？"
-
-# game/src/plot/deb26.rpy:788
-translate zh_hans deb26_bed1_3acf275e:
-
-
-    # anon "It's at the mall."
-    anon "在商场里。"
-
-# game/src/plot/deb26.rpy:789
-translate zh_hans deb26_bed1_e6f1c157:
-
-    # anon "That's enough for now."
-    anon "目前只能告诉你这么多。"
-
-# game/src/plot/deb26.rpy:801
-translate zh_hans deb26_bed1_ddd793a8:
-
-
-    # debbie @ e_b m_laugh "Hehehe!"
-    debbie @ e_b m_laugh "嘿嘿嘿！"
-
-# game/src/plot/deb26.rpy:802
-translate zh_hans deb26_bed1_24f43891:
-
-
-    # debbie f_shy "Aww, no... I think it's charming!"
-    debbie f_shy "哎呀，不会……我觉得这很有情调！"
-
-# game/src/plot/deb26.rpy:804
-translate zh_hans deb26_bed1_a07566b5:
-
-
-    # anon "Charming?!"
-    anon "有情调？！"
-
-# game/src/plot/deb26.rpy:805
-translate zh_hans deb26_bed1_cb1a1269:
-
-    # debbie "Yeah, it makes things feel rustic and wholesome."
-    debbie "是啊，显得质朴又温馨。"
-
-# game/src/plot/deb26.rpy:809
-translate zh_hans deb26_bed1_c9bd4359:
-
-    # anon f_happy "Yeah."
-    anon f_happy "嗯。"
-
-# game/src/plot/deb26.rpy:815
-translate zh_hans deb26_bed1_3bf4f6c1:
-
-    # anon f_sceptical "But then... how do they-"
-    anon f_sceptical "但是……那他们怎么——"
-
-# game/src/plot/deb26.rpy:826
-translate zh_hans deb26_bed1_d35328a5:
-
-    # anon "We'll have to do this more often then."
-    anon "那我们以后可得多约会几次。"
-
-# game/src/plot/deb26.rpy:828
-translate zh_hans deb26_bed1_f8e4499b:
-
-    # anon "Definitely."
-    anon "当然。"
-
-# game/src/plot/deb26.rpy:836
-translate zh_hans deb26_bed1_58e61edf:
-
-    # debbie "Just, don't let go of my hand please..."
-    debbie "千万别松开我的手，好吗……"
-
-# game/src/plot/deb26.rpy:844
-translate zh_hans deb26_bed1_rails_0f0c9bdc:
-
-
-    # anon @ -m_talk "( [saga.cast.debbie] will be waiting for me. )"
-    anon @ -m_talk "（[saga.cast.debbie]还在等我。）"
-
-# game/src/plot/deb26.rpy:847
-translate zh_hans deb26_bed1_rails_88f658cd:
-
-
-    # anon f_horny @ -m_talk "( In her room, wearing that amazing dress- )"
-    anon f_horny @ -m_talk "（她正在房间里，穿着那条迷人的裙子——）"
-
-# game/src/plot/deb26.rpy:848
-translate zh_hans deb26_bed1_rails_0a2e7dc0:
-
-
-    # anon a_fists f_surprised m_teeth @ -m_talk "( Focus, [saga.cast.anon]! )" with hpunch
-    anon a_fists f_surprised m_teeth @ -m_talk "（专注点，[saga.cast.anon]！）" with hpunch
-
-# game/src/plot/deb26.rpy:851
-translate zh_hans deb26_bed1_rails_264693ab:
-
-
-    # anon f_surprised m_teeth @ -m_talk "( I need to get home, can't afford to be late tonight! )"
-    anon f_surprised m_teeth @ -m_talk "（我得赶紧回家，今晚绝不能迟到！）"
-
-# game/src/plot/deb26.rpy:865
-translate zh_hans deb26_shop_8617b057:
-
-
-    # hana "Welcome!" (show_lang="Irasshaimase!")
-    hana "欢迎！" (show_lang="Irasshaimase!")
-
-# game/src/plot/deb26.rpy:866
-translate zh_hans deb26_shop_82309b92:
-
-
-    # anon "Hello."
-    anon "你好。"
-
-# game/src/plot/deb26.rpy:868
-translate zh_hans deb26_shop_7e8ce870:
-
-
-    # hana "Table for two?"
-    hana "两人桌吗？"
-
-# game/src/plot/deb26.rpy:869
-translate zh_hans deb26_shop_3788a902:
-
-
-    # anon "Yes, please."
-    anon "好的，谢谢。"
-
-# game/src/plot/deb26.rpy:870
-translate zh_hans deb26_shop_b2d1c497:
-
-    # hana "Oh, very good."
-    hana "哦，非常好。"
-
-# game/src/plot/deb26.rpy:881
-translate zh_hans deb26_shop_03c6aa65:
-
-    # anon "After you, beautiful."
-    anon "你先请，美女。"
-
-# game/src/plot/deb26.rpy:889
-translate zh_hans deb26_shop_db87e8f7:
-
-    # anon e_w @ -m_talk "( Man, she is {i}wearing{/i} that dress! )"
-    anon e_w @ -m_talk "（天啊，她把这条裙子{i}穿得{/i}也太迷人了！）"
-
-# game/src/plot/deb26.rpy:913
-translate zh_hans deb26_shop_5ce705cf:
-
-
-    # anon "Here you are."
-    anon "请坐。"
-
-# game/src/plot/deb26.rpy:924
-translate zh_hans deb26_shop_c07bb4af:
-
-
-    # debbie "Thank you, sweetie."
-    debbie "谢谢你，亲爱的。"
-
-# game/src/plot/deb26.rpy:926
-translate zh_hans deb26_shop_38401e37:
-
-
-    # anon "My pleasure."
-    anon "别客气。"
-
-# game/src/plot/deb26.rpy:927
-translate zh_hans deb26_shop_b4977f07:
-
-
-    # hana "Aww, what a gentleman."
-    hana "啊，真是一位绅士。"
-
-# game/src/plot/deb26.rpy:930
-translate zh_hans deb26_shop_98a7a008:
-
-
-    # debbie @ e_wnw f_happy "Isn't he?"
-    debbie @ e_wnw f_happy "可不是嘛？"
-
-# game/src/plot/deb26.rpy:932
-translate zh_hans deb26_shop_c78f8795:
-
-    # debbie "I'm so proud of him!"
-    debbie "我真为他感到骄傲！"
-
-# game/src/plot/deb26.rpy:965
-translate zh_hans deb26_shop_71688ff3:
-
-
-    # anon p_sit_look_in z_b_a "Whoa, look at this fish tank!"
-    anon p_sit_look_in z_b_a "哇，看看这个鱼缸！"
-
-# game/src/plot/deb26.rpy:967
-translate zh_hans deb26_shop_a32763b0:
-
-
-    # anon a_touch_glass oa_none z_b "It's huge!"
-    anon a_touch_glass oa_none z_b "好大啊！"
-
-# game/src/plot/deb26.rpy:970
-translate zh_hans deb26_shop_c2bdf7c8:
-
-    # debbie "Yeah, and so pretty."
-    debbie "是啊，而且好漂亮。"
-
-# game/src/plot/deb26.rpy:973
-translate zh_hans deb26_shop_f9c968ae:
-
-
-    # hana f_calm "No, of course not."
-    hana f_calm "不，当然不是。"
-
-# game/src/plot/deb26.rpy:976
-translate zh_hans deb26_shop_8f8c1140:
-
-    # hana "Those are purely decorative."
-    hana "那些纯粹是装饰性的。"
-
-# game/src/plot/deb26.rpy:984
-translate zh_hans deb26_shop_63d7e87a:
-
-
-    # debbie f_calm p_sit z_b_f_of "Oh, yes, please."
-    debbie f_calm p_sit z_b_f_of "哦，好的，请吧。"
-
-# game/src/plot/deb26.rpy:985
-translate zh_hans deb26_shop_53367b6f:
-
-
-    # hana f_calm "Very good ma'am."
-    hana f_calm "好的，女士。"
-
-# game/src/plot/deb26.rpy:986
-translate zh_hans deb26_shop_11a68583:
-
-
-    # hana "Your waitress will bring it right over."
-    hana "服务员马上送过来。"
-
-# game/src/plot/deb26.rpy:987
-translate zh_hans deb26_shop_79d2c32e:
-
-    # hana "Thank you for dining with us tonight at..."
-    hana "感谢两位今晚光临……"
-
-# game/src/plot/deb26.rpy:1000
-translate zh_hans deb26_shop_5e236178:
-
-    # debbie "Oh, umm..."
-    debbie "哦，嗯……"
-
-# game/src/plot/deb26.rpy:1014
-translate zh_hans deb26_shop_0854d2de:
-
-    # anon e_w f_happy "That was weird."
-    anon e_w f_happy "那真奇怪。"
-
-# game/src/plot/deb26.rpy:1018
-translate zh_hans deb26_shop_b0a09323:
-
-
-    # anon e_w f_happy m_idle "Heh, she does that."
-    anon e_w f_happy m_idle "嘿，她总是那样。"
-
-# game/src/plot/deb26.rpy:1021
-translate zh_hans deb26_shop_c2382a58:
-
-
-    # debbie f_curious "Any idea what that phrase means?"
-    debbie f_curious "知道那个词的意思吗？"
-
-# game/src/plot/deb26.rpy:1022
-translate zh_hans deb26_shop_bf8f5eaa:
-
-
-    # anon "I think it's just the restaurant name."
-    anon "我想那就是餐馆的名字。"
-
-# game/src/plot/deb26.rpy:1023
-translate zh_hans deb26_shop_1d78c901:
-
-    # debbie "Oh."
-    debbie "哦。"
-
-# game/src/plot/deb26.rpy:1027
-translate zh_hans deb26_shop_f85ded17:
-
-    # debbie f_confused "What?"
-    debbie f_confused "什么？"
-
-# game/src/plot/deb26.rpy:1031
-translate zh_hans deb26_shop_140fe0c5:
-
-
-    # anon f_horny "I just can't get over how amazing you look in that dress."
-    anon f_horny "我就是看不够你穿那条连衣裙的样子。"
-
-# game/src/plot/deb26.rpy:1032
-translate zh_hans deb26_shop_7b33a54b:
-
-    # debbie f_happy "Aww, sweetie."
-    debbie f_happy "哎呀，亲爱的。"
-
-# game/src/plot/deb26.rpy:1034
-translate zh_hans deb26_shop_3cd7619c:
-
-    # anon f_worried "You're not having a good time?"
-    anon f_worried "你玩得不开心吗？"
-
-# game/src/plot/deb26.rpy:1042
-translate zh_hans deb26_shop_8c8f5fbe:
-
-
-    # anon a_uneasy e_sse oa_none z_reset "I'm not even sure that I {i}want{/i} to go to college next semester."
-    anon a_uneasy e_sse oa_none z_reset "我甚至还没想好下学期到底{i}要不要{/i}上大学。"
-
-# game/src/plot/deb26.rpy:1043
-translate zh_hans deb26_shop_63ccfed8:
-
-    # debbie f_confused "What do you mean?"
-    debbie f_confused "你什么意思？"
-
-# game/src/plot/deb26.rpy:1047
-translate zh_hans deb26_shop_81bc382c:
-
-    # anon "And college degrees aren't worth anywhere near as much as they used to be."
-    anon "而且大学学位的价值远不如从前了。"
-
-# game/src/plot/deb26.rpy:1051
-translate zh_hans deb26_shop_1cee7a41:
-
-    # debbie @ -m_talk "..."
-    debbie @ -m_talk "……"
-
-# game/src/plot/deb26.rpy:1055
-translate zh_hans deb26_shop_dcfc0595:
-
-    # debbie a_reach f_shy "Aww, sweetie."
-    debbie a_reach f_shy "噢，亲爱的。"
-
-# game/src/plot/deb26.rpy:1067
-translate zh_hans deb26_shop_dca6e2ff:
-
-
-    # titomi "I'm [saga.cast.titomi] and I'll be your server tonight."
-    titomi "我是[saga.cast.titomi]，今晚由我为两位服务。"
-
-# game/src/plot/deb26.rpy:1076
-translate zh_hans deb26_shop_6db5d284:
-
-
-    # titomi "I've got some sencha for you, but be careful, it's piping hot."
-    titomi "我给您准备了煎茶，小心烫。"
-
-# game/src/plot/deb26.rpy:1079
-translate zh_hans deb26_shop_33e5d672:
-
-
-    # debbie "Mm, it smells wonderful!"
-    debbie "嗯，闻起来真香！"
-
-# game/src/plot/deb26.rpy:1082
-translate zh_hans deb26_shop_2409fbfc:
-
-
-    # titomi a_notepad f_curious "Have you decided what you want for your meal or do you need more time?"
-    titomi a_notepad f_curious "您决定好要点什么了吗，还是需要再考虑一下？"
-
-# game/src/plot/deb26.rpy:1084
-translate zh_hans deb26_shop_ce8371ba:
-
-    # debbie e_w f_shy "Oh, umm..."
-    debbie e_w f_shy "哦，嗯……"
-
-# game/src/plot/deb26.rpy:1110
-translate zh_hans deb26_shop_d04598a5:
-
-
-    # anon "This nyotaimori thing sounds neat."
-    anon "这个女体盛听起来不错。"
-
-# game/src/plot/deb26.rpy:1113
-translate zh_hans deb26_shop_2b455bb5:
-
-
-    # anon e_w f_curious "You interested in some sushi, [saga.cast.debbie]?"
-    anon e_w f_curious "想尝尝寿司吗，[saga.cast.debbie]？"
-
-# game/src/plot/deb26.rpy:1115
-translate zh_hans deb26_shop_da90bade:
-
-    # debbie f_happy "Mm, yeah!"
-    debbie f_happy "嗯，好！"
-
-# game/src/plot/deb26.rpy:1120
-translate zh_hans deb26_shop_07eb2680:
-
-    # anon e_ne "We'll take two, please."
-    anon e_ne "我们要两份，谢谢。"
-
-# game/src/plot/deb26.rpy:1124
-translate zh_hans deb26_shop_88a203c3:
-
-
-    # anon "Oh, perfect!"
-    anon "哦，太棒了！"
-
-# game/src/plot/deb26.rpy:1127
-translate zh_hans deb26_shop_c22ba0cd:
-
-    # anon e_ne "We'll take the nyotaimori, please."
-    anon e_ne "我们要女体盛，谢谢。"
-
-# game/src/plot/deb26.rpy:1147
-translate zh_hans deb26_shop_6ea3f01f:
-
-    # anon e_ne f_happy "I would like the [what!t]."
-    anon e_ne f_happy "我想要[what!t]。"
-
-# game/src/plot/deb26.rpy:1155
-translate zh_hans deb26_shop_f809a122:
-
-
-    # titomi a_notepad e_wsw f_curious "And you, ma'am?"
-    titomi a_notepad e_wsw f_curious "您呢，女士？"
-
-# game/src/plot/deb26.rpy:1156
-translate zh_hans deb26_shop_e124907a:
-
-
-    # debbie e_wnw f_calm "The same, please."
-    debbie e_wnw f_calm "请也给我来一份。"
-
-# game/src/plot/deb26.rpy:1160
-translate zh_hans deb26_shop_d6c33010:
-
-    # titomi a_notepad "Two orders of [what!t]."
-    titomi a_notepad "两份[what!t]。"
-
-# game/src/plot/deb26.rpy:1172
-translate zh_hans deb26_shop_454f7f38:
-
-
-    # titomi @ -m_talk "Mhm."
-    titomi @ -m_talk "嗯。"
-
-# game/src/plot/deb26.rpy:1178
-translate zh_hans deb26_shop_1bd2d4f9:
-
-    # anon e_w f_shy "Why don't you pick something?"
-    anon e_w f_shy "你怎么不选点什么？"
-
-# game/src/plot/deb26.rpy:1184
-translate zh_hans deb26_shop_3a468ed1:
-
-
-    # anon "Yeah, I've never really had Japanese before and I trust you to pick something yummy."
-    anon "嗯，我以前没怎么吃过日本菜，相信你一定能挑到好吃的。"
-
-# game/src/plot/deb26.rpy:1186
-translate zh_hans deb26_shop_b3b56dae:
-
-
-    # anon "Yeah, I'm interested to see what you make of the menu and I trust you to pick something yummy."
-    anon "嗯，我也想看看你会怎么选，相信你一定能挑到好吃的。"
-
-# game/src/plot/deb26.rpy:1188
-translate zh_hans deb26_shop_ecb992f3:
-
-
-    # debbie f_shy "Alright."
-    debbie f_shy "好的。"
-
-# game/src/plot/deb26.rpy:1191
-translate zh_hans deb26_shop_bafd7a16:
-
-    # debbie a_menu_sushi e_sw z_b_f_of "Let's see here."
-    debbie a_menu_sushi e_sw z_b_f_of "让我看看。"
-
-# game/src/plot/deb26.rpy:1197
-translate zh_hans deb26_shop_59f71a5a:
-
-
-    # titomi f_confused "Sushi?"
-    titomi f_confused "寿司？"
-
-# game/src/plot/deb26.rpy:1198
-translate zh_hans deb26_shop_4b10c3ac:
-
-
-    # debbie "Do you have it?"
-    debbie "有吗？"
-
-# game/src/plot/deb26.rpy:1205
-translate zh_hans deb26_shop_0cba4643:
-
-
-    # titomi a_notepad_front e_se f_shy "Ehh, we do..."
-    titomi a_notepad_front e_se f_shy "嗯，有的……"
-
-# game/src/plot/deb26.rpy:1207
-translate zh_hans deb26_shop_0713be0e:
-
-
-    # titomi e_wsw "... It's the nyotaimori dish."
-    titomi e_wsw "……是女体盛那道菜。"
-
-# game/src/plot/deb26.rpy:1211
-translate zh_hans deb26_shop_368533f7:
-
-
-    # debbie f_surprised "Oh, it's so expensive!"
-    debbie f_surprised "哦，太贵了！"
-
-# game/src/plot/deb26.rpy:1212
-translate zh_hans deb26_shop_e42fe5c2:
-
-    # titomi f_worried "Yeah, sorry... it's a platter for multiple people and the presentation is very elabor-"
-    titomi f_worried "嗯，抱歉……这是多人份的拼盘，而且摆盘非常精致——"
-
-# game/src/plot/deb26.rpy:1216
-translate zh_hans deb26_shop_4942cf4e:
-
-    # debbie e_w @ -m_talk "Hmm?!"
-    debbie e_w @ -m_talk "嗯？！"
-
-# game/src/plot/deb26.rpy:1220
-translate zh_hans deb26_shop_5242d979:
-
-
-    # debbie f_sad "Sweetie, are you sure?"
-    debbie f_sad "亲爱的，你确定吗？"
-
-# game/src/plot/deb26.rpy:1221
-translate zh_hans deb26_shop_6bf44e03:
-
-    # anon f_smug "I am."
-    anon f_smug "我就是。"
-
-# game/src/plot/deb26.rpy:1228
-translate zh_hans deb26_shop_364b24d4:
-
-
-    # titomi f_confused "Nyotaimori?"
-    titomi f_confused "女体盛？"
-
-# game/src/plot/deb26.rpy:1229
-translate zh_hans deb26_shop_3788a902_1:
-
-
-    # anon "Yes, please."
-    anon "是的，麻烦您。"
-
-# game/src/plot/deb26.rpy:1232
-translate zh_hans deb26_shop_1a25fb68:
-
-    # anon "We'll have the nyotaimori, please."
-    anon "请给我们来一份女体盛。"
-
-# game/src/plot/deb26.rpy:1251
-translate zh_hans deb26_shop_fd58d49c:
-
-
-    # titomi "... I'll just, umm... go prepare then."
-    titomi "……那我就，呃……先去准备了。"
-
-# game/src/plot/deb26.rpy:1252
-translate zh_hans deb26_shop_1357fab5:
-
-
-    # anon "Thank you."
-    anon "谢谢你。"
-
-# game/src/plot/deb26.rpy:1253
-translate zh_hans deb26_shop_1d84b369:
-
-
-    # titomi @ -m_talk "Mhmm."
-    titomi @ -m_talk "嗯哼。"
-
-# game/src/plot/deb26.rpy:1261
-translate zh_hans deb26_shop_e0c69098:
-
-
-    # debbie f_calm "Gosh, the workers here are so attractive."
-    debbie f_calm "天啊，这里的服务员都好漂亮。"
-
-# game/src/plot/deb26.rpy:1263
-translate zh_hans deb26_shop_2f513565:
-
-
-    # anon a_table f_horny oa_hand z_b_f_of_a "Mm, they're nothing compared to you."
-    anon a_table f_horny oa_hand z_b_f_of_a "嗯，他们和你没法比。"
-
-# game/src/plot/deb26.rpy:1267
-translate zh_hans deb26_shop_8aeb02bf:
-
-
-    # debbie a_embarrassed f_happy z_b_f_of "Heh, such a charmer."
-    debbie a_embarrassed f_happy z_b_f_of "呵，真会说话。"
-
-# game/src/plot/deb26.rpy:1268
-translate zh_hans deb26_shop_6ef0add5:
-
-    # debbie f_calm "You might feel differently in twenty years when I'm all grey and wrinkly."
-    debbie f_calm "再过二十年，等我满头白发、满脸皱纹，你说不定就不这么想了。"
-
-# game/src/plot/deb26.rpy:1271
-translate zh_hans deb26_shop_7c3d9e67:
-
-
-    # anon f_shy "I love you for more than your looks, [saga.cast.debbie]."
-    anon f_shy "我爱你又不只是因为你的外表，[saga.cast.debbie]。"
-
-# game/src/plot/deb26.rpy:1274
-translate zh_hans deb26_shop_0688ca09:
-
-    # anon a_table_left "You're my favorite person in the entire world and nothing is ever going to change that."
-    anon a_table_left "你是我在这世上最在乎的人，什么都改变不了这一点。"
-
-# game/src/plot/deb26.rpy:1283
-translate zh_hans deb26_shop_2328a377:
-
-
-    # debbie f_shy "I wish it was that simple."
-    debbie f_shy "我希望事情能这么简单。"
-
-# game/src/plot/deb26.rpy:1284
-translate zh_hans deb26_shop_d9d26ddf:
-
-
-    # anon "It is."
-    anon "事情本来就这么简单。"
-
-# game/src/plot/deb26.rpy:1285
-translate zh_hans deb26_shop_b715a7a1:
-
-
-    # anon "I promise you, I'm going to spend the rest of my life taking care of you and making you happy."
-    anon "我保证，这辈子都会照顾你、让你幸福。"
-
-# game/src/plot/deb26.rpy:1286
-translate zh_hans deb26_shop_e6df6e2d:
-
-    # debbie f_sad "Tsk."
-    debbie f_sad "啧。"
-
-# game/src/plot/deb26.rpy:1288
-translate zh_hans deb26_shop_d656e3b1:
-
-    # debbie "Someone you can start a family with."
-    debbie "你该找一个能和你组建家庭的人。"
-
-# game/src/plot/deb26.rpy:1296
-translate zh_hans deb26_shop_34835df0:
-
-
-    # anon "... But that's not going to change how I feel about you."
-    anon "……可这也不会改变我对你的感情。"
-
-# game/src/plot/deb26.rpy:1298
-translate zh_hans deb26_shop_8d5c92ac:
-
-    # anon "You'll always be number one in my heart."
-    anon "你在我心里永远排第一。"
-
-# game/src/plot/deb26.rpy:1301
-translate zh_hans deb26_shop_01719823:
-
-    # anon "Nonsense!"
-    anon "胡说八道！"
-
-# game/src/plot/deb26.rpy:1303
-translate zh_hans deb26_shop_187f4ae4:
-
-    # anon "And if she doesn't, well... she can just find herself a different husband!"
-    anon "她要是接受不了，那就让她另找丈夫！"
-
-# game/src/plot/deb26.rpy:1307
-translate zh_hans deb26_shop_3371d294:
-
-    # anon "I want to be with you... forever and always."
-    anon "我想永远、永远和你在一起。"
-
-# game/src/plot/deb26.rpy:1312
-translate zh_hans deb26_shop_d2ed13c2:
-
-    # anon f_happy "Oh, I am!"
-    anon f_happy "我是认真的！"
-
-# game/src/plot/deb26.rpy:1334
-translate zh_hans deb26_shop_95b6be15:
-
-
-    # anon "I love you, [saga.cast.debbie]."
-    anon "我爱你，[saga.cast.debbie]。"
-
-# game/src/plot/deb26.rpy:1335
-translate zh_hans deb26_shop_99a4baff:
-
-
-    # debbie "I love you too, sweetie."
-    debbie "我也爱你，亲爱的。"
-
-# game/src/plot/deb26.rpy:1342
-translate zh_hans deb26_shop_46f4ddd3:
-
-
-    # debbie @ a_cup_sip e_b m_kiss "{i}*Slurp*{/i}"
-    debbie @ a_cup_sip e_b m_kiss "{i}*吸溜*{/i}"
-
-# game/src/plot/deb26.rpy:1343
-translate zh_hans deb26_shop_6b84f279:
-
-
-    # debbie f_happy "Oh, wow."
-    debbie f_happy "哦，哇。"
-
-# game/src/plot/deb26.rpy:1346
-translate zh_hans deb26_shop_0deb1947:
-
-
-    # debbie a_table e_w f_calm oa_hand "That's so yummy!"
-    debbie a_table e_w f_calm oa_hand "太好吃了！"
-
-# game/src/plot/deb26.rpy:1347
-translate zh_hans deb26_shop_c8481ccd:
-
-    # anon "Yeah?"
-    anon "嗯？"
-
-# game/src/plot/deb26.rpy:1385
-translate zh_hans deb26_shop_a6142fe8:
-
-
-    # titomi "Two orders of [what!t]."
-    titomi "两份[what!t]。"
-
-# game/src/plot/deb26.rpy:1389
-translate zh_hans deb26_shop_9fa04181:
-
-
-    # anon "Dang, that's a heaping helping!"
-    anon "天啊，这分量也太足了吧！"
-
-# game/src/plot/deb26.rpy:1391
-translate zh_hans deb26_shop_0f362cba:
-
-
-    # debbie e_w "Heh, you might have to carry me to the car after a meal like this."
-    debbie e_w "嘿，吃完这顿我估计得让你扶我上车了。"
-
-# game/src/plot/deb26.rpy:1393
-translate zh_hans deb26_shop_1a7fcac0:
-
-
-    # anon e_w "Yeah, tell me about it."
-    anon e_w "可不是嘛。"
-
-# game/src/plot/deb26.rpy:1396
-translate zh_hans deb26_shop_efcfd0d6:
-
-    # anon "Oh, can you smell that aroma?"
-    anon "哦，你闻到那香味了吗？"
-
-# game/src/plot/deb26.rpy:1402
-translate zh_hans deb26_shop_7d98dede:
-
-
-    # debbie @ -m_talk "Mhmm."
-    debbie @ -m_talk "嗯哼。"
-
-# game/src/plot/deb26.rpy:1405
-translate zh_hans deb26_shop_ade479c1:
-
-    # anon "Oh, man... that looks crispy!"
-    anon "哦，天哪……看起来好脆！"
-
-# game/src/plot/deb26.rpy:1412
-translate zh_hans deb26_shop_ea7d5eea:
-
-    # titomi f_happy @ e_b -m_talk "{i}*Snort*{/i}"
-    titomi f_happy @ e_b -m_talk "{i}*哼*{/i}"
-
-# game/src/plot/deb26.rpy:1418
-translate zh_hans deb26_shop_972c9b6f:
-
-
-    # anon e_s f_pensive "Whatever."
-    anon e_s f_pensive "随便啦。"
-
-# game/src/plot/deb26.rpy:1423
-translate zh_hans deb26_shop_71578189:
-
-    # anon "Wow, look at the marbling on that!"
-    anon "哇，看看那上面的油花！"
-
-# game/src/plot/deb26.rpy:1426
-translate zh_hans deb26_shop_01a6df8a:
-
-
-    # debbie "Cooked perfectly too."
-    debbie "火候也恰到好处。"
-
-# game/src/plot/deb26.rpy:1430
-translate zh_hans deb26_shop_9a30cffe:
-
-    # titomi a_wave e_wsw "Enjoy!"
-    titomi a_wave e_wsw "请享用！"
-
-# game/src/plot/deb26.rpy:1463
-translate zh_hans deb26_shop_ad3495fd:
-
-
-    # anon a_sticks oa_none v_chew -m_bite @ -m_talk "Nom."
-    anon a_sticks oa_none v_chew -m_bite @ -m_talk "嚼嚼。"
-
-# game/src/plot/deb26.rpy:1465
-translate zh_hans deb26_shop_deeb15ab:
-
-
-    # anon e_w f_worried @ -m_talk "Hmm?"
-    anon e_w f_worried @ -m_talk "嗯？"
-
-# game/src/plot/deb26.rpy:1466
-translate zh_hans deb26_shop_81f066ce:
-
-    # debbie "Hehe, never mind!"
-    debbie "呵呵，不用在意！"
-
-# game/src/plot/deb26.rpy:1482
-translate zh_hans deb26_shop_merge1_32729989:
-
-
-    # debbie "Goodness, I couldn't eat another bite."
-    debbie "天哪，我一口也吃不下了。"
-
-# game/src/plot/deb26.rpy:1483
-translate zh_hans deb26_shop_merge1_efe9e186:
-
-
-    # anon "Yeah, I-"
-    anon "嗯，我——"
-
-# game/src/plot/deb26.rpy:1485
-translate zh_hans deb26_shop_merge1_7610251d:
-
-
-    # anon f_surprised @ m_bark "{i}*Burp*{/i}"
-    anon f_surprised @ m_bark "{i}*嗝*{/i}"
-
-# game/src/plot/deb26.rpy:1491
-translate zh_hans deb26_shop_merge1_4d22982a:
-
-
-    # anon "I'm glad I switched my order."
-    anon "还好我换了道菜。"
-
-# game/src/plot/deb26.rpy:1493
-translate zh_hans deb26_shop_merge1_23e9dcda:
-
-
-    # anon "I know what you mean."
-    anon "我懂你的意思。"
-
-# game/src/plot/deb26.rpy:1498
-translate zh_hans deb26_shop_merge1_d22f9749:
-
-    # debbie f_calm "Thank you for the meal, sweetie."
-    debbie f_calm "谢谢款待，亲爱的。"
-
-# game/src/plot/deb26.rpy:1500
-translate zh_hans deb26_shop_merge1_20a756be:
-
-
-    # anon "I'm not used to walking around with the prettiest girl in town on my arm."
-    anon "挽着镇上最漂亮的女人走在路上，我还有点不习惯。"
-
-# game/src/plot/deb26.rpy:1501
-translate zh_hans deb26_shop_merge1_91ce7bb1:
-
-
-    # debbie f_happy "Aww, stop exaggerating!"
-    debbie f_happy "哎呀，别夸张了！"
-
-# game/src/plot/deb26.rpy:1503
-translate zh_hans deb26_shop_merge1_981e8ed5:
-
-    # anon oa_hand of_none p_sit z_b_f_of_a "Seriously, [saga.cast.debbie]... You are-"
-    anon oa_hand of_none p_sit z_b_f_of_a "说真的，[saga.cast.debbie]……你真的——"
-
-# game/src/plot/deb26.rpy:1515
-translate zh_hans deb26_shop_merge1_d4246e9e:
-
-
-    # anon "Oh, good. You're wearing clothes again."
-    anon "哦，好。你又穿上衣服了。"
-
-# game/src/plot/deb26.rpy:1517
-translate zh_hans deb26_shop_merge1_21ea6f09:
-
-
-    # titomi f_sceptical "Tsk."
-    titomi f_sceptical "啧。"
-
-# game/src/plot/deb26.rpy:1520
-translate zh_hans deb26_shop_merge1_726e330e:
-
-    # titomi e_wsw f_curious "More tea?"
-    titomi e_wsw f_curious "再来点茶？"
-
-# game/src/plot/deb26.rpy:1523
-translate zh_hans deb26_shop_merge1_0107979e:
-
-
-    # anon e_ne "We're ready for the bill, please."
-    anon e_ne "我们准备买单了。"
-
-# game/src/plot/deb26.rpy:1524
-translate zh_hans deb26_shop_merge1_ff49ca63:
-
-
-    # titomi f_curious "Cash or charge?"
-    titomi f_curious "现金还是刷卡？"
-
-# game/src/plot/deb26.rpy:1525
-translate zh_hans deb26_shop_merge1_aac725fd:
-
-    # anon "Charge."
-    anon "刷卡。"
-
-# game/src/plot/deb26.rpy:1533
-translate zh_hans deb26_shop_merge1_1357fab5:
-
-
-    # anon "Thank you."
-    anon "谢谢。"
-
-# game/src/plot/deb26.rpy:1535
-translate zh_hans deb26_shop_merge1_20385215:
-
-
-    # debbie "I'm glad I don't have her job."
-    debbie "还好我没干她那行。"
-
-# game/src/plot/deb26.rpy:1536
-translate zh_hans deb26_shop_merge1_929da832:
-
-
-    # anon e_w f_curious "Why not?"
-    anon e_w f_curious "为什么不呢？"
-
-# game/src/plot/deb26.rpy:1539
-translate zh_hans deb26_shop_merge1_b820275b:
-
-
-    # anon f_happy "We'd be rich."
-    anon f_happy "我们会发财的。"
-
-# game/src/plot/deb26.rpy:1540
-translate zh_hans deb26_shop_merge1_2df2fd0c:
-
-    # debbie f_pensive "Psh!"
-    debbie f_pensive "噗！"
-
-# game/src/plot/deb26.rpy:1556
-translate zh_hans deb26_shop_merge1_9e38964f:
-
-    # titomi "Here you are, sir."
-    titomi "给您，先生。"
-
-# game/src/plot/deb26.rpy:1564
-translate zh_hans deb26_shop_merge1_b8a7705e:
-
-    # "*Beep*"
-    "*滴*"
-
-# game/src/plot/deb26.rpy:1571
-translate zh_hans deb26_shop_merge1_5574fa07:
-
-
-    # debbie "You too."
-    debbie "您也是。"
-
-# game/src/plot/deb26.rpy:1573
-translate zh_hans deb26_shop_merge1_00c1f6ba:
-
-
-    # anon a_table e_w oa_hand z_b_f_of_a "You ready to-"
-    anon a_table e_w oa_hand z_b_f_of_a "你准备好——"
-
-# game/src/plot/deb26.rpy:1578
-translate zh_hans deb26_shop_merge1_1754c6f0:
-
-    # titomi "Oh, right."
-    titomi "哦，对。"
-
-# game/src/plot/deb26.rpy:1582
-translate zh_hans deb26_shop_merge1_c19e9274:
-
-
-    # titomi p_ara "Ara Ara."
-    titomi p_ara "啊啦啊啦。"
-
-# game/src/plot/deb26.rpy:1583
-translate zh_hans deb26_shop_merge1_eb780b0f:
-
-    # anon @ -m_talk "..."
-    anon @ -m_talk "……"
-
-# game/src/plot/deb26.rpy:1591
-translate zh_hans deb26_shop_merge1_9c5eb495:
-
-
-    # anon e_w f_shy_surprised "That was weird."
-    anon e_w f_shy_surprised "真奇怪。"
-
-# game/src/plot/deb26.rpy:1592
-translate zh_hans deb26_shop_merge1_6e05964f:
-
-
-    # debbie f_shy "Yeah."
-    debbie f_shy "是啊。"
-
-# game/src/plot/deb26.rpy:1593
-translate zh_hans deb26_shop_merge1_bceeb639:
-
-    # anon f_curious "You ready to get out of here?"
-    anon f_curious "准备回去了吗？"
-
-# game/src/plot/deb26.rpy:1605
-translate zh_hans deb26_shop_merge1_0b897fca:
-
-
-    # mono "Short though it was, the ride home was filled with an all too familiar tension, building quickly between us as we traded stolen glances." with fade
-    mono "回家的路虽然不长，可我们不断偷瞄彼此，那股再熟悉不过的暧昧却在车里飞快升温。" with fade
-
-# game/src/plot/deb26.rpy:1613
-translate zh_hans deb26_shop_merge1_5b9a2466:
-
-
-    # anon "Ungh, I'm still stuffed."
-    anon "唔，我还撑着。"
-
-# game/src/plot/deb26.rpy:1614
-translate zh_hans deb26_shop_merge1_c4af1234:
-
-
-    # debbie "Yeah, me too."
-    debbie "嗯，我也是。"
-
-# game/src/plot/deb26.rpy:1615
-translate zh_hans deb26_shop_merge1_e8b213ec:
-
-
-    # debbie f_horny "Kinda feel like I might need to work this meal off before bed."
-    debbie f_horny "感觉睡前得运动一下，消耗掉这顿饭。"
-
-# game/src/plot/deb26.rpy:1616
-translate zh_hans deb26_shop_merge1_b738538f:
-
-
-    # anon f_shy "Oh?"
-    anon f_shy "哦？"
-
-# game/src/plot/deb26.rpy:1617
-translate zh_hans deb26_shop_merge1_efd8fc75:
-
-
-    # anon f_horny "You got something in mind?"
-    anon f_horny "你有想法吗？"
-
-# game/src/plot/deb26.rpy:1618
-translate zh_hans deb26_shop_merge1_b02b6353:
-
-    # debbie "Yeah, I got something."
-    debbie "嗯，我正有个主意。"
-
-# game/src/plot/deb26.rpy:1625
-translate zh_hans deb26_shop_merge1_9e9969d7:
-
-    # anon @ f_horny_smug "I'll bet that dress will look great on your bedroom floor."
-    anon @ f_horny_smug "我敢说，这条裙子扔在你卧室地板上肯定也很好看。"
-
-# game/src/plot/deb26.rpy:1634
-translate zh_hans deb26_shop_merge1_104e5914:
-
-    # debbie "You'll have to catch me first!"
-    debbie "你得先抓到我！"
-
-# game/src/plot/deb26.rpy:1683
-translate zh_hans deb26_shop_merge1_0f1f3131:
-
-
-    # debbie f_horny "I want you so bad!"
-    debbie f_horny "我现在特别想要你！"
-
-# game/src/plot/deb26.rpy:1684
-translate zh_hans deb26_shop_merge1_99c9a8b2:
-
-
-    # debbie a_invite "Take me!!"
-    debbie a_invite "来肏我！！"
-
-# game/src/plot/deb26.rpy:1685
-translate zh_hans deb26_shop_merge1_83bb0974:
-
-
-    # anon "Whoa, hold on."
-    anon "等等，先别急。"
-
-# game/src/plot/deb26.rpy:1686
-translate zh_hans deb26_shop_merge1_51f8f871:
-
-
-    # debbie a_down f_curious @ -m_talk "Hmm?"
-    debbie a_down f_curious @ -m_talk "嗯？"
-
-# game/src/plot/deb26.rpy:1687
-translate zh_hans deb26_shop_merge1_2aa82773:
-
-    # anon "I might need a second to drink this view in."
-    anon "让我先好好欣赏一下眼前的美景。"
-
-# game/src/plot/deb26.rpy:1711
-translate zh_hans deb26_shop_merge1_040f2679:
-
-
-    # anon p_bed1_press_kiss_belly "Mm."
-    anon p_bed1_press_kiss_belly "嗯。"
-
-# game/src/plot/deb26.rpy:1712
-translate zh_hans deb26_shop_merge1_bf8a88b8:
-
-
-    # debbie "Heh, that tickles!"
-    debbie "嘿，好痒！"
-
-# game/src/plot/deb26.rpy:1714
-translate zh_hans deb26_shop_merge1_325a0977:
-
-    # debbie f_curious "Sweetie?"
-    debbie f_curious "亲爱的？"
-
-# game/src/plot/deb26.rpy:1719
-translate zh_hans deb26_shop_merge1_ec7aab19:
-
-    # debbie f_shy "{i}*Gulp*{/i} My goodness."
-    debbie f_shy "{i}*咕咚*{/i} 我的天哪。"
-
-# game/src/plot/deb26.rpy:1723
-translate zh_hans deb26_shop_merge1_bf1be959:
-
-    # debbie f_horny m_lip @ -m_talk "Ngh!"
-    debbie f_horny m_lip @ -m_talk "唔！"
-
-# game/src/plot/deb26.rpy:1727
-translate zh_hans deb26_shop_merge1_5a8d9354:
-
-    # anon p_bed1_press_hover "What do you need, [saga.cast.debbie]?"
-    anon p_bed1_press_hover "你想要什么，[saga.cast.debbie]？"
-
-# game/src/plot/deb26.rpy:1736
-translate zh_hans deb26_shop_merge1_b32b6831:
-
-
-    # debbie b_anon p_bed1_press_insert "Yes!"
-    debbie b_anon p_bed1_press_insert "对，就是这样！"
-
-# game/src/plot/deb26.rpy:1743
-translate zh_hans deb26_shop_merge1_bdf2ed7d:
-
-
-    # debbie "YES!!!"
-    debbie "对！！！"
-
-# game/src/plot/deb26.rpy:1744
-translate zh_hans deb26_shop_merge1_c51be792:
-
-
-    # debbie "Ahh, my boy!"
-    debbie "啊，我的好小子！"
-
-# game/src/plot/deb26.rpy:1745
-translate zh_hans deb26_shop_merge1_43cbcb3c:
-
-
-    # debbie "My big, {i}big{/i}, boy!!"
-    debbie "我的大……{i}大{/i}宝贝！！"
-
-# game/src/plot/deb26.rpy:1746
-translate zh_hans deb26_shop_merge1_906e7e4a:
-
-
-    # debbie "AHH!!!"
-    debbie "啊！！！"
-
-# game/src/plot/deb26.rpy:1747
-translate zh_hans deb26_shop_merge1_ec16214e:
-
-
-    # anon "You like that?"
-    anon "你喜欢那样吗？"
-
-# game/src/plot/deb26.rpy:1748
-translate zh_hans deb26_shop_merge1_0915411c:
-
-    # debbie "Oh, I love it!"
-    debbie "哦，我太喜欢了！"
-
-# game/src/plot/deb26.rpy:1762
-translate zh_hans deb26_shop_merge1_35464c24:
-
-
-    # anon "Oh, [saga.cast.debbie]!"
-    anon "哦，[saga.cast.debbie]！"
-
-# game/src/plot/deb26.rpy:1764
-translate zh_hans deb26_shop_merge1_d5335b71:
-
-
-    # debbie "YES!!"
-    debbie "太棒了！！"
-
-# game/src/plot/deb26.rpy:1765
-translate zh_hans deb26_shop_merge1_801b27df:
-
-
-    # debbie "Give it to me!!"
-    debbie "给我！！"
-
-# game/src/plot/deb26.rpy:1767
-translate zh_hans deb26_shop_merge1_04c5133b:
-
-    # debbie "Oooohh, give it to me!"
-    debbie "再狠一点，给我！"
-
-# game/src/plot/deb26.rpy:1769
-translate zh_hans deb26_shop_merge1_d1d5eb0e:
-
-    # debbie "TO MEEEEE!!!"
-    debbie "全都给我！！！"
-
-# game/src/plot/deb26.rpy:1773
-translate zh_hans deb26_shop_merge1_8e8fb82b:
-
-    # debbie "Ooh!!"
-    debbie "哦！！"
-
-# game/src/plot/deb26.rpy:1777
-translate zh_hans deb26_shop_merge1_21d525e9:
-
-
-    # debbie "AAAAAAHHHHHHH!!!!"
-    debbie "啊啊啊啊啊！！！！！"
-
-# game/src/plot/deb26.rpy:1779
-translate zh_hans deb26_shop_merge1_134feddc:
-
-
-    # debbie "YES, SWEETIE!!!"
-    debbie "是，亲爱的！！！"
-
-# game/src/plot/deb26.rpy:1780
-translate zh_hans deb26_shop_merge1_5f3a08a4:
-
-    # debbie "YESSSS!!!!"
-    debbie "好耶！！！"
-
-# game/src/plot/deb26.rpy:1785
-translate zh_hans deb26_shop_merge1_2fda485b:
-
-    # anon "[saga.cast.debbie], I'm..."
-    anon "[saga.cast.debbie]，我……"
-
-# game/src/plot/deb26.rpy:1787
-translate zh_hans deb26_shop_merge1_63b87a91:
-
-    # debbie "Oh, goodness... Sweetie!"
-    debbie "哦，天哪……亲爱的！"
-
-# game/src/plot/deb26.rpy:1798
-translate zh_hans deb26_shop_merge1_1d7c5b92:
-
-
-    # anon "H-huh?!"
-    anon "什、什么？！"
-
-# game/src/plot/deb26.rpy:1799
-translate zh_hans deb26_shop_merge1_87c69c69:
-
-    # debbie "NGGHHH!!!"
-    debbie "嗯啊啊啊！！！"
-
-# game/src/plot/deb26.rpy:1807
-translate zh_hans deb26_shop_merge1_0cf4d269:
-
-
-    # anon "HNNGGG!!!" with flash
-    anon "嗯嗯嗯！！！" with flash
-
-# game/src/plot/deb26.rpy:1808
-translate zh_hans deb26_shop_merge1_d165fd93:
-
-
-    # anon "Haah... haah..."
-    anon "哈啊……哈啊……"
-
-# game/src/plot/deb26.rpy:1809
-translate zh_hans deb26_shop_merge1_71bd3e79:
-
-
-    # debbie "Oh, wow!"
-    debbie "哦，哇！"
-
-# game/src/plot/deb26.rpy:1810
-translate zh_hans deb26_shop_merge1_2add17a6:
-
-    # anon "Hmm?"
-    anon "嗯？"
-
-# game/src/plot/deb26.rpy:1812
-translate zh_hans deb26_shop_merge1_78ecea72:
-
-    # anon "Heh, yeah..."
-    anon "呵，是啊……"
-
-# game/src/plot/deb26.rpy:1828
-translate zh_hans deb26_shop_merge2_22af457b:
-
-    # anon "[saga.cast.debbie], I-"
-    anon "[saga.cast.debbie]，我——"
-
-# game/src/plot/deb26.rpy:1847
-translate zh_hans deb26_shop_merge2_c78a79d9:
-
-
-    # anon "Happy?"
-    anon "开心吗？"
-
-# game/src/plot/deb26.rpy:1848
-translate zh_hans deb26_shop_merge2_134bfe1d:
-
-
-    # debbie f_happy "Heh, very happy!"
-    debbie f_happy "呵，非常开心！"
-
-# game/src/plot/deb26.rpy:1850
-translate zh_hans deb26_shop_merge2_68a9abfe:
-
-
-    # debbie "I love you, sweetie."
-    debbie "我爱你，亲爱的。"
-
-# game/src/plot/deb26.rpy:1851
-translate zh_hans deb26_shop_merge2_1f802486:
-
-
-    # anon "I love y-"
-    anon "我爱——"
-
-# game/src/plot/deb26.rpy:1852
-translate zh_hans deb26_shop_merge2_bb11a04e:
-
-    # anon @ e_b "{i}*Yawn*{/i}"
-    anon @ e_b "{i}*打哈欠*{/i}"
-
-# game/src/plot/deb26.rpy:1878
-translate zh_hans deb26_shop_merge2_c7e5d373:
-
-
-    # anon f_shy @ -m_talk "( Hmm, she must be up and about already. )"
-    anon f_shy @ -m_talk "（嗯，她应该已经起床了。）"
-
-# game/src/plot/deb26.rpy:1887
-translate zh_hans deb26_shop_merge2_261ea2f4:
-
-
-    # anon a_side e_w f_happy p_stand @ -m_talk "( Let's go check on her and see how she's feeling about last night. )"
-    anon a_side e_w f_happy p_stand @ -m_talk "（去看看她吧，也问问她对昨晚的事怎么想。）"
-
-# game/src/plot/deb26.rpy:1894
-translate zh_hans deb26_shop_creampie_7a3ac241:
-
-
-    # anon "Oh, jesus..."
-    anon "天啊……"
-
-# game/src/plot/deb26.rpy:1895
-translate zh_hans deb26_shop_creampie_e0897550:
-
-
-    # anon "... [saga.cast.debbie]... I-"
-    anon "……[saga.cast.debbie]……我——"
-
-# game/src/plot/deb26.rpy:1897
-translate zh_hans deb26_shop_creampie_87c69c69:
-
-
-    # debbie "NGGHHH!!!"
-    debbie "嗯啊啊啊！！！"
-
-# game/src/plot/deb26.rpy:1900
-translate zh_hans deb26_shop_creampie_0cf4d269:
-
-    # anon "HNNGGG!!!" with flash
-    anon "嗯——！！！" with flash
-
-# game/src/plot/deb26.rpy:1909
-translate zh_hans deb26_shop_creampie_a923e4b7:
-
-
-    # debbie d_twitch f_surprised p_bed1_press_pullout_02 s_800ms "Oh, my... goodness."
-    debbie d_twitch f_surprised p_bed1_press_pullout_02 s_800ms "天……天啊。"
-
-# game/src/plot/deb26.rpy:1910
-translate zh_hans deb26_shop_creampie_83f4873b:
-
-
-    # debbie e_onne "Sweetie."
-    debbie e_onne "亲爱的。"
-
-# game/src/plot/deb26.rpy:1911
-translate zh_hans deb26_shop_creampie_c8481ccd:
-
-
-    # anon "Yeah?"
-    anon "嗯？"
-
-# game/src/plot/deb26.rpy:1912
-translate zh_hans deb26_shop_creampie_2cb6292e:
-
-
-    # debbie f_horny "I can feel you leaking out of me."
-    debbie f_horny "我能感觉到你的精液正从我里面流出来。"
-
-# game/src/plot/deb26.rpy:1914
-translate zh_hans deb26_shop_creampie_d8f50d3e:
-
-    # anon "Yeah."
-    anon "嗯。"
-
-# game/src/plot/deb26.rpy:1929
-translate zh_hans deb26_shop_rails_1c5d6949:
-
-
-    # anon e_e f_confused "No, of course not."
-    anon e_e f_confused "不，当然不是。"
-
-# game/src/plot/deb26.rpy:1930
-translate zh_hans deb26_shop_rails_f7b30462:
-
-
-    # anon e_w f_calm "The place we want is next to Cupid."
-    anon e_w f_calm "我们要去的地方就在丘比特旁边。"
-
-# game/src/plot/deb26.rpy:1940
-translate zh_hans deb26_shop_sushi_f36bd6af:
-
-
-    # hana "Pardon me."
-    hana "打扰一下。"
-
-# game/src/plot/deb26.rpy:1941
-translate zh_hans deb26_shop_sushi_a1f0b75a:
-
-
-    # anon @ -m_talk "Hmm?"
-    anon @ -m_talk "嗯？"
-
-# game/src/plot/deb26.rpy:1942
-translate zh_hans deb26_shop_sushi_b3fa748d:
-
-
-    # hana f_curious "You ordered the nyotaimori, yes?"
-    hana f_curious "您点了女体盛，是吗？"
-
-# game/src/plot/deb26.rpy:1943
-translate zh_hans deb26_shop_sushi_6d72e274:
-
-
-    # anon "That's correct."
-    anon "没错。"
-
-# game/src/plot/deb26.rpy:1944
-translate zh_hans deb26_shop_sushi_4de2c87b:
-
-
-    # hana f_happy "Oh, thank you so much!"
-    hana f_happy "哦，非常感谢！"
-
-# game/src/plot/deb26.rpy:1953
-translate zh_hans deb26_shop_sushi_6ebe8ea3:
-
-
-    # hana "It's our house speciality."
-    hana "这是我们的招牌菜。"
-
-# game/src/plot/deb26.rpy:1957
-translate zh_hans deb26_shop_sushi_f7b3f334:
-
-
-    # hana "I'll bring it now."
-    hana "我马上端上来。"
-
-# game/src/plot/deb26.rpy:1963
-translate zh_hans deb26_shop_sushi_ac3ff68a:
-
-
-    # anon e_ene f_confused "Ehh, alright."
-    anon e_ene f_confused "呃，好吧。"
-
-# game/src/plot/deb26.rpy:1964
-translate zh_hans deb26_shop_sushi_b011c89e:
-
-
-    # anon e_w "That seem unusual to you?"
-    anon e_w "你不觉得这反应有点奇怪吗？"
-
-# game/src/plot/deb26.rpy:1967
-translate zh_hans deb26_shop_sushi_060ba94e:
-
-
-    # anon e_w f_happy "They can be a bit over the top sometimes."
-    anon e_w f_happy "他们有时候是有点夸张。"
-
-# game/src/plot/deb26.rpy:1969
-translate zh_hans deb26_shop_sushi_dd710dbe:
-
-    # debbie "Y-yeah, a little."
-    debbie "是、是啊，有一点。"
-
-# game/src/plot/deb26.rpy:1971
-translate zh_hans deb26_shop_sushi_c561ff3a:
-
-
-    # anon f_worried_surprised "What's wrong?"
-    anon f_worried_surprised "怎么了？"
-
-# game/src/plot/deb26.rpy:1986
-translate zh_hans deb26_shop_sushi_b825afe8:
-
-
-    # debbie "Oh. {nw=1}"
-    debbie "哦。{nw=1}"
-
-# game/src/plot/deb26.rpy:1993
-translate zh_hans deb26_shop_sushi_adfc0dfe:
-
-
-    # extend "{nw=.3}"
-    extend "{nw=.3}"
-
-# game/src/plot/deb26.rpy:1995
-translate zh_hans deb26_shop_sushi_adfc0dfe_1:
-
-
-    # extend "{nw=.3}"
-    extend "{nw=.3}"
-
-# game/src/plot/deb26.rpy:1998
-translate zh_hans deb26_shop_sushi_7f4bb404:
-
-    # extend "My. {nw=.3}"
-    extend "哎呀。{nw=.3}"
-
-# game/src/plot/deb26.rpy:2003
-translate zh_hans deb26_shop_sushi_c1d399db:
-
-    # extend e_sw "Goodness!!"
-    extend e_sw "天哪！！"
-
-# game/src/plot/deb26.rpy:2009
-translate zh_hans deb26_shop_sushi_3599719f:
-
-
-    # hana f_happy "Our house special!"
-    hana f_happy "我们的招牌菜！"
-
-# game/src/plot/deb26.rpy:2010
-translate zh_hans deb26_shop_sushi_f256b2fd:
-
-
-    # hana "Nyotaimori."
-    hana "女体盛。"
-
-# game/src/plot/deb26.rpy:2011
-translate zh_hans deb26_shop_sushi_3a9084c6:
-
-
-    # anon e_sse @ -m_talk "..."
-    anon e_sse @ -m_talk "……"
-
-# game/src/plot/deb26.rpy:2014
-translate zh_hans deb26_shop_sushi_b03ca8f2:
-
-    # anon "[saga.cast.titomi]?"
-    anon "[saga.cast.titomi]？"
-
-# game/src/plot/deb26.rpy:2026
-translate zh_hans deb26_shop_sushi_87bb3e0e:
-
-
-    # hana "Enjoy."
-    hana "请享用。"
-
-# game/src/plot/deb26.rpy:2029
-translate zh_hans deb26_shop_sushi_ca2abfbe:
-
-
-    # debbie e_sw f_shy of_blush @ -m_talk "..."
-    debbie e_sw f_shy of_blush @ -m_talk "……"
-
-# game/src/plot/deb26.rpy:2031
-translate zh_hans deb26_shop_sushi_1757d464:
-
-    # debbie e_w "I didn't realize that nyotaimori was body sushi."
-    debbie e_w "我之前没意识到女体盛就是人体寿司。"
-
-# game/src/plot/deb26.rpy:2040
-translate zh_hans deb26_shop_sushi_11e779d3:
-
-
-    # anon a_down e_ssw "We're supposed to eat this stuff?"
-    anon a_down e_ssw "这些东西……是让我们吃的？"
-
-# game/src/plot/deb26.rpy:2041
-translate zh_hans deb26_shop_sushi_cfe64259:
-
-    # debbie "Uh huh."
-    debbie "嗯哼。"
-
-# game/src/plot/deb26.rpy:2044
-translate zh_hans deb26_shop_sushi_cfe64259_1:
-
-
-    # debbie "Uh huh."
-    debbie "嗯哼。"
-
-# game/src/plot/deb26.rpy:2045
-translate zh_hans deb26_shop_sushi_f6e06452:
-
-    # anon e_ssw f_shy of_blush @ -m_talk "{i}*Gulp*{/i}"
-    anon e_ssw f_shy of_blush @ -m_talk "{i}*咽口水*{/i}"
-
-# game/src/plot/deb26.rpy:2050
-translate zh_hans deb26_shop_sushi_d78eeb7b:
-
-    # "... TODO: [saga.cast.anon] has ordered this before. ..."
-    "……TODO：[saga.cast.anon]以前点过这个。……"
-
-# game/src/plot/deb26.rpy:2067
-translate zh_hans deb26_shop_sushi_d5c070c1:
-
-
-    # debbie a_sticks_plate e_ssw "Oh, dear."
-    debbie a_sticks_plate e_ssw "哎呀。"
-
-# game/src/plot/deb26.rpy:2070
-translate zh_hans deb26_shop_sushi_46cfbf02:
-
-    # debbie f_confused @ -m_talk "Hrmph."
-    debbie f_confused @ -m_talk "哼。"
-
-# game/src/plot/deb26.rpy:2096
-translate zh_hans deb26_shop_sushi_e011d619:
-
-
-    # anon e_sse f_worried -m_blow "S-so, uhh..."
-    anon e_sse f_worried -m_blow "那……那个……"
-
-# game/src/plot/deb26.rpy:2098
-translate zh_hans deb26_shop_sushi_c2be541a:
-
-
-    # anon a_uneasy f_shy "... H-how you doing?"
-    anon a_uneasy f_shy "……你、你还好吗？"
-
-# game/src/plot/deb26.rpy:2100
-translate zh_hans deb26_shop_sushi_c7855e23:
-
-
-    # titomi "Heh!"
-    titomi "嘿嘿！"
-
-# game/src/plot/deb26.rpy:2101
-translate zh_hans deb26_shop_sushi_45675c46:
-
-    # titomi "You're supposed to pretend I'm not here."
-    titomi "你们就当我不在这里。"
-
-# game/src/plot/deb26.rpy:2111
-translate zh_hans deb26_shop_sushi_d11c30fb:
-
-
-    # anon a_sticks_grab e_ssw z_b_f_of "... No problem."
-    anon a_sticks_grab e_ssw z_b_f_of "……没问题。"
-
-# game/src/plot/deb26.rpy:2115
-translate zh_hans deb26_shop_sushi_ef8723d1:
-
-
-    # titomi "Hehe!"
-    titomi "呵呵！"
-
-# game/src/plot/deb26.rpy:2117
-translate zh_hans deb26_shop_sushi_ad3495fd:
-
-
-    # anon a_sticks oa_none v_chew -m_bite @ -m_talk "Nom."
-    anon a_sticks oa_none v_chew -m_bite @ -m_talk "嚼嚼。"
-
-# game/src/plot/deb26.rpy:2121
-translate zh_hans deb26_shop_sushi_c119e7a1:
-
-
-    # anon e_w f_worried "Oh, wow!"
-    anon e_w f_worried "哦，哇！"
-
-# game/src/plot/deb26.rpy:2123
-translate zh_hans deb26_shop_sushi_3d3d59d2:
-
-
-    # debbie e_w @ -m_talk "Mhm."
-    debbie e_w @ -m_talk "嗯哼。"
-
-# game/src/plot/deb26.rpy:2124
-translate zh_hans deb26_shop_sushi_56b437ba:
-
-
-    # anon e_w "That's so good!"
-    anon e_w "真好吃！"
-
-# game/src/plot/deb26.rpy:2125
-translate zh_hans deb26_shop_sushi_c83738c7:
-
-
-    # debbie "Yeah, it really is."
-    debbie "是啊，确实如此。"
-
-# game/src/plot/deb26.rpy:2133
-translate zh_hans deb26_shop_sushi_2af2bcd8:
-
-
-    # anon a_sticks_grab e_sse f_shy z_b_f_of "So, you uhh... come here often?"
-    anon a_sticks_grab e_sse f_shy z_b_f_of "那，呃……你常来这里吗？"
-
-# game/src/plot/deb26.rpy:2136
-translate zh_hans deb26_shop_sushi_4d0ab15a:
-
-
-    # debbie e_w f_shy -m_bite "Sweetie, she works here."
-    debbie e_w f_shy -m_bite "亲爱的，她在这儿工作。"
-
-# game/src/plot/deb26.rpy:2138
-translate zh_hans deb26_shop_sushi_e818804d:
-
-    # anon "I know that, it's just..."
-    anon "我知道，我就是……"
-
-# game/src/plot/deb26.rpy:2142
-translate zh_hans deb26_shop_sushi_de3e9a48:
-
-
-    # titomi "Just think of me as a serving tray."
-    titomi "就把我当成上菜用的托盘吧。"
-
-# game/src/plot/deb26.rpy:2143
-translate zh_hans deb26_shop_sushi_02399310:
-
-    # anon "Right, yeah... Serving tray."
-    anon "对……就当是托盘。"
-
-# game/src/plot/deb26.rpy:2171
-translate zh_hans deb26_shop_takoyaki_2518c337:
-
-
-    # titomi "Two orders of takoyaki."
-    titomi "两份章鱼烧。"
-
-# game/src/plot/deb26.rpy:2173
-translate zh_hans deb26_shop_takoyaki_7f65d158:
-
-
-    # debbie "Oh, goodness... it's like a painting!"
-    debbie "哦，天哪……简直像一幅画！"
-
-# game/src/plot/deb26.rpy:2174
-translate zh_hans deb26_shop_takoyaki_143cd2e2:
-
-
-    # anon "Yeah, very pretty."
-    anon "是啊，很漂亮。"
-
-# game/src/plot/deb26.rpy:2176
-translate zh_hans deb26_shop_takoyaki_995af648:
-
-    # anon f_confused "It's got kind of a fishy smell."
-    anon f_confused "闻起来有点鱼腥味。"
-
-# game/src/plot/deb26.rpy:2181
-translate zh_hans deb26_shop_takoyaki_3b9ff63c:
-
-    # titomi e_sw "It's a savory wheat batter with octopus."
-    titomi e_sw "这是用小麦面糊包着章鱼做成的咸食。"
-
-# game/src/plot/deb26.rpy:2187
-translate zh_hans deb26_shop_takoyaki_5f92dd76:
-
-
-    # titomi "That's right."
-    titomi "没错。"
-
-# game/src/plot/deb26.rpy:2189
-translate zh_hans deb26_shop_takoyaki_65fa8313:
-
-    # debbie "It looks excellent."
-    debbie "看起来棒极了。"
-
-# game/src/plot/deb26.rpy:2205
-translate zh_hans deb26_shop_takoyaki_d17bed01:
-
-
-    # anon @ -m_talk "!!!" with hpunch
-    anon @ -m_talk "！！！" with hpunch
-
-# game/src/plot/deb26.rpy:2206
-translate zh_hans deb26_shop_takoyaki_4acbc1ac:
-
-
-    # debbie "You alright?"
-    debbie "你还好吗？"
-
-# game/src/plot/deb26.rpy:2209
-translate zh_hans deb26_shop_takoyaki_6e423314:
-
-
-    # anon e_w f_worried_surprised p_sit @ -m_talk "Hmm?"
-    anon e_w f_worried_surprised p_sit @ -m_talk "嗯？"
-
-# game/src/plot/deb26.rpy:2211
-translate zh_hans deb26_shop_takoyaki_54192d2a:
-
-    # anon a_uneasy f_shy_surprised "O-oh, yeah... I just... need a moment."
-    anon a_uneasy f_shy_surprised "哦、哦，没事……我只是……得缓一缓。"
-
-# game/src/plot/deb26.rpy:2227
-translate zh_hans deb26_kitchen_8d18fb29:
-
-
-    # debbie e_ese f_shy p_stove_kiss "Heh, good morning."
-    debbie e_ese f_shy p_stove_kiss "呵，早上好。"
-
-# game/src/plot/deb26.rpy:2228
-translate zh_hans deb26_kitchen_1e3d7387:
-
-
-    # debbie e_b m_lip "Ahh!"
-    debbie e_b m_lip "啊！"
-
-# game/src/plot/deb26.rpy:2230
-translate zh_hans deb26_kitchen_5ba1a947:
-
-
-    # anon "{i}*Muah*{/i}"
-    anon "{i}*啵*{/i}"
-
-# game/src/plot/deb26.rpy:2236
-translate zh_hans deb26_kitchen_eff4a1e5:
-
-
-    # anon "How are you feeling?"
-    anon "你感觉怎么样？"
-
-# game/src/plot/deb26.rpy:2237
-translate zh_hans deb26_kitchen_22fbe884:
-
-
-    # debbie a_clasp @ e_b "Mm, wonderful!"
-    debbie a_clasp @ e_b "嗯，好极了！"
-
-# game/src/plot/deb26.rpy:2238
-translate zh_hans deb26_kitchen_0c7dd6de:
-
-
-    # anon f_shy "Yeah?"
-    anon f_shy "是吗？"
-
-# game/src/plot/deb26.rpy:2239
-translate zh_hans deb26_kitchen_82640eb6:
-
-
-    # debbie a_embarrassed "Thanks again, for last night."
-    debbie a_embarrassed "昨晚……真的谢谢你。"
-
-# game/src/plot/deb26.rpy:2240
-translate zh_hans deb26_kitchen_2d0d9ad5:
-
-
-    # anon f_happy "Oh, it was my pleasure."
-    anon f_happy "我才该说谢谢。"
-
-# game/src/plot/deb26.rpy:2241
-translate zh_hans deb26_kitchen_20edc04a:
-
-    # anon f_horny "In fact, I think we should make it a regular thing."
-    anon f_horny "其实，我觉得以后应该经常来一回。"
-
-# game/src/plot/deb26.rpy:2257
-translate zh_hans deb26_kitchen_ba382acd:
-
-    # anon "What?!"
-    anon "什么？！"
-
-# game/src/plot/deb26.rpy:2259
-translate zh_hans deb26_kitchen_22a9c3dc:
-
-    # anon a_hips f_horny "Yeah, you better believe it."
-    anon a_hips f_horny "那还用说。"
-
-# game/src/plot/deb26.rpy:2268
-translate zh_hans deb26_kitchen_b724de80:
-
-
-    # jenny "You two seem extra lovey dovey this morning."
-    jenny "你们俩今天早上看起来特别恩爱。"
-
-# game/src/plot/deb26.rpy:2269
-translate zh_hans deb26_kitchen_9ebe9b85:
-
-
-    # debbie "And why shouldn't we?"
-    debbie "为什么不能？"
-
-# game/src/plot/deb26.rpy:2271
-translate zh_hans deb26_kitchen_1e450958:
-
-
-    # debbie e_e "It's a beautiful morning and we're all happy and healthy."
-    debbie e_e "今天天气这么好，大家也都开开心心、健健康康的。"
-
-# game/src/plot/deb26.rpy:2272
-translate zh_hans deb26_kitchen_f05ed2ba:
-
-
-    # jenny f_annoyed @ e_r "Tch... Yeah, whatever."
-    jenny f_annoyed @ e_r "啧……是啊，随便吧。"
-
-# game/src/plot/deb26.rpy:2273
-translate zh_hans deb26_kitchen_c3a5f4db:
-
-    # jenny "Breakfast on the table?"
-    jenny "早餐摆上桌了吗？"
-
-# game/src/plot/deb26.rpy:2276
-translate zh_hans deb26_kitchen_e0121bb5:
-
-    # debbie f_calm "Oh, umm... Yes, dear."
-    debbie f_calm "哦，呃……是的，亲爱的。"
-
-# game/src/plot/deb26.rpy:2284
-translate zh_hans deb26_kitchen_1fcceb77:
-
-    # jenny "Happy face pancakes."
-    jenny "笑脸煎饼。"
-
-# game/src/plot/deb26.rpy:2286
-translate zh_hans deb26_kitchen_b78db7ff:
-
-
-    # jenny "It doesn't have to be his favorite {i}every{/i} time!"
-    jenny "又不能{i}每次{/i}都做他最喜欢的！"
-
-# game/src/plot/deb26.rpy:2287
-translate zh_hans deb26_kitchen_1729f61a:
-
-
-    # anon "Ignore her."
-    anon "别理她。"
-
-# game/src/plot/deb26.rpy:2290
-translate zh_hans deb26_kitchen_7d98dede:
-
-    # debbie @ -m_talk "Mhmm."
-    debbie @ -m_talk "嗯哼。"
-
-# game/src/plot/deb26.rpy:2294
-translate zh_hans deb26_kitchen_c8b7f64e:
-
-
-    # debbie @ e_b f_happy m_laugh "Heh!"
-    debbie @ e_b f_happy m_laugh "嘿！"
-
-# game/src/plot/deb26.rpy:2296
-translate zh_hans deb26_kitchen_ea568eef:
-
-
-    # debbie a_touch_anon_face "You can do that."
-    debbie a_touch_anon_face "看可以。"
-
-# game/src/plot/deb26.rpy:2297
-translate zh_hans deb26_kitchen_9d1d81cf:
-
-    # debbie "But keep your hands to yourself."
-    debbie "但手别乱摸。"
-
-# game/src/plot/deb26.rpy:2301
-translate zh_hans deb26_kitchen_b2e4fbb6:
-
-    # anon e_w "Just the most handsome, right?"
-    anon e_w "就是最帅的那个，对吧？"
-
-# game/src/plot/deb26.rpy:2313
-translate zh_hans deb26_kitchen_1ca2a0ff:
-
-    # anon f_happy "Oh my god, I love you so much!"
-    anon f_happy "天哪，我真是太爱你了！"
-
-# game/src/plot/deb26.rpy:2320
-translate zh_hans deb26_kitchen_c8e5c5a9:
-
-    # anon a_salute "Yes, ma'am."
-    anon a_salute "是，夫人。"
-
-# game/src/plot/deb26.rpy:2331
-translate zh_hans deb26_kitchen_9766794d:
-
-
-    # anon @ -m_talk "( Mm, [saga.cast.debbie] cooked the heck outta those eggs... delicious! )"
-    anon @ -m_talk "（嗯，[saga.cast.debbie]这鸡蛋煎得真香……太好吃了！）"
-
-# game/src/plot/deb26.rpy:2332
-translate zh_hans deb26_kitchen_24b2e9fa:
-
-
-    # anon e_nw f_pensive @ -m_talk "( And it seems like she's finally gotten over her scruples regarding our relationship. )"
-    anon e_nw f_pensive @ -m_talk "（看来她终于放下了对我们这段关系的道德顾虑。）"
-
-# game/src/plot/deb26.rpy:2333
-translate zh_hans deb26_kitchen_29897698:
-
-
-    # anon e_w f_happy @ -m_talk "( Thank goodness for that! )"
-    anon e_w f_happy @ -m_talk "（谢天谢地！）"
-
-# game/src/plot/deb26.rpy:2334
-translate zh_hans deb26_kitchen_f5139cb3:
-
-
-    # anon e_b m_teeth @ -m_talk "( I should see what all she's willing to do now. )"
-    anon e_b m_teeth @ -m_talk "（得看看她现在愿意陪我玩到什么程度。）"
-
-# game/src/plot/deb26.rpy:2343
-translate zh_hans deb26_kitchen_rails_45a884c5:
-
-
-    # anon @ -m_talk "( I should speak with [saga.cast.debbie]. )"
-    anon @ -m_talk "（我应该和[saga.cast.debbie]谈谈。）"
-
-# game/src/plot/deb26.rpy:2344
-translate zh_hans deb26_kitchen_rails_0c342043:
-
-
-    # anon @ -m_talk "( She's probably in the kitchen cooking breakfast. )"
-    anon @ -m_talk "（她大概在厨房做早餐。）"
-
-translate zh_hans deb26_pause_debbie_1965e609:
-
-
-    # anon a_point "It's been a very long time since anyone's taken me out some place nice."
-    anon a_point "已经很久没人带我去什么好地方了。"
-
+# game/src/plot/deb26.rpy:669
 translate zh_hans deb26_delay_debbie_8c314642:
 
 
     # anon "Looking forward to our date this evening?"
     anon "期待今晚的约会吗？"
 
+# game/src/plot/deb26.rpy:670
+translate zh_hans deb26_delay_debbie_03fd7742:
+
+
+    # debbie f_shy "I really am, sweetie."
+    debbie f_shy "我真的很期待，亲爱的。"
+
+# game/src/plot/deb26.rpy:672
+translate zh_hans deb26_delay_debbie_747950a9:
+
+
+    # debbie f_curious "Especially because you've not told me where we're going..."
+    debbie f_curious "尤其是你到现在还不肯告诉我要去哪儿……"
+
+# game/src/plot/deb26.rpy:673
+translate zh_hans deb26_delay_debbie_aa5ce3c3:
+
+
+    # anon a_fold f_horny_smug @ -m_talk "..."
+    anon a_fold f_horny_smug @ -m_talk "……"
+
+# game/src/plot/deb26.rpy:676
+translate zh_hans deb26_delay_debbie_555d0619:
+
+
+    # debbie f_pensive "Fine, keep your secrets!"
+    debbie f_pensive "行吧，继续保密！"
+
+# game/src/plot/deb26.rpy:677
+translate zh_hans deb26_delay_debbie_b649708c:
+
+    # anon a_hips f_happy "Thank you, I will."
+    anon a_hips f_happy "谢谢，我会的。"
+
+# game/src/plot/deb26.rpy:687
 translate zh_hans deb26_delay_debbie_8595138f:
 
 
     # anon a_side e_w -m_teeth "You'll like it, trust me."
     anon a_side e_w -m_teeth "你会喜欢的，相信我。"
 
+# game/src/plot/deb26.rpy:701
+translate zh_hans deb26_delay_skip_fea6722b:
+
+
+    # anon @ -m_talk "( Eh, I'm sure [saga.cast.debbie] will want to get herself ready here sometime in the next few hours, before our date. )"
+    anon @ -m_talk "（[saga.cast.debbie]约会前肯定要花几个小时好好打扮。）"
+
+# game/src/plot/deb26.rpy:702
+translate zh_hans deb26_delay_skip_11fd5ca7:
+
+
+    # anon f_worried_surprised @ -m_talk "( Probably not the best look if I'm randomly milling around in here. )"
+    anon f_worried_surprised @ -m_talk "（我要是一直在这里晃悠，她肯定不方便。）"
+
+# game/src/plot/deb26.rpy:714
+translate zh_hans deb26_bed1_176ff3a7:
+
+
+    # anon "[saga.cast.debbie]?!"
+    anon "[saga.cast.debbie]？！"
+
+# game/src/plot/deb26.rpy:715
+translate zh_hans deb26_bed1_f3d35567:
+
+
+    # anon "You ready to go?"
+    anon "你准备好出发了吗？"
+
+# game/src/plot/deb26.rpy:717
+translate zh_hans deb26_bed1_b7516436:
+
+
+    # debbie "Just a second, sweetie!"
+    debbie "马上就好，亲爱的！"
+
+# game/src/plot/deb26.rpy:718
+translate zh_hans deb26_bed1_9d649393:
+
+
+    # anon "I hope you've brought your appetite, because the food at this place is supposed to be-."
+    anon "希望你留着肚子，因为那家店的菜听说特别——"
+
+# game/src/plot/deb26.rpy:732
+translate zh_hans deb26_bed1_8ed6e7e5:
+
+
+    # anon "... S-supposed to be-"
+    anon "……特、特别——"
+
+# game/src/plot/deb26.rpy:737
+translate zh_hans deb26_bed1_5f2abdca:
+
+    # anon "Hoo-ly!"
+    anon "我——的——天！"
+
+# game/src/plot/deb26.rpy:738
 translate zh_hans deb26_bed1_0e535f8d:
 
 
     # debbie f_curious "What's the matter?"
     debbie f_curious "怎么了？"
 
+# game/src/plot/deb26.rpy:747
+translate zh_hans deb26_bed1_9f964ddc:
+
+
+    # anon e_w @ -m_talk "Hmm?"
+    anon e_w @ -m_talk "嗯？"
+
+# game/src/plot/deb26.rpy:748
+translate zh_hans deb26_bed1_53ef7733:
+
+
+    # anon "O-oh, nothing's the matter..."
+    anon "没、没什么……"
+
+# game/src/plot/deb26.rpy:749
+translate zh_hans deb26_bed1_8f85114c:
+
+
+    # anon a_palm e_wsw "... You're just..."
+    anon a_palm e_wsw "……你只是……"
+
+# game/src/plot/deb26.rpy:752
+translate zh_hans deb26_bed1_ed85be7b:
+
+    # anon a_side e_w f_shy "... You look incredible!"
+    anon a_side e_w f_shy "……你看起来美极了！"
+
+# game/src/plot/deb26.rpy:753
 translate zh_hans deb26_bed1_1f5cfa5a:
 
     # debbie "Oh, good."
     debbie "哦，太好了。"
 
+# game/src/plot/deb26.rpy:754
 translate zh_hans deb26_bed1_feddd668:
 
     # debbie f_shy "Hopefully, that means people won't notice me walking funny."
     debbie f_shy "希望别人不会发现我走路怪怪的。"
 
+# game/src/plot/deb26.rpy:755
 translate zh_hans deb26_bed1_f6a45872:
 
 
     # anon f_confused "Walking funny?"
     anon f_confused "走路姿势奇怪？"
 
+# game/src/plot/deb26.rpy:757
+translate zh_hans deb26_bed1_b1da4887:
+
+    # debbie a_out e_s "I can't remember the last time I wore heels anywhere."
+    debbie a_out e_s "我都不记得上次穿高跟鞋是什么时候了。"
+
+# game/src/plot/deb26.rpy:758
 translate zh_hans deb26_bed1_2d666259:
 
     # anon e_w f_calm "Heh, go take them off then... I don't want you to feel uncomfortable all night."
     anon e_w f_calm "呵，那就脱了吧……我可不想让你整晚都不舒服。"
 
+# game/src/plot/deb26.rpy:759
 translate zh_hans deb26_bed1_f9629d37:
 
     # debbie a_side e_w "No, it's alright, sweetie."
     debbie a_side e_w "不用啦，没事的，亲爱的。"
 
+# game/src/plot/deb26.rpy:760
 translate zh_hans deb26_bed1_dc92c6da:
 
     # debbie f_happy "I wanna look nice for you!"
     debbie f_happy "我想为你打扮得漂漂亮亮的！"
 
+# game/src/plot/deb26.rpy:761
 translate zh_hans deb26_bed1_19a2e656:
 
 
     # anon a_point f_horny "Mm, well you've certainly accomplished that."
     anon a_point f_horny "嗯，那你显然已经做到了。"
 
+# game/src/plot/deb26.rpy:763
+translate zh_hans deb26_bed1_e00b2068:
+
+    # anon a_palm "Shall I assist you to your vehicle, madam?"
+    anon a_palm "夫人，需要我扶您上车吗？"
+
+# game/src/plot/deb26.rpy:767
 translate zh_hans deb26_bed1_e9f188a4:
 
 
     # debbie "Oh, yes please."
     debbie "哦，好的，麻烦了。"
 
+# game/src/plot/deb26.rpy:771
+translate zh_hans deb26_bed1_741d5a29:
+
+
+    # debbie "Such a gentleman."
+    debbie "真有绅士风度。"
+
+# game/src/plot/deb26.rpy:775
+translate zh_hans deb26_bed1_b9d63618:
+
+
+    # anon "That's right."
+    anon "那当然。"
+
+# game/src/plot/deb26.rpy:779
+translate zh_hans deb26_bed1_244739f4:
+
+
+    # mono ""
+    mono ""
+
+# game/src/plot/deb26.rpy:789
+translate zh_hans deb26_bed1_92cde044:
+
+
+    # debbie a_wheel_down oa_fingers p_car_turn z_b_ob_f_of_a "So, you gonna tell me where you're taking me now?"
+    debbie a_wheel_down oa_fingers p_car_turn z_b_ob_f_of_a "所以，现在总能告诉我你要带我去哪儿了吧？"
+
+# game/src/plot/deb26.rpy:790
+translate zh_hans deb26_bed1_64216387:
+
+
+    # anon @ e_nw f_pensive -m_talk "Mmm..."
+    anon @ e_nw f_pensive -m_talk "嗯……"
+
+# game/src/plot/deb26.rpy:791
+translate zh_hans deb26_bed1_b91c08f2:
+
+
+    # anon "... Not yet."
+    anon "……还不行。"
+
+# game/src/plot/deb26.rpy:792
+translate zh_hans deb26_bed1_62ef6ce2:
+
+
+    # debbie f_confused "How am I supposed to drive there if I don't know where we're going?"
+    debbie f_confused "我连要去哪儿都不知道，怎么开车？"
+
+# game/src/plot/deb26.rpy:793
+translate zh_hans deb26_bed1_3acf275e:
+
+
+    # anon "It's at the mall."
+    anon "在商场里。"
+
+# game/src/plot/deb26.rpy:794
+translate zh_hans deb26_bed1_e6f1c157:
+
+    # anon "That's enough for now."
+    anon "目前只能告诉你这么多。"
+
+# game/src/plot/deb26.rpy:795
 translate zh_hans deb26_bed1_38e494e5:
 
     # debbie e_onw f_calm p_car "Tsk, alright... sneaky boy!"
     debbie e_onw f_calm p_car "啧，好吧……你这小滑头！"
 
+# game/src/plot/deb26.rpy:798
 translate zh_hans deb26_bed1_fc3d496a:
 
     # mono "The playful banter went on as [saga.cast.debbie] drove us towards our destination..." with fade
     mono "[saga.cast.debbie]开车载着我们前往目的地，一路上都在和我说笑打趣……" with fade
 
+# game/src/plot/deb26.rpy:799
 translate zh_hans deb26_bed1_b80fabac:
 
     # mono "... And for the first time since our {i}first time{/i}, it felt like the dark cloud looming over our interactions had finally dispersed."
     mono "……自从我们的{i}第一次{/i}之后，这是我头一回觉得，一直笼罩在我们之间的阴云终于散去了。"
 
+# game/src/plot/deb26.rpy:805
 translate zh_hans deb26_bed1_62cc03b0:
 
 
     # anon "I'm just saying, it's kinda sad that the fanciest place to eat in our town is at the mall."
     anon "我只是觉得，镇上最高档的餐厅居然开在商场里，多少有点寒酸。"
 
+# game/src/plot/deb26.rpy:806
+translate zh_hans deb26_bed1_ddd793a8:
+
+
+    # debbie @ e_b m_laugh "Hehehe!"
+    debbie @ e_b m_laugh "嘿嘿嘿！"
+
+# game/src/plot/deb26.rpy:807
+translate zh_hans deb26_bed1_24f43891:
+
+
+    # debbie f_shy "Aww, no... I think it's charming!"
+    debbie f_shy "哎呀，不会……我觉得这很有情调！"
+
+# game/src/plot/deb26.rpy:809
+translate zh_hans deb26_bed1_a07566b5:
+
+
+    # anon "Charming?!"
+    anon "有情调？！"
+
+# game/src/plot/deb26.rpy:810
+translate zh_hans deb26_bed1_cb1a1269:
+
+    # debbie "Yeah, it makes things feel rustic and wholesome."
+    debbie "是啊，显得质朴又温馨。"
+
+# game/src/plot/deb26.rpy:811
 translate zh_hans deb26_bed1_f952c24f:
 
     # anon f_shy "Well, our town is certainly that."
     anon f_shy "唔，我们镇子确实是这样。"
 
+# game/src/plot/deb26.rpy:812
 translate zh_hans deb26_bed1_16a418fb:
 
     # anon f_calm "You know, I saw a chicken strutting around outside school the other day?"
     anon f_calm "你知道吗，前几天我看到一只鸡在校外趾高气扬地走来走去。"
 
+# game/src/plot/deb26.rpy:813
 translate zh_hans deb26_bed1_3b3128bb:
 
 
     # debbie f_surprised "Really?"
     debbie f_surprised "真的？"
 
+# game/src/plot/deb26.rpy:814
+translate zh_hans deb26_bed1_c9bd4359:
+
+    # anon f_happy "Yeah."
+    anon f_happy "嗯。"
+
+# game/src/plot/deb26.rpy:815
 translate zh_hans deb26_bed1_a5dbd8be:
 
     # anon f_grumpy "He was mean too..."
     anon f_grumpy "而且它还挺凶的……"
 
+# game/src/plot/deb26.rpy:816
 translate zh_hans deb26_bed1_688e3ff6:
 
     # anon e_e f_pouty "... Musta wandered over from the west side of town."
     anon e_e f_pouty "……肯定是从镇子西边溜达过来的。"
 
+# game/src/plot/deb26.rpy:817
 translate zh_hans deb26_bed1_cbdcb54f:
 
     # debbie f_confused "Heh, sweetie... chickens are always female."
     debbie f_confused "亲爱的……“母鸡”当然全是母的。"
 
+# game/src/plot/deb26.rpy:818
 translate zh_hans deb26_bed1_bbd6d263:
 
     # anon e_w f_surprised "What, all of them?!"
     anon e_w f_surprised "什么，全都是吗？！"
 
+# game/src/plot/deb26.rpy:819
 translate zh_hans deb26_bed1_1880596d:
 
 
     # debbie f_calm "Yeah."
     debbie f_calm "是啊。"
 
+# game/src/plot/deb26.rpy:820
+translate zh_hans deb26_bed1_3bf4f6c1:
+
+    # anon f_sceptical "But then... how do they-"
+    anon f_sceptical "但是……那他们怎么——"
+
+# game/src/plot/deb26.rpy:821
 translate zh_hans deb26_bed1_58b4af5f:
 
     # debbie f_happy @ e_b m_laugh "{i}*Snort*{/i}"
     debbie f_happy @ e_b m_laugh "{i}*哼哧*{/i}"
 
+# game/src/plot/deb26.rpy:823
 translate zh_hans deb26_bed1_dc97a012:
 
     # debbie "Roosters!"
     debbie "公的叫公鸡！"
 
+# game/src/plot/deb26.rpy:824
 translate zh_hans deb26_bed1_3c80695a:
 
     # anon a_facepalm f_sad "Aww, man... I forgot about roosters."
     anon a_facepalm f_sad "啊，糟了……我忘了还有公鸡。"
 
+# game/src/plot/deb26.rpy:826
 translate zh_hans deb26_bed1_2785b3a1:
 
     # debbie e_b @ m_laugh "Hahaha!"
     debbie e_b @ m_laugh "哈哈哈！"
 
+# game/src/plot/deb26.rpy:828
 translate zh_hans deb26_bed1_2874030e:
 
     # anon a_handshake f_calm "It's nice to see you smiling again."
     anon a_handshake f_calm "很高兴又看到你笑了。"
 
+# game/src/plot/deb26.rpy:830
 translate zh_hans deb26_bed1_72bfb966:
 
 
     # debbie e_w "Mm, it's nice to be out of the house."
     debbie e_w "嗯，出来走走的感觉真好。"
 
+# game/src/plot/deb26.rpy:831
+translate zh_hans deb26_bed1_d35328a5:
+
+    # anon "We'll have to do this more often then."
+    anon "那我们以后可得多约会几次。"
+
+# game/src/plot/deb26.rpy:832
 translate zh_hans deb26_bed1_1717a787:
 
 
     # debbie f_curious "Yeah?"
     debbie f_curious "是吗？"
 
+# game/src/plot/deb26.rpy:833
+translate zh_hans deb26_bed1_f8e4499b:
+
+    # anon "Definitely."
+    anon "当然。"
+
+# game/src/plot/deb26.rpy:836
 translate zh_hans deb26_bed1_03721bf6:
 
     # anon "C'mon, we gotta ride the escalator now."
     anon "快点，我们得去坐自动扶梯了。"
 
+# game/src/plot/deb26.rpy:840
 translate zh_hans deb26_bed1_6c034c6f:
 
 
     # debbie "Oh, umm... okay."
     debbie "哦，呃……好吧。"
 
+# game/src/plot/deb26.rpy:841
+translate zh_hans deb26_bed1_58e61edf:
+
+    # debbie "Just, don't let go of my hand please..."
+    debbie "千万别松开我的手，好吗……"
+
+# game/src/plot/deb26.rpy:842
 translate zh_hans deb26_bed1_ce0e27ed:
 
 
     # debbie "... These shoes aren't very escalator friendly."
     debbie "……这双鞋不太适合坐扶梯。"
 
+# game/src/plot/deb26.rpy:849
+translate zh_hans deb26_bed1_rails_0f0c9bdc:
+
+
+    # anon @ -m_talk "( [saga.cast.debbie] will be waiting for me. )"
+    anon @ -m_talk "（[saga.cast.debbie]还在等我。）"
+
+# game/src/plot/deb26.rpy:852
+translate zh_hans deb26_bed1_rails_88f658cd:
+
+
+    # anon f_horny @ -m_talk "( In her room, wearing that amazing dress- )"
+    anon f_horny @ -m_talk "（她正在房间里，穿着那条迷人的裙子——）"
+
+# game/src/plot/deb26.rpy:853
+translate zh_hans deb26_bed1_rails_0a2e7dc0:
+
+
+    # anon a_fists f_surprised m_teeth @ -m_talk "( Focus, [saga.cast.anon]! )" with hpunch
+    anon a_fists f_surprised m_teeth @ -m_talk "（专注点，[saga.cast.anon]！）" with hpunch
+
+# game/src/plot/deb26.rpy:856
+translate zh_hans deb26_bed1_rails_264693ab:
+
+
+    # anon f_surprised m_teeth @ -m_talk "( I need to get home, can't afford to be late tonight! )"
+    anon f_surprised m_teeth @ -m_talk "（我得赶紧回家，今晚绝不能迟到！）"
+
+# game/src/plot/deb26.rpy:870
+translate zh_hans deb26_shop_8617b057:
+
+
+    # hana "Welcome!" (show_lang="Irasshaimase!")
+    hana "欢迎！" (show_lang="Irasshaimase!")
+
+# game/src/plot/deb26.rpy:871
+translate zh_hans deb26_shop_82309b92:
+
+
+    # anon "Hello."
+    anon "你好。"
+
+# game/src/plot/deb26.rpy:873
+translate zh_hans deb26_shop_7e8ce870:
+
+
+    # hana "Table for two?"
+    hana "两人桌吗？"
+
+# game/src/plot/deb26.rpy:874
+translate zh_hans deb26_shop_3788a902:
+
+
+    # anon "Yes, please."
+    anon "好的，谢谢。"
+
+# game/src/plot/deb26.rpy:875
+translate zh_hans deb26_shop_b2d1c497:
+
+    # hana "Oh, very good."
+    hana "哦，非常好。"
+
+# game/src/plot/deb26.rpy:878
 translate zh_hans deb26_shop_b67c2496:
 
     # hana "My name is [saga.cast.hana]."
     hana "我的名字是[saga.cast.hana]。"
 
+# game/src/plot/deb26.rpy:880
 translate zh_hans deb26_shop_2598c934:
 
     # hana "I have a perfect table for you."
     hana "我给两位安排了一张很合适的桌子。"
 
+# game/src/plot/deb26.rpy:881
 translate zh_hans deb26_shop_74d0b2ba:
 
 
     # hana a_list_show "This way."
     hana a_list_show "这边请。"
 
+# game/src/plot/deb26.rpy:886
+translate zh_hans deb26_shop_03c6aa65:
+
+    # anon "After you, beautiful."
+    anon "你先请，美女。"
+
+# game/src/plot/deb26.rpy:889
 translate zh_hans deb26_shop_71af9a59:
 
 
     # debbie "Tsk, aww."
     debbie "啧，哎呀。"
 
+# game/src/plot/deb26.rpy:894
+translate zh_hans deb26_shop_db87e8f7:
+
+    # anon e_w @ -m_talk "( Man, she is {i}wearing{/i} that dress! )"
+    anon e_w @ -m_talk "（天啊，她把这条裙子{i}穿得{/i}也太迷人了！）"
+
+# game/src/plot/deb26.rpy:897
 translate zh_hans deb26_shop_5dfb54a8:
 
 
     # anon a_point_down f_horny_smug -m_pant "Tsss!"
     anon a_point_down f_horny_smug -m_pant "啧！"
 
+# game/src/plot/deb26.rpy:918
+translate zh_hans deb26_shop_5ce705cf:
+
+
+    # anon "Here you are."
+    anon "请坐。"
+
+# game/src/plot/deb26.rpy:929
+translate zh_hans deb26_shop_c07bb4af:
+
+
+    # debbie "Thank you, sweetie."
+    debbie "谢谢你，亲爱的。"
+
+# game/src/plot/deb26.rpy:931
+translate zh_hans deb26_shop_38401e37:
+
+
+    # anon "My pleasure."
+    anon "别客气。"
+
+# game/src/plot/deb26.rpy:932
+translate zh_hans deb26_shop_b4977f07:
+
+
+    # hana "Aww, what a gentleman."
+    hana "啊，真是一位绅士。"
+
+# game/src/plot/deb26.rpy:935
+translate zh_hans deb26_shop_98a7a008:
+
+
+    # debbie @ e_wnw f_happy "Isn't he?"
+    debbie @ e_wnw f_happy "可不是嘛？"
+
+# game/src/plot/deb26.rpy:937
+translate zh_hans deb26_shop_c78f8795:
+
+    # debbie "I'm so proud of him!"
+    debbie "我真为他感到骄傲！"
+
+# game/src/plot/deb26.rpy:941
 translate zh_hans deb26_shop_dbae40b4:
 
 
     # hana f_shy "Umm..."
     hana f_shy "呃……"
 
+# game/src/plot/deb26.rpy:970
+translate zh_hans deb26_shop_71688ff3:
+
+
+    # anon p_sit_look_in z_b_a "Whoa, look at this fish tank!"
+    anon p_sit_look_in z_b_a "哇，看看这个鱼缸！"
+
+# game/src/plot/deb26.rpy:972
+translate zh_hans deb26_shop_a32763b0:
+
+
+    # anon a_touch_glass oa_none z_b "It's huge!"
+    anon a_touch_glass oa_none z_b "好大啊！"
+
+# game/src/plot/deb26.rpy:975
+translate zh_hans deb26_shop_c2bdf7c8:
+
+    # debbie "Yeah, and so pretty."
+    debbie "是啊，而且好漂亮。"
+
+# game/src/plot/deb26.rpy:976
 translate zh_hans deb26_shop_176f660a:
 
 
     # debbie e_wnw f_sad p_sit z_b_f_of "T-those aren't for eating... right?"
     debbie e_wnw f_sad p_sit z_b_f_of "那、那些不是用来吃的……对吧？"
 
+# game/src/plot/deb26.rpy:978
+translate zh_hans deb26_shop_f9c968ae:
+
+
+    # hana f_calm "No, of course not."
+    hana f_calm "不，当然不是。"
+
+# game/src/plot/deb26.rpy:981
+translate zh_hans deb26_shop_8f8c1140:
+
+    # hana "Those are purely decorative."
+    hana "那些纯粹是装饰性的。"
+
+# game/src/plot/deb26.rpy:983
 translate zh_hans deb26_shop_3c9d070f:
 
     # debbie "Phew, thank goodness."
     debbie "呼，谢天谢地。"
 
+# game/src/plot/deb26.rpy:987
 translate zh_hans deb26_shop_3e58570a:
 
 
     # hana a_clasp f_curious "Is hot tea okay?"
     hana a_clasp f_curious "热茶可以吗？"
 
+# game/src/plot/deb26.rpy:989
+translate zh_hans deb26_shop_63d7e87a:
+
+
+    # debbie f_calm p_sit z_b_f_of "Oh, yes, please."
+    debbie f_calm p_sit z_b_f_of "哦，好的，请吧。"
+
+# game/src/plot/deb26.rpy:990
+translate zh_hans deb26_shop_53367b6f:
+
+
+    # hana f_calm "Very good ma'am."
+    hana f_calm "好的，女士。"
+
+# game/src/plot/deb26.rpy:991
+translate zh_hans deb26_shop_11a68583:
+
+
+    # hana "Your waitress will bring it right over."
+    hana "服务员马上送过来。"
+
+# game/src/plot/deb26.rpy:992
+translate zh_hans deb26_shop_79d2c32e:
+
+    # hana "Thank you for dining with us tonight at..."
+    hana "感谢两位今晚光临……"
+
+# game/src/plot/deb26.rpy:1000
 translate zh_hans deb26_shop_39fc0056:
 
 
     # hana e_w f_crazy p_ara "... Ara Ara!"
     hana e_w f_crazy p_ara "……啊啦啊啦！"
 
+# game/src/plot/deb26.rpy:1005
+translate zh_hans deb26_shop_5e236178:
+
+    # debbie "Oh, umm..."
+    debbie "哦，嗯……"
+
+# game/src/plot/deb26.rpy:1014
 translate zh_hans deb26_shop_1b2861be:
 
 
     # debbie e_w f_confused "... Thank you?"
     debbie e_w f_confused "……谢谢？"
 
+# game/src/plot/deb26.rpy:1019
+translate zh_hans deb26_shop_0854d2de:
+
+    # anon e_w f_happy "That was weird."
+    anon e_w f_happy "那真奇怪。"
+
+# game/src/plot/deb26.rpy:1020
 translate zh_hans deb26_shop_46025145:
 
 
     # debbie f_shy "Heh, yeah, a little."
     debbie f_shy "嘿，是有点。"
 
+# game/src/plot/deb26.rpy:1023
+translate zh_hans deb26_shop_b0a09323:
+
+
+    # anon e_w f_happy m_idle "Heh, she does that."
+    anon e_w f_happy m_idle "嘿，她总是那样。"
+
+# game/src/plot/deb26.rpy:1026
+translate zh_hans deb26_shop_c2382a58:
+
+
+    # debbie f_curious "Any idea what that phrase means?"
+    debbie f_curious "知道那个词的意思吗？"
+
+# game/src/plot/deb26.rpy:1027
+translate zh_hans deb26_shop_bf8f5eaa:
+
+
+    # anon "I think it's just the restaurant name."
+    anon "我想那就是餐馆的名字。"
+
+# game/src/plot/deb26.rpy:1028
+translate zh_hans deb26_shop_1d78c901:
+
+    # debbie "Oh."
+    debbie "哦。"
+
+# game/src/plot/deb26.rpy:1030
 translate zh_hans deb26_shop_eae7877f:
 
 
     # debbie f_calm "Okay."
     debbie f_calm "好吧。"
 
+# game/src/plot/deb26.rpy:1032
+translate zh_hans deb26_shop_f85ded17:
+
+    # debbie f_confused "What?"
+    debbie f_confused "什么？"
+
+# game/src/plot/deb26.rpy:1034
 translate zh_hans deb26_shop_c00b0a49:
 
 
     # anon "Nothing."
     anon "没什么。"
 
+# game/src/plot/deb26.rpy:1036
+translate zh_hans deb26_shop_140fe0c5:
+
+
+    # anon f_horny "I just can't get over how amazing you look in that dress."
+    anon f_horny "我就是看不够你穿那条连衣裙的样子。"
+
+# game/src/plot/deb26.rpy:1037
+translate zh_hans deb26_shop_7b33a54b:
+
+    # debbie f_happy "Aww, sweetie."
+    debbie f_happy "哎呀，亲爱的。"
+
+# game/src/plot/deb26.rpy:1038
 translate zh_hans deb26_shop_099a7a42:
 
 
     # debbie f_shy "I still think you should have saved your money."
     debbie f_shy "我还是觉得你应该把钱省下来。"
 
+# game/src/plot/deb26.rpy:1039
+translate zh_hans deb26_shop_3cd7619c:
+
+    # anon f_worried "You're not having a good time?"
+    anon f_worried "你玩得不开心吗？"
+
+# game/src/plot/deb26.rpy:1041
 translate zh_hans deb26_shop_e8a080e3:
 
     # debbie f_calm "N-no, I'm having a wonderful time!"
     debbie f_calm "不、不，我玩得很开心！"
 
+# game/src/plot/deb26.rpy:1043
 translate zh_hans deb26_shop_aaeaa3d7:
 
     # debbie f_shy "It's just-"
     debbie f_shy "只是——"
 
+# game/src/plot/deb26.rpy:1044
 translate zh_hans deb26_shop_dc2a35a8:
 
     # debbie f_sad "What about college, sweetie?"
     debbie f_sad "亲爱的，大学呢？"
 
+# game/src/plot/deb26.rpy:1045
 translate zh_hans deb26_shop_fc6a945e:
 
 
     # anon f_shy "[saga.cast.debbie], I'm gonna be honest."
     anon f_shy "[saga.cast.debbie]，我就直说吧。"
 
+# game/src/plot/deb26.rpy:1047
+translate zh_hans deb26_shop_8c8f5fbe:
+
+
+    # anon a_uneasy e_sse oa_none z_reset "I'm not even sure that I {i}want{/i} to go to college next semester."
+    anon a_uneasy e_sse oa_none z_reset "我甚至还没想好下学期到底{i}要不要{/i}上大学。"
+
+# game/src/plot/deb26.rpy:1048
+translate zh_hans deb26_shop_63ccfed8:
+
+    # debbie f_confused "What do you mean?"
+    debbie f_confused "你什么意思？"
+
+# game/src/plot/deb26.rpy:1051
 translate zh_hans deb26_shop_87b99f45:
 
 
     # anon a_wtf e_w f_worried "It's too much money!"
     anon a_wtf e_w f_worried "学费太贵了！"
 
+# game/src/plot/deb26.rpy:1052
+translate zh_hans deb26_shop_81bc382c:
+
+    # anon "And college degrees aren't worth anywhere near as much as they used to be."
+    anon "而且大学学位的价值远不如从前了。"
+
+# game/src/plot/deb26.rpy:1055
 translate zh_hans deb26_shop_f2db0209:
 
 
     # anon a_table oa_hand z_b_f_of_a "I'd probably be better off going to a trade school or taking an apprenticeship."
     anon a_table oa_hand z_b_f_of_a "我或许更适合去上职业学校或者当学徒。"
 
+# game/src/plot/deb26.rpy:1056
+translate zh_hans deb26_shop_1cee7a41:
+
+    # debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
+
+# game/src/plot/deb26.rpy:1057
 translate zh_hans deb26_shop_5df5126c:
 
     # anon f_shy "I haven't really decided yet."
     anon f_shy "我还没想好。"
 
+# game/src/plot/deb26.rpy:1058
 translate zh_hans deb26_shop_e4f9f346:
 
 
     # anon "But I do know, that whatever happens, I want you there beside me."
     anon "但我知道，不管以后怎么样，我都希望你陪在我身边。"
 
+# game/src/plot/deb26.rpy:1060
+translate zh_hans deb26_shop_dcfc0595:
+
+    # debbie a_reach f_shy "Aww, sweetie."
+    debbie a_reach f_shy "噢，亲爱的。"
+
+# game/src/plot/deb26.rpy:1062
 translate zh_hans deb26_shop_0a2f0853:
 
     # anon a_table_left e_w "You are my future now, [saga.cast.debbie]."
     anon a_table_left e_w "你现在就是我的未来，[saga.cast.debbie]。"
 
+# game/src/plot/deb26.rpy:1063
 translate zh_hans deb26_shop_321cc918:
 
     # anon f_worried "Err, well... [saga.cast.jenny] and you."
     anon f_worried "呃……应该说，你和[saga.cast.jenny]。"
 
+# game/src/plot/deb26.rpy:1066
 translate zh_hans deb26_shop_bec24bfd:
 
 
     # titomi "Hello!"
     titomi "你好！"
 
+# game/src/plot/deb26.rpy:1072
+translate zh_hans deb26_shop_dca6e2ff:
+
+
+    # titomi "I'm [saga.cast.titomi] and I'll be your server tonight."
+    titomi "我是[saga.cast.titomi]，今晚由我为两位服务。"
+
+# game/src/plot/deb26.rpy:1081
+translate zh_hans deb26_shop_6db5d284:
+
+
+    # titomi "I've got some sencha for you, but be careful, it's piping hot."
+    titomi "我给您准备了煎茶，小心烫。"
+
+# game/src/plot/deb26.rpy:1084
+translate zh_hans deb26_shop_33e5d672:
+
+
+    # debbie "Mm, it smells wonderful!"
+    debbie "嗯，闻起来真香！"
+
+# game/src/plot/deb26.rpy:1087
+translate zh_hans deb26_shop_2409fbfc:
+
+
+    # titomi a_notepad f_curious "Have you decided what you want for your meal or do you need more time?"
+    titomi a_notepad f_curious "您决定好要点什么了吗，还是需要再考虑一下？"
+
+# game/src/plot/deb26.rpy:1089
+translate zh_hans deb26_shop_ce8371ba:
+
+    # debbie e_w f_shy "Oh, umm..."
+    debbie e_w f_shy "哦，嗯……"
+
+# game/src/plot/deb26.rpy:1097
 translate zh_hans deb26_shop_7f319835:
 
 
     # anon a_menu_sushi f_shy z_b_f_of "Let's see here."
     anon a_menu_sushi f_shy z_b_f_of "让我看看。"
 
+# game/src/plot/deb26.rpy:1115
+translate zh_hans deb26_shop_d04598a5:
+
+
+    # anon "This nyotaimori thing sounds neat."
+    anon "这个女体盛听起来不错。"
+
+# game/src/plot/deb26.rpy:1118
+translate zh_hans deb26_shop_2b455bb5:
+
+
+    # anon e_w f_curious "You interested in some sushi, [saga.cast.debbie]?"
+    anon e_w f_curious "想尝尝寿司吗，[saga.cast.debbie]？"
+
+# game/src/plot/deb26.rpy:1120
+translate zh_hans deb26_shop_da90bade:
+
+    # debbie f_happy "Mm, yeah!"
+    debbie f_happy "嗯，好！"
+
+# game/src/plot/deb26.rpy:1121
 translate zh_hans deb26_shop_08f165bf:
 
 
     # debbie "I haven't had sushi in years."
     debbie "我好多年没吃寿司了。"
 
+# game/src/plot/deb26.rpy:1125
+translate zh_hans deb26_shop_07eb2680:
+
+    # anon e_ne "We'll take two, please."
+    anon e_ne "我们要两份，谢谢。"
+
+# game/src/plot/deb26.rpy:1127
 translate zh_hans deb26_shop_d9b4671e:
 
 
     # titomi "Ehh, sir... it's really more of a platter... You know, for people to share."
     titomi "呃，先生……这其实更像是一大盘……你知道，供大家分享的。"
 
+# game/src/plot/deb26.rpy:1129
+translate zh_hans deb26_shop_88a203c3:
+
+
+    # anon "Oh, perfect!"
+    anon "哦，太棒了！"
+
+# game/src/plot/deb26.rpy:1132
+translate zh_hans deb26_shop_c22ba0cd:
+
+    # anon e_ne "We'll take the nyotaimori, please."
+    anon e_ne "我们要女体盛，谢谢。"
+
+# game/src/plot/deb26.rpy:1137
 translate zh_hans deb26_shop_d300ba2c:
 
     # titomi @ f_shy "Heh, right."
     titomi @ f_shy "呵，是啊。"
 
+# game/src/plot/deb26.rpy:1147
 translate zh_hans deb26_shop_3b04eacd:
 
 
     # titomi "I guess, I'll just... go and prepare it."
     titomi "那我就……去准备了。"
 
+# game/src/plot/deb26.rpy:1152
+translate zh_hans deb26_shop_6ea3f01f:
+
+    # anon e_ne f_happy "I would like the [what!t]."
+    anon e_ne f_happy "我想要[what!t]。"
+
+# game/src/plot/deb26.rpy:1154
 translate zh_hans deb26_shop_9a04016a:
 
 
     # titomi "Excellent choice."
     titomi "绝佳的选择。"
 
+# game/src/plot/deb26.rpy:1160
+translate zh_hans deb26_shop_f809a122:
+
+
+    # titomi a_notepad e_wsw f_curious "And you, ma'am?"
+    titomi a_notepad e_wsw f_curious "您呢，女士？"
+
+# game/src/plot/deb26.rpy:1161
+translate zh_hans deb26_shop_e124907a:
+
+
+    # debbie e_wnw f_calm "The same, please."
+    debbie e_wnw f_calm "请也给我来一份。"
+
+# game/src/plot/deb26.rpy:1165
+translate zh_hans deb26_shop_d6c33010:
+
+    # titomi a_notepad "Two orders of [what!t]."
+    titomi a_notepad "两份[what!t]。"
+
+# game/src/plot/deb26.rpy:1170
 translate zh_hans deb26_shop_53fe11b7:
 
     # titomi "I'll have it out for you soon."
     titomi "我很快就给您端出来。"
 
+# game/src/plot/deb26.rpy:1176
 translate zh_hans deb26_shop_1c4e6635:
 
 
     # debbie "Thanks, [saga.cast.titomi]."
     debbie "谢谢，[saga.cast.titomi]。"
 
+# game/src/plot/deb26.rpy:1177
+translate zh_hans deb26_shop_454f7f38:
+
+
+    # titomi @ -m_talk "Mhm."
+    titomi @ -m_talk "嗯。"
+
+# game/src/plot/deb26.rpy:1183
+translate zh_hans deb26_shop_1bd2d4f9:
+
+    # anon e_w f_shy "Why don't you pick something?"
+    anon e_w f_shy "你怎么不选点什么？"
+
+# game/src/plot/deb26.rpy:1185
 translate zh_hans deb26_shop_d078d9f7:
 
 
     # debbie f_surprised "M-me?"
     debbie f_surprised "我、我吗？"
 
+# game/src/plot/deb26.rpy:1189
+translate zh_hans deb26_shop_3a468ed1:
+
+
+    # anon "Yeah, I've never really had Japanese before and I trust you to pick something yummy."
+    anon "嗯，我以前没怎么吃过日本菜，相信你一定能挑到好吃的。"
+
+# game/src/plot/deb26.rpy:1191
+translate zh_hans deb26_shop_b3b56dae:
+
+
+    # anon "Yeah, I'm interested to see what you make of the menu and I trust you to pick something yummy."
+    anon "嗯，我也想看看你会怎么选，相信你一定能挑到好吃的。"
+
+# game/src/plot/deb26.rpy:1193
+translate zh_hans deb26_shop_ecb992f3:
+
+
+    # debbie f_shy "Alright."
+    debbie f_shy "好的。"
+
+# game/src/plot/deb26.rpy:1196
+translate zh_hans deb26_shop_bafd7a16:
+
+    # debbie a_menu_sushi e_sw z_b_f_of "Let's see here."
+    debbie a_menu_sushi e_sw z_b_f_of "让我看看。"
+
+# game/src/plot/deb26.rpy:1199
 translate zh_hans deb26_shop_c886d518:
 
 
     # debbie "I'm kinda in the mood for sushi but I don't see-"
     debbie "我有点想吃寿司，但没看到——"
 
+# game/src/plot/deb26.rpy:1202
+translate zh_hans deb26_shop_59f71a5a:
+
+
+    # titomi f_confused "Sushi?"
+    titomi f_confused "寿司？"
+
+# game/src/plot/deb26.rpy:1203
+translate zh_hans deb26_shop_4b10c3ac:
+
+
+    # debbie "Do you have it?"
+    debbie "有吗？"
+
+# game/src/plot/deb26.rpy:1210
+translate zh_hans deb26_shop_0cba4643:
+
+
+    # titomi a_notepad_front e_se f_shy "Ehh, we do..."
+    titomi a_notepad_front e_se f_shy "嗯，有的……"
+
+# game/src/plot/deb26.rpy:1212
+translate zh_hans deb26_shop_0713be0e:
+
+
+    # titomi e_wsw "... It's the nyotaimori dish."
+    titomi e_wsw "……是女体盛那道菜。"
+
+# game/src/plot/deb26.rpy:1216
+translate zh_hans deb26_shop_368533f7:
+
+
+    # debbie f_surprised "Oh, it's so expensive!"
+    debbie f_surprised "哦，太贵了！"
+
+# game/src/plot/deb26.rpy:1217
+translate zh_hans deb26_shop_e42fe5c2:
+
+    # titomi f_worried "Yeah, sorry... it's a platter for multiple people and the presentation is very elabor-"
+    titomi f_worried "嗯，抱歉……这是多人份的拼盘，而且摆盘非常精致——"
+
+# game/src/plot/deb26.rpy:1219
 translate zh_hans deb26_shop_464aaf15:
 
 
     # anon e_ne f_happy "We'll take it!"
     anon e_ne f_happy "我们就要这个！"
 
+# game/src/plot/deb26.rpy:1221
+translate zh_hans deb26_shop_4942cf4e:
+
+    # debbie e_w @ -m_talk "Hmm?!"
+    debbie e_w @ -m_talk "嗯？！"
+
+# game/src/plot/deb26.rpy:1223
 translate zh_hans deb26_shop_78958310:
 
 
     # anon a_table e_w oa_hand z_b_f_of_a "I want this night to be special, [saga.cast.debbie] and money isn't an issue."
     anon a_table e_w oa_hand z_b_f_of_a "我想让今晚变得特别，[saga.cast.debbie]，钱不是问题。"
 
+# game/src/plot/deb26.rpy:1225
+translate zh_hans deb26_shop_5242d979:
+
+
+    # debbie f_sad "Sweetie, are you sure?"
+    debbie f_sad "亲爱的，你确定吗？"
+
+# game/src/plot/deb26.rpy:1226
+translate zh_hans deb26_shop_6bf44e03:
+
+    # anon f_smug "I am."
+    anon f_smug "我就是。"
+
+# game/src/plot/deb26.rpy:1232
 translate zh_hans deb26_shop_e63065b9:
 
 
     # anon "We'll have the sushi thing."
     anon "我们就要那道寿司。"
 
+# game/src/plot/deb26.rpy:1233
+translate zh_hans deb26_shop_364b24d4:
+
+
+    # titomi f_confused "Nyotaimori?"
+    titomi f_confused "女体盛？"
+
+# game/src/plot/deb26.rpy:1234
+translate zh_hans deb26_shop_3788a902_1:
+
+
+    # anon "Yes, please."
+    anon "是的，麻烦您。"
+
+# game/src/plot/deb26.rpy:1237
+translate zh_hans deb26_shop_1a25fb68:
+
+    # anon "We'll have the nyotaimori, please."
+    anon "请给我们来一份女体盛。"
+
+# game/src/plot/deb26.rpy:1243
 translate zh_hans deb26_shop_99910124:
 
 
     # titomi e_nw f_worried "Oh, boy..."
     titomi e_nw f_worried "哦，天啊……"
 
+# game/src/plot/deb26.rpy:1256
+translate zh_hans deb26_shop_fd58d49c:
+
+
+    # titomi "... I'll just, umm... go prepare then."
+    titomi "……那我就，呃……先去准备了。"
+
+# game/src/plot/deb26.rpy:1257
+translate zh_hans deb26_shop_1357fab5:
+
+
+    # anon "Thank you."
+    anon "谢谢你。"
+
+# game/src/plot/deb26.rpy:1258
+translate zh_hans deb26_shop_1d84b369:
+
+
+    # titomi @ -m_talk "Mhmm."
+    titomi @ -m_talk "嗯哼。"
+
+# game/src/plot/deb26.rpy:1266
+translate zh_hans deb26_shop_e0c69098:
+
+
+    # debbie f_calm "Gosh, the workers here are so attractive."
+    debbie f_calm "天啊，这里的服务员都好漂亮。"
+
+# game/src/plot/deb26.rpy:1268
+translate zh_hans deb26_shop_2f513565:
+
+
+    # anon a_table f_horny oa_hand z_b_f_of_a "Mm, they're nothing compared to you."
+    anon a_table f_horny oa_hand z_b_f_of_a "嗯，他们和你没法比。"
+
+# game/src/plot/deb26.rpy:1272
+translate zh_hans deb26_shop_8aeb02bf:
+
+
+    # debbie a_embarrassed f_happy z_b_f_of "Heh, such a charmer."
+    debbie a_embarrassed f_happy z_b_f_of "呵，真会说话。"
+
+# game/src/plot/deb26.rpy:1273
+translate zh_hans deb26_shop_6ef0add5:
+
+    # debbie f_calm "You might feel differently in twenty years when I'm all grey and wrinkly."
+    debbie f_calm "再过二十年，等我满头白发、满脸皱纹，你说不定就不这么想了。"
+
+# game/src/plot/deb26.rpy:1274
 translate zh_hans deb26_shop_7bb70092:
 
 
     # anon f_sad_happy "Nah, no way."
     anon f_sad_happy "不，不可能。"
 
+# game/src/plot/deb26.rpy:1276
+translate zh_hans deb26_shop_7c3d9e67:
+
+
+    # anon f_shy "I love you for more than your looks, [saga.cast.debbie]."
+    anon f_shy "我爱你又不只是因为你的外表，[saga.cast.debbie]。"
+
+# game/src/plot/deb26.rpy:1279
+translate zh_hans deb26_shop_0688ca09:
+
+    # anon a_table_left "You're my favorite person in the entire world and nothing is ever going to change that."
+    anon a_table_left "你是我在这世上最在乎的人，什么都改变不了这一点。"
+
+# game/src/plot/deb26.rpy:1286
 translate zh_hans deb26_shop_3095f33b:
 
 
     # debbie a_hold_hand_anon e_w oa_hand "Aww, sweetie."
     debbie a_hold_hand_anon e_w oa_hand "噢，亲爱的。"
 
+# game/src/plot/deb26.rpy:1288
+translate zh_hans deb26_shop_2328a377:
+
+
+    # debbie f_shy "I wish it was that simple."
+    debbie f_shy "我希望事情能这么简单。"
+
+# game/src/plot/deb26.rpy:1289
+translate zh_hans deb26_shop_d9d26ddf:
+
+
+    # anon "It is."
+    anon "事情本来就这么简单。"
+
+# game/src/plot/deb26.rpy:1290
+translate zh_hans deb26_shop_b715a7a1:
+
+
+    # anon "I promise you, I'm going to spend the rest of my life taking care of you and making you happy."
+    anon "我保证，这辈子都会照顾你、让你幸福。"
+
+# game/src/plot/deb26.rpy:1291
+translate zh_hans deb26_shop_e6df6e2d:
+
+    # debbie f_sad "Tsk."
+    debbie f_sad "啧。"
+
+# game/src/plot/deb26.rpy:1292
 translate zh_hans deb26_shop_e0f5fa1a:
 
 
     # debbie f_confused "Don't you want a nice young girl closer to your own age, sweetie?"
     debbie f_confused "亲爱的，你不想找个更年轻的好女孩吗？"
 
+# game/src/plot/deb26.rpy:1293
+translate zh_hans deb26_shop_d656e3b1:
+
+    # debbie "Someone you can start a family with."
+    debbie "你该找一个能和你组建家庭的人。"
+
+# game/src/plot/deb26.rpy:1294
 translate zh_hans deb26_shop_3676c8cc:
 
     # anon e_sw "I already have a family."
     anon e_sw "我已经有家庭了。"
 
+# game/src/plot/deb26.rpy:1298
 translate zh_hans deb26_shop_488155ed:
 
     # debbie f_shy_surprised @ -m_talk "..."
     debbie f_shy_surprised @ -m_talk "……"
 
+# game/src/plot/deb26.rpy:1300
 translate zh_hans deb26_shop_6c373b3f:
 
 
     # anon e_w f_shy "And you might be right, maybe I will find a girl one day and marry her..."
     anon e_w f_shy "也许你说得对，或许有一天我会遇到一个女孩，然后娶她……"
 
+# game/src/plot/deb26.rpy:1301
+translate zh_hans deb26_shop_34835df0:
+
+
+    # anon "... But that's not going to change how I feel about you."
+    anon "……可这也不会改变我对你的感情。"
+
+# game/src/plot/deb26.rpy:1303
+translate zh_hans deb26_shop_8d5c92ac:
+
+    # anon "You'll always be number one in my heart."
+    anon "你在我心里永远排第一。"
+
+# game/src/plot/deb26.rpy:1304
 translate zh_hans deb26_shop_4a606612:
 
 
     # debbie @ a_hold_hand_wipe_tears_anon e_b oa_none "Sweetie, your wife isn't going to want your old landlady hanging around."
     debbie @ a_hold_hand_wipe_tears_anon e_b oa_none "亲爱的，你未来的妻子不会愿意让你以前的女房东一直待在身边。"
 
+# game/src/plot/deb26.rpy:1306
+translate zh_hans deb26_shop_01719823:
+
+    # anon "Nonsense!"
+    anon "胡说八道！"
+
+# game/src/plot/deb26.rpy:1307
 translate zh_hans deb26_shop_e863e36e:
 
 
     # anon "Any woman I marry will love you just as much as I do."
     anon "不管我娶谁，她都会像我一样爱你。"
 
+# game/src/plot/deb26.rpy:1308
+translate zh_hans deb26_shop_187f4ae4:
+
+    # anon "And if she doesn't, well... she can just find herself a different husband!"
+    anon "她要是接受不了，那就让她另找丈夫！"
+
+# game/src/plot/deb26.rpy:1309
 translate zh_hans deb26_shop_e0d30115:
 
     # debbie f_happy "Heh, sweetie!"
     debbie f_happy "嘿，亲爱的！"
 
+# game/src/plot/deb26.rpy:1310
 translate zh_hans deb26_shop_c6f08202:
 
 
     # anon "I mean it, [saga.cast.debbie]."
     anon "我是认真的，[saga.cast.debbie]。"
 
+# game/src/plot/deb26.rpy:1312
+translate zh_hans deb26_shop_3371d294:
+
+    # anon "I want to be with you... forever and always."
+    anon "我想永远、永远和你在一起。"
+
+# game/src/plot/deb26.rpy:1313
 translate zh_hans deb26_shop_b951e206:
 
     # debbie @ m_lip "Ngh."
     debbie @ m_lip "嗯。"
 
+# game/src/plot/deb26.rpy:1314
 translate zh_hans deb26_shop_07038570:
 
     # debbie "I want that too, sweetie."
     debbie "我也想要那样，亲爱的。"
 
+# game/src/plot/deb26.rpy:1315
 translate zh_hans deb26_shop_48715964:
 
     # anon f_curious "Yeah?"
     anon f_curious "真的吗？"
 
+# game/src/plot/deb26.rpy:1316
 translate zh_hans deb26_shop_01784fd8:
 
 
     # debbie "If you're certain."
     debbie "如果你确定的话。"
 
+# game/src/plot/deb26.rpy:1317
+translate zh_hans deb26_shop_d2ed13c2:
+
+    # anon f_happy "Oh, I am!"
+    anon f_happy "我是认真的！"
+
+# game/src/plot/deb26.rpy:1319
 translate zh_hans deb26_shop_29e6ee37:
 
     # anon "I've never been more certain about anything in my entire life!"
     anon "我这辈子从没对任何事这么确定过！"
 
+# game/src/plot/deb26.rpy:1320
 translate zh_hans deb26_shop_52985d34:
 
     # debbie f_shy "Aww, geez... you're gonna make me cry again."
     debbie f_shy "哎呀……你又要把我说哭了。"
 
+# game/src/plot/deb26.rpy:1321
 translate zh_hans deb26_shop_cb6810f7:
 
     # anon "Heh, c'mere."
     anon "呵，过来。"
 
+# game/src/plot/deb26.rpy:1329
 translate zh_hans deb26_shop_033e714a:
 
 
     # debbie b_anon p_kiss z_reset "Mm."
     debbie b_anon p_kiss z_reset "嗯。"
 
+# game/src/plot/deb26.rpy:1339
+translate zh_hans deb26_shop_95b6be15:
+
+
+    # anon "I love you, [saga.cast.debbie]."
+    anon "我爱你，[saga.cast.debbie]。"
+
+# game/src/plot/deb26.rpy:1340
+translate zh_hans deb26_shop_99a4baff:
+
+
+    # debbie "I love you too, sweetie."
+    debbie "我也爱你，亲爱的。"
+
+# game/src/plot/deb26.rpy:1347
+translate zh_hans deb26_shop_46f4ddd3:
+
+
+    # debbie @ a_cup_sip e_b m_kiss "{i}*Slurp*{/i}"
+    debbie @ a_cup_sip e_b m_kiss "{i}*吸溜*{/i}"
+
+# game/src/plot/deb26.rpy:1348
+translate zh_hans deb26_shop_6b84f279:
+
+
+    # debbie f_happy "Oh, wow."
+    debbie f_happy "哦，哇。"
+
+# game/src/plot/deb26.rpy:1351
+translate zh_hans deb26_shop_0deb1947:
+
+
+    # debbie a_table e_w f_calm oa_hand "That's so yummy!"
+    debbie a_table e_w f_calm oa_hand "太好吃了！"
+
+# game/src/plot/deb26.rpy:1352
+translate zh_hans deb26_shop_c8481ccd:
+
+    # anon "Yeah?"
+    anon "嗯？"
+
+# game/src/plot/deb26.rpy:1353
 translate zh_hans deb26_shop_46712717:
 
     # debbie f_happy @ -m_talk "Mhmm."
     debbie f_happy @ -m_talk "嗯。"
 
+# game/src/plot/deb26.rpy:1381
 translate zh_hans deb26_shop_8f9b09d9:
 
 
     # titomi "Here we are."
     titomi "菜来了。"
 
+# game/src/plot/deb26.rpy:1390
+translate zh_hans deb26_shop_a6142fe8:
+
+
+    # titomi "Two orders of [what!t]."
+    titomi "两份[what!t]。"
+
+# game/src/plot/deb26.rpy:1394
+translate zh_hans deb26_shop_9fa04181:
+
+
+    # anon "Dang, that's a heaping helping!"
+    anon "天啊，这分量也太足了吧！"
+
+# game/src/plot/deb26.rpy:1396
+translate zh_hans deb26_shop_0f362cba:
+
+
+    # debbie e_w "Heh, you might have to carry me to the car after a meal like this."
+    debbie e_w "嘿，吃完这顿我估计得让你扶我上车了。"
+
+# game/src/plot/deb26.rpy:1398
+translate zh_hans deb26_shop_1a7fcac0:
+
+
+    # anon e_w "Yeah, tell me about it."
+    anon e_w "可不是嘛。"
+
+# game/src/plot/deb26.rpy:1401
+translate zh_hans deb26_shop_efcfd0d6:
+
+    # anon "Oh, can you smell that aroma?"
+    anon "哦，你闻到那香味了吗？"
+
+# game/src/plot/deb26.rpy:1403
 translate zh_hans deb26_shop_2cde6f3c:
 
     # debbie "Yeah, it's making my mouth water."
     debbie "是啊，我口水都流出来了。"
 
+# game/src/plot/deb26.rpy:1405
 translate zh_hans deb26_shop_c3a3e99f:
 
 
     # anon "It's like a work of art too!"
     anon "简直像一件艺术品！"
 
+# game/src/plot/deb26.rpy:1407
+translate zh_hans deb26_shop_7d98dede:
+
+
+    # debbie @ -m_talk "Mhmm."
+    debbie @ -m_talk "嗯哼。"
+
+# game/src/plot/deb26.rpy:1410
+translate zh_hans deb26_shop_ade479c1:
+
+    # anon "Oh, man... that looks crispy!"
+    anon "哦，天哪……看起来好脆！"
+
+# game/src/plot/deb26.rpy:1412
 translate zh_hans deb26_shop_2c60bdd2:
 
     # debbie "It looks so succulent."
     debbie "它看起来鲜美多汁。"
 
+# game/src/plot/deb26.rpy:1414
 translate zh_hans deb26_shop_608b4e6f:
 
 
     # anon e_w "Yeah, sucks-que-rant."
     anon e_w "鲜……鲜美多之。"
 
+# game/src/plot/deb26.rpy:1417
+translate zh_hans deb26_shop_ea7d5eea:
+
+    # titomi f_happy @ e_b -m_talk "{i}*Snort*{/i}"
+    titomi f_happy @ e_b -m_talk "{i}*哼*{/i}"
+
+# game/src/plot/deb26.rpy:1420
 translate zh_hans deb26_shop_141401a9:
 
 
     # debbie "Heh, succ-{i}u{/i}-lent, sweetie."
     debbie "呵，是“鲜美多{i}汁{/i}”，亲爱的。"
 
+# game/src/plot/deb26.rpy:1423
+translate zh_hans deb26_shop_972c9b6f:
+
+
+    # anon e_s f_pensive "Whatever."
+    anon e_s f_pensive "随便啦。"
+
+# game/src/plot/deb26.rpy:1428
+translate zh_hans deb26_shop_71578189:
+
+    # anon "Wow, look at the marbling on that!"
+    anon "哇，看看那上面的油花！"
+
+# game/src/plot/deb26.rpy:1430
 translate zh_hans deb26_shop_bdc96e94:
 
 
     # debbie "Yeah, it's beautiful."
     debbie "是啊，真漂亮。"
 
+# game/src/plot/deb26.rpy:1431
+translate zh_hans deb26_shop_01a6df8a:
+
+
+    # debbie "Cooked perfectly too."
+    debbie "火候也恰到好处。"
+
+# game/src/plot/deb26.rpy:1435
+translate zh_hans deb26_shop_9a30cffe:
+
+    # titomi a_wave e_wsw "Enjoy!"
+    titomi a_wave e_wsw "请享用！"
+
+# game/src/plot/deb26.rpy:1436
 translate zh_hans deb26_shop_956d8bd2:
 
     # debbie f_calm "Thanks, [saga.cast.titomi]."
     debbie f_calm "谢谢，[saga.cast.titomi]。"
 
+# game/src/plot/deb26.rpy:1466
 translate zh_hans deb26_shop_7663c8c6:
 
 
     # debbie "N-no, sweetie... you gotta-"
     debbie "不、不，亲爱的……你得——"
 
+# game/src/plot/deb26.rpy:1468
+translate zh_hans deb26_shop_ad3495fd:
+
+
+    # anon a_sticks oa_none v_chew -m_bite @ -m_talk "Nom."
+    anon a_sticks oa_none v_chew -m_bite @ -m_talk "嚼嚼。"
+
+# game/src/plot/deb26.rpy:1470
+translate zh_hans deb26_shop_deeb15ab:
+
+
+    # anon e_w f_worried @ -m_talk "Hmm?"
+    anon e_w f_worried @ -m_talk "嗯？"
+
+# game/src/plot/deb26.rpy:1471
+translate zh_hans deb26_shop_81f066ce:
+
+    # debbie "Hehe, never mind!"
+    debbie "呵呵，不用在意！"
+
+# game/src/plot/deb26.rpy:1477
 translate zh_hans deb26_shop_merge1_244739f4:
 
 
     # mono ""
     mono ""
 
+# game/src/plot/deb26.rpy:1487
+translate zh_hans deb26_shop_merge1_32729989:
+
+
+    # debbie "Goodness, I couldn't eat another bite."
+    debbie "天哪，我一口也吃不下了。"
+
+# game/src/plot/deb26.rpy:1488
+translate zh_hans deb26_shop_merge1_efe9e186:
+
+
+    # anon "Yeah, I-"
+    anon "嗯，我——"
+
+# game/src/plot/deb26.rpy:1490
+translate zh_hans deb26_shop_merge1_7610251d:
+
+
+    # anon f_surprised @ m_bark "{i}*Burp*{/i}"
+    anon f_surprised @ m_bark "{i}*嗝*{/i}"
+
+# game/src/plot/deb26.rpy:1496
+translate zh_hans deb26_shop_merge1_4d22982a:
+
+
+    # anon "I'm glad I switched my order."
+    anon "还好我换了道菜。"
+
+# game/src/plot/deb26.rpy:1498
+translate zh_hans deb26_shop_merge1_23e9dcda:
+
+
+    # anon "I know what you mean."
+    anon "我懂你的意思。"
+
+# game/src/plot/deb26.rpy:1503
+translate zh_hans deb26_shop_merge1_d22f9749:
+
+    # debbie f_calm "Thank you for the meal, sweetie."
+    debbie f_calm "谢谢款待，亲爱的。"
+
+# game/src/plot/deb26.rpy:1504
 translate zh_hans deb26_shop_merge1_1477a9d4:
 
 
     # anon e_w f_happy "Thank {i}you{/i} for letting me take you out!"
     anon e_w f_happy "是我该谢谢{i}你{/i}愿意陪我出来！"
 
+# game/src/plot/deb26.rpy:1505
+translate zh_hans deb26_shop_merge1_20a756be:
+
+
+    # anon "I'm not used to walking around with the prettiest girl in town on my arm."
+    anon "挽着镇上最漂亮的女人走在路上，我还有点不习惯。"
+
+# game/src/plot/deb26.rpy:1506
+translate zh_hans deb26_shop_merge1_91ce7bb1:
+
+
+    # debbie f_happy "Aww, stop exaggerating!"
+    debbie f_happy "哎呀，别夸张了！"
+
+# game/src/plot/deb26.rpy:1508
+translate zh_hans deb26_shop_merge1_981e8ed5:
+
+    # anon oa_hand of_none p_sit z_b_f_of_a "Seriously, [saga.cast.debbie]... You are-"
+    anon oa_hand of_none p_sit z_b_f_of_a "说真的，[saga.cast.debbie]……你真的——"
+
+# game/src/plot/deb26.rpy:1513
 translate zh_hans deb26_shop_merge1_5d9c147c:
 
     # titomi "{i}*Ahem*{/i}"
     titomi "{i}*咳咳*{/i}"
 
+# game/src/plot/deb26.rpy:1514
 translate zh_hans deb26_shop_merge1_4835c218:
 
 
     # titomi "You two doing alright?"
     titomi "你俩还好吗？"
 
+# game/src/plot/deb26.rpy:1520
+translate zh_hans deb26_shop_merge1_d4246e9e:
+
+
+    # anon "Oh, good. You're wearing clothes again."
+    anon "哦，好。你又穿上衣服了。"
+
+# game/src/plot/deb26.rpy:1522
+translate zh_hans deb26_shop_merge1_21ea6f09:
+
+
+    # titomi f_sceptical "Tsk."
+    titomi f_sceptical "啧。"
+
+# game/src/plot/deb26.rpy:1525
+translate zh_hans deb26_shop_merge1_726e330e:
+
+    # titomi e_wsw f_curious "More tea?"
+    titomi e_wsw f_curious "再来点茶？"
+
+# game/src/plot/deb26.rpy:1526
 translate zh_hans deb26_shop_merge1_49c8679c:
 
 
     # debbie e_wnw "No, thank you."
     debbie e_wnw "不，谢谢。"
 
+# game/src/plot/deb26.rpy:1528
+translate zh_hans deb26_shop_merge1_0107979e:
+
+
+    # anon e_ne "We're ready for the bill, please."
+    anon e_ne "我们准备买单了。"
+
+# game/src/plot/deb26.rpy:1529
+translate zh_hans deb26_shop_merge1_ff49ca63:
+
+
+    # titomi f_curious "Cash or charge?"
+    titomi f_curious "现金还是刷卡？"
+
+# game/src/plot/deb26.rpy:1530
+translate zh_hans deb26_shop_merge1_aac725fd:
+
+    # anon "Charge."
+    anon "刷卡。"
+
+# game/src/plot/deb26.rpy:1531
 translate zh_hans deb26_shop_merge1_1b2ed873:
 
     # titomi f_calm "Alright."
     titomi f_calm "好吧。"
 
+# game/src/plot/deb26.rpy:1532
 translate zh_hans deb26_shop_merge1_fa791923:
 
 
     # titomi "Back in a flash."
     titomi "马上回来。"
 
+# game/src/plot/deb26.rpy:1538
+translate zh_hans deb26_shop_merge1_1357fab5:
+
+
+    # anon "Thank you."
+    anon "谢谢。"
+
+# game/src/plot/deb26.rpy:1540
+translate zh_hans deb26_shop_merge1_20385215:
+
+
+    # debbie "I'm glad I don't have her job."
+    debbie "还好我没干她那行。"
+
+# game/src/plot/deb26.rpy:1541
+translate zh_hans deb26_shop_merge1_929da832:
+
+
+    # anon e_w f_curious "Why not?"
+    anon e_w f_curious "为什么不呢？"
+
+# game/src/plot/deb26.rpy:1544
+translate zh_hans deb26_shop_merge1_b820275b:
+
+
+    # anon f_happy "We'd be rich."
+    anon f_happy "我们会发财的。"
+
+# game/src/plot/deb26.rpy:1545
+translate zh_hans deb26_shop_merge1_2df2fd0c:
+
+    # debbie f_pensive "Psh!"
+    debbie f_pensive "噗！"
+
+# game/src/plot/deb26.rpy:1546
 translate zh_hans deb26_shop_merge1_ca194127:
 
     # debbie f_shy "Nobody would wanna eat anything off me."
     debbie f_shy "没人会想吃我身上的东西。"
 
+# game/src/plot/deb26.rpy:1549
 translate zh_hans deb26_shop_merge1_61a94ba5:
 
     # debbie "This place isn't exactly quiet, she looks run off her feet!"
     debbie "这地方可算不上安静，她看起来忙得脚不沾地！"
 
+# game/src/plot/deb26.rpy:1550
 translate zh_hans deb26_shop_merge1_4592643e:
 
     # anon f_horny "I bet you could pull off that uniform though."
     anon f_horny "不过我觉得你穿那件制服肯定很好看。"
 
+# game/src/plot/deb26.rpy:1551
 translate zh_hans deb26_shop_merge1_1a72cd67:
 
     # debbie f_shy "Nobody would wanna see that, sweetie."
     debbie f_shy "没人想看那个，亲爱的。"
 
+# game/src/plot/deb26.rpy:1554
 translate zh_hans deb26_shop_merge1_06a05a94:
 
     # anon a_down f_surprised oa_none p_sit z_reset "You kidding?"
     anon a_down f_surprised oa_none p_sit z_reset "你开玩笑？"
 
+# game/src/plot/deb26.rpy:1556
 translate zh_hans deb26_shop_merge1_b594a736:
 
     # anon a_wtf f_happy "There would be a line out the door!"
     anon a_wtf f_happy "门口会排长队的！"
 
+# game/src/plot/deb26.rpy:1557
 translate zh_hans deb26_shop_merge1_2577ba83:
 
 
     # debbie f_happy @ e_b m_laugh "Hehe!"
     debbie f_happy @ e_b m_laugh "呵呵！"
 
+# game/src/plot/deb26.rpy:1561
+translate zh_hans deb26_shop_merge1_9e38964f:
+
+    # titomi "Here you are, sir."
+    titomi "给您，先生。"
+
+# game/src/plot/deb26.rpy:1564
 translate zh_hans deb26_shop_merge1_b1ce70cc:
 
 
     # anon e_sse "Thanks."
     anon e_sse "谢谢。"
 
+# game/src/plot/deb26.rpy:1569
+translate zh_hans deb26_shop_merge1_b8a7705e:
+
+    # "*Beep*"
+    "*滴*"
+
+# game/src/plot/deb26.rpy:1572
 translate zh_hans deb26_shop_merge1_cae77afb:
 
 
     # titomi a_side e_wsw "Have a pleasant evening."
     titomi a_side e_wsw "祝您晚上愉快。"
 
+# game/src/plot/deb26.rpy:1576
+translate zh_hans deb26_shop_merge1_5574fa07:
+
+
+    # debbie "You too."
+    debbie "您也是。"
+
+# game/src/plot/deb26.rpy:1578
+translate zh_hans deb26_shop_merge1_00c1f6ba:
+
+
+    # anon a_table e_w oa_hand z_b_f_of_a "You ready to-"
+    anon a_table e_w oa_hand z_b_f_of_a "你准备好——"
+
+# game/src/plot/deb26.rpy:1583
+translate zh_hans deb26_shop_merge1_1754c6f0:
+
+    # titomi "Oh, right."
+    titomi "哦，对。"
+
+# game/src/plot/deb26.rpy:1584
 translate zh_hans deb26_shop_merge1_821da1f3:
 
 
     # titomi e_se f_shy "Ugh."
     titomi e_se f_shy "呃。"
 
+# game/src/plot/deb26.rpy:1587
+translate zh_hans deb26_shop_merge1_c19e9274:
+
+
+    # titomi p_ara "Ara Ara."
+    titomi p_ara "啊啦啊啦。"
+
+# game/src/plot/deb26.rpy:1588
+translate zh_hans deb26_shop_merge1_eb780b0f:
+
+    # anon @ -m_talk "..."
+    anon @ -m_talk "……"
+
+# game/src/plot/deb26.rpy:1593
 translate zh_hans deb26_shop_merge1_1cee7a41:
 
 
     # debbie @ -m_talk "..."
     debbie @ -m_talk "……"
 
+# game/src/plot/deb26.rpy:1596
+translate zh_hans deb26_shop_merge1_9c5eb495:
+
+
+    # anon e_w f_shy_surprised "That was weird."
+    anon e_w f_shy_surprised "真奇怪。"
+
+# game/src/plot/deb26.rpy:1597
+translate zh_hans deb26_shop_merge1_6e05964f:
+
+
+    # debbie f_shy "Yeah."
+    debbie f_shy "是啊。"
+
+# game/src/plot/deb26.rpy:1598
+translate zh_hans deb26_shop_merge1_bceeb639:
+
+    # anon f_curious "You ready to get out of here?"
+    anon f_curious "准备回去了吗？"
+
+# game/src/plot/deb26.rpy:1601
 translate zh_hans deb26_shop_merge1_5c2de0f7:
 
     # debbie a_down f_calm p_sit z_reset "Oh, yes please."
     debbie a_down f_calm p_sit z_reset "哦，好的，拜托了。"
 
+# game/src/plot/deb26.rpy:1607
 translate zh_hans deb26_shop_merge1_2fdc1d4a:
 
 
     # mono "The meal couldn't have gone any better and our spirits were high as we left the mall and headed for the parking lot." with fade
     mono "这顿晚餐顺利得不能再顺利了。离开商场、走向停车场时，我们俩的心情都好极了。" with fade
 
+# game/src/plot/deb26.rpy:1610
+translate zh_hans deb26_shop_merge1_0b897fca:
+
+
+    # mono "Short though it was, the ride home was filled with an all too familiar tension, building quickly between us as we traded stolen glances." with fade
+    mono "回家的路虽然不长，可我们不断偷瞄彼此，那股再熟悉不过的暧昧却在车里飞快升温。" with fade
+
+# game/src/plot/deb26.rpy:1618
+translate zh_hans deb26_shop_merge1_5b9a2466:
+
+
+    # anon "Ungh, I'm still stuffed."
+    anon "唔，我还撑着。"
+
+# game/src/plot/deb26.rpy:1619
+translate zh_hans deb26_shop_merge1_c4af1234:
+
+
+    # debbie "Yeah, me too."
+    debbie "嗯，我也是。"
+
+# game/src/plot/deb26.rpy:1620
+translate zh_hans deb26_shop_merge1_e8b213ec:
+
+
+    # debbie f_horny "Kinda feel like I might need to work this meal off before bed."
+    debbie f_horny "感觉睡前得运动一下，消耗掉这顿饭。"
+
+# game/src/plot/deb26.rpy:1621
+translate zh_hans deb26_shop_merge1_b738538f:
+
+
+    # anon f_shy "Oh?"
+    anon f_shy "哦？"
+
+# game/src/plot/deb26.rpy:1622
+translate zh_hans deb26_shop_merge1_efd8fc75:
+
+
+    # anon f_horny "You got something in mind?"
+    anon f_horny "你有想法吗？"
+
+# game/src/plot/deb26.rpy:1623
+translate zh_hans deb26_shop_merge1_b02b6353:
+
+    # debbie "Yeah, I got something."
+    debbie "嗯，我正有个主意。"
+
+# game/src/plot/deb26.rpy:1625
 translate zh_hans deb26_shop_merge1_9323071b:
 
     # debbie a_touch_anon_knee e_sw "Something long... and hard... and warm."
     debbie a_touch_anon_knee e_sw "长长的……硬硬的……还暖暖的。"
 
+# game/src/plot/deb26.rpy:1626
 translate zh_hans deb26_shop_merge1_221e267d:
 
     # anon e_w f_horny "Heh, subtle."
     anon e_w f_horny "呵，真含蓄。"
 
+# game/src/plot/deb26.rpy:1627
 translate zh_hans deb26_shop_merge1_419fd588:
 
     # debbie e_w "Mm, you wanna sleep in my bed tonight?"
     debbie e_w "嗯，你今晚想睡我床上吗？"
 
+# game/src/plot/deb26.rpy:1628
 translate zh_hans deb26_shop_merge1_61265cae:
 
     # anon "Do you even need to ask?"
     anon "这还用问吗？"
 
+# game/src/plot/deb26.rpy:1629
 translate zh_hans deb26_shop_merge1_0dafa05f:
 
 
     # debbie @ e_b f_happy m_laugh "Hehe!"
     debbie @ e_b f_happy m_laugh "嘿嘿！"
 
+# game/src/plot/deb26.rpy:1630
+translate zh_hans deb26_shop_merge1_9e9969d7:
+
+    # anon @ f_horny_smug "I'll bet that dress will look great on your bedroom floor."
+    anon @ f_horny_smug "我敢说，这条裙子扔在你卧室地板上肯定也很好看。"
+
+# game/src/plot/deb26.rpy:1632
 translate zh_hans deb26_shop_merge1_06d80eac:
 
     # debbie p_car_exit "Wait till you see what I've got on underneath."
     debbie p_car_exit "等着瞧我里面穿了什么吧。"
 
+# game/src/plot/deb26.rpy:1633
 translate zh_hans deb26_shop_merge1_1444051e:
 
     # anon a_surprised f_horny "Mm, whatever it is, I'm gonna rip it off with my teeth!"
     anon a_surprised f_horny "嗯，不管是什么，我都要用牙齿把它撕下来！"
 
+# game/src/plot/deb26.rpy:1634
 translate zh_hans deb26_shop_merge1_678c5e13:
 
 
     # debbie e_b f_happy m_laugh @ -m_talk "Hehe!"
     debbie e_b f_happy m_laugh @ -m_talk "嘿嘿！"
 
+# game/src/plot/deb26.rpy:1639
+translate zh_hans deb26_shop_merge1_104e5914:
+
+    # debbie "You'll have to catch me first!"
+    debbie "你得先抓到我！"
+
+# game/src/plot/deb26.rpy:1644
 translate zh_hans deb26_shop_merge1_a0de8118:
 
     # anon "Oh, it's so on!"
     anon "哦，放马过来！"
 
+# game/src/plot/deb26.rpy:1687
 translate zh_hans deb26_shop_merge1_abf14b31:
 
 
     # anon "Man, you're so sexy."
     anon "天哪，你太性感了。"
 
+# game/src/plot/deb26.rpy:1688
+translate zh_hans deb26_shop_merge1_0f1f3131:
+
+
+    # debbie f_horny "I want you so bad!"
+    debbie f_horny "我现在特别想要你！"
+
+# game/src/plot/deb26.rpy:1689
+translate zh_hans deb26_shop_merge1_99c9a8b2:
+
+
+    # debbie a_invite "Take me!!"
+    debbie a_invite "来肏我！！"
+
+# game/src/plot/deb26.rpy:1690
+translate zh_hans deb26_shop_merge1_83bb0974:
+
+
+    # anon "Whoa, hold on."
+    anon "等等，先别急。"
+
+# game/src/plot/deb26.rpy:1691
+translate zh_hans deb26_shop_merge1_51f8f871:
+
+
+    # debbie a_down f_curious @ -m_talk "Hmm?"
+    debbie a_down f_curious @ -m_talk "嗯？"
+
+# game/src/plot/deb26.rpy:1692
+translate zh_hans deb26_shop_merge1_2aa82773:
+
+    # anon "I might need a second to drink this view in."
+    anon "让我先好好欣赏一下眼前的美景。"
+
+# game/src/plot/deb26.rpy:1693
 translate zh_hans deb26_shop_merge1_ee50d2a3:
 
     # debbie f_happy "Hehe, sweetie!!"
     debbie f_happy "嘿嘿，亲爱的！！"
 
+# game/src/plot/deb26.rpy:1694
 translate zh_hans deb26_shop_merge1_a15589ec:
 
     # debbie a_invite f_shy of_blush "Don't tease me."
     debbie a_invite f_shy of_blush "别逗我。"
 
+# game/src/plot/deb26.rpy:1697
 translate zh_hans deb26_shop_merge1_543b086a:
 
     # anon "Aww, alright."
     anon "啊，好吧。"
 
+# game/src/plot/deb26.rpy:1714
 translate zh_hans deb26_shop_merge1_6c7ac28e:
 
 
     # debbie "Oh, sweetie!"
     debbie "哦，亲爱的！"
 
+# game/src/plot/deb26.rpy:1716
+translate zh_hans deb26_shop_merge1_040f2679:
+
+
+    # anon p_bed1_press_kiss_belly "Mm."
+    anon p_bed1_press_kiss_belly "嗯。"
+
+# game/src/plot/deb26.rpy:1717
+translate zh_hans deb26_shop_merge1_bf8a88b8:
+
+
+    # debbie "Heh, that tickles!"
+    debbie "嘿，好痒！"
+
+# game/src/plot/deb26.rpy:1719
+translate zh_hans deb26_shop_merge1_325a0977:
+
+    # debbie f_curious "Sweetie?"
+    debbie f_curious "亲爱的？"
+
+# game/src/plot/deb26.rpy:1721
 translate zh_hans deb26_shop_merge1_fd858284:
 
     # anon p_bed1_press_rip_02 "Rawr!"
     anon p_bed1_press_rip_02 "嗷呜！"
 
+# game/src/plot/deb26.rpy:1723
 translate zh_hans deb26_shop_merge1_a2b18dca:
 
 
     # debbie "Sweetie!" with hpunch
     debbie "亲爱的！" with hpunch
 
+# game/src/plot/deb26.rpy:1724
+translate zh_hans deb26_shop_merge1_ec7aab19:
+
+    # debbie f_shy "{i}*Gulp*{/i} My goodness."
+    debbie f_shy "{i}*咕咚*{/i} 我的天哪。"
+
+# game/src/plot/deb26.rpy:1726
 translate zh_hans deb26_shop_merge1_b27e67db:
 
     # debbie e_ose "I can't believe you did that!"
     debbie e_ose "真不敢相信你真把它撕了！"
 
+# game/src/plot/deb26.rpy:1727
 translate zh_hans deb26_shop_merge1_178fb2d5:
 
 
     # anon "I told you I would."
     anon "我告诉过你我会的。"
 
+# game/src/plot/deb26.rpy:1728
+translate zh_hans deb26_shop_merge1_bf1be959:
+
+    # debbie f_horny m_lip @ -m_talk "Ngh!"
+    debbie f_horny m_lip @ -m_talk "唔！"
+
+# game/src/plot/deb26.rpy:1729
 translate zh_hans deb26_shop_merge1_621fbda8:
 
     # debbie p_bed1_press_open "Don't make me wait anymore, sweetie!"
     debbie p_bed1_press_open "别再让我等了，亲爱的！"
 
+# game/src/plot/deb26.rpy:1730
 translate zh_hans deb26_shop_merge1_b42473c8:
 
 
     # debbie "I need it!!"
     debbie "我现在就要！！"
 
+# game/src/plot/deb26.rpy:1732
+translate zh_hans deb26_shop_merge1_5a8d9354:
+
+    # anon p_bed1_press_hover "What do you need, [saga.cast.debbie]?"
+    anon p_bed1_press_hover "你想要什么，[saga.cast.debbie]？"
+
+# game/src/plot/deb26.rpy:1733
 translate zh_hans deb26_shop_merge1_3b41d636:
 
     # debbie f_shy -m_lip "Y-you."
     debbie f_shy -m_lip "要……要你。"
 
+# game/src/plot/deb26.rpy:1735
 translate zh_hans deb26_shop_merge1_d509465d:
 
     # debbie e_ose "It."
     debbie e_ose "要它。"
 
+# game/src/plot/deb26.rpy:1737
 translate zh_hans deb26_shop_merge1_a54a1907:
 
     # debbie e_onne "P-please, sweetie..."
     debbie e_onne "求你了，亲爱的……"
 
+# game/src/plot/deb26.rpy:1738
 translate zh_hans deb26_shop_merge1_2d4e54e8:
 
     # debbie f_horny "... Give it to me!"
     debbie f_horny "……把它给我！"
 
+# game/src/plot/deb26.rpy:1739
 translate zh_hans deb26_shop_merge1_71e36bbf:
 
 
     # anon "Man, I love hearing that."
     anon "天啊，我就爱听这个。"
 
+# game/src/plot/deb26.rpy:1741
+translate zh_hans deb26_shop_merge1_b32b6831:
+
+
+    # debbie b_anon p_bed1_press_insert "Yes!"
+    debbie b_anon p_bed1_press_insert "对，就是这样！"
+
+# game/src/plot/deb26.rpy:1748
+translate zh_hans deb26_shop_merge1_bdf2ed7d:
+
+
+    # debbie "YES!!!"
+    debbie "对！！！"
+
+# game/src/plot/deb26.rpy:1749
+translate zh_hans deb26_shop_merge1_c51be792:
+
+
+    # debbie "Ahh, my boy!"
+    debbie "啊，我的好小子！"
+
+# game/src/plot/deb26.rpy:1750
+translate zh_hans deb26_shop_merge1_43cbcb3c:
+
+
+    # debbie "My big, {i}big{/i}, boy!!"
+    debbie "我的大……{i}大{/i}宝贝！！"
+
+# game/src/plot/deb26.rpy:1751
+translate zh_hans deb26_shop_merge1_906e7e4a:
+
+
+    # debbie "AHH!!!"
+    debbie "啊！！！"
+
+# game/src/plot/deb26.rpy:1752
+translate zh_hans deb26_shop_merge1_ec16214e:
+
+
+    # anon "You like that?"
+    anon "你喜欢那样吗？"
+
+# game/src/plot/deb26.rpy:1753
+translate zh_hans deb26_shop_merge1_0915411c:
+
+    # debbie "Oh, I love it!"
+    debbie "哦，我太喜欢了！"
+
+# game/src/plot/deb26.rpy:1755
 translate zh_hans deb26_shop_merge1_5586392d:
 
     # debbie "So..."
     debbie "好……"
 
+# game/src/plot/deb26.rpy:1756
 translate zh_hans deb26_shop_merge1_d6a9cada:
 
     # debbie "... Deep!"
     debbie "……深！"
 
+# game/src/plot/deb26.rpy:1758
 translate zh_hans deb26_shop_merge1_c9d9771c:
 
     # debbie s_20 "AHHHH!!!"
     debbie s_20 "啊啊啊！！！"
 
+# game/src/plot/deb26.rpy:1766
 translate zh_hans deb26_shop_merge1_353acc23:
 
 
     # debbie "Do it, baby!"
     debbie "来吧，宝贝！"
 
+# game/src/plot/deb26.rpy:1767
+translate zh_hans deb26_shop_merge1_35464c24:
+
+
+    # anon "Oh, [saga.cast.debbie]!"
+    anon "哦，[saga.cast.debbie]！"
+
+# game/src/plot/deb26.rpy:1769
+translate zh_hans deb26_shop_merge1_d5335b71:
+
+
+    # debbie "YES!!"
+    debbie "太棒了！！"
+
+# game/src/plot/deb26.rpy:1770
+translate zh_hans deb26_shop_merge1_801b27df:
+
+
+    # debbie "Give it to me!!"
+    debbie "给我！！"
+
+# game/src/plot/deb26.rpy:1772
+translate zh_hans deb26_shop_merge1_04c5133b:
+
+    # debbie "Oooohh, give it to me!"
+    debbie "再狠一点，给我！"
+
+# game/src/plot/deb26.rpy:1773
 translate zh_hans deb26_shop_merge1_0980732f:
 
 
     # debbie "Give it, give it!!"
     debbie "给我，全都给我！！"
 
+# game/src/plot/deb26.rpy:1774
+translate zh_hans deb26_shop_merge1_d1d5eb0e:
+
+    # debbie "TO MEEEEE!!!"
+    debbie "全都给我！！！"
+
+# game/src/plot/deb26.rpy:1776
 translate zh_hans deb26_shop_merge1_a8e1cb05:
 
 
     # debbie "Oh!"
     debbie "哦！"
 
+# game/src/plot/deb26.rpy:1778
+translate zh_hans deb26_shop_merge1_8e8fb82b:
+
+    # debbie "Ooh!!"
+    debbie "哦！！"
+
+# game/src/plot/deb26.rpy:1780
 translate zh_hans deb26_shop_merge1_a43653ba:
 
 
     # debbie s_24 "OOOHHH!!!"
     debbie s_24 "哦哦哦！！！"
 
+# game/src/plot/deb26.rpy:1782
+translate zh_hans deb26_shop_merge1_21d525e9:
+
+
+    # debbie "AAAAAAHHHHHHH!!!!"
+    debbie "啊啊啊啊啊！！！！！"
+
+# game/src/plot/deb26.rpy:1784
+translate zh_hans deb26_shop_merge1_134feddc:
+
+
+    # debbie "YES, SWEETIE!!!"
+    debbie "是，亲爱的！！！"
+
+# game/src/plot/deb26.rpy:1785
+translate zh_hans deb26_shop_merge1_5f3a08a4:
+
+    # debbie "YESSSS!!!!"
+    debbie "好耶！！！"
+
+# game/src/plot/deb26.rpy:1787
 translate zh_hans deb26_shop_merge1_d019411b:
 
     # debbie "Ooohh, Fuuuuuuccckkk meeeeee!!!!"
     debbie "哦哦哦，肏我……狠狠肏我啊啊啊啊！！！"
 
+# game/src/plot/deb26.rpy:1788
 translate zh_hans deb26_shop_merge1_07a949c4:
 
 
     # anon "Gah!"
     anon "啊！"
 
+# game/src/plot/deb26.rpy:1790
+translate zh_hans deb26_shop_merge1_2fda485b:
+
+    # anon "[saga.cast.debbie], I'm..."
+    anon "[saga.cast.debbie]，我……"
+
+# game/src/plot/deb26.rpy:1791
 translate zh_hans deb26_shop_merge1_8b074c28:
 
 
     # anon "... Gonna cum!"
     anon "……要射了！"
 
+# game/src/plot/deb26.rpy:1792
+translate zh_hans deb26_shop_merge1_63b87a91:
+
+    # debbie "Oh, goodness... Sweetie!"
+    debbie "哦，天哪……亲爱的！"
+
+# game/src/plot/deb26.rpy:1793
 translate zh_hans deb26_shop_merge1_4157fd60:
 
     # debbie "Do it!!"
     debbie "射吧！！"
 
+# game/src/plot/deb26.rpy:1794
 translate zh_hans deb26_shop_merge1_1918db4e:
 
 
     # debbie "I want it deep inside me!!!"
     debbie "我要你射到我最里面！！！"
 
+# game/src/plot/deb26.rpy:1803
+translate zh_hans deb26_shop_merge1_1d7c5b92:
+
+
+    # anon "H-huh?!"
+    anon "什、什么？！"
+
+# game/src/plot/deb26.rpy:1804
+translate zh_hans deb26_shop_merge1_87c69c69:
+
+    # debbie "NGGHHH!!!"
+    debbie "嗯啊啊啊！！！"
+
+# game/src/plot/deb26.rpy:1810
 translate zh_hans deb26_shop_merge1_f4818637:
 
 
     # anon "[saga.cast.debbie]!"
     anon "[saga.cast.debbie]！"
 
+# game/src/plot/deb26.rpy:1812
+translate zh_hans deb26_shop_merge1_0cf4d269:
+
+
+    # anon "HNNGGG!!!" with flash
+    anon "嗯嗯嗯！！！" with flash
+
+# game/src/plot/deb26.rpy:1813
+translate zh_hans deb26_shop_merge1_d165fd93:
+
+
+    # anon "Haah... haah..."
+    anon "哈啊……哈啊……"
+
+# game/src/plot/deb26.rpy:1814
+translate zh_hans deb26_shop_merge1_71bd3e79:
+
+
+    # debbie "Oh, wow!"
+    debbie "哦，哇！"
+
+# game/src/plot/deb26.rpy:1815
+translate zh_hans deb26_shop_merge1_2add17a6:
+
+    # anon "Hmm?"
+    anon "嗯？"
+
+# game/src/plot/deb26.rpy:1816
 translate zh_hans deb26_shop_merge1_ca2b589e:
 
 
     # debbie e_onne "You came everywhere!"
     debbie e_onne "你射得到处都是！"
 
+# game/src/plot/deb26.rpy:1817
+translate zh_hans deb26_shop_merge1_78ecea72:
+
+    # anon "Heh, yeah..."
+    anon "呵，是啊……"
+
+# game/src/plot/deb26.rpy:1818
 translate zh_hans deb26_shop_merge1_dc96c2ce:
 
     # anon "... Sorry about that."
     anon "……抱歉。"
 
+# game/src/plot/deb26.rpy:1819
 translate zh_hans deb26_shop_merge1_634e9644:
 
     # debbie f_horny "N-no, it's okay!"
     debbie f_horny "不、不，没关系！"
 
+# game/src/plot/deb26.rpy:1822
 translate zh_hans deb26_shop_merge2_bbcf10e8:
 
     # debbie @ e_osse "Mm, I love this."
     debbie @ e_osse "嗯，我喜欢这样。"
 
+# game/src/plot/deb26.rpy:1823
 translate zh_hans deb26_shop_merge2_e642de50:
 
     # anon "What?"
     anon "什么？"
 
+# game/src/plot/deb26.rpy:1824
 translate zh_hans deb26_shop_merge2_db114299:
 
     # debbie "Lying here..."
     debbie "躺在这里……"
 
+# game/src/plot/deb26.rpy:1828
 translate zh_hans deb26_shop_merge2_24de85fd:
 
     # debbie "... Full of your love."
     debbie "……身体里装满了你的爱。"
 
+# game/src/plot/deb26.rpy:1830
 translate zh_hans deb26_shop_merge2_3ddc37d8:
 
 
     # debbie "... Covered in your love."
     debbie "……身上沾满了你的爱。"
 
+# game/src/plot/deb26.rpy:1833
+translate zh_hans deb26_shop_merge2_22af457b:
+
+    # anon "[saga.cast.debbie], I-"
+    anon "[saga.cast.debbie]，我——"
+
+# game/src/plot/deb26.rpy:1835
 translate zh_hans deb26_shop_merge2_a0486592:
 
     # anon "I love you so much!"
     anon "我太爱你了！"
 
+# game/src/plot/deb26.rpy:1843
 translate zh_hans deb26_shop_merge2_244739f4:
 
 
     # mono ""
     mono ""
 
+# game/src/plot/deb26.rpy:1852
+translate zh_hans deb26_shop_merge2_c78a79d9:
+
+
+    # anon "Happy?"
+    anon "开心吗？"
+
+# game/src/plot/deb26.rpy:1853
+translate zh_hans deb26_shop_merge2_134bfe1d:
+
+
+    # debbie f_happy "Heh, very happy!"
+    debbie f_happy "呵，非常开心！"
+
+# game/src/plot/deb26.rpy:1855
+translate zh_hans deb26_shop_merge2_68a9abfe:
+
+
+    # debbie "I love you, sweetie."
+    debbie "我爱你，亲爱的。"
+
+# game/src/plot/deb26.rpy:1856
+translate zh_hans deb26_shop_merge2_1f802486:
+
+
+    # anon "I love y-"
+    anon "我爱——"
+
+# game/src/plot/deb26.rpy:1857
+translate zh_hans deb26_shop_merge2_bb11a04e:
+
+    # anon @ e_b "{i}*Yawn*{/i}"
+    anon @ e_b "{i}*打哈欠*{/i}"
+
+# game/src/plot/deb26.rpy:1858
 translate zh_hans deb26_shop_merge2_84dae8f1:
 
     # anon "Love you too."
     anon "我也爱你。"
 
+# game/src/plot/deb26.rpy:1860
 translate zh_hans deb26_shop_merge2_1ba1db8a:
 
     # debbie "Thank you so much, for tonight."
     debbie "今晚真的谢谢你。"
 
+# game/src/plot/deb26.rpy:1861
 translate zh_hans deb26_shop_merge2_781ff66e:
 
     # anon @ -m_talk "Zzz."
     anon @ -m_talk "呼……"
 
+# game/src/plot/deb26.rpy:1862
 translate zh_hans deb26_shop_merge2_325a0977:
 
     # debbie f_curious "Sweetie?"
     debbie f_curious "亲爱的？"
 
+# game/src/plot/deb26.rpy:1880
 translate zh_hans deb26_shop_merge2_bbd234b4:
 
 
     # anon f_confused p_stand "[saga.cast.debbie]?"
     anon f_confused p_stand "[saga.cast.debbie]？"
 
+# game/src/plot/deb26.rpy:1883
+translate zh_hans deb26_shop_merge2_c7e5d373:
+
+
+    # anon f_shy @ -m_talk "( Hmm, she must be up and about already. )"
+    anon f_shy @ -m_talk "（嗯，她应该已经起床了。）"
+
+# game/src/plot/deb26.rpy:1892
+translate zh_hans deb26_shop_merge2_261ea2f4:
+
+
+    # anon a_side e_w f_happy p_stand @ -m_talk "( Let's go check on her and see how she's feeling about last night. )"
+    anon a_side e_w f_happy p_stand @ -m_talk "（去看看她吧，也问问她对昨晚的事怎么想。）"
+
+# game/src/plot/deb26.rpy:1899
+translate zh_hans deb26_shop_creampie_7a3ac241:
+
+
+    # anon "Oh, jesus..."
+    anon "天啊……"
+
+# game/src/plot/deb26.rpy:1900
+translate zh_hans deb26_shop_creampie_e0897550:
+
+
+    # anon "... [saga.cast.debbie]... I-"
+    anon "……[saga.cast.debbie]……我——"
+
+# game/src/plot/deb26.rpy:1902
+translate zh_hans deb26_shop_creampie_87c69c69:
+
+
+    # debbie "NGGHHH!!!"
+    debbie "嗯啊啊啊！！！"
+
+# game/src/plot/deb26.rpy:1905
+translate zh_hans deb26_shop_creampie_0cf4d269:
+
+    # anon "HNNGGG!!!" with flash
+    anon "嗯——！！！" with flash
+
+# game/src/plot/deb26.rpy:1913
 translate zh_hans deb26_shop_creampie_d165fd93:
 
 
     # anon "Haah... haah..."
     anon "哈啊……哈啊……"
 
+# game/src/plot/deb26.rpy:1914
+translate zh_hans deb26_shop_creampie_a923e4b7:
+
+
+    # debbie d_twitch f_surprised p_bed1_press_pullout_02 s_800ms "Oh, my... goodness."
+    debbie d_twitch f_surprised p_bed1_press_pullout_02 s_800ms "天……天啊。"
+
+# game/src/plot/deb26.rpy:1915
+translate zh_hans deb26_shop_creampie_83f4873b:
+
+
+    # debbie e_onne "Sweetie."
+    debbie e_onne "亲爱的。"
+
+# game/src/plot/deb26.rpy:1916
+translate zh_hans deb26_shop_creampie_c8481ccd:
+
+
+    # anon "Yeah?"
+    anon "嗯？"
+
+# game/src/plot/deb26.rpy:1917
+translate zh_hans deb26_shop_creampie_2cb6292e:
+
+
+    # debbie f_horny "I can feel you leaking out of me."
+    debbie f_horny "我能感觉到你的精液正从我里面流出来。"
+
+# game/src/plot/deb26.rpy:1919
+translate zh_hans deb26_shop_creampie_d8f50d3e:
+
+    # anon "Yeah."
+    anon "嗯。"
+
+# game/src/plot/deb26.rpy:1920
 translate zh_hans deb26_shop_creampie_84de1c53:
 
     # debbie "Heh, it's going to be all over the sheets."
     debbie "呵，会弄得满床单都是。"
 
+# game/src/plot/deb26.rpy:1921
 translate zh_hans deb26_shop_creampie_9ac806c2:
 
     # anon "Sorry."
     anon "抱歉。"
 
+# game/src/plot/deb26.rpy:1922
 translate zh_hans deb26_shop_creampie_b6681ec1:
 
     # debbie e_onne "N-no, it's fine!"
     debbie e_onne "不、不，没事的！"
 
+# game/src/plot/deb26.rpy:1933
 translate zh_hans deb26_shop_rails_f70a93f9:
 
 
     # debbie "Is this it?"
     debbie "就是这个吗？"
 
+# game/src/plot/deb26.rpy:1934
+translate zh_hans deb26_shop_rails_1c5d6949:
+
+
+    # anon e_e f_confused "No, of course not."
+    anon e_e f_confused "不，当然不是。"
+
+# game/src/plot/deb26.rpy:1935
+translate zh_hans deb26_shop_rails_f7b30462:
+
+
+    # anon e_w f_calm "The place we want is next to Cupid."
+    anon e_w f_calm "我们要去的地方就在丘比特旁边。"
+
+# game/src/plot/deb26.rpy:1945
+translate zh_hans deb26_shop_sushi_f36bd6af:
+
+
+    # hana "Pardon me."
+    hana "打扰一下。"
+
+# game/src/plot/deb26.rpy:1946
+translate zh_hans deb26_shop_sushi_a1f0b75a:
+
+
+    # anon @ -m_talk "Hmm?"
+    anon @ -m_talk "嗯？"
+
+# game/src/plot/deb26.rpy:1947
+translate zh_hans deb26_shop_sushi_b3fa748d:
+
+
+    # hana f_curious "You ordered the nyotaimori, yes?"
+    hana f_curious "您点了女体盛，是吗？"
+
+# game/src/plot/deb26.rpy:1948
+translate zh_hans deb26_shop_sushi_6d72e274:
+
+
+    # anon "That's correct."
+    anon "没错。"
+
+# game/src/plot/deb26.rpy:1949
+translate zh_hans deb26_shop_sushi_4de2c87b:
+
+
+    # hana f_happy "Oh, thank you so much!"
+    hana f_happy "哦，非常感谢！"
+
+# game/src/plot/deb26.rpy:1958
+translate zh_hans deb26_shop_sushi_6ebe8ea3:
+
+
+    # hana "It's our house speciality."
+    hana "这是我们的招牌菜。"
+
+# game/src/plot/deb26.rpy:1962
+translate zh_hans deb26_shop_sushi_f7b3f334:
+
+
+    # hana "I'll bring it now."
+    hana "我马上端上来。"
+
+# game/src/plot/deb26.rpy:1968
+translate zh_hans deb26_shop_sushi_ac3ff68a:
+
+
+    # anon e_ene f_confused "Ehh, alright."
+    anon e_ene f_confused "呃，好吧。"
+
+# game/src/plot/deb26.rpy:1969
+translate zh_hans deb26_shop_sushi_b011c89e:
+
+
+    # anon e_w "That seem unusual to you?"
+    anon e_w "你不觉得这反应有点奇怪吗？"
+
+# game/src/plot/deb26.rpy:1972
+translate zh_hans deb26_shop_sushi_060ba94e:
+
+
+    # anon e_w f_happy "They can be a bit over the top sometimes."
+    anon e_w f_happy "他们有时候是有点夸张。"
+
+# game/src/plot/deb26.rpy:1974
+translate zh_hans deb26_shop_sushi_dd710dbe:
+
+    # debbie "Y-yeah, a little."
+    debbie "是、是啊，有一点。"
+
+# game/src/plot/deb26.rpy:1975
 translate zh_hans deb26_shop_sushi_60190e90:
 
 
     # debbie f_surprised @ -m_talk "!!!"
     debbie f_surprised @ -m_talk "！！！"
 
-translate zh_hans deb26_shop_sushi_c2f9334d:
+# game/src/plot/deb26.rpy:1976
+translate zh_hans deb26_shop_sushi_c561ff3a:
+
+
+    # anon f_worried_surprised "What's wrong?"
+    anon f_worried_surprised "怎么了？"
+
+# game/src/plot/deb26.rpy:1991
+translate zh_hans deb26_shop_sushi_b825afe8:
+
+
+    # debbie "Oh. {nw=1}"
+    debbie "哦。{nw=1}"
+
+# game/src/plot/deb26.rpy:1998
+translate zh_hans deb26_shop_sushi_adfc0dfe:
 
 
     # extend "{nw=.3}"
     extend "{nw=.3}"
 
+# game/src/plot/deb26.rpy:2000
+translate zh_hans deb26_shop_sushi_adfc0dfe_1:
+
+
+    # extend "{nw=.3}"
+    extend "{nw=.3}"
+
+# game/src/plot/deb26.rpy:2003
+translate zh_hans deb26_shop_sushi_7f4bb404:
+
+    # extend "My. {nw=.3}"
+    extend "哎呀。{nw=.3}"
+
+# game/src/plot/deb26.rpy:2005
+translate zh_hans deb26_shop_sushi_c2f9334d:
+
+
+    # extend "{nw=2}"
+    extend "{nw=2}"
+
+# game/src/plot/deb26.rpy:2008
+translate zh_hans deb26_shop_sushi_c1d399db:
+
+    # extend e_sw "Goodness!!"
+    extend e_sw "天哪！！"
+
+# game/src/plot/deb26.rpy:2012
 translate zh_hans deb26_shop_sushi_9bcdee24:
 
 
     # hana "Here you are."
     hana "请慢用。"
 
+# game/src/plot/deb26.rpy:2014
+translate zh_hans deb26_shop_sushi_3599719f:
+
+
+    # hana f_happy "Our house special!"
+    hana f_happy "我们的招牌菜！"
+
+# game/src/plot/deb26.rpy:2015
+translate zh_hans deb26_shop_sushi_f256b2fd:
+
+
+    # hana "Nyotaimori."
+    hana "女体盛。"
+
+# game/src/plot/deb26.rpy:2016
+translate zh_hans deb26_shop_sushi_3a9084c6:
+
+
+    # anon e_sse @ -m_talk "..."
+    anon e_sse @ -m_talk "……"
+
+# game/src/plot/deb26.rpy:2019
+translate zh_hans deb26_shop_sushi_b03ca8f2:
+
+    # anon "[saga.cast.titomi]?"
+    anon "[saga.cast.titomi]？"
+
+# game/src/plot/deb26.rpy:2021
 translate zh_hans deb26_shop_sushi_fc26ae68:
 
     # anon f_shy "Hey, [saga.cast.titomi]."
     anon f_shy "嗨，[saga.cast.titomi]。"
 
+# game/src/plot/deb26.rpy:2025
 translate zh_hans deb26_shop_sushi_ebe49958:
 
 
     # hana e_w f_crazy p_ara "Ara Ara!"
     hana e_w f_crazy p_ara "啊啦啊啦！"
 
+# game/src/plot/deb26.rpy:2031
+translate zh_hans deb26_shop_sushi_87bb3e0e:
+
+
+    # hana "Enjoy."
+    hana "请享用。"
+
+# game/src/plot/deb26.rpy:2034
+translate zh_hans deb26_shop_sushi_ca2abfbe:
+
+
+    # debbie e_sw f_shy of_blush @ -m_talk "..."
+    debbie e_sw f_shy of_blush @ -m_talk "……"
+
+# game/src/plot/deb26.rpy:2036
+translate zh_hans deb26_shop_sushi_1757d464:
+
+    # debbie e_w "I didn't realize that nyotaimori was body sushi."
+    debbie e_w "我之前没意识到女体盛就是人体寿司。"
+
+# game/src/plot/deb26.rpy:2041
 translate zh_hans deb26_shop_sushi_e52bd58e:
 
     # anon a_wtf f_confused "What the heck is body sushi?!"
     anon a_wtf f_confused "人体寿司到底是什么鬼？！"
 
+# game/src/plot/deb26.rpy:2042
 translate zh_hans deb26_shop_sushi_e533967f:
 
 
     # debbie e_sw "T-this."
     debbie e_sw "这……这个。"
 
+# game/src/plot/deb26.rpy:2045
+translate zh_hans deb26_shop_sushi_11e779d3:
+
+
+    # anon a_down e_ssw "We're supposed to eat this stuff?"
+    anon a_down e_ssw "这些东西……是让我们吃的？"
+
+# game/src/plot/deb26.rpy:2046
+translate zh_hans deb26_shop_sushi_cfe64259:
+
+    # debbie "Uh huh."
+    debbie "嗯哼。"
+
+# game/src/plot/deb26.rpy:2048
 translate zh_hans deb26_shop_sushi_9f974bb4:
 
 
     # anon e_w f_sceptical "Off her naked body?!"
     anon e_w f_sceptical "从她赤裸的身体上？！"
 
+# game/src/plot/deb26.rpy:2049
+translate zh_hans deb26_shop_sushi_cfe64259_1:
+
+
+    # debbie "Uh huh."
+    debbie "嗯哼。"
+
+# game/src/plot/deb26.rpy:2050
+translate zh_hans deb26_shop_sushi_f6e06452:
+
+    # anon e_ssw f_shy of_blush @ -m_talk "{i}*Gulp*{/i}"
+    anon e_ssw f_shy of_blush @ -m_talk "{i}*咽口水*{/i}"
+
+# game/src/plot/deb26.rpy:2051
 translate zh_hans deb26_shop_sushi_2cd7aa62:
 
     # debbie "Let's just... try not to make this more awkward than it already is."
     debbie "我们就……尽量别让情况比现在更尴尬了。"
 
+# game/src/plot/deb26.rpy:2052
 translate zh_hans deb26_shop_sushi_ad3173cd:
 
 
     # anon e_w "R-right."
     anon e_w "好、好的。"
 
+# game/src/plot/deb26.rpy:2055
+translate zh_hans deb26_shop_sushi_d78eeb7b:
+
+    # "... TODO: [saga.cast.anon] has ordered this before. ..."
+    "……TODO：[saga.cast.anon]以前点过这个。……"
+
+# game/src/plot/deb26.rpy:2070
 translate zh_hans deb26_shop_sushi_76484491:
 
 
     # debbie a_sticks_drop f_worried_surprised z_reset @ -m_talk "!!!"
     debbie a_sticks_drop f_worried_surprised z_reset @ -m_talk "！！！"
 
+# game/src/plot/deb26.rpy:2072
+translate zh_hans deb26_shop_sushi_d5c070c1:
+
+
+    # debbie a_sticks_plate e_ssw "Oh, dear."
+    debbie a_sticks_plate e_ssw "哎呀。"
+
+# game/src/plot/deb26.rpy:2075
+translate zh_hans deb26_shop_sushi_46cfbf02:
+
+    # debbie f_confused @ -m_talk "Hrmph."
+    debbie f_confused @ -m_talk "哼。"
+
+# game/src/plot/deb26.rpy:2094
 translate zh_hans deb26_shop_sushi_ad27bc5a:
 
 
     # debbie a_sticks_plate e_sw f_shy oa_none "I umm... think I'll just get a different piece."
     debbie a_sticks_plate e_sw f_shy oa_none "我、我还是换一块吧。"
 
+# game/src/plot/deb26.rpy:2101
+translate zh_hans deb26_shop_sushi_e011d619:
+
+
+    # anon e_sse f_worried -m_blow "S-so, uhh..."
+    anon e_sse f_worried -m_blow "那……那个……"
+
+# game/src/plot/deb26.rpy:2103
+translate zh_hans deb26_shop_sushi_c2be541a:
+
+
+    # anon a_uneasy f_shy "... H-how you doing?"
+    anon a_uneasy f_shy "……你、你还好吗？"
+
+# game/src/plot/deb26.rpy:2105
+translate zh_hans deb26_shop_sushi_c7855e23:
+
+
+    # titomi "Heh!"
+    titomi "嘿嘿！"
+
+# game/src/plot/deb26.rpy:2106
+translate zh_hans deb26_shop_sushi_45675c46:
+
+    # titomi "You're supposed to pretend I'm not here."
+    titomi "你们就当我不在这里。"
+
+# game/src/plot/deb26.rpy:2108
 translate zh_hans deb26_shop_sushi_6c51d2db:
 
     # anon e_s "Oh, right... sorry."
     anon e_s "哦，对……抱歉。"
 
+# game/src/plot/deb26.rpy:2112
 translate zh_hans deb26_shop_sushi_5dd31ea4:
 
 
     # anon a_sticks e_sse "Just ignore the beautiful naked woman lying inches away from me..."
     anon a_sticks e_sse "就当没看见离我只有几寸远的漂亮裸女……"
 
+# game/src/plot/deb26.rpy:2116
+translate zh_hans deb26_shop_sushi_d11c30fb:
+
+
+    # anon a_sticks_grab e_ssw z_b_f_of "... No problem."
+    anon a_sticks_grab e_ssw z_b_f_of "……没问题。"
+
+# game/src/plot/deb26.rpy:2120
+translate zh_hans deb26_shop_sushi_ef8723d1:
+
+
+    # titomi "Hehe!"
+    titomi "呵呵！"
+
+# game/src/plot/deb26.rpy:2122
+translate zh_hans deb26_shop_sushi_ad3495fd:
+
+
+    # anon a_sticks oa_none v_chew -m_bite @ -m_talk "Nom."
+    anon a_sticks oa_none v_chew -m_bite @ -m_talk "嚼嚼。"
+
+# game/src/plot/deb26.rpy:2126
+translate zh_hans deb26_shop_sushi_c119e7a1:
+
+
+    # anon e_w f_worried "Oh, wow!"
+    anon e_w f_worried "哦，哇！"
+
+# game/src/plot/deb26.rpy:2128
+translate zh_hans deb26_shop_sushi_3d3d59d2:
+
+
+    # debbie e_w @ -m_talk "Mhm."
+    debbie e_w @ -m_talk "嗯哼。"
+
+# game/src/plot/deb26.rpy:2129
+translate zh_hans deb26_shop_sushi_56b437ba:
+
+
+    # anon e_w "That's so good!"
+    anon e_w "真好吃！"
+
+# game/src/plot/deb26.rpy:2130
+translate zh_hans deb26_shop_sushi_c83738c7:
+
+
+    # debbie "Yeah, it really is."
+    debbie "是啊，确实如此。"
+
+# game/src/plot/deb26.rpy:2138
+translate zh_hans deb26_shop_sushi_2af2bcd8:
+
+
+    # anon a_sticks_grab e_sse f_shy z_b_f_of "So, you uhh... come here often?"
+    anon a_sticks_grab e_sse f_shy z_b_f_of "那，呃……你常来这里吗？"
+
+# game/src/plot/deb26.rpy:2141
+translate zh_hans deb26_shop_sushi_4d0ab15a:
+
+
+    # debbie e_w f_shy -m_bite "Sweetie, she works here."
+    debbie e_w f_shy -m_bite "亲爱的，她在这儿工作。"
+
+# game/src/plot/deb26.rpy:2143
+translate zh_hans deb26_shop_sushi_e818804d:
+
+    # anon "I know that, it's just..."
+    anon "我知道，我就是……"
+
+# game/src/plot/deb26.rpy:2145
 translate zh_hans deb26_shop_sushi_552be48e:
 
 
     # anon e_sse "... This is awkward!"
     anon e_sse "……这真尴尬！"
 
+# game/src/plot/deb26.rpy:2147
+translate zh_hans deb26_shop_sushi_de3e9a48:
+
+
+    # titomi "Just think of me as a serving tray."
+    titomi "就把我当成上菜用的托盘吧。"
+
+# game/src/plot/deb26.rpy:2148
+translate zh_hans deb26_shop_sushi_02399310:
+
+    # anon "Right, yeah... Serving tray."
+    anon "对……就当是托盘。"
+
+# game/src/plot/deb26.rpy:2150
 translate zh_hans deb26_shop_sushi_442b700d:
 
     # anon e_ssw "With phenomenal breasts."
     anon e_ssw "还有她那对漂亮得不得了的奶子。"
 
+# game/src/plot/deb26.rpy:2153
 translate zh_hans deb26_shop_sushi_ce22a4fa:
 
     # debbie e_w f_surprised "SWEETIE!!"
     debbie e_w f_surprised "亲爱的！！"
 
+# game/src/plot/deb26.rpy:2155
 translate zh_hans deb26_shop_sushi_b960c0ce:
 
     # anon @ f_shy_surprised "Sorry!"
     anon @ f_shy_surprised "对不起！"
 
+# game/src/plot/deb26.rpy:2158
 translate zh_hans deb26_shop_sushi_d13b687e:
 
     # titomi "Hehehe!"
     titomi "嘿嘿嘿！"
 
+# game/src/plot/deb26.rpy:2166
 translate zh_hans deb26_shop_takoyaki_8f9b09d9:
 
 
     # titomi "Here we are."
     titomi "菜来了。"
 
+# game/src/plot/deb26.rpy:2176
+translate zh_hans deb26_shop_takoyaki_2518c337:
+
+
+    # titomi "Two orders of takoyaki."
+    titomi "两份章鱼烧。"
+
+# game/src/plot/deb26.rpy:2178
+translate zh_hans deb26_shop_takoyaki_7f65d158:
+
+
+    # debbie "Oh, goodness... it's like a painting!"
+    debbie "哦，天哪……简直像一幅画！"
+
+# game/src/plot/deb26.rpy:2179
+translate zh_hans deb26_shop_takoyaki_143cd2e2:
+
+
+    # anon "Yeah, very pretty."
+    anon "是啊，很漂亮。"
+
+# game/src/plot/deb26.rpy:2181
+translate zh_hans deb26_shop_takoyaki_995af648:
+
+    # anon f_confused "It's got kind of a fishy smell."
+    anon f_confused "闻起来有点鱼腥味。"
+
+# game/src/plot/deb26.rpy:2182
 translate zh_hans deb26_shop_takoyaki_d785967e:
 
 
     # anon e_ne "What's in these, again?"
     anon e_ne "这里面有什么来着？"
 
+# game/src/plot/deb26.rpy:2186
+translate zh_hans deb26_shop_takoyaki_3b9ff63c:
+
+    # titomi e_sw "It's a savory wheat batter with octopus."
+    titomi e_sw "这是用小麦面糊包着章鱼做成的咸食。"
+
+# game/src/plot/deb26.rpy:2189
 translate zh_hans deb26_shop_takoyaki_518ebcee:
 
 
     # anon "D-did you say octopus?"
     anon "你……你说章鱼？"
 
+# game/src/plot/deb26.rpy:2192
+translate zh_hans deb26_shop_takoyaki_5f92dd76:
+
+
+    # titomi "That's right."
+    titomi "没错。"
+
+# game/src/plot/deb26.rpy:2194
+translate zh_hans deb26_shop_takoyaki_65fa8313:
+
+    # debbie "It looks excellent."
+    debbie "看起来棒极了。"
+
+# game/src/plot/deb26.rpy:2199
 translate zh_hans deb26_shop_takoyaki_7ddb9622:
 
     # titomi "Enjoy!"
     titomi "请享用！"
 
+# game/src/plot/deb26.rpy:2203
 translate zh_hans deb26_shop_takoyaki_73d522c0:
 
 
     # debbie e_w "Thanks, [saga.cast.titomi]."
     debbie e_w "谢谢，[saga.cast.titomi]。"
 
+# game/src/plot/deb26.rpy:2210
+translate zh_hans deb26_shop_takoyaki_d17bed01:
+
+
+    # anon @ -m_talk "!!!" with hpunch
+    anon @ -m_talk "！！！" with hpunch
+
+# game/src/plot/deb26.rpy:2211
+translate zh_hans deb26_shop_takoyaki_4acbc1ac:
+
+
+    # debbie "You alright?"
+    debbie "你还好吗？"
+
+# game/src/plot/deb26.rpy:2214
+translate zh_hans deb26_shop_takoyaki_6e423314:
+
+
+    # anon e_w f_worried_surprised p_sit @ -m_talk "Hmm?"
+    anon e_w f_worried_surprised p_sit @ -m_talk "嗯？"
+
+# game/src/plot/deb26.rpy:2216
+translate zh_hans deb26_shop_takoyaki_54192d2a:
+
+    # anon a_uneasy f_shy_surprised "O-oh, yeah... I just... need a moment."
+    anon a_uneasy f_shy_surprised "哦、哦，没事……我只是……得缓一缓。"
+
+# game/src/plot/deb26.rpy:2219
 translate zh_hans deb26_shop_takoyaki_ada24e95:
 
     # debbie a_sticks e_ssw "Mm, my mouth is watering!"
     debbie a_sticks e_ssw "嗯，我口水都流出来了！"
 
+# game/src/plot/deb26.rpy:2221
 translate zh_hans deb26_shop_takoyaki_f2f250ae:
 
     # anon a_down p_sit_look_in "Uh huh."
     anon a_down p_sit_look_in "嗯哼。"
 
+# game/src/plot/deb26.rpy:2231
 translate zh_hans deb26_kitchen_244aa2e0:
 
 
     # anon "Good morning, beautiful."
     anon "早上好，美人儿。"
 
+# game/src/plot/deb26.rpy:2232
+translate zh_hans deb26_kitchen_8d18fb29:
+
+
+    # debbie e_ese f_shy p_stove_kiss "Heh, good morning."
+    debbie e_ese f_shy p_stove_kiss "呵，早上好。"
+
+# game/src/plot/deb26.rpy:2233
+translate zh_hans deb26_kitchen_1e3d7387:
+
+
+    # debbie e_b m_lip "Ahh!"
+    debbie e_b m_lip "啊！"
+
+# game/src/plot/deb26.rpy:2235
+translate zh_hans deb26_kitchen_5ba1a947:
+
+
+    # anon "{i}*Muah*{/i}"
+    anon "{i}*啵*{/i}"
+
+# game/src/plot/deb26.rpy:2241
+translate zh_hans deb26_kitchen_eff4a1e5:
+
+
+    # anon "How are you feeling?"
+    anon "你感觉怎么样？"
+
+# game/src/plot/deb26.rpy:2242
+translate zh_hans deb26_kitchen_22fbe884:
+
+
+    # debbie a_clasp @ e_b "Mm, wonderful!"
+    debbie a_clasp @ e_b "嗯，好极了！"
+
+# game/src/plot/deb26.rpy:2243
+translate zh_hans deb26_kitchen_0c7dd6de:
+
+
+    # anon f_shy "Yeah?"
+    anon f_shy "是吗？"
+
+# game/src/plot/deb26.rpy:2244
+translate zh_hans deb26_kitchen_82640eb6:
+
+
+    # debbie a_embarrassed "Thanks again, for last night."
+    debbie a_embarrassed "昨晚……真的谢谢你。"
+
+# game/src/plot/deb26.rpy:2245
+translate zh_hans deb26_kitchen_2d0d9ad5:
+
+
+    # anon f_happy "Oh, it was my pleasure."
+    anon f_happy "我才该说谢谢。"
+
+# game/src/plot/deb26.rpy:2246
+translate zh_hans deb26_kitchen_20edc04a:
+
+    # anon f_horny "In fact, I think we should make it a regular thing."
+    anon f_horny "其实，我觉得以后应该经常来一回。"
+
+# game/src/plot/deb26.rpy:2247
 translate zh_hans deb26_kitchen_fddfac39:
 
     # debbie f_surprised "Oh?"
     debbie f_surprised "哦？"
 
+# game/src/plot/deb26.rpy:2248
 translate zh_hans deb26_kitchen_57ff0936:
 
     # anon "Would you like that?"
     anon "你喜欢我这么叫吗？"
 
+# game/src/plot/deb26.rpy:2249
 translate zh_hans deb26_kitchen_9f1b6f6a:
 
     # debbie f_shy "Aww, sweetie..."
     debbie f_shy "哦，亲爱的……"
 
+# game/src/plot/deb26.rpy:2252
 translate zh_hans deb26_kitchen_34c97092:
 
     # debbie "... Of course, I'd love that!"
     debbie "……当然喜欢！"
 
+# game/src/plot/deb26.rpy:2253
 translate zh_hans deb26_kitchen_8c42c28f:
 
     # anon e_b "Mm, you smell good."
     anon e_b "嗯，你闻起来好香。"
 
+# game/src/plot/deb26.rpy:2257
 translate zh_hans deb26_kitchen_5145fd7e:
 
     # anon e_w f_calm "I have half a mind to throw you down on this counter top and-"
     anon e_w f_calm "我真想把你按在这台面上，然后——"
 
+# game/src/plot/deb26.rpy:2259
 translate zh_hans deb26_kitchen_15079d32:
 
 
     # debbie "Sweetie!!"
     debbie "亲爱的！！"
 
+# game/src/plot/deb26.rpy:2262
+translate zh_hans deb26_kitchen_ba382acd:
+
+    # anon "What?!"
+    anon "什么？！"
+
+# game/src/plot/deb26.rpy:2263
 translate zh_hans deb26_kitchen_744729c7:
 
 
     # debbie f_horny "You're so bad."
     debbie f_horny "你真坏。"
 
+# game/src/plot/deb26.rpy:2264
+translate zh_hans deb26_kitchen_22a9c3dc:
+
+    # anon a_hips f_horny "Yeah, you better believe it."
+    anon a_hips f_horny "那还用说。"
+
+# game/src/plot/deb26.rpy:2270
 translate zh_hans deb26_kitchen_fe81fc84:
 
 
     # jenny "{i}*Ahem*{/i}"
     jenny "{i}*咳咳*{/i}"
 
+# game/src/plot/deb26.rpy:2273
+translate zh_hans deb26_kitchen_b724de80:
+
+
+    # jenny "You two seem extra lovey dovey this morning."
+    jenny "你们俩今天早上看起来特别恩爱。"
+
+# game/src/plot/deb26.rpy:2274
+translate zh_hans deb26_kitchen_9ebe9b85:
+
+
+    # debbie "And why shouldn't we?"
+    debbie "为什么不能？"
+
+# game/src/plot/deb26.rpy:2276
+translate zh_hans deb26_kitchen_1e450958:
+
+
+    # debbie e_e "It's a beautiful morning and we're all happy and healthy."
+    debbie e_e "今天天气这么好，大家也都开开心心、健健康康的。"
+
+# game/src/plot/deb26.rpy:2277
+translate zh_hans deb26_kitchen_f05ed2ba:
+
+
+    # jenny f_annoyed @ e_r "Tch... Yeah, whatever."
+    jenny f_annoyed @ e_r "啧……是啊，随便吧。"
+
+# game/src/plot/deb26.rpy:2278
+translate zh_hans deb26_kitchen_c3a5f4db:
+
+    # jenny "Breakfast on the table?"
+    jenny "早餐摆上桌了吗？"
+
+# game/src/plot/deb26.rpy:2280
 translate zh_hans deb26_kitchen_12eb5a1a:
 
 
     # debbie e_w f_curious @ -m_talk "Hmm?"
     debbie e_w f_curious @ -m_talk "嗯？"
 
+# game/src/plot/deb26.rpy:2281
+translate zh_hans deb26_kitchen_e0121bb5:
+
+    # debbie f_calm "Oh, umm... Yes, dear."
+    debbie f_calm "哦，呃……是的，亲爱的。"
+
+# game/src/plot/deb26.rpy:2283
 translate zh_hans deb26_kitchen_f0bc9eb1:
 
     # debbie "Eggs and bacon and-"
     debbie "鸡蛋和培根，还有——"
 
+# game/src/plot/deb26.rpy:2284
 translate zh_hans deb26_kitchen_1a3c71cb:
 
 
     # jenny e_r "Yeah, yeah."
     jenny e_r "好了，好了。"
 
+# game/src/plot/deb26.rpy:2289
+translate zh_hans deb26_kitchen_1fcceb77:
+
+    # jenny "Happy face pancakes."
+    jenny "笑脸煎饼。"
+
+# game/src/plot/deb26.rpy:2290
 translate zh_hans deb26_kitchen_757abc28:
 
 
     # jenny "You know there's lots of {i}other{/i} things you could cook for breakfast?"
     jenny "你知道早餐还有很多{i}其他{/i}东西可以煮吧？"
 
+# game/src/plot/deb26.rpy:2291
+translate zh_hans deb26_kitchen_b78db7ff:
+
+
+    # jenny "It doesn't have to be his favorite {i}every{/i} time!"
+    jenny "又不能{i}每次{/i}都做他最喜欢的！"
+
+# game/src/plot/deb26.rpy:2292
+translate zh_hans deb26_kitchen_1729f61a:
+
+
+    # anon "Ignore her."
+    anon "别理她。"
+
+# game/src/plot/deb26.rpy:2295
+translate zh_hans deb26_kitchen_7d98dede:
+
+    # debbie @ -m_talk "Mhmm."
+    debbie @ -m_talk "嗯哼。"
+
+# game/src/plot/deb26.rpy:2297
 translate zh_hans deb26_kitchen_cba54165:
 
     # debbie f_calm "Why don't you go take a seat and I'll bring your eggs."
     debbie f_calm "你先去坐吧，我把鸡蛋端过去。"
 
+# game/src/plot/deb26.rpy:2298
 translate zh_hans deb26_kitchen_68ac43fb:
 
 
     # anon e_sw f_happy "I'd rather stay here and oogle you as you cook."
     anon e_sw f_happy "我更想留在这里，看着你做饭。"
 
+# game/src/plot/deb26.rpy:2299
+translate zh_hans deb26_kitchen_c8b7f64e:
+
+
+    # debbie @ e_b f_happy m_laugh "Heh!"
+    debbie @ e_b f_happy m_laugh "嘿！"
+
+# game/src/plot/deb26.rpy:2301
+translate zh_hans deb26_kitchen_ea568eef:
+
+
+    # debbie a_touch_anon_face "You can do that."
+    debbie a_touch_anon_face "看可以。"
+
+# game/src/plot/deb26.rpy:2302
+translate zh_hans deb26_kitchen_9d1d81cf:
+
+    # debbie "But keep your hands to yourself."
+    debbie "但手别乱摸。"
+
+# game/src/plot/deb26.rpy:2303
 translate zh_hans deb26_kitchen_395cad39:
 
     # anon f_shy "Aww!"
     anon f_shy "啊！"
 
+# game/src/plot/deb26.rpy:2305
 translate zh_hans deb26_kitchen_4cf4d4b5:
 
 
     # debbie a_clasp "You're not the only person eating in this house."
     debbie a_clasp "这房子里又不是只有你一个人吃饭。"
 
+# game/src/plot/deb26.rpy:2306
+translate zh_hans deb26_kitchen_b2e4fbb6:
+
+    # anon e_w "Just the most handsome, right?"
+    anon e_w "就是最帅的那个，对吧？"
+
+# game/src/plot/deb26.rpy:2307
 translate zh_hans deb26_kitchen_9be15ab7:
 
     # debbie f_happy @ e_b m_laugh "{i}*Snort*{/i} Hehe!"
     debbie f_happy @ e_b m_laugh "{i}*哼*{/i} 呵呵！"
 
+# game/src/plot/deb26.rpy:2308
 translate zh_hans deb26_kitchen_63e580a4:
 
     # anon f_horny "Maybe after breakfast we could-"
     anon f_horny "或许早餐后我们可以——"
 
+# game/src/plot/deb26.rpy:2310
 translate zh_hans deb26_kitchen_9794be4d:
 
     # debbie "Yes!"
     debbie "好啊！"
 
+# game/src/plot/deb26.rpy:2311
 translate zh_hans deb26_kitchen_1f55a318:
 
     # anon "Yes?"
     anon "真的？"
 
+# game/src/plot/deb26.rpy:2313
 translate zh_hans deb26_kitchen_724cd817:
 
     # anon a_finger f_shy "Just, to clarify, I was about to ask if we could-"
     anon a_finger f_shy "确认一下啊，我刚才是想问，我们吃完早餐能不能——"
 
+# game/src/plot/deb26.rpy:2315
 translate zh_hans deb26_kitchen_6e803ddd:
 
     # debbie f_horny "Hehe, yes, sweetie!"
     debbie f_horny "呵呵，当然可以，亲爱的！"
 
+# game/src/plot/deb26.rpy:2317
 translate zh_hans deb26_kitchen_ce77683a:
 
 
     # debbie "Just come and find me."
     debbie "过来找我吧。"
 
+# game/src/plot/deb26.rpy:2318
+translate zh_hans deb26_kitchen_1ca2a0ff:
+
+    # anon f_happy "Oh my god, I love you so much!"
+    anon f_happy "天哪，我真是太爱你了！"
+
+# game/src/plot/deb26.rpy:2320
 translate zh_hans deb26_kitchen_88e4fd3b:
 
     # debbie b_anon p_kiss "Mm."
     debbie b_anon p_kiss "嗯。"
 
+# game/src/plot/deb26.rpy:2323
 translate zh_hans deb26_kitchen_896be58d:
 
     # debbie f_happy p_stand -b_anon "Heh, I love you too."
     debbie f_happy p_stand -b_anon "呵，我也爱你。"
 
+# game/src/plot/deb26.rpy:2324
 translate zh_hans deb26_kitchen_b4bb7ff9:
 
 
     # debbie "Now let me focus on the food before it burns!"
     debbie "现在让我专心做饭，免得烧糊了！"
 
+# game/src/plot/deb26.rpy:2325
+translate zh_hans deb26_kitchen_c8e5c5a9:
+
+    # anon a_salute "Yes, ma'am."
+    anon a_salute "是，夫人。"
+
+# game/src/plot/deb26.rpy:2330
 translate zh_hans deb26_kitchen_244739f4:
 
 
-    # mono "Yes, ma'am."
-    mono "是，夫人。"
+    # mono ""
+    mono ""
 
-translate zh_hans deb26_pause_debbie_28f426da:
+# game/src/plot/deb26.rpy:2336
+translate zh_hans deb26_kitchen_9766794d:
 
-    # anon "Well, you deserve it, [saga.cast.debbie]."
-    anon "你值得，[saga.cast.debbie]。"
+
+    # anon @ -m_talk "( Mm, [saga.cast.debbie] cooked the heck outta those eggs... delicious! )"
+    anon @ -m_talk "（嗯，[saga.cast.debbie]这鸡蛋煎得真香……太好吃了！）"
+
+# game/src/plot/deb26.rpy:2337
+translate zh_hans deb26_kitchen_24b2e9fa:
+
+
+    # anon e_nw f_pensive @ -m_talk "( And it seems like she's finally gotten over her scruples regarding our relationship. )"
+    anon e_nw f_pensive @ -m_talk "（看来她终于放下了对我们这段关系的道德顾虑。）"
+
+# game/src/plot/deb26.rpy:2338
+translate zh_hans deb26_kitchen_29897698:
+
+
+    # anon e_w f_happy @ -m_talk "( Thank goodness for that! )"
+    anon e_w f_happy @ -m_talk "（谢天谢地！）"
+
+# game/src/plot/deb26.rpy:2339
+translate zh_hans deb26_kitchen_f5139cb3:
+
+
+    # anon e_b m_teeth @ -m_talk "( I should see what all she's willing to do now. )"
+    anon e_b m_teeth @ -m_talk "（得看看她现在愿意陪我玩到什么程度。）"
+
+# game/src/plot/deb26.rpy:2348
+translate zh_hans deb26_kitchen_rails_45a884c5:
+
+
+    # anon @ -m_talk "( I should speak with [saga.cast.debbie]. )"
+    anon @ -m_talk "（我应该和[saga.cast.debbie]谈谈。）"
+
+# game/src/plot/deb26.rpy:2349
+translate zh_hans deb26_kitchen_rails_0c342043:
+
+
+    # anon @ -m_talk "( She's probably in the kitchen cooking breakfast. )"
+    anon @ -m_talk "（她大概在厨房做早餐。）"
 
 translate zh_hans strings:
 

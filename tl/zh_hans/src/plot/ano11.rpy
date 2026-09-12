@@ -519,11 +519,10 @@ translate zh_hans ano11_shop_82e2c16c:
     tina f_calm o_left "他们是我认识的最好的人。"
 
 # game/src/plot/ano11.rpy:141
-translate zh_hans ano11_shop_a9d4859e:
+translate zh_hans ano11_shop_e0f9f295:
 
-
-    # maria a_relieved x_spoon "Aww."
-    maria a_relieved x_spoon "哎哟。"
+    # maria a_relieved "Aww."
+    maria a_relieved "哎哟。"
 
 # game/src/plot/ano11.rpy:143
 translate zh_hans ano11_shop_52087afc:
@@ -2260,11 +2259,6 @@ translate zh_hans ano11_maria_fence_8c7c4bbe:
 
     # anon a_think e_nw f_pensive @ -m_talk "( ... Perhaps [saga.cast.maria] and I together could manage it though. )"
     anon a_think e_nw f_pensive @ -m_talk "（……不过，我和[saga.cast.maria]一起搬，说不定能行。）"
-
-translate zh_hans ano11_shop_e0f9f295:
-
-    # maria a_relieved "Aww."
-    maria a_relieved "哎哟。"
 
 translate zh_hans strings:
 

@@ -1009,47 +1009,44 @@ translate zh_hans jen08_ivy_rails_441f4c64:
     anon e_nw f_pensive @ -m_talk "（也许偷听一下，就能知道她是从哪儿弄来的。）"
 
 # game/src/plot/jen08.rpy:339
-translate zh_hans jen08_toy_30b11d25:
-
-    # anon "( Hmm, it's not exactly what [saga.cast.jenny] wanted but it's pretty close. )"
-    anon "（嗯，虽然不是[saga.cast.jenny]想要的那款，但也差不多。）"
+translate zh_hans jen08_toy_c8e3188c:
+    # anon @ -m_talk "( Hmm, it's not exactly what [saga.cast.jenny] wanted but it's pretty close. )"
+    anon @ -m_talk "（嗯，虽然不是[saga.cast.jenny]想要的那款，但也差不多。）"
 
 # game/src/plot/jen08.rpy:340
-translate zh_hans jen08_toy_d5cc8703:
+translate zh_hans jen08_toy_092222c6:
+    # anon @ -m_talk "( ... Maybe she won't notice the difference? )"
+    anon @ -m_talk "（……也许她看不出区别？）"
 
-    # anon "( ... Maybe she won't notice the difference? )"
-    anon "（……也许她看不出区别？）"
-
-# game/src/plot/jen08.rpy:346
-translate zh_hans jen08_toy_ef4e7ddc:
-
-    # anon "( I probably shouldn't just take this thing without leaving her some money... )"
-    anon "（直接拿走好像不太好，至少该给她留点钱……）"
+# game/src/plot/jen08.rpy:345
+translate zh_hans jen08_toy_173c21eb:
+    # anon o_right @ -m_talk "( I probably shouldn't just take this thing without leaving her some money... )"
+    anon o_right @ -m_talk "（直接拿走好像不太好，至少该给她留点钱……）"
 
 # game/src/plot/jen08.rpy:350
-translate zh_hans jen08_toy_26651eda:
+translate zh_hans jen08_toy_a95a3aee:
+    # anon a_cash_count @ -m_talk "( ... She was looking for refund after all... )"
+    anon a_cash_count @ -m_talk "（……毕竟她本来就是来退款的……）"
 
-    # anon "( ... She was looking for refund after all... )"
-    anon "（……毕竟她本来就是来退款的……）"
+# game/src/plot/jen08.rpy:351
+translate zh_hans jen08_toy_ac8a8229:
+    # anon a_cash_bills e_sw @ -m_talk "( ... So I think it will be fine. )"
+    anon a_cash_bills e_sw @ -m_talk "（……所以留钱应该就没问题了。）"
 
 # game/src/plot/jen08.rpy:354
-translate zh_hans jen08_toy_ab2eea2f:
+translate zh_hans jen08_toy_94b27fd5:
+    # anon a_lollipop e_sw @ -m_talk "( ... But all I have is this lollipop... )"
+    anon a_lollipop e_sw @ -m_talk "（……可我身上只有这根棒棒糖……）"
 
-    # anon "( ... But all I have is this lollipop... )"
-    anon "（……可我身上只有这根棒棒糖……）"
-
-# game/src/plot/jen08.rpy:356
-translate zh_hans jen08_toy_44a64384:
-
-    # anon "Slightly used..."
-    anon "还舔过几口……"
+# game/src/plot/jen08.rpy:355
+translate zh_hans jen08_toy_72357421:
+    # anon a_lollipop_suck e_w f_smug v_lollipop @ -m_talk "( ... Slightly used. )"
+    anon a_lollipop_suck e_w f_smug v_lollipop @ -m_talk "（……还舔过几口。）"
 
 # game/src/plot/jen08.rpy:359
-translate zh_hans jen08_toy_60da78f5:
-
-    # anon "( Alright, now to get this thing home to [saga.cast.jenny] and claim my reward! )"
-    anon "（好了，现在把它带回去交给[saga.cast.jenny]，拿到我应得的奖励！）"
-
+translate zh_hans jen08_toy_418a6663:
+    # anon a_pocket e_w f_happy o_left @ -m_talk "( Alright, now to get this thing home to [saga.cast.jenny] and claim my reward! )"
+    anon a_pocket e_w f_happy o_left @ -m_talk "（好了，现在把它带回去交给[saga.cast.jenny]，拿到我应得的奖励！）"
 # game/src/plot/jen08.rpy:368
 translate zh_hans jen08_toy_rails_34a13952:
 
@@ -1883,35 +1880,3 @@ translate zh_hans jen08_jenny_area_5b74bc74:
 
     # anon "Oh, right. Will do!"
     anon "哦，对。没问题！"
-
-translate zh_hans jen08_toy_c8e3188c:
-    # anon @ -m_talk "( Hmm, it's not exactly what [saga.cast.jenny] wanted but it's pretty close. )"
-    anon @ -m_talk "（嗯，虽然不是[saga.cast.jenny]想要的那款，但也差不多。）"
-
-translate zh_hans jen08_toy_092222c6:
-    # anon @ -m_talk "( ... Maybe she won't notice the difference? )"
-    anon @ -m_talk "（……也许她看不出区别？）"
-
-translate zh_hans jen08_toy_173c21eb:
-    # anon o_right @ -m_talk "( I probably shouldn't just take this thing without leaving her some money... )"
-    anon o_right @ -m_talk "（直接拿走好像不太好，至少该给她留点钱……）"
-
-translate zh_hans jen08_toy_a95a3aee:
-    # anon a_cash_count @ -m_talk "( ... She was looking for refund after all... )"
-    anon a_cash_count @ -m_talk "（……毕竟她本来就是来退款的……）"
-
-translate zh_hans jen08_toy_ac8a8229:
-    # anon a_cash_bills e_sw @ -m_talk "( ... So I think it will be fine. )"
-    anon a_cash_bills e_sw @ -m_talk "（……所以留钱应该就没问题了。）"
-
-translate zh_hans jen08_toy_94b27fd5:
-    # anon a_lollipop e_sw @ -m_talk "( ... But all I have is this lollipop... )"
-    anon a_lollipop e_sw @ -m_talk "（……可我身上只有这根棒棒糖……）"
-
-translate zh_hans jen08_toy_72357421:
-    # anon a_lollipop_suck e_w f_smug v_lollipop @ -m_talk "( ... Slightly used. )"
-    anon a_lollipop_suck e_w f_smug v_lollipop @ -m_talk "（……还舔过几口。）"
-
-translate zh_hans jen08_toy_418a6663:
-    # anon a_pocket e_w f_happy o_left @ -m_talk "( Alright, now to get this thing home to [saga.cast.jenny] and claim my reward! )"
-    anon a_pocket e_w f_happy o_left @ -m_talk "（好了，现在把它带回去交给[saga.cast.jenny]，拿到我应得的奖励！）"

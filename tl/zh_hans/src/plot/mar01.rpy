@@ -714,381 +714,418 @@ translate zh_hans mar01_maria_reuse_3e2a759d:
     # maria "OH MY GAWD!!!"
     maria "哦，我的天哪！！！"
 
-# game/src/plot/mar01.rpy:208
+# game/src/plot/mar01.rpy:209
 translate zh_hans mar01_maria_reuse_0cf4d269:
 
 
     # anon "HNNGGG!!!" with flash
     anon "嗯啊！！！" with flash
 
-# game/src/plot/mar01.rpy:209
+# game/src/plot/mar01.rpy:210
 translate zh_hans mar01_maria_reuse_106336e6:
 
     # maria "NGGHHH!!!"
     maria "呃啊啊！！！"
 
 # game/src/plot/mar01.rpy:212
-translate zh_hans mar01_maria_reuse_f1cd37cf:
-
-    # maria "G-good... lord."
-    maria "天、天哪。"
-
-# game/src/plot/mar01.rpy:215
-translate zh_hans mar01_maria_reuse_707fd00a:
-
-    # anon "I dunno."
-    anon "我不知道。"
-
-# game/src/plot/mar01.rpy:239
-translate zh_hans mar01_maria_merge_42c80b6c:
-
-
-    # maria "You really know how to show an old gal a good time."
-    maria "你可真会让老娘尽兴，小子。"
-
-# game/src/plot/mar01.rpy:240
-translate zh_hans mar01_maria_merge_d8f50d3e:
-
-    # anon "Yeah."
-    anon "是啊。"
-
-# game/src/plot/mar01.rpy:246
-translate zh_hans mar01_maria_merge_62ac37c2:
-
-
-    # maria "Aww, c'mon... what's the matter, [saga.cast.anon]?"
-    maria "哎呀，别这样……怎么了，[saga.cast.anon]？"
-
-# game/src/plot/mar01.rpy:247
-translate zh_hans mar01_maria_merge_9f964ddc:
-
-    # anon e_w @ -m_talk "Hmm?"
-    anon e_w @ -m_talk "嗯？"
-
-# game/src/plot/mar01.rpy:251
-translate zh_hans mar01_maria_merge_74bbb51b:
-
-    # anon a_side e_sw f_worried "I'm just-"
-    anon a_side e_sw f_worried "我只是——"
-
-# game/src/plot/mar01.rpy:258
-translate zh_hans mar01_maria_merge_47953518:
-
-    # anon "Yeah, I know but... that was just about helping you guys concieve."
-    anon "是啊，我知道，可那只是为了帮你们怀孕……"
-
-# game/src/plot/mar01.rpy:267
-translate zh_hans mar01_maria_merge_7867914b:
-
-
-    # maria "... [saga.cast.tony] ain't gonna mind us havin' a bit of recreational fun now and again."
-    maria "……[saga.cast.tony]不会介意我们偶尔这样寻点乐子。"
-
-# game/src/plot/mar01.rpy:268
-translate zh_hans mar01_maria_merge_c7d579c3:
-
-    # anon f_confused "Are you sure?"
-    anon f_confused "你确定？"
-
-# game/src/plot/mar01.rpy:272
-translate zh_hans mar01_maria_merge_4034aea8:
-
-    # anon f_shy "Heh, really?"
-    anon f_shy "嘿，真的吗？"
-
-# game/src/plot/mar01.rpy:282
-translate zh_hans mar01_maria_merge_b2a85f73:
-
-    # maria "So the more kids, the betta."
-    maria "所以孩子越多越好嘛。"
-
-# game/src/plot/mar01.rpy:288
-translate zh_hans mar01_maria_merge_59c16417:
-
-    # maria f_horny "Heh, yer so adorable!"
-    maria f_horny "嘿，你可真招人疼！"
-
-# game/src/plot/mar01.rpy:293
-translate zh_hans mar01_maria_merge_34f58be3:
-
-
-    # maria "It was just what I needed."
-    maria "正是我需要的。"
-
-# game/src/plot/mar01.rpy:294
-translate zh_hans mar01_maria_merge_b61f75a7:
-
-    # anon a_salute "Happy to be of service, boss."
-    anon a_salute "能帮上忙就好，老板。"
-
-# game/src/plot/mar01.rpy:303
-translate zh_hans mar01_maria_merge_15b1f2c7:
-
-
-    # maria b_anon e_b f_calm @ -m_talk "Mm."
-    maria b_anon e_b f_calm @ -m_talk "嗯。"
-
-# game/src/plot/mar01.rpy:307
-translate zh_hans mar01_maria_merge_a884915f:
-
-
-    # maria "Now beat it, would ya?!"
-    maria "现在快走，行了吧？！"
-
-# game/src/plot/mar01.rpy:310
-translate zh_hans mar01_maria_merge_94a65b21:
-
-
-    # maria "I got cookin' to do."
-    maria "我还得做饭呢。"
-
-# game/src/plot/mar01.rpy:311
-translate zh_hans mar01_maria_merge_16168acc:
-
-    # anon "Right, yeah... okay."
-    anon "好吧，好吧……"
-
-# game/src/plot/mar01.rpy:315
-translate zh_hans mar01_maria_merge_501607d7:
-
-
-    # maria "You too, kid."
-    maria "你也是，小子。"
-
-# game/src/plot/mar01.rpy:322
-translate zh_hans mar01_maria_creampie_b090a63d:
-
-
-    # anon "If you say so."
-    anon "既然你这么说。"
-
-# game/src/plot/mar01.rpy:324
-translate zh_hans mar01_maria_creampie_b9a63791:
-
-
-    # maria "OH, GAWD!!"
-    maria "哦，天哪！！"
-
-# game/src/plot/mar01.rpy:325
-translate zh_hans mar01_maria_creampie_e814bd3c:
-
-    # anon "Here it... comes!!"
-    anon "来了……要来了！！"
-
-# game/src/plot/mar01.rpy:330
-translate zh_hans mar01_maria_creampie_bf348d30:
-
-    # maria p_cum_02 "NGGHHH!!!"
-    maria p_cum_02 "嗯啊啊啊！！！"
-
-# game/src/plot/mar01.rpy:337
-translate zh_hans mar01_maria_creampie_a9222fef:
-
-
-    # maria m_lip p_turn @ -m_talk "Mm."
-    maria m_lip p_turn @ -m_talk "嗯。"
-
 translate zh_hans mar01_maria_reuse_1ff51220:
 
 
     # anon ob_cum p_stand "Haah... haah..."
     anon ob_cum p_stand "哈啊……哈啊……"
 
+# game/src/plot/mar01.rpy:213
+translate zh_hans mar01_maria_reuse_f1cd37cf:
+
+    # maria "G-good... lord."
+    maria "天、天哪。"
+
+# game/src/plot/mar01.rpy:215
 translate zh_hans mar01_maria_reuse_8f27c61f:
 
 
     # maria "What happened, [saga.cast.anon]?"
     maria "怎么拔出来了，[saga.cast.anon]？"
 
+# game/src/plot/mar01.rpy:216
+translate zh_hans mar01_maria_reuse_707fd00a:
+
+    # anon "I dunno."
+    anon "我不知道。"
+
+# game/src/plot/mar01.rpy:217
 translate zh_hans mar01_maria_reuse_d5cc2789:
 
     # anon "The moment came and I just sort-"
     anon "刚才要射的时候，我就下意识地拔了出来——"
 
+# game/src/plot/mar01.rpy:218
 translate zh_hans mar01_maria_reuse_1ef1300c:
 
     # maria f_calm "Aww, it's okay."
     maria f_calm "哎呀，没事。"
 
+# game/src/plot/mar01.rpy:219
 translate zh_hans mar01_maria_reuse_c8481ccd:
 
     # anon "Yeah?"
     anon "真的？"
 
+# game/src/plot/mar01.rpy:220
 translate zh_hans mar01_maria_reuse_b95eb085:
 
     # maria "Just don't tell [saga.cast.tony], alright?"
     maria "只要别告诉[saga.cast.tony]，行吗？"
 
+# game/src/plot/mar01.rpy:221
 translate zh_hans mar01_maria_reuse_37aed4bb:
 
     # anon "Oh."
     anon "哦。"
 
+# game/src/plot/mar01.rpy:222
 translate zh_hans mar01_maria_reuse_a1f61959:
 
     # anon "Y-yeah, okay."
     anon "是、是啊，好吧。"
 
+# game/src/plot/mar01.rpy:238
 translate zh_hans mar01_maria_merge_f308aedc:
 
 
     # maria "Phew... Jesus, kid!"
     maria "呼……天哪，小子！"
 
+# game/src/plot/mar01.rpy:240
+translate zh_hans mar01_maria_merge_42c80b6c:
+
+
+    # maria "You really know how to show an old gal a good time."
+    maria "你可真会让老娘尽兴，小子。"
+
+# game/src/plot/mar01.rpy:241
+translate zh_hans mar01_maria_merge_d8f50d3e:
+
+    # anon "Yeah."
+    anon "是啊。"
+
+# game/src/plot/mar01.rpy:242
 translate zh_hans mar01_maria_merge_174ec626:
 
     # maria e_b f_happy m_laugh @ -m_talk "Heh, I'm gonna be walkin' funny for the rest of the day!"
     maria e_b f_happy m_laugh @ -m_talk "呵，我今天剩下的时间走路都得怪怪的了！"
 
+# game/src/plot/mar01.rpy:244
 translate zh_hans mar01_maria_merge_675a249d:
 
 
     # anon "Uh huh."
     anon "嗯哼。"
 
+# game/src/plot/mar01.rpy:247
+translate zh_hans mar01_maria_merge_62ac37c2:
+
+
+    # maria "Aww, c'mon... what's the matter, [saga.cast.anon]?"
+    maria "哎呀，别这样……怎么了，[saga.cast.anon]？"
+
+# game/src/plot/mar01.rpy:248
+translate zh_hans mar01_maria_merge_9f964ddc:
+
+    # anon e_w @ -m_talk "Hmm?"
+    anon e_w @ -m_talk "嗯？"
+
+# game/src/plot/mar01.rpy:249
 translate zh_hans mar01_maria_merge_988ad157:
 
     # maria a_fold f_annoyed "Ya can't tell me ya didn't enjoy that."
     maria a_fold f_annoyed "你可别说你不喜欢。"
 
+# game/src/plot/mar01.rpy:251
 translate zh_hans mar01_maria_merge_eb6b14d1:
 
 
     # anon a_surprised f_shy_surprised "Well, yeah... of course I did!"
     anon a_surprised f_shy_surprised "嗯，是啊……当然喜欢！"
 
+# game/src/plot/mar01.rpy:252
+translate zh_hans mar01_maria_merge_74bbb51b:
+
+    # anon a_side e_sw f_worried "I'm just-"
+    anon a_side e_sw f_worried "我只是——"
+
+# game/src/plot/mar01.rpy:253
 translate zh_hans mar01_maria_merge_11a5e3e5:
 
     # anon a_pocket "This doesn't feel right."
     anon a_pocket "感觉不太对。"
 
+# game/src/plot/mar01.rpy:254
 translate zh_hans mar01_maria_merge_d5dd0579:
 
     # maria a_hips "What do ya mean?"
     maria a_hips "你什么意思？"
 
+# game/src/plot/mar01.rpy:255
 translate zh_hans mar01_maria_merge_fc95a386:
 
     # anon e_w "I'm just thinking about [saga.cast.tony]... you know?"
     anon e_w "我只是想起[saga.cast.tony]了……你知道的。"
 
+# game/src/plot/mar01.rpy:256
 translate zh_hans mar01_maria_merge_9e24d307:
 
     # maria f_sceptical "Tsk, is that what's botherin' ya?"
     maria f_sceptical "啧，你就是在介意这个？"
 
+# game/src/plot/mar01.rpy:258
 translate zh_hans mar01_maria_merge_d63ade91:
 
 
     # maria "Ya know, I seem to remember this whole thing bein' his idea."
     maria "你知道吗，我记得这整件事本来就是他的主意。"
 
+# game/src/plot/mar01.rpy:259
+translate zh_hans mar01_maria_merge_47953518:
+
+    # anon "Yeah, I know but... that was just about helping you guys concieve."
+    anon "是啊，我知道，可那只是为了帮你们怀孕……"
+
+# game/src/plot/mar01.rpy:260
 translate zh_hans mar01_maria_merge_97b96d8c:
 
     # anon e_w "This was-"
     anon e_w "这次是——"
 
+# game/src/plot/mar01.rpy:261
 translate zh_hans mar01_maria_merge_dbde23c3:
 
     # maria f_horny "About gettin' ya rocks off?"
     maria f_horny "是为了让你爽一把？"
 
+# game/src/plot/mar01.rpy:262
 translate zh_hans mar01_maria_merge_94dab44e:
 
     # anon e_sw "Yeah."
     anon e_sw "是啊。"
 
+# game/src/plot/mar01.rpy:263
 translate zh_hans mar01_maria_merge_21b39313:
 
     # maria e_b f_happy m_laugh @ -m_talk "Heh."
     maria e_b f_happy m_laugh @ -m_talk "呵。"
 
+# game/src/plot/mar01.rpy:266
 translate zh_hans mar01_maria_merge_4bcebbad:
 
 
     # maria "Listen, kid..."
     maria "听着，小子……"
 
+# game/src/plot/mar01.rpy:268
+translate zh_hans mar01_maria_merge_7867914b:
+
+
+    # maria "... [saga.cast.tony] ain't gonna mind us havin' a bit of recreational fun now and again."
+    maria "……[saga.cast.tony]不会介意我们偶尔这样寻点乐子。"
+
+# game/src/plot/mar01.rpy:269
+translate zh_hans mar01_maria_merge_c7d579c3:
+
+    # anon f_confused "Are you sure?"
+    anon f_confused "你确定？"
+
+# game/src/plot/mar01.rpy:270
 translate zh_hans mar01_maria_merge_43194ceb:
 
     # maria a_hips f_happy "Positive."
     maria a_hips f_happy "肯定的。"
 
+# game/src/plot/mar01.rpy:272
 translate zh_hans mar01_maria_merge_1153aab4:
 
 
     # maria "And hey, if you still feelin' a bit of guilt... then I guess, you'll just have to pump another baby in me."
     maria "嘿，要是你还觉得有点内疚……那就只好再让我怀上一个孩子了。"
 
+# game/src/plot/mar01.rpy:273
+translate zh_hans mar01_maria_merge_4034aea8:
+
+    # anon f_shy "Heh, really?"
+    anon f_shy "嘿，真的吗？"
+
+# game/src/plot/mar01.rpy:274
 translate zh_hans mar01_maria_merge_bdf7b998:
 
     # maria "Well, yeah."
     maria "嗯，是啊。"
 
+# game/src/plot/mar01.rpy:282
 translate zh_hans mar01_maria_merge_dd4c26e2:
 
 
     # maria "[saga.cast.tony] always wanted a big family, ya know?"
     maria "[saga.cast.tony]一直想要个大家庭，你知道的。"
 
+# game/src/plot/mar01.rpy:283
+translate zh_hans mar01_maria_merge_b2a85f73:
+
+    # maria "So the more kids, the betta."
+    maria "所以孩子越多越好嘛。"
+
+# game/src/plot/mar01.rpy:284
 translate zh_hans mar01_maria_merge_01bd7a56:
 
     # anon a_think f_sceptical "Wait... so you're saying, [saga.cast.tony] would actually be grateful about us doing it on our own like this?"
     anon a_think f_sceptical "等等……你的意思是，像这样由我们自己来，[saga.cast.tony]反而会心存感激？"
 
+# game/src/plot/mar01.rpy:285
 translate zh_hans mar01_maria_merge_cd35fb43:
 
     # maria e_se f_shy "Well..."
     maria e_se f_shy "这个嘛……"
 
+# game/src/plot/mar01.rpy:286
 translate zh_hans mar01_maria_merge_6db077db:
 
     # maria e_w "... Y-yeah... More or less."
     maria e_w "……是、是啊……差不多吧。"
 
+# game/src/plot/mar01.rpy:288
 translate zh_hans mar01_maria_merge_b56616d6:
 
 
     # anon a_side f_happy "Well geez, that makes me feel a lot better!"
     anon a_side f_happy "哎呀，这可让我好受多了！"
 
+# game/src/plot/mar01.rpy:289
+translate zh_hans mar01_maria_merge_59c16417:
+
+    # maria f_horny "Heh, yer so adorable!"
+    maria f_horny "嘿，你可真招人疼！"
+
+# game/src/plot/mar01.rpy:292
 translate zh_hans mar01_maria_merge_45ab149c:
 
 
     # maria "Phew, you really rang my bell that time, kid!"
     maria "呼，小子，你这次可真把我弄得够爽！"
 
+# game/src/plot/mar01.rpy:294
+translate zh_hans mar01_maria_merge_34f58be3:
+
+
+    # maria "It was just what I needed."
+    maria "正是我需要的。"
+
+# game/src/plot/mar01.rpy:295
+translate zh_hans mar01_maria_merge_b61f75a7:
+
+    # anon a_salute "Happy to be of service, boss."
+    anon a_salute "能帮上忙就好，老板。"
+
+# game/src/plot/mar01.rpy:296
 translate zh_hans mar01_maria_merge_d899fa60:
 
     # maria a_side f_happy @ e_b m_laugh "Heh, you goofball!"
     maria a_side f_happy @ e_b m_laugh "嘿，你这个傻瓜！"
 
+# game/src/plot/mar01.rpy:300
 translate zh_hans mar01_maria_merge_c1961fc2:
 
 
     # maria "C'mere!"
     maria "过来！"
 
+# game/src/plot/mar01.rpy:304
+translate zh_hans mar01_maria_merge_15b1f2c7:
+
+
+    # maria b_anon e_b f_calm @ -m_talk "Mm."
+    maria b_anon e_b f_calm @ -m_talk "嗯。"
+
+# game/src/plot/mar01.rpy:308
+translate zh_hans mar01_maria_merge_a884915f:
+
+
+    # maria "Now beat it, would ya?!"
+    maria "现在快走，行了吧？！"
+
+# game/src/plot/mar01.rpy:311
+translate zh_hans mar01_maria_merge_94a65b21:
+
+
+    # maria "I got cookin' to do."
+    maria "我还得做饭呢。"
+
+# game/src/plot/mar01.rpy:312
+translate zh_hans mar01_maria_merge_16168acc:
+
+    # anon "Right, yeah... okay."
+    anon "好吧，好吧……"
+
+# game/src/plot/mar01.rpy:314
 translate zh_hans mar01_maria_merge_ab8fac22:
 
 
     # anon a_wave f_calm "Take care, [saga.cast.maria]."
     anon a_wave f_calm "保重，[saga.cast.maria]。"
 
+# game/src/plot/mar01.rpy:316
+translate zh_hans mar01_maria_merge_501607d7:
+
+
+    # maria "You too, kid."
+    maria "你也是，小子。"
+
+# game/src/plot/mar01.rpy:323
+translate zh_hans mar01_maria_creampie_b090a63d:
+
+
+    # anon "If you say so."
+    anon "既然你这么说。"
+
+# game/src/plot/mar01.rpy:325
+translate zh_hans mar01_maria_creampie_b9a63791:
+
+
+    # maria "OH, GAWD!!"
+    maria "哦，天哪！！"
+
+# game/src/plot/mar01.rpy:326
+translate zh_hans mar01_maria_creampie_e814bd3c:
+
+    # anon "Here it... comes!!"
+    anon "来了……要来了！！"
+
+# game/src/plot/mar01.rpy:327
 translate zh_hans mar01_maria_creampie_3e2a759d:
 
     # maria "OH MY GAWD!!!"
     maria "天哪！！！"
 
+# game/src/plot/mar01.rpy:330
 translate zh_hans mar01_maria_creampie_0cf4d269:
 
 
     # anon "HNNGGG!!!" with flash
     anon "嗯啊！！！" with flash
 
+# game/src/plot/mar01.rpy:331
+translate zh_hans mar01_maria_creampie_bf348d30:
+
+    # maria p_cum_02 "NGGHHH!!!"
+    maria p_cum_02 "嗯啊啊啊！！！"
+
+# game/src/plot/mar01.rpy:336
 translate zh_hans mar01_maria_creampie_d165fd93:
 
 
     # anon "Haah... haah..."
     anon "哈啊……哈啊……"
+# game/src/plot/mar01.rpy:338
+translate zh_hans mar01_maria_creampie_a9222fef:
+
+
+    # maria m_lip p_turn @ -m_talk "Mm."
+    maria m_lip p_turn @ -m_talk "嗯。"

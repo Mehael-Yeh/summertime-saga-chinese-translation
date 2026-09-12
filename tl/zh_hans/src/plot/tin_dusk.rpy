@@ -229,10 +229,9 @@ translate zh_hans tin_dusk_lounge_6e6a37b3:
     anon "哦，是吗？"
 
 # game/src/plot/tin_dusk.rpy:130
-translate zh_hans tin_dusk_lounge_09731d2a:
-
-    # tina c_pants p_pickup_away "I'm so wet for you right now..."
-    tina c_pants p_pickup_away "我现在为你湿透了……"
+translate zh_hans tin_dusk_lounge_fe3fcf19:
+    # tina c_lingerie_bottom p_pickup_away "I'm so wet for you right now..."
+    tina c_lingerie_bottom p_pickup_away "为了你，我现在已经浑身湿透了……"
 
 # game/src/plot/tin_dusk.rpy:137
 translate zh_hans tin_dusk_lounge_0e8509ad:
@@ -995,7 +994,3 @@ translate zh_hans tin_dusk_lounge_rails_ebbb42c0:
 
     # anon e_b m_teeth @ -m_talk "( Double-oh-six-seven, license to drill! )"
     anon e_b m_teeth @ -m_talk "零零六七，持牌干炮！"
-
-translate zh_hans tin_dusk_lounge_fe3fcf19:
-    # tina c_lingerie_bottom p_pickup_away "I'm so wet for you right now..."
-    tina c_lingerie_bottom p_pickup_away "为了你，我现在已经浑身湿透了……"

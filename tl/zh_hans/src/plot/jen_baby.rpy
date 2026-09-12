@@ -3248,2794 +3248,2988 @@ translate zh_hans jen_baby_food_3ad99157:
     # anon "W-wait, I-"
     anon "等、等一下，我——"
 
-# game/src/plot/jen_baby.rpy:1234
+# game/src/plot/jen_baby.rpy:1235
 translate zh_hans jen_baby_food_9bd53cce:
 
 
     # anon "[saga.cast.jenny], I'm still hungry!!"
     anon "[saga.cast.jenny]，我还饿着呢！！"
 
-# game/src/plot/jen_baby.rpy:1235
+# game/src/plot/jen_baby.rpy:1236
 translate zh_hans jen_baby_food_563436bc:
 
     # jenny "Good, because we might start with you eating my pussy."
     jenny "很好，因为我们可以先从你给我舔屄开始。"
 
-# game/src/plot/jen_baby.rpy:1256
-translate zh_hans jen_baby_food_3c654d29:
-
-
-    # jenny a_hips c_naked e_w f_annoyed of_none p_stand "What the hell are you doing?"
-    jenny a_hips c_naked e_w f_annoyed of_none p_stand "你到底在干什么？"
-
-# game/src/plot/jen_baby.rpy:1257
-translate zh_hans jen_baby_food_80e8f486:
-
-    # anon a_uneasy e_w f_worried "I uhh..."
-    anon a_uneasy e_w f_worried "我，呃……"
-
-# game/src/plot/jen_baby.rpy:1263
-translate zh_hans jen_baby_food_ca3fdd53:
-
-    # anon "Well, no... I just-"
-    anon "不是……我只是——"
-
-# game/src/plot/jen_baby.rpy:1267
-translate zh_hans jen_baby_food_52479ad7:
-
-    # jenny a_touch f_annoyed "I'm pregnant with your child for fucks sake!"
-    jenny a_touch f_annoyed "我他妈正怀着你的孩子！"
-
-# game/src/plot/jen_baby.rpy:1280
-translate zh_hans jen_baby_food_c9f2ba94:
-
-
-    # jenny f_annoyed "Now seriously... clothes off and mask on!"
-    jenny f_annoyed "现在认真点……脱衣服，戴上面具！"
-
-# game/src/plot/jen_baby.rpy:1281
-translate zh_hans jen_baby_food_795053f2:
-
-    # anon f_cynical @ -m_talk "Grr."
-    anon f_cynical @ -m_talk "哼。"
-
-# game/src/plot/jen_baby.rpy:1296
-translate zh_hans jen_baby_food_2e7d92c8:
-
-    # jenny a_show c_jersey e_w f_horny o_left "It's a football jersey from college."
-    jenny a_show c_jersey e_w f_horny o_left "这是我大学时穿的橄榄球球衣。"
-
-# game/src/plot/jen_baby.rpy:1304
-translate zh_hans jen_baby_food_9f4f0f7d:
-
-    # anon "But what does the jersey have to do with-"
-    anon "可这球衣和——"
-
-# game/src/plot/jen_baby.rpy:1309
-translate zh_hans jen_baby_food_ce0e62b2:
-
-    # anon e_osw f_sad "{i}*Sigh*{/i}"
-    anon e_osw f_sad "{i}*叹气*{/i}"
-
-# game/src/plot/jen_baby.rpy:1320
-translate zh_hans jen_baby_food_1b907012:
-
-    # jenny "No, I'm going to start down here so they can't see my belly."
-    jenny "不，我一开始得待在下面，这样他们就看不到我的肚子。"
-
-# game/src/plot/jen_baby.rpy:1324
-translate zh_hans jen_baby_food_5d274810:
-
-    # anon f_worried "Yeah, yeah..."
-    anon f_worried "是，是……"
-
-# game/src/plot/jen_baby.rpy:1329
-translate zh_hans jen_baby_food_b0cb1c95:
-
-
-    # jenny a_down "... Here we go."
-    jenny a_down "……开始吧。"
-
-# game/src/plot/jen_baby.rpy:1333
-translate zh_hans jen_baby_food_e0e6dc11:
-
-
-    # jenny "Hey there, boys!"
-    jenny "嘿，小伙子们！"
-
-# game/src/plot/jen_baby.rpy:1334
-translate zh_hans jen_baby_food_ff7aae7b:
-
-    # jenny "Did you miss me?!"
-    jenny "想我了吗？！"
-
-# game/src/plot/jen_baby.rpy:1338
-translate zh_hans jen_baby_food_1a61f2f6:
-
-
-    # jenny "No, I'm not dead."
-    jenny "不，我没死。"
-
-# game/src/plot/jen_baby.rpy:1339
-translate zh_hans jen_baby_food_8207780a:
-
-    # jenny "I've just been busy, that's all."
-    jenny "我只是忙而已，就这样。"
-
-# game/src/plot/jen_baby.rpy:1343
-translate zh_hans jen_baby_food_9418e7ad:
-
-
-    # jenny f_horny "You'll find out why in a second."
-    jenny f_horny "你马上就会知道为什么了。"
-
-# game/src/plot/jen_baby.rpy:1345
-translate zh_hans jen_baby_food_ca4cc99c:
-
-
-    # jenny "That's right, sam9, special show today."
-    jenny "没错，sam9，今天有特别演出。"
-
-# game/src/plot/jen_baby.rpy:1347
-translate zh_hans jen_baby_food_e3be8c23:
-
-
-    # jenny "No, it's going to be even more special than that!"
-    jenny "不，这将会比那更特别！"
-
-# game/src/plot/jen_baby.rpy:1349
-translate zh_hans jen_baby_food_da52b301:
-
-
-    # jenny "That's right, better than anal."
-    jenny "没错，比肛交还要好。"
-
-# game/src/plot/jen_baby.rpy:1351
-translate zh_hans jen_baby_food_156c9ca6:
-
-
-    # jenny "Yes, I'm serious."
-    jenny "是的，我是认真的。"
-
-# game/src/plot/jen_baby.rpy:1354
-translate zh_hans jen_baby_food_908df4f5:
-
-
-    # jenny e_r f_annoyed "No, it's not double anal."
-    jenny e_r f_annoyed "不，不是双插肛交。"
-
-# game/src/plot/jen_baby.rpy:1357
-translate zh_hans jen_baby_food_1e1f206d:
-
-
-    # jenny e_sw "I said, I'll tell you in a second... sheesh."
-    jenny e_sw "我说了，等一下再告诉你……真是的。"
-
-# game/src/plot/jen_baby.rpy:1358
-translate zh_hans jen_baby_food_9f2dfdab:
-
-    # jenny f_calm "I'm just waiting for the room to fill a bit."
-    jenny f_calm "我只是在等直播间里再多来点人。"
-
-# game/src/plot/jen_baby.rpy:1363
-translate zh_hans jen_baby_food_6f9a1a52:
-
-
-    # jenny "... I'll be back to my regular schedule soon guys."
-    jenny "……伙计们，我很快就会恢复平常的成人直播排期。"
-
-# game/src/plot/jen_baby.rpy:1366
-translate zh_hans jen_baby_food_44f4247f:
-
-
-    # jenny e_w p_bed_sit_side @ -m_talk "Mhmm."
-    jenny e_w p_bed_sit_side @ -m_talk "嗯哼。"
-
-# game/src/plot/jen_baby.rpy:1368
-translate zh_hans jen_baby_food_3ffc3806:
-
-
-    # jenny a_side "It's the same guy."
-    jenny a_side "是同一个人。"
-
-# game/src/plot/jen_baby.rpy:1373
-translate zh_hans jen_baby_food_2d70667f:
-
-
-    # jenny "Of course."
-    jenny "当然。"
-
-# game/src/plot/jen_baby.rpy:1374
-translate zh_hans jen_baby_food_93455fae:
-
-    # jenny a_down "I wouldn't settle for anything but the best."
-    jenny a_down "我只接受最好的，绝不将就。"
-
-# game/src/plot/jen_baby.rpy:1382
-translate zh_hans jen_baby_food_45326b0e:
-
-
-    # jenny "Heh, it would take a lot more than a big ass ring."
-    jenny "呵，光一个大戒指可远远不够。"
-
-# game/src/plot/jen_baby.rpy:1383
-translate zh_hans jen_baby_food_ef652fe5:
-
-    # anon "What are you talking about?"
-    anon "你在说什么？"
-
-# game/src/plot/jen_baby.rpy:1392
-translate zh_hans jen_baby_food_50936c9c:
-
-
-    # jenny "You boys ready to find out where I've been and what we're doing today?"
-    jenny "小伙子们，准备好听我讲讲我这阵子去哪了，还有今天我们要干什么了吗？"
-
-# game/src/plot/jen_baby.rpy:1393
-translate zh_hans jen_baby_food_a3d2e488:
-
-    # "*PING*{w=.25} *PING*"
-    "*叮*{w=.25} *叮*"
-
-# game/src/plot/jen_baby.rpy:1399
-translate zh_hans jen_baby_food_2e533855:
-
-
-    # jenny "So, the reason I haven't been around..."
-    jenny "所以，我最近没出现的原因……"
-
-# game/src/plot/jen_baby.rpy:1401
-translate zh_hans jen_baby_food_eb17b24c:
-
-
-    # jenny p_bed_climb_side "... Is because..."
-    jenny p_bed_climb_side "……是因为……"
-
-# game/src/plot/jen_baby.rpy:1402
-translate zh_hans jen_baby_food_6be240a2:
-
-    # jenny p_bed_sit_close "... My little boy toy here put a baby in me!"
-    jenny p_bed_sit_close "……就是我身边这个小男宠让我怀孕了！"
-
-# game/src/plot/jen_baby.rpy:1407
-translate zh_hans jen_baby_food_41f54b5f:
-
-
-    # jenny f_annoyed "No, it wasn't planned."
-    jenny f_annoyed "不，不是计划好的。"
-
-# game/src/plot/jen_baby.rpy:1410
-translate zh_hans jen_baby_food_998a182d:
-
-
-    # jenny "Umm, duh."
-    jenny "呃，废话。"
-
-# game/src/plot/jen_baby.rpy:1413
-translate zh_hans jen_baby_food_72a2a140:
-
-
-    # jenny "It's a bit late for that, don't you think?"
-    jenny "现在说这个是不是太晚了？"
-
-# game/src/plot/jen_baby.rpy:1415
-translate zh_hans jen_baby_food_634a2b3d:
-
-
-    # jenny f_calm "You wanna see?"
-    jenny f_calm "你想看看吗？"
-
-# game/src/plot/jen_baby.rpy:1417
-translate zh_hans jen_baby_food_7b970bfd:
-
-
-    # jenny f_horny "Do you {i}really{/i} wanna see?"
-    jenny f_horny "你{i}真的{/i}想看吗？"
-
-# game/src/plot/jen_baby.rpy:1418
-translate zh_hans jen_baby_food_8807b89f:
-
-    # "*PING*{w=.12} *PING*{w=.12} *PING*{w=.12} *PING*"
-    "*叮*{w=.12} *叮*{w=.12} *叮*{w=.12} *叮*"
-
-# game/src/plot/jen_baby.rpy:1427
-translate zh_hans jen_baby_food_a886b02d:
-
-
-    # jenny a_touch s_800ms "I know."
-    jenny a_touch s_800ms "我知道。"
-
-# game/src/plot/jen_baby.rpy:1429
-translate zh_hans jen_baby_food_1fadd624:
-
-
-    # jenny "Umm, it could be twins... I don't know."
-    jenny "嗯，可能是双胞胎……我不知道。"
-
-# game/src/plot/jen_baby.rpy:1432
-translate zh_hans jen_baby_food_6d6c1deb:
-
-
-    # jenny a_touch_02 f_annoyed "Yes, sam9... I know you can't get pregnant that way."
-    jenny a_touch_02 f_annoyed "是的，sam9……我知道那样不会怀孕。"
-
-# game/src/plot/jen_baby.rpy:1434
-translate zh_hans jen_baby_food_1c098ecd:
-
-
-    # jenny @ e_r "I'll keep it in mind going forward."
-    jenny @ e_r "我以后会记住的。"
-
-# game/src/plot/jen_baby.rpy:1438
-translate zh_hans jen_baby_food_112273fa:
-
-
-    # jenny f_happy "Oh, you do like it, huh?"
-    jenny f_happy "哦，你喜欢这样，是吧？"
-
-# game/src/plot/jen_baby.rpy:1440
-translate zh_hans jen_baby_food_ddaf9a1b:
-
-
-    # jenny "I had a feeling you might."
-    jenny "我就猜到你会喜欢。"
-
-# game/src/plot/jen_baby.rpy:1442
-translate zh_hans jen_baby_food_04fbcf4a:
-
-
-    # jenny f_horny "The real question is, how much do you like it?"
-    jenny f_horny "真正的问题是，你有多喜欢？"
-
-# game/src/plot/jen_baby.rpy:1443
-translate zh_hans jen_baby_food_d27a0fd9:
-
-    # "*PING*{w=.1} *PING*{w=.1} *PING*{w=.1} *PING*{w=.1} *PING*{w=.1} *PING*"
-    "*叮*{w=.1} *叮*{w=.1} *叮*{w=.1} *叮*{w=.1} *叮*{w=.1} *叮*"
-
-# game/src/plot/jen_baby.rpy:1449
-translate zh_hans jen_baby_food_612344ff:
-
-
-    # "*PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*"
-    "*叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*"
-
-# game/src/plot/jen_baby.rpy:1451
-translate zh_hans jen_baby_food_58bbc072:
-
-
-    # jenny e_b f_calm m_laugh @ -m_talk "Hehehe!"
-    jenny e_b f_calm m_laugh @ -m_talk "嘿嘿嘿！"
-
-# game/src/plot/jen_baby.rpy:1455
-translate zh_hans jen_baby_food_5a19dee2:
-
-
-    # jenny e_sw f_happy -m_laugh "I know!"
-    jenny e_sw f_happy -m_laugh "我知道！"
-
-# game/src/plot/jen_baby.rpy:1458
-translate zh_hans jen_baby_food_6737d532:
-
-
-    # jenny a_down "Yeah, of course."
-    jenny a_down "嗯，当然。"
-
-# game/src/plot/jen_baby.rpy:1461
-translate zh_hans jen_baby_food_14ba318c:
-
-
-    # jenny "Yup."
-    jenny "没错。"
-
-# game/src/plot/jen_baby.rpy:1463
-translate zh_hans jen_baby_food_4a17e9cd:
-
-
-    # jenny f_horny "If you tip me well enough."
-    jenny f_horny "只要你打赏得够多。"
-
-# game/src/plot/jen_baby.rpy:1465
-translate zh_hans jen_baby_food_1b7a1843:
-
-
-    # "*PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*"
-    "*叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*"
-
-# game/src/plot/jen_baby.rpy:1466
-translate zh_hans jen_baby_food_b2360ebd:
-
-    # jenny "Heh, alright."
-    jenny "呵，好吧。"
-
-# game/src/plot/jen_baby.rpy:1475
-translate zh_hans jen_baby_food_a63bd2b1:
-
-
-    # jenny a_milk "See?!"
-    jenny a_milk "看见了吧？！"
-
-# game/src/plot/jen_baby.rpy:1477
-translate zh_hans jen_baby_food_ecca9d44:
-
-
-    # jenny a_milk_01 e_b f_calm m_laugh @ -m_talk "Hehehe!"
-    jenny a_milk_01 e_b f_calm m_laugh @ -m_talk "嘿嘿嘿！"
-
-# game/src/plot/jen_baby.rpy:1478
-translate zh_hans jen_baby_food_b1fa8c71:
-
-    # jenny e_sw -m_laugh "No, I haven't tasted it."
-    jenny e_sw -m_laugh "不，我还没尝过。"
-
-# game/src/plot/jen_baby.rpy:1485
-translate zh_hans jen_baby_food_f9dd8860:
-
-
-    # jenny f_annoyed "No, I'm not sending you any!"
-    jenny f_annoyed "不，我一点也不会给你寄！"
-
-# game/src/plot/jen_baby.rpy:1488
-translate zh_hans jen_baby_food_4ef5e7d9:
-
-
-    # jenny a_down c_jersey_up e_wsw f_surprised "Wait, how much?!"
-    jenny a_down c_jersey_up e_wsw f_surprised "等等，多少？！"
-
-# game/src/plot/jen_baby.rpy:1493
-translate zh_hans jen_baby_food_b9fab67d:
-
-
-    # anon f_angry @ f_annoyed "[saga.cast.jenny]!"
-    anon f_angry @ f_annoyed "[saga.cast.jenny]！"
-
-# game/src/plot/jen_baby.rpy:1494
-translate zh_hans jen_baby_food_47dcf04d:
-
-    # jenny e_r f_annoyed "{i}*Sigh*{/i}"
-    jenny e_r f_annoyed "{i}*叹气*{/i}"
-
-# game/src/plot/jen_baby.rpy:1500
-translate zh_hans jen_baby_food_ecb5b1e9:
-
-
-    # jenny "Because my boyfriend would get all pissy if I sent you some..."
-    jenny "因为我要是给你寄一点，我男朋友会不高兴的……"
-
-# game/src/plot/jen_baby.rpy:1503
-translate zh_hans jen_baby_food_a0a82e5f:
-
-
-    # anon e_w f_surprised @ -m_talk "!!!"
-    anon e_w f_surprised @ -m_talk "！！！"
-
-# game/src/plot/jen_baby.rpy:1504
-translate zh_hans jen_baby_food_588762a5:
-
-    # jenny e_e f_worried "Err, I mean-"
-    jenny e_e f_worried "呃，我是说——"
-
-# game/src/plot/jen_baby.rpy:1510
-translate zh_hans jen_baby_food_dc9d3462:
-
-    # anon f_horny "But you just said I was."
-    anon f_horny "但你刚才还说我是呢。"
-
-# game/src/plot/jen_baby.rpy:1515
-translate zh_hans jen_baby_food_c8f77ef4:
-
-    # jenny "Shut up!"
-    jenny "闭嘴！"
-
-# game/src/plot/jen_baby.rpy:1522
-translate zh_hans jen_baby_food_dd7a1d75:
-
-
-    # jenny "Eugh, whatever."
-    jenny "呃，随便吧。"
-
-# game/src/plot/jen_baby.rpy:1523
-translate zh_hans jen_baby_food_9ed8dd9c:
-
-    # jenny "I'm flipping this over to subscribers only..."
-    jenny "我要把这个转成只有订阅者能看了……"
-
-# game/src/plot/jen_baby.rpy:1527
-translate zh_hans jen_baby_food_d7eb6328:
-
-    # anon e_w -m_laugh "Heh, I'm sorry..."
-    anon e_w -m_laugh "呵，抱歉……"
-
-# game/src/plot/jen_baby.rpy:1533
-translate zh_hans jen_baby_food_67b52844:
-
-    # anon "Keep telling yourself that."
-    anon "你就继续自欺欺人吧。"
-
-# game/src/plot/jen_baby.rpy:1540
-translate zh_hans jen_baby_food_c9f7195b:
-
-
-    # jenny f_calm "Soon."
-    jenny f_calm "很快。"
-
-# game/src/plot/jen_baby.rpy:1542
-translate zh_hans jen_baby_food_dd94043f:
-
-
-    # jenny f_horny "I don't know, sam9... you'll just have to wait and see."
-    jenny f_horny "我不知道，sam9……你只能等着瞧了。"
-
-# game/src/plot/jen_baby.rpy:1544
-translate zh_hans jen_baby_food_000371db:
-
-
-    # jenny "Oh, god yes!"
-    jenny "哦，天哪，是的！"
-
-# game/src/plot/jen_baby.rpy:1545
-translate zh_hans jen_baby_food_11c5e98d:
-
-    # jenny "With all these hormones, I get like, crazy horny!"
-    jenny "荷尔蒙作祟，我简直欲火难耐！"
-
-# game/src/plot/jen_baby.rpy:1550
-translate zh_hans jen_baby_food_0abe55a7:
-
-
-    # jenny @ e_e f_calm "Yes, {i}all{/i} of them..."
-    jenny @ e_e f_calm "对，{i}全都{/i}想要……"
-
-# game/src/plot/jen_baby.rpy:1554
-translate zh_hans jen_baby_food_c32f56cc:
-
-
-    # jenny f_disgusted "... Eww, seriously?"
-    jenny f_disgusted "……呃，认真的？"
-
-# game/src/plot/jen_baby.rpy:1558
-translate zh_hans jen_baby_food_780bb3e6:
-
-
-    # jenny f_horny "Heh, wow."
-    jenny f_horny "嘿，哇。"
-
-# game/src/plot/jen_baby.rpy:1559
-translate zh_hans jen_baby_food_6911ff9d:
-
-    # jenny "I guess that shouldn't surprise me..."
-    jenny "我想这也不该让我意外……"
-
-# game/src/plot/jen_baby.rpy:1566
-translate zh_hans jen_baby_food_b1e6d425:
-
-
-    # jenny "Umm, okay... can we talk about it another time?"
-    jenny "呃，好吧……我们能改天再聊吗？"
-
-# game/src/plot/jen_baby.rpy:1567
-translate zh_hans jen_baby_food_73616a22:
-
-    # jenny f_horny "I really wanna get this big dick in me."
-    jenny f_horny "我真想让这根大屌狠狠干进来。"
-
-# game/src/plot/jen_baby.rpy:1573
-translate zh_hans jen_baby_food_2f85d38a:
-
-
-    # "*PING*{w=.09} *PING*{w=.09} *PING*{w=.09} *PING*{w=.09} *PING*"
-    "*叮*{w=.09} *叮*{w=.09} *叮*{w=.09} *叮*{w=.09} *叮*"
-
-# game/src/plot/jen_baby.rpy:1578
-translate zh_hans jen_baby_food_b82b2547:
-
-
-    # "*PING*{w=.1} *PING*{w=.1} *PING*"
-    "*叮*{w=.1} *叮*{w=.1} *叮*"
-
-# game/src/plot/jen_baby.rpy:1579
-translate zh_hans jen_baby_food_e40911a2:
-
-    # jenny "Thee, ahh tord eww is ood bring in oons of morney!"
-    jenny "看吧，我早嗦过这能赚好多钱！"
-
-# game/src/plot/jen_baby.rpy:1583
-translate zh_hans jen_baby_food_merge_03157d2b:
-
-    # jenny p_debbie_bed2_reverse_anim_06 "Oh!"
-    jenny p_debbie_bed2_reverse_anim_06 "哦！"
-
-# game/src/plot/jen_baby.rpy:1587
-translate zh_hans jen_baby_food_merge_901fd73b:
-
-    # "*PING*{w=.12} *PING*{w=.12} *PING*{w=.12} *PING*{w=.12} *PING*"
-    "*叮*{w=.12} *叮*{w=.12} *叮*{w=.12} *叮*{w=.12} *叮*"
-
-# game/src/plot/jen_baby.rpy:1594
-translate zh_hans jen_baby_food_merge_da7f1230:
-
-    # jenny "Eww 'iking iss boys?"
-    jenny "你们喜欢这样吗，小伙子们？"
-
-# game/src/plot/jen_baby.rpy:1601
-translate zh_hans jen_baby_food_merge_39a2776c:
-
-    # jenny "I'm 'onna cum again!!"
-    jenny "我又要高潮了！！"
-
-# game/src/plot/jen_baby.rpy:1607
-translate zh_hans jen_baby_food_merge_091d9330:
-
-    # "*PING*{w=.06} *PING*{w=.06} *PING*{w=.06} *PING*{w=.06} *PING*"
-    "*叮*{w=.06} *叮*{w=.06} *叮*{w=.06} *叮*{w=.06} *叮*"
-
-# game/src/plot/jen_baby.rpy:1612
-translate zh_hans jen_baby_food_merge_ec481539:
-
-    # jenny "I 'unno if I can-"
-    jenny "我不晓得我能不能——"
-
-# game/src/plot/jen_baby.rpy:1616
-translate zh_hans jen_baby_food_merge_64d1f460:
-
-    # anon "Here it comes!"
-    anon "来了！"
-
-# game/src/plot/jen_baby.rpy:1626
-translate zh_hans jen_baby_food_merge_c1f62415:
-
-    # "*PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*"
-    "*叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*"
-
-# game/src/plot/jen_baby.rpy:1630
-translate zh_hans jen_baby_food_merge_d165fd93:
-
-
-    # anon "Haah... haah..."
-    anon "哈啊……哈啊……"
-
-# game/src/plot/jen_baby.rpy:1632
-translate zh_hans jen_baby_food_merge_8f894849:
-
-
-    # anon "[saga.cast.jenny]?"
-    anon "[saga.cast.jenny]？"
-
-# game/src/plot/jen_baby.rpy:1634
-translate zh_hans jen_baby_food_merge_fc0dbaae:
-
-
-    # anon "You okay?"
-    anon "你还好吗？"
-
-# game/src/plot/jen_baby.rpy:1635
-translate zh_hans jen_baby_food_merge_9562e4bc:
-
-    # jenny "{i}*Mumbles incoherently*{/i}"
-    jenny "{i}*含糊不清地咕哝*{/i}"
-
-# game/src/plot/jen_baby.rpy:1640
-translate zh_hans jen_baby_food_merge_5714c136:
-
-    # jenny "Ugh... shushit..."
-    jenny "呃……闭嘴吧……"
-
-# game/src/plot/jen_baby.rpy:1651
-translate zh_hans jen_baby_food_merge_47f813ad:
-
-
-    # anon f_worried "... I think I might have broken her."
-    anon f_worried "……我想我可能把她弄坏了。"
-
-# game/src/plot/jen_baby.rpy:1655
-translate zh_hans jen_baby_food_merge_5ffdd2d8:
-
-
-    # anon e_sw f_worried "... I think I broke her again."
-    anon e_sw f_worried "……我想我又把她弄坏了。"
-
-# game/src/plot/jen_baby.rpy:1657
-translate zh_hans jen_baby_food_merge_4ced7b9c:
-
-
-    # "*PING*{w=.5} *PING*{w=.4} *PING*{w=.4} *PING*{w=1} *PING*{w=.1} *PING*{w=.1}"
-    "*叮*{w=.5} *叮*{w=.4} *叮*{w=.4} *叮*{w=1} *叮*{w=.1} *叮*{w=.1}"
-
-# game/src/plot/jen_baby.rpy:1659
-translate zh_hans jen_baby_food_merge_24a4d596:
-
-
-    # "*PING*{w=.2} *PING*{w=.2} *PING*{w=1} *PING*{w=.3} *PING*{w=.4} *PING*{w=.1} *PING*{w=.2}"
-    "*叮*{w=.2} *叮*{w=.2} *叮*{w=1} *叮*{w=.3} *叮*{w=.4} *叮*{w=.1} *叮*{w=.2}"
-
-# game/src/plot/jen_baby.rpy:1660
-translate zh_hans jen_baby_food_merge_491ca0b8:
-
-    # "*PING*{w=.2} *PING*{w=.2} *PING*{w=.2} *PING*{w=.2} *PING*{w=1} *PING*{w=.1}"
-    "*叮*{w=.2} *叮*{w=.2} *叮*{w=.2} *叮*{w=.2} *叮*{w=1} *叮*{w=.1}"
-
-# game/src/plot/jen_baby.rpy:1666
-translate zh_hans jen_baby_food_merge_99010edb:
-
-
-    # anon f_surprised -m_open "Should I shut the stream off or something?"
-    anon f_surprised -m_open "我该把直播关了吗？"
-
-# game/src/plot/jen_baby.rpy:1668
-translate zh_hans jen_baby_food_merge_3200af5b:
-
-
-    # anon f_surprised -m_open "You want me to shut the stream off?"
-    anon f_surprised -m_open "你要我关掉直播吗？"
-
-# game/src/plot/jen_baby.rpy:1671
-translate zh_hans jen_baby_food_merge_9562e4bc_1:
-
-
-    # jenny "{i}*Mumbles incoherently*{/i}"
-    jenny "{i}*含糊不清地嘟囔*{/i}"
-
-# game/src/plot/jen_baby.rpy:1674
-translate zh_hans jen_baby_food_merge_df78a85a:
-
-
-    # anon e_sw f_shy "Uhh, sorry guys... I think that's all for today."
-    anon e_sw f_shy "呃，抱歉各位……今天就到这里吧。"
-
-# game/src/plot/jen_baby.rpy:1677
-translate zh_hans jen_baby_food_merge_45efdd59:
-
-
-    # anon "Yeah, it was pretty good."
-    anon "是啊，挺不错的。"
-
-# game/src/plot/jen_baby.rpy:1679
-translate zh_hans jen_baby_food_merge_370bd629:
-
-
-    # anon f_worried "Umm, I dunno... it's complicated."
-    anon f_worried "嗯，我不知道……这事挺复杂的。"
-
-# game/src/plot/jen_baby.rpy:1681
-translate zh_hans jen_baby_food_merge_1b058635:
-
-
-    # anon f_confused "My name?"
-    anon f_confused "我的名字？"
-
-# game/src/plot/jen_baby.rpy:1682
-translate zh_hans jen_baby_food_merge_4f29f716:
-
-    # anon "Oh, I don't think-"
-    anon "哦，我不认为——"
-
-# game/src/plot/jen_baby.rpy:1686
-translate zh_hans jen_baby_food_merge_5cec9dc5:
-
-
-    # anon e_sw f_shy "Let's just say I'm her boyfriend and leave it at that..."
-    anon e_sw f_shy "就当我是她男朋友，别再问了……"
-
-# game/src/plot/jen_baby.rpy:1687
-translate zh_hans jen_baby_food_merge_e8e1a4b7:
-
-    # jenny "Noma boyfren..."
-    jenny "才不系我男朋友……"
-
-# game/src/plot/jen_baby.rpy:1692
-translate zh_hans jen_baby_food_merge_08d2cefb:
-
-
-    # anon "... Sorry."
-    anon "……抱歉。"
-
-# game/src/plot/jen_baby.rpy:1694
-translate zh_hans jen_baby_food_merge_7e42361c:
-
-
-    # anon "Yeah, we'll be back."
-    anon "嗯，我们会回来的。"
-
-# game/src/plot/jen_baby.rpy:1696
-translate zh_hans jen_baby_food_merge_4635c1ed:
-
-
-    # anon f_worried "Oh, ehh... I'm not sure, sam9..."
-    anon f_worried "哦，呃……我不确定，sam9……"
-
-# game/src/plot/jen_baby.rpy:1698
-translate zh_hans jen_baby_food_merge_bce364b0:
-
-
-    # anon f_shy "... I mean, maybe next time?"
-    anon f_shy "……我是说，也许下次吧？"
-
-# game/src/plot/jen_baby.rpy:1699
-translate zh_hans jen_baby_food_merge_aae4a560:
-
-    # jenny "Fuggid Sam..."
-    jenny "去你的，Sam……"
-
-# game/src/plot/jen_baby.rpy:1704
-translate zh_hans jen_baby_food_merge_9562e4bc_2:
-
-
-    # jenny "{i}*Mumbles incoherently*{/i}"
-    jenny "{i}*含糊不清地嘟囔*{/i}"
-
-# game/src/plot/jen_baby.rpy:1705
-translate zh_hans jen_baby_food_merge_4a05c1bc:
-
-    # anon "You love me?"
-    anon "你爱我吗？"
-
-# game/src/plot/jen_baby.rpy:1711
-translate zh_hans jen_baby_food_merge_cb9b2d31:
-
-
-    # jenny "{i}*Groan*{/i}"
-    jenny "{i}*呻吟*{/i}"
-
-# game/src/plot/jen_baby.rpy:1712
-translate zh_hans jen_baby_food_merge_310531ee:
-
-    # anon e_b m_laugh @ -m_talk "Hehe!"
-    anon e_b m_laugh @ -m_talk "呵呵！"
-
-# game/src/plot/jen_baby.rpy:1718
-translate zh_hans jen_baby_food_merge_62cdbce4:
-
-
-    # anon "And we'll see you all next time!"
-    anon "那我们下次见！"
-
-# game/src/plot/jen_baby.rpy:1724
-translate zh_hans jen_baby_food_merge_244739f4:
-
-
-    # mono ""
-    mono ""
-
-# game/src/plot/jen_baby.rpy:1737
-translate zh_hans jen_baby_food_merge_72c0b288:
-
-
-    # anon a_side e_w p_stand "So, umm..."
-    anon a_side e_w p_stand "所以，嗯……"
-
-# game/src/plot/jen_baby.rpy:1738
-translate zh_hans jen_baby_food_merge_56902f90:
-
-    # anon f_happy "... How ya doing?"
-    anon f_happy "…… 你还好吗？"
-
-# game/src/plot/jen_baby.rpy:1743
-translate zh_hans jen_baby_food_merge_9562e4bc_4:
-
-    # jenny "{i}*Mumbles incoherently*{/i}"
-    jenny "{i}*含糊不清地嘟囔*{/i}"
-
-# game/src/plot/jen_baby.rpy:1747
-translate zh_hans jen_baby_food_merge_9562e4bc_5:
-
-    # jenny "{i}*Mumbles incoherently*{/i}"
-    jenny "{i}*含糊不清地嘟囔*{/i}"
-
-# game/src/plot/jen_baby.rpy:1754
-translate zh_hans jen_baby_food_merge_b743b629:
-
-
-    # jenny "Dick."
-    jenny "混蛋。"
-
-# game/src/plot/jen_baby.rpy:1763
-translate zh_hans jen_baby_food_merge_84291f36:
-
-
-    # anon @ -m_talk "( Well, that wasn't so bad... )"
-    anon @ -m_talk "（嗯，其实还不算太糟……）"
-
-# game/src/plot/jen_baby.rpy:1764
-translate zh_hans jen_baby_food_merge_2d0d7171:
-
-    # anon e_b m_teeth @ -m_talk "( ... And [saga.cast.jenny] called me her boyfriend... {i}again!{/i} )"
-    anon e_b m_teeth @ -m_talk "（……而且[saga.cast.jenny]{i}又一次{/i}叫我男朋友了！）"
-
-# game/src/plot/jen_baby.rpy:1768
-translate zh_hans jen_baby_food_merge_97ef8885:
-
-    # anon @ -m_talk "( I'll just have to wait until the day she's ready to admit it to herself. )"
-    anon @ -m_talk "（我只要等她哪天肯对自己承认就好了。）"
-
-# game/src/plot/jen_baby.rpy:1772
-translate zh_hans jen_baby_food_merge_1cb7f720:
-
-    # anon e_s f_pensive @ -m_talk "( I wonder if I should start thinking up a decent porn name for myself? )"
-    anon e_s f_pensive @ -m_talk "（要不要给自己起个像样的色情艺名呢？）"
-
-# game/src/plot/jen_baby.rpy:1784
-translate zh_hans jen_baby_food_rails_24702a05:
-
-    # anon f_tired @ -m_talk "( Probably best if I just go to breakfast in the dining room. )"
-    anon f_tired @ -m_talk "（还是去餐厅吃早餐吧。）"
-
-# game/src/plot/jen_baby.rpy:1799
-translate zh_hans jen_baby_coma_jenny_271f3d5a:
-
-    # anon e_sw -m_teeth @ -m_talk "( I'll leave her to recover in peace. )"
-    anon e_sw -m_teeth @ -m_talk "（让她安安静静地缓一缓。）"
-
-# game/src/plot/jen_baby.rpy:1808
-translate zh_hans jen_baby_read2_59d1ba61:
-
-    # anon "Holy crap!"
-    anon "我靠！"
-
-# game/src/plot/jen_baby.rpy:1817
-translate zh_hans jen_baby_read2_rails_898a3093:
-
-
-    # anon @ -m_talk "( It might be important, I should check my messages. )"
-    anon @ -m_talk "（说不定很重要，我得看看消息。）"
-
-# game/src/plot/jen_baby.rpy:1828
-translate zh_hans jen_baby_meet_d4883d99:
-
-
-    # debbie "Hey, sweetie!"
-    debbie "嘿，亲爱的！"
-
-# game/src/plot/jen_baby.rpy:1829
-translate zh_hans jen_baby_meet_0b6d7aa6:
-
-    # anon "[saga.cast.debbie]?"
-    anon "[saga.cast.debbie]？"
-
-# game/src/plot/jen_baby.rpy:1838
-translate zh_hans jen_baby_meet_c8168758:
-
-
-    # debbie @ e_s "This is [saga.cast.jenny]'s little boy."
-    debbie @ e_s "这是[saga.cast.jenny]的小男孩。"
-
-# game/src/plot/jen_baby.rpy:1840
-translate zh_hans jen_baby_meet_ae664fb4:
-
-
-    # debbie @ e_s "This is [saga.cast.jenny]'s little girl."
-    debbie @ e_s "这是[saga.cast.jenny]的小女孩。"
-
-# game/src/plot/jen_baby.rpy:1842
-translate zh_hans jen_baby_meet_44531a62:
-
-
-    # debbie @ e_s "This is [saga.cast.jenny]'s twins."
-    debbie @ e_s "这是[saga.cast.jenny]的双胞胎。"
-
-# game/src/plot/jen_baby.rpy:1844
-translate zh_hans jen_baby_meet_bcb16712:
-
-
-    # debbie "You wanna say hi?"
-    debbie "你想打个招呼吗？"
-
-# game/src/plot/jen_baby.rpy:1845
-translate zh_hans jen_baby_meet_c2ab853c:
-
-    # anon @ f_happy "Y-yeah!"
-    anon @ f_happy "是、是的！"
-
-# game/src/plot/jen_baby.rpy:1852
-translate zh_hans jen_baby_meet_1edd2b7c:
-
-    # debbie @ f_elated "Everything is wonderful!"
-    debbie @ f_elated "一切都很美好！"
-
-# game/src/plot/jen_baby.rpy:1858
-translate zh_hans jen_baby_meet_a58c6986:
-
-
-    # debbie e_s "Ten fingers and ten toes!"
-    debbie e_s "十根手指和十根脚趾！"
-
-# game/src/plot/jen_baby.rpy:1861
-translate zh_hans jen_baby_meet_0a520874:
-
-
-    # anon e_w f_happy "[saga.cast.jenny] had a little boy?!"
-    anon e_w f_happy "[saga.cast.jenny]生了个男孩？！"
-
-# game/src/plot/jen_baby.rpy:1863
-translate zh_hans jen_baby_meet_66e8fd7e:
-
-
-    # anon e_w f_happy "[saga.cast.jenny] had a little girl?!"
-    anon e_w f_happy "[saga.cast.jenny]生了个女孩？！"
-
-# game/src/plot/jen_baby.rpy:1865
-translate zh_hans jen_baby_meet_17f533ae:
-
-
-    # anon e_w f_happy "[saga.cast.jenny] had twins?!"
-    anon e_w f_happy "[saga.cast.jenny]生了对双胞胎？！"
-
-# game/src/plot/jen_baby.rpy:1867
-translate zh_hans jen_baby_meet_d25eb7bc:
-
-
-    # debbie e_w "Yup!"
-    debbie e_w "没错！"
-
-# game/src/plot/jen_baby.rpy:1872
-translate zh_hans jen_baby_meet_85bf9f27:
-
-
-    # anon a_side "Wow..."
-    anon a_side "哇……"
-
-# game/src/plot/jen_baby.rpy:1875
-translate zh_hans jen_baby_meet_114e3cfc:
-
-
-    # debbie @ e_s f_horny "Isn't he just wonderful?"
-    debbie @ e_s f_horny "他是不是特别可爱？"
-
-# game/src/plot/jen_baby.rpy:1876
-translate zh_hans jen_baby_meet_a1763e7f:
-
-    # anon "He is."
-    anon "是啊。"
-
-# game/src/plot/jen_baby.rpy:1880
-translate zh_hans jen_baby_meet_6f5e9a6d:
-
-    # anon "She is."
-    anon "是啊。"
-
-# game/src/plot/jen_baby.rpy:1884
-translate zh_hans jen_baby_meet_8c77b026:
-
-    # anon "They are."
-    anon "是啊。"
-
-# game/src/plot/jen_baby.rpy:1890
-translate zh_hans jen_baby_meet_f7ccafdf:
-
-
-    # anon "I can't believe [saga.cast.jenny] has more kids!"
-    anon "我简直不敢相信[saga.cast.jenny]又有孩子了！"
-
-# game/src/plot/jen_baby.rpy:1894
-translate zh_hans jen_baby_meet_69c9b4a4:
-
-
-    # anon "I can't believe [saga.cast.jenny] has a kid!"
-    anon "我简直不敢相信[saga.cast.jenny]有孩子了！"
-
-# game/src/plot/jen_baby.rpy:1896
-translate zh_hans jen_baby_meet_b6944cba:
-
-
-    # anon "I can't believe [saga.cast.jenny] has another kid!"
-    anon "我简直不敢相信[saga.cast.jenny]又有了一个孩子！"
-
-# game/src/plot/jen_baby.rpy:1899
-translate zh_hans jen_baby_meet_bb63137f:
-
-
-    # debbie "I know, me neither."
-    debbie "是啊，我也没想到。"
-
-# game/src/plot/jen_baby.rpy:1900
-translate zh_hans jen_baby_meet_c57a1b54:
-
-    # debbie e_s @ e_b f_happy m_laugh "I'm so excited!"
-    debbie e_s @ e_b f_happy m_laugh "我太兴奋了！"
-
-# game/src/plot/jen_baby.rpy:1909
-translate zh_hans jen_baby_meet_57b4fa94:
-
-
-    # debbie "I'm gonna spoil this little girl rotten..."
-    debbie "我要把这个小姑娘宠上天……"
-
-# game/src/plot/jen_baby.rpy:1911
-translate zh_hans jen_baby_meet_f91915e1:
-
-
-    # debbie "I'm gonna spoil these little ones rotten..."
-    debbie "我要把这两个小宝贝宠上天……"
-
-# game/src/plot/jen_baby.rpy:1913
-translate zh_hans jen_baby_meet_b0fa249f:
-
-
-    # debbie @ f_horny "Aren't I?"
-    debbie @ f_horny "不是吗？"
-
-# game/src/plot/jen_baby.rpy:1915
-translate zh_hans jen_baby_meet_25463665:
-
-
-    # debbie @ e_b f_happy m_laugh "Yes, I am!"
-    debbie @ e_b f_happy m_laugh "是的，我是！"
-
-# game/src/plot/jen_baby.rpy:1919
-translate zh_hans jen_baby_meet_d497a8cb:
-
-
-    # anon e_w f_calm "C-can I hold him?"
-    anon e_w f_calm "我、我能抱抱他吗？"
-
-# game/src/plot/jen_baby.rpy:1921
-translate zh_hans jen_baby_meet_38010abc:
-
-
-    # anon e_w f_calm "C-can I hold her?"
-    anon e_w f_calm "我、我能抱抱她吗？"
-
-# game/src/plot/jen_baby.rpy:1923
-translate zh_hans jen_baby_meet_d771c03f:
-
-
-    # anon e_w f_calm "C-can I hold them?"
-    anon e_w f_calm "我、我能抱抱他们吗？"
-
-# game/src/plot/jen_baby.rpy:1925
-translate zh_hans jen_baby_meet_a3eaaebc:
-
-
-    # debbie e_w "Of course!"
-    debbie e_w "当然！"
-
-# game/src/plot/jen_baby.rpy:1927
-translate zh_hans jen_baby_meet_951083ff:
-
-
-    # debbie a_clasp "Just be careful, okay?"
-    debbie a_clasp "小心点，好吗？"
-
-# game/src/plot/jen_baby.rpy:1928
-translate zh_hans jen_baby_meet_c2808c5b:
-
-    # anon "Y-yeah."
-    anon "是、是的。"
-
-# game/src/plot/jen_baby.rpy:1933
-translate zh_hans jen_baby_meet_d0665923:
-
-    # debbie "I had to practically pry him out of [saga.cast.jenny]'s arms so she could get some sleep!"
-    debbie "我几乎是用拽的才把他从[saga.cast.jenny]怀里弄出来，好让她能睡会儿觉！"
-
-# game/src/plot/jen_baby.rpy:1937
-translate zh_hans jen_baby_meet_42001457:
-
-    # debbie "I had to practically pry her out of [saga.cast.jenny]'s arms so she could get some sleep!"
-    debbie "我几乎是用拽的才把她从[saga.cast.jenny]怀里弄出来，好让她能睡会儿觉！"
-
-# game/src/plot/jen_baby.rpy:1941
-translate zh_hans jen_baby_meet_8a75ba12:
-
-    # debbie "I had to practically pry them out of [saga.cast.jenny]'s arms so she could get some sleep!"
-    debbie "我几乎是用拽的才把他们从[saga.cast.jenny]怀里弄出来，好让她能睡会儿觉！"
-
-# game/src/plot/jen_baby.rpy:1944
-translate zh_hans jen_baby_meet_0491b97b:
-
-    # debbie @ -m_talk "Mmhmm..."
-    debbie @ -m_talk "嗯哼……"
-
-# game/src/plot/jen_baby.rpy:1949
-translate zh_hans jen_baby_meet_5e0e8805:
-
-
-    # debbie e_w "... She just didn't wanna let her go."
-    debbie e_w "……她怎么都舍不得放手。"
-
-# game/src/plot/jen_baby.rpy:1951
-translate zh_hans jen_baby_meet_fc7ff960:
-
-
-    # debbie e_w "... She just didn't wanna let them go."
-    debbie e_w "……她怎么都舍不得放手。"
-
-# game/src/plot/jen_baby.rpy:1953
-translate zh_hans jen_baby_meet_074b844a:
-
-
-    # anon "I'm surprised..."
-    anon "真没想到……"
-
-# game/src/plot/jen_baby.rpy:1954
-translate zh_hans jen_baby_meet_ba13b9c4:
-
-    # anon "She hasn't been very enthusiastic about this whole thing."
-    anon "她对这整件事一直不太热情。"
-
-# game/src/plot/jen_baby.rpy:1964
-translate zh_hans jen_baby_meet_31a0d098:
-
-    # debbie "Aww, he really likes you [saga.cast.anon]!"
-    debbie "哎呀，他真的很喜欢你，[saga.cast.anon]！"
-
-# game/src/plot/jen_baby.rpy:1969
-translate zh_hans jen_baby_meet_ed032fb4:
-
-
-    # anon "Heh, she's so adorable!"
-    anon "嘿嘿，她太可爱了！"
-
-# game/src/plot/jen_baby.rpy:1970
-translate zh_hans jen_baby_meet_a44da8d9:
-
-    # debbie "Aww, she really likes you [saga.cast.anon]!"
-    debbie "哎呀，她真的很喜欢你，[saga.cast.anon]！"
-
-# game/src/plot/jen_baby.rpy:1975
-translate zh_hans jen_baby_meet_1ddd6e00:
-
-
-    # anon "Heh, they're so adorable!"
-    anon "嘿嘿，他们太可爱了！"
-
-# game/src/plot/jen_baby.rpy:1976
-translate zh_hans jen_baby_meet_efe92cf2:
-
-    # debbie "Aww, they really like you [saga.cast.anon]!"
-    debbie "哎呀，他们真的很喜欢你，[saga.cast.anon]！"
-
-# game/src/plot/jen_baby.rpy:1980
-translate zh_hans jen_baby_meet_d3a13ce5:
-
-
-    # debbie @ e_b f_happy m_laugh "Hehehe!"
-    debbie @ e_b f_happy m_laugh "嘿嘿嘿！"
-
-# game/src/plot/jen_baby.rpy:1986
-translate zh_hans jen_baby_meet_44c97a90:
-
-
-    # anon e_w @ f_confused "So when can we take him home?"
-    anon e_w @ f_confused "那我们什么时候能带他回家？"
-
-# game/src/plot/jen_baby.rpy:1988
-translate zh_hans jen_baby_meet_302ae9e4:
-
-
-    # anon e_w @ f_confused "So when can we take her home?"
-    anon e_w @ f_confused "那我们什么时候能带她回家？"
-
-# game/src/plot/jen_baby.rpy:1990
-translate zh_hans jen_baby_meet_725509d7:
-
-
-    # anon e_w @ f_confused "So when can we take them home?"
-    anon e_w @ f_confused "那我们什么时候能带他们回家？"
-
-# game/src/plot/jen_baby.rpy:1992
-translate zh_hans jen_baby_meet_0aeacb8f:
-
-
-    # debbie e_w @ f_shy "Not for a few days, I'm afraid."
-    debbie e_w @ f_shy "恐怕还要过几天。"
-
-# game/src/plot/jen_baby.rpy:1993
-translate zh_hans jen_baby_meet_66c04fd7:
-
-    # debbie "You can head on back if you'd like, [saga.cast.anon]."
-    debbie "要是你愿意，可以先回去，[saga.cast.anon]。"
-
-# game/src/plot/jen_baby.rpy:1998
-translate zh_hans jen_baby_meet_9f001e73:
-
-
-    # debbie "I'll stay with [saga.cast.jenny] and the little one for a while longer."
-    debbie "我再陪[saga.cast.jenny]和小家伙待一会儿。"
-
-# game/src/plot/jen_baby.rpy:2000
-translate zh_hans jen_baby_meet_d924a6da:
-
-
-    # anon f_calm "O-okay."
-    anon f_calm "好、好的。"
-
-# game/src/plot/jen_baby.rpy:2003
-translate zh_hans jen_baby_meet_fb598f59:
-
-
-    # anon @ f_confused "Are you gonna stay here with them for a while?"
-    anon @ f_confused "你要在这里陪她们一会儿吗？"
-
-# game/src/plot/jen_baby.rpy:2004
-translate zh_hans jen_baby_meet_825a74e0:
-
-    # debbie @ e_w "Yeah, just a little while longer."
-    debbie @ e_w "嗯，再待一小会儿。"
-
-# game/src/plot/jen_baby.rpy:2010
-translate zh_hans jen_baby_meet_230363b1:
-
-
-    # debbie @ f_horny "I just can't get enough of this cute little girl!"
-    debbie @ f_horny "这个可爱的小姑娘，我怎么看都看不够！"
-
-# game/src/plot/jen_baby.rpy:2012
-translate zh_hans jen_baby_meet_2f56a05a:
-
-
-    # debbie @ f_horny "I just can't get enough of these cute little ones!"
-    debbie @ f_horny "这两个可爱的小家伙，我怎么看都看不够！"
-
-# game/src/plot/jen_baby.rpy:2014
-translate zh_hans jen_baby_meet_1c853813:
-
-
-    # anon e_w f_calm "Heh, okay."
-    anon e_w f_calm "嘿，好吧。"
-
-# game/src/plot/jen_baby.rpy:2016
-translate zh_hans jen_baby_meet_4e258fef:
-
-
-    # anon a_wave "I'll see you at home later then, [saga.cast.debbie]."
-    anon a_wave "那晚点家里见，[saga.cast.debbie]。"
-
-# game/src/plot/jen_baby.rpy:2027
-translate zh_hans jen_baby_meet_rails_76a72a26:
-
-
-    # anon @ -m_talk "( The recovery ward is on the third floor! Let's go! )"
-    anon @ -m_talk "（恢复病房在三楼！走吧！）"
-
-# game/src/plot/jen_baby.rpy:2030
-translate zh_hans jen_baby_meet_rails_92aef1be:
-
-
-    # anon @ -m_talk "( The ward chart says that [saga.cast.jenny] is in [saga.cast.jenny.where!l]. )"
-    anon @ -m_talk "（病房表上写着[saga.cast.jenny]在[saga.cast.jenny.where!l]。）"
-
-# game/src/plot/jen_baby.rpy:2033
-translate zh_hans jen_baby_meet_rails_be7dd797:
-
-
-    # anon @ -m_talk "( Huh, well what are the odds, she must be in one of the rooms next door. )"
-    anon @ -m_talk "（还真巧，她肯定就在隔壁某间病房。）"
-
-# game/src/plot/jen_baby.rpy:2036
-translate zh_hans jen_baby_meet_rails_466adecf:
-
-
-    # anon @ -m_talk "( The girls are at the clinic with the new baby... )"
-    anon @ -m_talk "（她们都在诊所陪着新生儿……）"
-
-# game/src/plot/jen_baby.rpy:2037
-translate zh_hans jen_baby_meet_rails_7b20e178:
-
-    # anon @ -m_talk "( ... I should get a wriggle on! )"
-    anon @ -m_talk "（……我得赶紧过去！）"
-
-# game/src/plot/jen_baby.rpy:2055
-translate zh_hans jen_baby_lock_block_eb4452a8:
-
-
-    # anon @ -m_talk "( Nah, give them some mother-daughter time. )"
-    anon @ -m_talk "（算了，让她们母女俩单独待会儿吧。）"
-
-# game/src/plot/jen_baby.rpy:2057
-translate zh_hans jen_baby_lock_block_08e50309:
-
-
-    # anon @ -m_talk "( I can check back later. )"
-    anon @ -m_talk "（我晚点再来看看。）"
-
-# game/src/plot/jen_baby.rpy:2071
-translate zh_hans jen_baby_rest_clinic_baby_34910589:
-
-
-    # anon "Hey, how are you feeling?"
-    anon "嘿，你感觉怎么样？"
-
-# game/src/plot/jen_baby.rpy:2072
-translate zh_hans jen_baby_rest_clinic_baby_92f000a3:
-
-    # jenny "Aww, [saga.cast.anon]..."
-    jenny "啊，[saga.cast.anon]……"
-
-# game/src/plot/jen_baby.rpy:2076
-translate zh_hans jen_baby_rest_clinic_baby_7ade0fa0:
-
-    # jenny "I can't stop staring at him..."
-    jenny "我怎么看他都看不够……"
-
-# game/src/plot/jen_baby.rpy:2080
-translate zh_hans jen_baby_rest_clinic_baby_fa320b44:
-
-    # jenny "I can't stop staring at her..."
-    jenny "我怎么看她都看不够……"
-
-# game/src/plot/jen_baby.rpy:2084
-translate zh_hans jen_baby_rest_clinic_baby_89e5e4c9:
-
-    # jenny "I can't stop staring at them..."
-    jenny "我怎么看他们都看不够……"
-
-# game/src/plot/jen_baby.rpy:2087
-translate zh_hans jen_baby_rest_clinic_baby_efa0511d:
-
-    # jenny e_w f_annoyed "Oh, shut up!"
-    jenny e_w f_annoyed "闭嘴啦！"
-
-# game/src/plot/jen_baby.rpy:2092
-translate zh_hans jen_baby_rest_clinic_baby_8df7613d:
-
-    # jenny "Well, we're fine."
-    jenny "我们都挺好。"
-
-# game/src/plot/jen_baby.rpy:2100
-translate zh_hans jen_baby_rest_clinic_baby_670c497a:
-
-
-    # anon "You want me to take her for a while so you can sleep?"
-    anon "要不要我替你照顾她一会儿，你好睡一觉？"
-
-# game/src/plot/jen_baby.rpy:2102
-translate zh_hans jen_baby_rest_clinic_baby_708d1216:
-
-
-    # anon "You want me to take them for a while so you can sleep?"
-    anon "要不要我替你照顾他们一会儿，你好睡一觉？"
-
-# game/src/plot/jen_baby.rpy:2104
-translate zh_hans jen_baby_rest_clinic_baby_96ec5bb9:
-
-
-    # jenny @ e_w -m_talk "Hmm?"
-    jenny @ e_w -m_talk "嗯？"
-
-# game/src/plot/jen_baby.rpy:2107
-translate zh_hans jen_baby_rest_clinic_baby_37252eb1:
-
-
-    # jenny "No, I've got him!"
-    jenny "不用，我抱着呢！"
-
-# game/src/plot/jen_baby.rpy:2109
-translate zh_hans jen_baby_rest_clinic_baby_06251912:
-
-
-    # jenny "No, I've got her!"
-    jenny "不用，我抱着呢！"
-
-# game/src/plot/jen_baby.rpy:2111
-translate zh_hans jen_baby_rest_clinic_baby_ce4514a0:
-
-
-    # jenny "No, I've got them!"
-    jenny "不用，我抱着呢！"
-
-# game/src/plot/jen_baby.rpy:2113
-translate zh_hans jen_baby_rest_clinic_baby_58aacc96:
-
-
-    # anon "You sure?"
-    anon "你确定？"
-
-# game/src/plot/jen_baby.rpy:2117
-translate zh_hans jen_baby_rest_clinic_baby_92905884:
-
-
-    # jenny "I said, I've got him, [saga.cast.anon]!"
-    jenny "我说了，我抱着呢，[saga.cast.anon]！"
-
-# game/src/plot/jen_baby.rpy:2119
-translate zh_hans jen_baby_rest_clinic_baby_94d3e6a6:
-
-
-    # jenny "I said, I've got her, [saga.cast.anon]!"
-    jenny "我说了，我抱着呢，[saga.cast.anon]！"
-
-# game/src/plot/jen_baby.rpy:2121
-translate zh_hans jen_baby_rest_clinic_baby_bec2fb25:
-
-
-    # jenny "I said, I've got them, [saga.cast.anon]!"
-    jenny "我说了，我抱着呢，[saga.cast.anon]！"
-
-# game/src/plot/jen_baby.rpy:2124
-translate zh_hans jen_baby_rest_clinic_baby_b84cc617:
-
-
-    # anon f_worried "O-okay."
-    anon f_worried "好、好吧。"
-
-# game/src/plot/jen_baby.rpy:2131
-translate zh_hans jen_baby_rest_micoe_9c19fb40:
-
-
-    # anon f_curious "Any problems?"
-    anon f_curious "有什么问题吗？"
-
-# game/src/plot/jen_baby.rpy:2132
-translate zh_hans jen_baby_rest_micoe_609990e4:
-
-    # micoe f_calm "So far, so good."
-    micoe f_calm "目前一切顺利。"
-
-# game/src/plot/jen_baby.rpy:2135
-translate zh_hans jen_baby_rest_micoe_ebfffde7:
-
-    # anon "Momma bear?"
-    anon "护崽母熊？"
-
-# game/src/plot/jen_baby.rpy:2143
-translate zh_hans jen_baby_rest_micoe_27fd2966:
-
-
-    # micoe "I know she's full of feelings right now but I still have to do my job."
-    micoe "我知道她现在情绪很激动，但我的工作还是得做。"
-
-# game/src/plot/jen_baby.rpy:2144
-translate zh_hans jen_baby_rest_micoe_9902015a:
-
-    # anon a_calm_down f_shy "Yeah, no... I understand."
-    anon a_calm_down f_shy "嗯，我明白。"
-
-# game/src/plot/jen_baby.rpy:2158
-translate zh_hans jen_baby_rest_sleep_0cccb165:
-
-
-    # anon @ -m_talk "( Like mother, like son, I guess. )"
-    anon @ -m_talk "（儿子果然随妈啊。）"
-
-# game/src/plot/jen_baby.rpy:2160
-translate zh_hans jen_baby_rest_sleep_fb594237:
-
-
-    # anon @ -m_talk "( Like mother, like daughter, I guess. )"
-    anon @ -m_talk "（女儿果然随妈啊。）"
-
-# game/src/plot/jen_baby.rpy:2162
-translate zh_hans jen_baby_rest_sleep_a56a9166:
-
-
-    # anon @ -m_talk "( Like mother, like twins, I guess. )"
-    anon @ -m_talk "（这对双胞胎果然随妈啊。）"
-
-# game/src/plot/jen_baby.rpy:2174
-translate zh_hans jen_baby_home_c94ac68f:
-
-
-    # anon "Hey, you're home!"
-    anon "嘿，你回来了！"
-
-# game/src/plot/jen_baby.rpy:2175
-translate zh_hans jen_baby_home_8dbdbb43:
-
-    # jenny e_r f_annoyed "Yeah, finally..."
-    jenny e_r f_annoyed "嗯，终于……"
-
-# game/src/plot/jen_baby.rpy:2178
-translate zh_hans jen_baby_home_75a9ecd3:
-
-    # debbie "I'm making you a big welcome home steak for dinner, dear."
-    debbie "亲爱的，今晚给你做块大牛排，庆祝你回家。"
-
-# game/src/plot/jen_baby.rpy:2185
-translate zh_hans jen_baby_home_4a2fe382:
-
-
-    # jenny "Would you mind watching her for a little bit?"
-    jenny "你能帮我照看她一会儿吗？"
-
-# game/src/plot/jen_baby.rpy:2187
-translate zh_hans jen_baby_home_32d14361:
-
-
-    # jenny "Would you mind watching them for a little bit?"
-    jenny "你能帮我照看他们一会儿吗？"
-
-# game/src/plot/jen_baby.rpy:2189
-translate zh_hans jen_baby_home_1bb7075d:
-
-
-    # jenny "I would literally kill for a bath right now."
-    jenny "我现在为了泡个澡，杀人都愿意。"
-
-# game/src/plot/jen_baby.rpy:2192
-translate zh_hans jen_baby_home_c9122af2:
-
-
-    # debbie "Of course, I'll watch him!"
-    debbie "当然，我来照看他！"
-
-# game/src/plot/jen_baby.rpy:2193
-translate zh_hans jen_baby_home_9b25e047:
-
-    # debbie e_sw "Come see your grandma, little guy!"
-    debbie e_sw "来外婆这里，小家伙！"
-
-# game/src/plot/jen_baby.rpy:2197
-translate zh_hans jen_baby_home_e3ceb358:
-
-    # debbie e_sw "Come see your grandma, little girl!"
-    debbie e_sw "来外婆这里，小姑娘！"
-
-# game/src/plot/jen_baby.rpy:2201
-translate zh_hans jen_baby_home_ef36b991:
-
-    # debbie e_sw "Come see grandma, little ones!"
-    debbie e_sw "来外婆这里，小家伙们！"
-
-# game/src/plot/jen_baby.rpy:2209
-translate zh_hans jen_baby_home_36382813:
-
-
-    # debbie a_baby e_s q_baby_jenny "Aww, such a cutie pie!"
-    debbie a_baby e_s q_baby_jenny "哎呀，真是个小可爱！"
-
-# game/src/plot/jen_baby.rpy:2211
-translate zh_hans jen_baby_home_3f29e863:
-
-
-    # jenny "Thanks, Mom."
-    jenny "谢谢，妈妈。"
-
-# game/src/plot/jen_baby.rpy:2212
-translate zh_hans jen_baby_home_68d13969:
-
-    # anon a_wave e_w f_calm "Welcome home, [saga.cast.jenny]!"
-    anon a_wave e_w f_calm "欢迎回家，[saga.cast.jenny]！"
-
-# game/src/plot/jen_baby.rpy:2219
-translate zh_hans jen_baby_home_e019c833:
-
-
-    # jenny "And don't bother me!"
-    jenny "还有，别来烦我！"
-
-# game/src/plot/jen_baby.rpy:2222
-translate zh_hans jen_baby_home_e8998f52:
-
-
-    # anon a_side e_nw f_confused "I wasn't going to..."
-    anon a_side e_nw f_confused "我本来就没打算……"
-
-# game/src/plot/jen_baby.rpy:2223
-translate zh_hans jen_baby_home_23277e88:
-
-    # jenny "Uh huh."
-    jenny "嗯嗯。"
-
-# game/src/plot/jen_baby.rpy:2227
-translate zh_hans jen_baby_home_32eee371:
-
-
-    # debbie e_w f_curious o_left @ -m_talk "Hmm?"
-    debbie e_w f_curious o_left @ -m_talk "嗯？"
-
-# game/src/plot/jen_baby.rpy:2228
-translate zh_hans jen_baby_home_0e34de9b:
-
-    # anon e_w f_tired -m_teeth "Never mind."
-    anon e_w f_tired -m_teeth "算了。"
-
-# game/src/plot/jen_baby.rpy:2241
-translate zh_hans jen_baby_post_care_068b28b6:
-
-
-    # jenny e_w f_annoyed "Fuck no!"
-    jenny e_w f_annoyed "想都别想！"
-
-# game/src/plot/jen_baby.rpy:2242
-translate zh_hans jen_baby_post_care_a7df8476:
-
-    # jenny f_sad "I hate thinking about leaving them with a stranger."
-    jenny f_sad "一想到要把孩子交给陌生人，我就受不了。"
-
-# game/src/plot/jen_baby.rpy:2245
-translate zh_hans jen_baby_post_care_5781aee6:
-
-    # anon f_calm "[saga.cast.debbie] and [saga.cast.diane] know the lady running the place."
-    anon f_calm "[saga.cast.debbie]和[saga.cast.diane]都认识托儿所的负责人。"
-
-# game/src/plot/jen_baby.rpy:2248
-translate zh_hans jen_baby_post_care_9da19bba:
-
-    # jenny "I don't care if she's Mary fucking Poppins, I don't like leaving my kid with her!"
-    jenny "哪怕她是他妈的Mary Poppins，我也不想把孩子交给她！"
-
-# game/src/plot/jen_baby.rpy:2265
-translate zh_hans jen_baby_post_intro_cad08f68:
-
-    # jenny "You definitely got your looks from your mommy."
-    jenny "这漂亮模样肯定是随妈妈的。"
-
-# game/src/plot/jen_baby.rpy:2291
-translate zh_hans jen_baby_post_outro_1cb1f371:
-
-    # jenny e_s f_happy "Say bye to Daddy..."
-    jenny e_s f_happy "跟爸爸说再见……"
-
-# game/src/plot/jen_baby.rpy:2305
-translate zh_hans jen_baby_post_want_ac21970c:
-
-    # jenny "No, we're good."
-    jenny "不用，我们挺好的。"
-
-# game/src/plot/jen_baby.rpy:2309
-translate zh_hans jen_baby_post_want_ba7df167:
-
-    # jenny "We're wonderful!"
-    jenny "我们好着呢！"
-
+# game/src/plot/jen_baby.rpy:1237
 translate zh_hans jen_baby_food_4bdd98a4:
 
     # anon "Argh!!"
     anon "啊！！"
 
+# game/src/plot/jen_baby.rpy:1244
 translate zh_hans jen_baby_food_8f3321ec:
 
 
     # anon "Umm..."
     anon "嗯……"
 
+# game/src/plot/jen_baby.rpy:1257
+translate zh_hans jen_baby_food_3c654d29:
+
+
+    # jenny a_hips c_naked e_w f_annoyed of_none p_stand "What the hell are you doing?"
+    jenny a_hips c_naked e_w f_annoyed of_none p_stand "你到底在干什么？"
+
+# game/src/plot/jen_baby.rpy:1258
+translate zh_hans jen_baby_food_80e8f486:
+
+    # anon a_uneasy e_w f_worried "I uhh..."
+    anon a_uneasy e_w f_worried "我，呃……"
+
+# game/src/plot/jen_baby.rpy:1259
 translate zh_hans jen_baby_food_3c273679:
 
     # jenny "Get naked!"
     jenny "脱光！"
 
+# game/src/plot/jen_baby.rpy:1260
 translate zh_hans jen_baby_food_75eb0fa0:
 
     # anon a_side "Don't you wanna, like... shower first?"
     anon a_side "你不想，呃…… 先洗个澡吗？"
 
+# game/src/plot/jen_baby.rpy:1261
 translate zh_hans jen_baby_food_802eaa51:
 
     # jenny "No."
     jenny "不。"
 
+# game/src/plot/jen_baby.rpy:1263
 translate zh_hans jen_baby_food_e6c5820a:
 
 
     # jenny f_confused "Why, do I smell?"
     jenny f_confused "怎么，我身上有味道吗？"
 
+# game/src/plot/jen_baby.rpy:1264
+translate zh_hans jen_baby_food_ca3fdd53:
+
+    # anon "Well, no... I just-"
+    anon "不是……我只是——"
+
+# game/src/plot/jen_baby.rpy:1265
 translate zh_hans jen_baby_food_4d39b711:
 
     # jenny "Then why are you being such a baby today?!"
     jenny "那你今天干嘛这么矫情？！"
 
+# game/src/plot/jen_baby.rpy:1267
 translate zh_hans jen_baby_food_535a7676:
 
 
     # jenny "We've had sex like a dozen times!"
     jenny "我们都做了十几次了！"
 
+# game/src/plot/jen_baby.rpy:1268
+translate zh_hans jen_baby_food_52479ad7:
+
+    # jenny a_touch f_annoyed "I'm pregnant with your child for fucks sake!"
+    jenny a_touch f_annoyed "我他妈正怀着你的孩子！"
+
+# game/src/plot/jen_baby.rpy:1269
 translate zh_hans jen_baby_food_756eb0db:
 
     # anon a_fold "I'm not being a baby!"
     anon a_fold "我才没有耍孩子气！"
 
+# game/src/plot/jen_baby.rpy:1270
 translate zh_hans jen_baby_food_cc805a98:
 
     # jenny "Yes, you are!"
     jenny "你就是！"
 
+# game/src/plot/jen_baby.rpy:1271
 translate zh_hans jen_baby_food_b8df2c8e:
 
     # anon f_sceptical "Could you, just please, go brush your teeth before we start?!"
     anon f_sceptical "开始前能不能拜托你先去刷个牙？！"
 
+# game/src/plot/jen_baby.rpy:1272
 translate zh_hans jen_baby_food_8c54e640:
 
     # jenny f_horny "Why?"
     jenny f_horny "为什么？"
 
+# game/src/plot/jen_baby.rpy:1273
 translate zh_hans jen_baby_food_540ecd53:
 
     # anon a_wtf f_annoyed "You know I hate olives!"
     anon a_wtf f_annoyed "你知道我讨厌橄榄！"
 
+# game/src/plot/jen_baby.rpy:1274
 translate zh_hans jen_baby_food_8af31772:
 
     # jenny e_r f_annoyed "It's not like we're gonna be kissing or anything..."
     jenny e_r f_annoyed "反正我们又不会接吻什么的……"
 
+# game/src/plot/jen_baby.rpy:1275
 translate zh_hans jen_baby_food_13858d2a:
 
     # anon a_shy_down f_disgusted "Yeah, well... I don't want my dick to smell like cottage cheese and peanut butter!"
     anon a_shy_down f_disgusted "是啊，可我不想让自己的鸡巴闻起来像茅屋奶酪和花生酱！"
 
+# game/src/plot/jen_baby.rpy:1276
 translate zh_hans jen_baby_food_5c5c98b7:
 
     # jenny e_b f_calm m_laugh @ -m_talk "Hah!"
     jenny e_b f_calm m_laugh @ -m_talk "哈！"
 
+# game/src/plot/jen_baby.rpy:1279
 translate zh_hans jen_baby_food_7472888d:
 
 
     # jenny e_w f_horny -m_laugh "If you think I'm sucking your dick today, you're out of your mind, [saga.cast.anon]."
     jenny e_w f_horny -m_laugh "你要是以为我今天会给你吹箫，那你可真是想疯了，[saga.cast.anon]。"
 
+# game/src/plot/jen_baby.rpy:1281
+translate zh_hans jen_baby_food_c9f2ba94:
+
+
+    # jenny f_annoyed "Now seriously... clothes off and mask on!"
+    jenny f_annoyed "现在认真点……脱衣服，戴上面具！"
+
+# game/src/plot/jen_baby.rpy:1282
+translate zh_hans jen_baby_food_795053f2:
+
+    # anon f_cynical @ -m_talk "Grr."
+    anon f_cynical @ -m_talk "哼。"
+
+# game/src/plot/jen_baby.rpy:1296
 translate zh_hans jen_baby_food_1404d917:
 
 
     # anon a_rub e_w f_surprised o_right "What the hell is that thing?"
     anon a_rub e_w f_surprised o_right "那到底是什么东西？"
 
+# game/src/plot/jen_baby.rpy:1297
+translate zh_hans jen_baby_food_2e7d92c8:
+
+    # jenny a_show c_jersey e_w f_horny o_left "It's a football jersey from college."
+    jenny a_show c_jersey e_w f_horny o_left "这是我大学时穿的橄榄球球衣。"
+
+# game/src/plot/jen_baby.rpy:1298
 translate zh_hans jen_baby_food_ac2d6fc8:
 
     # jenny "I ordered it a few days ago."
     jenny "我几天前订的。"
 
+# game/src/plot/jen_baby.rpy:1299
 translate zh_hans jen_baby_food_8ec12c73:
 
     # anon a_side f_confused "Okay, but why?"
     anon a_side f_confused "好吧，但为什么？"
 
+# game/src/plot/jen_baby.rpy:1300
 translate zh_hans jen_baby_food_b6e90146:
 
     # jenny a_touch f_calm "Because my fans don't know I'm pregnant and I wanna make a show of the unveiling."
     jenny a_touch f_calm "因为粉丝还不知道我怀孕了，我想在成人直播里好好揭晓一下。"
 
+# game/src/plot/jen_baby.rpy:1301
 translate zh_hans jen_baby_food_2d33238d:
 
     # anon "Unveiling?"
     anon "揭晓？"
 
+# game/src/plot/jen_baby.rpy:1302
 translate zh_hans jen_baby_food_226d8045:
 
     # jenny "Yeah, you know... tease them a little?"
     jenny "是啊，你知道……稍微逗逗他们？"
 
+# game/src/plot/jen_baby.rpy:1304
 translate zh_hans jen_baby_food_837c49fc:
 
 
     # jenny "It's the best way to get tips."
     jenny "这是让他们多打赏的最好办法。"
 
+# game/src/plot/jen_baby.rpy:1305
+translate zh_hans jen_baby_food_9f4f0f7d:
+
+    # anon "But what does the jersey have to do with-"
+    anon "可这球衣和——"
+
+# game/src/plot/jen_baby.rpy:1306
 translate zh_hans jen_baby_food_dd93c0d9:
 
     # jenny f_annoyed "Ugh, just shut up and get on the bed!"
     jenny f_annoyed "呃，闭嘴，快上床！"
 
+# game/src/plot/jen_baby.rpy:1309
 translate zh_hans jen_baby_food_9fb96326:
 
 
     # jenny "Jesus, it's like pulling teeth with you sometimes..."
     jenny "天哪，有时候让你配合一下怎么就这么难……"
 
+# game/src/plot/jen_baby.rpy:1310
+translate zh_hans jen_baby_food_ce0e62b2:
+
+    # anon e_osw f_sad "{i}*Sigh*{/i}"
+    anon e_osw f_sad "{i}*叹气*{/i}"
+
+# game/src/plot/jen_baby.rpy:1320
 translate zh_hans jen_baby_food_af816ba9:
 
 
     # anon "You're not getting on the bed?"
     anon "你不上床吗？"
 
+# game/src/plot/jen_baby.rpy:1321
+translate zh_hans jen_baby_food_1b907012:
+
+    # jenny "No, I'm going to start down here so they can't see my belly."
+    jenny "不，我一开始得待在下面，这样他们就看不到我的肚子。"
+
+# game/src/plot/jen_baby.rpy:1322
 translate zh_hans jen_baby_food_4747baef:
 
     # anon f_calm "Oh."
     anon f_calm "哦。"
 
+# game/src/plot/jen_baby.rpy:1324
 translate zh_hans jen_baby_food_09d89673:
 
 
     # jenny "Just relax and keep your mouth shut."
     jenny "放松，闭上你的嘴。"
 
+# game/src/plot/jen_baby.rpy:1325
+translate zh_hans jen_baby_food_5d274810:
+
+    # anon f_worried "Yeah, yeah..."
+    anon f_worried "是，是……"
+
+# game/src/plot/jen_baby.rpy:1328
 translate zh_hans jen_baby_food_67819919:
 
 
     # jenny "Okay..."
     jenny "好吧……"
 
+# game/src/plot/jen_baby.rpy:1330
+translate zh_hans jen_baby_food_b0cb1c95:
+
+
+    # jenny a_down "... Here we go."
+    jenny a_down "……开始吧。"
+
+# game/src/plot/jen_baby.rpy:1334
+translate zh_hans jen_baby_food_e0e6dc11:
+
+
+    # jenny "Hey there, boys!"
+    jenny "嘿，小伙子们！"
+
+# game/src/plot/jen_baby.rpy:1335
+translate zh_hans jen_baby_food_ff7aae7b:
+
+    # jenny "Did you miss me?!"
+    jenny "想我了吗？！"
+
+# game/src/plot/jen_baby.rpy:1337
 translate zh_hans jen_baby_food_02daee66:
 
 
     # jenny "I know I've been gone a while."
     jenny "我知道我消失了一段时间。"
 
+# game/src/plot/jen_baby.rpy:1339
+translate zh_hans jen_baby_food_1a61f2f6:
+
+
+    # jenny "No, I'm not dead."
+    jenny "不，我没死。"
+
+# game/src/plot/jen_baby.rpy:1340
+translate zh_hans jen_baby_food_8207780a:
+
+    # jenny "I've just been busy, that's all."
+    jenny "我只是忙而已，就这样。"
+
+# game/src/plot/jen_baby.rpy:1342
 translate zh_hans jen_baby_food_c596a716:
 
 
     # jenny "Well, you know... being a sex goddess is time consuming work."
     jenny "你也知道……当性爱女神可是很费时间的。"
 
+# game/src/plot/jen_baby.rpy:1344
+translate zh_hans jen_baby_food_9418e7ad:
+
+
+    # jenny f_horny "You'll find out why in a second."
+    jenny f_horny "你马上就会知道为什么了。"
+
+# game/src/plot/jen_baby.rpy:1346
+translate zh_hans jen_baby_food_ca4cc99c:
+
+
+    # jenny "That's right, sam9, special show today."
+    jenny "没错，sam9，今天有特别演出。"
+
+# game/src/plot/jen_baby.rpy:1348
+translate zh_hans jen_baby_food_e3be8c23:
+
+
+    # jenny "No, it's going to be even more special than that!"
+    jenny "不，这将会比那更特别！"
+
+# game/src/plot/jen_baby.rpy:1350
+translate zh_hans jen_baby_food_da52b301:
+
+
+    # jenny "That's right, better than anal."
+    jenny "没错，比肛交还要好。"
+
+# game/src/plot/jen_baby.rpy:1352
+translate zh_hans jen_baby_food_156c9ca6:
+
+
+    # jenny "Yes, I'm serious."
+    jenny "是的，我是认真的。"
+
+# game/src/plot/jen_baby.rpy:1355
+translate zh_hans jen_baby_food_908df4f5:
+
+
+    # jenny e_r f_annoyed "No, it's not double anal."
+    jenny e_r f_annoyed "不，不是双插肛交。"
+
+# game/src/plot/jen_baby.rpy:1358
+translate zh_hans jen_baby_food_1e1f206d:
+
+
+    # jenny e_sw "I said, I'll tell you in a second... sheesh."
+    jenny e_sw "我说了，等一下再告诉你……真是的。"
+
+# game/src/plot/jen_baby.rpy:1359
+translate zh_hans jen_baby_food_9f2dfdab:
+
+    # jenny f_calm "I'm just waiting for the room to fill a bit."
+    jenny f_calm "我只是在等直播间里再多来点人。"
+
+# game/src/plot/jen_baby.rpy:1362
 translate zh_hans jen_baby_food_7e6929aa:
 
 
     # jenny "Aww, I know..."
     jenny "噢，我知道……"
 
+# game/src/plot/jen_baby.rpy:1364
+translate zh_hans jen_baby_food_6f9a1a52:
+
+
+    # jenny "... I'll be back to my regular schedule soon guys."
+    jenny "……伙计们，我很快就会恢复平常的成人直播排期。"
+
+# game/src/plot/jen_baby.rpy:1367
+translate zh_hans jen_baby_food_44f4247f:
+
+
+    # jenny e_w p_bed_sit_side @ -m_talk "Mhmm."
+    jenny e_w p_bed_sit_side @ -m_talk "嗯哼。"
+
+# game/src/plot/jen_baby.rpy:1369
+translate zh_hans jen_baby_food_3ffc3806:
+
+
+    # jenny a_side "It's the same guy."
+    jenny a_side "是同一个人。"
+
+# game/src/plot/jen_baby.rpy:1374
+translate zh_hans jen_baby_food_2d70667f:
+
+
+    # jenny "Of course."
+    jenny "当然。"
+
+# game/src/plot/jen_baby.rpy:1375
+translate zh_hans jen_baby_food_93455fae:
+
+    # jenny a_down "I wouldn't settle for anything but the best."
+    jenny a_down "我只接受最好的，绝不将就。"
+
+# game/src/plot/jen_baby.rpy:1379
 translate zh_hans jen_baby_food_edfac62c:
 
 
     # jenny "Yeah, he wishes."
     jenny "是啊，他倒是想得美。"
 
+# game/src/plot/jen_baby.rpy:1383
+translate zh_hans jen_baby_food_45326b0e:
+
+
+    # jenny "Heh, it would take a lot more than a big ass ring."
+    jenny "呵，光一个大戒指可远远不够。"
+
+# game/src/plot/jen_baby.rpy:1384
+translate zh_hans jen_baby_food_ef652fe5:
+
+    # anon "What are you talking about?"
+    anon "你在说什么？"
+
+# game/src/plot/jen_baby.rpy:1385
 translate zh_hans jen_baby_food_83122118:
 
     # jenny a_side e_w f_angry m_teeth p_bed_sit_side @ -m_talk "Shh!!!"
     jenny a_side e_w f_angry m_teeth p_bed_sit_side @ -m_talk "嘘！！！"
 
+# game/src/plot/jen_baby.rpy:1391
 translate zh_hans jen_baby_food_b0c75f2b:
 
 
     # jenny "Alright, it looks like we're filling up pretty nicely."
     jenny "好了，人差不多齐了。"
 
+# game/src/plot/jen_baby.rpy:1393
+translate zh_hans jen_baby_food_50936c9c:
+
+
+    # jenny "You boys ready to find out where I've been and what we're doing today?"
+    jenny "小伙子们，准备好听我讲讲我这阵子去哪了，还有今天我们要干什么了吗？"
+
+# game/src/plot/jen_baby.rpy:1394
+translate zh_hans jen_baby_food_a3d2e488:
+
+    # "*PING*{w=.25} *PING*"
+    "*叮*{w=.25} *叮*"
+
+# game/src/plot/jen_baby.rpy:1395
 translate zh_hans jen_baby_food_33c9e6f5:
 
     # jenny "Aww, c'mon... you can do better than that."
     jenny "哎呀，拜托……你们还能更卖力点。"
 
+# game/src/plot/jen_baby.rpy:1396
 translate zh_hans jen_baby_food_1abb8e2f:
 
     # "*PING*{w=.14} *PING*{w=.14} *PING*{w=.14} *PING*"
     "*叮*{w=.14} *叮*{w=.14} *叮*{w=.14} *叮*"
 
+# game/src/plot/jen_baby.rpy:1398
 translate zh_hans jen_baby_food_8fe9d949:
 
 
     # jenny f_happy "That's better!"
     jenny f_happy "这还差不多！"
 
+# game/src/plot/jen_baby.rpy:1400
+translate zh_hans jen_baby_food_2e533855:
+
+
+    # jenny "So, the reason I haven't been around..."
+    jenny "所以，我最近没出现的原因……"
+
+# game/src/plot/jen_baby.rpy:1402
+translate zh_hans jen_baby_food_eb17b24c:
+
+
+    # jenny p_bed_climb_side "... Is because..."
+    jenny p_bed_climb_side "……是因为……"
+
+# game/src/plot/jen_baby.rpy:1403
+translate zh_hans jen_baby_food_6be240a2:
+
+    # jenny p_bed_sit_close "... My little boy toy here put a baby in me!"
+    jenny p_bed_sit_close "……就是我身边这个小男宠让我怀孕了！"
+
+# game/src/plot/jen_baby.rpy:1406
 translate zh_hans jen_baby_food_7f64381b:
 
 
     # jenny "Yes, it's real."
     jenny "没错，是真的。"
 
+# game/src/plot/jen_baby.rpy:1408
+translate zh_hans jen_baby_food_41f54b5f:
+
+
+    # jenny f_annoyed "No, it wasn't planned."
+    jenny f_annoyed "不，不是计划好的。"
+
+# game/src/plot/jen_baby.rpy:1411
+translate zh_hans jen_baby_food_998a182d:
+
+
+    # jenny "Umm, duh."
+    jenny "呃，废话。"
+
+# game/src/plot/jen_baby.rpy:1414
+translate zh_hans jen_baby_food_72a2a140:
+
+
+    # jenny "It's a bit late for that, don't you think?"
+    jenny "现在说这个是不是太晚了？"
+
+# game/src/plot/jen_baby.rpy:1416
+translate zh_hans jen_baby_food_634a2b3d:
+
+
+    # jenny f_calm "You wanna see?"
+    jenny f_calm "你想看看吗？"
+
+# game/src/plot/jen_baby.rpy:1418
+translate zh_hans jen_baby_food_7b970bfd:
+
+
+    # jenny f_horny "Do you {i}really{/i} wanna see?"
+    jenny f_horny "你{i}真的{/i}想看吗？"
+
+# game/src/plot/jen_baby.rpy:1419
+translate zh_hans jen_baby_food_8807b89f:
+
+    # "*PING*{w=.12} *PING*{w=.12} *PING*{w=.12} *PING*"
+    "*叮*{w=.12} *叮*{w=.12} *叮*{w=.12} *叮*"
+
+# game/src/plot/jen_baby.rpy:1425
 translate zh_hans jen_baby_food_0f8a3e02:
 
 
     # jenny "Heh, I told you!"
     jenny "嘿，我告诉过你了！"
 
+# game/src/plot/jen_baby.rpy:1428
+translate zh_hans jen_baby_food_a886b02d:
+
+
+    # jenny a_touch s_800ms "I know."
+    jenny a_touch s_800ms "我知道。"
+
+# game/src/plot/jen_baby.rpy:1430
+translate zh_hans jen_baby_food_1fadd624:
+
+
+    # jenny "Umm, it could be twins... I don't know."
+    jenny "嗯，可能是双胞胎……我不知道。"
+
+# game/src/plot/jen_baby.rpy:1433
+translate zh_hans jen_baby_food_6d6c1deb:
+
+
+    # jenny a_touch_02 f_annoyed "Yes, sam9... I know you can't get pregnant that way."
+    jenny a_touch_02 f_annoyed "是的，sam9……我知道那样不会怀孕。"
+
+# game/src/plot/jen_baby.rpy:1435
+translate zh_hans jen_baby_food_1c098ecd:
+
+
+    # jenny @ e_r "I'll keep it in mind going forward."
+    jenny @ e_r "我以后会记住的。"
+
+# game/src/plot/jen_baby.rpy:1439
+translate zh_hans jen_baby_food_112273fa:
+
+
+    # jenny f_happy "Oh, you do like it, huh?"
+    jenny f_happy "哦，你喜欢这样，是吧？"
+
+# game/src/plot/jen_baby.rpy:1441
+translate zh_hans jen_baby_food_ddaf9a1b:
+
+
+    # jenny "I had a feeling you might."
+    jenny "我就猜到你会喜欢。"
+
+# game/src/plot/jen_baby.rpy:1443
+translate zh_hans jen_baby_food_04fbcf4a:
+
+
+    # jenny f_horny "The real question is, how much do you like it?"
+    jenny f_horny "真正的问题是，你有多喜欢？"
+
+# game/src/plot/jen_baby.rpy:1444
+translate zh_hans jen_baby_food_d27a0fd9:
+
+    # "*PING*{w=.1} *PING*{w=.1} *PING*{w=.1} *PING*{w=.1} *PING*{w=.1} *PING*"
+    "*叮*{w=.1} *叮*{w=.1} *叮*{w=.1} *叮*{w=.1} *叮*{w=.1} *叮*"
+
+# game/src/plot/jen_baby.rpy:1448
 translate zh_hans jen_baby_food_a0ab547c:
 
 
     # jenny c_jersey_up "Aaaaand how about now?"
     jenny c_jersey_up "那现在呢？"
 
+# game/src/plot/jen_baby.rpy:1450
+translate zh_hans jen_baby_food_612344ff:
+
+
+    # "*PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*"
+    "*叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*"
+
+# game/src/plot/jen_baby.rpy:1452
+translate zh_hans jen_baby_food_58bbc072:
+
+
+    # jenny e_b f_calm m_laugh @ -m_talk "Hehehe!"
+    jenny e_b f_calm m_laugh @ -m_talk "嘿嘿嘿！"
+
+# game/src/plot/jen_baby.rpy:1456
+translate zh_hans jen_baby_food_5a19dee2:
+
+
+    # jenny e_sw f_happy -m_laugh "I know!"
+    jenny e_sw f_happy -m_laugh "我知道！"
+
+# game/src/plot/jen_baby.rpy:1459
+translate zh_hans jen_baby_food_6737d532:
+
+
+    # jenny a_down "Yeah, of course."
+    jenny a_down "嗯，当然。"
+
+# game/src/plot/jen_baby.rpy:1462
+translate zh_hans jen_baby_food_14ba318c:
+
+
+    # jenny "Yup."
+    jenny "没错。"
+
+# game/src/plot/jen_baby.rpy:1464
+translate zh_hans jen_baby_food_4a17e9cd:
+
+
+    # jenny f_horny "If you tip me well enough."
+    jenny f_horny "只要你打赏得够多。"
+
+# game/src/plot/jen_baby.rpy:1466
+translate zh_hans jen_baby_food_1b7a1843:
+
+
+    # "*PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*"
+    "*叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*"
+
+# game/src/plot/jen_baby.rpy:1467
+translate zh_hans jen_baby_food_b2360ebd:
+
+    # jenny "Heh, alright."
+    jenny "呵，好吧。"
+
+# game/src/plot/jen_baby.rpy:1468
 translate zh_hans jen_baby_food_4e17067c:
 
     # jenny "Here."
     jenny "给。"
 
+# game/src/plot/jen_baby.rpy:1473
 translate zh_hans jen_baby_food_45f454da:
 
 
     # jenny a_milk_01 "Did you see it?"
     jenny a_milk_01 "你看见了吗？"
 
+# game/src/plot/jen_baby.rpy:1476
+translate zh_hans jen_baby_food_a63bd2b1:
+
+
+    # jenny a_milk "See?!"
+    jenny a_milk "看见了吧？！"
+
+# game/src/plot/jen_baby.rpy:1478
+translate zh_hans jen_baby_food_ecca9d44:
+
+
+    # jenny a_milk_01 e_b f_calm m_laugh @ -m_talk "Hehehe!"
+    jenny a_milk_01 e_b f_calm m_laugh @ -m_talk "嘿嘿嘿！"
+
+# game/src/plot/jen_baby.rpy:1479
+translate zh_hans jen_baby_food_b1fa8c71:
+
+    # jenny e_sw -m_laugh "No, I haven't tasted it."
+    jenny e_sw -m_laugh "不，我还没尝过。"
+
+# game/src/plot/jen_baby.rpy:1483
 translate zh_hans jen_baby_food_a0c35bad:
 
 
     # jenny "No, he hasn't either."
     jenny "不，他也还没尝过。"
 
+# game/src/plot/jen_baby.rpy:1486
+translate zh_hans jen_baby_food_f9dd8860:
+
+
+    # jenny f_annoyed "No, I'm not sending you any!"
+    jenny f_annoyed "不，我一点也不会给你寄！"
+
+# game/src/plot/jen_baby.rpy:1489
+translate zh_hans jen_baby_food_4ef5e7d9:
+
+
+    # jenny a_down c_jersey_up e_wsw f_surprised "Wait, how much?!"
+    jenny a_down c_jersey_up e_wsw f_surprised "等等，多少？！"
+
+# game/src/plot/jen_baby.rpy:1494
+translate zh_hans jen_baby_food_b9fab67d:
+
+
+    # anon f_angry @ f_annoyed "[saga.cast.jenny]!"
+    anon f_angry @ f_annoyed "[saga.cast.jenny]！"
+
+# game/src/plot/jen_baby.rpy:1495
+translate zh_hans jen_baby_food_47dcf04d:
+
+    # jenny e_r f_annoyed "{i}*Sigh*{/i}"
+    jenny e_r f_annoyed "{i}*叹气*{/i}"
+
+# game/src/plot/jen_baby.rpy:1496
 translate zh_hans jen_baby_food_5c3bdb23:
 
     # jenny e_sw "No, really... I can't."
     jenny e_sw "不，真的……我不能给你寄。"
 
+# game/src/plot/jen_baby.rpy:1498
 translate zh_hans jen_baby_food_302e7bee:
 
 
     # jenny "Sorry, boys."
     jenny "抱歉了，兄弟们。"
 
+# game/src/plot/jen_baby.rpy:1501
+translate zh_hans jen_baby_food_ecb5b1e9:
+
+
+    # jenny "Because my boyfriend would get all pissy if I sent you some..."
+    jenny "因为我要是给你寄一点，我男朋友会不高兴的……"
+
+# game/src/plot/jen_baby.rpy:1504
+translate zh_hans jen_baby_food_a0a82e5f:
+
+
+    # anon e_w f_surprised @ -m_talk "!!!"
+    anon e_w f_surprised @ -m_talk "！！！"
+
+# game/src/plot/jen_baby.rpy:1505
+translate zh_hans jen_baby_food_588762a5:
+
+    # jenny e_e f_worried "Err, I mean-"
+    jenny e_e f_worried "呃，我是说——"
+
+# game/src/plot/jen_baby.rpy:1506
 translate zh_hans jen_baby_food_5a3a6903:
 
     # jenny e_s "M-my boy toy!"
     jenny e_s "我、我的小男宠！"
 
+# game/src/plot/jen_baby.rpy:1510
 translate zh_hans jen_baby_food_18376531:
 
 
     # jenny f_annoyed "He is {i}not{/i} my boyfriend!"
     jenny f_annoyed "他{i}不是{/i}我男朋友！"
 
+# game/src/plot/jen_baby.rpy:1511
+translate zh_hans jen_baby_food_dc9d3462:
+
+    # anon f_horny "But you just said I was."
+    anon f_horny "但你刚才还说我是呢。"
+
+# game/src/plot/jen_baby.rpy:1512
 translate zh_hans jen_baby_food_2b8b12f1:
 
     # jenny e_wsw p_bed_sit_turn "No I didn't."
     jenny e_wsw p_bed_sit_turn "我才没有。"
 
+# game/src/plot/jen_baby.rpy:1515
 translate zh_hans jen_baby_food_c9fa2b34:
 
 
     # anon e_w -m_laugh "Heh, yes, you did!"
     anon e_w -m_laugh "嘿，你说了！"
 
+# game/src/plot/jen_baby.rpy:1516
+translate zh_hans jen_baby_food_c8f77ef4:
+
+    # jenny "Shut up!"
+    jenny "闭嘴！"
+
+# game/src/plot/jen_baby.rpy:1517
 translate zh_hans jen_baby_food_b9442965:
 
     # anon e_b m_laugh @ -m_talk "Hehehe!"
     anon e_b m_laugh @ -m_talk "嘿嘿嘿！"
 
+# game/src/plot/jen_baby.rpy:1518
 translate zh_hans jen_baby_food_d979c2b5:
 
     # jenny f_disgusted p_bed_sit_close @ -m_talk "Grr!!"
     jenny f_disgusted p_bed_sit_close @ -m_talk "可恶！！"
 
+# game/src/plot/jen_baby.rpy:1521
 translate zh_hans jen_baby_food_901125e7:
 
 
     # jenny "Oh my god, he is {i}so{/i} not!"
     jenny "哦天哪，他{i}根本{/i}不是！"
 
+# game/src/plot/jen_baby.rpy:1523
+translate zh_hans jen_baby_food_dd7a1d75:
+
+
+    # jenny "Eugh, whatever."
+    jenny "呃，随便吧。"
+
+# game/src/plot/jen_baby.rpy:1524
+translate zh_hans jen_baby_food_9ed8dd9c:
+
+    # jenny "I'm flipping this over to subscribers only..."
+    jenny "我要把这个转成只有订阅者能看了……"
+
+# game/src/plot/jen_baby.rpy:1525
 translate zh_hans jen_baby_food_9d49a75a:
 
     # jenny "... So if you wanna see your pregnant sex goddess get fucked, then pay up!"
     jenny "……所以，如果你想看到你那怀孕的性爱女神被肏，那就付钱吧！"
 
+# game/src/plot/jen_baby.rpy:1527
 translate zh_hans jen_baby_food_3fcd4a8a:
 
 
     # jenny e_wsw f_angry m_teeth p_bed_sit_turn "Stop laughing!"
     jenny e_wsw f_angry m_teeth p_bed_sit_turn "别笑了！"
 
+# game/src/plot/jen_baby.rpy:1528
+translate zh_hans jen_baby_food_d7eb6328:
+
+    # anon e_w -m_laugh "Heh, I'm sorry..."
+    anon e_w -m_laugh "呵，抱歉……"
+
+# game/src/plot/jen_baby.rpy:1529
 translate zh_hans jen_baby_food_5e42dbf2:
 
     # anon "... It's just funny."
     anon "……只是觉得好笑。"
 
+# game/src/plot/jen_baby.rpy:1530
 translate zh_hans jen_baby_food_5be489f1:
 
     # jenny e_r f_annoyed -m_teeth "{i}*Sigh*{/i} It was a slip of the tongue..."
     jenny e_r f_annoyed -m_teeth "{i}*叹气*{/i} 只是口误……"
 
+# game/src/plot/jen_baby.rpy:1531
 translate zh_hans jen_baby_food_dc7619d1:
 
     # jenny e_nw p_bed_sit_close "... It doesn't mean anything."
     jenny e_nw p_bed_sit_close "……没什么别的意思。"
 
+# game/src/plot/jen_baby.rpy:1533
 translate zh_hans jen_baby_food_0a01c03b:
 
 
     # anon "Yeah, okay."
     anon "是啊，好吧。"
 
+# game/src/plot/jen_baby.rpy:1534
+translate zh_hans jen_baby_food_67b52844:
+
+    # anon "Keep telling yourself that."
+    anon "你就继续自欺欺人吧。"
+
+# game/src/plot/jen_baby.rpy:1535
 translate zh_hans jen_baby_food_7aa5da9a:
 
     # jenny e_s f_nervous m_lip @ -m_talk "..."
     jenny e_s f_nervous m_lip @ -m_talk "……"
 
+# game/src/plot/jen_baby.rpy:1538
 translate zh_hans jen_baby_food_5b39b459:
 
 
     # jenny f_annoyed -m_lip "Yes, we're gonna sex."
     jenny f_annoyed -m_lip "对，我们就是要做爱。"
 
+# game/src/plot/jen_baby.rpy:1541
+translate zh_hans jen_baby_food_c9f7195b:
+
+
+    # jenny f_calm "Soon."
+    jenny f_calm "很快。"
+
+# game/src/plot/jen_baby.rpy:1543
+translate zh_hans jen_baby_food_dd94043f:
+
+
+    # jenny f_horny "I don't know, sam9... you'll just have to wait and see."
+    jenny f_horny "我不知道，sam9……你只能等着瞧了。"
+
+# game/src/plot/jen_baby.rpy:1545
+translate zh_hans jen_baby_food_000371db:
+
+
+    # jenny "Oh, god yes!"
+    jenny "哦，天哪，是的！"
+
+# game/src/plot/jen_baby.rpy:1546
+translate zh_hans jen_baby_food_11c5e98d:
+
+    # jenny "With all these hormones, I get like, crazy horny!"
+    jenny "荷尔蒙作祟，我简直欲火难耐！"
+
+# game/src/plot/jen_baby.rpy:1549
 translate zh_hans jen_baby_food_dccad4ac:
 
 
     # jenny "No, I've still been using my toys."
     jenny "不，我还在用我的玩具。"
 
+# game/src/plot/jen_baby.rpy:1551
+translate zh_hans jen_baby_food_0abe55a7:
+
+
+    # jenny @ e_e f_calm "Yes, {i}all{/i} of them..."
+    jenny @ e_e f_calm "对，{i}全都{/i}想要……"
+
+# game/src/plot/jen_baby.rpy:1555
+translate zh_hans jen_baby_food_c32f56cc:
+
+
+    # jenny f_disgusted "... Eww, seriously?"
+    jenny f_disgusted "……呃，认真的？"
+
+# game/src/plot/jen_baby.rpy:1559
+translate zh_hans jen_baby_food_780bb3e6:
+
+
+    # jenny f_horny "Heh, wow."
+    jenny f_horny "嘿，哇。"
+
+# game/src/plot/jen_baby.rpy:1560
+translate zh_hans jen_baby_food_6911ff9d:
+
+    # jenny "I guess that shouldn't surprise me..."
+    jenny "我想这也不该让我意外……"
+
+# game/src/plot/jen_baby.rpy:1565
 translate zh_hans jen_baby_food_2c2329a6:
 
 
     # jenny e_sw -m_laugh "... You boys are thirsty as fuck!"
     jenny e_sw -m_laugh "……你们这些家伙真他妈饥渴！"
 
+# game/src/plot/jen_baby.rpy:1567
+translate zh_hans jen_baby_food_b1e6d425:
+
+
+    # jenny "Umm, okay... can we talk about it another time?"
+    jenny "呃，好吧……我们能改天再聊吗？"
+
+# game/src/plot/jen_baby.rpy:1568
+translate zh_hans jen_baby_food_73616a22:
+
+    # jenny f_horny "I really wanna get this big dick in me."
+    jenny f_horny "我真想让这根大屌狠狠干进来。"
+
+# game/src/plot/jen_baby.rpy:1571
 translate zh_hans jen_baby_food_4a3b8e45:
 
 
     # jenny f_snide "Yeah."
     jenny f_snide "是啊。"
 
+# game/src/plot/jen_baby.rpy:1574
+translate zh_hans jen_baby_food_2f85d38a:
+
+
+    # "*PING*{w=.09} *PING*{w=.09} *PING*{w=.09} *PING*{w=.09} *PING*"
+    "*叮*{w=.09} *叮*{w=.09} *叮*{w=.09} *叮*{w=.09} *叮*"
+
+# game/src/plot/jen_baby.rpy:1579
+translate zh_hans jen_baby_food_b82b2547:
+
+
+    # "*PING*{w=.1} *PING*{w=.1} *PING*"
+    "*叮*{w=.1} *叮*{w=.1} *叮*"
+
+# game/src/plot/jen_baby.rpy:1580
+translate zh_hans jen_baby_food_e40911a2:
+
+    # jenny "Thee, ahh tord eww is ood bring in oons of morney!"
+    jenny "看吧，我早嗦过这能赚好多钱！"
+
+# game/src/plot/jen_baby.rpy:1581
 translate zh_hans jen_baby_food_5dd6565f:
 
     # anon "Yeah, that's not the part I had a problem with..."
     anon "对，但那不是我介意的部分……"
 
+# game/src/plot/jen_baby.rpy:1583
 translate zh_hans jen_baby_food_merge_a5514904:
 
 
     # jenny p_debbie_bed2_reverse_anim_04 "Ahh, fuck!!!"
     jenny p_debbie_bed2_reverse_anim_04 "啊，操！！！"
 
+# game/src/plot/jen_baby.rpy:1584
+translate zh_hans jen_baby_food_merge_03157d2b:
+
+    # jenny p_debbie_bed2_reverse_anim_06 "Oh!"
+    jenny p_debbie_bed2_reverse_anim_06 "哦！"
+
+# game/src/plot/jen_baby.rpy:1587
 translate zh_hans jen_baby_food_merge_fd90c631:
 
 
     # jenny p_debbie_bed2_reverse_anim s_4 "Oh, at 'eels oh 'ucking good!"
     jenny p_debbie_bed2_reverse_anim s_4 "哦，感觉真他妈爽！"
 
+# game/src/plot/jen_baby.rpy:1588
+translate zh_hans jen_baby_food_merge_901fd73b:
+
+    # "*PING*{w=.12} *PING*{w=.12} *PING*{w=.12} *PING*{w=.12} *PING*"
+    "*叮*{w=.12} *叮*{w=.12} *叮*{w=.12} *叮*{w=.12} *叮*"
+
+# game/src/plot/jen_baby.rpy:1589
 translate zh_hans jen_baby_food_merge_4771a128:
 
     # jenny s_5 "Mmm, 'od damn!"
     jenny s_5 "嗯，妈的！"
 
+# game/src/plot/jen_baby.rpy:1590
 translate zh_hans jen_baby_food_merge_4e9ca99f:
 
     # jenny s_6 "It's so 'ucking 'eep!"
     jenny s_6 "太他妈深了！"
 
+# game/src/plot/jen_baby.rpy:1591
 translate zh_hans jen_baby_food_merge_a054fb74:
 
     # jenny "Aym 'onna 'um alredeee!"
     jenny "我、我已经要高潮了！"
 
+# game/src/plot/jen_baby.rpy:1592
 translate zh_hans jen_baby_food_merge_f73331aa:
 
     # jenny s_8 "NGGHHH!!!" with flash
     jenny s_8 "呃啊啊啊！！！" with flash
 
+# game/src/plot/jen_baby.rpy:1594
 translate zh_hans jen_baby_food_merge_e3254ebb:
 
 
     # jenny "Ohmmuh god, ohmmuh god, OHMMUH GOD!!!"
     jenny "哦我的天啊，哦我的天啊，哦我的天啊！！！"
 
+# game/src/plot/jen_baby.rpy:1595
+translate zh_hans jen_baby_food_merge_da7f1230:
+
+    # jenny "Eww 'iking iss boys?"
+    jenny "你们喜欢这样吗，小伙子们？"
+
+# game/src/plot/jen_baby.rpy:1596
 translate zh_hans jen_baby_food_merge_c22d2797:
 
     # "*PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*{w=.04} *PING*"
     "*叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*{w=.04} *叮*"
 
+# game/src/plot/jen_baby.rpy:1597
 translate zh_hans jen_baby_food_merge_2654afba:
 
     # jenny "Uhh baby gon 'razy in 'ere!"
     jenny "呃，宝宝在肚子里闹疯了！"
 
+# game/src/plot/jen_baby.rpy:1598
 translate zh_hans jen_baby_food_merge_5502af91:
 
     # anon "Really?"
     anon "真的吗？"
 
+# game/src/plot/jen_baby.rpy:1599
 translate zh_hans jen_baby_food_merge_aff243c8:
 
     # jenny "Yeah, an you 'eel it kicking?"
     jenny "是啊，你能感觉到宝宝在踢吗？"
 
+# game/src/plot/jen_baby.rpy:1601
 translate zh_hans jen_baby_food_merge_7cdddfb3:
 
 
     # jenny "Don't stop!"
     jenny "别停！"
 
+# game/src/plot/jen_baby.rpy:1602
+translate zh_hans jen_baby_food_merge_39a2776c:
+
+    # jenny "I'm 'onna cum again!!"
+    jenny "我又要高潮了！！"
+
+# game/src/plot/jen_baby.rpy:1603
 translate zh_hans jen_baby_food_merge_afc95f6f:
 
     # anon "Wow, again?!"
     anon "哇，又来了？！"
 
+# game/src/plot/jen_baby.rpy:1604
 translate zh_hans jen_baby_food_merge_086ad2a5:
 
     # jenny "OH MUH GOD! YES!!!"
     jenny "哦我的天！是的！！！"
 
+# game/src/plot/jen_baby.rpy:1605
 translate zh_hans jen_baby_food_merge_5ba32016:
 
     # "*PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*"
     "*叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*"
 
+# game/src/plot/jen_baby.rpy:1607
 translate zh_hans jen_baby_food_merge_3b8196d2:
 
 
     # jenny "NGGHHH!!!" with flash
     jenny "嗯啊啊啊！！！" with flash
 
+# game/src/plot/jen_baby.rpy:1608
+translate zh_hans jen_baby_food_merge_091d9330:
+
+    # "*PING*{w=.06} *PING*{w=.06} *PING*{w=.06} *PING*{w=.06} *PING*"
+    "*叮*{w=.06} *叮*{w=.06} *叮*{w=.06} *叮*{w=.06} *叮*"
+
+# game/src/plot/jen_baby.rpy:1609
 translate zh_hans jen_baby_food_merge_ed340685:
 
     # jenny "Are eww 'etting close yet?"
     jenny "你还没快射吗？"
 
+# game/src/plot/jen_baby.rpy:1610
 translate zh_hans jen_baby_food_merge_b6bacf11:
 
     # anon "Kinda."
     anon "有点儿。"
 
+# game/src/plot/jen_baby.rpy:1612
 translate zh_hans jen_baby_food_merge_a6950695:
 
 
     # jenny "Well, 'urry up!!"
     jenny "那就快点！！"
 
+# game/src/plot/jen_baby.rpy:1613
+translate zh_hans jen_baby_food_merge_ec481539:
+
+    # jenny "I 'unno if I can-"
+    jenny "我不晓得我能不能——"
+
+# game/src/plot/jen_baby.rpy:1616
 translate zh_hans jen_baby_food_merge_42bfcc5c:
 
 
     # jenny "OH, FUCK!!!"
     jenny "哦，操！！！"
 
+# game/src/plot/jen_baby.rpy:1617
+translate zh_hans jen_baby_food_merge_64d1f460:
+
+    # anon "Here it comes!"
+    anon "来了！"
+
+# game/src/plot/jen_baby.rpy:1618
 translate zh_hans jen_baby_food_merge_e02ff259:
 
     # jenny "Yes!!"
     jenny "对！！"
 
+# game/src/plot/jen_baby.rpy:1619
 translate zh_hans jen_baby_food_merge_0a3fe19e:
 
     # anon "Where do you want it?"
     anon "你想让我射哪儿？"
 
+# game/src/plot/jen_baby.rpy:1620
 translate zh_hans jen_baby_food_merge_922e045b:
 
     # jenny "YES!!!"
     jenny "好！！！"
 
+# game/src/plot/jen_baby.rpy:1621
 translate zh_hans jen_baby_food_merge_1c8fe247:
 
     # anon "[saga.cast.jenny]?!"
     anon "[saga.cast.jenny]？！"
 
+# game/src/plot/jen_baby.rpy:1622
 translate zh_hans jen_baby_food_merge_e5a4a27e:
 
     # jenny "My belly!!"
     jenny "射我肚子上！！"
 
+# game/src/plot/jen_baby.rpy:1623
 translate zh_hans jen_baby_food_merge_aa44d3c3:
 
     # jenny "My-"
     jenny "肚子——"
 
+# game/src/plot/jen_baby.rpy:1624
 translate zh_hans jen_baby_food_merge_a9c88cd2:
 
     # jenny d_anon_hard_pullout p_debbie_bed2_reverse_cum "NGGHHH!!!"
     jenny d_anon_hard_pullout p_debbie_bed2_reverse_cum "唔啊啊啊！！！"
 
+# game/src/plot/jen_baby.rpy:1626
 translate zh_hans jen_baby_food_merge_0cf4d269:
 
 
     # anon "HNNGGG!!!" with flash
     anon "哼嗯嗯！！！" with flash
 
+# game/src/plot/jen_baby.rpy:1627
+translate zh_hans jen_baby_food_merge_c1f62415:
+
+    # "*PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*{w=.02} *PING*"
+    "*叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*{w=.02} *叮*"
+
+# game/src/plot/jen_baby.rpy:1629
 translate zh_hans jen_baby_food_merge_34dc0060:
 
 
     # anon "Hurggk!!" with vpunch
     anon "呃啊啊！！" with vpunch
 
+# game/src/plot/jen_baby.rpy:1631
+translate zh_hans jen_baby_food_merge_d165fd93:
+
+
+    # anon "Haah... haah..."
+    anon "哈啊……哈啊……"
+
+# game/src/plot/jen_baby.rpy:1633
+translate zh_hans jen_baby_food_merge_8f894849:
+
+
+    # anon "[saga.cast.jenny]?"
+    anon "[saga.cast.jenny]？"
+
+# game/src/plot/jen_baby.rpy:1635
+translate zh_hans jen_baby_food_merge_fc0dbaae:
+
+
+    # anon "You okay?"
+    anon "你还好吗？"
+
+# game/src/plot/jen_baby.rpy:1636
+translate zh_hans jen_baby_food_merge_9562e4bc:
+
+    # jenny "{i}*Mumbles incoherently*{/i}"
+    jenny "{i}*含糊不清地咕哝*{/i}"
+
+# game/src/plot/jen_baby.rpy:1637
 translate zh_hans jen_baby_food_merge_091d9330_1:
 
     # "*PING*{w=.06} *PING*{w=.06} *PING*{w=.06} *PING*{w=.06} *PING*"
     "*叮*{w=.06} *叮*{w=.06} *叮*{w=.06} *叮*{w=.06} *叮*"
 
+# game/src/plot/jen_baby.rpy:1638
 translate zh_hans jen_baby_food_merge_22be0629:
 
     # anon "Umm, what?"
     anon "呃，什么？"
 
+# game/src/plot/jen_baby.rpy:1640
 translate zh_hans jen_baby_food_merge_1c8fe247_1:
 
 
     # anon "[saga.cast.jenny]?!"
     anon "[saga.cast.jenny]？！"
 
+# game/src/plot/jen_baby.rpy:1641
+translate zh_hans jen_baby_food_merge_5714c136:
+
+    # jenny "Ugh... shushit..."
+    jenny "呃……闭嘴吧……"
+
+# game/src/plot/jen_baby.rpy:1642
 translate zh_hans jen_baby_food_merge_95c0f304:
 
     # "*PING*{w=.07} *PING*{w=.07} *PING*{w=.07} *PING*{w=.07} *PING*{w=.07} *PING*{w=.07} *PING*{w=.07} *PING*{w=.07} *PING*"
     "*叮*{w=.07} *叮*{w=.07} *叮*{w=.07} *叮*{w=.07} *叮*{w=.07} *叮*{w=.07} *叮*{w=.07} *叮*{w=.07} *叮*"
 
+# game/src/plot/jen_baby.rpy:1649
 translate zh_hans jen_baby_food_merge_8f3321ec:
 
 
     # anon "Umm..."
     anon "呃……"
 
+# game/src/plot/jen_baby.rpy:1652
+translate zh_hans jen_baby_food_merge_47f813ad:
+
+
+    # anon f_worried "... I think I might have broken her."
+    anon f_worried "……我想我可能把她弄坏了。"
+
+# game/src/plot/jen_baby.rpy:1656
+translate zh_hans jen_baby_food_merge_5ffdd2d8:
+
+
+    # anon e_sw f_worried "... I think I broke her again."
+    anon e_sw f_worried "……我想我又把她弄坏了。"
+
+# game/src/plot/jen_baby.rpy:1658
+translate zh_hans jen_baby_food_merge_4ced7b9c:
+
+
+    # "*PING*{w=.5} *PING*{w=.4} *PING*{w=.4} *PING*{w=1} *PING*{w=.1} *PING*{w=.1}"
+    "*叮*{w=.5} *叮*{w=.4} *叮*{w=.4} *叮*{w=1} *叮*{w=.1} *叮*{w=.1}"
+
+# game/src/plot/jen_baby.rpy:1660
+translate zh_hans jen_baby_food_merge_24a4d596:
+
+
+    # "*PING*{w=.2} *PING*{w=.2} *PING*{w=1} *PING*{w=.3} *PING*{w=.4} *PING*{w=.1} *PING*{w=.2}"
+    "*叮*{w=.2} *叮*{w=.2} *叮*{w=1} *叮*{w=.3} *叮*{w=.4} *叮*{w=.1} *叮*{w=.2}"
+
+# game/src/plot/jen_baby.rpy:1661
+translate zh_hans jen_baby_food_merge_491ca0b8:
+
+    # "*PING*{w=.2} *PING*{w=.2} *PING*{w=.2} *PING*{w=.2} *PING*{w=1} *PING*{w=.1}"
+    "*叮*{w=.2} *叮*{w=.2} *叮*{w=.2} *叮*{w=.2} *叮*{w=1} *叮*{w=.1}"
+
+# game/src/plot/jen_baby.rpy:1663
 translate zh_hans jen_baby_food_merge_9f02c77d:
 
 
     # "*PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*{w=.08} *PING*"
     "*叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08} *叮*{w=.08}"
 
+# game/src/plot/jen_baby.rpy:1667
+translate zh_hans jen_baby_food_merge_99010edb:
+
+
+    # anon f_surprised -m_open "Should I shut the stream off or something?"
+    anon f_surprised -m_open "我该把直播关了吗？"
+
+# game/src/plot/jen_baby.rpy:1669
+translate zh_hans jen_baby_food_merge_3200af5b:
+
+
+    # anon f_surprised -m_open "You want me to shut the stream off?"
+    anon f_surprised -m_open "你要我关掉直播吗？"
+
+# game/src/plot/jen_baby.rpy:1672
+translate zh_hans jen_baby_food_merge_9562e4bc_1:
+
+
+    # jenny "{i}*Mumbles incoherently*{/i}"
+    jenny "{i}*含糊不清地嘟囔*{/i}"
+
+# game/src/plot/jen_baby.rpy:1675
+translate zh_hans jen_baby_food_merge_df78a85a:
+
+
+    # anon e_sw f_shy "Uhh, sorry guys... I think that's all for today."
+    anon e_sw f_shy "呃，抱歉各位……今天就到这里吧。"
+
+# game/src/plot/jen_baby.rpy:1678
+translate zh_hans jen_baby_food_merge_45efdd59:
+
+
+    # anon "Yeah, it was pretty good."
+    anon "是啊，挺不错的。"
+
+# game/src/plot/jen_baby.rpy:1680
+translate zh_hans jen_baby_food_merge_370bd629:
+
+
+    # anon f_worried "Umm, I dunno... it's complicated."
+    anon f_worried "嗯，我不知道……这事挺复杂的。"
+
+# game/src/plot/jen_baby.rpy:1682
+translate zh_hans jen_baby_food_merge_1b058635:
+
+
+    # anon f_confused "My name?"
+    anon f_confused "我的名字？"
+
+# game/src/plot/jen_baby.rpy:1683
+translate zh_hans jen_baby_food_merge_4f29f716:
+
+    # anon "Oh, I don't think-"
+    anon "哦，我不认为——"
+
+# game/src/plot/jen_baby.rpy:1685
 translate zh_hans jen_baby_food_merge_cb96657c:
 
 
     # jenny "Dun ev thunkit, asshuuuul."
     jenny "想都别想，混蛋。"
 
+# game/src/plot/jen_baby.rpy:1687
+translate zh_hans jen_baby_food_merge_5cec9dc5:
+
+
+    # anon e_sw f_shy "Let's just say I'm her boyfriend and leave it at that..."
+    anon e_sw f_shy "就当我是她男朋友，别再问了……"
+
+# game/src/plot/jen_baby.rpy:1688
+translate zh_hans jen_baby_food_merge_e8e1a4b7:
+
+    # jenny "Noma boyfren..."
+    jenny "才不系我男朋友……"
+
+# game/src/plot/jen_baby.rpy:1691
 translate zh_hans jen_baby_food_merge_bc84b5d2:
 
 
     # anon e_sw f_shy "I think that's a yes, guys..."
     anon e_sw f_shy "我觉得她这是同意了，各位……"
 
+# game/src/plot/jen_baby.rpy:1693
+translate zh_hans jen_baby_food_merge_08d2cefb:
+
+
+    # anon "... Sorry."
+    anon "……抱歉。"
+
+# game/src/plot/jen_baby.rpy:1695
+translate zh_hans jen_baby_food_merge_7e42361c:
+
+
+    # anon "Yeah, we'll be back."
+    anon "嗯，我们会回来的。"
+
+# game/src/plot/jen_baby.rpy:1697
+translate zh_hans jen_baby_food_merge_4635c1ed:
+
+
+    # anon f_worried "Oh, ehh... I'm not sure, sam9..."
+    anon f_worried "哦，呃……我不确定，sam9……"
+
+# game/src/plot/jen_baby.rpy:1699
+translate zh_hans jen_baby_food_merge_bce364b0:
+
+
+    # anon f_shy "... I mean, maybe next time?"
+    anon f_shy "……我是说，也许下次吧？"
+
+# game/src/plot/jen_baby.rpy:1700
+translate zh_hans jen_baby_food_merge_aae4a560:
+
+    # jenny "Fuggid Sam..."
+    jenny "去你的，Sam……"
+
+# game/src/plot/jen_baby.rpy:1702
 translate zh_hans jen_baby_food_merge_f3340de8:
 
 
     # anon e_ese f_happy "What's that [saga.cast.jenny]?"
     anon e_ese f_happy "你说什么，[saga.cast.jenny]？"
 
+# game/src/plot/jen_baby.rpy:1705
+translate zh_hans jen_baby_food_merge_9562e4bc_2:
+
+
+    # jenny "{i}*Mumbles incoherently*{/i}"
+    jenny "{i}*含糊不清地嘟囔*{/i}"
+
+# game/src/plot/jen_baby.rpy:1706
+translate zh_hans jen_baby_food_merge_4a05c1bc:
+
+    # anon "You love me?"
+    anon "你爱我吗？"
+
+# game/src/plot/jen_baby.rpy:1707
 translate zh_hans jen_baby_food_merge_9b2630d4:
 
     # anon "Aww, that's nice."
     anon "啊，那真好。"
 
+# game/src/plot/jen_baby.rpy:1710
 translate zh_hans jen_baby_food_merge_6e1a9997:
 
 
     # anon "You'd love it in your butt next time?"
     anon "你说下次想试试屁股？"
 
+# game/src/plot/jen_baby.rpy:1712
+translate zh_hans jen_baby_food_merge_cb9b2d31:
+
+
+    # jenny "{i}*Groan*{/i}"
+    jenny "{i}*呻吟*{/i}"
+
+# game/src/plot/jen_baby.rpy:1713
+translate zh_hans jen_baby_food_merge_310531ee:
+
+    # anon e_b m_laugh @ -m_talk "Hehe!"
+    anon e_b m_laugh @ -m_talk "呵呵！"
+
+# game/src/plot/jen_baby.rpy:1714
 translate zh_hans jen_baby_food_merge_a070abba:
 
     # anon e_sw f_shy -m_laugh "So uhh... I guess, thanks for tuning in guys!"
     anon e_sw f_shy -m_laugh "那么，呃……感谢大家收看！"
 
+# game/src/plot/jen_baby.rpy:1717
 translate zh_hans jen_baby_food_merge_0df4943c:
 
 
     # anon "And we'll just... ehh, see you all next time!"
     anon "那我们就……呃，下次见啦！"
 
+# game/src/plot/jen_baby.rpy:1719
+translate zh_hans jen_baby_food_merge_62cdbce4:
+
+
+    # anon "And we'll see you all next time!"
+    anon "那我们下次见！"
+
+# game/src/plot/jen_baby.rpy:1725
+translate zh_hans jen_baby_food_merge_244739f4:
+
+
+    # mono ""
+    mono ""
+
+# game/src/plot/jen_baby.rpy:1738
+translate zh_hans jen_baby_food_merge_72c0b288:
+
+
+    # anon a_side e_w p_stand "So, umm..."
+    anon a_side e_w p_stand "所以，嗯……"
+
+# game/src/plot/jen_baby.rpy:1739
+translate zh_hans jen_baby_food_merge_56902f90:
+
+    # anon f_happy "... How ya doing?"
+    anon f_happy "…… 你还好吗？"
+
+# game/src/plot/jen_baby.rpy:1740
 translate zh_hans jen_baby_food_merge_9562e4bc_3:
 
     # jenny "{i}*Mumbles incoherently*{/i}"
     jenny "{i}*含糊不清地嘟囔*{/i}"
 
+# game/src/plot/jen_baby.rpy:1741
 translate zh_hans jen_baby_food_merge_b90390e4:
 
     # anon "O-kay."
     anon "好吧。"
 
+# game/src/plot/jen_baby.rpy:1743
 translate zh_hans jen_baby_food_merge_d576c3dc:
 
 
     # anon f_confused "Do you need me to get you anything?"
     anon f_confused "需要我给你拿点什么吗？"
 
+# game/src/plot/jen_baby.rpy:1744
+translate zh_hans jen_baby_food_merge_9562e4bc_4:
+
+    # jenny "{i}*Mumbles incoherently*{/i}"
+    jenny "{i}*含糊不清地嘟囔*{/i}"
+
+# game/src/plot/jen_baby.rpy:1745
 translate zh_hans jen_baby_food_merge_cb54bfb7:
 
     # anon f_worried "Right."
     anon f_worried "对。"
 
+# game/src/plot/jen_baby.rpy:1747
 translate zh_hans jen_baby_food_merge_6748c53f:
 
 
     # anon f_shy "So, I guess, you'll just give me my cut later then?"
     anon f_shy "那你晚点再把我的分成给我？"
 
+# game/src/plot/jen_baby.rpy:1748
+translate zh_hans jen_baby_food_merge_9562e4bc_5:
+
+    # jenny "{i}*Mumbles incoherently*{/i}"
+    jenny "{i}*含糊不清地嘟囔*{/i}"
+
+# game/src/plot/jen_baby.rpy:1749
 translate zh_hans jen_baby_food_merge_86c3c746:
 
     # anon f_calm "Cool... cool."
     anon f_calm "好……好。"
 
+# game/src/plot/jen_baby.rpy:1751
 translate zh_hans jen_baby_food_merge_cc694fe5:
 
 
     # anon a_wave f_happy "'Kay, bye!"
     anon a_wave f_happy "好吧，拜！"
 
+# game/src/plot/jen_baby.rpy:1755
+translate zh_hans jen_baby_food_merge_b743b629:
+
+
+    # jenny "Dick."
+    jenny "混蛋。"
+
+# game/src/plot/jen_baby.rpy:1764
+translate zh_hans jen_baby_food_merge_84291f36:
+
+
+    # anon @ -m_talk "( Well, that wasn't so bad... )"
+    anon @ -m_talk "（嗯，其实还不算太糟……）"
+
+# game/src/plot/jen_baby.rpy:1765
+translate zh_hans jen_baby_food_merge_2d0d7171:
+
+    # anon e_b m_teeth @ -m_talk "( ... And [saga.cast.jenny] called me her boyfriend... {i}again!{/i} )"
+    anon e_b m_teeth @ -m_talk "（……而且[saga.cast.jenny]{i}又一次{/i}叫我男朋友了！）"
+
+# game/src/plot/jen_baby.rpy:1766
 translate zh_hans jen_baby_food_merge_7e918292:
 
     # anon e_nw f_pensive -m_teeth @ -m_talk "( So that has to mean something, right?! )"
     anon e_nw f_pensive -m_teeth @ -m_talk "（所以这肯定说明了什么，对吧？！）"
 
+# game/src/plot/jen_baby.rpy:1768
 translate zh_hans jen_baby_food_merge_3cbc77fe:
 
 
     # anon e_w f_happy @ -m_talk "( She can deny it all she wants but there's definitely some feelings there! )"
     anon e_w f_happy @ -m_talk "（她想怎么否认都行，但心里肯定对我有感觉！）"
 
+# game/src/plot/jen_baby.rpy:1769
+translate zh_hans jen_baby_food_merge_97ef8885:
+
+    # anon @ -m_talk "( I'll just have to wait until the day she's ready to admit it to herself. )"
+    anon @ -m_talk "（我只要等她哪天肯对自己承认就好了。）"
+
+# game/src/plot/jen_baby.rpy:1772
 translate zh_hans jen_baby_food_merge_555a1efd:
 
 
     # anon @ -m_talk "( Another day, another successful camshow. )"
     anon @ -m_talk "（又一天，又一场成功的成人直播。）"
 
+# game/src/plot/jen_baby.rpy:1773
+translate zh_hans jen_baby_food_merge_1cb7f720:
+
+    # anon e_s f_pensive @ -m_talk "( I wonder if I should start thinking up a decent porn name for myself? )"
+    anon e_s f_pensive @ -m_talk "（要不要给自己起个像样的色情艺名呢？）"
+
+# game/src/plot/jen_baby.rpy:1774
 translate zh_hans jen_baby_food_merge_522ceafe:
 
     # anon e_se f_disgusted @ -m_talk "( Maybe then I can get [saga.cast.jenny] to stop calling me boy toy... )"
     anon e_se f_disgusted @ -m_talk "（也许到时候我就能让[saga.cast.jenny]别再叫我小男宠了……）"
 
+# game/src/plot/jen_baby.rpy:1784
 translate zh_hans jen_baby_food_rails_368a8d67:
 
 
     # anon @ -m_talk "( [saga.cast.jenny] knows where I sleep. )"
     anon @ -m_talk "（[saga.cast.jenny]知道我睡哪儿。）"
 
+# game/src/plot/jen_baby.rpy:1785
+translate zh_hans jen_baby_food_rails_24702a05:
+
+    # anon f_tired @ -m_talk "( Probably best if I just go to breakfast in the dining room. )"
+    anon f_tired @ -m_talk "（还是去餐厅吃早餐吧。）"
+
+# game/src/plot/jen_baby.rpy:1799
 translate zh_hans jen_baby_coma_jenny_39ea62c4:
 
 
     # anon @ -m_talk "( She looks like she's had enough for one day. )"
     anon @ -m_talk "（她今天显然已经受够了。）"
 
+# game/src/plot/jen_baby.rpy:1800
+translate zh_hans jen_baby_coma_jenny_271f3d5a:
+
+    # anon e_sw -m_teeth @ -m_talk "( I'll leave her to recover in peace. )"
+    anon e_sw -m_teeth @ -m_talk "（让她安安静静地缓一缓。）"
+
+# game/src/plot/jen_baby.rpy:1808
 translate zh_hans jen_baby_read2_8fb08da2:
 
 
     # anon "[saga.cast.jenny] had the baby?!"
     anon "[saga.cast.jenny]生孩子了？！"
 
+# game/src/plot/jen_baby.rpy:1809
+translate zh_hans jen_baby_read2_59d1ba61:
+
+    # anon "Holy crap!"
+    anon "我靠！"
+
+# game/src/plot/jen_baby.rpy:1811
 translate zh_hans jen_baby_read2_aadfae2a:
 
 
     # anon "I'd better head to the clinic and check on them."
     anon "我最好赶紧去诊所看看她们。"
 
+# game/src/plot/jen_baby.rpy:1818
+translate zh_hans jen_baby_read2_rails_898a3093:
+
+
+    # anon @ -m_talk "( It might be important, I should check my messages. )"
+    anon @ -m_talk "（说不定很重要，我得看看消息。）"
+
+# game/src/plot/jen_baby.rpy:1829
+translate zh_hans jen_baby_meet_d4883d99:
+
+
+    # debbie "Hey, sweetie!"
+    debbie "嘿，亲爱的！"
+
+# game/src/plot/jen_baby.rpy:1830
+translate zh_hans jen_baby_meet_0b6d7aa6:
+
+    # anon "[saga.cast.debbie]?"
+    anon "[saga.cast.debbie]？"
+
+# game/src/plot/jen_baby.rpy:1835
 translate zh_hans jen_baby_meet_d0300f16:
 
 
     # anon f_calm "I-is that?"
     anon f_calm "那——那是？"
 
+# game/src/plot/jen_baby.rpy:1839
+translate zh_hans jen_baby_meet_c8168758:
+
+
+    # debbie @ e_s "This is [saga.cast.jenny]'s little boy."
+    debbie @ e_s "这是[saga.cast.jenny]的小男孩。"
+
+# game/src/plot/jen_baby.rpy:1841
+translate zh_hans jen_baby_meet_ae664fb4:
+
+
+    # debbie @ e_s "This is [saga.cast.jenny]'s little girl."
+    debbie @ e_s "这是[saga.cast.jenny]的小女孩。"
+
+# game/src/plot/jen_baby.rpy:1843
+translate zh_hans jen_baby_meet_44531a62:
+
+
+    # debbie @ e_s "This is [saga.cast.jenny]'s twins."
+    debbie @ e_s "这是[saga.cast.jenny]的双胞胎。"
+
+# game/src/plot/jen_baby.rpy:1845
+translate zh_hans jen_baby_meet_bcb16712:
+
+
+    # debbie "You wanna say hi?"
+    debbie "你想打个招呼吗？"
+
+# game/src/plot/jen_baby.rpy:1846
+translate zh_hans jen_baby_meet_c2ab853c:
+
+    # anon @ f_happy "Y-yeah!"
+    anon @ f_happy "是、是的！"
+
+# game/src/plot/jen_baby.rpy:1847
 translate zh_hans jen_baby_meet_9716e4ff:
 
     # debbie f_shy "Just don't be too loud, okay?"
     debbie f_shy "小点声，好吗？"
 
+# game/src/plot/jen_baby.rpy:1848
 translate zh_hans jen_baby_meet_0bafb898:
 
     # debbie f_sad "[saga.cast.jenny] had a long night."
     debbie f_sad "[saga.cast.jenny]昨晚折腾了一整夜。"
 
+# game/src/plot/jen_baby.rpy:1852
 translate zh_hans jen_baby_meet_32068d08:
 
 
     # anon e_w "Everything okay?"
     anon e_w "一切都好吗？"
 
+# game/src/plot/jen_baby.rpy:1853
+translate zh_hans jen_baby_meet_1edd2b7c:
+
+    # debbie @ f_elated "Everything is wonderful!"
+    debbie @ f_elated "一切都很美好！"
+
+# game/src/plot/jen_baby.rpy:1857
 translate zh_hans jen_baby_meet_4207c54a:
 
 
     # debbie e_s "Twenty fingers and twenty toes!"
     debbie e_s "二十根手指和二十根脚趾！"
 
+# game/src/plot/jen_baby.rpy:1859
+translate zh_hans jen_baby_meet_a58c6986:
+
+
+    # debbie e_s "Ten fingers and ten toes!"
+    debbie e_s "十根手指和十根脚趾！"
+
+# game/src/plot/jen_baby.rpy:1862
+translate zh_hans jen_baby_meet_0a520874:
+
+
+    # anon e_w f_happy "[saga.cast.jenny] had a little boy?!"
+    anon e_w f_happy "[saga.cast.jenny]生了个男孩？！"
+
+# game/src/plot/jen_baby.rpy:1864
+translate zh_hans jen_baby_meet_66e8fd7e:
+
+
+    # anon e_w f_happy "[saga.cast.jenny] had a little girl?!"
+    anon e_w f_happy "[saga.cast.jenny]生了个女孩？！"
+
+# game/src/plot/jen_baby.rpy:1866
+translate zh_hans jen_baby_meet_17f533ae:
+
+
+    # anon e_w f_happy "[saga.cast.jenny] had twins?!"
+    anon e_w f_happy "[saga.cast.jenny]生了对双胞胎？！"
+
+# game/src/plot/jen_baby.rpy:1868
+translate zh_hans jen_baby_meet_d25eb7bc:
+
+
+    # debbie e_w "Yup!"
+    debbie e_w "没错！"
+
+# game/src/plot/jen_baby.rpy:1873
+translate zh_hans jen_baby_meet_85bf9f27:
+
+
+    # anon a_side "Wow..."
+    anon a_side "哇……"
+
+# game/src/plot/jen_baby.rpy:1876
+translate zh_hans jen_baby_meet_114e3cfc:
+
+
+    # debbie @ e_s f_horny "Isn't he just wonderful?"
+    debbie @ e_s f_horny "他是不是特别可爱？"
+
+# game/src/plot/jen_baby.rpy:1877
+translate zh_hans jen_baby_meet_a1763e7f:
+
+    # anon "He is."
+    anon "是啊。"
+
+# game/src/plot/jen_baby.rpy:1880
 translate zh_hans jen_baby_meet_333aab35:
 
 
     # debbie @ e_s f_horny "Isn't she just wonderful?"
     debbie @ e_s f_horny "她是不是特别可爱？"
 
+# game/src/plot/jen_baby.rpy:1881
+translate zh_hans jen_baby_meet_6f5e9a6d:
+
+    # anon "She is."
+    anon "是啊。"
+
+# game/src/plot/jen_baby.rpy:1884
 translate zh_hans jen_baby_meet_801b827b:
 
 
     # debbie @ e_s f_horny "Aren't they just wonderful?"
     debbie @ e_s f_horny "他们是不是特别可爱？"
 
+# game/src/plot/jen_baby.rpy:1885
+translate zh_hans jen_baby_meet_8c77b026:
+
+    # anon "They are."
+    anon "是啊。"
+
+# game/src/plot/jen_baby.rpy:1889
 translate zh_hans jen_baby_meet_0ff46c21:
 
 
     # anon "I can't believe [saga.cast.jenny] has kids!"
     anon "我不敢相信[saga.cast.jenny]有孩子了！"
 
+# game/src/plot/jen_baby.rpy:1891
+translate zh_hans jen_baby_meet_f7ccafdf:
+
+
+    # anon "I can't believe [saga.cast.jenny] has more kids!"
+    anon "我简直不敢相信[saga.cast.jenny]又有孩子了！"
+
+# game/src/plot/jen_baby.rpy:1895
+translate zh_hans jen_baby_meet_69c9b4a4:
+
+
+    # anon "I can't believe [saga.cast.jenny] has a kid!"
+    anon "我简直不敢相信[saga.cast.jenny]有孩子了！"
+
+# game/src/plot/jen_baby.rpy:1897
+translate zh_hans jen_baby_meet_b6944cba:
+
+
+    # anon "I can't believe [saga.cast.jenny] has another kid!"
+    anon "我简直不敢相信[saga.cast.jenny]又有了一个孩子！"
+
+# game/src/plot/jen_baby.rpy:1900
+translate zh_hans jen_baby_meet_bb63137f:
+
+
+    # debbie "I know, me neither."
+    debbie "是啊，我也没想到。"
+
+# game/src/plot/jen_baby.rpy:1901
+translate zh_hans jen_baby_meet_c57a1b54:
+
+    # debbie e_s @ e_b f_happy m_laugh "I'm so excited!"
+    debbie e_s @ e_b f_happy m_laugh "我太兴奋了！"
+
+# game/src/plot/jen_baby.rpy:1908
 translate zh_hans jen_baby_meet_81e5fa3a:
 
 
     # debbie "I'm gonna spoil this little guy rotten..."
     debbie "我要把这个小家伙宠上天……"
 
+# game/src/plot/jen_baby.rpy:1910
+translate zh_hans jen_baby_meet_57b4fa94:
+
+
+    # debbie "I'm gonna spoil this little girl rotten..."
+    debbie "我要把这个小姑娘宠上天……"
+
+# game/src/plot/jen_baby.rpy:1912
+translate zh_hans jen_baby_meet_f91915e1:
+
+
+    # debbie "I'm gonna spoil these little ones rotten..."
+    debbie "我要把这两个小宝贝宠上天……"
+
+# game/src/plot/jen_baby.rpy:1914
+translate zh_hans jen_baby_meet_b0fa249f:
+
+
+    # debbie @ f_horny "Aren't I?"
+    debbie @ f_horny "不是吗？"
+
+# game/src/plot/jen_baby.rpy:1916
+translate zh_hans jen_baby_meet_25463665:
+
+
+    # debbie @ e_b f_happy m_laugh "Yes, I am!"
+    debbie @ e_b f_happy m_laugh "是的，我是！"
+
+# game/src/plot/jen_baby.rpy:1920
+translate zh_hans jen_baby_meet_d497a8cb:
+
+
+    # anon e_w f_calm "C-can I hold him?"
+    anon e_w f_calm "我、我能抱抱他吗？"
+
+# game/src/plot/jen_baby.rpy:1922
+translate zh_hans jen_baby_meet_38010abc:
+
+
+    # anon e_w f_calm "C-can I hold her?"
+    anon e_w f_calm "我、我能抱抱她吗？"
+
+# game/src/plot/jen_baby.rpy:1924
+translate zh_hans jen_baby_meet_d771c03f:
+
+
+    # anon e_w f_calm "C-can I hold them?"
+    anon e_w f_calm "我、我能抱抱他们吗？"
+
+# game/src/plot/jen_baby.rpy:1926
+translate zh_hans jen_baby_meet_a3eaaebc:
+
+
+    # debbie e_w "Of course!"
+    debbie e_w "当然！"
+
+# game/src/plot/jen_baby.rpy:1928
+translate zh_hans jen_baby_meet_951083ff:
+
+
+    # debbie a_clasp "Just be careful, okay?"
+    debbie a_clasp "小心点，好吗？"
+
+# game/src/plot/jen_baby.rpy:1929
+translate zh_hans jen_baby_meet_c2808c5b:
+
+    # anon "Y-yeah."
+    anon "是、是的。"
+
+# game/src/plot/jen_baby.rpy:1933
 translate zh_hans jen_baby_meet_bb0719eb:
 
 
     # debbie e_sw "You should have seen [saga.cast.jenny] with him."
     debbie e_sw "你真该看看[saga.cast.jenny]抱着他的样子。"
 
+# game/src/plot/jen_baby.rpy:1934
+translate zh_hans jen_baby_meet_d0665923:
+
+    # debbie "I had to practically pry him out of [saga.cast.jenny]'s arms so she could get some sleep!"
+    debbie "我几乎是用拽的才把他从[saga.cast.jenny]怀里弄出来，好让她能睡会儿觉！"
+
+# game/src/plot/jen_baby.rpy:1937
 translate zh_hans jen_baby_meet_bf507170:
 
 
     # debbie e_sw "You should have seen [saga.cast.jenny] with her."
     debbie e_sw "你真该看看[saga.cast.jenny]抱着她的样子。"
 
+# game/src/plot/jen_baby.rpy:1938
+translate zh_hans jen_baby_meet_42001457:
+
+    # debbie "I had to practically pry her out of [saga.cast.jenny]'s arms so she could get some sleep!"
+    debbie "我几乎是用拽的才把她从[saga.cast.jenny]怀里弄出来，好让她能睡会儿觉！"
+
+# game/src/plot/jen_baby.rpy:1941
 translate zh_hans jen_baby_meet_d489ed8a:
 
 
     # debbie e_sw "You should have seen [saga.cast.jenny] with them."
     debbie e_sw "你真该看看[saga.cast.jenny]抱着他们的样子。"
 
+# game/src/plot/jen_baby.rpy:1942
+translate zh_hans jen_baby_meet_8a75ba12:
+
+    # debbie "I had to practically pry them out of [saga.cast.jenny]'s arms so she could get some sleep!"
+    debbie "我几乎是用拽的才把他们从[saga.cast.jenny]怀里弄出来，好让她能睡会儿觉！"
+
+# game/src/plot/jen_baby.rpy:1944
 translate zh_hans jen_baby_meet_bcfd9aca:
 
 
     # anon e_w f_calm "R-really?"
     anon e_w f_calm "真——真的吗？"
 
+# game/src/plot/jen_baby.rpy:1945
+translate zh_hans jen_baby_meet_0491b97b:
+
+    # debbie @ -m_talk "Mmhmm..."
+    debbie @ -m_talk "嗯哼……"
+
+# game/src/plot/jen_baby.rpy:1948
 translate zh_hans jen_baby_meet_52350419:
 
 
     # debbie e_w "... She just didn't wanna let him go."
     debbie e_w "……她怎么都舍不得放手。"
 
+# game/src/plot/jen_baby.rpy:1950
+translate zh_hans jen_baby_meet_5e0e8805:
+
+
+    # debbie e_w "... She just didn't wanna let her go."
+    debbie e_w "……她怎么都舍不得放手。"
+
+# game/src/plot/jen_baby.rpy:1952
+translate zh_hans jen_baby_meet_fc7ff960:
+
+
+    # debbie e_w "... She just didn't wanna let them go."
+    debbie e_w "……她怎么都舍不得放手。"
+
+# game/src/plot/jen_baby.rpy:1954
+translate zh_hans jen_baby_meet_074b844a:
+
+
+    # anon "I'm surprised..."
+    anon "真没想到……"
+
+# game/src/plot/jen_baby.rpy:1955
+translate zh_hans jen_baby_meet_ba13b9c4:
+
+    # anon "She hasn't been very enthusiastic about this whole thing."
+    anon "她对这整件事一直不太热情。"
+
+# game/src/plot/jen_baby.rpy:1956
 translate zh_hans jen_baby_meet_7282fdcb:
 
     # debbie "Yeah well, you know [saga.cast.jenny]..."
     debbie "是啊，你也知道[saga.cast.jenny]……"
 
+# game/src/plot/jen_baby.rpy:1957
 translate zh_hans jen_baby_meet_447a567b:
 
     # debbie "... She's always been like that."
     debbie "……她一直都是那样。"
 
+# game/src/plot/jen_baby.rpy:1958
 translate zh_hans jen_baby_meet_e3815b98:
 
     # debbie "You'd be surprised how much a person's perspective can change the instant they hold their child in their arms for the first time."
     debbie "第一次把自己的孩子抱进怀里，人的想法会在一瞬间彻底改变，你都想不到。"
 
+# game/src/plot/jen_baby.rpy:1959
 translate zh_hans jen_baby_meet_91b49ecb:
 
     # anon e_s f_shy "Yeah, I think I know what you mean..."
     anon e_s f_shy "嗯，我想我明白你的意思……"
 
+# game/src/plot/jen_baby.rpy:1964
 translate zh_hans jen_baby_meet_9d445d93:
 
 
     # anon "Heh, he's so adorable!"
     anon "嘿嘿，他太可爱了！"
 
+# game/src/plot/jen_baby.rpy:1965
+translate zh_hans jen_baby_meet_31a0d098:
+
+    # debbie "Aww, he really likes you [saga.cast.anon]!"
+    debbie "哎呀，他真的很喜欢你，[saga.cast.anon]！"
+
+# game/src/plot/jen_baby.rpy:1967
 translate zh_hans jen_baby_meet_e62917a1:
 
 
     # anon "Hi there, little guy!"
     anon "嗨，小家伙！"
 
+# game/src/plot/jen_baby.rpy:1970
+translate zh_hans jen_baby_meet_ed032fb4:
+
+
+    # anon "Heh, she's so adorable!"
+    anon "嘿嘿，她太可爱了！"
+
+# game/src/plot/jen_baby.rpy:1971
+translate zh_hans jen_baby_meet_a44da8d9:
+
+    # debbie "Aww, she really likes you [saga.cast.anon]!"
+    debbie "哎呀，她真的很喜欢你，[saga.cast.anon]！"
+
+# game/src/plot/jen_baby.rpy:1973
 translate zh_hans jen_baby_meet_345c5a18:
 
 
     # anon "Hi there, little gal!"
     anon "嗨，小姑娘！"
 
+# game/src/plot/jen_baby.rpy:1976
+translate zh_hans jen_baby_meet_1ddd6e00:
+
+
+    # anon "Heh, they're so adorable!"
+    anon "嘿嘿，他们太可爱了！"
+
+# game/src/plot/jen_baby.rpy:1977
+translate zh_hans jen_baby_meet_efe92cf2:
+
+    # debbie "Aww, they really like you [saga.cast.anon]!"
+    debbie "哎呀，他们真的很喜欢你，[saga.cast.anon]！"
+
+# game/src/plot/jen_baby.rpy:1979
 translate zh_hans jen_baby_meet_10476254:
 
 
     # anon "Hi there, little ones!"
     anon "嗨，小家伙们！"
 
+# game/src/plot/jen_baby.rpy:1981
+translate zh_hans jen_baby_meet_d3a13ce5:
+
+
+    # debbie @ e_b f_happy m_laugh "Hehehe!"
+    debbie @ e_b f_happy m_laugh "嘿嘿嘿！"
+
+# game/src/plot/jen_baby.rpy:1987
+translate zh_hans jen_baby_meet_44c97a90:
+
+
+    # anon e_w @ f_confused "So when can we take him home?"
+    anon e_w @ f_confused "那我们什么时候能带他回家？"
+
+# game/src/plot/jen_baby.rpy:1989
+translate zh_hans jen_baby_meet_302ae9e4:
+
+
+    # anon e_w @ f_confused "So when can we take her home?"
+    anon e_w @ f_confused "那我们什么时候能带她回家？"
+
+# game/src/plot/jen_baby.rpy:1991
+translate zh_hans jen_baby_meet_725509d7:
+
+
+    # anon e_w @ f_confused "So when can we take them home?"
+    anon e_w @ f_confused "那我们什么时候能带他们回家？"
+
+# game/src/plot/jen_baby.rpy:1993
+translate zh_hans jen_baby_meet_0aeacb8f:
+
+
+    # debbie e_w @ f_shy "Not for a few days, I'm afraid."
+    debbie e_w @ f_shy "恐怕还要过几天。"
+
+# game/src/plot/jen_baby.rpy:1994
+translate zh_hans jen_baby_meet_66c04fd7:
+
+    # debbie "You can head on back if you'd like, [saga.cast.anon]."
+    debbie "要是你愿意，可以先回去，[saga.cast.anon]。"
+
+# game/src/plot/jen_baby.rpy:1997
 translate zh_hans jen_baby_meet_26f49040:
 
 
     # debbie "I'll stay with [saga.cast.jenny] and the little ones for a while longer."
     debbie "我会陪[saga.cast.jenny]和小家伙们再待一会儿。"
 
+# game/src/plot/jen_baby.rpy:1999
+translate zh_hans jen_baby_meet_9f001e73:
+
+
+    # debbie "I'll stay with [saga.cast.jenny] and the little one for a while longer."
+    debbie "我再陪[saga.cast.jenny]和小家伙待一会儿。"
+
+# game/src/plot/jen_baby.rpy:2001
+translate zh_hans jen_baby_meet_d924a6da:
+
+
+    # anon f_calm "O-okay."
+    anon f_calm "好、好的。"
+
+# game/src/plot/jen_baby.rpy:2004
+translate zh_hans jen_baby_meet_fb598f59:
+
+
+    # anon @ f_confused "Are you gonna stay here with them for a while?"
+    anon @ f_confused "你要在这里陪她们一会儿吗？"
+
+# game/src/plot/jen_baby.rpy:2005
+translate zh_hans jen_baby_meet_825a74e0:
+
+    # debbie @ e_w "Yeah, just a little while longer."
+    debbie @ e_w "嗯，再待一小会儿。"
+
+# game/src/plot/jen_baby.rpy:2009
 translate zh_hans jen_baby_meet_37082c81:
 
 
     # debbie @ f_horny "I just can't get enough of this cute little guy!"
     debbie @ f_horny "这个可爱的小家伙，我怎么看都看不够！"
 
+# game/src/plot/jen_baby.rpy:2011
+translate zh_hans jen_baby_meet_230363b1:
+
+
+    # debbie @ f_horny "I just can't get enough of this cute little girl!"
+    debbie @ f_horny "这个可爱的小姑娘，我怎么看都看不够！"
+
+# game/src/plot/jen_baby.rpy:2013
+translate zh_hans jen_baby_meet_2f56a05a:
+
+
+    # debbie @ f_horny "I just can't get enough of these cute little ones!"
+    debbie @ f_horny "这两个可爱的小家伙，我怎么看都看不够！"
+
+# game/src/plot/jen_baby.rpy:2015
+translate zh_hans jen_baby_meet_1c853813:
+
+
+    # anon e_w f_calm "Heh, okay."
+    anon e_w f_calm "嘿，好吧。"
+
+# game/src/plot/jen_baby.rpy:2017
+translate zh_hans jen_baby_meet_4e258fef:
+
+
+    # anon a_wave "I'll see you at home later then, [saga.cast.debbie]."
+    anon a_wave "那晚点家里见，[saga.cast.debbie]。"
+
+# game/src/plot/jen_baby.rpy:2028
+translate zh_hans jen_baby_meet_rails_76a72a26:
+
+
+    # anon @ -m_talk "( The recovery ward is on the third floor! Let's go! )"
+    anon @ -m_talk "（恢复病房在三楼！走吧！）"
+
+# game/src/plot/jen_baby.rpy:2031
+translate zh_hans jen_baby_meet_rails_92aef1be:
+
+
+    # anon @ -m_talk "( The ward chart says that [saga.cast.jenny] is in [saga.cast.jenny.where!l]. )"
+    anon @ -m_talk "（病房表上写着[saga.cast.jenny]在[saga.cast.jenny.where!l]。）"
+
+# game/src/plot/jen_baby.rpy:2034
+translate zh_hans jen_baby_meet_rails_be7dd797:
+
+
+    # anon @ -m_talk "( Huh, well what are the odds, she must be in one of the rooms next door. )"
+    anon @ -m_talk "（还真巧，她肯定就在隔壁某间病房。）"
+
+# game/src/plot/jen_baby.rpy:2037
+translate zh_hans jen_baby_meet_rails_466adecf:
+
+
+    # anon @ -m_talk "( The girls are at the clinic with the new baby... )"
+    anon @ -m_talk "（她们都在诊所陪着新生儿……）"
+
+# game/src/plot/jen_baby.rpy:2038
+translate zh_hans jen_baby_meet_rails_7b20e178:
+
+    # anon @ -m_talk "( ... I should get a wriggle on! )"
+    anon @ -m_talk "（……我得赶紧过去！）"
+
+# game/src/plot/jen_baby.rpy:2054
 translate zh_hans jen_baby_lock_block_4575152e:
 
 
     # anon @ -m_talk "( Nah, give them some mother-daughter-daughter time. )"
     anon @ -m_talk "（算了，让她们母女三代单独待会儿吧。）"
 
+# game/src/plot/jen_baby.rpy:2056
+translate zh_hans jen_baby_lock_block_eb4452a8:
+
+
+    # anon @ -m_talk "( Nah, give them some mother-daughter time. )"
+    anon @ -m_talk "（算了，让她们母女俩单独待会儿吧。）"
+
+# game/src/plot/jen_baby.rpy:2058
+translate zh_hans jen_baby_lock_block_08e50309:
+
+
+    # anon @ -m_talk "( I can check back later. )"
+    anon @ -m_talk "（我晚点再来看看。）"
+
+# game/src/plot/jen_baby.rpy:2072
+translate zh_hans jen_baby_rest_clinic_baby_34910589:
+
+
+    # anon "Hey, how are you feeling?"
+    anon "嘿，你感觉怎么样？"
+
+# game/src/plot/jen_baby.rpy:2073
+translate zh_hans jen_baby_rest_clinic_baby_92f000a3:
+
+    # jenny "Aww, [saga.cast.anon]..."
+    jenny "啊，[saga.cast.anon]……"
+
+# game/src/plot/jen_baby.rpy:2076
 translate zh_hans jen_baby_rest_clinic_baby_92ec58af:
 
 
     # jenny "Isn't he beautiful?"
     jenny "他是不是很漂亮？"
 
+# game/src/plot/jen_baby.rpy:2077
+translate zh_hans jen_baby_rest_clinic_baby_7ade0fa0:
+
+    # jenny "I can't stop staring at him..."
+    jenny "我怎么看他都看不够……"
+
+# game/src/plot/jen_baby.rpy:2080
 translate zh_hans jen_baby_rest_clinic_baby_a027d98b:
 
 
     # jenny "Isn't she beautiful?"
     jenny "她是不是很美？"
 
+# game/src/plot/jen_baby.rpy:2081
+translate zh_hans jen_baby_rest_clinic_baby_fa320b44:
+
+    # jenny "I can't stop staring at her..."
+    jenny "我怎么看她都看不够……"
+
+# game/src/plot/jen_baby.rpy:2084
 translate zh_hans jen_baby_rest_clinic_baby_5e996d82:
 
 
     # jenny "Aren't they beautiful?"
     jenny "他们是不是很美？"
 
+# game/src/plot/jen_baby.rpy:2085
+translate zh_hans jen_baby_rest_clinic_baby_89e5e4c9:
+
+    # jenny "I can't stop staring at them..."
+    jenny "我怎么看他们都看不够……"
+
+# game/src/plot/jen_baby.rpy:2087
 translate zh_hans jen_baby_rest_clinic_baby_ad0cb219:
 
 
     # anon "Hehe, it's so weird hearing you talk like this..."
     anon "呵呵，听你这么说话还真奇怪……"
 
+# game/src/plot/jen_baby.rpy:2088
+translate zh_hans jen_baby_rest_clinic_baby_efa0511d:
+
+    # jenny e_w f_annoyed "Oh, shut up!"
+    jenny e_w f_annoyed "闭嘴啦！"
+
+# game/src/plot/jen_baby.rpy:2089
 translate zh_hans jen_baby_rest_clinic_baby_167f1675:
 
     # anon @ f_happy "There's the [saga.cast.jenny] I know and love."
     anon @ f_happy "这才是我认识和喜爱的[saga.cast.jenny]。"
 
+# game/src/plot/jen_baby.rpy:2090
 translate zh_hans jen_baby_rest_clinic_baby_ca15f2f4:
 
     # jenny e_r "... Dick."
     jenny e_r "……混蛋。"
 
+# game/src/plot/jen_baby.rpy:2092
 translate zh_hans jen_baby_rest_clinic_baby_c9fba363:
 
 
     # anon "I just wanted to check on you."
     anon "我只是想看看你。"
 
+# game/src/plot/jen_baby.rpy:2093
+translate zh_hans jen_baby_rest_clinic_baby_8df7613d:
+
+    # jenny "Well, we're fine."
+    jenny "我们都挺好。"
+
+# game/src/plot/jen_baby.rpy:2094
 translate zh_hans jen_baby_rest_clinic_baby_96e804e7:
 
     # jenny @ e_r f_annoyed "I mean, I'm exhausted and the food here fucking sucks but..."
     jenny @ e_r f_annoyed "我的意思是，我累坏了，而且这里的食物真他妈的难吃，不过……"
 
+# game/src/plot/jen_baby.rpy:2095
 translate zh_hans jen_baby_rest_clinic_baby_c9d1ce1c:
 
     # jenny "... Otherwise, we're fine."
     jenny "……除此之外，我们很好。"
 
+# game/src/plot/jen_baby.rpy:2096
 translate zh_hans jen_baby_rest_clinic_baby_29fd6c9c:
 
     # anon "Heh, you'll be coming home soon."
     anon "嘿，你很快就能回家了。"
 
+# game/src/plot/jen_baby.rpy:2099
 translate zh_hans jen_baby_rest_clinic_baby_d8c8865e:
 
 
     # anon "You want me to take him for a while so you can sleep?"
     anon "要不要我替你照顾他一会儿，你好睡一觉？"
 
+# game/src/plot/jen_baby.rpy:2101
+translate zh_hans jen_baby_rest_clinic_baby_670c497a:
+
+
+    # anon "You want me to take her for a while so you can sleep?"
+    anon "要不要我替你照顾她一会儿，你好睡一觉？"
+
+# game/src/plot/jen_baby.rpy:2103
+translate zh_hans jen_baby_rest_clinic_baby_708d1216:
+
+
+    # anon "You want me to take them for a while so you can sleep?"
+    anon "要不要我替你照顾他们一会儿，你好睡一觉？"
+
+# game/src/plot/jen_baby.rpy:2105
+translate zh_hans jen_baby_rest_clinic_baby_96ec5bb9:
+
+
+    # jenny @ e_w -m_talk "Hmm?"
+    jenny @ e_w -m_talk "嗯？"
+
+# game/src/plot/jen_baby.rpy:2108
+translate zh_hans jen_baby_rest_clinic_baby_37252eb1:
+
+
+    # jenny "No, I've got him!"
+    jenny "不用，我抱着呢！"
+
+# game/src/plot/jen_baby.rpy:2110
+translate zh_hans jen_baby_rest_clinic_baby_06251912:
+
+
+    # jenny "No, I've got her!"
+    jenny "不用，我抱着呢！"
+
+# game/src/plot/jen_baby.rpy:2112
+translate zh_hans jen_baby_rest_clinic_baby_ce4514a0:
+
+
+    # jenny "No, I've got them!"
+    jenny "不用，我抱着呢！"
+
+# game/src/plot/jen_baby.rpy:2114
+translate zh_hans jen_baby_rest_clinic_baby_58aacc96:
+
+
+    # anon "You sure?"
+    anon "你确定？"
+
+# game/src/plot/jen_baby.rpy:2118
+translate zh_hans jen_baby_rest_clinic_baby_92905884:
+
+
+    # jenny "I said, I've got him, [saga.cast.anon]!"
+    jenny "我说了，我抱着呢，[saga.cast.anon]！"
+
+# game/src/plot/jen_baby.rpy:2120
+translate zh_hans jen_baby_rest_clinic_baby_94d3e6a6:
+
+
+    # jenny "I said, I've got her, [saga.cast.anon]!"
+    jenny "我说了，我抱着呢，[saga.cast.anon]！"
+
+# game/src/plot/jen_baby.rpy:2122
+translate zh_hans jen_baby_rest_clinic_baby_bec2fb25:
+
+
+    # jenny "I said, I've got them, [saga.cast.anon]!"
+    jenny "我说了，我抱着呢，[saga.cast.anon]！"
+
+# game/src/plot/jen_baby.rpy:2125
+translate zh_hans jen_baby_rest_clinic_baby_b84cc617:
+
+
+    # anon f_worried "O-okay."
+    anon f_worried "好、好吧。"
+
+# game/src/plot/jen_baby.rpy:2132
+translate zh_hans jen_baby_rest_micoe_9c19fb40:
+
+
+    # anon f_curious "Any problems?"
+    anon f_curious "有什么问题吗？"
+
+# game/src/plot/jen_baby.rpy:2133
+translate zh_hans jen_baby_rest_micoe_609990e4:
+
+    # micoe f_calm "So far, so good."
+    micoe f_calm "目前一切顺利。"
+
+# game/src/plot/jen_baby.rpy:2135
 translate zh_hans jen_baby_rest_micoe_ffc59846:
 
 
     # micoe f_annoyed "Though I could do with a little less attitude from momma bear."
     micoe f_annoyed "不过这位护崽母熊要是能少点脾气就好了。"
 
+# game/src/plot/jen_baby.rpy:2136
+translate zh_hans jen_baby_rest_micoe_ebfffde7:
+
+    # anon "Momma bear?"
+    anon "护崽母熊？"
+
+# game/src/plot/jen_baby.rpy:2137
 translate zh_hans jen_baby_rest_micoe_560a148c:
 
     # anon f_surprised "Wait, are you talking about [saga.cast.jenny]?"
     anon f_surprised "等等，你在说[saga.cast.jenny]吗？"
 
+# game/src/plot/jen_baby.rpy:2138
 translate zh_hans jen_baby_rest_micoe_79ae065d:
 
     # micoe "She keeps fighting me everytime I try to check on the baby."
     micoe "每次我检查孩子，她都跟我对着干。"
 
+# game/src/plot/jen_baby.rpy:2139
 translate zh_hans jen_baby_rest_micoe_71551243:
 
     # anon f_happy @ e_b m_laugh "Hahaha!"
     anon f_happy @ e_b m_laugh "哈哈哈！"
 
+# game/src/plot/jen_baby.rpy:2140
 translate zh_hans jen_baby_rest_micoe_5502af91:
 
     # anon "Really?"
     anon "真的吗？"
 
+# game/src/plot/jen_baby.rpy:2142
 translate zh_hans jen_baby_rest_micoe_5d56d575:
 
 
     # micoe "Yes!"
     micoe "是的！"
 
+# game/src/plot/jen_baby.rpy:2144
+translate zh_hans jen_baby_rest_micoe_27fd2966:
+
+
+    # micoe "I know she's full of feelings right now but I still have to do my job."
+    micoe "我知道她现在情绪很激动，但我的工作还是得做。"
+
+# game/src/plot/jen_baby.rpy:2145
+translate zh_hans jen_baby_rest_micoe_9902015a:
+
+    # anon a_calm_down f_shy "Yeah, no... I understand."
+    anon a_calm_down f_shy "嗯，我明白。"
+
+# game/src/plot/jen_baby.rpy:2146
 translate zh_hans jen_baby_rest_micoe_71fe50d9:
 
     # micoe "Urgh, it's so frustating!"
     micoe "啊，烦死了！"
 
+# game/src/plot/jen_baby.rpy:2147
 translate zh_hans jen_baby_rest_micoe_1247f70f:
 
     # anon a_side @ -m_talk "..."
     anon a_side @ -m_talk "……"
 
+# game/src/plot/jen_baby.rpy:2155
 translate zh_hans jen_baby_rest_sleep_f6dfa8cf:
 
 
     # anon @ -m_talk "( Sleeping [saga.cast.jenny] is easily the most peaceful [saga.cast.jenny]. )"
     anon @ -m_talk "（睡着的[saga.cast.jenny]绝对是最安静的[saga.cast.jenny]。）"
 
+# game/src/plot/jen_baby.rpy:2159
+translate zh_hans jen_baby_rest_sleep_0cccb165:
+
+
+    # anon @ -m_talk "( Like mother, like son, I guess. )"
+    anon @ -m_talk "（儿子果然随妈啊。）"
+
+# game/src/plot/jen_baby.rpy:2161
+translate zh_hans jen_baby_rest_sleep_fb594237:
+
+
+    # anon @ -m_talk "( Like mother, like daughter, I guess. )"
+    anon @ -m_talk "（女儿果然随妈啊。）"
+
+# game/src/plot/jen_baby.rpy:2163
+translate zh_hans jen_baby_rest_sleep_a56a9166:
+
+
+    # anon @ -m_talk "( Like mother, like twins, I guess. )"
+    anon @ -m_talk "（这对双胞胎果然随妈啊。）"
+
+# game/src/plot/jen_baby.rpy:2175
+translate zh_hans jen_baby_home_c94ac68f:
+
+
+    # anon "Hey, you're home!"
+    anon "嘿，你回来了！"
+
+# game/src/plot/jen_baby.rpy:2176
+translate zh_hans jen_baby_home_8dbdbb43:
+
+    # jenny e_r f_annoyed "Yeah, finally..."
+    jenny e_r f_annoyed "嗯，终于……"
+
+# game/src/plot/jen_baby.rpy:2178
 translate zh_hans jen_baby_home_803dd7cc:
 
 
     # jenny e_w "I hate hospitals, so much!"
     jenny e_w "我真是讨厌死医院了！"
 
+# game/src/plot/jen_baby.rpy:2179
+translate zh_hans jen_baby_home_75a9ecd3:
+
+    # debbie "I'm making you a big welcome home steak for dinner, dear."
+    debbie "亲爱的，今晚给你做块大牛排，庆祝你回家。"
+
+# game/src/plot/jen_baby.rpy:2180
 translate zh_hans jen_baby_home_e6cfb850:
 
     # jenny f_happy "Oh, that sounds amazing!"
     jenny f_happy "哦，听起来太棒了！"
 
+# game/src/plot/jen_baby.rpy:2184
 translate zh_hans jen_baby_home_20c1e3b5:
 
 
     # jenny "Would you mind watching him for a little bit?"
     jenny "你能帮我照看他一会儿吗？"
 
+# game/src/plot/jen_baby.rpy:2186
+translate zh_hans jen_baby_home_4a2fe382:
+
+
+    # jenny "Would you mind watching her for a little bit?"
+    jenny "你能帮我照看她一会儿吗？"
+
+# game/src/plot/jen_baby.rpy:2188
+translate zh_hans jen_baby_home_32d14361:
+
+
+    # jenny "Would you mind watching them for a little bit?"
+    jenny "你能帮我照看他们一会儿吗？"
+
+# game/src/plot/jen_baby.rpy:2190
+translate zh_hans jen_baby_home_1bb7075d:
+
+
+    # jenny "I would literally kill for a bath right now."
+    jenny "我现在为了泡个澡，杀人都愿意。"
+
+# game/src/plot/jen_baby.rpy:2193
+translate zh_hans jen_baby_home_c9122af2:
+
+
+    # debbie "Of course, I'll watch him!"
+    debbie "当然，我来照看他！"
+
+# game/src/plot/jen_baby.rpy:2194
+translate zh_hans jen_baby_home_9b25e047:
+
+    # debbie e_sw "Come see your grandma, little guy!"
+    debbie e_sw "来外婆这里，小家伙！"
+
+# game/src/plot/jen_baby.rpy:2197
 translate zh_hans jen_baby_home_023cb43a:
 
 
     # debbie "Of course, I'll watch her!"
     debbie "当然，我来照看她！"
 
+# game/src/plot/jen_baby.rpy:2198
+translate zh_hans jen_baby_home_e3ceb358:
+
+    # debbie e_sw "Come see your grandma, little girl!"
+    debbie e_sw "来外婆这里，小姑娘！"
+
+# game/src/plot/jen_baby.rpy:2201
 translate zh_hans jen_baby_home_766a5f4f:
 
 
     # debbie "Of course, I'll watch them!"
     debbie "当然，我来照看他们！"
 
+# game/src/plot/jen_baby.rpy:2202
+translate zh_hans jen_baby_home_ef36b991:
+
+    # debbie e_sw "Come see grandma, little ones!"
+    debbie e_sw "来外婆这里，小家伙们！"
+
+# game/src/plot/jen_baby.rpy:2208
 translate zh_hans jen_baby_home_17ffcf24:
 
 
     # debbie a_baby e_s q_baby_jenny "Aww, they're so cute!"
     debbie a_baby e_s q_baby_jenny "哇，他们好可爱！"
 
+# game/src/plot/jen_baby.rpy:2210
+translate zh_hans jen_baby_home_36382813:
+
+
+    # debbie a_baby e_s q_baby_jenny "Aww, such a cutie pie!"
+    debbie a_baby e_s q_baby_jenny "哎呀，真是个小可爱！"
+
+# game/src/plot/jen_baby.rpy:2212
+translate zh_hans jen_baby_home_3f29e863:
+
+
+    # jenny "Thanks, Mom."
+    jenny "谢谢，妈妈。"
+
+# game/src/plot/jen_baby.rpy:2213
+translate zh_hans jen_baby_home_68d13969:
+
+    # anon a_wave e_w f_calm "Welcome home, [saga.cast.jenny]!"
+    anon a_wave e_w f_calm "欢迎回家，[saga.cast.jenny]！"
+
+# game/src/plot/jen_baby.rpy:2214
 translate zh_hans jen_baby_home_71414a02:
 
     # jenny "Yeah, thanks, [saga.cast.anon]."
     jenny "嗯，谢谢你，[saga.cast.anon]。"
 
+# game/src/plot/jen_baby.rpy:2217
 translate zh_hans jen_baby_home_89caf0c4:
 
 
     # jenny "Now out of my way, I have a date with a nice hot shower!"
     jenny "现在别挡路，我还约了个舒服的热水澡呢！"
 
+# game/src/plot/jen_baby.rpy:2220
+translate zh_hans jen_baby_home_e019c833:
+
+
+    # jenny "And don't bother me!"
+    jenny "还有，别来烦我！"
+
+# game/src/plot/jen_baby.rpy:2223
+translate zh_hans jen_baby_home_e8998f52:
+
+
+    # anon a_side e_nw f_confused "I wasn't going to..."
+    anon a_side e_nw f_confused "我本来就没打算……"
+
+# game/src/plot/jen_baby.rpy:2224
+translate zh_hans jen_baby_home_23277e88:
+
+    # jenny "Uh huh."
+    jenny "嗯嗯。"
+
+# game/src/plot/jen_baby.rpy:2226
 translate zh_hans jen_baby_home_5cf61f33:
 
 
     # anon e_w f_shy o_right "The tyrant returns, huh?"
     anon e_w f_shy o_right "暴君回归了，是吧？"
 
+# game/src/plot/jen_baby.rpy:2228
+translate zh_hans jen_baby_home_32eee371:
+
+
+    # debbie e_w f_curious o_left @ -m_talk "Hmm?"
+    debbie e_w f_curious o_left @ -m_talk "嗯？"
+
+# game/src/plot/jen_baby.rpy:2229
+translate zh_hans jen_baby_home_0e34de9b:
+
+    # anon e_w f_tired -m_teeth "Never mind."
+    anon e_w f_tired -m_teeth "算了。"
+
+# game/src/plot/jen_baby.rpy:2240
 translate zh_hans jen_baby_post_care_7ab1afc1:
 
 
     # anon f_confused "Looking forward to daycare?"
     anon f_confused "期待去托儿所吗？"
 
+# game/src/plot/jen_baby.rpy:2242
+translate zh_hans jen_baby_post_care_068b28b6:
+
+
+    # jenny e_w f_annoyed "Fuck no!"
+    jenny e_w f_annoyed "想都别想！"
+
+# game/src/plot/jen_baby.rpy:2243
+translate zh_hans jen_baby_post_care_a7df8476:
+
+    # jenny f_sad "I hate thinking about leaving them with a stranger."
+    jenny f_sad "一想到要把孩子交给陌生人，我就受不了。"
+
+# game/src/plot/jen_baby.rpy:2245
 translate zh_hans jen_baby_post_care_6c0e629c:
 
 
     # anon f_worried "It won't be a stranger, [saga.cast.jenny]..."
     anon f_worried "不会是陌生人的，[saga.cast.jenny]……"
 
+# game/src/plot/jen_baby.rpy:2246
+translate zh_hans jen_baby_post_care_5781aee6:
+
+    # anon f_calm "[saga.cast.debbie] and [saga.cast.diane] know the lady running the place."
+    anon f_calm "[saga.cast.debbie]和[saga.cast.diane]都认识托儿所的负责人。"
+
+# game/src/plot/jen_baby.rpy:2248
 translate zh_hans jen_baby_post_care_a1adcceb:
 
 
     # anon "I've heard she's really nice!"
     anon "我听说她人很好！"
 
+# game/src/plot/jen_baby.rpy:2249
+translate zh_hans jen_baby_post_care_9da19bba:
+
+    # jenny "I don't care if she's Mary fucking Poppins, I don't like leaving my kid with her!"
+    jenny "哪怕她是他妈的Mary Poppins，我也不想把孩子交给她！"
+
+# game/src/plot/jen_baby.rpy:2250
 translate zh_hans jen_baby_post_care_c0081cd3:
 
     # anon @ f_happy "Heh, I never took you for the momma bear type..."
     anon @ f_happy "呵，真没想到你会变成护崽母熊……"
 
+# game/src/plot/jen_baby.rpy:2251
 translate zh_hans jen_baby_post_care_92200270:
 
     # jenny "Yeah, well... I am."
     jenny "是啊，嗯……我就是。"
 
+# game/src/plot/jen_baby.rpy:2252
 translate zh_hans jen_baby_post_care_8a3f16e4:
 
     # jenny e_s f_happy "Aren't I?"
     jenny e_s f_happy "难道不是吗？"
 
+# game/src/plot/jen_baby.rpy:2253
 translate zh_hans jen_baby_post_care_560c6d98:
 
     # anon f_happy @ e_b m_laugh "Haha!"
     anon f_happy @ e_b m_laugh "哈哈！"
 
+# game/src/plot/jen_baby.rpy:2265
 translate zh_hans jen_baby_post_intro_ac760dd0:
 
 
     # jenny "You are just so beautiful, aren't you little one?!"
     jenny "你怎么这么漂亮呀，小家伙？！"
 
+# game/src/plot/jen_baby.rpy:2266
+translate zh_hans jen_baby_post_intro_cad08f68:
+
+    # jenny "You definitely got your looks from your mommy."
+    jenny "这漂亮模样肯定是随妈妈的。"
+
+# game/src/plot/jen_baby.rpy:2267
 translate zh_hans jen_baby_post_intro_f448b26c:
 
     # jenny "Which is lucky because your daddy is basically a bridge troll."
     jenny "幸好你长得不像你爸，他简直就是个桥下巨魔。"
 
+# game/src/plot/jen_baby.rpy:2268
 translate zh_hans jen_baby_post_intro_66c5a6e0:
 
     # anon f_worried "Hey!"
     anon f_worried "嘿！"
 
+# game/src/plot/jen_baby.rpy:2269
 translate zh_hans jen_baby_post_intro_725d0c63:
 
     # jenny @ e_b f_calm m_laugh "Hahahaah!"
     jenny @ e_b f_calm m_laugh "哈哈哈啊哈！"
 
+# game/src/plot/jen_baby.rpy:2291
 translate zh_hans jen_baby_post_outro_d844a61f:
 
 
     # anon f_calm "I'll leave you be."
     anon f_calm "我不打扰你们了。"
 
+# game/src/plot/jen_baby.rpy:2292
+translate zh_hans jen_baby_post_outro_1cb1f371:
+
+    # jenny e_s f_happy "Say bye to Daddy..."
+    jenny e_s f_happy "跟爸爸说再见……"
+
+# game/src/plot/jen_baby.rpy:2293
 translate zh_hans jen_baby_post_outro_db7f56da:
 
     # jenny @ e_w "Bye-bye, Daddy!"
     jenny @ e_w "拜拜，爸爸！"
 
+# game/src/plot/jen_baby.rpy:2294
 translate zh_hans jen_baby_post_outro_cecb6f6f:
 
     # anon a_wave f_happy "Heh, bye-bye!"
     anon a_wave f_happy "嘿，拜拜！"
 
+# game/src/plot/jen_baby.rpy:2305
 translate zh_hans jen_baby_post_want_1f986311:
 
 
     # anon f_confused "You guys need anything?"
     anon f_confused "你们需要什么吗？"
 
+# game/src/plot/jen_baby.rpy:2306
+translate zh_hans jen_baby_post_want_ac21970c:
+
+    # jenny "No, we're good."
+    jenny "不用，我们挺好的。"
+
+# game/src/plot/jen_baby.rpy:2307
 translate zh_hans jen_baby_post_want_5a2bbc20:
 
     # jenny e_s f_happy "Aren't we?"
     jenny e_s f_happy "对不对呀？"
 
+# game/src/plot/jen_baby.rpy:2309
 translate zh_hans jen_baby_post_want_321fe596:
 
 
     # jenny "Yes, we are!"
     jenny "对，我们好得很！"
+
+# game/src/plot/jen_baby.rpy:2310
+translate zh_hans jen_baby_post_want_ba7df167:
+
+    # jenny "We're wonderful!"
+    jenny "我们好着呢！"
 
 translate zh_hans strings:
 

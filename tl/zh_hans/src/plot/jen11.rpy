@@ -36,85 +36,98 @@ translate zh_hans jen11_diary_bath_231b2ab5:
     anon "（正好趁现在看看她最近在日记里写了什么。）"
 
 # game/src/plot/jen11.rpy:31
-translate zh_hans jen11_react_af9bfecc:
+translate zh_hans jen11_react_83248e81:
 
-
-    # anon "( Whoa!! )"
-    anon "（哇！！）"
+    # anon @ -m_talk "( Whoa!! )"
+    anon @ -m_talk "（哇！！）"
 
 # game/src/plot/jen11.rpy:32
-translate zh_hans jen11_react_e5112fac:
+translate zh_hans jen11_react_b78b18a2:
 
-
-    # anon "( [saga.cast.jenny] is masturbating for men over the internet?! )"
-    anon "（[saga.cast.jenny]竟然在网上对着男人自慰？！）"
+    # anon @ -m_talk "( [saga.cast.jenny] is masturbating for men over the internet?! )"
+    anon @ -m_talk "（[saga.cast.jenny]竟然在网上对着男人自慰？！）"
 
 # game/src/plot/jen11.rpy:33
-translate zh_hans jen11_react_b8c25fef:
+translate zh_hans jen11_react_d427abd6:
 
-
-    # anon "( She's completely lost her mind! )"
-    anon "（她彻底疯了吧！）"
+    # anon @ -m_talk "( She's completely lost her mind! )"
+    anon @ -m_talk "（她彻底疯了！）"
 
 # game/src/plot/jen11.rpy:34
-translate zh_hans jen11_react_802df7a4:
+translate zh_hans jen11_react_dc47ff8b:
 
+    # anon @ -m_talk "( [saga.cast.debbie] would totally freak if she found out about this... )"
+    anon @ -m_talk "（要是[saga.cast.debbie]发现这事，肯定会气疯的……）"
 
-    # anon "( [saga.cast.debbie] would totally freak if she found out about this... )"
-    anon "（要是[saga.cast.debbie]发现这事，肯定会气疯的……）"
+# game/src/plot/jen11.rpy:37
+translate zh_hans jen11_react_4e8bb6de:
 
-# game/src/plot/jen11.rpy:38
-translate zh_hans jen11_react_b2334b0a:
+    # anon a_think e_nw f_pensive -m_teeth @ -m_talk "( I wonder if I can sneak a peek at this somehow? )"
+    anon a_think e_nw f_pensive -m_teeth @ -m_talk "（不知道有没有办法偷看她直播？）"
 
+# game/src/plot/jen11.rpy:39
+translate zh_hans jen11_react_f7f82ff8:
 
-    # anon "I wonder if I can sneak a peek at this somehow?"
-    anon "不知道有没有办法偷看她直播？"
+    # anon @ -m_talk "( Maybe I can find some stuff on her laptop? )"
+    anon @ -m_talk "（也许能从她的笔记本电脑里找到线索？）"
 
-# game/src/plot/jen11.rpy:42
-translate zh_hans jen11_react_df2ee9c3:
-
-
-    # anon "... Maybe I can find some stuff on her laptop?"
-    anon "……也许能从她的笔记本电脑里找到线索？"
-
-# game/src/plot/jen11.rpy:50
+# game/src/plot/jen11.rpy:47
 translate zh_hans jen11_laptop_cc3c7e22:
 
     # anon "( I need her password! )"
     anon "（我需要她的密码！）"
 
-# game/src/plot/jen11.rpy:53
+# game/src/plot/jen11.rpy:49
+translate zh_hans jen11_laptop_c65e2873:
+
+
+    # anon "( \"My favorite toy...\" )"
+    anon "（“我最喜欢的玩具……”）"
+
+# game/src/plot/jen11.rpy:50
 translate zh_hans jen11_laptop_b4c0a831:
 
     # anon "( Didn't she mention something about a toy in her diary? )"
     anon "（她不是在日记里提到过一个玩具吗？）"
 
-# game/src/plot/jen11.rpy:58
+# game/src/plot/jen11.rpy:53
+translate zh_hans jen11_laptop_1cb4b946:
+
+
+    # jenny "[saga.cast.debbie], have you seen my hair straightener?!"
+    jenny "[saga.cast.debbie]，你看到我的直发器了吗？！"
+
+# game/src/plot/jen11.rpy:55
 translate zh_hans jen11_laptop_f60a6dcf:
 
 
     # jenny "Damnit, where the hell is my hair straightener?!"
     jenny "该死，我的直发器到底在哪儿？！"
 
+# game/src/plot/jen11.rpy:60
+translate zh_hans jen11_laptop_7434e789:
+
+    # anon @ -m_talk "( Oh crap, it sounds like [saga.cast.jenny] is done with her shower! )"
+    anon @ -m_talk "（糟了，听起来[saga.cast.jenny]已经洗完了！）"
+
 # game/src/plot/jen11.rpy:63
-translate zh_hans jen11_laptop_fa563e3b:
-
-
-    # anon "No, sweetie."
-    anon "不，亲爱的。"
-
-# game/src/plot/jen11.rpy:66
 translate zh_hans jen11_laptop_03eac483:
 
     # debbie "No, sweetie."
     debbie "不，亲爱的。"
 
-# game/src/plot/jen11.rpy:69
-translate zh_hans jen11_laptop_cf6f8843:
+# game/src/plot/jen11.rpy:64
+translate zh_hans jen11_laptop_ac770649:
 
 
-    # anon "( I'd better get out of here! )"
-    anon "（我得赶紧离开这里！）"
+    # jenny "Well, I can't find it!"
+    jenny "可我怎么都找不到！"
+
+# game/src/plot/jen11.rpy:66
+translate zh_hans jen11_laptop_72b75d9e:
+
+    # anon @ -m_talk "( I'd better get out of here! )"
+    anon @ -m_talk "（我得赶紧离开这里！）"
 
 # game/src/plot/jen11.rpy:81
 translate zh_hans jen11_laptop_71af1376:
@@ -123,165 +136,64 @@ translate zh_hans jen11_laptop_71af1376:
     # jenny "Did you just come out of my room?!"
     jenny "你刚从我房间里出来？！"
 
+# game/src/plot/jen11.rpy:82
+translate zh_hans jen11_laptop_75d2cd94:
+
+    # anon f_confused o_right -m_teeth "Huh?"
+    anon f_confused o_right -m_teeth "嗯？"
+
 # game/src/plot/jen11.rpy:83
-translate zh_hans jen11_laptop_f79c204b:
-
-
-    # anon "No..."
-    anon "不……"
-
-# game/src/plot/jen11.rpy:84
 translate zh_hans jen11_laptop_cd1bf5a7:
 
 
     # anon "No..."
     anon "不……"
 
-# game/src/plot/jen11.rpy:89
-translate zh_hans jen11_laptop_5d8f6b85:
+# game/src/plot/jen11.rpy:87
+translate zh_hans jen11_laptop_17762b27:
 
+    # anon a_cower p_bow "Please don't hit me with the hair dryer again!"
+    anon a_cower p_bow "请别再用电吹风打我了！"
 
-    # anon "Please don't hit me with the hair dryer again!"
-    anon "拜托别再拿吹风机打我了！"
-
-# game/src/plot/jen11.rpy:90
+# game/src/plot/jen11.rpy:88
 translate zh_hans jen11_laptop_9f5eab51:
 
 
     # jenny e_r f_annoyed -m_teeth "Ugh, just get out of my way, loser!"
     jenny e_r f_annoyed -m_teeth "呃，赶紧让开，废柴！"
 
-# game/src/plot/jen11.rpy:95
-translate zh_hans jen11_laptop_471d8a49:
-
-
-    # anon "( I should only attempt this when I know I'll have plenty of time to snoop around. )"
-    anon "（呼，好险！）"
-
-# game/src/plot/jen11.rpy:98
-translate zh_hans jen11_laptop_461096e4:
-
-
-    # anon "( Who knows how long it will take me to find naughty stuff on her laptop... )"
-    anon "（天知道要多久才能在她电脑里翻出那些色情内容……）"
-
-# game/src/plot/jen11.rpy:99
-translate zh_hans jen11_laptop_bf6c4906:
-
-
-    # anon "( I'll have to be careful but I think it's worth a shot. )"
-    anon "（我得小心一点，不过值得试试。）"
-
-# game/src/plot/jen11.rpy:102
-translate zh_hans jen11_laptop_0958f9bc:
-
-
-    # anon "( Maybe at night, when she's sleeping? )"
-    anon "（也许可以等到晚上，她睡着以后？）"
-
-# game/src/plot/jen11.rpy:105
-translate zh_hans jen11_laptop_b268f25e:
-
-
-    # anon "( I'll have to be careful but I think it's worth a shot. )"
-    anon "（我得小心一点，不过值得试试。）"
-
-# game/src/plot/jen11.rpy:114
-translate zh_hans jen11_laptop_rails_a092ad31:
-
-
-    # anon @ -m_talk "( Maybe I should check her laptop hefore I leave. )"
-    anon @ -m_talk "（离开前或许该检查一下她的笔记本电脑。）"
-
-translate zh_hans jen11_laptop_c65e2873:
-
-
-    # anon "( \"My favorite toy...\" )"
-    anon "（“我最喜欢的玩具……”）"
-
-translate zh_hans jen11_laptop_1cb4b946:
-
-
-    # jenny "[saga.cast.debbie], have you seen my hair straightener?!"
-    jenny "[saga.cast.debbie]，你看到我的直发器了吗？！"
-
-translate zh_hans jen11_laptop_ac770649:
-
-
-    # jenny "Well, I can't find it!"
-    jenny "可我怎么都找不到！"
-
-translate zh_hans jen11_react_83248e81:
-
-    # anon @ -m_talk "( Whoa!! )"
-    anon @ -m_talk "（哇！！）"
-
-translate zh_hans jen11_react_b78b18a2:
-
-    # anon @ -m_talk "( [saga.cast.jenny] is masturbating for men over the internet?! )"
-    anon @ -m_talk "（[saga.cast.jenny]竟然在网上对着男人自慰？！）"
-
-translate zh_hans jen11_react_d427abd6:
-
-    # anon @ -m_talk "( She's completely lost her mind! )"
-    anon @ -m_talk "（她彻底疯了！）"
-
-translate zh_hans jen11_react_dc47ff8b:
-
-    # anon @ -m_talk "( [saga.cast.debbie] would totally freak if she found out about this... )"
-    anon @ -m_talk "（要是[saga.cast.debbie]发现这事，肯定会气疯的……）"
-
-translate zh_hans jen11_react_4e8bb6de:
-
-    # anon a_think e_nw f_pensive -m_teeth @ -m_talk "( I wonder if I can sneak a peek at this somehow? )"
-    anon a_think e_nw f_pensive -m_teeth @ -m_talk "（不知道有没有办法偷看她直播？）"
-
-translate zh_hans jen11_react_f7f82ff8:
-
-    # anon @ -m_talk "( Maybe I can find some stuff on her laptop? )"
-    anon @ -m_talk "（也许能从她的笔记本电脑里找到线索？）"
-
-translate zh_hans jen11_laptop_7434e789:
-
-    # anon @ -m_talk "( Oh crap, it sounds like [saga.cast.jenny] is done with her shower! )"
-    anon @ -m_talk "（糟了，听起来[saga.cast.jenny]已经洗完了！）"
-
-translate zh_hans jen11_laptop_72b75d9e:
-
-    # anon @ -m_talk "( I'd better get out of here! )"
-    anon @ -m_talk "（我得赶紧离开这里！）"
-
-translate zh_hans jen11_laptop_75d2cd94:
-
-    # anon f_confused o_right -m_teeth "Huh?"
-    anon f_confused o_right -m_teeth "嗯？"
-
-translate zh_hans jen11_laptop_17762b27:
-
-    # anon a_cower p_bow "Please don't hit me with the hair dryer again!"
-    anon a_cower p_bow "请别再用电吹风打我了！"
-
+# game/src/plot/jen11.rpy:92
 translate zh_hans jen11_laptop_41422b09:
 
     # anon a_facepalm f_shy p_stand @ -m_talk "( Phew, that was close! )"
     anon a_facepalm f_shy p_stand @ -m_talk "（呼，好险！）"
 
+# game/src/plot/jen11.rpy:94
 translate zh_hans jen11_laptop_0e0c38dd:
 
     # anon a_pocket @ -m_talk "( Who knows how long it will take me to find naughty stuff on her laptop... )"
     anon a_pocket @ -m_talk "（天知道要多久才能在她电脑里翻出那些色情内容……）"
 
+# game/src/plot/jen11.rpy:95
 translate zh_hans jen11_laptop_bdda75d9:
 
     # anon @ -m_talk "( I should only attempt this when I know I'll have plenty of time to snoop around. )"
     anon @ -m_talk "（只有确定时间充足，我才能动手进去翻。）"
 
+# game/src/plot/jen11.rpy:97
 translate zh_hans jen11_laptop_0a69dac7:
 
     # anon a_think e_nw f_pensive @ -m_talk "( Maybe at night, when she's sleeping? )"
     anon a_think e_nw f_pensive @ -m_talk "（也许可以等到晚上，她睡着以后？）"
 
+# game/src/plot/jen11.rpy:99
 translate zh_hans jen11_laptop_50c92e26:
 
     # anon a_pocket e_w f_happy @ -m_talk "( I'll have to be careful but I think it's worth a shot. )"
     anon a_pocket e_w f_happy @ -m_talk "（我得小心一点，不过值得试试。）"
+# game/src/plot/jen11.rpy:108
+translate zh_hans jen11_laptop_rails_a092ad31:
+
+
+    # anon @ -m_talk "( Maybe I should check her laptop hefore I leave. )"
+    anon @ -m_talk "（离开前或许该检查一下她的笔记本电脑。）"

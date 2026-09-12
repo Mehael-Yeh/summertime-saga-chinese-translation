@@ -88,10 +88,18 @@ def main() -> None:
     parser.add_argument("--root", type=Path, default=Path.cwd())
     parser.add_argument("--output", type=Path, default=Path("dist/zh_hans.rpa"))
     parser.add_argument("--verify-only", action="store_true")
+    parser.add_argument("--require-compiled", action="store_true",
+                        help="Fail unless every .rpy/.rpym source has a compiled counterpart")
     args = parser.parse_args()
 
     root = args.root.resolve()
     output = args.output.resolve()
+    if args.require_compiled:
+        missing = [name for name, path in source_files(root)
+                   if path.suffix in ('.rpy', '.rpym')
+                   and not path.with_suffix(path.suffix + 'c').is_file()]
+        if missing:
+            parser.error(f"Missing compiled scripts ({len(missing)}); compile the staged game first")
     if not args.verify_only:
         hashes = build(root, output)
         print(f"Packed {len(hashes)} files into {output}")

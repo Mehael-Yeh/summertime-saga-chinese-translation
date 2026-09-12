@@ -46,7 +46,7 @@ translate zh_hans tutor_hud_ffa09f64:
     # tutor "As in life, some activities are only available on specific days of the week. A good example of this is classes, which only take place Monday through Friday."
     tutor "和现实生活一样，有些活动只会在一周中的特定日子开放。比如上课，就只安排在周一至周五。"
 
-# game/src/plot/+tutor.rpy:47
+# game/src/plot/+tutor.rpy:46
 translate zh_hans tutor_hud_300a2a92:
 
     # tutor "Advancing between days is done by sleeping, which can be triggered by interacting with [saga.cast.anon]'s bed. Sometimes it may also be desirable to use the chair to ensure a peaceful night's sleep."
@@ -60,13 +60,13 @@ translate zh_hans tutor_hud_12d126ef:
     nvl clear
     tutor "点击地图图标即可打开城镇地图，并前往夏日镇的其他地点。"
 
-# game/src/plot/+tutor.rpy:64
+# game/src/plot/+tutor.rpy:63
 translate zh_hans tutor_hud_e7008724:
 
     # tutor "While the map is always available, sometimes it will not be possible to travel due to an active quest."
     tutor "地图虽然随时都能打开，但进行某些任务时，你可能暂时无法前往其他地点。"
 
-# game/src/plot/+tutor.rpy:65
+# game/src/plot/+tutor.rpy:63
 translate zh_hans tutor_hud_a57f20f1:
 
     # tutor "Travelling is not teleporting and may be interrupted by an event taking place en route."
@@ -80,7 +80,7 @@ translate zh_hans tutor_hud_dead2801:
     nvl clear
     tutor "点击背包图标即可打开物品栏。你在镇上收集到的物品都会放在这里，并显示名称和说明。"
 
-# game/src/plot/+tutor.rpy:81
+# game/src/plot/+tutor.rpy:80
 translate zh_hans tutor_hud_5cdba178:
 
     # tutor "Some items can be further inspected, or in rare cases used directly from the inventory. Worth keeping in mind if you find yourself struggling with a quest involving special items."
@@ -102,7 +102,7 @@ translate zh_hans tutor_hud_64dceacd:
     nvl clear
     tutor "这里显示你目前持有的现金。"
 
-# game/src/plot/+tutor.rpy:108
+# game/src/plot/+tutor.rpy:107
 translate zh_hans tutor_hud_5166f5b2:
 
     # tutor "Money can be earned around Summerville by taking on certain jobs and tasks. As you may expect, it's mostly used for shopping."
@@ -152,7 +152,7 @@ translate zh_hans tutor_hud_f7824ffa:
     # tutor "You can't use it just yet though, plenty of things to do this morning!"
     tutor "不过现在还不能用，今天早上还有很多事等着你！"
 
-# game/src/plot/+tutor.rpy:156
+# game/src/plot/+tutor.rpy:155
 translate zh_hans tutor_hud_ed7c1177:
 
     # tutor "Have fun!"

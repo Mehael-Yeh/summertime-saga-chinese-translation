@@ -862,8 +862,7 @@ translate zh_hans mar_dark_maria_alt1_cdd2b970:
     anon "是吗？"
 
 # game/src/plot/mar_dark.rpy:410
-translate zh_hans mar_dark_maria_alt1_9522fd0e:
-
+translate zh_hans mar_dark_maria_alt1_852bd071:
 
     # maria "Your dick is incredible, [saga.cast.anon]!"
     maria "你的鸡巴太厉害了，[saga.cast.anon]！"
@@ -2575,11 +2574,6 @@ translate zh_hans mar_dark_maria_trio2_4e335fb9:
 
     # tony "Hehe!"
     tony "嘿嘿！"
-
-translate zh_hans mar_dark_maria_alt1_852bd071:
-
-    # maria "Your dick is incredible, [saga.cast.anon]!"
-    maria "你的鸡巴太厉害了，[saga.cast.anon]！"
 
 translate zh_hans strings:
 

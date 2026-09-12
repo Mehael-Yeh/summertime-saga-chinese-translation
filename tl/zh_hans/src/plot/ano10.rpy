@@ -1065,18 +1065,16 @@ translate zh_hans ano10_kitchen_retry2_c83937f0:
     maria "快尝，我都等不及看你什么反应了！"
 
 # game/src/plot/ano10.rpy:298
-translate zh_hans ano10_kitchen_retry2_2710312c:
+translate zh_hans ano10_kitchen_retry2_2f52c417:
 
-
-    # anon a_cannoli_eaten -m_bite @ e_o f_shocked v_chew -m_talk "!!!" with hpunch
-    anon a_cannoli_eaten -m_bite @ e_o f_shocked v_chew -m_talk "!!!" with hpunch
+    # anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "!!!" with hpunch
+    anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "!!!" with hpunch
 
 # game/src/plot/ano10.rpy:299
-translate zh_hans ano10_kitchen_retry2_dc2d0643:
+translate zh_hans ano10_kitchen_retry2_39869a88:
 
-
-    # anon e_nne_nnw f_elated v_chew "Oh."
-    anon e_nne_nnw f_elated v_chew "我。"
+    # anon e_nne_nnw f_elated "Oh."
+    anon e_nne_nnw f_elated "我。"
 
 # game/src/plot/ano10.rpy:300
 translate zh_hans ano10_kitchen_retry2_741a8ce2:
@@ -2225,16 +2223,6 @@ translate zh_hans ano10_shop2_8c21049b:
 
     # anon a_salute f_smug "Yes, sir."
     anon a_salute f_smug "是，老板。"
-
-translate zh_hans ano10_kitchen_retry2_2f52c417:
-
-    # anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "!!!" with hpunch
-    anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "!!!" with hpunch
-
-translate zh_hans ano10_kitchen_retry2_39869a88:
-
-    # anon e_nne_nnw f_elated "Oh."
-    anon e_nne_nnw f_elated "哦。"
 
 translate zh_hans strings:
 

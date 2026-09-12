@@ -490,12 +490,11 @@ translate zh_hans jen14_dining_b5c90682:
     # anon "Hold on, I wanna finish breakfast."
     anon "等等，我想吃完早餐。"
 
-# game/src/plot/jen14.rpy:140
-translate zh_hans jen14_dining_44746db4:
+# game/src/plot/jen14.rpy:139
+translate zh_hans jen14_dining_ce3b85e4:
 
-
-    # anon "!!!"
-    anon "！！！"
+    # anon e_se f_surprised m_teeth p_jenny_table_drag @ -m_talk "!!!"
+    anon e_se f_surprised m_teeth p_jenny_table_drag @ -m_talk "！！！"
 
 # game/src/plot/jen14.rpy:143
 translate zh_hans jen14_dining_c512ca39:
@@ -574,232 +573,392 @@ translate zh_hans jen14_dining_a0964e51:
     # debbie "I knew they'd bond eventually."
     debbie "我就知道他们最终会亲近起来。"
 
-# game/src/plot/jen14.rpy:176
+# game/src/plot/jen14.rpy:177
 translate zh_hans jen14_dining_d3f9edba:
 
 
     # anon "Ack!"
     anon "啊！"
 
-# game/src/plot/jen14.rpy:179
+# game/src/plot/jen14.rpy:180
 translate zh_hans jen14_dining_d94e1922:
 
 
     # anon "What is the rush?!"
     anon "急什么？！"
 
-# game/src/plot/jen14.rpy:180
+# game/src/plot/jen14.rpy:181
 translate zh_hans jen14_dining_6522ad23:
 
     # anon "I promise I'll go and talk to-"
     anon "我保证我会去和——"
 
-# game/src/plot/jen14.rpy:191
+# game/src/plot/jen14.rpy:186
+translate zh_hans jen14_dining_8942a48d:
+
+
+    # anon e_sw f_worried "... To..."
+    anon e_sw f_worried "……跟……"
+
+# game/src/plot/jen14.rpy:192
 translate zh_hans jen14_dining_d91a992e:
 
 
     # anon "..."
     anon "……"
 
-# game/src/plot/jen14.rpy:194
+# game/src/plot/jen14.rpy:195
 translate zh_hans jen14_dining_e069896a:
 
 
     # jenny a_hips e_w f_annoyed p_stand "I want [saga.cast.cedric] to call me ASAP!"
     jenny a_hips e_w f_annoyed p_stand "我希望[saga.cast.cedric]尽快给我打电话！"
 
-# game/src/plot/jen14.rpy:195
+# game/src/plot/jen14.rpy:196
 translate zh_hans jen14_dining_052c532e:
 
     # jenny e_r "So let's hurry up and get this over with..."
     jenny e_r "所以我们快点把这事了结吧……"
 
 # game/src/plot/jen14.rpy:202
+translate zh_hans jen14_dining_c3b6f2a6:
+
+
+    # anon e_w @ -m_talk "..."
+    anon e_w @ -m_talk "……"
+
+# game/src/plot/jen14.rpy:203
 translate zh_hans jen14_dining_e994450d:
 
     # jenny f_annoyed "Are you going to touch them or what?!"
     jenny f_annoyed "你到底碰不碰它们啊？！"
 
-# game/src/plot/jen14.rpy:208
+# game/src/plot/jen14.rpy:205
+translate zh_hans jen14_dining_7fe6a8f9:
+
+
+    # anon f_surprised @ -m_talk "Hmm?"
+    anon f_surprised @ -m_talk "嗯？"
+
+# game/src/plot/jen14.rpy:209
 translate zh_hans jen14_dining_c7739fd7:
 
 
     # anon a_up f_shocked m_open @ -m_talk "OH!"
     anon a_up f_shocked m_open @ -m_talk "哦！"
 
-# game/src/plot/jen14.rpy:209
+# game/src/plot/jen14.rpy:210
 translate zh_hans jen14_dining_6984c4e0:
 
     # anon a_surprised_up_both f_horny -m_open "Right."
     anon a_surprised_up_both f_horny -m_open "没错。"
 
-# game/src/plot/jen14.rpy:214
+# game/src/plot/jen14.rpy:213
+translate zh_hans jen14_dining_28eca510:
+
+
+    # anon "Wow!"
+    anon "哇！"
+
+# game/src/plot/jen14.rpy:215
 translate zh_hans jen14_dining_0f31c4dd:
 
 
     # anon "They're really nice!"
     anon "它们真好看！"
 
-# game/src/plot/jen14.rpy:215
+# game/src/plot/jen14.rpy:216
 translate zh_hans jen14_dining_071018ec:
 
     # jenny "Tell me something I don't know..."
     jenny "说点我不知道的……"
 
 # game/src/plot/jen14.rpy:219
+translate zh_hans jen14_dining_29cb1f41:
+
+
+    # jenny p_grope_suck_pre "Guys always love them."
+    jenny p_grope_suck_pre "男人们总是很喜欢它们。"
+
+# game/src/plot/jen14.rpy:220
 translate zh_hans jen14_dining_926f7258:
 
     # jenny a_clench e_ssw f_worried_surprised m_talk p_grope_suck "!!!" with hpunch
     jenny a_clench e_ssw f_worried_surprised m_talk p_grope_suck "!!!" with hpunch
 
-# game/src/plot/jen14.rpy:224
+# game/src/plot/jen14.rpy:221
+translate zh_hans jen14_dining_9381ba5c:
+
+    # jenny "What are you-"
+    jenny "你在——"
+
+# game/src/plot/jen14.rpy:223
+translate zh_hans jen14_dining_4c29c64e:
+
+
+    # jenny e_b f_nervous "Ahh..."
+    jenny e_b f_nervous "啊……"
+
+# game/src/plot/jen14.rpy:225
 translate zh_hans jen14_dining_ef4c9351:
 
 
     # jenny "I didn't say you could-"
     jenny "我没说你可以-"
 
-# game/src/plot/jen14.rpy:226
+# game/src/plot/jen14.rpy:227
 translate zh_hans jen14_dining_60e6cb06:
 
 
     # jenny "Ffffuuu-"
     jenny "操操操-"
 
-# game/src/plot/jen14.rpy:228
+# game/src/plot/jen14.rpy:229
 translate zh_hans jen14_dining_323b4a2e:
 
 
     # jenny "Ngghhh!!"
     jenny "嗯啊！！！"
 
-# game/src/plot/jen14.rpy:232
+# game/src/plot/jen14.rpy:233
 translate zh_hans jen14_dining_e2f9eeb5:
 
 
     # jenny "Alright, stop!!"
     jenny "好了，停下！！"
 
-# game/src/plot/jen14.rpy:233
+# game/src/plot/jen14.rpy:234
 translate zh_hans jen14_dining_37848721:
 
     # anon e_w f_worried "What's the problem?"
     anon e_w f_worried "有什么问题？"
 
-# game/src/plot/jen14.rpy:249
+# game/src/plot/jen14.rpy:235
+translate zh_hans jen14_dining_c7b812fb:
+
+    # jenny "That's plenty for today!"
+    jenny "今天就到此为止吧！"
+
+# game/src/plot/jen14.rpy:236
+translate zh_hans jen14_dining_5bc69470:
+
+    # jenny "Go talk to [saga.cast.cedric]."
+    jenny "去和[saga.cast.cedric]谈谈。"
+
+# game/src/plot/jen14.rpy:237
+translate zh_hans jen14_dining_a9631d2e:
+
+    # anon @ f_sceptical "Ugh, alright."
+    anon @ f_sceptical "呃，好吧。"
+
+# game/src/plot/jen14.rpy:238
+translate zh_hans jen14_dining_5964712e:
+
+    # anon "Where did you say I could find him?"
+    anon "你说哪里能找到他？"
+
+# game/src/plot/jen14.rpy:239
+translate zh_hans jen14_dining_8156f531:
+
+    # jenny "He'll probably be at the gym, that meathead is always at the gym."
+    jenny "他多半在健身房，那个肌肉白痴整天泡在健身房。"
+
+# game/src/plot/jen14.rpy:240
+translate zh_hans jen14_dining_e8c36381:
+
+    # anon e_b f_happy m_laugh @ -m_talk "On it."
+    anon e_b f_happy m_laugh @ -m_talk "马上。"
+
+# game/src/plot/jen14.rpy:244
+translate zh_hans jen14_dining_862f3c86:
+
+
+    # jenny e_s f_nervous m_lip p_orgasm @ -m_talk "( Hmm, not bad for a little virgin loser... )"
+    jenny e_s f_nervous m_lip p_orgasm @ -m_talk "（嗯，对一个小处男废柴来说还不错嘛……）"
+
+# game/src/plot/jen14.rpy:250
 translate zh_hans jen14_dining_alt_ab768813:
 
 
     # anon e_w f_horny "O-okay."
     anon e_w f_horny "好……好吧。"
 
-# game/src/plot/jen14.rpy:251
+# game/src/plot/jen14.rpy:252
 translate zh_hans jen14_dining_alt_8952b582:
 
 
     # jenny a_clench b_anon e_ssw f_worried_surprised m_talk p_grope_suck "!!!" with hpunch
     jenny a_clench b_anon e_ssw f_worried_surprised m_talk p_grope_suck "!!!" with hpunch
 
-# game/src/plot/jen14.rpy:253
+# game/src/plot/jen14.rpy:254
 translate zh_hans jen14_dining_alt_d3e73031:
 
 
     # jenny e_b f_nervous "Jesus, you're just jumping right into-"
     jenny e_b f_nervous "天啊，你直接就——"
 
-# game/src/plot/jen14.rpy:254
+# game/src/plot/jen14.rpy:255
 translate zh_hans jen14_dining_alt_17e4aa14:
 
     # jenny "Ahh!"
     jenny "啊！"
 
-# game/src/plot/jen14.rpy:258
+# game/src/plot/jen14.rpy:257
+translate zh_hans jen14_dining_alt_da848eab:
+
+
+    # jenny e_s m_lip @ -m_talk "Mmm."
+    jenny e_s m_lip @ -m_talk "嗯……"
+
+# game/src/plot/jen14.rpy:259
 translate zh_hans jen14_dining_alt_64b09c97:
 
 
     # jenny e_ssw f_worried_surprised m_talk p_grope_finger "Oh, shit!"
     jenny e_ssw f_worried_surprised m_talk p_grope_finger "哦，操！"
 
-# game/src/plot/jen14.rpy:261
+# game/src/plot/jen14.rpy:262
 translate zh_hans jen14_dining_alt_60e6cb06:
 
 
     # jenny "Ffffuuu-"
     jenny "操操操——"
 
-# game/src/plot/jen14.rpy:263
+# game/src/plot/jen14.rpy:264
 translate zh_hans jen14_dining_alt_b00b3b77:
 
 
     # jenny "I'm gonna!"
     jenny "我要去了！"
 
-# game/src/plot/jen14.rpy:265
+# game/src/plot/jen14.rpy:266
 translate zh_hans jen14_dining_alt_ffe0d3c7:
 
 
     # jenny p_orgasm -b_anon "Ngghhh!!!" with flash
     jenny p_orgasm -b_anon "嗯啊啊啊！！！" with flash
 
-# game/src/plot/jen14.rpy:268
+# game/src/plot/jen14.rpy:269
 translate zh_hans jen14_dining_alt_123b13cb:
 
 
     # jenny e_w f_annoyed p_grope_cover -m_talk "Haah... Fuck!"
     jenny e_w f_annoyed p_grope_cover -m_talk "哈啊……操！"
 
-# game/src/plot/jen14.rpy:269
+# game/src/plot/jen14.rpy:270
 translate zh_hans jen14_dining_alt_1c870f15:
 
     # anon a_side f_calm "Did you just cum?"
     anon a_side f_calm "你刚刚是不是高潮了？"
 
-# game/src/plot/jen14.rpy:274
+# game/src/plot/jen14.rpy:271
+translate zh_hans jen14_dining_alt_3f6e4da4:
+
+    # jenny f_angry m_teeth "What? NO!"
+    jenny f_angry m_teeth "什么？没有！"
+
+# game/src/plot/jen14.rpy:273
+translate zh_hans jen14_dining_alt_6224ae82:
+
+
+    # anon a_hands e_sw f_happy "Yes, you did! Look at my fingers!"
+    anon a_hands e_sw f_happy "你肯定高潮了！看看我的手指！"
+
+# game/src/plot/jen14.rpy:275
 translate zh_hans jen14_dining_alt_58e5e0fc:
 
 
     # jenny e_w f_angry m_teeth "Shut up!"
     jenny e_w f_angry m_teeth "闭嘴！"
 
-# game/src/plot/jen14.rpy:277
+# game/src/plot/jen14.rpy:278
 translate zh_hans jen14_dining_alt_c7b812fb:
 
 
     # jenny "That's plenty for today!"
     jenny "今天够了！"
 
-# game/src/plot/jen14.rpy:278
+# game/src/plot/jen14.rpy:279
 translate zh_hans jen14_dining_alt_b6766abd:
 
     # anon f_calm "Heh, you just squirted in my hand!"
     anon f_calm "嘿，你刚刚喷在我手上了！"
 
-# game/src/plot/jen14.rpy:295
+# game/src/plot/jen14.rpy:280
+translate zh_hans jen14_dining_alt_9ea53866:
+
+    # jenny "I said shut up!!!"
+    jenny "我说了闭嘴！！！"
+
+# game/src/plot/jen14.rpy:281
+translate zh_hans jen14_dining_alt_5bc69470:
+
+    # jenny "Go talk to [saga.cast.cedric]."
+    jenny "去和[saga.cast.cedric]谈谈。"
+
+# game/src/plot/jen14.rpy:282
+translate zh_hans jen14_dining_alt_34a3e871:
+
+    # anon f_worried "Ugh, alright."
+    anon f_worried "呃，好吧。"
+
+# game/src/plot/jen14.rpy:283
+translate zh_hans jen14_dining_alt_8380e820:
+
+    # anon @ f_sceptical "Where did you say I could find him?"
+    anon @ f_sceptical "你说我在哪里可以找到他？"
+
+# game/src/plot/jen14.rpy:284
+translate zh_hans jen14_dining_alt_8b6854de:
+
+    # jenny f_annoyed -m_teeth "He'll probably be at the gym, that meathead is always at the gym."
+    jenny f_annoyed -m_teeth "他很可能在健身房，那个肌肉发达的家伙总是泡在健身房。"
+
+# game/src/plot/jen14.rpy:285
+translate zh_hans jen14_dining_alt_4cef1fdf:
+
+    # anon f_calm "On it."
+    anon f_calm "马上去办。"
+
+# game/src/plot/jen14.rpy:289
+translate zh_hans jen14_dining_alt_a1883da3:
+
+
+    # jenny e_s f_nervous m_lip p_orgasm @ -m_talk "( Where the hell did that come from?! )"
+    jenny e_s f_nervous m_lip p_orgasm @ -m_talk "（这到底是从哪冒出来的？！）"
+
+# game/src/plot/jen14.rpy:296
 translate zh_hans jen14_dining_debbie_41a5a0d1:
 
 
     # anon "Morning, [saga.cast.debbie]."
     anon "早上好，[saga.cast.debbie]。"
 
-# game/src/plot/jen14.rpy:297
+# game/src/plot/jen14.rpy:298
 translate zh_hans jen14_dining_debbie_d34a6f0f:
 
 
     # debbie a_side o_right p_stand "Morning, sweetie!"
     debbie a_side o_right p_stand "早上好，亲爱的！"
 
-# game/src/plot/jen14.rpy:299
+# game/src/plot/jen14.rpy:300
 translate zh_hans jen14_dining_debbie_0deb750d:
 
 
     # debbie "Go on in and sit down, I'll bring you a plate as soon as it's ready."
     debbie "进去坐下吧，做好了就给你端过来。"
 
-# game/src/plot/jen14.rpy:300
+# game/src/plot/jen14.rpy:301
 translate zh_hans jen14_dining_debbie_7914a153:
 
     # anon "Sweet!"
     anon "太好了！"
+
+# game/src/plot/jen14.rpy:311
+translate zh_hans jen14_cedric_fcb8786a:
+
+    # anon f_worried "Um... about [saga.cast.jenny]..."
+    anon f_worried "嗯……关于[saga.cast.jenny]……"
 
 # game/src/plot/jen14.rpy:312
 translate zh_hans jen14_cedric_d1ba7890:
@@ -808,7 +967,7 @@ translate zh_hans jen14_cedric_d1ba7890:
     # anon "... You know she's been trying to get a hold of you, right?"
     anon "……你知道她一直在试图联系你，对吧？"
 
-# game/src/plot/jen14.rpy:314
+# game/src/plot/jen14.rpy:313
 translate zh_hans jen14_cedric_1d0efb35:
 
 
@@ -822,33 +981,57 @@ translate zh_hans jen14_cedric_fe4c9880:
     # cedric "I don't want anything to do with that crazy bitch!"
     cedric "我可不想跟那个疯婊子有任何瓜葛！"
 
-# game/src/plot/jen14.rpy:317
+# game/src/plot/jen14.rpy:316
 translate zh_hans jen14_cedric_8cbb3e3b:
 
     # anon "That's a little harsh."
     anon "这话有点刻薄。"
 
-# game/src/plot/jen14.rpy:323
+# game/src/plot/jen14.rpy:317
+translate zh_hans jen14_cedric_6209168d:
+
+    # cedric "You know she's gotten herself into doing porn or something?"
+    cedric "你知道她现在跑去拍色情片之类的吗？"
+
+# game/src/plot/jen14.rpy:318
+translate zh_hans jen14_cedric_5a90c16d:
+
+    # anon f_worried "Y-yeah, I know."
+    anon f_worried "是、是的，我知道。"
+
+# game/src/plot/jen14.rpy:319
 translate zh_hans jen14_cedric_ae127184:
 
 
     # cedric "Now she's trying to sweet talk me into doing it too!"
     cedric "现在她还想来甜言蜜语哄我也去干这个！"
 
-# game/src/plot/jen14.rpy:325
+# game/src/plot/jen14.rpy:320
 translate zh_hans jen14_cedric_307d2fad:
 
     # anon "Uh huh?"
     anon "嗯哼？"
 
-# game/src/plot/jen14.rpy:329
-translate zh_hans jen14_cedric_3b2b369e:
+# game/src/plot/jen14.rpy:322
+translate zh_hans jen14_cedric_5dda8e8a:
 
 
-    # anon "Err, I dunno... Kinda?"
-    anon "呃，我不知道……有点？"
+    # cedric a_flex f_curious "Do I look like the kinda guy who does porn?!"
+    cedric a_flex f_curious "我看起来像是会拍色情片的那种人吗？！"
 
-# game/src/plot/jen14.rpy:331
+# game/src/plot/jen14.rpy:325
+translate zh_hans jen14_cedric_c3b6f2a6:
+
+    # anon e_w @ -m_talk "..."
+    anon e_w @ -m_talk "……"
+
+# game/src/plot/jen14.rpy:328
+translate zh_hans jen14_cedric_ffc500a3:
+
+    # anon a_uneasy e_w f_shy "Err, I dunno... Kinda?"
+    anon a_uneasy e_w f_shy "呃，我不知道……有一点吧？"
+
+# game/src/plot/jen14.rpy:330
 translate zh_hans jen14_cedric_a6de112c:
 
 
@@ -869,379 +1052,195 @@ translate zh_hans jen14_cedric_97ca021f:
     # cedric "I'm done with her."
     cedric "我跟她完了。"
 
+# game/src/plot/jen14.rpy:334
+translate zh_hans jen14_cedric_eb780b0f:
+
+    # anon @ -m_talk "..."
+    anon @ -m_talk "……"
+
 # game/src/plot/jen14.rpy:335
-translate zh_hans jen14_cedric_d91a992e:
+translate zh_hans jen14_cedric_187d02a6:
 
+    # anon a_finger f_shy "Will you at least call and tell her that?"
+    anon a_finger f_shy "你至少能打个电话告诉她这些吗？"
 
-    # anon "Will you at least call and tell her that?"
-    anon "你至少打个电话告诉她吧？"
-
-# game/src/plot/jen14.rpy:337
-translate zh_hans jen14_cedric_e43a0e50:
-
-
-    # anon "Will you at least call and tell her that?"
-    anon "你至少打个电话告诉她吧？"
-
-# game/src/plot/jen14.rpy:339
+# game/src/plot/jen14.rpy:336
 translate zh_hans jen14_cedric_d091a9a2:
 
 
     # cedric f_curious "Why, so she can yell and call me names?"
     cedric f_curious "干嘛，好让她冲我大喊大叫、骂我吗？"
 
-# game/src/plot/jen14.rpy:340
+# game/src/plot/jen14.rpy:338
 translate zh_hans jen14_cedric_b0c03785:
 
     # cedric a_reject "No thanks."
     cedric a_reject "不了，谢谢。"
 
-# game/src/plot/jen14.rpy:346
-translate zh_hans jen14_cedric_f4456d49:
-
-
-    # anon "( I'd better go and let her know. )"
-    anon "（我还是回去告诉她吧。）"
-
-# game/src/plot/jen14.rpy:347
-translate zh_hans jen14_cedric_1c2e5cb2:
-
-
-    # anon "( [saga.cast.jenny] isn't going to like this... )"
-    anon "（[saga.cast.jenny]肯定接受不了……）"
-
-# game/src/plot/jen14.rpy:348
-translate zh_hans jen14_cedric_45ce8991:
-
-
-    # anon "( I'd better go and let her know. )"
-    anon "（我还是赶紧回去告诉她吧。）"
-
-# game/src/plot/jen14.rpy:356
-translate zh_hans jen14_cedric_jenny_87233043:
-
-    # anon f_worried "Where did you say I could find [saga.cast.cedric]?"
-    anon f_worried "你说我在哪里可以找到[saga.cast.cedric]？"
-
-# game/src/plot/jen14.rpy:359
-translate zh_hans jen14_cedric_jenny_cec2c472:
-
-
-    # anon "Alright, I'm on it."
-    anon "好的，我这就去。"
-
-# game/src/plot/jen14.rpy:378
-translate zh_hans jen14_jenny_1136102f:
-
-
-    # anon "Morning."
-    anon "早上好。"
-
-# game/src/plot/jen14.rpy:394
-translate zh_hans jen14_jenny_c1e835f5:
-
-
-    # jenny "Did you speak with [saga.cast.cedric] yet?"
-    jenny "你跟[saga.cast.cedric]谈过了吗？"
-
-# game/src/plot/jen14.rpy:395
-translate zh_hans jen14_jenny_d8f50d3e:
-
-
-    # anon "Yeah."
-    anon "谈过了。"
-
-# game/src/plot/jen14.rpy:398
-translate zh_hans jen14_jenny_eb780b0f:
-
-    # anon @ -m_talk "..."
-    anon @ -m_talk "……"
-
-# game/src/plot/jen14.rpy:405
-translate zh_hans jen14_jenny_71824d9d:
-
-    # anon @ -m_talk "Mmmhmm."
-    anon @ -m_talk "嗯哼。"
-
-# game/src/plot/jen14.rpy:412
-translate zh_hans jen14_jenny_00172bd4:
-
-
-    # jenny @ -m_talk "Grr!!!"
-    jenny @ -m_talk "呃！！！"
-
-# game/src/plot/jen14.rpy:426
-translate zh_hans jen14_jenny_db37b5f1:
-
-
-    # anon "... Okay."
-    anon "……好吧。"
-
-# game/src/plot/jen14.rpy:427
-translate zh_hans jen14_jenny_8954e945:
-
-
-    # anon @ -m_talk "( I should probably give her space until she calms down. )"
-    anon @ -m_talk "（我可能应该给她空间，直到她冷静下来。）"
-
-translate zh_hans jen14_dining_8942a48d:
-
-
-    # anon e_sw f_worried "... To..."
-    anon e_sw f_worried "……跟……"
-
-translate zh_hans jen14_dining_c3b6f2a6:
-
-
-    # anon e_w @ -m_talk "..."
-    anon e_w @ -m_talk "……"
-
-translate zh_hans jen14_dining_7fe6a8f9:
-
-
-    # anon f_surprised @ -m_talk "Hmm?"
-    anon f_surprised @ -m_talk "嗯？"
-
-translate zh_hans jen14_dining_28eca510:
-
-
-    # anon "Wow!"
-    anon "哇！"
-
-translate zh_hans jen14_dining_29cb1f41:
-
-
-    # jenny p_grope_suck_pre "Guys always love them."
-    jenny p_grope_suck_pre "男人们总是很喜欢它们。"
-
-translate zh_hans jen14_dining_9381ba5c:
-
-    # jenny "What are you-"
-    jenny "你在——"
-
-translate zh_hans jen14_dining_4c29c64e:
-
-
-    # jenny e_b f_nervous "Ahh..."
-    jenny e_b f_nervous "啊……"
-
-translate zh_hans jen14_dining_c7b812fb:
-
-    # jenny "That's plenty for today!"
-    jenny "今天就到此为止吧！"
-
-translate zh_hans jen14_dining_5bc69470:
-
-    # jenny "Go talk to [saga.cast.cedric]."
-    jenny "去和[saga.cast.cedric]谈谈。"
-
-translate zh_hans jen14_dining_a9631d2e:
-
-    # anon @ f_sceptical "Ugh, alright."
-    anon @ f_sceptical "呃，好吧。"
-
-translate zh_hans jen14_dining_5964712e:
-
-    # anon "Where did you say I could find him?"
-    anon "你说哪里能找到他？"
-
-translate zh_hans jen14_dining_8156f531:
-
-    # jenny "He'll probably be at the gym, that meathead is always at the gym."
-    jenny "他多半在健身房，那个肌肉白痴整天泡在健身房。"
-
-translate zh_hans jen14_dining_e8c36381:
-
-    # anon e_b f_happy m_laugh @ -m_talk "On it."
-    anon e_b f_happy m_laugh @ -m_talk "马上。"
-
-translate zh_hans jen14_dining_862f3c86:
-
-
-    # jenny e_s f_nervous m_lip p_orgasm @ -m_talk "( Hmm, not bad for a little virgin loser... )"
-    jenny e_s f_nervous m_lip p_orgasm @ -m_talk "（嗯，对一个小处男废柴来说还不错嘛……）"
-
-translate zh_hans jen14_dining_alt_da848eab:
-
-
-    # jenny e_s m_lip @ -m_talk "Mmm."
-    jenny e_s m_lip @ -m_talk "嗯……"
-
-translate zh_hans jen14_dining_alt_3f6e4da4:
-
-    # jenny f_angry m_teeth "What? NO!"
-    jenny f_angry m_teeth "什么？没有！"
-
-translate zh_hans jen14_dining_alt_6224ae82:
-
-
-    # anon a_hands e_sw f_happy "Yes, you did! Look at my fingers!"
-    anon a_hands e_sw f_happy "你肯定高潮了！看看我的手指！"
-
-translate zh_hans jen14_dining_alt_9ea53866:
-
-    # jenny "I said shut up!!!"
-    jenny "我说了闭嘴！！！"
-
-translate zh_hans jen14_dining_alt_5bc69470:
-
-    # jenny "Go talk to [saga.cast.cedric]."
-    jenny "去和[saga.cast.cedric]谈谈。"
-
-translate zh_hans jen14_dining_alt_34a3e871:
-
-    # anon f_worried "Ugh, alright."
-    anon f_worried "呃，好吧。"
-
-translate zh_hans jen14_dining_alt_8380e820:
-
-    # anon @ f_sceptical "Where did you say I could find him?"
-    anon @ f_sceptical "你说我在哪里可以找到他？"
-
-translate zh_hans jen14_dining_alt_8b6854de:
-
-    # jenny f_annoyed -m_teeth "He'll probably be at the gym, that meathead is always at the gym."
-    jenny f_annoyed -m_teeth "他很可能在健身房，那个肌肉发达的家伙总是泡在健身房。"
-
-translate zh_hans jen14_dining_alt_4cef1fdf:
-
-    # anon f_calm "On it."
-    anon f_calm "马上去办。"
-
-translate zh_hans jen14_dining_alt_a1883da3:
-
-
-    # jenny e_s f_nervous m_lip p_orgasm @ -m_talk "( Where the hell did that come from?! )"
-    jenny e_s f_nervous m_lip p_orgasm @ -m_talk "（这到底是从哪冒出来的？！）"
-
-translate zh_hans jen14_cedric_482f34fa:
-
-
-    # anon "Um... about [saga.cast.jenny]..."
-    anon "嗯……关于[saga.cast.jenny]……"
-
-translate zh_hans jen14_cedric_6209168d:
-
-    # cedric "You know she's gotten herself into doing porn or something?"
-    cedric "你知道她现在跑去拍色情片之类的吗？"
-
-translate zh_hans jen14_cedric_80154e1f:
-
-
-    # anon "Y-yeah, I know."
-    anon "嗯…我知道。"
-
-translate zh_hans jen14_cedric_5dda8e8a:
-
-
-    # cedric a_flex f_curious "Do I look like the kinda guy who does porn?!"
-    cedric a_flex f_curious "我看起来像是会拍色情片的那种人吗？！"
-
+# game/src/plot/jen14.rpy:340
 translate zh_hans jen14_cedric_f6bf172e:
 
 
     # cedric a_point f_calm "You tell her."
     cedric a_point f_calm "你去告诉她。"
 
+# game/src/plot/jen14.rpy:344
+translate zh_hans jen14_cedric_4c772c3c:
+
+    # anon a_facepalm e_osw f_sad "{i}*Sigh*{/i} Crap."
+    anon a_facepalm e_osw f_sad "{i}*唉*{/i} 糟了。"
+# game/src/plot/jen14.rpy:345
+translate zh_hans jen14_cedric_1c2e5cb2:
+
+
+    # anon "( [saga.cast.jenny] isn't going to like this... )"
+    anon "（[saga.cast.jenny]肯定接受不了……）"
+
+# game/src/plot/jen14.rpy:346
+translate zh_hans jen14_cedric_45ce8991:
+
+
+    # anon "( I'd better go and let her know. )"
+    anon "（我还是赶紧回去告诉她吧。）"
+
+# game/src/plot/jen14.rpy:354
+translate zh_hans jen14_cedric_jenny_87233043:
+
+    # anon f_worried "Where did you say I could find [saga.cast.cedric]?"
+    anon f_worried "你说我在哪里可以找到[saga.cast.cedric]？"
+
+# game/src/plot/jen14.rpy:355
 translate zh_hans jen14_cedric_jenny_14d9be89:
 
     # jenny "He'll probably be at the gym."
     jenny "他大概会在健身房。"
 
+# game/src/plot/jen14.rpy:356
 translate zh_hans jen14_cedric_jenny_2865b715:
 
 
     # jenny "That meathead is always at the gym."
     jenny "那个肌肉男总在学校体育馆。"
 
+# game/src/plot/jen14.rpy:357
+translate zh_hans jen14_cedric_jenny_cec2c472:
+
+
+    # anon "Alright, I'm on it."
+    anon "好的，我这就去。"
+
+# game/src/plot/jen14.rpy:376
+translate zh_hans jen14_jenny_1136102f:
+
+
+    # anon "Morning."
+    anon "早上好。"
+
+# game/src/plot/jen14.rpy:392
+translate zh_hans jen14_jenny_c1e835f5:
+
+
+    # jenny "Did you speak with [saga.cast.cedric] yet?"
+    jenny "你跟[saga.cast.cedric]谈过了吗？"
+
+# game/src/plot/jen14.rpy:393
+translate zh_hans jen14_jenny_d8f50d3e:
+
+
+    # anon "Yeah."
+    anon "谈过了。"
+
+# game/src/plot/jen14.rpy:396
+translate zh_hans jen14_jenny_eb780b0f:
+
+    # anon @ -m_talk "..."
+    anon @ -m_talk "……"
+
+# game/src/plot/jen14.rpy:397
 translate zh_hans jen14_jenny_83622f6f:
 
     # jenny @ f_confused "Well?"
     jenny @ f_confused "怎么样？"
 
+# game/src/plot/jen14.rpy:398
 translate zh_hans jen14_jenny_f7ad2b07:
 
     # jenny "Why the fuck hasn't he called me back yet?!"
     jenny "他妈的为什么还没给我回电话？！"
 
+# game/src/plot/jen14.rpy:399
 translate zh_hans jen14_jenny_db0672f6:
 
     # anon "He's not going to call you back."
     anon "他不会回你电话的。"
 
+# game/src/plot/jen14.rpy:400
 translate zh_hans jen14_jenny_169c5460:
 
     # jenny "What?!"
     jenny "什么？！"
 
+# game/src/plot/jen14.rpy:401
 translate zh_hans jen14_jenny_f0b64003:
 
     # anon "He said, and I quote, \"I don't want anything to do with that crazy bitch.\""
     anon "他说，我引用原话：“我不想跟那个疯婆子有任何瓜葛。”"
 
+# game/src/plot/jen14.rpy:402
 translate zh_hans jen14_jenny_ae5cb42d:
 
 
     # jenny a_fold "You're serious?"
     jenny a_fold "你是认真的？"
 
+# game/src/plot/jen14.rpy:403
+translate zh_hans jen14_jenny_71824d9d:
+
+    # anon @ -m_talk "Mmmhmm."
+    anon @ -m_talk "嗯哼。"
+
+# game/src/plot/jen14.rpy:405
 translate zh_hans jen14_jenny_9ac806c2:
 
     # anon "Sorry."
     anon "抱歉。"
 
+# game/src/plot/jen14.rpy:407
 translate zh_hans jen14_jenny_cc618134:
 
     # jenny f_angry m_teeth "Well, fuck him then!"
     jenny f_angry m_teeth "那去他妈的！"
 
+# game/src/plot/jen14.rpy:408
 translate zh_hans jen14_jenny_7086b43d:
 
     # jenny a_phone e_s "Stupid asshole."
     jenny a_phone e_s "蠢货。"
 
+# game/src/plot/jen14.rpy:409
 translate zh_hans jen14_jenny_eb780b0f_1:
 
 
     # anon @ -m_talk "..."
     anon @ -m_talk "……"
 
-translate zh_hans jen14_dining_ce3b85e4:
+# game/src/plot/jen14.rpy:410
+translate zh_hans jen14_jenny_00172bd4:
 
-    # anon e_se f_surprised m_teeth p_jenny_table_drag @ -m_talk "!!!"
-    anon e_se f_surprised m_teeth p_jenny_table_drag @ -m_talk "！！！"
 
-translate zh_hans jen14_cedric_fcb8786a:
+    # jenny @ -m_talk "Grr!!!"
+    jenny @ -m_talk "呃！！！"
 
-    # anon f_worried "Um... about [saga.cast.jenny]..."
-    anon f_worried "嗯……关于[saga.cast.jenny]……"
+# game/src/plot/jen14.rpy:424
+translate zh_hans jen14_jenny_db37b5f1:
 
-translate zh_hans jen14_cedric_5a90c16d:
 
-    # anon f_worried "Y-yeah, I know."
-    anon f_worried "是、是的，我知道。"
+    # anon "... Okay."
+    anon "……好吧。"
 
-translate zh_hans jen14_cedric_c3b6f2a6:
+# game/src/plot/jen14.rpy:425
+translate zh_hans jen14_jenny_8954e945:
 
-    # anon e_w @ -m_talk "..."
-    anon e_w @ -m_talk "……"
 
-translate zh_hans jen14_cedric_ffc500a3:
-
-    # anon a_uneasy e_w f_shy "Err, I dunno... Kinda?"
-    anon a_uneasy e_w f_shy "呃，我不知道……有一点吧？"
-
-translate zh_hans jen14_cedric_eb780b0f:
-
-    # anon @ -m_talk "..."
-    anon @ -m_talk "……"
-
-translate zh_hans jen14_cedric_187d02a6:
-
-    # anon a_finger f_shy "Will you at least call and tell her that?"
-    anon a_finger f_shy "你至少能打个电话告诉她这些吗？"
-
-translate zh_hans jen14_cedric_4c772c3c:
-
-    # anon a_facepalm e_osw f_sad "{i}*Sigh*{/i} Crap."
-    anon a_facepalm e_osw f_sad "{i}*唉*{/i} 糟了。"
+    # anon @ -m_talk "( I should probably give her space until she calms down. )"
+    anon @ -m_talk "（我可能应该给她空间，直到她冷静下来。）"

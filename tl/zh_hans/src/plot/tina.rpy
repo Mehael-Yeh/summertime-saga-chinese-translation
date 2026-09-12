@@ -217,26 +217,31 @@ translate zh_hans tina_bank_cubicle_intro_3b4dadea:
     # tina f_calm "What brings you into my office today?"
     tina f_calm "什么事让你今天来我办公室？"
 
+# game/src/plot/tina.rpy:142
 translate zh_hans tina_tina_lounge_intro_0482623b:
 
     # anon "Whatcha doin'?"
     anon "你在干嘛？"
 
+# game/src/plot/tina.rpy:143
 translate zh_hans tina_tina_lounge_intro_37e0f89f:
 
     # tina "Just relaxing."
     tina "就放松一下。"
 
+# game/src/plot/tina.rpy:148
 translate zh_hans tina_tina_lounge_intro_5747705d:
 
     # tina "Why, what's up?"
     tina "怎么了，有什么事吗？"
 
+# game/src/plot/tina.rpy:153
 translate zh_hans tina_tina_lounge_outro_48cfb1f6:
 
     # anon f_calm "I'm gonna head out."
     anon f_calm "我要走了。"
 
+# game/src/plot/tina.rpy:154
 translate zh_hans tina_tina_lounge_outro_0ae0944f:
 
     # tina f_calm "See ya, babyface."

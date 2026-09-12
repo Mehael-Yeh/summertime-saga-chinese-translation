@@ -1807,11 +1807,10 @@ translate zh_hans ano13_lounge_bfea1fff:
     tina p_top_off_away_03 -b_anon "嗯，做得真好。"
 
 # game/src/plot/ano13.rpy:539
-translate zh_hans ano13_lounge_02e1a881:
+translate zh_hans ano13_lounge_c0257465:
 
-
-    # tina a_cover c_pants o_left p_stand "Are you ready?"
-    tina a_cover c_pants o_left p_stand "你准备好了吗？"
+    # tina a_cover c_lingerie_bottom o_left p_stand "Are you ready?"
+    tina a_cover c_lingerie_bottom o_left p_stand "你准备好了吗？"
 
 # game/src/plot/ano13.rpy:540
 translate zh_hans ano13_lounge_8e667bd8:
@@ -3772,11 +3771,6 @@ translate zh_hans ano13_shop2_rails_ded2089f:
 
     # anon f_happy @ -m_talk "( I should visit the pizzeria and find out. )"
     anon f_happy @ -m_talk "（我应该去披萨店看看情况。）"
-
-translate zh_hans ano13_lounge_c0257465:
-
-    # tina a_cover c_lingerie_bottom o_left p_stand "Are you ready?"
-    tina a_cover c_lingerie_bottom o_left p_stand "你准备好了吗？"
 
 translate zh_hans strings:
 

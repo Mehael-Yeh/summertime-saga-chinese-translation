@@ -4396,753 +4396,814 @@ translate zh_hans ano15_pantry_merge2_b8d23025:
     # tony "Make sure ya keep those legs elevated so his little guys can get to the egg."
     tony "把腿抬高点，让他那些小家伙游到卵子那儿。"
 
-# game/src/plot/ano15.rpy:1465
+# game/src/plot/ano15.rpy:1466
 translate zh_hans ano15_pantry_merge2_9e540482:
 
 
     # maria "I know how it works, [saga.cast.tony]!"
     maria "我知道怎么做，[saga.cast.tony]！"
 
-# game/src/plot/ano15.rpy:1466
+# game/src/plot/ano15.rpy:1467
 translate zh_hans ano15_pantry_merge2_aad8c4ea:
 
     # tony "Alright, alright!"
     tony "好了，好了！"
 
-# game/src/plot/ano15.rpy:1470
-translate zh_hans ano15_pantry_merge2_1e3944a1:
-
-    # maria "I'm just fricken' exhausted."
-    maria "我只是累坏了。"
-
-# game/src/plot/ano15.rpy:1476
-translate zh_hans ano15_pantry_merge2_70a0f8c8:
-
-
-    # tony "That's fine, darlin'."
-    tony "没关系，亲爱的。"
-
-# game/src/plot/ano15.rpy:1477
-translate zh_hans ano15_pantry_merge2_2e68ee62:
-
-    # tony "Ya just rest."
-    tony "你就歇着吧。"
-
-# game/src/plot/ano15.rpy:1488
-translate zh_hans ano15_pantry_merge3_30d681ce:
-
-
-    # tony "Ya went above and beyond in there, didn't ya, champ?!"
-    tony "你在里面可真是超额完成任务啊，冠军？！"
-
-# game/src/plot/ano15.rpy:1489
-translate zh_hans ano15_pantry_merge3_c35871f2:
-
-    # anon "Hehe!"
-    anon "嘿嘿！"
-
-# game/src/plot/ano15.rpy:1494
-translate zh_hans ano15_pantry_merge3_d2f0c49b:
-
-    # anon a_rub c_casual e_w f_tired -m_teeth "Y-yeah, I hope so."
-    anon a_rub c_casual e_w f_tired -m_teeth "是、是啊，希望吧。"
-
-# game/src/plot/ano15.rpy:1499
-translate zh_hans ano15_pantry_merge3_9a8155f3:
-
-    # tony a_belly @ e_b m_laugh "Hah!"
-    tony a_belly @ e_b m_laugh "哈！"
-
-# game/src/plot/ano15.rpy:1508
-translate zh_hans ano15_pantry_merge3_b512bc19:
-
-    # tony a_fists_up f_confused "You like capicola?"
-    tony a_fists_up f_confused "你喜欢capicola（卡皮科拉火腿）吗？"
-
-# game/src/plot/ano15.rpy:1519
-translate zh_hans ano15_pantry_merge3_e137577b:
-
-
-    # tony "Follow me!"
-    tony "跟我来！"
-
-# game/src/plot/ano15.rpy:1522
-translate zh_hans ano15_pantry_merge3_c6e322d8:
-
-
-    # anon "Alright."
-    anon "好的。"
-
-# game/src/plot/ano15.rpy:1527
-translate zh_hans ano15_pantry_reuse_244739f4:
-
-
-    # mono ""
-    mono ""
-
-# game/src/plot/ano15.rpy:1533
-translate zh_hans ano15_pantry_reuse_8cab90b4:
-
-
-    # anon @ -m_talk "( Phew, what a night. )"
-    anon @ -m_talk "（呼，真是疯狂的一晚。）"
-
-# game/src/plot/ano15.rpy:1536
-translate zh_hans ano15_pantry_reuse_155101ce:
-
-
-    # anon @ -m_talk "( I can't believe I just had sex with [saga.cast.maria]! )"
-    anon @ -m_talk "（我真不敢相信刚才真和[saga.cast.maria]上床了！）"
-
-# game/src/plot/ano15.rpy:1541
-translate zh_hans ano15_pantry_reuse_248c25d9:
-
-
-    # anon a_pocket e_w f_surprised -m_yawn @ -m_talk "( With [saga.cast.tony] watching no less! )"
-    anon a_pocket e_w f_surprised -m_yawn @ -m_talk "（而且[saga.cast.tony]还全程在旁边看！）"
-
-# game/src/plot/ano15.rpy:1542
-translate zh_hans ano15_pantry_reuse_1259be0d:
-
-    # anon e_b f_happy m_teeth @ -m_talk "( He sure was excited! )"
-    anon e_b f_happy m_teeth @ -m_talk "（他可真够兴奋的！）"
-
-# game/src/plot/ano15.rpy:1546
-translate zh_hans ano15_pantry_reuse_b7a8308c:
-
-    # anon e_b f_happy m_teeth @ -m_talk "( I hope we get to do that again! )"
-    anon e_b f_happy m_teeth @ -m_talk "（真希望还能再来一次！）"
-
-# game/src/plot/ano15.rpy:1549
-translate zh_hans ano15_pantry_reuse_c50a511c:
-
-    # anon @ -m_talk "( Maybe I'll finally get to the bottom of what happened to Dad? )"
-    anon @ -m_talk "（也许我终于能查清爸爸出了什么事。）"
-
-# game/src/plot/ano15.rpy:1553
-translate zh_hans ano15_pantry_reuse_06a807eb:
-
-    # anon f_surprised @ -m_talk "( [saga.cast.maria] really seemed to enjoy it too, even though it was her first time! )"
-    anon f_surprised @ -m_talk "（[saga.cast.maria]看起来也很享受，虽然这是她第一次跟别的男人上床！）"
-
-# game/src/plot/ano15.rpy:1559
-translate zh_hans ano15_pantry_reuse_62fc220c:
-
-    # anon @ -m_talk "( I'm gonna have good dreams tonight, that's for sure! )"
-    anon @ -m_talk "（今晚肯定能做个好梦！）"
-
-# game/src/plot/ano15.rpy:1568
-translate zh_hans ano15_pantry_ogle1_0e021c04:
-
-
-    # tony f_calm "Thank you, champ!"
-    tony f_calm "谢谢你，冠军！"
-
-# game/src/plot/ano15.rpy:1569
-translate zh_hans ano15_pantry_ogle1_8d78b1ef:
-
-    # tony a_heart f_happy "You don't know how much this means to me!"
-    tony a_heart f_happy "你不知道这对我有多重要！"
-
-# game/src/plot/ano15.rpy:1573
-translate zh_hans ano15_pantry_ogle1_900b2c28:
-
-
-    # tony a_belly @ e_b m_laugh "Hah, awkward shmawkward!"
-    tony a_belly @ e_b m_laugh "哈，尴尬个什么劲儿！"
-
-# game/src/plot/ano15.rpy:1574
-translate zh_hans ano15_pantry_ogle1_2b352e05:
-
-    # tony f_horny "We're havin' a baby here, you two!"
-    tony f_horny "你们俩，咱们可是在造孩子！"
-
-# game/src/plot/ano15.rpy:1580
-translate zh_hans ano15_pantry_ogle1_f71405d4:
-
-    # anon a_salute "Y-yes, sir."
-    anon a_salute "是、是的，先生。"
-
-# game/src/plot/ano15.rpy:1584
-translate zh_hans ano15_pantry_ogle1_7835541d:
-
-
-    # maria @ -m_talk "..."
-    maria @ -m_talk "……"
-
-# game/src/plot/ano15.rpy:1585
-translate zh_hans ano15_pantry_ogle1_4e114c3d:
-
-    # tony "'Ey, [saga.cast.maria]!"
-    tony "嘿，[saga.cast.maria]！"
-
-# game/src/plot/ano15.rpy:1590
-translate zh_hans ano15_pantry_ogle1_4bd6e345:
-
-
-    # maria e_s "I wasn't-"
-    maria e_s "我刚才没——"
-
-# game/src/plot/ano15.rpy:1591
-translate zh_hans ano15_pantry_ogle1_c6d9ff81:
-
-    # tony "Hah, it's alright..."
-    tony "哈，没事的……"
-
-# game/src/plot/ano15.rpy:1595
-translate zh_hans ano15_pantry_ogle1_4b3effab:
-
-
-    # tony "It's like a fuckin' baseball bat!"
-    tony "跟他妈一根棒球棍似的！"
-
-# game/src/plot/ano15.rpy:1601
-translate zh_hans ano15_pantry_ogle2_9fe0c676:
-
-
-    # tony "Oh, yeah?"
-    tony "哦，是吗？"
-
-# game/src/plot/ano15.rpy:1602
-translate zh_hans ano15_pantry_ogle2_d28bad0a:
-
-    # maria e_wnw f_sceptical "Phew... Sorry, [saga.cast.tony]... I didn't mean-"
-    maria e_wnw f_sceptical "呼……对不起，[saga.cast.tony]……我不是想——"
-
-# game/src/plot/ano15.rpy:1608
-translate zh_hans ano15_pantry_ogle2_ce3569c8:
-
-    # maria "[saga.cast.tony], what the fuck are ya doin'?!"
-    maria "[saga.cast.tony]，你他妈在干什么？！"
-
-# game/src/plot/ano15.rpy:1614
-translate zh_hans ano15_pantry_ogle2_29278049:
-
-    # tony a_dick_wide "What?!"
-    tony a_dick_wide "什么？！"
-
-# game/src/plot/ano15.rpy:1622
-translate zh_hans ano15_pantry_ogle2_aa41649a:
-
-    # tony "C'mon, darlin'... we're makin' magic here!"
-    tony "来吧，亲爱的……咱们这可是在创造奇迹！"
-
-# game/src/plot/ano15.rpy:1625
-translate zh_hans ano15_pantry_ogle2_767658ae:
-
-    # tony "I just wanna feel involved."
-    tony "我只是想参与一下。"
-
-# game/src/plot/ano15.rpy:1629
-translate zh_hans ano15_pantry_ogle2_5810c796:
-
-
-    # tony "Aww, it ain't botherin' him none. Is it, champ?!"
-    tony "哎呀，这又没妨碍到他。对吧，冠军？！"
-
-# game/src/plot/ano15.rpy:1639
-translate zh_hans ano15_pantry_ogle2_a5262ffb:
-
-
-    # anon f_worried "... Actually, [saga.cast.tony]..."
-    anon f_worried "……其实，[saga.cast.tony]……"
-
-# game/src/plot/ano15.rpy:1640
-translate zh_hans ano15_pantry_ogle2_be32cea2:
-
-    # anon "... It's a bit much."
-    anon "……有点太过了。"
-
-# game/src/plot/ano15.rpy:1651
-translate zh_hans ano15_pantry_poly_f1c61136:
-
-
-    # tony "See, I told ya!"
-    tony "看，我跟你说过吧！"
-
-# game/src/plot/ano15.rpy:1653
-translate zh_hans ano15_pantry_poly_054ed58e:
-
-
-    # maria p_lay "Wow, it really don't bother ya, [saga.cast.anon]?"
-    maria p_lay "哇，这样真不影响你啊，[saga.cast.anon]？"
-
-# game/src/plot/ano15.rpy:1654
-translate zh_hans ano15_pantry_poly_38639342:
-
-    # anon "Not at all."
-    anon "完全不影响。"
-
-# game/src/plot/ano15.rpy:1660
-translate zh_hans ano15_pantry_poly_bd8a8a57:
-
-    # tony "I betcha he'd even be open to a little sandwich action. Eh, champ?"
-    tony "我敢说，他连三明治玩法都肯试试。对吧，冠军？"
-
-# game/src/plot/ano15.rpy:1663
-translate zh_hans ano15_pantry_poly_1597ead1:
-
-    # tony "Yeah, you know..."
-    tony "就是……你知道的……"
-
-# game/src/plot/ano15.rpy:1672
-translate zh_hans ano15_pantry_poly_21c03e8f:
-
-    # anon f_happy "... But I could go for another one of those sports drinks, if you've got one?!"
-    anon f_happy "……不过你要是还有那种运动饮料，我倒想再来一瓶？！"
-
-# game/src/plot/ano15.rpy:1676
-translate zh_hans ano15_pantry_poly_40045f44:
-
-
-    # tony "That was quite a show ya just put on."
-    tony "你刚才那场表演可真够精彩。"
-
-# game/src/plot/ano15.rpy:1678
-translate zh_hans ano15_pantry_poly_c39fe215:
-
-
-    # maria "Kid, he's asking if he can join us next time..."
-    maria "小子，他是在问下次能不能跟咱们一起……"
-
-# game/src/plot/ano15.rpy:1680
-translate zh_hans ano15_pantry_poly_3551da02:
-
-
-    # anon e_ese p_lay "What, like... for the sex stuff?"
-    anon e_ese p_lay "什么，一起……干那些事？"
-
-# game/src/plot/ano15.rpy:1681
-translate zh_hans ano15_pantry_poly_aaa6e153:
-
-    # maria "Yeah."
-    maria "嗯。"
-
-# game/src/plot/ano15.rpy:1685
-translate zh_hans ano15_pantry_poly_40627d5d:
-
-    # anon e_nw f_pensive @ -m_talk "Hmm."
-    anon e_nw f_pensive @ -m_talk "嗯。"
-
-# game/src/plot/ano15.rpy:1690
-translate zh_hans ano15_pantry_poly_ec774f27:
-
-
-    # maria f_confused "You'd be open to that?"
-    maria f_confused "你能接受？"
-
-# game/src/plot/ano15.rpy:1692
-translate zh_hans ano15_pantry_poly_24c8424e:
-
-
-    # anon e_ese p_lay "I mean, this is all about you guys starting your family, so..."
-    anon e_ese p_lay "我是说，这一切本来就是为了让你们组建家庭，所以……"
-
-# game/src/plot/ano15.rpy:1693
-translate zh_hans ano15_pantry_poly_4b1fcaf3:
-
-    # anon "... If that's what you both want, I'm willing to give it try."
-    anon "……只要你俩都想，我愿意试试。"
-
-# game/src/plot/ano15.rpy:1698
-translate zh_hans ano15_pantry_poly_80df095b:
-
-    # anon "Heh, really... it's no problem."
-    anon "嘿，真的……我没问题。"
-
-# game/src/plot/ano15.rpy:1709
-translate zh_hans ano15_pantry_rails_f04652bd:
-
-    # anon a_hips f_happy @ -m_talk "( To paraphrase [saga.cast.tony]... )"
-    anon a_hips f_happy @ -m_talk "（借用[saga.cast.tony]的话来说……）"
-
-# game/src/plot/ano15.rpy:1729
-translate zh_hans ano15_reset_block_1187ba12:
-
-    # anon @ -m_talk "( ... And I'm sure [saga.cast.tony] and [saga.cast.maria] would appreciate some alone time too. )"
-    anon @ -m_talk "（……而且我想[saga.cast.tony]和[saga.cast.maria]也会想单独待会儿。）"
-
-# game/src/plot/ano15.rpy:1738
-translate zh_hans ano15_retry_1027dfd3:
-
-
-    # tony a_wtf "Well, yeah, champ... we gotta keep tryin'!"
-    tony a_wtf "那当然了，冠军……咱们得继续试啊！"
-
-# game/src/plot/ano15.rpy:1739
-translate zh_hans ano15_retry_099d1314:
-
-    # tony f_happy "Doc says [saga.cast.maria]'s primed for babies right now, so yous two should be havin' as much sex as possible."
-    tony f_happy "医生说[saga.cast.maria]现在正是容易怀的时候，所以你俩得尽可能多上床。"
-
-# game/src/plot/ano15.rpy:1742
-translate zh_hans ano15_retry_5fd4e625:
-
-    # anon f_shy "R-really... as much as possible?"
-    anon f_shy "真、真的……能做多少就做多少？"
-
-# game/src/plot/ano15.rpy:1747
-translate zh_hans ano15_retry_54630e23:
-
-
-    # tony f_horny @ e_b_w "You free tomorrow night, champ?"
-    tony f_horny @ e_b_w "明晚有空吗，冠军？"
-
-# game/src/plot/ano15.rpy:1749
-translate zh_hans ano15_retry_be40149e:
-
-
-    # tony f_horny @ e_b_w "You free [saga.time.dow + when] night, champ?"
-    tony f_horny @ e_b_w "你[saga.time.dow + when]晚上有空吗，冠军？"
-
-# game/src/plot/ano15.rpy:1751
-translate zh_hans ano15_retry_ccec7034:
-
-
-    # anon "Y-yeah... sure, [saga.cast.tony]."
-    anon "是、是啊……当然，[saga.cast.tony]。"
-
-# game/src/plot/ano15.rpy:1752
-translate zh_hans ano15_retry_bce8d511:
-
-    # tony "You'd better fuck her real nice, eh?"
-    tony "你可得好好肏她，懂吧？"
-
+# game/src/plot/ano15.rpy:1468
 translate zh_hans ano15_pantry_merge2_baed047f:
 
     # tony "No need to get all snippy."
     tony "别这么凶巴巴的。"
 
+# game/src/plot/ano15.rpy:1470
 translate zh_hans ano15_pantry_merge2_90f2e00b:
 
 
     # maria "Sorry, honey."
     maria "抱歉，亲爱的。"
 
+# game/src/plot/ano15.rpy:1471
+translate zh_hans ano15_pantry_merge2_1e3944a1:
+
+    # maria "I'm just fricken' exhausted."
+    maria "我只是累坏了。"
+
+# game/src/plot/ano15.rpy:1472
 translate zh_hans ano15_pantry_merge2_ad6671a4:
 
     # maria "I ain't never felt nothin' like that before."
     maria "我这辈子从没爽成这样。"
 
+# game/src/plot/ano15.rpy:1473
 translate zh_hans ano15_pantry_merge2_589882be:
 
     # tony "Heh, I know how to pick 'em, eh?"
     tony "嘿，我挑人有一套吧？"
 
+# game/src/plot/ano15.rpy:1475
 translate zh_hans ano15_pantry_merge2_b980077a:
 
 
     # maria "Mmhmm."
     maria "嗯哼。"
 
+# game/src/plot/ano15.rpy:1477
+translate zh_hans ano15_pantry_merge2_70a0f8c8:
+
+
+    # tony "That's fine, darlin'."
+    tony "没关系，亲爱的。"
+
+# game/src/plot/ano15.rpy:1478
+translate zh_hans ano15_pantry_merge2_2e68ee62:
+
+    # tony "Ya just rest."
+    tony "你就歇着吧。"
+
+# game/src/plot/ano15.rpy:1485
 translate zh_hans ano15_pantry_merge3_81402a65:
 
 
     # tony "Ahh, look at this guy!"
     tony "啊哈，瞧瞧这小子！"
 
+# game/src/plot/ano15.rpy:1489
+translate zh_hans ano15_pantry_merge3_30d681ce:
+
+
+    # tony "Ya went above and beyond in there, didn't ya, champ?!"
+    tony "你在里面可真是超额完成任务啊，冠军？！"
+
+# game/src/plot/ano15.rpy:1490
+translate zh_hans ano15_pantry_merge3_c35871f2:
+
+    # anon "Hehe!"
+    anon "嘿嘿！"
+
+# game/src/plot/ano15.rpy:1494
 translate zh_hans ano15_pantry_merge3_1bce4c36:
 
 
     # tony "Ya got her pregnant for sure, I can feel it!"
     tony "你肯定让她怀上了，我能感觉到！"
 
+# game/src/plot/ano15.rpy:1495
+translate zh_hans ano15_pantry_merge3_d2f0c49b:
+
+    # anon a_rub c_casual e_w f_tired -m_teeth "Y-yeah, I hope so."
+    anon a_rub c_casual e_w f_tired -m_teeth "是、是啊，希望吧。"
+
+# game/src/plot/ano15.rpy:1496
 translate zh_hans ano15_pantry_merge3_6485d1d5:
 
     # tony f_confused "What's the matter?"
     tony f_confused "怎么了？"
 
+# game/src/plot/ano15.rpy:1497
 translate zh_hans ano15_pantry_merge3_a1f0b75a:
 
     # anon @ -m_talk "Hmm?"
     anon @ -m_talk "嗯？"
 
+# game/src/plot/ano15.rpy:1499
 translate zh_hans ano15_pantry_merge3_3213f56a:
 
 
     # anon a_side f_shy "Oh, nothing... I'm just tired is all."
     anon a_side f_shy "哦，没什么……只是有点累了。"
 
+# game/src/plot/ano15.rpy:1500
+translate zh_hans ano15_pantry_merge3_9a8155f3:
+
+    # tony a_belly @ e_b m_laugh "Hah!"
+    tony a_belly @ e_b m_laugh "哈！"
+
+# game/src/plot/ano15.rpy:1501
 translate zh_hans ano15_pantry_merge3_d581ec19:
 
     # tony "I bet!"
     tony "那还用说！"
 
+# game/src/plot/ano15.rpy:1502
 translate zh_hans ano15_pantry_merge3_eb8d529d:
 
     # tony a_point_back "C'mon, I'll fix us a couple sandwiches and ya can refuel."
     tony a_point_back "来，我弄几个三明治，给你好好补补。"
 
+# game/src/plot/ano15.rpy:1503
 translate zh_hans ano15_pantry_merge3_ea692633:
 
     # anon f_surprised "Really?"
     anon f_surprised "真的吗？"
 
+# game/src/plot/ano15.rpy:1504
 translate zh_hans ano15_pantry_merge3_d6aaae59:
 
     # tony a_hips "Ya betcha!"
     tony a_hips "那当然！"
 
+# game/src/plot/ano15.rpy:1508
 translate zh_hans ano15_pantry_merge3_09c64039:
 
 
     # tony "I think I got some salami and capicola in the fridge."
     tony "我记得冰箱里还有些萨拉米和capicola（卡皮科拉火腿）。"
 
+# game/src/plot/ano15.rpy:1509
+translate zh_hans ano15_pantry_merge3_b512bc19:
+
+    # tony a_fists_up f_confused "You like capicola?"
+    tony a_fists_up f_confused "你喜欢capicola（卡皮科拉火腿）吗？"
+
+# game/src/plot/ano15.rpy:1510
 translate zh_hans ano15_pantry_merge3_23521e05:
 
     # anon "I don't think I've ever had it."
     anon "我好像从没吃过。"
 
+# game/src/plot/ano15.rpy:1511
 translate zh_hans ano15_pantry_merge3_e3b010a1:
 
     # tony a_wtf f_happy "Oh, it's fuckin' delicious!"
     tony a_wtf f_happy "哦，真他妈好吃！"
 
+# game/src/plot/ano15.rpy:1513
 translate zh_hans ano15_pantry_merge3_a3c60376:
 
 
     # tony "You're gonna love it, champ!"
     tony "你肯定会喜欢的，冠军！"
 
+# game/src/plot/ano15.rpy:1520
+translate zh_hans ano15_pantry_merge3_e137577b:
+
+
+    # tony "Follow me!"
+    tony "跟我来！"
+
+# game/src/plot/ano15.rpy:1523
+translate zh_hans ano15_pantry_merge3_c6e322d8:
+
+
+    # anon "Alright."
+    anon "好的。"
+
+# game/src/plot/ano15.rpy:1528
+translate zh_hans ano15_pantry_reuse_244739f4:
+
+
+    # mono ""
+    mono ""
+
+# game/src/plot/ano15.rpy:1534
+translate zh_hans ano15_pantry_reuse_8cab90b4:
+
+
+    # anon @ -m_talk "( Phew, what a night. )"
+    anon @ -m_talk "（呼，真是疯狂的一晚。）"
+
+# game/src/plot/ano15.rpy:1537
+translate zh_hans ano15_pantry_reuse_155101ce:
+
+
+    # anon @ -m_talk "( I can't believe I just had sex with [saga.cast.maria]! )"
+    anon @ -m_talk "（我真不敢相信刚才真和[saga.cast.maria]上床了！）"
+
+# game/src/plot/ano15.rpy:1542
+translate zh_hans ano15_pantry_reuse_248c25d9:
+
+
+    # anon a_pocket e_w f_surprised -m_yawn @ -m_talk "( With [saga.cast.tony] watching no less! )"
+    anon a_pocket e_w f_surprised -m_yawn @ -m_talk "（而且[saga.cast.tony]还全程在旁边看！）"
+
+# game/src/plot/ano15.rpy:1543
+translate zh_hans ano15_pantry_reuse_1259be0d:
+
+    # anon e_b f_happy m_teeth @ -m_talk "( He sure was excited! )"
+    anon e_b f_happy m_teeth @ -m_talk "（他可真够兴奋的！）"
+
+# game/src/plot/ano15.rpy:1546
 translate zh_hans ano15_pantry_reuse_a6a4c93a:
 
 
     # anon a_pocket e_w f_horny -m_yawn @ -m_talk "( She's so sexy! )"
     anon a_pocket e_w f_horny -m_yawn @ -m_talk "（她太性感了！）"
 
+# game/src/plot/ano15.rpy:1547
+translate zh_hans ano15_pantry_reuse_b7a8308c:
+
+    # anon e_b f_happy m_teeth @ -m_talk "( I hope we get to do that again! )"
+    anon e_b f_happy m_teeth @ -m_talk "（真希望还能再来一次！）"
+
+# game/src/plot/ano15.rpy:1549
 translate zh_hans ano15_pantry_reuse_d442f96b:
 
 
     # anon a_think e_nw f_pensive -m_teeth @ -m_talk "( If I got her pregnant, [saga.cast.tony] promised to give me the address for the Russians' hideout. )"
     anon a_think e_nw f_pensive -m_teeth @ -m_talk "（如果我把她搞怀孕了，[saga.cast.tony]答应给我俄国人藏身处的地址。）"
 
+# game/src/plot/ano15.rpy:1550
+translate zh_hans ano15_pantry_reuse_c50a511c:
+
+    # anon @ -m_talk "( Maybe I'll finally get to the bottom of what happened to Dad? )"
+    anon @ -m_talk "（也许我终于能查清爸爸出了什么事。）"
+
+# game/src/plot/ano15.rpy:1553
 translate zh_hans ano15_pantry_reuse_906a37bb:
 
 
     # anon f_happy_surprised @ -m_talk "( I can't believe I just had a threesome with [saga.cast.tony] and [saga.cast.maria]! )"
     anon f_happy_surprised @ -m_talk "（我真不敢相信我刚和[saga.cast.tony]还有[saga.cast.maria]来了个三人行！）"
 
+# game/src/plot/ano15.rpy:1554
+translate zh_hans ano15_pantry_reuse_06a807eb:
+
+    # anon f_surprised @ -m_talk "( [saga.cast.maria] really seemed to enjoy it too, even though it was her first time! )"
+    anon f_surprised @ -m_talk "（[saga.cast.maria]看起来也很享受，虽然这是她第一次跟别的男人上床！）"
+
+# game/src/plot/ano15.rpy:1555
 translate zh_hans ano15_pantry_reuse_e619b6bb:
 
     # anon e_b f_happy m_teeth @ -m_talk "( I guess that olive oil was really effective! )"
     anon e_b f_happy m_teeth @ -m_talk "（看来那橄榄油还真管用！）"
 
+# game/src/plot/ano15.rpy:1559
 translate zh_hans ano15_pantry_reuse_4daa889b:
 
 
     # anon a_pocket e_w f_tired_happy -m_yawn @ -m_talk "( Man, it's really late... )"
     anon a_pocket e_w f_tired_happy -m_yawn @ -m_talk "（天啊，已经这么晚了……）"
 
+# game/src/plot/ano15.rpy:1560
+translate zh_hans ano15_pantry_reuse_62fc220c:
+
+    # anon @ -m_talk "( I'm gonna have good dreams tonight, that's for sure! )"
+    anon @ -m_talk "（今晚肯定能做个好梦！）"
+
+# game/src/plot/ano15.rpy:1567
 translate zh_hans ano15_pantry_ogle1_cc751c8f:
 
 
     # anon f_calm "I couldn't force you out of the room during the conception of your child, [saga.cast.tony]..."
     anon f_calm "[saga.cast.tony]，我总不能在你们造孩子的时候把你赶出房间……"
 
+# game/src/plot/ano15.rpy:1569
+translate zh_hans ano15_pantry_ogle1_0e021c04:
+
+
+    # tony f_calm "Thank you, champ!"
+    tony f_calm "谢谢你，冠军！"
+
+# game/src/plot/ano15.rpy:1570
+translate zh_hans ano15_pantry_ogle1_8d78b1ef:
+
+    # tony a_heart f_happy "You don't know how much this means to me!"
+    tony a_heart f_happy "你不知道这对我有多重要！"
+
+# game/src/plot/ano15.rpy:1572
 translate zh_hans ano15_pantry_ogle1_e03c450d:
 
 
     # maria "Just don't go making things more awkward than they already are, eh?"
     maria "别把事情弄得更尴尬了，嗯？"
 
+# game/src/plot/ano15.rpy:1574
+translate zh_hans ano15_pantry_ogle1_900b2c28:
+
+
+    # tony a_belly @ e_b m_laugh "Hah, awkward shmawkward!"
+    tony a_belly @ e_b m_laugh "哈，尴尬个什么劲儿！"
+
+# game/src/plot/ano15.rpy:1575
+translate zh_hans ano15_pantry_ogle1_2b352e05:
+
+    # tony f_horny "We're havin' a baby here, you two!"
+    tony f_horny "你们俩，咱们可是在造孩子！"
+
+# game/src/plot/ano15.rpy:1576
 translate zh_hans ano15_pantry_ogle1_ed4e5818:
 
     # tony a_wtf "Let's get excited, eh?!"
     tony a_wtf "都兴奋起来，怎么样？！"
 
+# game/src/plot/ano15.rpy:1580
 translate zh_hans ano15_pantry_ogle1_cd6fda9f:
 
 
     # tony a_hips "You ready to go balls deep in my wife, champ?"
     tony a_hips "准备好在我老婆里面一插到底了吗，冠军？"
 
+# game/src/plot/ano15.rpy:1581
+translate zh_hans ano15_pantry_ogle1_f71405d4:
+
+    # anon a_salute "Y-yes, sir."
+    anon a_salute "是、是的，先生。"
+
+# game/src/plot/ano15.rpy:1583
 translate zh_hans ano15_pantry_ogle1_f976aed5:
 
 
     # tony f_calm "Heh, I can tell she's ready too!"
     tony f_calm "嘿，我看她也准备好了！"
 
+# game/src/plot/ano15.rpy:1585
+translate zh_hans ano15_pantry_ogle1_7835541d:
+
+
+    # maria @ -m_talk "..."
+    maria @ -m_talk "……"
+
+# game/src/plot/ano15.rpy:1586
+translate zh_hans ano15_pantry_ogle1_4e114c3d:
+
+    # tony "'Ey, [saga.cast.maria]!"
+    tony "嘿，[saga.cast.maria]！"
+
+# game/src/plot/ano15.rpy:1587
 translate zh_hans ano15_pantry_ogle1_b2e46f96:
 
     # maria e_w f_surprised p_clasp -m_lip @ -m_talk "Hmm?!"
     maria e_w f_surprised p_clasp -m_lip @ -m_talk "嗯？！"
 
+# game/src/plot/ano15.rpy:1589
 translate zh_hans ano15_pantry_ogle1_a4a238be:
 
 
     # tony "You think you can stop oglin' the kid's package for a second and get in position for him to use it?"
     tony "你能不能先别盯着这小子的家伙看，摆好姿势让他用？"
 
+# game/src/plot/ano15.rpy:1591
+translate zh_hans ano15_pantry_ogle1_4bd6e345:
+
+
+    # maria e_s "I wasn't-"
+    maria e_s "我刚才没——"
+
+# game/src/plot/ano15.rpy:1592
+translate zh_hans ano15_pantry_ogle1_c6d9ff81:
+
+    # tony "Hah, it's alright..."
+    tony "哈，没事的……"
+
+# game/src/plot/ano15.rpy:1594
 translate zh_hans ano15_pantry_ogle1_0fd5dc8f:
 
 
     # tony e_sw "I can't blame you."
     tony e_sw "这也不能怪你。"
 
+# game/src/plot/ano15.rpy:1596
+translate zh_hans ano15_pantry_ogle1_4b3effab:
+
+
+    # tony "It's like a fuckin' baseball bat!"
+    tony "跟他妈一根棒球棍似的！"
+
+# game/src/plot/ano15.rpy:1602
+translate zh_hans ano15_pantry_ogle2_9fe0c676:
+
+
+    # tony "Oh, yeah?"
+    tony "哦，是吗？"
+
+# game/src/plot/ano15.rpy:1603
+translate zh_hans ano15_pantry_ogle2_d28bad0a:
+
+    # maria e_wnw f_sceptical "Phew... Sorry, [saga.cast.tony]... I didn't mean-"
+    maria e_wnw f_sceptical "呼……对不起，[saga.cast.tony]……我不是想——"
+
+# game/src/plot/ano15.rpy:1608
 translate zh_hans ano15_pantry_ogle2_43b7128b:
 
 
     # maria f_surprised @ -m_talk "!!!"
     maria f_surprised @ -m_talk "！！！"
 
+# game/src/plot/ano15.rpy:1609
+translate zh_hans ano15_pantry_ogle2_ce3569c8:
+
+    # maria "[saga.cast.tony], what the fuck are ya doin'?!"
+    maria "[saga.cast.tony]，你他妈在干什么？！"
+
+# game/src/plot/ano15.rpy:1614
 translate zh_hans ano15_pantry_ogle2_8cb4c6b8:
 
 
     # tony @ -m_talk "Hmm?"
     tony @ -m_talk "嗯？"
 
+# game/src/plot/ano15.rpy:1615
+translate zh_hans ano15_pantry_ogle2_29278049:
+
+    # tony a_dick_wide "What?!"
+    tony a_dick_wide "什么？！"
+
+# game/src/plot/ano15.rpy:1622
 translate zh_hans ano15_pantry_ogle2_f0be74d0:
 
 
     # maria "Are you jerkin' off?!"
     maria "你在打飞机吗？！"
 
+# game/src/plot/ano15.rpy:1623
+translate zh_hans ano15_pantry_ogle2_aa41649a:
+
+    # tony "C'mon, darlin'... we're makin' magic here!"
+    tony "来吧，亲爱的……咱们这可是在创造奇迹！"
+
+# game/src/plot/ano15.rpy:1625
 translate zh_hans ano15_pantry_ogle2_12ed3f60:
 
 
     # maria f_annoyed "[saga.cast.tony]..."
     maria f_annoyed "[saga.cast.tony]……"
 
+# game/src/plot/ano15.rpy:1626
+translate zh_hans ano15_pantry_ogle2_767658ae:
+
+    # tony "I just wanna feel involved."
+    tony "我只是想参与一下。"
+
+# game/src/plot/ano15.rpy:1628
 translate zh_hans ano15_pantry_ogle2_409c7378:
 
 
     # maria "... You're gonna freak the kid out!"
     maria "……你会把这小子吓坏的！"
 
+# game/src/plot/ano15.rpy:1630
+translate zh_hans ano15_pantry_ogle2_5810c796:
+
+
+    # tony "Aww, it ain't botherin' him none. Is it, champ?!"
+    tony "哎呀，这又没妨碍到他。对吧，冠军？！"
+
+# game/src/plot/ano15.rpy:1640
+translate zh_hans ano15_pantry_ogle2_a5262ffb:
+
+
+    # anon f_worried "... Actually, [saga.cast.tony]..."
+    anon f_worried "……其实，[saga.cast.tony]……"
+
+# game/src/plot/ano15.rpy:1641
+translate zh_hans ano15_pantry_ogle2_be32cea2:
+
+    # anon "... It's a bit much."
+    anon "……有点太过了。"
+
+# game/src/plot/ano15.rpy:1642
 translate zh_hans ano15_pantry_ogle2_73bce778:
 
     # tony "Oh?"
     tony "哦？"
 
+# game/src/plot/ano15.rpy:1643
 translate zh_hans ano15_pantry_ogle2_246caae2:
 
     # maria e_wnw f_annoyed "See, I told ya!"
     maria e_wnw f_annoyed "瞧，我早告诉过你吧！"
 
+# game/src/plot/ano15.rpy:1644
 translate zh_hans ano15_pantry_ogle2_4b87a1b2:
 
     # maria "Put that thing away!"
     maria "把那东西收起来！"
 
+# game/src/plot/ano15.rpy:1645
 translate zh_hans ano15_pantry_ogle2_2d93ff92:
 
     # tony "Alright, alright... I'm sorry!"
     tony "好好好……对不起！"
 
+# game/src/plot/ano15.rpy:1650
 translate zh_hans ano15_pantry_poly_a2bfeacc:
 
 
     # anon f_shy "It's fine."
     anon f_shy "没事。"
 
+# game/src/plot/ano15.rpy:1652
+translate zh_hans ano15_pantry_poly_f1c61136:
+
+
+    # tony "See, I told ya!"
+    tony "看，我跟你说过吧！"
+
+# game/src/plot/ano15.rpy:1654
+translate zh_hans ano15_pantry_poly_054ed58e:
+
+
+    # maria p_lay "Wow, it really don't bother ya, [saga.cast.anon]?"
+    maria p_lay "哇，这样真不影响你啊，[saga.cast.anon]？"
+
+# game/src/plot/ano15.rpy:1655
+translate zh_hans ano15_pantry_poly_38639342:
+
+    # anon "Not at all."
+    anon "完全不影响。"
+
+# game/src/plot/ano15.rpy:1660
 translate zh_hans ano15_pantry_poly_854ca2e6:
 
 
     # tony "Heh, nothin' phases this kid. I fuckin' love it!"
     tony "嘿，没什么能吓到这小子。我他妈太喜欢了！"
 
+# game/src/plot/ano15.rpy:1661
+translate zh_hans ano15_pantry_poly_bd8a8a57:
+
+    # tony "I betcha he'd even be open to a little sandwich action. Eh, champ?"
+    tony "我敢说，他连三明治玩法都肯试试。对吧，冠军？"
+
+# game/src/plot/ano15.rpy:1663
 translate zh_hans ano15_pantry_poly_0751198d:
 
 
     # anon "Sandwich action?"
     anon "三明治玩法？"
 
+# game/src/plot/ano15.rpy:1664
+translate zh_hans ano15_pantry_poly_1597ead1:
+
+    # tony "Yeah, you know..."
+    tony "就是……你知道的……"
+
+# game/src/plot/ano15.rpy:1665
 translate zh_hans ano15_pantry_poly_01f34482:
 
     # tony "... You're a piece of a white bread, I'm a piece of white bread, and [saga.cast.maria]'s the salami."
     tony "……你是一片白面包，我是一片白面包，[saga.cast.maria]就是中间那片萨拉米。"
 
+# game/src/plot/ano15.rpy:1666
 translate zh_hans ano15_pantry_poly_b08e73fa:
 
     # tony "Bada bing, bada boom!"
     tony "就这么一夹，搞定！"
 
+# game/src/plot/ano15.rpy:1672
 translate zh_hans ano15_pantry_poly_63c826fb:
 
 
     # anon "Oh, ehh... I'm not really hungry right now, [saga.cast.tony]..."
     anon "哦，呃……我现在还不太饿，[saga.cast.tony]……"
 
+# game/src/plot/ano15.rpy:1673
+translate zh_hans ano15_pantry_poly_21c03e8f:
+
+    # anon f_happy "... But I could go for another one of those sports drinks, if you've got one?!"
+    anon f_happy "……不过你要是还有那种运动饮料，我倒想再来一瓶？！"
+
+# game/src/plot/ano15.rpy:1675
 translate zh_hans ano15_pantry_poly_805fbac0:
 
 
     # tony "{i}*Snort*{/i} Ya, I bet you could!"
     tony "{i}*噗嗤*{/i} 哈，我看你肯定吃得下！"
 
+# game/src/plot/ano15.rpy:1677
+translate zh_hans ano15_pantry_poly_40045f44:
+
+
+    # tony "That was quite a show ya just put on."
+    tony "你刚才那场表演可真够精彩。"
+
+# game/src/plot/ano15.rpy:1679
+translate zh_hans ano15_pantry_poly_c39fe215:
+
+
+    # maria "Kid, he's asking if he can join us next time..."
+    maria "小子，他是在问下次能不能跟咱们一起……"
+
+# game/src/plot/ano15.rpy:1681
+translate zh_hans ano15_pantry_poly_3551da02:
+
+
+    # anon e_ese p_lay "What, like... for the sex stuff?"
+    anon e_ese p_lay "什么，一起……干那些事？"
+
+# game/src/plot/ano15.rpy:1682
+translate zh_hans ano15_pantry_poly_aaa6e153:
+
+    # maria "Yeah."
+    maria "嗯。"
+
+# game/src/plot/ano15.rpy:1685
 translate zh_hans ano15_pantry_poly_da322a6c:
 
 
     # tony "It's called a devil's three-way, champ."
     tony "这叫恶魔三人行，冠军。"
 
+# game/src/plot/ano15.rpy:1686
+translate zh_hans ano15_pantry_poly_40627d5d:
+
+    # anon e_nw f_pensive @ -m_talk "Hmm."
+    anon e_nw f_pensive @ -m_talk "嗯。"
+
+# game/src/plot/ano15.rpy:1689
 translate zh_hans ano15_pantry_poly_6d81790c:
 
 
     # anon e_ese f_shy "Err, umm... s-sure, I guess!"
     anon e_ese f_shy "呃，嗯……那、那好吧，我想可以！"
 
+# game/src/plot/ano15.rpy:1691
+translate zh_hans ano15_pantry_poly_ec774f27:
+
+
+    # maria f_confused "You'd be open to that?"
+    maria f_confused "你能接受？"
+
+# game/src/plot/ano15.rpy:1693
+translate zh_hans ano15_pantry_poly_24c8424e:
+
+
+    # anon e_ese p_lay "I mean, this is all about you guys starting your family, so..."
+    anon e_ese p_lay "我是说，这一切本来就是为了让你们组建家庭，所以……"
+
+# game/src/plot/ano15.rpy:1694
+translate zh_hans ano15_pantry_poly_4b1fcaf3:
+
+    # anon "... If that's what you both want, I'm willing to give it try."
+    anon "……只要你俩都想，我愿意试试。"
+
+# game/src/plot/ano15.rpy:1698
 translate zh_hans ano15_pantry_poly_24880018:
 
 
     # maria e_b f_calm p_hug "Oh, you have no idea how special you're makin' this for us, [saga.cast.anon]!"
     maria e_b f_calm p_hug "哦，你根本不知道，你为我们做的这一切有多特别，[saga.cast.anon]！"
 
+# game/src/plot/ano15.rpy:1699
+translate zh_hans ano15_pantry_poly_80df095b:
+
+    # anon "Heh, really... it's no problem."
+    anon "嘿，真的……我没问题。"
+
+# game/src/plot/ano15.rpy:1700
 translate zh_hans ano15_pantry_poly_1c7bc612:
 
     # maria e_wnw f_happy "Can you believe this kid, [saga.cast.tony]?!"
     maria e_wnw f_happy "[saga.cast.tony]，你敢信这小子吗？！"
 
+# game/src/plot/ano15.rpy:1701
 translate zh_hans ano15_pantry_poly_1e1824df:
 
     # tony "I told ya he was a keeper, didn't I?"
     tony "我早说过这小子值得留住，对吧？"
 
+# game/src/plot/ano15.rpy:1709
 translate zh_hans ano15_pantry_rails_75be5026:
 
 
     # anon e_w -m_drink @ -m_talk "( It's time, no sense beating around the bush. )"
     anon e_w -m_drink @ -m_talk "（该办正事了，没必要再磨蹭。）"
 
+# game/src/plot/ano15.rpy:1710
+translate zh_hans ano15_pantry_rails_f04652bd:
+
+    # anon a_hips f_happy @ -m_talk "( To paraphrase [saga.cast.tony]... )"
+    anon a_hips f_happy @ -m_talk "（借用[saga.cast.tony]的话来说……）"
+
+# game/src/plot/ano15.rpy:1711
 translate zh_hans ano15_pantry_rails_b81b9111:
 
     # anon e_b m_teeth @ -m_talk "( ... We hydrate, then we gyrate! )"
     anon e_b m_teeth @ -m_talk "（……先补水，再扭胯！）"
 
+# game/src/plot/ano15.rpy:1729
 translate zh_hans ano15_reset_block_48edbd17:
 
 
     # anon @ -m_talk "( That's enough for one night... )"
     anon @ -m_talk "（今晚够了……）"
 
+# game/src/plot/ano15.rpy:1730
+translate zh_hans ano15_reset_block_1187ba12:
+
+    # anon @ -m_talk "( ... And I'm sure [saga.cast.tony] and [saga.cast.maria] would appreciate some alone time too. )"
+    anon @ -m_talk "（……而且我想[saga.cast.tony]和[saga.cast.maria]也会想单独待会儿。）"
+
+# game/src/plot/ano15.rpy:1737
 translate zh_hans ano15_retry_5493a22e:
 
 
     # anon f_curious "So you probably wanna keep trying for a baby, huh?"
     anon f_curious "所以，你大概还想继续试着要孩子，对吧？"
 
+# game/src/plot/ano15.rpy:1739
+translate zh_hans ano15_retry_1027dfd3:
+
+
+    # tony a_wtf "Well, yeah, champ... we gotta keep tryin'!"
+    tony a_wtf "那当然了，冠军……咱们得继续试啊！"
+
+# game/src/plot/ano15.rpy:1740
+translate zh_hans ano15_retry_099d1314:
+
+    # tony f_happy "Doc says [saga.cast.maria]'s primed for babies right now, so yous two should be havin' as much sex as possible."
+    tony f_happy "医生说[saga.cast.maria]现在正是容易怀的时候，所以你俩得尽可能多上床。"
+
+# game/src/plot/ano15.rpy:1742
 translate zh_hans ano15_retry_85e0ccf2:
 
 
     # anon f_happy_surprised @ -m_talk "{i}*Gulp*{/i}"
     anon f_happy_surprised @ -m_talk "{i}*咽口水*{/i}"
 
+# game/src/plot/ano15.rpy:1743
+translate zh_hans ano15_retry_5fd4e625:
+
+    # anon f_shy "R-really... as much as possible?"
+    anon f_shy "真、真的……能做多少就做多少？"
+
+# game/src/plot/ano15.rpy:1746
 translate zh_hans ano15_retry_2994b202:
 
 
     # tony f_horny @ e_b_w "You free later tonight, champ?"
     tony f_horny @ e_b_w "你今晚晚些时候有空吗，冠军？"
 
+# game/src/plot/ano15.rpy:1748
+translate zh_hans ano15_retry_54630e23:
+
+
+    # tony f_horny @ e_b_w "You free tomorrow night, champ?"
+    tony f_horny @ e_b_w "明晚有空吗，冠军？"
+
+# game/src/plot/ano15.rpy:1750
+translate zh_hans ano15_retry_be40149e:
+
+
+    # tony f_horny @ e_b_w "You free [saga.time.dow + when] night, champ?"
+    tony f_horny @ e_b_w "你[saga.time.dow + when]晚上有空吗，冠军？"
+
+# game/src/plot/ano15.rpy:1752
+translate zh_hans ano15_retry_ccec7034:
+
+
+    # anon "Y-yeah... sure, [saga.cast.tony]."
+    anon "是、是啊……当然，[saga.cast.tony]。"
+
+# game/src/plot/ano15.rpy:1753
+translate zh_hans ano15_retry_bce8d511:
+
+    # tony "You'd better fuck her real nice, eh?"
+    tony "你可得好好肏她，懂吧？"
+
+# game/src/plot/ano15.rpy:1754
 translate zh_hans ano15_retry_d63e9434:
 
     # tony a_point "I'm countin' on ya."
     tony a_point "我可指望你了。"
 
+# game/src/plot/ano15.rpy:1755
 translate zh_hans ano15_retry_647c0372:
 
     # anon a_salute "Will do, boss!"
     anon a_salute "交给我吧，老板！"
 
+# game/src/plot/ano15.rpy:1756
 translate zh_hans ano15_retry_f5f1c5b8:
 
     # tony a_hips "Attaboy, champ."

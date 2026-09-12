@@ -712,10 +712,10 @@ translate zh_hans strings:
     new "晚上进入大厅。"
     # game/res/meta/step.rpym:554
     old "Speak to [saga.cast.debbie] in the lounge."
-    new "在休息室与[saga.cast.debbie]交谈。"
+    new "在客厅与[saga.cast.debbie]交谈。"
     # game/res/meta/step.rpym:555
     old "[saga.cast.debbie] is waiting for me in the lounge."
-    new "[saga.cast.debbie]正在休息室等我。"
+    new "[saga.cast.debbie]正在客厅等我。"
     # game/res/meta/step.rpym:561
     old "It's really cool how [saga.cast.debbie] isn't making me feel embarrassed about all this."
     new "[saga.cast.debbie]没有让我为这些事感到难堪，真是太酷了。"
@@ -772,13 +772,13 @@ translate zh_hans strings:
     new "我想知道她今天下午在做什么？"
     # game/res/meta/step.rpym:611
     old "Enter the lounge in the afternoon [saga.lang.wait(f)!t]."
-    new "下午进入休息室[saga.lang.wait(f)!t]。"
+    new "下午进入客厅[saga.lang.wait(f)!t]。"
     # game/res/meta/step.rpym:612
     old "Does [saga.cast.debbie] really need to do laundry every day?"
     new "[saga.cast.debbie]真的需要每天洗衣服吗？"
     # game/res/meta/step.rpym:614
     old "Enter the lounge in the afternoon."
-    new "下午进入休息室。"
+    new "下午进入客厅。"
     # game/res/meta/step.rpym:617
     old "Enter her bedroom."
     new "进入她的卧室。"

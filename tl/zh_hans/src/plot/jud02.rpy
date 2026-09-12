@@ -526,11 +526,10 @@ translate zh_hans jud02_stall_merge2_147d3902:
     anon "想！我当然想……"
 
 # game/src/plot/jud02.rpy:177
-translate zh_hans jud02_stall_merge2_1b72a0ac:
+translate zh_hans jud02_stall_merge2_7eafd27e:
 
-
-    # anon d_hard e_w @ -m_talk "..."
-    anon d_hard e_w @ -m_talk "……"
+    # anon d_hard_out e_w @ -m_talk "..."
+    anon d_hard_out e_w @ -m_talk "……"
 
 # game/src/plot/jud02.rpy:179
 translate zh_hans jud02_stall_merge2_4a29180e:
@@ -797,11 +796,6 @@ translate zh_hans jud02_reset_block_7d4a1b77:
 
     # anon @ -m_talk "( ... I should give her some time to herself for now. )"
     anon @ -m_talk "（……现在先让她一个人静一静吧。）"
-
-translate zh_hans jud02_stall_merge2_7eafd27e:
-
-    # anon d_hard_out e_w @ -m_talk "..."
-    anon d_hard_out e_w @ -m_talk "……"
 
 translate zh_hans strings:
 

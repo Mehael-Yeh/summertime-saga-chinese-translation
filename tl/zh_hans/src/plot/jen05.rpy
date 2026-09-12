@@ -385,12 +385,11 @@ translate zh_hans jen05_jenny_f79c204b:
     # anon "Huh?"
     anon "嗯？"
 
-# game/src/plot/jen05.rpy:105
-translate zh_hans jen05_jenny_b5f0faa5:
+# game/src/plot/jen05.rpy:104
+translate zh_hans jen05_jenny_d45098b5:
 
-
-    # anon "Where are we-"
-    anon "我们这是要——"
+    # anon e_ene f_surprised p_jenny_table_drag "Where are we-"
+    anon e_ene f_surprised p_jenny_table_drag "我们这是要——"
 
 # game/src/plot/jen05.rpy:108
 translate zh_hans jen05_jenny_2fd7b895:
@@ -888,11 +887,6 @@ translate zh_hans jen05_jenny_photo4_4d67f61c:
 
     # anon a_think e_nw f_pensive @ -m_talk "( I wonder if I can get a copy of those photos somehow? )"
     anon a_think e_nw f_pensive @ -m_talk "（不知道能不能想办法把那些照片弄到手？）"
-
-translate zh_hans jen05_jenny_d45098b5:
-
-    # anon e_ene f_surprised p_jenny_table_drag "Where are we-"
-    anon e_ene f_surprised p_jenny_table_drag "我们这是要——"
 
 translate zh_hans strings:
 
