@@ -304,3 +304,14 @@ tin_dusk的Cool.与Cool, cool, cool.是确认约定后的回应与紧张重复�
 - mel06的highfalutin／high flutin'分别涉及校长“唱高调”和主角吹长笛，后半不能译成“装腔作势”。后续吸尽学生才华的双关按中文语序连读，保留“才华”延后揭示，不添加行为细节。
 
 本轮定译纳入sentence_patterns.json。具体ID限定只适用于该语境，不要求同英文的其他独立台词照搬。
+
+## 2026-09-12 露骨对白语义与同源句补充
+
+- bar06_office3_reuse_c1fe43f7：Give it to me发生在过程催促中，后续才谈不适和是否停下；改为催促继续，不提前写成射精请求。deb_tv_boobjob4_119f0064的射精位置留给后续明确的Let it out all over me，不提前添加。
+- mel06_kevin_merge1_a65d97f3：take it all由Anon对Melody说，改正“全都给我”的方向错误。mel06_office4_a2237138恢复cum的高潮含义，删除误译的“塞满”。
+- mar_couch_merge2_217e4446及其后续位置句：整组“你应该……／……射在……／……我里面。”；不因单句英文To cum就把后半位置重复补入。
+- tin_vault两个641883c0结尾的块是Tina正在高潮，统一“我高潮了！！”；tin02的cum不凭词面写成“喷射”。这不构成所有角色、所有cum的全局替换规则。
+- ano15两处Just go slow at first, eh?统一“一开始慢点来，嗯？”；mar_dark的Fuck her good, champ.与ano15同源场景统一“好好肏她，冠军。”。按用户纠正，Tina场景的pound保留原译“肏烂我的骚屄”的粗野催促，tin_dusk与tin_vault对应句同步恢复；不能仅按词典字面强弱把符合角色的夸张脏话改淡。
+- lampredotto沿用原文意大利食品名；mar_couch下文已有三明治解释，不杜撰“灯笼牛肚”。
+
+新增51条具体语境回归，sentence_patterns.json累计545条。仍按文件、源句及必要时的ID限定适用范围。

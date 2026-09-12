@@ -166,7 +166,7 @@ translate zh_hans tor_office_aa8c79a0:
 translate zh_hans tor_office_1b0d957e:
 
     # tori "You can go deeper if you want..."
-    tori "你可以再深入一点，如果你想的话……"
+    tori "你要是想的话，可以再插深一点……"
 
 # game/src/plot/tor_office.rpy:92
 translate zh_hans tor_office_27756e4b:
@@ -202,7 +202,7 @@ translate zh_hans tor_office_dbf0b8d3:
 translate zh_hans tor_office_317b542c:
 
     # anon "Y-yeah, just don't stop-"
-    anon "是——是啊，别停下——"
+    anon "是、是啊，别停——"
 
 # game/src/plot/tor_office.rpy:98
 translate zh_hans tor_office_f58a3b4f:
@@ -304,19 +304,19 @@ translate zh_hans tor_office_area_b7fb4869:
 translate zh_hans tor_office_area_6e4e7019:
 
     # tori "... Your throbbing cock driving into me, over and over and over!"
-    tori "……你勃起的鸡巴一遍又一遍地插入我！"
+    tori "……你跳动着的鸡巴一遍又一遍地插进我！"
 
 # game/src/plot/tor_office.rpy:148
 translate zh_hans tor_office_area_2d051df7:
 
     # anon f_worried "Okay, never-"
-    anon f_worried "好吧，从没——"
+    anon f_worried "好吧，算——"
 
 # game/src/plot/tor_office.rpy:151
 translate zh_hans tor_office_area_5359384b:
 
     # tori "Ngh, give it to me [saga.cast.anon]!!"
-    tori "唔，给我吧[saga.cast.anon]！！"
+    tori "唔，给我吧，[saga.cast.anon]！！"
 
 # game/src/plot/tor_office.rpy:154
 translate zh_hans tor_office_area_e0f640e7:
@@ -352,7 +352,7 @@ translate zh_hans tor_office_busy_774a175e:
 translate zh_hans tor_office_busy_7910ec9f:
 
     # tori "With the proper application of electrical stimulus between the L1 and L3 vertebrae, an orgasmic feedback loop {i}should{/i} theoretically be possible..."
-    tori "通过在L1 和L3 椎骨之间施加适当的电刺激，理论上 {i}应能{/i} 实现一种高潮反馈循环……"
+    tori "在L1和L3椎骨之间适当施加电刺激，理论上{i}应该{/i}能形成高潮反馈循环……"
 
 # game/src/plot/tor_office.rpy:178
 translate zh_hans tor_office_busy_61fe9842:

@@ -731,7 +731,7 @@ translate zh_hans mel06_kevin_merge1_0f7ffd04:
 # game/src/plot/mel06.rpy:398
 translate zh_hans mel06_kevin_merge1_c490c293:
     # anon "Haaaah!"
-    anon "哈哈！"
+    anon "哈啊！"
 
 # game/src/plot/mel06.rpy:399
 translate zh_hans mel06_kevin_merge1_5f86085b:
@@ -831,7 +831,7 @@ translate zh_hans mel06_kevin_merge1_d63e4fae:
 # game/src/plot/mel06.rpy:425
 translate zh_hans mel06_kevin_merge1_a65d97f3:
     # anon "Ooohhh, take it all!"
-    anon "哦哦哦，全都给我！"
+    anon "哦，全都接着！"
 
 # game/src/plot/mel06.rpy:426
 translate zh_hans mel06_kevin_merge1_0bc2058e:
@@ -1436,7 +1436,7 @@ translate zh_hans mel06_office4_85f87b2d:
 # game/src/plot/mel06.rpy:776
 translate zh_hans mel06_office4_29e76a72:
     # melody "Mmm, I want you to give it to me, [saga.cast.anon]!"
-    melody "嗯，我要你给我它，[saga.cast.anon]！"
+    melody "嗯，来肏我吧，[saga.cast.anon]！"
 
 # game/src/plot/mel06.rpy:778
 translate zh_hans mel06_office4_fe5c4401:
@@ -1476,7 +1476,7 @@ translate zh_hans mel06_office4_dcac1e03_1:
 # game/src/plot/mel06.rpy:791
 translate zh_hans mel06_office4_50ccb436:
     # melody "Pound that pussy, sugar!"
-    melody "猛肏我的骚屄，甜心！"
+    melody "用力肏我，甜心！"
 
 # game/src/plot/mel06.rpy:792
 translate zh_hans mel06_office4_83eafc87:
@@ -1511,7 +1511,7 @@ translate zh_hans mel06_office4_5cb88ab1:
 # game/src/plot/mel06.rpy:801
 translate zh_hans mel06_office4_a2237138:
     # melody "That's it, baby! I'm gonna cum all over that big dick!"
-    melody "就是这样，宝贝！我要用你的那根大鸡巴塞满！"
+    melody "就是这样，宝贝！我要在这根大鸡巴上高潮了！"
 
 # game/src/plot/mel06.rpy:802
 translate zh_hans mel06_office4_62c45a4f:

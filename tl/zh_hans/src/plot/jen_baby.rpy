@@ -4401,7 +4401,7 @@ translate zh_hans jen_baby_food_merge_091d9330:
 translate zh_hans jen_baby_food_merge_ed340685:
 
     # jenny "Are eww 'etting close yet?"
-    jenny "你还没快射吗？"
+    jenny "你……快射了没？"
 
 # game/src/plot/jen_baby.rpy:1610
 translate zh_hans jen_baby_food_merge_b6bacf11:

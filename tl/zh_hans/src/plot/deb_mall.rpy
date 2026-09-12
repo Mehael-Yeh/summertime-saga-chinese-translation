@@ -814,7 +814,7 @@ translate zh_hans deb_mall_debbie_merge2_990c7e42:
 translate zh_hans deb_mall_debbie_merge2_99303eb3:
 
     # debbie "How I ended up in a car, in the middle of the afternoon, riding my tenant's big fat... umm."
-    debbie "我怎么就这么在下午时分，坐在我房客的那根又大又粗的……嗯。"
+    debbie "我怎么就大下午的，在车里骑上了我房客那根又大又粗的……呃。"
 
 # game/src/plot/deb_mall.rpy:394
 translate zh_hans deb_mall_debbie_merge2_0f29ef1c:
@@ -1294,13 +1294,13 @@ translate zh_hans deb_mall_debbie_blowjob_e80d7f28:
 translate zh_hans deb_mall_debbie_blowjob_01219fd4:
 
     # debbie a_jerk s_3 "I guess, the thought of sucking my tenant's dick... it's just..."
-    debbie a_jerk s_3 "我想，想到要给我房客口交……这……"
+    debbie a_jerk s_3 "给我的房客口交……光是想想，就觉得……"
 
 # game/src/plot/deb_mall.rpy:556
 translate zh_hans deb_mall_debbie_blowjob_56e68744:
 
     # debbie e_w "... Such a filthy thing to do."
-    debbie e_w "……真是肮脏的行为。"
+    debbie e_w "……这事真够下流的。"
 
 # game/src/plot/deb_mall.rpy:557
 translate zh_hans deb_mall_debbie_blowjob_7f78e384:
@@ -2140,7 +2140,7 @@ translate zh_hans deb_mall_debbie_garage_2ccea395:
 translate zh_hans deb_mall_debbie_garage_9444144e:
 
     # debbie e_w m_lip s_6 "Are you gonna cum for me?"
-    debbie e_w m_lip s_6 "你要为我射吗？"
+    debbie e_w m_lip s_6 "你快要射给我了吗？"
 
 # game/src/plot/deb_mall.rpy:882
 translate zh_hans deb_mall_debbie_garage_2ce3b818:
@@ -2344,7 +2344,7 @@ translate zh_hans deb_mall_debbie_handjob_def341f6:
 translate zh_hans deb_mall_debbie_handjob_a2d16292:
 
     # debbie s_9 "Are you gonna cum for me?"
-    debbie s_9 "你要为我射了吗？"
+    debbie s_9 "你快要射给我了吗？"
 
 # game/src/plot/deb_mall.rpy:951
 translate zh_hans deb_mall_debbie_handjob_4d691f80:

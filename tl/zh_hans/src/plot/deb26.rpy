@@ -4346,20 +4346,20 @@ translate zh_hans deb26_shop_merge1_801b27df:
 translate zh_hans deb26_shop_merge1_04c5133b:
 
     # debbie "Oooohh, give it to me!"
-    debbie "再狠一点，给我！"
+    debbie "哦，给我！"
 
 # game/src/plot/deb26.rpy:1773
 translate zh_hans deb26_shop_merge1_0980732f:
 
 
     # debbie "Give it, give it!!"
-    debbie "给我，全都给我！！"
+    debbie "给我，给我！！"
 
 # game/src/plot/deb26.rpy:1774
 translate zh_hans deb26_shop_merge1_d1d5eb0e:
 
     # debbie "TO MEEEEE!!!"
-    debbie "全都给我！！！"
+    debbie "给我啊！！！"
 
 # game/src/plot/deb26.rpy:1776
 translate zh_hans deb26_shop_merge1_a8e1cb05:

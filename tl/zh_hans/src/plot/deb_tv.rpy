@@ -556,7 +556,7 @@ translate zh_hans deb_tv_boobjob3_81e4d79e:
 translate zh_hans deb_tv_boobjob3_2d0c3792:
 
     # anon "You know, where you lay down on your back and I... ehh..."
-    anon "你知道的，就是你躺下，然后我……呃……"
+    anon "你知道的，就是你仰面躺下，然后我……呃……"
 
 # game/src/plot/deb_tv.rpy:246
 translate zh_hans deb_tv_boobjob3_7f69b518:
@@ -1264,7 +1264,7 @@ translate zh_hans deb_tv_boobjob4_07b7baa8:
 translate zh_hans deb_tv_boobjob4_119f0064:
 
     # debbie "... Give it to me!"
-    debbie "……射我身上！"
+    debbie "……给我吧！"
 
 # game/src/plot/deb_tv.rpy:490
 translate zh_hans deb_tv_boobjob4_d160c47c:
@@ -4144,7 +4144,7 @@ translate zh_hans deb_tv_play3_0fad5c9d:
 translate zh_hans deb_tv_play3_f76c3a00:
 
     # hym "I've fucked your pussy."
-    hym "我肏过你的骚屄。"
+    hym "我肏过你的屄。"
 
 # game/src/plot/deb_tv.rpy:1489
 translate zh_hans deb_tv_play3_393d272c:

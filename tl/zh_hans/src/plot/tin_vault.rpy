@@ -706,7 +706,7 @@ translate zh_hans tin_vault_vault_merge1_bc893211:
 translate zh_hans tin_vault_vault_merge1_641883c0:
 
     # tina "I'M CUMMING!!"
-    tina "我要射了！！"
+    tina "我高潮了！！"
 
 # game/src/plot/tin_vault.rpy:268
 translate zh_hans tin_vault_vault_merge1_6c035248:
@@ -1138,7 +1138,7 @@ translate zh_hans tin_vault_vault_alt_887f0687:
 translate zh_hans tin_vault_vault_creampie_641883c0:
 
     # tina "I'M CUMMING!!"
-    tina "我要射了！！"
+    tina "我高潮了！！"
 
 # game/src/plot/tin_vault.rpy:436
 translate zh_hans tin_vault_vault_creampie_6c035248:

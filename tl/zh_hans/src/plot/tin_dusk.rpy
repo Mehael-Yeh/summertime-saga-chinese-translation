@@ -501,7 +501,7 @@ translate zh_hans tin_dusk_lounge_5c744709:
 translate zh_hans tin_dusk_lounge_f51d4bfa:
 
     # tina "Get on your back, I'm taking over!"
-    tina "躺下，我来主导！"
+    tina "仰面躺好，换我来！"
 
 # game/src/plot/tin_dusk.rpy:222
 translate zh_hans tin_dusk_lounge_b2d0460d:
@@ -681,7 +681,7 @@ translate zh_hans tin_dusk_lounge_3223c48d:
 translate zh_hans tin_dusk_lounge_f6d9ee39:
 
     # tina "Get on your back!"
-    tina "躺下！"
+    tina "仰面躺好！"
 
 # game/src/plot/tin_dusk.rpy:259
 translate zh_hans tin_dusk_lounge_424e82b6:
@@ -759,13 +759,13 @@ translate zh_hans tin_dusk_lounge_9d4fad57:
 translate zh_hans tin_dusk_lounge_8acd65bd:
 
     # tina "... Deep inside..."
-    tina "…… 深入体内……"
+    tina "……在我体内深处……"
 
 # game/src/plot/tin_dusk.rpy:299
 translate zh_hans tin_dusk_lounge_0aa898a4:
 
     # tina "... Hitting my-"
-    tina "…… 顶到我的——"
+    tina "……顶着我的——"
 
 # game/src/plot/tin_dusk.rpy:300
 translate zh_hans tin_dusk_lounge_f345bd48_1:

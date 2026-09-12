@@ -844,7 +844,7 @@ translate zh_hans bar06_office3_reuse_0f974331:
 translate zh_hans bar06_office3_reuse_c1fe43f7:
 
     # barb "Give it to me, [saga.cast.anon]!"
-    barb "射给我吧，[saga.cast.anon]！"
+    barb "肏我吧，[saga.cast.anon]！"
 
 # game/src/plot/bar06.rpy:378
 translate zh_hans bar06_office3_reuse_21b7d584_1:

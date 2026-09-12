@@ -201,7 +201,7 @@ translate zh_hans mar_dark_maria_92b1fb85:
 
 
     # tony a_point o_left "Fuck her good, champ."
-    tony a_point o_left "狠狠地肏她，冠军。"
+    tony a_point o_left "好好肏她，冠军。"
 
 # game/src/plot/mar_dark.rpy:124
 translate zh_hans mar_dark_maria_accca3e1:
@@ -2496,7 +2496,7 @@ translate zh_hans mar_dark_maria_trio2_9b4e79b6:
 
 
     # tony "You like it when I work your tight little asshole?"
-    tony "喜欢我狠狠干你这紧巴巴的小屁眼吗？"
+    tony "喜欢我弄你这又小又紧的屁眼吗？"
 
 # game/src/plot/mar_dark.rpy:1009
 translate zh_hans mar_dark_maria_trio2_1547e067:

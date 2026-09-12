@@ -976,7 +976,7 @@ translate zh_hans deb_shower_blowjob1b_53b86d46:
 translate zh_hans deb_shower_blowjob1b_a7e4b79b:
 
     # anon "Y-your tongue is-"
-    anon "你你的舌头——"
+    anon "你、你的舌头——"
 
 # game/src/plot/deb_shower.rpy:407
 translate zh_hans deb_shower_blowjob1b_26bc33e8:
@@ -1168,7 +1168,7 @@ translate zh_hans deb_shower_blowjob2_b5359175:
 translate zh_hans deb_shower_blowjob2_83e37c09:
 
     # anon f_curious "... But maybe... you could... suck on it?"
-    anon f_curious "……不过，也许你可以……帮它吸一下？"
+    anon f_curious "……不过，也许……你可以……含着它吸一吸？"
 
 # game/src/plot/deb_shower.rpy:481
 translate zh_hans deb_shower_blowjob2_d44be6da:
@@ -1216,7 +1216,7 @@ translate zh_hans deb_shower_blowjob2_f8d378de:
 translate zh_hans deb_shower_blowjob2_39ee5207:
 
     # debbie "Aww, of course I'll suck it for you, sweetie."
-    debbie "啊，当然可以帮你吸，亲爱的。"
+    debbie "哎呀，当然可以含着它帮你吸，亲爱的。"
 
 # game/src/plot/deb_shower.rpy:493
 translate zh_hans deb_shower_blowjob2_1c636b33:

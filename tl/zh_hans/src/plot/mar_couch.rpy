@@ -691,14 +691,14 @@ translate zh_hans mar_couch_merge2_217e4446:
 
 
     # maria "... To cum..."
-    maria "……射在我里面……"
+    maria "……射在……"
 
 # game/src/plot/mar_couch.rpy:239
 translate zh_hans mar_couch_merge2_ec3310db:
 
 
     # maria e_wsw f_calm "... Inside me."
-    maria e_wsw f_calm "……射在我里面。"
+    maria e_wsw f_calm "……我里面。"
 
 # game/src/plot/mar_couch.rpy:240
 translate zh_hans mar_couch_merge2_c060b820:
@@ -1479,13 +1479,13 @@ translate zh_hans mar_couch_noon1_4cac380a:
 translate zh_hans mar_couch_noon1_093b67e4:
 
     # tony f_horny @ e_b_w "Hah, he should be so lucky!"
-    tony f_horny @ e_b_w "哈，他倒是想得美！"
+    tony f_horny @ e_b_w "哈，这种好事他还求之不得呢！"
 
 # game/src/plot/mar_couch.rpy:572
 translate zh_hans mar_couch_noon1_e71dc833:
 
     # tony "Beautiful woman like you, wantin' to ride him like a kite in a windstorm."
-    tony "像你这样的美人，居然想骑着他在暴风里放风筝。"
+    tony "有你这样的美人想骑他，还不得把他折腾得像狂风里的风筝一样。"
 
 # game/src/plot/mar_couch.rpy:573
 translate zh_hans mar_couch_noon1_fa41834a:
@@ -1689,7 +1689,7 @@ translate zh_hans mar_couch_noon1_ccd19f05:
 translate zh_hans mar_couch_noon1_66da9cf0:
 
     # tony "Succulent as lampredotto!"
-    tony "多汁得就像灯笼牛肚一样！"
+    tony "多汁得跟lampredotto一样！"
 
 # game/src/plot/mar_couch.rpy:695
 translate zh_hans mar_couch_noon1_fbb8e95c:
@@ -3099,7 +3099,7 @@ translate zh_hans mar_couch_noon2_5b90f230:
 translate zh_hans mar_couch_noon2_415739cb:
 
     # maria "Heh, I'm talkin' to the kid ya big galoot!"
-    maria "嘿，我在跟小孩说话呢，你这个大傻瓜！"
+    maria "嘿，我在跟那小子说话呢，你这个大傻瓜！"
 
 # game/src/plot/mar_couch.rpy:1152
 translate zh_hans mar_couch_noon2_dd357546:

@@ -976,7 +976,7 @@ translate zh_hans deb19_kitchen_reuse_78638209:
 translate zh_hans deb19_kitchen_reuse_d00ded84:
 
     # debbie "Give it to me, sweetie!"
-    debbie "用力肏我，亲爱的！"
+    debbie "肏我吧，亲爱的！"
 
 # game/src/plot/deb19.rpy:447
 translate zh_hans deb19_kitchen_reuse_919d766b:
@@ -1054,7 +1054,7 @@ translate zh_hans deb19_kitchen_reuse_afaf8fde:
 translate zh_hans deb19_kitchen_reuse_f3c2e944:
 
     # debbie "Ahh, me too!"
-    debbie "啊，我也要去了！"
+    debbie "啊，我也快了！"
 
 # game/src/plot/deb19.rpy:465
 translate zh_hans deb19_kitchen_reuse_82e12759:

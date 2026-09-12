@@ -1209,7 +1209,7 @@ translate zh_hans ano15_shop1_lounge1_0f4ab2ed:
 
 
     # maria "This pussy ain't gonna lick itself!"
-    maria "老娘的屄可不会自己舔！"
+    maria "老娘这儿可还等着你来舔呢！"
 
 # game/src/plot/ano15.rpy:352
 translate zh_hans ano15_shop1_lounge1_d9736346:
@@ -3610,7 +3610,7 @@ translate zh_hans ano15_pantry_merge1_96f34521:
 
 
     # maria "Just go slow at first, eh?"
-    maria "开始时慢一点，好吗？"
+    maria "一开始慢点来，嗯？"
 
 # game/src/plot/ano15.rpy:1209
 translate zh_hans ano15_pantry_merge1_8efd8d8b:

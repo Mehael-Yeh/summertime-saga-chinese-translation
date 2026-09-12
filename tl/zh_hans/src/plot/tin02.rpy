@@ -717,7 +717,7 @@ translate zh_hans tin02_cubicle_reuse_67e233c2:
 
 
     # anon "Am I still hitting the right spot?"
-    anon "我顶到你的敏感点了吗？"
+    anon "我还顶着你的敏感点吗？"
 
 # game/src/plot/tin02.rpy:273
 translate zh_hans tin02_cubicle_reuse_63666fe0_1:
@@ -731,7 +731,7 @@ translate zh_hans tin02_cubicle_reuse_c000726b:
 
 
     # anon "Is it gonna make you cum?"
-    anon "这会让你喷射吗？"
+    anon "这样会让你高潮吗？"
 
 # game/src/plot/tin02.rpy:275
 translate zh_hans tin02_cubicle_reuse_093fa77d:
@@ -751,7 +751,7 @@ translate zh_hans tin02_cubicle_reuse_815e375d:
 translate zh_hans tin02_cubicle_reuse_0fd6ea10:
 
     # anon "Cum on it, [saga.cast.tina]."
-    anon "喷在上面，[saga.cast.tina]。"
+    anon "就在这根鸡巴上高潮吧，[saga.cast.tina]。"
 
 # game/src/plot/tin02.rpy:280
 translate zh_hans tin02_cubicle_reuse_fe5dd23b:
