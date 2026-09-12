@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-06",
+  "updated": "2026-09-12",
   "terms": [
     {
       "id": "tony_champ",
@@ -998,12 +998,12 @@
       "id": "product_brazilian_bum_bum",
       "source_regex": "\\bBrazilian\\s+Bum\\s+Bum(?:\\s+Cream)?\\b",
       "target_regexes": [
-        "巴西\\s+Bum\\s+Bum"
+        "巴西Bum\\s+Bum"
       ],
       "category": "product_name",
-      "translation": "巴西 Bum Bum／巴西 Bum Bum 润肤霜",
+      "translation": "巴西Bum Bum／巴西Bum Bum润肤霜",
       "first_seen": "tl/zh_hans/src/plot/deb06.rpy",
-      "note": "Debbie使用的润肤露产品名；省略Cream时保留“巴西 Bum Bum”，完整名称可写“巴西 Bum Bum 润肤霜”，不得直译成“巴西翘臀”。"
+      "note": "Debbie使用的润肤露产品名；省略Cream时保留“巴西Bum Bum”，完整名称可写“巴西Bum Bum润肤霜”，不得直译成“巴西翘臀”。"
     },
     {
       "id": "tori_horny_toad",
@@ -1262,6 +1262,182 @@
       "translation": "才艺表演",
       "first_seen": "tl/zh_hans/src/plot/mel01.rpy",
       "note": "学校活动名称全仓统一为“才艺表演”。"
+    },
+    {
+      "id": "location_retro_strike",
+      "source_regex": "\\bRetro\\s+Strike\\b",
+      "target_regexes": [
+        "复古全中"
+      ],
+      "category": "location_name",
+      "translation": "复古全中",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "保龄球与街机场所；Strike 采用保龄球术语“全中”，不作“强击”。UI 用“复古全中”，必要时可加“保龄球馆”。"
+    },
+    {
+      "id": "location_saga_financial",
+      "source_regex": "\\bSaga\\s+Financial\\b",
+      "target_regexes": [
+        "传说金融"
+      ],
+      "category": "location_name",
+      "translation": "传说金融",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_rusty_angus",
+      "source_regex": "\\bRusty\\s+Angus\\b",
+      "target_regexes": [
+        "拉斯蒂安格斯"
+      ],
+      "category": "location_name",
+      "translation": "拉斯蒂安格斯",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_sandbar_island",
+      "source_regex": "\\bSandbar\\s+Island\\b",
+      "target_regexes": [
+        "沙洲岛"
+      ],
+      "category": "location_name",
+      "translation": "沙洲岛",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_cosmic_cumics",
+      "source_regex": "\\bCosmic\\s+Cumics\\b",
+      "target_regexes": [
+        "宇宙漫画"
+      ],
+      "category": "location_name",
+      "translation": "宇宙漫画",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_glazies",
+      "source_regex": "\\bGlazies\\b",
+      "target_regexes": [
+        "格拉齐斯"
+      ],
+      "category": "location_name",
+      "translation": "格拉齐斯",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_cupid",
+      "source_regex": "\\bCupid\\b",
+      "target_regexes": [
+        "丘比特"
+      ],
+      "category": "location_name",
+      "translation": "丘比特",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_planet_thiccness",
+      "source_regex": "\\bPlanet\\s+Thiccness\\b",
+      "target_regexes": [
+        "丰满星球"
+      ],
+      "category": "location_name",
+      "translation": "丰满星球",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_raven_hill",
+      "source_regex": "\\bRaven\\s+Hill\\b",
+      "target_regexes": [
+        "渡鸦山"
+      ],
+      "category": "location_name",
+      "translation": "渡鸦山",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_hillside_mall",
+      "source_regex": "\\bHillside\\s+Mall\\b",
+      "target_regexes": [
+        "希尔赛德商场"
+      ],
+      "category": "location_name",
+      "translation": "希尔赛德商场",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_tony_s_pizza",
+      "source_regex": "\\bTony['’]s\\s+Pizza\\b",
+      "target_regexes": [
+        "Tony披萨店"
+      ],
+      "category": "location_name",
+      "translation": "Tony披萨店",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_ara_ara",
+      "source_regex": "\\bAra\\s+Ara\\b",
+      "target_regexes": [
+        "啊啦啊啦"
+      ],
+      "category": "location_name",
+      "translation": "啊啦啊啦",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "用户确认译名“啊啦啊啦”；保留日式音韵、重复节奏和店名兼俏皮招呼语的呼应。UI、菜单与招呼用“啊啦啊啦”，指路可称“啊啦啊啦餐厅”，不另造“阿啦屋”或“啊啦寿司”。"
+    },
+    {
+      "id": "location_sugar_tats",
+      "source_regex": "\\bSugar\\s+Tats\\b",
+      "target_regexes": [
+        "甜蜜纹身"
+      ],
+      "category": "location_name",
+      "translation": "甜蜜纹身",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_pink",
+      "source_regex": "(?<![=\\w])(?-i:Pink)\\b(?!\\s+(?:Cyclone|Channel|Team|package|isn))",
+      "target_regexes": [
+        "粉色诱惑"
+      ],
+      "category": "location_name",
+      "translation": "粉色诱惑",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "成人情趣用品店品牌名，采用用户确认的“粉色诱惑”，兼顾粉色意象与成人店铺氛围，不直译“粉红”。排除颜色、Pink Cyclone、Pink Channel、Pink Team、Pink package 和标签参数。"
+    },
+    {
+      "id": "location_beachside_apartments",
+      "source_regex": "\\bBeachside\\s+Apartments\\b",
+      "target_regexes": [
+        "海滨公寓"
+      ],
+      "category": "location_name",
+      "translation": "海滨公寓",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+    },
+    {
+      "id": "location_cinesaga",
+      "source_regex": "\\bCineSaga(?:\\s+Theater)?\\b",
+      "target_regexes": [
+        "传说影院"
+      ],
+      "category": "location_name",
+      "translation": "传说影院",
+      "first_seen": "tl/zh_hans/res/meta/sets.rpy",
+      "note": "电影院品牌，沿用 UI 传说影院；不保留 CineSaga，也不叠加成“传说影院影院”。"
     }
   ]
 }

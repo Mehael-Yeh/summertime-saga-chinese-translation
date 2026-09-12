@@ -201,7 +201,7 @@ translate zh_hans tin02_liu_near_80e3b1d3:
 translate zh_hans tin02_liu_tina_d114c63e:
 
     # anon a_whisper f_horny "Soo... about that S-E-X..."
-    anon a_whisper f_horny "嗯……关于那个 S-E-X……"
+    anon a_whisper f_horny "嗯……关于那个S-E-X……"
 
 # game/src/plot/tin02.rpy:119
 translate zh_hans tin02_liu_tina_5e94017b:

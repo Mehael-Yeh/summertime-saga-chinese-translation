@@ -940,7 +940,7 @@ translate zh_hans bar05_barb2_f28a57a7:
 translate zh_hans bar05_barb2_9307e00d:
 
     # barb "I need you to run down to Cosmic Cumics at the mall and pick up the costumes that [saga.cast.ursula] ordered."
-    barb "我需要你跑到商场的 Cosmic Cumics，去取[saga.cast.ursula]订的服装。"
+    barb "我需要你跑到商场的宇宙漫画，去取[saga.cast.ursula]订的服装。"
 
 # game/src/plot/bar05.rpy:441
 translate zh_hans bar05_barb2_92bed6ee:
@@ -1354,7 +1354,7 @@ translate zh_hans bar05_lily_barb_d06ce5b1:
 translate zh_hans bar05_lily_barb_cbd4951d:
 
     # barb "It's a place called Cosmic Cumics down at the mall."
-    barb "在商场里一家叫 Cosmic Cumics 的店。"
+    barb "在商场里一家叫宇宙漫画的店。"
 
 # game/src/plot/bar05.rpy:562
 translate zh_hans bar05_lily_barb_6af522f2:
@@ -1450,7 +1450,7 @@ translate zh_hans bar05_barb3_0e66f7d1:
 translate zh_hans bar05_barb3_094661c7:
 
     # anon "By the way, the girl at Cosmic Cumics asked me to tell you, \"Hello\"..."
-    anon "顺便说一句，Cosmic Cumics 的女孩让我代她向你问好……"
+    anon "顺便说一句，宇宙漫画的女孩让我代她向你问好……"
 
 # game/src/plot/bar05.rpy:600
 translate zh_hans bar05_barb3_65b761ef:

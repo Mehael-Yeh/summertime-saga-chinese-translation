@@ -676,7 +676,7 @@ translate zh_hans jen16_sign_511e8ef2:
 translate zh_hans jen16_sign_6ba26a1b:
 
     # lily "Oh, Pink Cyclone is visiting the store soon to promote the newest CLT game."
-    lily "哦，Pink Cyclone 很快会来店里宣传最新的 CLT 游戏。"
+    lily "哦，Pink Cyclone很快会来店里宣传最新的CLT游戏。"
 
 # game/src/plot/jen16.rpy:256
 translate zh_hans jen16_sign_c90dbcd6:
@@ -718,7 +718,7 @@ translate zh_hans jen16_sign_busy_6ecf2f32:
 translate zh_hans jen16_sign_lily_76ddc858:
 
     # anon f_calm "So that Pink Cyclone event sounds fun."
-    anon f_calm "那个 Pink Cyclone 的活动听起来挺有意思。"
+    anon f_calm "那个Pink Cyclone的活动听起来挺有意思。"
 
 # game/src/plot/jen16.rpy:278
 translate zh_hans jen16_sign_lily_ee49bce6:
@@ -730,7 +730,7 @@ translate zh_hans jen16_sign_lily_ee49bce6:
 translate zh_hans jen16_sign_lily_44feb140:
 
     # lily "She'll be here all day signing posters and giving away t-shirts and masks."
-    lily "她会在这里待一整天，给海报签名，还会送 T 恤和面具。"
+    lily "她会在这里待一整天，给海报签名，还会送T恤和面具。"
 
 # game/src/plot/jen16.rpy:280
 translate zh_hans jen16_sign_lily_3f8d4c81:
@@ -748,7 +748,7 @@ translate zh_hans jen16_sign_lily_9475fa33:
 translate zh_hans jen16_sign_redo_0f67bac5:
 
     # anon @ -m_talk "( It's promoting the upcoming visit of Pink Cyclone... )"
-    anon @ -m_talk "（这是在宣传 Pink Cyclone 即将到店……）"
+    anon @ -m_talk "（这是在宣传Pink Cyclone即将到店……）"
 
 # game/src/plot/jen16.rpy:289
 translate zh_hans jen16_sign_redo_dca7de25:

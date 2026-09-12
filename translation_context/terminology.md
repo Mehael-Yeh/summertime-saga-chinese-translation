@@ -1,6 +1,6 @@
 # 术语与称谓规范
 
-更新时间：2026-08-06
+更新时间：2026-09-12
 
 ## 角色姓名（强制）
 
@@ -16,6 +16,39 @@
 - 同一英文名词、组合词、称呼或固定表达在短距离内出现 2 次及以上时，先视为潜在专名、人物口癖或专属称呼，必须执行全仓复查。
 - 人工记录见 `recurring_terms.md`，机器可读规则见 `recurring_terms.json`；使用 `tools/audit_recurring_terms.py` 查询全仓对应和检查本批一致性。
 - 确认稳定译法后才写入本术语表。未通读的跨文件命中只加入复查队列，不进行无上下文批量替换。
+
+## 地名与 UI 一致性（强制）
+
+- 定译须兼顾信达雅：先确认地点功能、品牌语气与双关，再选自然且易辨认的中文店名；UI 是一致性基准，不是禁止纠正旧译。UI 旧译不合设定时，须与全仓引用同步修改。
+- `Pink` 采用用户确认的“粉色诱惑”，而非颜色直译或单纯堆叠类别词。`Retro Strike` 位于街机与保龄球区域，`Strike` 按保龄球术语译“全中”，整体为“复古全中”。“丰满星球”保留健身品牌的身材谐趣，“甜蜜纹身”保留纹身店风格，“传说影院”明确影院身份。没有足够剧情证据的品牌不凭字面臆造背景。
+
+- 地名基准是 `tl/zh_hans/base_box/sets.rpy` 中实际的 `old` / `new` 对；同时检查 `tl/zh_hans/res/meta/sets.rpy` 的补充条目，不能只看其中一个文件。
+- 对话、旁白、选项、任务提示、物品说明和 `bytecode_strings.rpy` 中提到同一地点时，必须沿用 UI 的核心译名。即使只出现一次，也要核对；人物姓名保留英文的规则不适用于店名、地名。
+- 可以按句意增加“店／商店／餐厅”等类别词，例如“宇宙漫画店”“丘比特商店”；不得换用另一套音译或意译，也不得一处保留英文、一处译中文。原文只说“那家店／商场／山上”时可保留自然指代，无须强行补全名称。
+- `Raven Hill` 固定为“渡鸦山”，不得使用“鸦山／鸦丘／渡鸦丘”等旧译。当前源码的 11 处完整名称已一致，本次未发现需要改写的旧译。
+- 先按英文原文定位，再核对前后文和中文旧译；只改目标译文，不改 `old`、英文注释、标签、变量、资源路径或程序标识符。店名 `Pink` 为“粉色诱惑”，不得误改颜色、人物 `Pink Cyclone`、频道 `Pink Channel` 或 `{pen=pink}`；`Ara Ara` 在欢迎词中也是餐厅名称，统一“啊啦啊啦”。
+- 新增或调整 UI 地名时，同步复查所有文本并更新本表、`recurring_terms.md` 和 `recurring_terms.json`，运行全仓 `python -X utf8 tools/audit_recurring_terms.py --fail-on-mismatch`。机器规则用于筛查，歧义词和普通场所词仍需人工确认指代。
+
+| UI 英文名 | 统一核心译名 |
+|---|---|
+| Retro Strike | 复古全中 |
+| Saga Financial | 传说金融 |
+| Rusty Angus | 拉斯蒂安格斯 |
+| Sandbar Island | 沙洲岛 |
+| Cosmic Cumics | 宇宙漫画 |
+| Glazies | 格拉齐斯 |
+| Cupid | 丘比特 |
+| Planet Thiccness | 丰满星球 |
+| Raven Hill | 渡鸦山 |
+| Hillside Mall | 希尔赛德商场 |
+| Tony's Pizza | Tony披萨店 |
+| Summerville College | 夏日学院 |
+| Consum-R | Consum-R |
+| Ara Ara | 啊啦啊啦 |
+| Sugar Tats | 甜蜜纹身 |
+| Pink | 粉色诱惑 |
+| CineSaga / CineSaga Theater | 传说影院 |
+| Beachside Apartments | 海滨公寓 |
 
 ## 当前已确认地点与活动
 
@@ -69,7 +102,7 @@
 | 英文 | 统一中文 | 说明 |
 |---|---|---|
 | `lotion` | 润肤露 | 日常身体护理语境；具体产品为膏霜质地时可按产品名写“润肤霜”；`tammy_bed2_scope.rpy` 中 Erik 关上百叶窗后“又在用润肤露”是自慰暗示，需保留原文委婉说法，不直接增译为“自慰” |
-| `Brazilian Bum Bum` / `Brazilian Bum Bum Cream` | 巴西 Bum Bum／巴西 Bum Bum 润肤霜 | 产品名省略 `Cream` 时保留“巴西 Bum Bum”，完整名称按膏霜质地补“润肤霜”；不得直译成“巴西翘臀” |
+| `Brazilian Bum Bum` / `Brazilian Bum Bum Cream` | 巴西Bum Bum／巴西Bum Bum润肤霜 | 产品名省略 `Cream` 时保留“巴西Bum Bum”，完整名称按膏霜质地补“润肤霜”；不得直译成“巴西翘臀” |
 | `solid`（电影暧昧场景） | 挺得住 | 同时保留“能承受情色画面”和勃起坚挺的双关；后句可用“应付得来”解释表层含义 |
 | `masturbation` / `masturbate` | 自慰 | 直接、中性地表达行为，不净化为“解决需求”等含糊说法 |
 | `panties` / `underwear` | 内裤 | 按单复数和指代自然组织中文；`mom panties` 可译“妈妈穿的内裤”，不使用生硬的“妈妈内裤” |
@@ -86,12 +119,12 @@
 
 | 英文 | 统一中文 | 说明 |
 |---|---|---|
-| Cupid | Cupid | 商场女装精品店名称，保持英文 |
+| Cupid | 丘比特 | 商场女装精品店，以爱神意象呼应服饰与浪漫；与 UI 一致 |
 | Raven Hill | 渡鸦山 | 俯瞰小镇的偏僻山丘；Debbie 与 Anon 私下谈话地点 |
 | Sugar Basin | 糖谷 | Debbie 与 Diane 青春期共同度过夏天、裸泳并发生亲密互动的地点 |
 | FunBiz Pizzeria Pub | FunBiz披萨酒吧 | Debbie 十六岁时第一份工作的地点；`FunBiz` 保持英文 |
 | Billy-bear | Billy-bear | FunBiz 舞台吉祥物名称，保持英文拼写和连字符 |
-| Ara Ara | Ara Ara | 日式餐厅名称及店员招呼；保持英文原拼写，不译成“啊啦啊啦”或“哎呀哎呀” |
+| Ara Ara | 啊啦啊啦 | 用户确认译名；保留日式音韵、重复节奏和俏皮招呼语的呼应。UI／招呼用“啊啦啊啦”，指路可称“啊啦啊啦餐厅”，不另造店名 |
 | `hospitality stick in her ass`（Titomi） | 待客时屁股里跟夹了根棍子似的 | Titomi 用粗俗比喻嘲笑 Hana 服务过度正式、姿态僵硬；Anon 随后把“棍子”当真。不得译成真实存在的普通“接待棒” |
 | `wear a helmet`（Titomi 对 Anon） | 还得戴防撞头盔 | 暗讽 Anon 迟钝、可能需要保护性头盔，不是普通交通安全询问 |
 | `Cowabunga` | 卡瓦邦嘎 | Anon 裸体跳入泳池时引用忍者神龟口号；Debbie 随后复述时必须保持同一译法 |
@@ -401,7 +434,7 @@
 | `loser`（Jenny 对 Anon） | 废柴 | Jenny 高频固定辱称；整句强度随关系阶段调整，核心称呼保持一致 |
 | `The Electro Clit` | 电击阴蒂棒 | Pink 出售的情趣玩具产品名 |
 | `Electro Clit Light` | 电击阴蒂棒轻量版 | 原版缺货时出现的低功率版本 |
-| `Pink` | `Pink` | 商场二楼情趣用品店名，保持英文 |
+| `Pink` | 粉色诱惑 | 商场二楼情趣用品店；用户确认的意译，保留粉色意象与成人氛围，不作“粉红”或“粉红情趣用品店” |
 | `Pink Channel` | `Pink Channel` | Jenny 使用的成人内容账号／频道专名，保持英文拼写，不译作“粉红频道” |
 | `turn me down`（Jenny 性邀约） | 拒绝我 | `jen_visit.rpy` 中指拒绝她当夜的性要求，不译作普通“让我失望”；拒绝分支必须保留 Anon 明确说不的边界 |
 | `Daddy`（`jen04.rpy` 成人影片角色扮演） | 爸爸 | 属色情角色称谓，不是人物姓名或真实亲属身份；与育儿支线中孩子对父亲的 Daddy 必须按场景区分 |
@@ -413,7 +446,7 @@
 | Brutalitops | `Brutalitops` | Karl的游戏角色名，保持英文，不音译为“野蛮托普斯/残忍之巅” |
 | WPWF | `WPWF` | Women's Professional Wrestling Federation 的缩写；解释全称时译“女子职业摔角联盟” |
 | no contest（摔角） | 无结果 | 比赛不计胜负，不等同于平局；战绩 `34-0-1` 的最后一项按“1场无结果”处理 |
-| Cosmic Cumics | `Cosmic Cumics` | 漫画及游戏商店名，保持作者刻意拼写，不译作“宇宙漫画店” |
+| Cosmic Cumics | 宇宙漫画 | 漫画及游戏商店；保留宇宙／科幻风格，与 UI 一致，可称“宇宙漫画店”。原拼写有成人谐趣，不为硬凑双关损害店名自然度 |
 | GooTube | `GooTube` | 视频平台专名，保持英文拼写和大小写，不译作普通“视频网站”或仿照现实平台改名 |
 | VirginLily69 | `VirginLily69` | Lily 的网络主播名，保持英文拼写、数字和大小写 |
 | cosplay / costumes（`lily.rpy`） | cosplay／cosplay服 | 指 Lily 的亚文化爱好及店内新款服装，避免“戏服”造成舞台演出误解；其他剧情中的普通角色扮演仍按场景处理 |

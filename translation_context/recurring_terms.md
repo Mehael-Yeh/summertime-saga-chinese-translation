@@ -1,6 +1,6 @@
 # 重复称呼、口癖与专名复查记录
 
-更新时间：2026-08-06
+更新时间：2026-09-12
 
 ## 触发规则
 
@@ -16,6 +16,16 @@
 6. 后续每处理一个文件，运行 `python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch`，确保已登记表达没有再次漂移。
 
 > `recurring_terms.json` 是机器可读的审计规则；`tools/audit_recurring_terms.py` 只检查和报告，不自动改写译文。
+
+## 2026-09-12 地名专项复查
+
+地名无需等待重复两次：首次出现即参照 UI。正式映射及歧义例外见 `terminology.md`；机器规则新增 16 个 `location_*` 条目，沿用已有的夏日学院和 Consum-R 规则。
+
+已修复 Cosmic Cumics、Cupid、Saga Financial、Ara Ara、Sugar Tats、Pink 的英文残留及不同译法，覆盖对话、任务提示、物品说明和字节码提取文本；同时纠正把 Pink 商店后屋称为“粉红酒吧的密室”的地点误认。Raven Hill 的现有 11 处完整名称均为“渡鸦山”，登记规则防止再次出现“鸦山／鸦丘”等漂移。
+
+新增复核：Pink 按用户意见定为“粉色诱惑”；Retro Strike 改为“复古全中”，保留保龄球全中的含义；CineSaga 统一为 UI 的“传说影院”。
+
+本次以 sets.rpy 所列 18 个地点专名为核对范围；一般房间名、颜色、人物与频道名称不机械套用店名规则。审计通过只说明已登记规则一致，不等同于游戏内逐场景验收。
 
 ## 已确认条目
 
@@ -70,13 +80,13 @@
 | `Consum-R` | 商店专名 | 保持 `Consum-R` | 跨多个剧情与资源文件 | 电脑零件和购物任务统一保留英文原拼写、大小写及连字符 |
 
 | Diane 对 Anon 的 `stud` | 人物调侃称呼 | 帅哥 | Diane 相关文件 | `deb26.rpy` 两处已统一；只在 Diane 直接称呼 Anon 时采用，普通名词含义按场景处理 |
-| `Ara Ara` | 餐厅专名／店员招呼 | 保持 `Ara Ara` | `deb26.rpy` 及相关地点文件 | 店名和店员固定招呼均保留英文拼写，不译成“啊啦啊啦”“哎呀哎呀” |
+| `Ara Ara` | 餐厅专名／店员招呼 | 啊啦啊啦 | `deb26.rpy` 及相关地点文件 | 与 UI 一致，保留店名与招呼语的俏皮呼应 |
 | `Cowabunga` / `Heroes in a half-shell` | 连续文化笑点 | 卡瓦邦嘎／身披半壳的英雄 | `deb27.rpy` | 前者的喊叫与 Debbie 复述必须一致，后者承接忍者神龟笑点 |
 | Jenny 的 `perv` / `pervert` | 人物固定辱称 | 变态 | `jen01.rpy`、`jen04.rpy` 及后续 Jenny 文件 | 已处理文件统一；后续出现时按关系阶段复核整句语气，不机械全局替换 |
 | Jenny 的 `loser` | 人物固定辱称 | 废柴 | `jen06.rpy` 至 `jen08.rpy` 及后续 Jenny 文件 | 已处理文件统一；只约束 Jenny 对 Anon 的辱称，不套用其他角色或普通名词用法 |
 | `The Electro Clit` | 情趣玩具产品名 | 电击阴蒂棒 | `jen08.rpy` 及后续相关文件 | 与轻量版区分；产品名在同场复述时保持一致 |
 | `Electro Clit Light` | 情趣玩具产品名 | 电击阴蒂棒轻量版 | `jen08.rpy` 及后续相关文件 | 原版缺货时出现的低功率版本 |
-| `Pink` | 商店专名 | 保持 `Pink` | 商场情趣用品店相关文件 | 保持英文拼写和大小写；不译为颜色“粉色”或中文店名 |
+| `Pink` | 商店专名 | 粉色诱惑 | 商场情趣用品店相关文件 | 用户确认的意译；UI 与全仓引用同步，排除颜色、人物和频道名称 |
 | `Sluttygram` | 成人照片订阅网站专名 | 保持 `Sluttygram` | 字节码提示、`jen05.rpy`、后续 Jenny 文件 | 保持英文拼写和大小写；已恢复“浪荡格莱姆”“偷情网”等错误汉化 |
 | `peaches / my peaches` | Jenny 线连续成人双关 | 桃子／我的桃子 | `jen22.rpy` | Jenny 用水果掩饰成人直播；后续“汁水、完事、满脸、头发沾到”同时承接舔屄与高潮场景，必须保留桃子这一核心双关 |
 | `little whipping boy` | Jenny 线关系动态 | 出气筒 | `jen23.rpy`、`jen_cam.rpy` | Anon 拒绝继续任 Jenny 发泄和使唤；两处保持一致，不按字面翻成“挨鞭子的男孩” |
@@ -187,7 +197,7 @@ python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
 - `SL-700 Crotch Rocket`：纯电动踏板车车型名统一为“SL-700 胯下火箭”，保留 `crotch rocket` 的双关。
 - `poor boy`：Yoo 针对 Anon 贫穷身份的固定辱称统一为“穷小子”，不写成表示同情的“可怜的小子”。
 - `Employee of the month`／`Emproyee of month`：统一为“月度最佳员工”；原文拼写差异只体现 Yoo 的破碎英语，不另造中文错字。
-| `Brazilian Bum Bum` / `Brazilian Bum Bum Cream` | Debbie 线润肤露产品名 | 巴西 Bum Bum／巴西 Bum Bum 润肤霜 | `deb06.rpy`、`deb07.rpy`、`deb_mall.rpy`、`misc_lotion.rpy` | 保留产品名中的英文 `Bum Bum`；省略 `Cream` 时不擅自补产品类型，也不得直译成“巴西翘臀” |
+| `Brazilian Bum Bum` / `Brazilian Bum Bum Cream` | Debbie 线润肤露产品名 | 巴西Bum Bum／巴西Bum Bum润肤霜 | `deb06.rpy`、`deb07.rpy`、`deb_mall.rpy`、`misc_lotion.rpy` | 保留产品名中的英文 `Bum Bum`；省略 `Cream` 时不擅自补产品类型，也不得直译成“巴西翘臀” |
 | `horny toad` / `horny toad extract` | Tori 线血清任务材料 | 发情蟾蜍／发情蟾蜍提取物 | `tor05.rpy`、`misc_toad.rpy` | `horny` 与繁殖季相呼应，统一保留“发情”笑点；普通 `toad` 仍译“蟾蜍”，不得漂移为“角蟾／角蛙／色蛤蟆／发情的蛤蟆” |
 | `vegetable stock` | Tori 线血清任务基底 | 蔬菜高汤 | `tor05.rpy`、`vee.rpy` | 作为温和血清基底及 Consum-R 购物选项统一，不漂移为“蔬菜汤底”；`chicken stock` 暂按既有剧情译“鸡汤”，不在未通读其他文件前批量改动 |
 | `linens`（教堂艺术任务） | 画布材料任务名 | 亚麻布／白色亚麻布 | `ang.rpy`、`bar05.rpy` | `ang.rpy` 菜单使用“亚麻布”；`bar05.rpy` 完整场景需统一“白色亚麻布”，并说明 Angela 实际交付旧洗礼袍，不漂移为普通“床单” |

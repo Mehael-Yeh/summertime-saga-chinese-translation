@@ -52,7 +52,7 @@ translate zh_hans deb06_intro_98852d2e:
 translate zh_hans deb06_lotion_61048939:
 
     # anon @ -m_talk "( Brazilian Bum Bum... cream? )"
-    anon @ -m_talk "（巴西 Bum Bum……润肤霜？）"
+    anon @ -m_talk "（巴西Bum Bum……润肤霜？）"
 
 # game/src/plot/deb06.rpy:23
 translate zh_hans deb06_lotion_68174657:

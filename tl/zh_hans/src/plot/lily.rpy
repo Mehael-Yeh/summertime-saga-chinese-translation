@@ -16,7 +16,7 @@ translate zh_hans lily_comic_shop_choice_135507e9:
 translate zh_hans lily_comic_shop_choice_4c34f4f2:
 
     # lily "Great! Thanks for shopping at Cosmic Cumics..."
-    lily "太好了！感谢光临Cosmic Cumics……"
+    lily "太好了！感谢光临宇宙漫画……"
 
 # game/src/plot/lily.rpy:25
 translate zh_hans lily_comic_shop_choice_63ca6d77:

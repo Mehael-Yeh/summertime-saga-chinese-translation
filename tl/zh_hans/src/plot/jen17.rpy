@@ -12,7 +12,7 @@ translate zh_hans jen17_intro_c45c42c0:
 
 
     # anon "( There's a crowd of people outside Cosmic Cumics! )"
-    anon "（Cosmic Cumics 外面围了一大群人！）"
+    anon "（宇宙漫画外面围了一大群人！）"
 
 # game/src/plot/jen17.rpy:7
 translate zh_hans jen17_intro_919f3188:
@@ -69,7 +69,7 @@ translate zh_hans jen17_shop_ec27d608:
 translate zh_hans jen17_shop_16ff5c46:
 
     # karl f_curious "You don't know about WPWF?"
-    karl f_curious "你连 WPWF 都不知道？"
+    karl f_curious "你连WPWF都不知道？"
 
 # game/src/plot/jen17.rpy:70
 translate zh_hans jen17_shop_c0d3895a:
@@ -94,7 +94,7 @@ translate zh_hans jen17_shop_61e60e16:
 
 
     # anon "You have to call me Brutalitops!"
-    anon "你得叫我 Brutalitops！"
+    anon "你得叫我Brutalitops！"
 
 # game/src/plot/jen17.rpy:86
 translate zh_hans jen17_shop_dd4a2b85:
@@ -120,7 +120,7 @@ translate zh_hans jen17_shop_ad5a8e12:
 translate zh_hans jen17_shop_d25b7d87:
 
     # karl e_o f_crazy m_talk "You have to call me Brutalitops!"
-    karl e_o f_crazy m_talk "你得叫我 Brutalitops！"
+    karl e_o f_crazy m_talk "你得叫我Brutalitops！"
 
 # game/src/plot/jen17.rpy:97
 translate zh_hans jen17_shop_6b3214cc:
@@ -217,7 +217,7 @@ translate zh_hans jen17_shop_78f70297:
 
 
     # erik "Only because Nikita shattered her knee with a chair!"
-    erik "那还不是因为 Nikita 拿椅子砸伤了她的膝盖！"
+    erik "那还不是因为Nikita拿椅子砸伤了她的膝盖！"
 
 # game/src/plot/jen17.rpy:151
 translate zh_hans jen17_shop_a0b04cf2:
@@ -586,7 +586,7 @@ translate zh_hans jen17_shop_dd0dd297:
 
 
     # erik "Or when you tapped out Rebecca Savage in that cage match!"
-    erik "还有你在铁笼赛里逼 Rebecca Savage 拍地认输的那次！"
+    erik "还有你在铁笼赛里逼Rebecca Savage拍地认输的那次！"
 
 # game/src/plot/jen17.rpy:348
 translate zh_hans jen17_shop_cbc8a28a:
@@ -1077,7 +1077,7 @@ translate zh_hans jen17_shop_ec3f8bd3:
 translate zh_hans jen17_shop_af2f153d:
 
     # erik "Eh, [saga.cast.anon] doesn't really play WoO."
-    erik "呃，[saga.cast.anon]不太玩 WoO。"
+    erik "呃，[saga.cast.anon]不太玩WoO。"
 
 translate zh_hans jen17_shop_61fd039a:
 
@@ -1165,12 +1165,12 @@ translate zh_hans jen17_shop_b11e36ef:
 
 
     # anon "She's the undefeated champion of the WPWF!"
-    anon "她可是 WPWF 的不败冠军！"
+    anon "她可是WPWF的不败冠军！"
 
 translate zh_hans jen17_shop_68fe4357:
 
     # justin "Not me, I'm here to meet the Pink Cyclone in the flesh!"
-    justin "我可不是，我是来亲眼见 Pink Cyclone 本人的！"
+    justin "我可不是，我是来亲眼见Pink Cyclone本人的！"
 
 translate zh_hans jen17_shop_bed39223:
 
@@ -1182,7 +1182,7 @@ translate zh_hans jen17_shop_2cc31d67:
 
 
     # karl "Pink Cyclone, man!"
-    karl "Pink Cyclone 啊，老兄！"
+    karl "Pink Cyclone啊，老兄！"
 
 translate zh_hans jen17_shop_0721f3a6:
 
@@ -1193,7 +1193,7 @@ translate zh_hans jen17_shop_0721f3a6:
 translate zh_hans jen17_shop_a0bc4f9e:
 
     # erik "She's the undefeated champion of the WPWF!"
-    erik "她可是 WPWF 的不败冠军！"
+    erik "她可是WPWF的不败冠军！"
 
 translate zh_hans jen17_shop_fe5e4125:
 
@@ -1213,7 +1213,7 @@ translate zh_hans jen17_shop_a4428f02:
 translate zh_hans jen17_shop_b0d244b1:
 
     # erik o_right "C'mon man, Nikita totally cheated!"
-    erik o_right "拜托，Nikita 明明是作弊！"
+    erik o_right "拜托，Nikita明明是作弊！"
 
 translate zh_hans jen17_shop_b0cdffd4:
 
@@ -1224,7 +1224,7 @@ translate zh_hans jen17_shop_d5327a22:
 
 
     # karl f_curious "Doesn't matter, the Pink Cyclone lost the belt."
-    karl f_curious "反正 Pink Cyclone 还是丢了冠军腰带。"
+    karl f_curious "反正Pink Cyclone还是丢了冠军腰带。"
 
 translate zh_hans jen17_shop_1138d828:
 
@@ -1315,7 +1315,7 @@ translate zh_hans jen17_shop_77bea559:
 translate zh_hans jen17_shop_ab4fad1d:
 
     # karl "Romeo over here confessed his undying love to the Pink Cyclone and then tried to hug her."
-    karl "这位罗密欧刚向 Pink Cyclone 宣誓永恒的爱，还想上去抱她。"
+    karl "这位罗密欧刚向Pink Cyclone宣誓永恒的爱，还想上去抱她。"
 
 translate zh_hans jen17_shop_9cccc16e:
 
@@ -1425,7 +1425,7 @@ translate zh_hans jen17_shop_6e2e6d64_1:
 
 
     # anon "That time you knocked out Lioness in the royal rumble!"
-    anon "还有你在皇家大战里淘汰 Lioness 的那次！"
+    anon "还有你在皇家大战里淘汰Lioness的那次！"
 
 translate zh_hans jen17_shop_f7d60a60:
 
@@ -1437,7 +1437,7 @@ translate zh_hans jen17_shop_23345a3e:
 
 
     # erik "That time you knocked out Lioness in the royal rumble!"
-    erik "还有你在皇家大战里淘汰 Lioness 的那次！"
+    erik "还有你在皇家大战里淘汰Lioness的那次！"
 
 translate zh_hans jen17_shop_d2245037:
 
@@ -1608,7 +1608,7 @@ translate zh_hans jen17_intro_d4f0d89d:
 translate zh_hans jen17_intro_e89d9f2b:
 
     # anon @ -m_talk "( There's a crowd of people outside Cosmic Cumics! )"
-    anon @ -m_talk "（Cosmic Cumics 外面围了一大群人！）"
+    anon @ -m_talk "（宇宙漫画外面围了一大群人！）"
 
 translate zh_hans jen17_intro_d01fa862:
 
@@ -1658,7 +1658,7 @@ translate zh_hans jen17_shop_0ecf4832:
 translate zh_hans jen17_shop_75c714f1:
 
     # anon f_shy "So this Pink Cyclone lady is here today?"
-    anon f_shy "这么说 Pink Cyclone 今天就在店里？"
+    anon f_shy "这么说Pink Cyclone今天就在店里？"
 
 translate zh_hans jen17_shop_eb780b0f:
 

@@ -4,7 +4,7 @@
 translate zh_hans misc_lotion_wait_66359746:
 
     # anon "( Mm, Brazilian Bum Bum... )"
-    anon "（嗯，巴西 Bum Bum……）"
+    anon "（嗯，巴西Bum Bum……）"
 
 # game/src/plot/misc_lotion.rpy:8
 translate zh_hans misc_lotion_wait_11bb0849:

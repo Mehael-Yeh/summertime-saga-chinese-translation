@@ -526,7 +526,7 @@ translate zh_hans strings:
     new "与[saga.cast.lily]谈谈服装的事。"
     # game/res/meta/step.rpym:410
     old "I didn't know Cosmic Cumics did custom costumes."
-    new "我都不知道Cosmic Cumics还会定制服装。"
+    new "我都不知道宇宙漫画还会定制服装。"
     # game/res/meta/step.rpym:412
     old "Speak with [saga.cast.barb] about the costumes."
     new "与[saga.cast.barb]谈谈服装的事。"
@@ -649,7 +649,7 @@ translate zh_hans strings:
     new "从Consum-R购买一把扳手。"
     # game/res/meta/step.rpym:504
     old "I'll need a wrench to properly fix that pipe. Maybe I can pick one up from Consum-R."
-    new "我需要一把扳手才能修好那根水管。也许我可以从 Consum-R 买一把。"
+    new "我需要一把扳手才能修好那根水管。也许我可以从Consum-R买一把。"
     # game/res/meta/step.rpym:507
     old "It feels good, being the man of the house."
     new "当家作主的感觉真好。"
@@ -739,10 +739,10 @@ translate zh_hans strings:
     new "[saga.cast.debbie]说在车里等她。"
     # game/res/meta/step.rpym:581
     old "Visit the Cupid store."
-    new "去Cupid商店看看。"
+    new "去丘比特商店看看。"
     # game/res/meta/step.rpym:582
     old "[saga.cast.debbie] wants to visit a store called Cupid."
-    new "[saga.cast.debbie]想去一家叫Cupid的商店。"
+    new "[saga.cast.debbie]想去一家叫丘比特的商店。"
     # game/res/meta/step.rpym:584
     old "Enter the back room."
     new "进入后面的房间。"
@@ -1030,10 +1030,10 @@ translate zh_hans strings:
     new "时候到了。希望[saga.cast.debbie]也准备好了，我该去她房间看看。"
     # game/res/meta/step.rpym:848
     old "Visit Ara Ara."
-    new "拜访Ara Ara。"
+    new "前往啊啦啊啦餐厅。"
     # game/res/meta/step.rpym:849
     old "Can't wait to see what she makes of Ara Ara, it definitely isn't somewhere she'd normally eat."
-    new "真等不及想看看她对Ara Ara有什么评价，那绝对不是她平时会去吃饭的地方。"
+    new "真等不及想看看她对啊啦啊啦有什么评价，那绝对不是她平时会去吃饭的地方。"
     # game/res/meta/step.rpym:852
     old "What a night, and now waking up to the smell of her wonderful cooking! Amazing! I'm on top of the world!"
     new "多么美妙的一晚，现在醒来就闻到她做的美味早餐！太棒了！我感觉自己站在世界之巅！"
@@ -1156,7 +1156,7 @@ translate zh_hans strings:
     new "她这么早找我有什么事呢？"
     # game/res/meta/step.rpym:949
     old "Visit the Pink store in the mall."
-    new "去商场里的Pink商店。"
+    new "去商场里的粉色诱惑。"
     # game/res/meta/step.rpym:950
     old "Why can't she buy her own sex toys?"
     new "她为什么不能自己买性玩具呢？"
@@ -1171,7 +1171,7 @@ translate zh_hans strings:
     new "从柜台上拿走玩具。"
     # game/res/meta/step.rpym:956
     old "Did [saga.cast.jane] say that was an Electro Clit... and she doesn't want it? Hmm..."
-    new "[saga.cast.jane]说那是个 Electro Clit……她还不想要？嗯……"
+    new "[saga.cast.jane]说那是个Electro Clit……她还不想要？嗯……"
     # game/res/meta/step.rpym:958
     old "Speak with [saga.cast.jenny] about the toy."
     new "和[saga.cast.jenny]谈谈那个玩具。"
@@ -1222,7 +1222,7 @@ translate zh_hans strings:
     new "我们去购物中心吧！"
     # game/res/meta/step.rpym:994
     old "Visit the Pink store."
-    new "参观Pink商店。"
+    new "前往粉色诱惑。"
     # game/res/meta/step.rpym:995
     old "Man, what crawled up her butt? I should track her down."
     new "天啊，她怎么了？我得找到她。"
@@ -1285,7 +1285,7 @@ translate zh_hans strings:
     new "天啊，真不敢相信[saga.cast.jenny]居然做了那种事……还被拍下来了！"
     # game/res/meta/step.rpym:1045
     old "Access the CAMSlut videos tab."
-    new "访问 CAMSlut 视频标签页。"
+    new "访问CAMSlut视频标签页。"
     # game/res/meta/step.rpym:1046
     old "I wonder if [saga.cast.jenny] has posted any new videos?"
     new "不知道[saga.cast.jenny]有没有发布新视频？"
@@ -1294,7 +1294,7 @@ translate zh_hans strings:
     new "如果她再有一个性玩具，说不定会发新视频？"
     # game/res/meta/step.rpym:1051
     old "Purchase a Bad Monster from Pink at the mall."
-    new "从购物中心的 Pink 那儿买个坏怪物。"
+    new "在商场的粉色诱惑买个坏怪物。"
     # game/res/meta/step.rpym:1052
     old "That Bad Monster isn't going to buy itself. I wonder why it's called that anyway?"
     new "那个坏怪物可不会自己买给自己。话说回来，为什么会叫这个名字？"
@@ -1363,10 +1363,10 @@ translate zh_hans strings:
     new "我该去哪里弄个面具？夏日镇可没有服装店。"
     # game/res/meta/step.rpym:1117
     old "Visit the Cosmic Cumics store."
-    new "前往Cosmic Cumics商店。"
+    new "前往宇宙漫画商店。"
     # game/res/meta/step.rpym:1118
     old "Whoa! What's going on at Cosmic Cumics?"
-    new "哇！Cosmic Cumics那边发生了什么事？"
+    new "哇！宇宙漫画那边发生了什么事？"
     # game/res/meta/step.rpym:1121
     old "Woo hoo, free mask! That was oddly convenient."
     new "喔吼，免费面具！真是出奇的方便。"
@@ -1453,7 +1453,7 @@ translate zh_hans strings:
     new "[saga.cast.debbie]让我跟[saga.cast.jenny]谈谈早餐的事。"
     # game/res/meta/step.rpym:1228
     old "Enter CineSaga at the mall."
-    new "进入商场里的CineSaga。"
+    new "进入商场里的传说影院。"
     # game/res/meta/step.rpym:1229
     old "I need to find the guy who was perving on [saga.cast.jenny]. My only clue is this movie stub."
     new "我得找到那个偷看[saga.cast.jenny]的家伙。我唯一的线索是这张电影票根。"
@@ -1477,7 +1477,7 @@ translate zh_hans strings:
     new "她到底跑哪儿去了？"
     # game/res/meta/step.rpym:1250
     old "We should hurry to CineSaga, don't want to miss the previews!"
-    new "我们得赶快去CineSaga，可别错过预告片！"
+    new "我们得赶快去传说影院，可别错过预告片！"
     # game/res/meta/step.rpym:1253
     old "That went well, I think."
     new "我觉得还挺顺利的。"
@@ -2005,7 +2005,7 @@ translate zh_hans strings:
     new "字典完成！该去辅导课了。"
     # game/res/meta/step.rpym:1665
     old "So bicycle in French is bicyclette... I should probably remember that!"
-    new "所以“自行车”用法语说是 bicyclette（自行车）……我应该记住这个！"
+    new "所以“自行车”用法语说是bicyclette（自行车）……我应该记住这个！"
     # game/res/meta/step.rpym:1668
     old "I wonder what [saga.cast.viv] has planned for the next tutoring session."
     new "我想知道[saga.cast.viv]为下次的辅导课准备了什么。"
@@ -2092,7 +2092,7 @@ translate zh_hans strings:
     new "[saga.cast.viv]似乎真的无法得到片刻休息……"
     # game/res/meta/step.rpym:1731
     old "Mmm, her bouche tasted so sweet... I mean, mouth! Her mouth tasted sweet! >_>;;"
-    new "嗯，她的 bouche 尝起来真甜……我是说，嘴！她的嘴尝起来真甜！ >_>;;"
+    new "嗯，她的bouche尝起来真甜……我是说，嘴！她的嘴尝起来真甜！ >_>;;"
     # game/res/meta/step.rpym:1733
     old "Enter her office in the afternoon."
     new "下午进入她的办公室。"

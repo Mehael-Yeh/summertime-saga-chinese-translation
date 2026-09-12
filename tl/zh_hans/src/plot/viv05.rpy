@@ -664,7 +664,7 @@ translate zh_hans viv05_office5_merge_6fb26168:
 translate zh_hans viv05_office5_merge_1fb36947:
 
     # viv "I'll prepare you some fromage to go with your wine..."
-    viv "我去给你准备些 fromage（奶酪），配着酒一起吃……"
+    viv "我去给你准备些fromage（奶酪），配着酒一起吃……"
 
 # game/src/plot/viv05.rpy:404
 translate zh_hans viv05_office5_merge_38044d7f:

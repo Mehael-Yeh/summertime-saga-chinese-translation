@@ -64,13 +64,13 @@ translate zh_hans jen13_camslut_f78c1b02:
 translate zh_hans jen13_camslut_23c67a57:
 
     # anon e_w f_horny -m_teeth @ -m_talk "( I should see if she wants the one I got from Pink! )"
-    anon e_w f_horny -m_teeth @ -m_talk "（我从Pink拿到的那个正好可以送给她！）"
+    anon e_w f_horny -m_teeth @ -m_talk "（我从粉色诱惑拿到的那个正好可以送给她！）"
 
 # game/src/plot/jen13.rpy:32
 translate zh_hans jen13_camslut_67afeb03:
 
     # anon @ -m_talk "( I should go to Pink and get one for her! )"
-    anon @ -m_talk "（我该去Pink给她买一个！）"
+    anon @ -m_talk "（我该去粉色诱惑给她买一个！）"
 
 # game/src/plot/jen13.rpy:42
 translate zh_hans jen13_shop_3917354c:

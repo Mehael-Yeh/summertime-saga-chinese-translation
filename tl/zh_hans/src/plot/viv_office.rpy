@@ -82,4 +82,4 @@ translate zh_hans viv_office_area_0ee284ad:
 translate zh_hans viv_office_busy_4ddc0e1b:
 
     # "{color=1ceda7}TODO:{/color} viv_office.busy"
-    "{color=1ceda7}待办事项：{/color} viv_office.busy"
+    "{color=1ceda7}待办事项：{/color}viv_office.busy"

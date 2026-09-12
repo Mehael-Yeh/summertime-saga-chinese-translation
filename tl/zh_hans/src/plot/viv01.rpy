@@ -1048,7 +1048,7 @@ translate zh_hans viv01_outro_47ab0b5f:
 translate zh_hans viv01_outro_6428cf41:
 
     # viv "No VI-loo."
-    viv "不对，是 VI-loo。"
+    viv "不对，是VI-loo。"
 
 # game/src/plot/viv01.rpy:573
 translate zh_hans viv01_outro_92490932:
@@ -1060,7 +1060,7 @@ translate zh_hans viv01_outro_92490932:
 translate zh_hans viv01_outro_8a0fa0d4:
 
     # viv "Almost, you just need to pronounce the e now."
-    viv "快对了，就差把 e 的音发出来了。"
+    viv "快对了，就差把e的音发出来了。"
 
 # game/src/plot/viv01.rpy:577
 translate zh_hans viv01_outro_81bc25ca:

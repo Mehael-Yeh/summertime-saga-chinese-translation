@@ -274,13 +274,13 @@ translate zh_hans jen08_bed2_merge_cac5f986:
 translate zh_hans jen08_bed2_merge_d7b24610:
 
     # jenny "I need you to go to the mall and look on the second floor for a store called Pink."
-    jenny "去商场二楼，找一家叫Pink的店。"
+    jenny "去商场二楼，找一家叫粉色诱惑的店。"
 
 # game/src/plot/jen08.rpy:84
 translate zh_hans jen08_bed2_merge_9d6075f8:
 
     # anon "Pink, huh?"
-    anon "Pink，是吧？"
+    anon "粉色诱惑，是吧？"
 
 # game/src/plot/jen08.rpy:85
 translate zh_hans jen08_bed2_merge_38044d7f:
@@ -652,7 +652,7 @@ translate zh_hans jen08_shop_jenny_32d7c0e8:
 translate zh_hans jen08_shop_jenny_cf88a8ba:
 
     # jenny f_annoyed "Go to Pink on the second floor of the mall, and look for the Electro Clit."
-    jenny f_annoyed "去商场二楼的Pink，找“电击阴蒂棒”。"
+    jenny f_annoyed "去商场二楼的粉色诱惑，找“电击阴蒂棒”。"
 
 # game/src/plot/jen08.rpy:195
 translate zh_hans jen08_shop_jenny_c6e322d8:

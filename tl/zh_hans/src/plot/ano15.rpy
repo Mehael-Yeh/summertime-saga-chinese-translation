@@ -4457,7 +4457,7 @@ translate zh_hans ano15_pantry_merge3_9a8155f3:
 translate zh_hans ano15_pantry_merge3_b512bc19:
 
     # tony a_fists_up f_confused "You like capicola?"
-    tony a_fists_up f_confused "你喜欢 capicola（卡皮科拉火腿）吗？"
+    tony a_fists_up f_confused "你喜欢capicola（卡皮科拉火腿）吗？"
 
 # game/src/plot/ano15.rpy:1519
 translate zh_hans ano15_pantry_merge3_e137577b:
@@ -4887,7 +4887,7 @@ translate zh_hans ano15_pantry_merge3_09c64039:
 
 
     # tony "I think I got some salami and capicola in the fridge."
-    tony "我记得冰箱里还有些萨拉米和 capicola（卡皮科拉火腿）。"
+    tony "我记得冰箱里还有些萨拉米和capicola（卡皮科拉火腿）。"
 
 translate zh_hans ano15_pantry_merge3_23521e05:
 

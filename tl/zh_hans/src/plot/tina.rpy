@@ -47,7 +47,7 @@ translate zh_hans tina_bank_lobby_intro1a_4349ae75:
 
 
     # tina "Welcome to Saga Financial."
-    tina "欢迎来到Saga金融。"
+    tina "欢迎来到传说金融。"
 
 # game/src/plot/tina.rpy:52
 translate zh_hans tina_bank_lobby_intro1a_07a56a41:

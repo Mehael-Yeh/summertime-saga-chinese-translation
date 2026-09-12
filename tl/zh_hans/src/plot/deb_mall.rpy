@@ -2896,7 +2896,7 @@ translate zh_hans deb_mall_debbie_shop6_bdd4d610:
 translate zh_hans deb_mall_debbie_shop6_59e739a0:
 
     # anon "Brazilian Bum Bum!!"
-    anon "巴西 Bum Bum！！"
+    anon "巴西Bum Bum！！"
 
 # game/src/plot/deb_mall.rpy:1155
 translate zh_hans deb_mall_debbie_shop6_5639f110:

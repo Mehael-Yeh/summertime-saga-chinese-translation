@@ -1493,7 +1493,7 @@ translate zh_hans tin_baby_rest_micoe_ad12889b:
 translate zh_hans tin_baby_rest_micoe_bc0fc0e8:
 
     # anon "Heh, yeah... [saga.cast.tina] really likes being in control."
-    anon "嘿，是啊…… [saga.cast.tina]真的很喜欢掌控一切。"
+    anon "嘿，是啊……[saga.cast.tina]真的很喜欢掌控一切。"
 
 translate zh_hans tin_baby_rest_micoe_99db4d8d:
 

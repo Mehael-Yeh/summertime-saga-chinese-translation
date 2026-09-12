@@ -80,7 +80,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:29
  old "Retro Strike"
- new "复古强击"
+ new "复古全中"
 
  # game/res/meta/sets.rpym:30
  old "Arena"
@@ -642,7 +642,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:246
  old "Ara Ara"
- new "哎呀呀"
+ new "啊啦啊啦"
 
  # game/res/meta/sets.rpym:249
  old "Den"
@@ -666,7 +666,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:260
  old "Pink"
- new "粉红"
+ new "粉色诱惑"
 
  # game/res/meta/sets.rpym:263
  # game/res/meta/sets.rpym:266

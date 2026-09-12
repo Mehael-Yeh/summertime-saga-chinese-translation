@@ -280,7 +280,7 @@ translate zh_hans deb13_lobby_52e04899:
 translate zh_hans deb13_lobby_dce75ddc:
 
     # anon e_b @ -m_talk "( Hng! Bum Bum scented torture! )"
-    anon e_b @ -m_talk "（呃！这带着 Bum Bum 香味的折磨！）"
+    anon e_b @ -m_talk "（呃！这带着Bum Bum香味的折磨！）"
 
 # game/src/plot/deb13.rpy:62
 translate zh_hans deb13_lobby_ed335933:

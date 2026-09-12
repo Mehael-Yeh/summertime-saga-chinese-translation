@@ -100,7 +100,7 @@ translate zh_hans strings:
     new "[saga.cast.diane]和[saga.cast.debbie]在童年时期形影不离。她们一起长大，一起上学，一起在营地度过夏天，甚至第一次约会也是一起——带着各自的伴侣！\n\n在大学里的诸多冒险之后不久，[saga.cast.debbie]怀孕了，这让[saga.cast.diane]生平第一次只能靠自己的小聪明度日。\n\n经历了一段漫长却并不如意的婚姻后，[saga.cast.diane]现在打算与她珍视的[saga.cast.debbie]以及由她照看的那些人重新紧密联结起来。"
     # game/res/meta/cast.rpym:455
     old "[saga.cast.anon]'s life-long friend and neighbor. His resourcefulness, quick thinking, unwavering loyalty, and eagerness to play second fiddle make him the ideal companion to any would-be hero. He's an avid gamer, amateur professional LARPer, table top savant, hobbyist bird watcher, wooer of virtual maidens, and currently holds the most DKP in guild history.\n\nProbably not the wingman you needed, but most assuredly the one you deserve."
-    new "[saga.cast.anon]的毕生好友兼邻居。他足智多谋、思维敏捷、忠心耿耿，又甘当配角，是任何未来英雄的理想伙伴。他是一名狂热玩家、业余职业 LARPer、桌游达人、观鸟爱好者、虚拟少女的追求者，目前保持着公会历史上的最高 DKP 记录。\n\n也许不是你需要的僚机，但绝对是你应得的那位。"
+    new "[saga.cast.anon]的毕生好友兼邻居。他足智多谋、思维敏捷、忠心耿耿，又甘当配角，是任何未来英雄的理想伙伴。他是一名狂热玩家、业余职业LARPer、桌游达人、观鸟爱好者、虚拟少女的追求者，目前保持着公会历史上的最高DKP记录。\n\n也许不是你需要的僚机，但绝对是你应得的那位。"
     # game/res/meta/cast.rpym:466
     old "A recent arrival to Summerville, you know little about her, other than she comes from a big city. You've heard it said around school that she's living with an older sibling. She's definitely the introverted type and mostly keeps to herself. She's supposedly quite a gifted artist.\n\nShe seems easy to talk with, maybe you should get to know her better?"
     new "她是最近才来到夏日镇的，你对她的了解很少，只知道她来自大城市。你在学校里听说她和哥哥或姐姐住在一起。她绝对是内向型，大部分时间都独来独往。据说她是个很有天赋的艺术家。\n\n她似乎很容易交谈，也许你应该多了解她一些？"

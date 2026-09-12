@@ -705,7 +705,7 @@ translate zh_hans ano13_shop1_24cd3335:
 
 
     # tony "Mhmm, it's a pear, prosciutto, and gorgonzola pizza."
-    tony "嗯哼，是梨、prosciutto（意式风干火腿）和 gorgonzola（戈贡佐拉奶酪）做的披萨。"
+    tony "嗯哼，是梨、prosciutto（意式风干火腿）和gorgonzola（戈贡佐拉奶酪）做的披萨。"
 
 # game/src/plot/ano13.rpy:188
 translate zh_hans ano13_shop1_fce438f0:
@@ -1062,7 +1062,7 @@ translate zh_hans ano13_shop1_8b25fecc:
 
 
     # anon @ -m_talk "( Pear, prosciutto, and gorgonzola on a pizza? )"
-    anon @ -m_talk "（居然把梨、prosciutto（意式风干火腿）和 gorgonzola（戈贡佐拉奶酪）放在披萨上？！）"
+    anon @ -m_talk "（居然把梨、prosciutto（意式风干火腿）和gorgonzola（戈贡佐拉奶酪）放在披萨上？！）"
 
 # game/src/plot/ano13.rpy:277
 translate zh_hans ano13_shop1_3a68b259:
@@ -1258,7 +1258,7 @@ translate zh_hans ano13_lounge_21e7a4f7:
 
 
     # tina "Pear and prosciutto, gorgonzola?"
-    tina "梨、prosciutto（意式风干火腿）和 gorgonzola（戈贡佐拉奶酪）？"
+    tina "梨、prosciutto（意式风干火腿）和gorgonzola（戈贡佐拉奶酪）？"
 
 # game/src/plot/ano13.rpy:370
 translate zh_hans ano13_lounge_0362d4f4:
@@ -1412,7 +1412,7 @@ translate zh_hans ano13_lounge_a87529b2:
 
 
     # anon a_pocket e_w f_confused "I've never heard of pear-prosciutto-gorgonzola pizza before."
-    anon a_pocket e_w f_confused "我从没听说过梨、prosciutto（意式风干火腿）和 gorgonzola（戈贡佐拉奶酪）披萨。"
+    anon a_pocket e_w f_confused "我从没听说过梨、prosciutto（意式风干火腿）和gorgonzola（戈贡佐拉奶酪）披萨。"
 
 # game/src/plot/ano13.rpy:428
 translate zh_hans ano13_lounge_caf19084:

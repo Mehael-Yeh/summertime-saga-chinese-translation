@@ -4,7 +4,7 @@
 translate zh_hans zana_cinema_lobby_intro_13d8c8e6:
 
     # zana "Welcome to CineSaga Theater, my name is Bubbles."
-    zana "欢迎光临CineSaga影院，我是Bubbles。"
+    zana "欢迎光临传说影院，我是Bubbles。"
 
 # game/src/plot/zana.rpy:17
 translate zh_hans zana_cinema_lobby_intro_96a14321:

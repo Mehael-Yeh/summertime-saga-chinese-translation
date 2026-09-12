@@ -2250,7 +2250,7 @@ translate zh_hans strings:
 
     # game/src/plot/ano10.rpy:485
     old "The pizzas have defeated me... [[{ctx=CHEAT}]"
-    new "我败给这些披萨了…… [[{ctx=CHEAT}]"
+    new "我败给这些披萨了……[[{ctx=CHEAT}]"
     # game/src/plot/ano10.rpy:67
     old "Sure!"
     new "当然！"

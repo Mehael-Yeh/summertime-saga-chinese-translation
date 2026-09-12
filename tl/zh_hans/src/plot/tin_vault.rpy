@@ -1216,7 +1216,7 @@ translate zh_hans tin_vault_vault_rails_8e0fa9b4:
 translate zh_hans tin_vault_vault_rails_29f6a4ec:
 
     # anon @ -m_talk "( ... Time to catch up to [saga.cast.tina] down in the vault. )"
-    anon @ -m_talk "（…… 是时候追上在 vault 下面的[saga.cast.tina]了。）"
+    anon @ -m_talk "（…… 是时候追上在vault下面的[saga.cast.tina]了。）"
 
 translate zh_hans strings:
 

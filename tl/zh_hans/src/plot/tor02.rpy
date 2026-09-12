@@ -1762,7 +1762,7 @@ translate zh_hans tor02_tori_merge_76d5e6d5:
 translate zh_hans tor02_tori_merge_ce043e37:
 
     # anon "One pair of Okitatron Oculars, ready for testing!"
-    anon "一副 Okitatron 眼部装置，准备测试！"
+    anon "一副Okitatron眼部装置，准备测试！"
 
 # game/src/plot/tor02.rpy:838
 translate zh_hans tor02_tori_merge_c4f340ac:
@@ -2698,7 +2698,7 @@ translate zh_hans tor02_office2_2fff76d7:
 translate zh_hans tor02_office2_a4f8846b:
 
     # anon "What about the Okitatron Oculars?"
-    anon "那台 Okitatron Oculars 是怎么回事？"
+    anon "那台Okitatron Oculars是怎么回事？"
 
 # game/src/plot/tor02.rpy:1369
 translate zh_hans tor02_office2_eb8a4b2f:

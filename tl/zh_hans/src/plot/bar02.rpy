@@ -136,7 +136,7 @@ translate zh_hans bar02_intro_area_edac3439:
 translate zh_hans bar02_mia_681c8c8d:
 
     # anon "Hey, so uhh... [saga.cast.barb] asked me to come talk to you."
-    anon "嘿，呃…… [saga.cast.barb]让我来跟你聊聊。"
+    anon "嘿，呃……[saga.cast.barb]让我来跟你聊聊。"
 
 # game/src/plot/bar02.rpy:43
 translate zh_hans bar02_mia_aae12367:

@@ -2056,7 +2056,7 @@ translate zh_hans deb23_car_7a2845eb:
 translate zh_hans deb23_car_e1b40254:
 
     # debbie "... I saw an ad in the paper this week for a sale at that Cupid store."
-    debbie "……我这周在报纸上看到Cupid店有促销。"
+    debbie "……我这周在报纸上看到丘比特店有促销。"
 
 # game/src/plot/deb23.rpy:779
 translate zh_hans deb23_car_71763898:
@@ -2182,7 +2182,7 @@ translate zh_hans deb23_car_96f51ab9:
 translate zh_hans deb23_car_dcfd457e:
 
     # kassy "Welcome to Cupid."
-    kassy "欢迎光临Cupid。"
+    kassy "欢迎光临丘比特。"
 
 # game/src/plot/deb23.rpy:820
 translate zh_hans deb23_car_81e4d79e:

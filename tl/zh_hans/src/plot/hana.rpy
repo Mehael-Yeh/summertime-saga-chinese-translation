@@ -16,13 +16,13 @@ translate zh_hans hana_sushi_shop_intro1_f6bab7e5:
 translate zh_hans hana_sushi_shop_intro1_d37fdffd:
 
     # hana "Welcome to..."
-    hana "欢迎来到……"
+    hana "欢迎光临……"
 
 # game/src/plot/hana.rpy:29
 translate zh_hans hana_sushi_shop_intro1_6051830e:
 
     # hana e_wnw f_crazy p_ara "... {i}Ara Ara!{/i}"
-    hana e_wnw f_crazy p_ara "…… {i}哎呀哎呀！{/i}"
+    hana e_wnw f_crazy p_ara "……{i}啊啦啊啦！{/i}"
 
 # game/src/plot/hana.rpy:31
 translate zh_hans hana_sushi_shop_intro1_87231104:
@@ -298,7 +298,7 @@ translate zh_hans hana_sushi_shop_outro1_43401772:
 translate zh_hans hana_sushi_shop_outro1_4e0770c6:
 
     # hana e_wnw f_crazy p_ara "{i}Ara Ara!{/i}"
-    hana e_wnw f_crazy p_ara "{i}哎呀呀！{/i}"
+    hana e_wnw f_crazy p_ara "{i}啊啦啊啦！{/i}"
 
 # game/src/plot/hana.rpy:159
 translate zh_hans hana_sushi_shop_outro1_047b527a:

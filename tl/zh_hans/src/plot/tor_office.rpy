@@ -352,7 +352,7 @@ translate zh_hans tor_office_busy_774a175e:
 translate zh_hans tor_office_busy_7910ec9f:
 
     # tori "With the proper application of electrical stimulus between the L1 and L3 vertebrae, an orgasmic feedback loop {i}should{/i} theoretically be possible..."
-    tori "通过在 L1 和 L3 椎骨之间施加适当的电刺激，理论上 {i}应能{/i} 实现一种高潮反馈循环……"
+    tori "通过在L1 和L3 椎骨之间施加适当的电刺激，理论上 {i}应能{/i} 实现一种高潮反馈循环……"
 
 # game/src/plot/tor_office.rpy:178
 translate zh_hans tor_office_busy_61fe9842:

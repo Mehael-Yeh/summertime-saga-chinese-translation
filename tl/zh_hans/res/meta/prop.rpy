@@ -254,7 +254,7 @@ translate zh_hans strings:
     new "ATM卡"
     # game/res/meta/prop.rpym:111
     old "The ATM card for my deposit account at Saga Financial."
-    new "我在Saga Financial的存款账户的ATM卡。"
+    new "我在传说金融的存款账户的ATM卡。"
     # game/res/meta/prop.rpym:113
     old "Lactation and Me"
     new "《泌乳与我》"
@@ -581,7 +581,7 @@ translate zh_hans strings:
     new "希望鸡汤没问题。店里蔬菜高汤卖完了。"
     # game/res/meta/prop.rpym:287
     old "GoldSchwagger vodka"
-    new "GoldSchwagger 伏特加"
+    new "GoldSchwagger伏特加"
     # game/res/meta/prop.rpym:288
     old "[saga.cast.becca] seems to be very fond of that stuff, it has little golden flakes in it..."
     new "[saga.cast.becca]似乎很喜欢那东西，里面有金色的薄片…"
@@ -602,7 +602,7 @@ translate zh_hans strings:
     new "法国美食作业"
     # game/res/meta/prop.rpym:297
     old "Sure, it might be a little cheesy, but who doesn't like a good homage to fromage?"
-    new "当然，这也许有点俗气，但谁不喜欢向 fromage（奶酪）致敬呢？"
+    new "当然，这也许有点俗气，但谁不喜欢向fromage（奶酪）致敬呢？"
     # game/res/meta/prop.rpym:299
     old "Scanned French pages"
     new "扫描的法语页面"
@@ -917,13 +917,13 @@ translate zh_hans strings:
     new "一个小凳子。"
     # game/res/meta/prop.rpym:461
     old "Some CineSaga promotional material"
-    new "一些CineSaga的宣传材料"
+    new "一些传说影院的宣传材料"
     # game/res/meta/prop.rpym:462
     old "This is just the ticket to help unmask [saga.cast.jenny]'s stalker."
     new "这正是帮助揭露[saga.cast.jenny]跟踪狂身份的好办法。"
     # game/res/meta/prop.rpym:464
     old "A pair of CineSaga movie tickets"
-    new "两张CineSaga电影票"
+    new "两张传说影院电影票"
     # game/res/meta/prop.rpym:465
     old "What even is a Supercerealbob? Maybe some kind of discount code?"
     new "Supercerealbob到底是什么？也许是某种折扣码？"
@@ -1025,7 +1025,7 @@ translate zh_hans strings:
     new "粉色包装"
     # game/res/meta/prop.rpym:531
     old "A purchased item from Pink."
-    new "从Pink处购买的物品。"
+    new "从粉色诱惑购买的物品。"
     # game/res/meta/prop.rpym:533
     old "Old photograph"
     new "旧照片"
@@ -1220,7 +1220,7 @@ translate zh_hans strings:
     new "虚拟现实头戴设备。"
     # game/res/meta/prop.rpym:659
     old "Supersaga digital webcam"
-    new "Supersaga 数码网络摄像头"
+    new "Supersaga数码网络摄像头"
     # game/res/meta/prop.rpym:660
     old "The next gen webcam with high definition!"
     new "下一代高清网络摄像头！"
@@ -1304,7 +1304,7 @@ translate zh_hans strings:
     new "一个电动钻头假阳具。"
     # game/res/meta/prop.rpym:701
     old "Electro Clit Lite"
-    new "电子阴蒂 Lite"
+    new "电子阴蒂Lite"
     # game/res/meta/prop.rpym:702
     old "A cheaper version of the popular battery-powered vibrating clit stimulator."
     new "流行的电池供电振动阴蒂刺激器的廉价版。"

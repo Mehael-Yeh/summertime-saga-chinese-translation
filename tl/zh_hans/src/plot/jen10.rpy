@@ -766,7 +766,7 @@ translate zh_hans jen10_grace_17dca50a:
 translate zh_hans jen10_grace_46575a44:
 
     # jenny f_angry m_teeth o_left "Grr, we're going to Pink on the second floor, okay?!"
-    jenny f_angry m_teeth o_left "啧，我们去二楼的Pink店，行了吧？！"
+    jenny f_angry m_teeth o_left "啧，我们去二楼的粉色诱惑，行了吧？！"
 
 # game/src/plot/jen10.rpy:338
 translate zh_hans jen10_grace_cfb6e12f:
@@ -880,7 +880,7 @@ translate zh_hans jen10_grace_106c4279:
 translate zh_hans jen10_grace_41516240:
 
     # grace "Sugar Tats."
-    grace "Sugar Tats。"
+    grace "甜蜜纹身。"
 
 # game/src/plot/jen10.rpy:380
 translate zh_hans jen10_grace_0cd1e571:
@@ -1306,7 +1306,7 @@ translate zh_hans jen10_grace_ffd394f0:
 translate zh_hans jen10_grace_41516240_1:
 
     # grace "Sugar Tats."
-    grace "Sugar Tats。"
+    grace "甜蜜纹身。"
 
 # game/src/plot/jen10.rpy:495
 translate zh_hans jen10_grace_fcc8faf4:
@@ -1720,7 +1720,7 @@ translate zh_hans jen10_grace_merge_4e37ae6b:
 translate zh_hans jen10_grace_merge_01fe63d0:
 
     # anon @ -m_talk "( She said she was headed towards, Pink... I should check there. )"
-    anon @ -m_talk "（她说要去Pink……我去那边看看。）"
+    anon @ -m_talk "（她说要去粉色诱惑……我去那边看看。）"
 
 # game/src/plot/jen10.rpy:635
 translate zh_hans jen10_grace_rails_3fa38835:
@@ -2002,7 +2002,7 @@ translate zh_hans jen10_shop_rails_bd281fd3:
 translate zh_hans jen10_shop_rails_66509d12:
 
     # anon @ -m_talk "( She said she was heading towards Pink on the second floor. )"
-    anon @ -m_talk "（她说要去二楼的Pink。）"
+    anon @ -m_talk "（她说要去二楼的粉色诱惑。）"
 
 # game/src/plot/jen10.rpy:740
 translate zh_hans jen10_toy_0592f92f:

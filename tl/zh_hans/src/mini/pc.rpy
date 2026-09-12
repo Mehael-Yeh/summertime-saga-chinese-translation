@@ -145,7 +145,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:392
     old "Go where no manhood has gone before past the alluring pussy of the Orcette. This mesmerizing pearlescent green begs to eat you up for a close encounter of the preferred kind. The Orcette Fleshlight comes with the pearlescent green Orc sleeve and a deep green outer case that combine to take your orcette fantasy to the outer limits of your imagination."
-    new "驶向无人触及的领域，穿越兽娘诱人的小穴。这 mesmerizing 的珠光绿色渴望将你吞噬，带来一场亲密接触。兽娘名器配有珠光绿色兽娘内胆和深绿色外壳，将你的兽娘幻想推向想象力的极限。"
+    new "驶向无人触及的领域，穿越兽娘诱人的小穴。这mesmerizing的珠光绿色渴望将你吞噬，带来一场亲密接触。兽娘名器配有珠光绿色兽娘内胆和深绿色外壳，将你的兽娘幻想推向想象力的极限。"
 
     # game/src/mini/pc.rpy:401
     old "Purchase now!"
@@ -161,7 +161,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:412
     old "Transaction ID: 74656368-7570-6461-7465-687572746d65"
-    new "交易 ID: 74656368-7570-6461-7465-687572746d65"
+    new "交易ID: 74656368-7570-6461-7465-687572746d65"
 
     # game/src/mini/pc.rpy:619
     old "COMPOSE"
@@ -225,7 +225,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:727
     old "Your earnings will be sent from your CAMslut account to your bank!\n\nThank you for using our premium service. If you have any issues with money transfers please contact us at support@camslut.dc. Stay sexy!\n\n- CAMslut Team"
-    new "你的收入将从 CAMslut 账户转入你的银行！\n\n感谢使用我们的高级服务。如果你在转账中遇到任何问题，请通过 support@camslut.dc 联系我们。保持性感！\n\n- CAMslut 团队"
+    new "你的收入将从CAMslut账户转入你的银行！\n\n感谢使用我们的高级服务。如果你在转账中遇到任何问题，请通过support@camslut.dc联系我们。保持性感！\n\n- CAMslut团队"
 
     # game/src/mini/pc.rpy:740
     old "\"Oye mami, I wanted to show you mi Pinga Latina {emoji=wink}\""
@@ -257,7 +257,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:777
     old "Thank you for your online purchase! All our orders can take up to 4 business days to reach their destination. If you have not received your package, please contact us at support@lewdtoys.dc.\n\n- LewdToys"
-    new "感谢您从我们网店购买！所有订单送达可能需要最多4个工作日。如果您尚未收到包裹，请通过 support@lewdtoys.dc 联系我们。\n\n- 情趣玩具"
+    new "感谢您从我们网店购买！所有订单送达可能需要最多4个工作日。如果您尚未收到包裹，请通过support@lewdtoys.dc联系我们。\n\n- 情趣玩具"
 
     # game/src/mini/pc.rpy:782
     old "* All products have been tested on animals."

@@ -584,7 +584,7 @@ translate zh_hans mel05_science_aa45b4e2:
 
 translate zh_hans mel05_science_2f2ffa1e:
     # eve e_w f_confused "... [saga.cast.erik]?"
-    eve e_w f_confused "…… [saga.cast.erik]？"
+    eve e_w f_confused "……[saga.cast.erik]？"
 
 translate zh_hans mel05_science_99aa3ff4:
     # eve f_calm "Heh, you'd probably be better off flying solo!"
@@ -884,7 +884,7 @@ translate zh_hans mel05_school_alt_3c5ae51d:
 
 translate zh_hans mel05_school_alt_9c0ad2a9:
     # erik e_w f_shy "... [saga.cast.viv] always seems to have her classroom window open during lessons."
-    erik e_w f_shy "…… [saga.cast.viv]上课时似乎总是开着教室的窗户。"
+    erik e_w f_shy "……[saga.cast.viv]上课时似乎总是开着教室的窗户。"
 
 translate zh_hans mel05_school_alt_b3295826:
     # anon a_finger e_w f_happy_surprised "Good thinking, let's try there!"

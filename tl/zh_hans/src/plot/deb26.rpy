@@ -670,7 +670,7 @@ translate zh_hans deb26_diane_00a4db5a:
 
 
     # anon "There {i}was{/i} this really expensive dress at Cupid that she likes..."
-    anon "Cupid 那里{i}有{/i}一条她特别喜欢的昂贵裙子……"
+    anon "丘比特那里{i}有{/i}一条她特别喜欢的昂贵裙子……"
 
 # game/src/plot/deb26.rpy:148
 translate zh_hans deb26_diane_62e9d884:
@@ -1160,7 +1160,7 @@ translate zh_hans deb26_kassy_6bf44ddb:
 
 
     # anon a_facepalm f_shy @ -m_talk "( Oh man, {i}Ara Ara{/i} is literally staring me in the face! )"
-    anon a_facepalm f_shy @ -m_talk "（天啊，{i}Ara Ara{/i}不就在我眼前嘛！）"
+    anon a_facepalm f_shy @ -m_talk "（天啊，{i}啊啦啊啦{/i}不就在我眼前嘛！）"
 
 # game/src/plot/deb26.rpy:306
 translate zh_hans deb26_kassy_82c2890a:
@@ -3130,7 +3130,7 @@ translate zh_hans deb26_shop_merge1_c19e9274:
 
 
     # titomi p_ara "Ara Ara."
-    titomi p_ara "Ara Ara。"
+    titomi p_ara "啊啦啊啦。"
 
 # game/src/plot/deb26.rpy:1583
 translate zh_hans deb26_shop_merge1_eb780b0f:
@@ -3582,7 +3582,7 @@ translate zh_hans deb26_shop_rails_f7b30462:
 
 
     # anon e_w f_calm "The place we want is next to Cupid."
-    anon e_w f_calm "我们要去的地方就在 Cupid 旁边。"
+    anon e_w f_calm "我们要去的地方就在丘比特旁边。"
 
 # game/src/plot/deb26.rpy:1940
 translate zh_hans deb26_shop_sushi_f36bd6af:
@@ -4433,7 +4433,7 @@ translate zh_hans deb26_shop_39fc0056:
 
 
     # hana e_w f_crazy p_ara "... Ara Ara!"
-    hana e_w f_crazy p_ara "……Ara Ara！"
+    hana e_w f_crazy p_ara "……啊啦啊啦！"
 
 translate zh_hans deb26_shop_1b2861be:
 
@@ -5212,7 +5212,7 @@ translate zh_hans deb26_shop_sushi_ebe49958:
 
 
     # hana e_w f_crazy p_ara "Ara Ara!"
-    hana e_w f_crazy p_ara "Ara Ara！"
+    hana e_w f_crazy p_ara "啊啦啊啦！"
 
 translate zh_hans deb26_shop_sushi_e52bd58e:
 

@@ -142,7 +142,7 @@ translate zh_hans jos01_yoo_51787d74:
 translate zh_hans jos01_yoo_1595ba27:
 
     # yoo f_calm "J-Ro Deruxe."
-    yoo f_calm "J-Ro 豪华版。"
+    yoo f_calm "J-Ro豪华版。"
 
 # game/src/plot/jos01.rpy:58
 translate zh_hans jos01_yoo_84067efe:
@@ -154,7 +154,7 @@ translate zh_hans jos01_yoo_84067efe:
 translate zh_hans jos01_yoo_c8d1c5ee:
 
     # yoo f_smug "You fit arr your junk inside the J-Ro trunk, yes?"
-    yoo f_smug "你所有的东西都能塞进 J-Ro 的后备箱，对吧？"
+    yoo f_smug "你所有的东西都能塞进J-Ro的后备箱，对吧？"
 
 # game/src/plot/jos01.rpy:61
 translate zh_hans jos01_yoo_8929c6aa:
@@ -166,7 +166,7 @@ translate zh_hans jos01_yoo_8929c6aa:
 translate zh_hans jos01_yoo_df855750:
 
     # yoo f_calm -m_teeth "No, not J-Ro... J-Ro!"
-    yoo f_calm -m_teeth "不，不是 J-Ro……是 J-Ro！"
+    yoo f_calm -m_teeth "不，不是J-Ro……是J-Ro！"
 
 # game/src/plot/jos01.rpy:63
 translate zh_hans jos01_yoo_eb780b0f:
@@ -256,7 +256,7 @@ translate zh_hans jos01_yoo_b2f8d7cd:
 translate zh_hans jos01_yoo_99242ce1:
 
     # yoo f_curious "... How 'bout the Achieva Impact?"
-    yoo f_curious "……那 Achieva Impact 怎么样？"
+    yoo f_curious "……那Achieva Impact怎么样？"
 
 # game/src/plot/jos01.rpy:93
 translate zh_hans jos01_yoo_346325d0:
@@ -310,7 +310,7 @@ translate zh_hans jos01_yoo_61406077:
 translate zh_hans jos01_yoo_ca97c16e:
 
     # yoo "I serr you Freetwood Panhandrer."
-    yoo "我卖你 Freetwood Panhandrer。"
+    yoo "我卖你Freetwood Panhandrer。"
 
 # game/src/plot/jos01.rpy:116
 translate zh_hans jos01_yoo_60d5a090:

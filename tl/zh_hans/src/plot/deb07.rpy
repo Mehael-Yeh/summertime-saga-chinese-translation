@@ -736,7 +736,7 @@ translate zh_hans deb07_movie_f3fcfc52:
 translate zh_hans deb07_movie_4594072b:
 
     # anon @ e_nne_nnw f_elated -m_talk "( Mmm, Brazilian Bum Bum! )"
-    anon @ e_nne_nnw f_elated -m_talk "（嗯……巴西 Bum Bum！）"
+    anon @ e_nne_nnw f_elated -m_talk "（嗯……巴西Bum Bum！）"
 
 # game/src/plot/deb07.rpy:257
 translate zh_hans deb07_movie_6d7409a9:

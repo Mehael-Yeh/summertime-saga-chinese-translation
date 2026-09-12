@@ -608,7 +608,7 @@ translate zh_hans mel06_kevin_merge1_0c15a82e:
 
 translate zh_hans mel06_kevin_merge1_05f57138:
     # anon "... MC [saga.cast.tyrone]!"
-    anon "…… MC [saga.cast.tyrone]！"
+    anon "……MC [saga.cast.tyrone]！"
 
 translate zh_hans mel06_kevin_merge1_e6c7cab0:
     # anon "... And of course, [saga.cast.melody]!"
@@ -860,7 +860,7 @@ translate zh_hans mel06_kevin_merge2_e13db23c:
 
 translate zh_hans mel06_kevin_merge2_1bb155af:
     # melody "I've decided to give you an A+ in my class."
-    melody "我决定在我的课上给你一个 A+。"
+    melody "我决定在我的课上给你一个A+。"
 
 translate zh_hans mel06_kevin_merge2_b42dc1f3:
     # anon "Really?!"

@@ -176,7 +176,7 @@ translate zh_hans tina_lounge_tina1_0a922936:
 
 
     # anon a_uneasy f_shy "Oh, right... [saga.cast.becca]'s here, huh?"
-    anon a_uneasy f_shy "哦，对了…… [saga.cast.becca]还在这儿，是吧？"
+    anon a_uneasy f_shy "哦，对了……[saga.cast.becca]还在这儿，是吧？"
 
 translate zh_hans tina_lounge_tina1_4ff08104:
 

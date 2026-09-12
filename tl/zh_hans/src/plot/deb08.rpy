@@ -514,7 +514,7 @@ translate zh_hans deb08_car_39debf33:
 translate zh_hans deb08_car_9f4fe551:
 
     # debbie a_side e_w oa_purse "... But first, [saga.cast.tammy] mentioned something the other day about some new store here called Cupid."
-    debbie a_side e_w oa_purse "……不过在那之前，[saga.cast.tammy]前几天提到这里新开了一家叫Cupid的店。"
+    debbie a_side e_w oa_purse "……不过在那之前，[saga.cast.tammy]前几天提到这里新开了一家叫丘比特的店。"
 
 # game/src/plot/deb08.rpy:189
 translate zh_hans deb08_car_f4c0268e:
@@ -910,7 +910,7 @@ translate zh_hans deb08_shop1_78a1cadd:
 translate zh_hans deb08_shop1_rails_e46eb20a:
 
     # anon @ -m_talk "( Hmm, I'm supposed to be looking for a store called \"Cupid\". )"
-    anon @ -m_talk "（嗯，我要找一家叫“Cupid”的店。）"
+    anon @ -m_talk "（嗯，我要找一家叫“丘比特”的店。）"
 
 # game/src/plot/deb08.rpy:333
 translate zh_hans deb08_shop1_rails_2451a0ee:

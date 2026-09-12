@@ -4,7 +4,7 @@
 translate zh_hans kassy_gift_shop_intro1_d53178a3:
 
     # kassy "Welcome to Cupid. My name is [saga.cast.kassy]!"
-    kassy "欢迎光临Cupid。我叫[saga.cast.kassy]！"
+    kassy "欢迎光临丘比特。我叫[saga.cast.kassy]！"
 
 # game/src/plot/kassy.rpy:25
 translate zh_hans kassy_gift_shop_intro1_2bb231f7:

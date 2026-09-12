@@ -28,7 +28,7 @@ translate zh_hans jen_tv_f165e2f7:
 translate zh_hans jen_tv_9c965fe6:
 
     # jenny "Who said you could use my Pink Channel account?"
-    jenny "谁允许你用我的 Pink Channel 账号了？"
+    jenny "谁允许你用我的Pink Channel账号了？"
 
 # game/src/plot/jen_tv.rpy:19
 translate zh_hans jen_tv_7f29a9dc:
