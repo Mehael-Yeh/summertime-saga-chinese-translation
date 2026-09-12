@@ -1,6 +1,12 @@
 # 翻译精修进度
 
+## 2026-09-12 非地名英文残留
+
+修复10条目标字符串：2条气泡编辑器操作、1句完整日记、1处lite、1处mesmerizing、1处LARPer、3处物品名及1条网页评论。非英语与混合语言句本轮不改；保留理由和开发占位问题见 `english_residuals.md`。新增4条术语审计规则，按用户说明恢复12个月份全称为英文，撤掉June校验例外；防止共享字符串翻译影响角色姓名。
+
 ## 2026-09-12 地名与中英文间距专项
+
+再次排查：Consum-R→购乐百货（19处）、Hillside Mall→山畔商场、Rusty Angus→锈牛酒吧、Glazies→糖霜甜甜圈店；另修正灯室、房车营地、育幼院、小客厅、竞技场的 UI 译名，合计27处。同步更正 Consum-R 保留英文的旧规则，并增加5条场所名称审计规则。
 
 后续按用户确认，将 Ara Ara 的 UI、菜单、任务和对话共10处统一为“啊啦啊啦”，同时将欢迎词调整为“欢迎光临……”，保留店名兼招呼语的日式韵味。
 
@@ -111,10 +117,10 @@
 | `tl/zh_hans/src/plot/photo_debbie_diane.rpy` | Debbie/Diane 夏令营旧照片 | Anon、Debbie、Diane（变量） | 完成 | 通读并精修 2 个翻译块；修复女性复数代词误用和ASCII内心独白括号，保留两人年轻时共同参加夏令营的时间与情绪信息 | 本批格式校验通过 |
 | `tl/zh_hans/src/plot/pie_stall.rpy` | 商场摊位；Pietro 涂油误会、腹肌自恋与厕所隔间逃跑 | Anon、Pietro、摊位员工 | 完成 | 完整通读28个活动翻译块并结合角色动作参数复原误会：Pietro误以为Anon来帮他涂油，Anon拒绝后又被误解为否定腹肌；统一`Adonis`为“阿多尼斯”、破折号、省略号和全角内心独白，保留自恋喜剧及Anon事后担心员工受牵连的收尾 | 英文原文注释diff通过（无UTF-8 BOM、111个裸LF、0个CRLF、文件末尾LF、28个活动翻译块、0组菜单映射） |
 | `tl/zh_hans/src/plot/jen01.rpy` | Jenny线；浴室偷窥、被发现及前期敌对关系 | Jenny、Anon、Debbie（被提及） | 完成 | 通读完整场景并精修 31 个翻译块；将 `You! / Little! / PERVERT!!!` 作为被吹风机击打打断的连续辱骂处理，修复“娃娃脸”误译；保留偷窥事实、Jenny 的尖刻攻击性及 Anon 求情逻辑，统一中文省略号与标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
-| `tl/zh_hans/src/plot/jen02.rpy` | Jenny线；新衣争执、求职压力、搬家宣言及家庭责任对照 | Jenny、Debbie、Anon | 完成 | 通读完整场景并精修 58 个翻译块；恢复 `Consum-R` 英文专名，理顺 Jenny 的讽刺与负担感、Debbie 的经济压力和安抚、Anon 的挖苦与体谅；统一 `sweetie`“亲爱的”、`good boy`“好男孩”及连续拆句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
+| `tl/zh_hans/src/plot/jen02.rpy` | Jenny线；新衣争执、求职压力、搬家宣言及家庭责任对照 | Jenny、Debbie、Anon | 完成 | 通读完整场景并精修 58 个翻译块；Consum-R现统一为“购乐百货”，理顺 Jenny 的讽刺与负担感、Debbie 的经济压力和安抚、Anon 的挖苦与体谅；统一 `sweetie`“亲爱的”、`good boy`“好男孩”及连续拆句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/zh_hans/src/plot/jen03.rpy` | Jenny线；早餐赌气、借款争执及赚钱计划铺垫 | Jenny、Debbie、Anon、Diane（被提及） | 完成 | 通读完整场景并精修 67 个翻译块；承接 `jen02.rpy` 的家庭争执，理顺 Jenny 拒绝早餐、借六十美元、含糊赚钱计划与学费压力；区分 Jenny 的讽刺、Anon 的反驳和 Debbie 的照顾者语气，统一 `sweetie`“亲爱的”、中文省略号及活动译文标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/zh_hans/src/plot/jen04.rpy` | Jenny线；夜间色情影片角色扮演、再次偷窥、吹风机反击与勒索 | Jenny、Anon、Debbie（被提及）、影片男声 | 完成 | 通读完整场景并精修 63 个翻译块；理顺 Anon 误以为 Jenny 带男人回家、发现她跟随影片进行角色扮演、暴露后再次挨打及按现金量分支交钱的因果；统一 Jenny 对 Anon 的 `perv/pervert` 为“变态”，将色情角色称谓 `Daddy` 译为“爸爸”并与真实亲属关系区分，保留成人内容强度及中文引号、省略号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
-| `tl/zh_hans/src/plot/jen05.rpy` | Jenny线；Sluttygram 赚钱计划、首次合作拍摄性感照片与关系短暂缓和 | Jenny、Anon | 完成 | 通读 129 个翻译块和 7 项拍照选项；理顺粉丝焦虑、社交媒体建议、拒绝回 Consum-R、逐步增加暴露程度及拍完立即赶人的关系变化；恢复 `Sluttygram`、`Consum-R` 英文专名，统一 `perv`“变态”、本场 `wimp`“窝囊废”、连续拆句、拍摄评价和中文省略号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
+| `tl/zh_hans/src/plot/jen05.rpy` | Jenny线；Sluttygram 赚钱计划、首次合作拍摄性感照片与关系短暂缓和 | Jenny、Anon | 完成 | 通读 129 个翻译块和 7 项拍照选项；理顺粉丝焦虑、社交媒体建议、拒绝回 Consum-R、逐步增加暴露程度及拍完立即赶人的关系变化；保留Sluttygram英文专名；Consum-R现统一为“购乐百货”，统一 `perv`“变态”、本场 `wimp`“窝囊废”、连续拆句、拍摄评价和中文省略号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/zh_hans/src/plot/jen06.rpy` | Jenny线；潜入卧室寻找照片、翻看日记、内裤误会及付费看图交易 | Jenny、Anon、Debbie（被提及） | 完成 | 通读 105 个翻译块和 2 项分支选项；理顺潜入卧室、日记与内裤被撞见、六十美元看图交易、还价/央求/拒绝分支及逐张照片评论；修复反译、内心独白括号、ASCII 省略号与连续讽刺，统一本场 `loser`“废柴”、`perv/pervert`“变态”并保留性欲和自慰表达强度 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/zh_hans/src/plot/jen07.rpy` | Jenny线；Sluttygram 收入争执、两百美元看胸/摸胸交易及首次吸吮越界 | Jenny、Anon、Debbie | 完成 | 通读并精修 177 个翻译块；理顺早餐争执、免费色情内容竞争、强迫承认吸引力、付费看胸与摸胸流程，以及 Anon 越界吸吮乳头后 Jenny 有快感但仍叫停的关系推进；修复 `Poor thing`“娃娃脸”等错译，统一 `loser`“废柴”、内心独白括号、中文省略号和连续拆句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/zh_hans/src/plot/jen08.rpy` | Jenny线；情趣玩具差事、Pink退货争执与裸体奖励 | Jenny、Anon、Jane、Ivy | 完成 | 通读完整文件及普通/强势分支；精修电击阴蒂棒代购、Pink店内退货争执、Jane与Ivy成人互动、付款/棒棒糖分支及Jenny裸体履约；统一 `loser`“废柴”、`perv`“变态”、产品名与女性高潮表达 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`通过 |
@@ -227,7 +233,7 @@
 | `tl/zh_hans/src/plot/tv.rpy` | 电视短节目；Ronald竞选、被捕与监狱新闻链，Yoo牢房结局及普通频道切换 | Anon；Ronald、Yoo（电视画面） | 完成 | 完整通读14个活动翻译块，并结合8张电视节目画面复核新闻和视觉笑点；精修14个活动翻译块，修复`perp walk`误译、监狱发布会连续反问、Yoo去向、市长徒弟调侃、自然频道和女子沙滩排球观看兴趣，统一全角内心括号与中文省略号 | 英文原文注释diff通过；无BOM、86个CRLF、0个裸LF、文件末尾LF、14个活动翻译块、0组菜单映射 |
 | `tl/zh_hans/src/plot/tym_stall.rpy` | 商场更衣隔间；Tyme 偷偷涂写、被撞见后的掩饰与逃离 | Anon、Tyme | 完成 | 完整通读7个活动翻译块，并结合商场更衣隔间文件簇及Tyme的记号笔动作资源确认涂鸦场景；精修7个活动翻译块，补足被打断的道歉、还原陌生同龄人的“哥们儿”口吻与结巴告别，统一中文省略号、全角内心括号和Anon不以为意的收尾 | 英文原文注释diff通过；无BOM、28个裸LF、0个CRLF、文件末尾LF、7个活动翻译块、0组菜单映射；Git numstat为7/7 |
 | `tl/zh_hans/src/plot/ursula.rpy` | 学校教师休息室；违规闯入、当场喝止与开除威胁 | Ursula、Anon | 完成 | 完整通读8个活动翻译块，并对照`school_office1.rpy`的校长办公室拒绝事件与Ursula角色档案；精修6个活动翻译块，恢复Ursula短促强硬的校长训斥、Anon被打断后的结巴服从，统一`teachers' lounge`“教师休息室”、`ma'am`“校长”、全角内心括号、中文省略号和问号 | `validate_translations.py --changed`验证96个修改文件；重复术语审计零不一致；`git diff --check`及英文注释diff通过；有BOM、48个CRLF、0个裸LF、无文件末尾换行、8个活动翻译块、0组菜单；Git numstat为6/6 |
-| `tl/zh_hans/src/plot/vee.rpy` | Consum-R 货架通道；店员接待、销售范围追问与蔬菜高汤任务入口 | Vee、Anon | 完成 | 完整通读25个活动翻译块和2组已有菜单映射，并对照`tor05.rpy`的蔬菜高汤采购场景；精修14个活动翻译块和1组菜单映射，恢复欢迎口号中的`aisle`语义、Vee随和店员口吻与逐类追问笑点，统一`vegetable stock`“蔬菜高汤”、BMX车型名及Consum-R英文店名 | `validate_translations.py --changed`验证97个修改文件；重复术语审计零不一致；`git diff --check`及英文注释diff通过；有BOM、0个CRLF、160个裸LF、无文件末尾换行、25个活动翻译块、2组菜单映射；Git numstat为15/15 |
+| `tl/zh_hans/src/plot/vee.rpy` | Consum-R 货架通道；店员接待、销售范围追问与蔬菜高汤任务入口 | Vee、Anon | 完成 | 完整通读25个活动翻译块和2组已有菜单映射，并对照`tor05.rpy`的蔬菜高汤采购场景；精修14个活动翻译块和1组菜单映射，恢复欢迎口号中的`aisle`语义、Vee随和店员口吻与逐类追问笑点，统一`vegetable stock`“蔬菜高汤”、BMX车型名及Consum-R中文店名“购乐百货” | `validate_translations.py --changed`验证97个修改文件；重复术语审计零不一致；`git diff --check`及英文注释diff通过；有BOM、0个CRLF、160个裸LF、无文件末尾换行、25个活动翻译块、2组菜单映射；Git numstat为15/15 |
 | `tl/zh_hans/src/plot/viv.rpy` | Viv法语教室／办公室公共入口；课后辅导事件菜单与关系解锁后的“补课”双关 | Viv、Anon；Roxxy（菜单变量） | 完成 | 完整通读23个活动翻译块和4组已有菜单映射，并对照`ano01.rpy`、`viv01-05.rpy`与`viv_office.rpy`确认关系阶段；精修14个活动翻译块和2组菜单映射，恢复缺课进度语义、教师询问与告别的自然回应，并在性关系解锁后补出`more {i}tutoring{/i}`的“又来补课”双关；未为4个缺失菜单擅自新增映射 | `validate_translations.py --changed`验证98个修改文件；重复术语审计零不一致；`git diff --check`及英文注释diff通过；有BOM、0个CRLF、157个裸LF、文件末尾LF、23个活动翻译块、4组菜单映射；Git numstat为16/16 |
 | `tl/zh_hans/src/plot/viv_office.rpy` | Viv线后期；法语教室“补课”预约、办公室重复性爱与复用入口 | Viv、Anon | 完成 | 完整通读14个活动翻译块并对照`viv05.rpy`首次性爱奖励及`viv.rpy`后期办公室问候；精修10个活动翻译块，明确“补课”性爱双关、双方熟稔预约和Viv主动欲望，将`Ravage me!`准确译为“狠狠地肏我吧”，并统一`mon bel homme`“我的帅哥” | `validate_translations.py --changed`验证99个修改文件；重复术语审计及`viv_mon_bel_homme`专项审计零不一致；`git diff --check`及英文注释diff通过；有BOM、84个CRLF、0个裸LF、无文件末尾换行、14个活动翻译块、0组菜单映射；Git numstat为10/10 |
 | `tl/zh_hans/src/plot/viv01.rpy` | Viv线开端；一对一辅导报名、缺页法英词典、Judith借书、June复印机与首次课后辅导 | Viv、Anon、Judith、Jane、June | 完成 | 完整通读219个活动翻译块和3组已有字符串映射，结合动作演出与STR分支精修约134行；恢复“特殊奖励”的早期暧昧、词典缺页任务逻辑、`PC LOAD LETTER`复印机笑点、法语发音互动和Judith羞怯好感；统一`mon bel homme`为“我的帅哥”，未倒灌后期性关系 | `validate_translations.py --changed`验证100个修改文件；重复术语审计零不一致；`git diff --check`及英文注释diff通过；无BOM、1322行、CRLF、文件末尾LF、219个活动翻译块、3组字符串映射；Git numstat为134/134 |
@@ -301,7 +307,7 @@
 - 已建立“短距离重复 2 次即触发”的跨文件复查机制；当前登记 93 组称呼、口癖、关系身份、连续笑点、专名、食品术语、地点、亲属称谓和成人双关，并记录未处理文件中的既有不一致队列。
 - 已固定首批系统术语：存档、读档、设置、物品栏、任务、城镇地图、时间段。
 - 地点暂定统一为“夏日镇”；`Tony's Pizza` 按语境使用“Tony披萨店”。
-- 已补充 Anon 卧室设备交互：椅子脚轮检查、电脑零件/修复/画质升级及手机 Wi-Fi 连点彩蛋；固定 `Consum-R` 保持英文、`cheat menu`→“作弊菜单”、游戏故障 `bugs`→“BUG”，并把手机八条提示作为连续递进场景处理。
+- 已补充 Anon 卧室设备交互：椅子脚轮检查、电脑零件/修复/画质升级及手机 Wi-Fi 连点彩蛋；固定 `Consum-R` 统一译“购乐百货”、`cheat menu`→“作弊菜单”、游戏故障 `bugs`→“BUG”，并把手机八条提示作为连续递进场景处理。
 - 已补充公寓、银行与车行的地点进入限制：统一使用简短内心独白表达深夜/未受邀访问、员工区、营业时间、禁止逗留和闭店逻辑，并修复代词、ASCII 省略号及活动译文直角引号。
 - 已补充 Erik 卧室物品检查：床底灰尘与书、凌乱抽屉及旧游戏手柄回忆；保持 Anon/Erik 童年好友语气，不擅自解释抽屉污渍来源。
 - 已补充 Debbie 家中短交互：阁楼旧物、卧室进入限制、绘画爱好、内裤抽屉隐私、浴室门缝与 Debbie/Diane 夏令营旧照片；修复女性复数代词，并补建 Diane 的英文姓名档案。

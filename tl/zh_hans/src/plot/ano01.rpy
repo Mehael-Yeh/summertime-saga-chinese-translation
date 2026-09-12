@@ -3622,7 +3622,7 @@ translate zh_hans ano01_outro_fb8574dc:
 translate zh_hans ano01_outro_bf53209b:
 
     # erik "Hmmm... I usually shop for parts at Consum-R in the mall."
-    erik "嗯……我一般去商场的Consum-R买零件。"
+    erik "嗯……我一般去商场的购乐百货买零件。"
 
 # game/src/plot/ano01.rpy:1287
 translate zh_hans ano01_outro_d5963f25:

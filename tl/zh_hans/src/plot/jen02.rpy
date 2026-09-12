@@ -118,7 +118,7 @@ translate zh_hans jen02_lobby_5a4e6aa1:
 translate zh_hans jen02_lobby_25250bbe:
 
     # debbie "You should have never quit your job at Consum-R."
-    debbie "你当初就不该辞掉Consum-R的工作。"
+    debbie "你当初就不该辞掉购乐百货的工作。"
 
 # game/src/plot/jen02.rpy:37
 translate zh_hans jen02_lobby_0fcd3042:

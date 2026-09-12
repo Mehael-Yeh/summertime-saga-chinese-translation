@@ -215,7 +215,7 @@ translate zh_hans strings:
     new "割草机"
     # game/res/meta/prop.rpym:89
     old "Electro Clit (Sold Out)"
-    new "Electro Clit(已售罄)"
+    new "电击阴蒂棒（已售罄）"
     # game/res/meta/prop.rpym:90
     old "Bureau"
     new "写字台"
@@ -1304,7 +1304,7 @@ translate zh_hans strings:
     new "一个电动钻头假阳具。"
     # game/res/meta/prop.rpym:701
     old "Electro Clit Lite"
-    new "电子阴蒂Lite"
+    new "电击阴蒂棒轻量版"
     # game/res/meta/prop.rpym:702
     old "A cheaper version of the popular battery-powered vibrating clit stimulator."
     new "流行的电池供电振动阴蒂刺激器的廉价版。"

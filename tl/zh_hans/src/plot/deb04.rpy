@@ -820,7 +820,7 @@ translate zh_hans deb04_sink_item_3d161eca:
 translate zh_hans deb04_sink_item_9cb4d9b0:
 
     # anon @ -m_talk "( Pretty sure Consum-R in the mall sells stuff like that. )"
-    anon @ -m_talk "（商场里的Consum-R应该有卖。）"
+    anon @ -m_talk "（商场里的购乐百货应该有卖。）"
 
 # game/src/plot/deb04.rpy:403
 translate zh_hans deb04_sink_jenny_88a7a7ea:
@@ -1114,7 +1114,7 @@ translate zh_hans deb04_wrench_sink_1ae73815:
 translate zh_hans deb04_wrench_sink_3cae175a:
 
     # anon @ -m_talk "( They should sell them at Consum-R. )"
-    anon @ -m_talk "（Consum-R应该有卖。）"
+    anon @ -m_talk "（购乐百货应该有卖。）"
 
 # game/src/plot/deb04.rpy:535
 translate zh_hans deb04_wrench_take_8f2088a6:

@@ -84,7 +84,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:30
  old "Arena"
- new "田径馆"
+ new "竞技场"
 
  # game/res/meta/sets.rpym:31
  old "Basement"
@@ -120,7 +120,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:40
  old "Rusty Angus"
- new "拉斯蒂安格斯"
+ new "锈牛酒吧"
 
  # game/res/meta/sets.rpym:41
  old "Bathroom"
@@ -152,7 +152,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:48
  old "Lantern Room"
- new "灯笼室"
+ new "灯室"
 
  # game/res/meta/sets.rpym:50
  old "Lighthouse"
@@ -160,7 +160,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:53
  old "Trailer Park"
- new "拖车公园"
+ new "房车营地"
 
  # game/res/meta/sets.rpym:54
  old "Shooting Range"
@@ -334,7 +334,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:119
  old "Glazies"
- new "格拉齐斯"
+ new "糖霜甜甜圈店"
 
  # game/res/meta/sets.rpym:121
  old "Bushes"
@@ -458,7 +458,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:174
  old "Crèche"
- new "Crèche（育幼院）"
+ new "育幼院"
 
  # game/res/meta/sets.rpym:176
  old "[saga.cast.annie]'s House"
@@ -474,7 +474,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:180
  old "Hillside Mall"
- new "希尔赛德商场"
+ new "山畔商场"
 
  # game/res/meta/sets.rpym:181
  old "Toilet Stall"
@@ -638,7 +638,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:245
  old "Consum-R"
- new "Consum-R"
+ new "购乐百货"
 
  # game/res/meta/sets.rpym:246
  old "Ara Ara"
@@ -654,7 +654,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:252
  old "Snug"
- new "舒适居"
+ new "小客厅"
 
  # game/res/meta/sets.rpym:254
  old "Alley"

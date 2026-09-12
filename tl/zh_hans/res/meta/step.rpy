@@ -166,7 +166,7 @@ translate zh_hans strings:
     new "我为什么要撒谎？我已经有一辆自行车了，现在[saga.cast.tony]还好心给了我买车的钱！绝不能让他发现。真是糟透了。我真是个白痴。"
     # game/res/meta/step.rpym:126
     old "Purchase a bicycle from Consum-R at the mall."
-    new "在商场的Consum-R购买一辆自行车。"
+    new "在商场的购乐百货购买一辆自行车。"
     # game/res/meta/step.rpym:127
     old "I can't believe [saga.cast.tony] just gave me money for a bicycle!"
     new "真不敢相信[saga.cast.tony]竟然给我钱买自行车！"
@@ -604,7 +604,7 @@ translate zh_hans strings:
     new "割草机应该在车库里。"
     # game/res/meta/step.rpym:473
     old "Purchase gas from Consum-R at the mall."
-    new "从商场的Consum-R购买汽油。"
+    new "从商场的购乐百货购买汽油。"
     # game/res/meta/step.rpym:474
     old "I'll need some gas for the mower if I want to trim the lawn."
     new "如果我想修剪草坪，我需要一些割草机的汽油。"
@@ -646,10 +646,10 @@ translate zh_hans strings:
     new "修水槽需要的东西我都有了。"
     # game/res/meta/step.rpym:503
     old "Purchase a wrench from Consum-R."
-    new "从Consum-R购买一把扳手。"
+    new "从购乐百货购买一把扳手。"
     # game/res/meta/step.rpym:504
     old "I'll need a wrench to properly fix that pipe. Maybe I can pick one up from Consum-R."
-    new "我需要一把扳手才能修好那根水管。也许我可以从Consum-R买一把。"
+    new "我需要一把扳手才能修好那根水管。也许我可以从购乐百货买一把。"
     # game/res/meta/step.rpym:507
     old "It feels good, being the man of the house."
     new "当家作主的感觉真好。"
@@ -1171,7 +1171,7 @@ translate zh_hans strings:
     new "从柜台上拿走玩具。"
     # game/res/meta/step.rpym:956
     old "Did [saga.cast.jane] say that was an Electro Clit... and she doesn't want it? Hmm..."
-    new "[saga.cast.jane]说那是个Electro Clit……她还不想要？嗯……"
+    new "[saga.cast.jane]说那是个电击阴蒂棒……她还不想要？嗯……"
     # game/res/meta/step.rpym:958
     old "Speak with [saga.cast.jenny] about the toy."
     new "和[saga.cast.jenny]谈谈那个玩具。"
@@ -1897,7 +1897,7 @@ translate zh_hans strings:
     new "我想知道她接下来会让我做什么古怪的科学实验？"
     # game/res/meta/step.rpym:1591
     old "Collect the ingredients from the forest, cave, Consum-R, and [saga.cast.ursula]'s office."
-    new "从森林、洞穴、Consum-R和[saga.cast.ursula]的办公室收集原料。"
+    new "从森林、洞穴、购乐百货和[saga.cast.ursula]的办公室收集原料。"
     # game/res/meta/step.rpym:1592
     old "There's a lot here... I should speak with her if I need a reminder."
     new "这里有很多……如果我需要提醒，我应该和她谈谈。"

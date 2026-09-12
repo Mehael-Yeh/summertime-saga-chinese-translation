@@ -11,6 +11,15 @@
 - 原文使用变量时保留变量，例如 `[saga.cast.debbie]`、`[saga.cast.jenny]`。不得把字面姓名改成变量，也不得把变量改成字面姓名。
 - 身份称谓可翻译，姓名部分不变：`Bissette老师`、`Johnson太太`、`Bridget教练`、`Smith校长`、`Harris医生`。
 
+## 英文残留与语言边界
+
+本轮仅处理英文，不改动意大利语、日语等非英语表达及既有括注。普通词句、界面文字和已定译物品应汉化；保留项须有身份、拼写机制或技术用途依据。专项记录见 `english_residuals.md`。
+
+- `Electro Clit`／`ElectroClit` → 电击阴蒂棒；`Lite`／`Light` 版本 → 电击阴蒂棒轻量版，不再使用“电子阴蒂Lite”。
+- `LARPer` → 实景角色扮演玩家；区别于人物姓名或游戏角色名。
+- `mesmerizing` → 令人着迷；不得在中文商品描述中残留英文。
+- 月份全称 January 至 December 保留英文：用户确认 June 与角色名共用字符串，翻译成“六月”会影响角色姓名显示。不得用文件位置或静态校验例外假定运行时翻译隔离；未经验证的全局 June→六月 映射禁止加入。原有月份缩写译法本轮不变。
+
 ## 重复术语复查机制
 
 - 同一英文名词、组合词、称呼或固定表达在短距离内出现 2 次及以上时，先视为潜在专名、人物口癖或专属称呼，必须执行全仓复查。
@@ -33,22 +42,40 @@
 |---|---|
 | Retro Strike | 复古全中 |
 | Saga Financial | 传说金融 |
-| Rusty Angus | 拉斯蒂安格斯 |
+| Rusty Angus | 锈牛酒吧 |
 | Sandbar Island | 沙洲岛 |
 | Cosmic Cumics | 宇宙漫画 |
-| Glazies | 格拉齐斯 |
+| Glazies | 糖霜甜甜圈店 |
 | Cupid | 丘比特 |
 | Planet Thiccness | 丰满星球 |
 | Raven Hill | 渡鸦山 |
-| Hillside Mall | 希尔赛德商场 |
+| Hillside Mall | 山畔商场 |
 | Tony's Pizza | Tony披萨店 |
 | Summerville College | 夏日学院 |
-| Consum-R | Consum-R |
+| Consum-R | 购乐百货 |
 | Ara Ara | 啊啦啊啦 |
 | Sugar Tats | 甜蜜纹身 |
 | Pink | 粉色诱惑 |
 | CineSaga / CineSaga Theater | 传说影院 |
 | Beachside Apartments | 海滨公寓 |
+
+## 地名设定复核补充
+
+不能把“与现有 UI 一致”误当作译名质量合格；对漏译、生硬音译和误认场所功能的旧译，应先修正命名，再同步全仓引用。以下为项目本地化选择，不是官方中文命名。
+
+| 英文 | 统一译名 | 依据与边界 |
+|---|---|---|
+| Consum-R | 购乐百货 | 全品类百货店；vee.rpy 明说日常所需基本都有，采用中文商业品牌式意译。 |
+| Hillside Mall | 山畔商场 | 保留 Hillside 的山坡一侧意象，采用自然中文商场名。 |
+| Rusty Angus | 锈牛酒吧 | 以 Rusty 的锈意象与 Angus 的安格斯牛联想作品牌意译；这是本地化取舍，不断言牛形招牌或未证实的背景、成人双关。 |
+| Glazies | 糖霜甜甜圈店 | 官方 Wiki 确认是甜甜圈店；以 glaze 的糖霜意象拟中文品牌。 |
+| Lantern Room | 灯室 | 灯塔中的灯室，不是存放灯笼的房间。 |
+| Trailer Park | 房车营地 | 房车／活动住宅聚居场所，不是拖车主题公园。 |
+| Crèche | 育幼院 | 沿用已确认的育幼院，清理 UI 英文残留。 |
+| Snug | 小客厅 | UI 房间名指小而舒适的起居空间；普通形容词 snug 不适用。 |
+| Arena | 竞技场 | 场所通名，不擅自限定为田径馆。 |
+
+场所资料：[Consum-R](https://wiki.summertimesaga.com/CONSUM-R)、[Hillside Mall](https://wiki.summertimesaga.com/Hillside_Mall)、[Glazie’s](https://wiki.summertimesaga.com/Glazie%E2%80%99s)。旧版 Wiki 只辅助确认场所类型，剧情和原文仍以当前仓库为准。
 
 ## 当前已确认地点与活动
 
@@ -178,7 +205,7 @@
 | Muay Thai | 泰拳 | `kickboxing` 另译“踢拳” |
 | GPA | GPA | 保留英文缩写 |
 | Whorecraft | Whorecraft | 游戏内作品名，暂保留英文 |
-| Consum-R | Consum-R | 商场店名，保留原拼写和连字符 |
+| Consum-R | 购乐百货 | 商场内的全品类百货店，统一中文品牌名 |
 | `vegetable stock` | 蔬菜高汤 | Tori 血清任务使用的温和基底；`tor05.rpy` 与 `vee.rpy` 的任务对话和菜单统一，不漂移为“蔬菜汤底” |
 | `aisle`（Consum-R） | 货架通道／通道 | 商店货架之间的通道；欢迎口号按中文句法写“转过一条通道就能找到”，具体编号写“12号通道”，不把店名擅自补成“超市” |
 
@@ -389,7 +416,7 @@
 
 | 英文 | 当前处理 | 说明 |
 |---|---|---|
-| Consum-R | Consum-R | 商场店名，保持英文原拼写和连字符；电脑零件线索与其他购物任务统一 |
+| Consum-R | 购乐百货 | 商场内的全品类百货店；UI、电脑零件线索与其他购物任务统一为“购乐百货” |
 | PC | 电脑 | 普通叙述和内心独白使用自然中文，不保留界面外的英文缩写 |
 | higher resolution graphics | 更高分辨率的画面 | 电脑修复后的画质升级元叙事，不译成生硬的“图形” |
 | bugs（游戏故障） | BUG | 仅用于游戏程序故障语境，与昆虫含义区分 |

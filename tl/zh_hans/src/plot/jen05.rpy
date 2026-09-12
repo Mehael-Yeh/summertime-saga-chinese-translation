@@ -257,7 +257,7 @@ translate zh_hans jen05_jenny_cf958bf3:
 
 
     # anon "Then maybe you should go back to Consum-R and-"
-    anon "那你还不如回Consum-R上班——"
+    anon "那你还不如回购乐百货上班——"
 
 # game/src/plot/jen05.rpy:66
 translate zh_hans jen05_jenny_31732141:
@@ -453,7 +453,7 @@ translate zh_hans jen05_jenny_99ea3360:
 
 
     # anon "Why don't you just go back up to Consum-R and ask if you can have your old job back?!"
-    anon "你干吗不回Consum-R，问问他们能不能让你回去上班？！"
+    anon "你干吗不回购乐百货，问问他们能不能让你回去上班？！"
 
 # game/src/plot/jen05.rpy:139
 translate zh_hans jen05_jenny_20719304:

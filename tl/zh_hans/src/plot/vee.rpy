@@ -4,7 +4,7 @@
 translate zh_hans vee_store_aisle_intro1_22fcbdf6:
 
     # vee "Welcome to Consum-R, where all your needs are just an aisle away."
-    vee "欢迎光临Consum-R，您需要的一切，转过一条通道就能找到。"
+    vee "欢迎光临购乐百货，您需要的一切，转过一条通道就能找到。"
 
 # game/src/plot/vee.rpy:25
 translate zh_hans vee_store_aisle_intro1_59eac9a1:

@@ -268,7 +268,7 @@ translate zh_hans tor05_intro_31598b3c:
 translate zh_hans tor05_intro_5b0d9bb9:
 
     # tori "You should be able to pick some up at Consum-R."
-    tori "你应该能在Consum-R买到一些。"
+    tori "你应该能在购乐百货买到一些。"
 
 # game/src/plot/tor05.rpy:123
 translate zh_hans tor05_intro_4c86397a:
@@ -718,7 +718,7 @@ translate zh_hans tor05_take_help_f867bfdf:
 translate zh_hans tor05_take_help_5b0d9bb9:
 
     # tori "You should be able to pick some up at Consum-R."
-    tori "你应该能在Consum-R买到一些。"
+    tori "你应该能在购乐百货买到一些。"
 
 # game/src/plot/tor05.rpy:406
 translate zh_hans tor05_take_help_1122e987:
@@ -856,7 +856,7 @@ translate zh_hans tor05_tori1_41a44f1f:
 translate zh_hans tor05_tori1_1df746b6:
 
     # anon "Yeah. It's all Consum-R had..."
-    anon "是啊。这就是Consum-R所有的库存了……"
+    anon "是啊。这就是购乐百货所有的库存了……"
 
 # game/src/plot/tor05.rpy:477
 translate zh_hans tor05_tori1_7326c7bc:

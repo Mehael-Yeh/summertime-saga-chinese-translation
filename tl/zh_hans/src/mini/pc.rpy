@@ -145,7 +145,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:392
     old "Go where no manhood has gone before past the alluring pussy of the Orcette. This mesmerizing pearlescent green begs to eat you up for a close encounter of the preferred kind. The Orcette Fleshlight comes with the pearlescent green Orc sleeve and a deep green outer case that combine to take your orcette fantasy to the outer limits of your imagination."
-    new "驶向无人触及的领域，穿越兽娘诱人的小穴。这mesmerizing的珠光绿色渴望将你吞噬，带来一场亲密接触。兽娘名器配有珠光绿色兽娘内胆和深绿色外壳，将你的兽娘幻想推向想象力的极限。"
+    new "驶向无人触及的领域，穿越兽娘诱人的小穴。这令人着迷的珠光绿色渴望将你吞噬，带来一场亲密接触。兽娘名器配有珠光绿色兽娘内胆和深绿色外壳，将你的兽娘幻想推向想象力的极限。"
 
     # game/src/mini/pc.rpy:401
     old "Purchase now!"
@@ -309,4 +309,4 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:1319
     old "- Electro Clit\n  Lite version weak af :@"
-    new "电击阴蒂 轻量版弱爆了 :@\n电击阴蒂"
+    new "- 电击阴蒂棒\n  轻量版弱爆了 :@"

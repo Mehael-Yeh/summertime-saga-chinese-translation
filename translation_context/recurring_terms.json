@@ -303,12 +303,12 @@
       "id": "place_consum_r",
       "source_regex": "\\bConsum-R\\b",
       "target_regexes": [
-        "Consum-R"
+        "购乐百货"
       ],
       "category": "proper_name",
-      "translation": "Consum-R",
+      "translation": "购乐百货",
       "first_seen": "tl/zh_hans/src/plot/ano01.rpy",
-      "note": "商场店名；保持英文原拼写、大小写和连字符，不翻译、不插入中文音译。"
+      "note": "全品类百货店；vee.rpy 明说日常所需基本都有，采用中文商业品牌式意译。"
     },
     {
       "id": "tony_devils_threeway",
@@ -1289,12 +1289,12 @@
       "id": "location_rusty_angus",
       "source_regex": "\\bRusty\\s+Angus\\b",
       "target_regexes": [
-        "拉斯蒂安格斯"
+        "锈牛酒吧"
       ],
       "category": "location_name",
-      "translation": "拉斯蒂安格斯",
+      "translation": "锈牛酒吧",
       "first_seen": "tl/zh_hans/base_box/sets.rpy",
-      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+      "note": "以 Rusty 的锈意象与 Angus 的安格斯牛联想作品牌意译；这是本地化取舍，不断言牛形招牌或未证实的背景、成人双关。"
     },
     {
       "id": "location_sandbar_island",
@@ -1322,12 +1322,12 @@
       "id": "location_glazies",
       "source_regex": "\\bGlazies\\b",
       "target_regexes": [
-        "格拉齐斯"
+        "糖霜甜甜圈店"
       ],
       "category": "location_name",
-      "translation": "格拉齐斯",
+      "translation": "糖霜甜甜圈店",
       "first_seen": "tl/zh_hans/base_box/sets.rpy",
-      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+      "note": "官方 Wiki 确认是甜甜圈店；以 glaze 的糖霜意象拟中文品牌。"
     },
     {
       "id": "location_cupid",
@@ -1366,12 +1366,12 @@
       "id": "location_hillside_mall",
       "source_regex": "\\bHillside\\s+Mall\\b",
       "target_regexes": [
-        "希尔赛德商场"
+        "山畔商场"
       ],
       "category": "location_name",
-      "translation": "希尔赛德商场",
+      "translation": "山畔商场",
       "first_seen": "tl/zh_hans/base_box/sets.rpy",
-      "note": "以 sets.rpy 的 UI 地名为准；对话、旁白、任务、物品说明使用同一核心译名，可加店/商店等类别词。"
+      "note": "保留 Hillside 的山坡一侧意象，采用自然中文商场名。"
     },
     {
       "id": "location_tony_s_pizza",
@@ -1438,6 +1438,101 @@
       "translation": "传说影院",
       "first_seen": "tl/zh_hans/res/meta/sets.rpy",
       "note": "电影院品牌，沿用 UI 传说影院；不保留 CineSaga，也不叠加成“传说影院影院”。"
+    },
+    {
+      "id": "location_lantern_room",
+      "source_regex": "^Lantern\\ Room$",
+      "category": "location_term",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "translation": "灯室",
+      "target_regexes": [
+        "灯室"
+      ],
+      "note": "灯塔中的灯室，不是存放灯笼的房间。"
+    },
+    {
+      "id": "location_trailer_park",
+      "source_regex": "^Trailer\\ Park$",
+      "category": "location_term",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "translation": "房车营地",
+      "target_regexes": [
+        "房车营地"
+      ],
+      "note": "房车／活动住宅聚居场所，不是拖车主题公园。"
+    },
+    {
+      "id": "location_cr_che",
+      "source_regex": "^Crèche$",
+      "category": "location_term",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "translation": "育幼院",
+      "target_regexes": [
+        "育幼院"
+      ],
+      "note": "沿用已确认的育幼院，清理 UI 英文残留。"
+    },
+    {
+      "id": "location_snug",
+      "source_regex": "^Snug$",
+      "category": "location_term",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "translation": "小客厅",
+      "target_regexes": [
+        "小客厅"
+      ],
+      "note": "UI 房间名指小而舒适的起居空间；普通形容词 snug 不适用。"
+    },
+    {
+      "id": "location_arena",
+      "source_regex": "^Arena$",
+      "category": "location_term",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
+      "translation": "竞技场",
+      "target_regexes": [
+        "竞技场"
+      ],
+      "note": "场所通名，不擅自限定为田径馆。"
+    },
+    {
+      "id": "item_electro_clit",
+      "source_regex": "\\bElectro\\s*Clit\\b",
+      "target_regexes": [
+        "电击阴蒂棒"
+      ],
+      "category": "english_residual",
+      "translation": "电击阴蒂棒",
+      "note": "商品名含售罄提示、任务、日记和网页评论统一。"
+    },
+    {
+      "id": "item_electro_clit_lite",
+      "source_regex": "\\bElectro\\s*Clit\\s+(?:Lite|Light)\\b",
+      "target_regexes": [
+        "电击阴蒂棒轻量版"
+      ],
+      "category": "english_residual",
+      "translation": "电击阴蒂棒轻量版",
+      "note": "两种版本拼写统一已有轻量版译名。"
+    },
+    {
+      "id": "role_larper",
+      "source_regex": "\\bLARPer\\b",
+      "target_regexes": [
+        "实景角色扮演玩家"
+      ],
+      "category": "english_residual",
+      "translation": "实景角色扮演玩家",
+      "note": "描述性身份，非专名；保留业余职业反差。"
+    },
+    {
+      "id": "english_mesmerizing",
+      "source_regex": "\\bmesmerizing\\b",
+      "target_regexes": [
+        "令人着迷"
+      ],
+      "category": "english_residual",
+      "translation": "令人着迷",
+      "note": "普通英语形容词。"
     }
   ]
 }

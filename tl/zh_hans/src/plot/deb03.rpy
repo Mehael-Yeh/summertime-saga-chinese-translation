@@ -358,7 +358,7 @@ translate zh_hans deb03_mower_item_3a64095f:
 translate zh_hans deb03_mower_item_7b9b3eef:
 
     # anon a_tired @ -m_talk "( Well it's not going to start without gas. I should probably get some from Consum-R. )"
-    anon a_tired @ -m_talk "（没汽油肯定发动不了。我得去Consum-R买点回来。）"
+    anon a_tired @ -m_talk "（没汽油肯定发动不了。我得去购乐百货买点回来。）"
 
 # game/src/plot/deb03.rpy:147
 translate zh_hans deb03_mower_late_da54a38f:

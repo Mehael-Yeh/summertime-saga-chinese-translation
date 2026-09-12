@@ -10,7 +10,7 @@ translate zh_hans anon_pc_broken_3a5cd2b0:
 translate zh_hans anon_pc_broken_3c33d7f3:
 
     # anon @ -m_talk "( [saga.cast.erik] said he gets his computer parts from Consum-R. )"
-    anon @ -m_talk "（[saga.cast.erik]说他的电脑零件都是从Consum-R买的。）"
+    anon @ -m_talk "（[saga.cast.erik]说他的电脑零件都是从购乐百货买的。）"
 
 # game/src/plot/anon_pc.rpy:14
 translate zh_hans anon_pc_broken_9457368e:

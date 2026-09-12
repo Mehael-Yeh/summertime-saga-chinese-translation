@@ -2572,7 +2572,7 @@ translate zh_hans deb_mall_debbie_shop2_ba79d966:
 translate zh_hans deb_mall_debbie_shop2_b6574e43:
 
     # debbie "I just need to pick up a few things from Consum-R to get it going."
-    debbie "我只需要从Consum-R买点东西就能开始做了。"
+    debbie "我只需要从购乐百货买点东西就能开始做了。"
 
 # game/src/plot/deb_mall.rpy:1059
 translate zh_hans deb_mall_debbie_shop2_24afcd6e:
