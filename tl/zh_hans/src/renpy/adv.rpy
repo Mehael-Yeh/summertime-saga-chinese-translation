@@ -4,4 +4,4 @@ translate zh_hans strings:
 
     # game/src/renpy/adv.rpy:14
     old "In another language, [text]"
-    new "在另一种语言中，[text]"
+    new "用另一种语言说：[text]"

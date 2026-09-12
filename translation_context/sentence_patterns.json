@@ -6904,7 +6904,7 @@
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
       "source": "[saga.cast.tony] should be back from his trip by now. I should head to the pizzeria and see if he got anything useful from Eddie.",
-      "target": "[saga.cast.tony]这会儿应该回来了。我该去披萨店问问，他有没有从埃迪那儿打听到什么有用的消息。",
+      "target": "[saga.cast.tony]这会儿应该回来了。我该去披萨店问问，他有没有从Eddie那儿打听到什么有用的消息。",
       "id": "strings"
     },
     {
@@ -8237,6 +8237,732 @@
       "file": "tl/zh_hans/res/meta/cast.rpy",
       "source": "Shy, soft-spoken, and a bit of a sad sack, [saga.cast.judith] spends most of her time hiding away from the rest of the world. Suffering from an inferiority complex and an undeniable lack of fashion sense, she often serves as the butt of the joke for her fellow classmates.\\n\\nGetting to know her can prove difficult given her flighty nature but those that make the effort will find her a sweet young girl, endlessly giving, and with a deep yearning for acceptance.",
       "target": "[saga.cast.judith]害羞，讲话轻声细气，总有些垂头丧气，大部分时间都躲着别人。她本就自卑，穿衣打扮又实在没什么品味，也常常成为同学们取笑的对象。\\n\\n她动不动就往后缩，想走近她并不容易。但只要肯花心思，就会发现她温柔可亲，总愿意为别人付出，也深深渴望有人能接纳自己。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Things sure are heating up with [saga.cast.jenny]...",
+      "target": "我和[saga.cast.jenny]之间越来越火热了……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Why is [saga.cast.jenny] being weird about breakfast today?",
+      "target": "[saga.cast.jenny]今天吃早餐怎么怪怪的？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.jenny] and I finally boned! I love being a cam slut!",
+      "target": "[saga.cast.jenny]和我终于搞上了！当个直播骚货真爽！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "It's time to pick up [saga.cast.jenny] for our movie date.",
+      "target": "该去接[saga.cast.jenny]一起看电影了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Purchase a necklace from Cupid.",
+      "target": "去丘比特买一条项链。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Figures that money is the only way to her heart, but what kind of necklace?",
+      "target": "果然，想打动她还得花钱。可该买什么样的项链呢？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak to the intern in the dealership.",
+      "target": "和车行的实习生交谈。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "What a fantastical douche! I hope the intern can be more help!",
+      "target": "真是个极品混蛋！希望那个实习生能帮上忙！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "How do I get into these situations? Now I need to get her cellphone from her dad's office.",
+      "target": "我怎么又摊上这种事了？现在还得去她爸爸的办公室拿回手机。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I'm glad she appreciated me standing up for her.",
+      "target": "她很感激我替她出头，真让人高兴。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the open stall in the girls locker room at school.",
+      "target": "进入学校女生更衣室里开着门的那个隔间。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Of course, [saga.cast.ursula] is involved. I hope [saga.cast.melody] is okay.",
+      "target": "果然又有[saga.cast.ursula]掺和。希望[saga.cast.melody]没事。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Score one for video game logic! [saga.cast.melody] is going to love this!",
+      "target": "游戏里的那套居然真管用！[saga.cast.melody]肯定会喜欢这个！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder why no one's signed up for the talent show... Guess I'll go ask them.",
+      "target": "怎么没人报名才艺表演呢……还是去问问他们吧。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I'm sure she'll be thrilled I managed to get more people involved in the talent show!",
+      "target": "我又拉到人参加才艺表演了，她肯定高兴坏了！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Maybe [saga.cast.melody] will know why the gym is locked. I'll stop by music class and ask her.",
+      "target": "也许[saga.cast.melody]知道体育馆为什么锁着。去音乐教室问问她吧。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Well this is just comically careless. Can't exactly have been a master criminal with such an obvious trail.",
+      "target": "这也太粗心了，简直让人想笑。留下这么明显的痕迹，哪像什么犯罪高手。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Some beer in exchange for helping with that mess on the stage? That's a great deal, and I don't even have to do a fetch quest to source the beer! #winning!!",
+      "target": "用些啤酒就能请他们帮忙收拾舞台？太划算了，连找啤酒的跑腿任务都省了！#赚到了！！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Heh, the look on her face when she sees how clean those guys got the stage will be priceless!",
+      "target": "嘿，等她看到大家把舞台收拾得这么干净，脸上的表情一定精彩！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the science class.",
+      "target": "进入科学教室。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I should catch up with [saga.cast.kevin] and see how the adhesive is coming along.",
+      "target": "我得找[saga.cast.kevin]问问，看看胶水配得怎么样了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Can't believe those guys bailed on me... [saga.cast.erik] hasn't let me down yet though, I really hope he can keep his streak alive.",
+      "target": "那几个家伙居然放我鸽子……不过[saga.cast.erik]还从没让我失望过，希望这次也一样。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Man, I for sure thought [saga.cast.erik] was going to welch on me for a moment there. I should have had more faith.",
+      "target": "唉，刚才有那么一瞬间，我真以为[saga.cast.erik]也要放我鸽子。真该多信任他一点。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "It's time to meet [saga.cast.erik] outside the school. Classic best friend super secret mission time!",
+      "target": "该去学校外面和[saga.cast.erik]碰头了。又到了好兄弟一起执行绝密任务的时候！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "We shouldn't hang about, I don't even want to think about what might happen if we get caught.",
+      "target": "我们可不能再磨蹭了。我都不敢想被抓住会有什么后果。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Please tell me the plan worked, otherwise I don't know how we'll stop [saga.cast.annie] and [saga.cast.ursula] from interfering...",
+      "target": "计划可一定要成功啊，不然真不知道怎么阻止[saga.cast.annie]和[saga.cast.ursula]来搅局……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "LOL!! That was 100% worth all the effort. They couldn't move at all! XD",
+      "target": "哈哈哈！！费了这么大劲，值了！她们动都动不了！XD",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Probably shouldn't just try and wander into the employee area of the bank without talking to the staff on duty.",
+      "target": "想进银行的员工区，还是先跟值班员工打声招呼吧。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.liu] said I'd find [saga.cast.tina] in a cubicle in the main office, probably shouldn't take any detours.",
+      "target": "[saga.cast.liu]说[saga.cast.tina]在银行办公区的一个隔间里，还是直接过去吧。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Let's see... she wanted me to grab goggles, a lab coat, and some blueprints.",
+      "target": "让我想想……她要我去拿护目镜、一件实验服，还有一些蓝图。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I guess I just keep checking in until she's ready...",
+      "target": "看来只能隔一阵就去问问，等她准备好了……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Don't forget I've got a meeting with [saga.cast.judith] this afternoon.",
+      "target": "别忘了，今天下午约了和[saga.cast.judith]见面。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Wasn't I supposed to meet [saga.cast.judith] somewhere? Oops!",
+      "target": "我是不是约了要去哪儿见[saga.cast.judith]？糟了！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "These glasses should do the trick. Time to report back.",
+      "target": "这副眼镜应该能派上用场。该回去交差了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Let's see if [saga.cast.june] can get this chip out.",
+      "target": "看看[saga.cast.june]能不能把这块芯片取出来。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder how [saga.cast.tori] is getting on with that belt?",
+      "target": "不知道[saga.cast.tori]把那条腰带研究得怎么样了？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Surely, she's sorted out that belt by now.",
+      "target": "她现在应该已经把那条腰带弄好了吧。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "She sure does make funny faces when she orgasms... Hah!",
+      "target": "她高潮时的表情还真好笑……哈！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "There's a lot here... I should speak with her if I need a reminder.",
+      "target": "要找的东西真不少……要是忘了，就去问问她。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I'll get it right this time, I just know it!",
+      "target": "这回我肯定能搞定，就是有这个信心！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder how she's getting on with her serum?",
+      "target": "不知道她服用血清后怎么样了？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Maybe the librarian can help with the state of this dictionary...",
+      "target": "这本词典都这样了……也许图书管理员能帮上忙。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak to [saga.cast.june] in the computer lab after raising strength to at least two.",
+      "target": "将力量提升到至少2点，再去计算机实验室找[saga.cast.june]交谈。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Dictionary complete! Time for that tutoring session.",
+      "target": "词典的缺页补齐了！该去上辅导课了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.jane] said the overdue books were checked out by [f.hint[0]], [f.hint[1]], and [f.hint[2]].",
+      "target": "[saga.cast.jane]说，那几本逾期未还的书是[f.hint[0]]、[f.hint[1]]和[f.hint[2]]借走的。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Access the homework document on your PC.",
+      "target": "打开你电脑上的作业文档。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.jane] said the girls with the book I need usually visit in the afternoon.",
+      "target": "[saga.cast.jane]说，我要找的书在几个女生手里，她们一般下午过来。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.viv] really doesn't seem able to catch a break...",
+      "target": "[saga.cast.viv]好像就没顺心过……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Now to get these pom-poms back to [saga.cast.roxxy].",
+      "target": "该把这些啦啦队彩球还给[saga.cast.roxxy]了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Welp, this is certainly not going to be worth $500.",
+      "target": "唉，这事肯定不值我花的500美元。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "It's time for [saga.cast.jenny] and [saga.cast.roxxy] to do their cheer thingy.",
+      "target": "该让[saga.cast.jenny]和[saga.cast.roxxy]练她们那套啦啦队动作了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Man, all that work just to fail the test. Sadness. :(",
+      "target": "唉，忙活了这么久，考试居然还是没过。难受。:(",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Now I can show up for French class without any anxiety of being behind.",
+      "target": "这下能安心上法语课了，不用再担心跟不上进度。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Collect the ingredients from the forest, cave, Consum-r, and [saga.cast.ursula]'s office.",
+      "target": "从森林、洞穴、购乐百货和[saga.cast.ursula]的办公室收集原料。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Painting",
+      "target": "画作",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Loose soil",
+      "target": "松软的泥土",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "I wonder what could be so lucky about it, if he was so distracted that he forgot to pick it up...",
+      "target": "他都走神到把它忘了，我倒想知道这包到底幸运在哪儿……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Grocery bags",
+      "target": "杂货购物袋",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "[saga.cast.maria]'s grocery bags. I'm helping take them up to her apartment. Number 302.",
+      "target": "[saga.cast.maria]的杂货购物袋。我正帮她提上楼，送到302号公寓。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "This is the bag of stuff [saga.cast.tony] asked me to fetch for the bank heist.",
+      "target": "这是[saga.cast.tony]让我为抢银行取来的那袋装备。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "The ATM card for my deposit account at Saga Financial.",
+      "target": "我在传说金融开立的存款账户所用的银行卡。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "It's the cheerleader outfit that [saga.cast.jenny] used to wear during college.",
+      "target": "这是[saga.cast.jenny]大学时穿的啦啦队制服。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Labcoat",
+      "target": "实验服",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "I know [saga.cast.debbie] said I shouldn't, but how could I not?",
+      "target": "我知道[saga.cast.debbie]不让我买，可我怎么忍得住？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "[saga.cast.debbie]'s robe",
+      "target": "[saga.cast.debbie]的浴袍",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Swimsuit & Goggles",
+      "target": "泳裤和泳镜",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A super slick speedo for swimming, and goggles for perfect underwater vison!",
+      "target": "一条流线型的速比涛泳裤，再配上泳镜，水下也能看得清清楚楚！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A SAGA car dealership vest",
+      "target": "一件SAGA车行的制服背心",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A mysterious statue piece that [saga.cast.connie] found in the beach house.",
+      "target": "[saga.cast.connie]在海滨别墅找到的神秘雕像部件。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A mysterious statue piece that [saga.cast.clyde] gave to me in exchange for a pink beaver plushie.",
+      "target": "我用粉红色海狸毛绒玩具从[saga.cast.clyde]那里换来的神秘雕像部件。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "It's liquid bread, guys.",
+      "target": "这可是液体面包啊，伙计们。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Exams",
+      "target": "试卷",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "The finals. It is prime material to study, if you lack morals.",
+      "target": "期末考试的试卷。只要不在乎节操，这就是绝佳的复习资料。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Scanned French pages",
+      "target": "法语词典扫描页",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A collection of missing pages from my French dictionary.",
+      "target": "我的法语词典缺页的扫描件。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "World of Orcette",
+      "target": "World of Orcette",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "I should get this back to her ASAP — wouldn't want her to miss out on that shoe sale!",
+      "target": "我得赶快把手机还给她，可不能让她错过鞋子促销！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Beach house key",
+      "target": "海滨别墅钥匙",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "The key to your very own home.",
+      "target": "你自己家的钥匙。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Small hidden key",
+      "target": "藏起来的小钥匙",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "SL-700 Crotch Rocket key",
+      "target": "SL-700胯下火箭钥匙",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "\\\"Buff lads in the buff!\\\" ... Kevin seemed really taken with these, talk about #goals.",
+      "target": "“一丝不挂的肌肉猛男！”……Kevin好像特别喜欢这些，简直就是#人生目标。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "This should be more than enough for the collages, and some of these porno ones even have glue applied already!",
+      "target": "拿来做拼贴画肯定绰绰有余，有几本色情杂志连“胶水”都已经涂好了！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Pink Cyclone mask",
+      "target": "Pink Cyclone面具",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Fresh milk cartons",
+      "target": "盒装鲜奶",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A small delivery of fresh milk cartons!",
+      "target": "一小批盒装鲜奶！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A delivery of fresh milk cartons!",
+      "target": "一批盒装鲜奶！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A huge delivery of fresh milk cartons!",
+      "target": "一大批盒装鲜奶！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "An insulated container, perfect for keeping your fresh milk nice and cool!",
+      "target": "能隔热保温的容器，用来让鲜奶保持冰凉再合适不过！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "An art pad, for [saga.cast.mia].",
+      "target": "给[saga.cast.mia]准备的画板。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "The perfect way to start delivering pizza!",
+      "target": "刚开始送披萨，有它正合适！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "It's a special brand of food for cats, the best type of animal in the world!",
+      "target": "这是特制的猫粮，专门给猫这种世界上最棒的动物吃！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "This is just the ticket to help unmask [saga.cast.jenny]'s stalker.",
+      "target": "这正是查清跟踪[saga.cast.jenny]那家伙身份的好线索。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A necklace purchased from Cupid.",
+      "target": "在丘比特买的项链。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A drawing from [saga.cast.ang] of the final item she requires.",
+      "target": "[saga.cast.ang]画的示意图，画着她要的最后一件东西。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A picture of Dad, the mayor and... a house-elf? I wonder what the note could mean...",
+      "target": "一张爸爸、市长和……家养小精灵的照片？不知道那张便条是什么意思……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Plans for some mysterious eyewear. [saga.cast.tori] wanted me to fetch them from her office.",
+      "target": "某种神秘眼镜的设计图。[saga.cast.tori]让我去她办公室拿来。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A Brazen Beaver plushie",
+      "target": "厚脸皮海狸毛绒玩具",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A Wistful Warrior plushie",
+      "target": "惆怅战士毛绒玩具",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Pom-poms",
+      "target": "啦啦队彩球",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A pair of pom-poms retrieved from [saga.cast.bridget]'s locker.",
+      "target": "从[saga.cast.bridget]的储物柜里取出的一对啦啦队彩球。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Autographed Pink Cyclone poster",
+      "target": "Pink Cyclone亲笔签名海报",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Partners in Crime by [saga.cast.eve]",
+      "target": "[saga.cast.eve]画的《犯罪搭档》",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A faptic engine extracted from a controller.",
+      "target": "从手柄中取出的触觉引擎。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "USB",
+      "target": "U盘",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "My trusty USB. I should be able to use the computer lab printer to print my French poem.",
+      "target": "我那可靠的U盘。应该能用计算机教室的打印机把我的法语诗打印出来。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A safe container for flammable fluids containing gasoline.",
+      "target": "装着汽油的安全容器，专门用来存放易燃液体。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Leaf skimmer",
+      "target": "捞叶网",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "Used for collecting leaves (and worse!) from the surface of pools and hot tubs.",
+      "target": "用来捞走泳池和按摩浴缸水面上的树叶（还有更恶心的东西！）。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A metal tool used to provide grip and tighten bolts.",
+      "target": "用来夹紧并拧紧螺栓的金属工具。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/+wip.rpy",
+      "source": "Sorry, this section of the game is still under construction! Please check back in future updates.\\n{size=-5}\\n{color=4287f5}ref:{/color} [label]{/size}",
+      "target": "抱歉，这部分游戏内容还在开发中！请等待后续更新。\\n{size=-5}\\n{color=4287f5}ref:{/color} [label]{/size}",
+      "id": "wip_missing_label_1074ca40"
+    },
+    {
+      "file": "tl/zh_hans/src/+wip.rpy",
+      "source": "WORK IN PROGRESS",
+      "target": "开发中",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini.rpy",
+      "source": "This mini game is still under construction! Please check back in future updates.\\nIn the meantime, what outcome would you like to simulate?",
+      "target": "这个小游戏还在开发中！请等待后续更新。\\n目前可以直接选择模拟结果：",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini.rpy",
+      "source": "Minigame skipped due to easy difficulty.",
+      "target": "当前为简单难度，已跳过小游戏。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/renpy/adv.rpy",
+      "source": "In another language, [text]",
+      "target": "用另一种语言说：[text]",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/renpy/voice.rpy",
+      "source": "Clipboard voicing enabled.{vspace=3}Press 'shift+c' to disable.",
+      "target": "已启用剪贴板朗读。{vspace=3}按Shift+C关闭。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/renpy/voice.rpy",
+      "source": "Self-voicing enabled.{vspace=3}Press 'v' to disable.",
+      "target": "已启用自动朗读。{vspace=3}按V关闭。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Outlood Express",
+      "target": "Outlood邮箱",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "blueberry glaze",
+      "target": "蓝莓糖霜",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "All good, dude. Got a raid scheduled, but you can always start without me.",
+      "target": "没事，哥们。我约好要打团本，不过你们可以先开始，不用等我。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Peek into the backroom of Pink after grabbing the Electoclit.",
+      "target": "拿到电击阴蒂棒后，偷看粉色诱惑的后屋。",
       "id": "strings"
     }
   ]

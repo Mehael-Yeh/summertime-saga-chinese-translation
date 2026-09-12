@@ -2049,3 +2049,35 @@ step源1136—1178的重试、道歉、电视及jen21复用链已连读。三处
 
 ## 2026-09-13 共享界面批次
 共享界面规则：auto-forward统一自动播放，time为自动播放间隔；rollback为回退；空位empty slot不译空白页。sync为同步存档，不凭空添加自动行为。存档信任、未保存进度和错误提示必须完整保留原文条件。键盘/手柄实体键名要能让玩家对照找到，不把Guide误译为指南。游戏专用菜单与共享界面应成批对比大小写变体。
+
+
+## 2026-09-13 多任务链集中审校
+任务提示按多条人物任务链集中审读至源1508。mel04为拿啤酒请他人清理舞台，不能倒置报酬方向；tin02位于银行，main office不是校务办公室；mel06的they指Annie与Ursula。主角日记的Man不作对别人喊伙计，priceless表情按精彩处理，score one for按“那套真管用”表达。
+
+
+## 2026-09-13 剩余任务链批次
+任务日记复核：sort out belt为解决腰带的问题，不是整理收纳；getting on with serum为使用后的情况，不是喝到哪里；overdue books为逾期未还，不是书籍过期；catch a break按诸事不顺语境表达。法语词本身保持原样。任务字符串的英文键须逐字保留原文大小写，不能用规范地名修改旧键。
+
+
+## 2026-09-13 日记事件分页核对
+日记实际顺序：data/jenny_diary的add(key, lines)将页按事件键加入pool；tech/book.read按运行时index依次展开pool[g]各页；mini/diary按data[page]的行序显示，屏幕页码为page+26。因此用事件键＋事件内页序记录审校，不能把常量索引直接当固定游戏页码。当前7944有34事件、36页；jen01_setup事件内两页已连读，其他页面仍待人工审校。
+
+
+## 2026-09-13 日记八页合组
+日记连读注意：jen03_intro第1页第6–7行构成接续，第2页第6–7行转换话题；jen06_snoop第3–4行原因说明、第9–10行让步接续；jen07_post第7–9行组成条件问句。以上已回查英文，不按独立行套用句末标点或重排。当前仅证明页内连读，不能视为运行时解锁顺序全部审完。
+
+
+## 2026-09-13 日记旁注与接续合组
+日记旁注审校：rt/art文本应与正文区分。去标签的纯文本只用于初筛，不能据此认定旁注与正文相邻处缺标点或语法不通。已回查jen10_outro第7行、jen14_jenny第8行完整标签；jen15_bed2第10–11行与jen16_jenny第3–4行需合读判断接续。
+
+
+## 2026-09-13 日记剩余十八页合组
+日记末组接续复核：jen19_post第2–3行买房时间条件、第7–9行延续话题；jen28_give第8–10行条件及退路；jen_baby_post第8–11行此前认知与首次抱孩子的时间关系；deb12_debbie第7–8行原文即跨正文与rt布局；deb21_outro第1–3行说话对象、第5–6行习语及第8–9行动作主体均回查原文。页内连读不构成事件index生成顺序的证明。
+
+
+## 2026-09-13 日记写入链与延迟事件
+日记解锁链补充（7944静态代码）：Book.index为RevertableList；write(*args)仅extend，不去重；read按index展开pool。不能据此断言实际重复，仍要看任务生命周期。jen16正常入口和retry成功入口均写jen16_jenny并转jen17_intro；retry先检查req成功并移除rage。jen07.post_diary在date >= flow.jen.wait - 2写jen07_post，jen08.prep_diary在date >= flow.jen.wait - 1写jen08_prep，两者均return clear；clear及分支互斥尚待调度层确认。
+
+
+## 2026-09-13 日记事件返回值复核
+调度返回值已静态核实：event.next先弹出已调用项；None继续、abort清空当前stack、带pool的下一任务交ctx.next、clear执行crowd.discard(ctx)。Step.next移除旧任务并挂载新任务；Flow.next更新step，Trackable.next另记录done。jen16.jenny_miss仅加rage并转retry，不写日记；成功入口的abort和jen17_intro都会依次处理。以上证明清除与推进机制，不证明不存在未来显式重新挂载。

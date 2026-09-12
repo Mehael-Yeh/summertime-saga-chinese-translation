@@ -1712,7 +1712,7 @@ translate zh_hans ano11_flour_merge_e142caaa:
 
 
     # maria f_sceptical "Eddie Four-Fingers?"
-    maria f_sceptical "Eddie Four-Fingers？"
+    maria f_sceptical "四指Eddie？"
 
 # game/src/plot/ano11.rpy:488
 translate zh_hans ano11_flour_merge_f762467a:

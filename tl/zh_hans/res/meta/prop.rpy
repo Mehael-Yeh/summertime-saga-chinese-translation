@@ -43,7 +43,7 @@ translate zh_hans strings:
     new "服装"
     # game/res/meta/prop.rpym:24
     old "Painting"
-    new "绘画"
+    new "画作"
     # game/res/meta/prop.rpym:25
     old "Car"
     new "汽车"
@@ -68,6 +68,9 @@ translate zh_hans strings:
     # game/res/meta/prop.rpym:33
     old "Rug"
     new "地毯"
+    # game/res/meta/prop.rpym:34
+    old "Sink"
+    new "水槽"
     # game/res/meta/prop.rpym:35
     old "TV"
     new "电视"
@@ -85,7 +88,7 @@ translate zh_hans strings:
     new "石制祭坛"
     # game/res/meta/prop.rpym:42
     old "Loose soil"
-    new "松土"
+    new "松软的泥土"
     # game/res/meta/prop.rpym:43
     old "Flowers"
     new "鲜花"
@@ -236,25 +239,25 @@ translate zh_hans strings:
     new "[saga.cast.jiang]的幸运工具包"
     # game/res/meta/prop.rpym:102
     old "I wonder what could be so lucky about it, if he was so distracted that he forgot to pick it up..."
-    new "我在想它到底能带来什么好运，毕竟他都心不在焉到忘了拿它……"
+    new "他都走神到把它忘了，我倒想知道这包到底幸运在哪儿……"
     # game/res/meta/prop.rpym:104
     old "Grocery bags"
-    new "食品杂货袋"
+    new "杂货购物袋"
     # game/res/meta/prop.rpym:105
     old "[saga.cast.maria]'s grocery bags. I'm helping take them up to her apartment. Number 302."
-    new "[saga.cast.maria]的食品杂货袋。我正在帮她把它们搬上公寓。门牌号302。"
+    new "[saga.cast.maria]的杂货购物袋。我正帮她提上楼，送到302号公寓。"
     # game/res/meta/prop.rpym:107
     old "[saga.cast.tony]'s heist gear"
     new "[saga.cast.tony]的抢劫装备"
     # game/res/meta/prop.rpym:108
     old "This is the bag of stuff [saga.cast.tony] asked me to fetch for the bank heist."
-    new "这是[saga.cast.tony]让我为银行抢劫案取来的那个袋子。"
+    new "这是[saga.cast.tony]让我为抢银行取来的那袋装备。"
     # game/res/meta/prop.rpym:110
     old "ATM card"
     new "ATM卡"
     # game/res/meta/prop.rpym:111
     old "The ATM card for my deposit account at Saga Financial."
-    new "我在传说金融的存款账户的ATM卡。"
+    new "我在传说金融开立的存款账户所用的银行卡。"
     # game/res/meta/prop.rpym:113
     old "Lactation and Me"
     new "《泌乳与我》"
@@ -374,7 +377,7 @@ translate zh_hans strings:
     new "啦啦队制服"
     # game/res/meta/prop.rpym:171
     old "It's the cheerleader outfit that [saga.cast.jenny] used to wear during college."
-    new "这是[saga.cast.jenny]大学时穿的啦啦队员服装。"
+    new "这是[saga.cast.jenny]大学时穿的啦啦队制服。"
     # game/res/meta/prop.rpym:173
     old "The Ruby Corset"
     new "红宝石束身衣"
@@ -383,7 +386,7 @@ translate zh_hans strings:
     new "一套漂亮的性感内衣，大胆的血红色调。"
     # game/res/meta/prop.rpym:176
     old "Labcoat"
-    new "实验室白大褂"
+    new "实验服"
     # game/res/meta/prop.rpym:177
     old "Wearing this makes you look a lot smarter."
     new "穿上这个，你看起来聪明多了。"
@@ -392,7 +395,7 @@ translate zh_hans strings:
     new "小黑裙"
     # game/res/meta/prop.rpym:180
     old "I know [saga.cast.debbie] said I shouldn't, but how could I not?"
-    new "我知道[saga.cast.debbie]说过我不该穿，但我怎么可能忍得住？"
+    new "我知道[saga.cast.debbie]不让我买，可我怎么忍得住？"
     # game/res/meta/prop.rpym:182
     old "Maid uniform"
     new "女仆装"
@@ -413,19 +416,19 @@ translate zh_hans strings:
     new "看起来是一堆薄薄的白色缎子和五颜六色的服装首饰。不知道是什么样的服装……"
     # game/res/meta/prop.rpym:191
     old "[saga.cast.debbie]'s robe"
-    new "[saga.cast.debbie]的长袍"
+    new "[saga.cast.debbie]的浴袍"
     # game/res/meta/prop.rpym:192
     old "... But if this is here then..."
     new "……但如果这个在这里的话……"
     # game/res/meta/prop.rpym:194
     old "Swimsuit & Goggles"
-    new "泳衣和护目镜"
+    new "泳裤和泳镜"
     # game/res/meta/prop.rpym:195
     old "A super slick speedo for swimming, and goggles for perfect underwater vison!"
-    new "一件超级光滑的速比涛泳裤，还有能在水下获得完美视野的护目镜！"
+    new "一条流线型的速比涛泳裤，再配上泳镜，水下也能看得清清楚楚！"
     # game/res/meta/prop.rpym:197
     old "A SAGA car dealership vest"
-    new "一件SAGA汽车经销商的背心"
+    new "一件SAGA车行的制服背心"
     # game/res/meta/prop.rpym:198
     old "Ladies love a man in uniform, right? Even if it screams box-store?"
     new "女士们都喜欢穿制服的男人，对吧？即使这衣服看起来像是大卖场的？"
@@ -434,7 +437,7 @@ translate zh_hans strings:
     new "神秘的雕像头部"
     # game/res/meta/prop.rpym:201
     old "A mysterious statue piece that [saga.cast.connie] found in the beach house."
-    new "一个神秘的雕像部件，是[saga.cast.connie]在海滩屋找到的。"
+    new "[saga.cast.connie]在海滨别墅找到的神秘雕像部件。"
     # game/res/meta/prop.rpym:203
     old "Mysterious statue legs"
     new "神秘的雕像腿部"
@@ -446,7 +449,7 @@ translate zh_hans strings:
     new "神秘的雕像躯干"
     # game/res/meta/prop.rpym:207
     old "A mysterious statue piece that [saga.cast.clyde] gave to me in exchange for a pink beaver plushie."
-    new "一个神秘的雕像部件，是[saga.cast.clyde]用粉红色海狸毛绒玩具向我换的。"
+    new "我用粉红色海狸毛绒玩具从[saga.cast.clyde]那里换来的神秘雕像部件。"
     # game/res/meta/prop.rpym:209
     old "Laundry basket"
     new "洗衣篮"
@@ -530,7 +533,7 @@ translate zh_hans strings:
     new "啤酒"
     # game/res/meta/prop.rpym:261
     old "It's liquid bread, guys."
-    new "伙计们，这是液体面包。"
+    new "这可是液体面包啊，伙计们。"
     # game/res/meta/prop.rpym:263
     old "Box of chocolates"
     new "一盒巧克力"
@@ -593,10 +596,10 @@ translate zh_hans strings:
     new "还好我的背包内置了顶级的杯架！"
     # game/res/meta/prop.rpym:293
     old "Exams"
-    new "考试"
+    new "试卷"
     # game/res/meta/prop.rpym:294
     old "The finals. It is prime material to study, if you lack morals."
-    new "期末考试。这是绝佳的学习材料，如果你不讲道德的话。"
+    new "期末考试的试卷。只要不在乎节操，这就是绝佳的复习资料。"
     # game/res/meta/prop.rpym:296
     old "French food assigment"
     new "法国美食作业"
@@ -605,10 +608,10 @@ translate zh_hans strings:
     new "当然，这也许有点俗气，但谁不喜欢向fromage（奶酪）致敬呢？"
     # game/res/meta/prop.rpym:299
     old "Scanned French pages"
-    new "扫描的法语页面"
+    new "法语词典扫描页"
     # game/res/meta/prop.rpym:300
     old "A collection of missing pages from my French dictionary."
-    new "我的法语词典中缺失页的合集。"
+    new "我的法语词典缺页的扫描件。"
     # game/res/meta/prop.rpym:302
     old "Poem"
     new "诗"
@@ -623,7 +626,7 @@ translate zh_hans strings:
     new "DarkCookie推出的最新热门电子游戏！"
     # game/res/meta/prop.rpym:308
     old "World of Orcette"
-    new "奥赛特的世界"
+    new "World of Orcette"
     # game/res/meta/prop.rpym:311
     old "Fake guitar"
     new "仿制吉他"
@@ -641,7 +644,7 @@ translate zh_hans strings:
     new "[saga.cast.josie]的手机"
     # game/res/meta/prop.rpym:318
     old "I should get this back to her ASAP — wouldn't want her to miss out on that shoe sale!"
-    new "我得尽快把这个还给她——可不想让她错过那双鞋的促销！"
+    new "我得赶快把手机还给她，可不能让她错过鞋子促销！"
     # game/res/meta/prop.rpym:320
     old "A small key"
     new "一把小钥匙"
@@ -668,10 +671,10 @@ translate zh_hans strings:
     new "一把神秘的钥匙。"
     # game/res/meta/prop.rpym:332
     old "Beach house key"
-    new "海滩小屋钥匙"
+    new "海滨别墅钥匙"
     # game/res/meta/prop.rpym:333
     old "The key to your very own home."
-    new "属于你专属家园的钥匙。"
+    new "你自己家的钥匙。"
     # game/res/meta/prop.rpym:335
     old "Overcompensator key"
     new "过度补偿者钥匙"
@@ -680,7 +683,7 @@ translate zh_hans strings:
     new "这辆从不跳过练腿日的汽车的启动钥匙，噪音大到让你永远不会忘记它。"
     # game/res/meta/prop.rpym:338
     old "Small hidden key"
-    new "小型隐藏钥匙"
+    new "藏起来的小钥匙"
     # game/res/meta/prop.rpym:339
     old "The key found stuck to Dad's old photograph of him and the mayor."
     new "在爸爸和市长的旧照片上发现的钥匙。"
@@ -704,7 +707,7 @@ translate zh_hans strings:
     new "这把钥匙不仅能打开学校大门，还能打开所有储物柜！"
     # game/res/meta/prop.rpym:350
     old "SL-700 Crotch Rocket key"
-    new "SL-700 胯下火箭钥匙"
+    new "SL-700胯下火箭钥匙"
     # game/res/meta/prop.rpym:351
     old "The ignition key to the most badass electric scooter there is!"
     new "市面上最酷的电动滑板车的点火钥匙！"
@@ -737,13 +740,13 @@ translate zh_hans strings:
     new "超猛男杂志"
     # game/res/meta/prop.rpym:366
     old "\"Buff lads in the buff!\" ... Kevin seemed really taken with these, talk about #goals."
-    new "“光膀子的壮汉！”……Kevin似乎特别喜欢这些，简直就是#人生目标。"
+    new "“一丝不挂的肌肉猛男！”……Kevin好像特别喜欢这些，简直就是#人生目标。"
     # game/res/meta/prop.rpym:368
     old "Huge stack of magazines"
     new "一大摞杂志"
     # game/res/meta/prop.rpym:369
     old "This should be more than enough for the collages, and some of these porno ones even have glue applied already!"
-    new "这些做拼贴画应该绰绰有余了，而且有些色情的甚至已经涂好胶水了！"
+    new "拿来做拼贴画肯定绰绰有余，有几本色情杂志连“胶水”都已经涂好了！"
     # game/res/meta/prop.rpym:371
     old "Fashion magazines"
     new "时尚杂志"
@@ -758,7 +761,7 @@ translate zh_hans strings:
     new "这些迟早肯定能派上用场。"
     # game/res/meta/prop.rpym:377
     old "Pink Cyclone mask"
-    new "粉色旋风面具"
+    new "Pink Cyclone面具"
     # game/res/meta/prop.rpym:378
     old "A pink wrestler mask. Ideal to hide one's identity."
     new "一个粉色的摔跤手面具。适合隐藏身份。"
@@ -782,22 +785,22 @@ translate zh_hans strings:
     new "实验性男性暂时生育药物。\n提高怀孕几率。"
     # game/res/meta/prop.rpym:389
     old "Fresh milk cartons"
-    new "鲜牛奶盒"
+    new "盒装鲜奶"
     # game/res/meta/prop.rpym:390
     old "A small delivery of fresh milk cartons!"
-    new "一小批鲜奶盒！"
+    new "一小批盒装鲜奶！"
     # game/res/meta/prop.rpym:393
     old "A delivery of fresh milk cartons!"
-    new "一批鲜奶盒！"
+    new "一批盒装鲜奶！"
     # game/res/meta/prop.rpym:396
     old "A huge delivery of fresh milk cartons!"
-    new "一大批鲜奶盒！"
+    new "一大批盒装鲜奶！"
     # game/res/meta/prop.rpym:398
     old "Stainless milk churn"
     new "不锈钢奶桶"
     # game/res/meta/prop.rpym:399
     old "An insulated container, perfect for keeping your fresh milk nice and cool!"
-    new "一个保温容器，非常适合让你的鲜奶保持凉爽！"
+    new "能隔热保温的容器，用来让鲜奶保持冰凉再合适不过！"
     # game/res/meta/prop.rpym:401
     old "Breast milk"
     new "母乳"
@@ -809,7 +812,7 @@ translate zh_hans strings:
     new "画板"
     # game/res/meta/prop.rpym:405
     old "An art pad, for [saga.cast.mia]."
-    new "一个美术画板，给[saga.cast.mia]。"
+    new "给[saga.cast.mia]准备的画板。"
     # game/res/meta/prop.rpym:407
     old "Rump Estate staff badge"
     new "伦普庄园员工徽章"
@@ -821,7 +824,7 @@ translate zh_hans strings:
     new "公路自行车"
     # game/res/meta/prop.rpym:411
     old "The perfect way to start delivering pizza!"
-    new "开始送披萨的完美方式！"
+    new "刚开始送披萨，有它正合适！"
     # game/res/meta/prop.rpym:413
     old "Candle"
     new "蜡烛"
@@ -833,7 +836,7 @@ translate zh_hans strings:
     new "猫粮"
     # game/res/meta/prop.rpym:417
     old "It's a special brand of food for cats, the best type of animal in the world!"
-    new "这是一款特别的猫粮品牌，为世界上最棒的动物准备的！"
+    new "这是特制的猫粮，专门给猫这种世界上最棒的动物吃！"
     # game/res/meta/prop.rpym:419
     old "Golden Compass"
     new "黄金指南针"
@@ -920,7 +923,7 @@ translate zh_hans strings:
     new "一些传说影院的宣传材料"
     # game/res/meta/prop.rpym:462
     old "This is just the ticket to help unmask [saga.cast.jenny]'s stalker."
-    new "这正是帮助揭露[saga.cast.jenny]跟踪狂身份的好办法。"
+    new "这正是查清跟踪[saga.cast.jenny]那家伙身份的好线索。"
     # game/res/meta/prop.rpym:464
     old "A pair of CineSaga movie tickets"
     new "两张传说影院电影票"
@@ -950,7 +953,7 @@ translate zh_hans strings:
     new "水晶项链"
     # game/res/meta/prop.rpym:477
     old "A necklace purchased from Cupid."
-    new "从丘比特那里买来的项链。"
+    new "在丘比特买的项链。"
     # game/res/meta/prop.rpym:479
     old "Heart necklace"
     new "心形项链"
@@ -968,7 +971,7 @@ translate zh_hans strings:
     new "画"
     # game/res/meta/prop.rpym:489
     old "A drawing from [saga.cast.ang] of the final item she requires."
-    new "[saga.cast.ang]画的她所需的最后一件物品的画。"
+    new "[saga.cast.ang]画的示意图，画着她要的最后一件东西。"
     # game/res/meta/prop.rpym:491
     old "Key code to [saga.cast.tori]'s office"
     new "进入[saga.cast.tori]办公室的密码"
@@ -1040,7 +1043,7 @@ translate zh_hans strings:
     new "隐藏的照片"
     # game/res/meta/prop.rpym:540
     old "A picture of Dad, the mayor and... a house-elf? I wonder what the note could mean..."
-    new "一张爸爸、镇长和……家养小精灵的照片？不知道那张便条是什么意思……"
+    new "一张爸爸、市长和……家养小精灵的照片？不知道那张便条是什么意思……"
     # game/res/meta/prop.rpym:542
     old "[saga.cast.roxxy] and [saga.cast.anon]'s picture"
     new "[saga.cast.roxxy]和[saga.cast.anon]的合照"
@@ -1055,10 +1058,10 @@ translate zh_hans strings:
     new "[saga.cast.tori]说这些是\"记忆清除血清\"的计划书，还让我去拿原料！"
     # game/res/meta/prop.rpym:549
     old "Plans for some mysterious eyewear. [saga.cast.tori] wanted me to fetch them from her office."
-    new "某种神秘眼镜的计划书。[saga.cast.tori]想让我从她办公室取来。"
+    new "某种神秘眼镜的设计图。[saga.cast.tori]让我去她办公室拿来。"
     # game/res/meta/prop.rpym:551
     old "A Brazen Beaver plushie"
-    new "厚脸皮河狸毛绒玩具"
+    new "厚脸皮海狸毛绒玩具"
     # game/res/meta/prop.rpym:552
     old "I bought this at Cupid."
     new "我在丘比特买的。"
@@ -1094,22 +1097,22 @@ translate zh_hans strings:
     new "一只被低估的独角兽毛绒玩具"
     # game/res/meta/prop.rpym:584
     old "A Wistful Warrior plushie"
-    new "一个渴望的战士毛绒玩具"
+    new "惆怅战士毛绒玩具"
     # game/res/meta/prop.rpym:587
     old "Pom-poms"
-    new "啦啦球"
+    new "啦啦队彩球"
     # game/res/meta/prop.rpym:588
     old "A pair of pom-poms retrieved from [saga.cast.bridget]'s locker."
-    new "从[saga.cast.bridget]的储物柜里取出的一对啦啦球。"
+    new "从[saga.cast.bridget]的储物柜里取出的一对啦啦队彩球。"
     # game/res/meta/prop.rpym:590
     old "Autographed Pink Cyclone poster"
-    new "亲笔签名的粉色飓风海报"
+    new "Pink Cyclone亲笔签名海报"
     # game/res/meta/prop.rpym:591
     old "Kinda smells faintly of baby oil..."
     new "闻起来有股淡淡的婴儿油味……"
     # game/res/meta/prop.rpym:593
     old "Partners in Crime by [saga.cast.eve]"
-    new "[saga.cast.eve]所著的《犯罪搭档》"
+    new "[saga.cast.eve]画的《犯罪搭档》"
     # game/res/meta/prop.rpym:594
     old "This is so cool. I think I'll put it on the wall in my room."
     new "太酷了。我想把它贴在我房间的墙上。"
@@ -1193,7 +1196,7 @@ translate zh_hans strings:
     new "触觉引擎"
     # game/res/meta/prop.rpym:645
     old "A faptic engine extracted from a controller."
-    new "从控制器中取出的触觉引擎"
+    new "从手柄中取出的触觉引擎。"
     # game/res/meta/prop.rpym:647
     old "A Master Blaster controller"
     new "爆破大师手柄"
@@ -1208,10 +1211,10 @@ translate zh_hans strings:
     new "用于提升画质的新电脑零件。"
     # game/res/meta/prop.rpym:653
     old "USB"
-    new "USB"
+    new "U盘"
     # game/res/meta/prop.rpym:654
     old "My trusty USB. I should be able to use the computer lab printer to print my French poem."
-    new "我可靠的USB。我应该能用计算机实验室的打印机打印我的法语诗。"
+    new "我那可靠的U盘。应该能用计算机教室的打印机把我的法语诗打印出来。"
     # game/res/meta/prop.rpym:656
     old "Virtual Saga X"
     new "虚拟传奇X"
@@ -1241,7 +1244,7 @@ translate zh_hans strings:
     new "汽油罐"
     # game/res/meta/prop.rpym:669
     old "A safe container for flammable fluids containing gasoline."
-    new "用于存放含汽油等易燃液体的安全容器。"
+    new "装着汽油的安全容器，专门用来存放易燃液体。"
     # game/res/meta/prop.rpym:671
     old "Hammer"
     new "锤子"
@@ -1268,16 +1271,16 @@ translate zh_hans strings:
     new "一把用过的金属铲子。"
     # game/res/meta/prop.rpym:683
     old "Leaf skimmer"
-    new "树叶撇渣器"
+    new "捞叶网"
     # game/res/meta/prop.rpym:684
     old "Used for collecting leaves (and worse!) from the surface of pools and hot tubs."
-    new "用于从泳池和热水浴缸的水面上收集树叶(以及更糟的东西！)。"
+    new "用来捞走泳池和按摩浴缸水面上的树叶（还有更恶心的东西！）。"
     # game/res/meta/prop.rpym:686
     old "Wrench"
     new "扳手"
     # game/res/meta/prop.rpym:687
     old "A metal tool used to provide grip and tighten bolts."
-    new "一种用于提供握力并拧紧螺栓的金属工具。"
+    new "用来夹紧并拧紧螺栓的金属工具。"
     # game/res/meta/prop.rpym:689
     old "Glow-in-the-dark butt plug"
     new "夜光肛塞"
@@ -1362,7 +1365,3 @@ translate zh_hans strings:
     # game/res/meta/prop.rpym:729
     old "A whip to punish sinners."
     new "用来惩罚罪人的鞭子。"
-    # game/res/meta/prop.rpym:72
-    # game/res/meta/prop.rpym:34
-    old "Sink"
-    new "水槽"

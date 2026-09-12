@@ -733,7 +733,7 @@ translate zh_hans ano13_shop1_32babd25:
 
 
     # tony a_point_up "But this customer is a regular for us, and just so happens to know where my old pal, Eddie Four-Fingers, is hidin' out."
-    tony a_point_up "不过这位客人是我们的熟客，碰巧还知道我的老伙计Eddie Four-Fingers躲在哪儿。"
+    tony a_point_up "不过这位客人是我们的熟客，碰巧还知道我的老伙计，四指Eddie躲在哪儿。"
 
 # game/src/plot/ano13.rpy:197
 translate zh_hans ano13_shop1_a0a82e5f:

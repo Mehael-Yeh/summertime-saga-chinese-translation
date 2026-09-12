@@ -896,3 +896,31 @@ bytecode_strings.rpy中的Narrative统一译为“叙事”，包括孕中期、
 
 ## 2026-09-13 地点与场景名称批次
 场景名称按实体用途翻译：tammy_den的Den为起居室，不能与洞穴Nest的巢穴混同；yacht_cabin的Cabin为船舱；factory_cargo的Loading Dock为装卸区；pool_medic的Medic Stall为救护间。factory_main.alt的Access Road为进出道路；forest_main.alt的Path为林间小径。Apartment编号写作102号公寓，Recovery Room编号写作1号康复室；人物住宅统一为“[角色]的家”。上述规则仅适用于已确认实体，不对普通对白中的同形词盲目替换。
+
+
+## 2026-09-13 道具分组审校
+道具说明必须核对动作对象：小黑裙备注的shouldn’t指不让主角购买；雕像躯干是主角拿海狸玩偶向Clyde换得。物品Labcoat与任务统一实验服，Debbie的robe为浴袍，游泳用goggles为泳镜，与实验护目镜区分。
+
+
+## 2026-09-13 道具分组续审
+道具与对白一致性补充：游戏名World of Orcette按既定规则保留英文，不能在物品栏改称奥赛特的世界；SL-700胯下火箭不插入中英文间空格。Exams作为可携带物品译试卷；法语词典缺页的物品是扫描件，不是原书缺页本身。
+
+
+## 2026-09-13 道具分组第三批
+道具命名补充：Pink Cyclone面具保留角色公开艺名，不改成粉色旋风；Fresh milk cartons按送货对象译盒装鲜奶，不写成空奶盒或擅加牛奶来源。物品描述中的ticket习语可以表达为线索，避免把具体物件写成抽象办法。
+
+
+## 2026-09-13 道具合组收尾
+道具组统一：Pink Cyclone亲笔签名海报；Pom-poms为啦啦队彩球；Leaf skimmer为捞叶网；USB在此专指U盘，不用于替换接口名称。controller按游戏手柄处理；Eve的Partners in Crime是画作，使用画的，不能写所著。
+
+
+## 2026-09-13 共用界面碎片合组
+共用界面措辞：游戏内容的under construction统一开发中，minigame统一小游戏；外语朗读辅助提示使用用另一种语言说。朗读开关用已启用…／按…关闭，键名Shift+C、V保持标准写法。
+
+
+## 2026-09-13 字节码界面合组
+blueberry glaze为甜甜圈蓝莓糖霜，与strawberry glaze一致；Outlood Express注册为mail应用、pc_mail界面与inbox，译Outlood邮箱，不能误作快递。字节码提取的angle speed实际为namedtuple字段，不能凭字面当玩家文案。
+
+
+## 2026-09-13 本地文字阅读收尾
+Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。Electoclit为ElectroClit的源文拼写变体，译电击阴蒂棒，保留英文old键原样。

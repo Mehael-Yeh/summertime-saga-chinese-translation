@@ -4,9 +4,9 @@
 translate zh_hans wip_missing_label_1074ca40:
 
     # "Sorry, this section of the game is still under construction! Please check back in future updates.\n{size=-5}\n{color=4287f5}ref:{/color} [label]{/size}"
-    "抱歉，游戏的这部分正在建设中！请在未来更新中查看。\n{size=-5}\n{color=4287f5}ref:{/color} [label]{/size}"
+    "抱歉，这部分游戏内容还在开发中！请等待后续更新。\n{size=-5}\n{color=4287f5}ref:{/color} [label]{/size}"
 
 translate zh_hans strings:
 
     old "WORK IN PROGRESS"
-    new "正在建设中"
+    new "开发中"

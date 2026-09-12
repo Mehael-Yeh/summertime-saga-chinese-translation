@@ -4,4 +4,4 @@ translate zh_hans strings:
 
     # game/src/+config.rpy:6
     old "Summertime Saga"
-    new "夏日传奇"
+    new "夏日传说"
