@@ -34,7 +34,7 @@ translate zh_hans pizza_shop_lock_a78e2865:
 translate zh_hans pizza_shop_skip_43914261:
 
     # anon @ -m_talk "( I can't wait around here, the pizzeria will be closing soon. )"
-    anon @ -m_talk "（不能在这儿耗着，披萨店马上就要打烊了。）"
+    anon @ -m_talk "（不能在这儿耗着，披萨店马上要打烊了。）"
 
 # game/src/plot/pizza_shop.rpy:42
 translate zh_hans pizza_shop_sun_a0181d48:

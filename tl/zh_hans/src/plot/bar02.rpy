@@ -760,7 +760,7 @@ translate zh_hans bar02_art1_rails_a8cb99b1:
 translate zh_hans bar02_art1_rails_3f0e5ac0:
 
     # anon @ -m_talk "( ... Best hurry to the art room. )"
-    anon @ -m_talk "（……最好赶紧去美术室。）"
+    anon @ -m_talk "（……得赶紧去美术室。）"
 
 # game/src/plot/bar02.rpy:368
 translate zh_hans bar02_eve1_6e329198:

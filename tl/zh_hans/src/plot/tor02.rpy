@@ -1600,7 +1600,7 @@ translate zh_hans tor02_specs_ef2cf98b:
 translate zh_hans tor02_specs_e27e60e9:
 
     # anon "( Now, I just need to get these back to [saga.cast.tori]. )"
-    anon "（现在，我只需要把这些还给[saga.cast.tori]。）"
+    anon "（现在，只要把这些还给[saga.cast.tori]就行。）"
 
 # game/src/plot/tor02.rpy:749
 translate zh_hans tor02_specs_rails_7b9b81bf:

@@ -2020,7 +2020,7 @@ translate zh_hans mar_baby_meet_cc02593b:
 
 
     # tony "He's got his mama's eyes."
-    tony "他有他妈妈的眼睛。"
+    tony "他的眼睛像妈妈。"
 
 translate zh_hans mar_baby_meet_adfa9ea4:
 
@@ -2360,7 +2360,7 @@ translate zh_hans mar_baby_home_19100bea:
 
 
     # anon "Your kids look great, [saga.cast.tony]."
-    anon "你的孩子们看起来很好，[saga.cast.tony]。"
+    anon "你的孩子们可真漂亮，[saga.cast.tony]。"
 
 translate zh_hans mar_baby_home_4a6baa71:
 
@@ -2405,7 +2405,7 @@ translate zh_hans mar_baby_home_d6c2ab3d:
 
 
     # maria "Here, I'll take him."
-    maria "来，让我带他。"
+    maria "来，我来抱他。"
 
 translate zh_hans mar_baby_home_92da758b:
 

@@ -1222,7 +1222,7 @@ translate zh_hans ano01_mia_4b1dc070:
 translate zh_hans ano01_mia_49f9fede:
 
     # mia "I didn't mean to bring it up. I'm sorry you had to go through that. I'm just glad you're finally back!"
-    mia "我不是故意提起这事的。让你经历这些，我真的很难过。不过我很高兴你终于回来了！"
+    mia "对不起，我不是有意提起你的伤心事。你这阵子一定很难熬吧。能再见到你，真好！"
 
 # game/src/plot/ano01.rpy:466
 translate zh_hans ano01_mia_20b7b601:

@@ -640,7 +640,7 @@ translate zh_hans mel03_outro_2d1ecfc2:
 
 
     # anon "( Hmm, I guess I should give her some space for the time being. )"
-    anon "（嗯，我想我现在应该给她一些空间。）"
+    anon "（嗯，暂时还是让她一个人静静吧。）"
 
 # game/src/plot/mel03.rpy:443
 translate zh_hans mel03_outro_office1_a7dd679f:
@@ -675,7 +675,7 @@ translate zh_hans mel03_post_block_64d479cf:
 
 
     # anon @ -m_talk "( Hmm, I guess I should give her some space for the time being. )"
-    anon @ -m_talk "（嗯，我想我暂时还是给她一点空间吧。）"
+    anon @ -m_talk "（嗯，暂时还是让她一个人静静吧。）"
 
 translate zh_hans mel03_music_12c0f177:
 
@@ -1014,7 +1014,7 @@ translate zh_hans mel03_office4_444d4056:
 translate zh_hans mel03_office4_2d1ecfc2:
 
     # anon "( Hmm, I guess I should give her some space for the time being. )"
-    anon "（嗯，我想我现在应该给她一些空间。）"
+    anon "（嗯，暂时还是让她一个人静静吧。）"
 
 translate zh_hans mel03_office4_office1_a7dd679f:
 

@@ -238,7 +238,7 @@ translate zh_hans tor05_intro_74be28d6:
 translate zh_hans tor05_intro_08b0387d:
 
     # tori "They should be easily identifiable by their lumpy purple backsides."
-    tori "它们应该很容易辨认，因为背面有紫色的疙瘩。"
+    tori "它们屁股紫紫的，还长着疙瘩，一眼就能认出来。"
 
 # game/src/plot/tor05.rpy:114
 translate zh_hans tor05_intro_0e8ce8bb:
@@ -634,7 +634,7 @@ translate zh_hans tor05_take_help_de075ee0:
 translate zh_hans tor05_take_help_3001501c:
 
     # tori "Falicum mushrooms grow in the forest here in Summerville."
-    tori "法利库蘑菇就长在夏日镇的森林里。"
+    tori "法利库姆蘑菇就生长在夏日镇的森林里。"
 
 # game/src/plot/tor05.rpy:375
 translate zh_hans tor05_take_help_bfd8beba:
@@ -670,7 +670,7 @@ translate zh_hans tor05_take_help_c10fe926:
 translate zh_hans tor05_take_help_08b0387d:
 
     # tori "They should be easily identifiable by their lumpy purple backsides."
-    tori "它们紫色的凹凸屁股应该很容易辨认。"
+    tori "它们屁股紫紫的，还长着疙瘩，一眼就能认出来。"
 
 # game/src/plot/tor05.rpy:388
 translate zh_hans tor05_take_help_af803bab:
@@ -1492,7 +1492,7 @@ translate zh_hans tor05_office2_c974f9b3:
 translate zh_hans tor05_office2_70901c5b:
 
     # tori "Are you getting close?"
-    tori "你快到了吗？"
+    tori "快要射精了吗？"
 
 # game/src/plot/tor05.rpy:776
 translate zh_hans tor05_office2_9168f4cf:
@@ -1516,7 +1516,7 @@ translate zh_hans tor05_office2_adb50ca9:
 translate zh_hans tor05_office2_84475a56:
 
     # tori "This is all so fascinating!"
-    tori "这可太迷人了！"
+    tori "这可太有意思了！"
 
 # game/src/plot/tor05.rpy:783
 translate zh_hans tor05_office2_9f896b75:

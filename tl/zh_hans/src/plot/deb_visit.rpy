@@ -574,7 +574,7 @@ translate zh_hans deb_visit_35a1b574:
 translate zh_hans deb_visit_f9d747ea:
 
     # debbie "M-MERCY!!"
-    debbie "饶-饶了我吧！！"
+    debbie "饶、饶了我吧！！"
 
 # game/src/plot/deb_visit.rpy:250
 translate zh_hans deb_visit_a199945a:
@@ -586,7 +586,7 @@ translate zh_hans deb_visit_a199945a:
 translate zh_hans deb_visit_1812e2db:
 
     # anon "Almost there!"
-    anon "快到了！"
+    anon "我就快射了！"
 
 # game/src/plot/deb_visit.rpy:252
 translate zh_hans deb_visit_9094f0b7:
@@ -616,7 +616,7 @@ translate zh_hans deb_visit_8bb4c069:
 translate zh_hans deb_visit_1812e2db_1:
 
     # anon "Almost there!"
-    anon "快到了！"
+    anon "就快射了！"
 
 # game/src/plot/deb_visit.rpy:257
 translate zh_hans deb_visit_aaefe0ad:

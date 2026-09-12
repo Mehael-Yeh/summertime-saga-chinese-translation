@@ -248,3 +248,19 @@ python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
 | cookie jar | UI | 角色图鉴 | 解锁角色变体或场景。 |
 | Third Quarter | 月相 | 下弦月 | 与 `First Quarter`“上弦月”配对。 |
 | Waning Crescent / Waxing Crescent | 月相 | 残月／娥眉月 | 月相 UI 固定译法。 |
+
+
+## 2026-09-12 重复与高相似句式
+
+- 全仓分组扫描发现 1,421 组有多种译文的重复候选、461 对高相似候选。它们是检查线索，不是错误数；短感叹句、姓名或单复数变化及合理语境差异不要求字面相同。
+- 本轮统一任务提醒、真人模特邀约、纹身草图说明、住院寻人提示、育儿替代分支、关闭场所提示和辅助朗读名称；新增122处修改，涉及23个文件。上一轮修订保留。
+- UI与任务提示采用稳定句架；同一类“Speak with…about…”提示以“和…谈谈…”为主，保留主题和地点信息。任务剧情推进使用“剧情”。
+- `sentence_patterns.json` 保存113条经本轮确认的文件／原文／译文基准，限定到具体文件，不作为全局自动替换表。后续有意调整译法时同步更新基准。
+- 检查基准：`python -X utf8 tools/audit_sentence_consistency.py --check-approved translation_context/sentence_patterns.json`。
+- 重新生成候选：`python -X utf8 tools/audit_sentence_consistency.py --output .codex_tmp/sentence_consistency.json`。工具只读翻译文件，候选输出放临时目录。
+- 相似检索以不少于5个词的原文、稀有词索引和0.90字符相似度筛选；要求存在相同说话人类型。它是启发式检索，不保证找到所有同义改写。标点归一化仅用于分组，不能用来覆盖原有疑问、否定或强调。
+- “Yes/No”“can you spot me”等依前文决定实际含义；普通近义口语无需为减少候选数而强制重写。外语、月份、人名和程序占位符继续遵守既定规则。
+
+### 源文对应异常的保留项
+
+`mel03.rpy` 的 `mel03_music_d1806a7d`、`mel03_outro_444d4056`，以及 `mar_baby.rpy` 的 `mar_baby_post_intro_c838cfce`、`mar_baby_post_intro_62a8e3f7`，存在注释原文与中文／相邻场景不符的迹象。可能涉及旧版本对应关系，未查明前不能凭相同英文把一处译文复制到另一处；需用匹配版本的源脚本或运行时显示核实。此类不计作已修复的普通文风差异。

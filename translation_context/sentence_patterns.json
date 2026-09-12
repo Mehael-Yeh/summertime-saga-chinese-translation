@@ -1,0 +1,571 @@
+{
+  "version": 1,
+  "note": "人工确认的重复句式与相似分支回归基准；修改定译时同步更新。不是自动替换表。",
+  "patterns": [
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "An error occured when trying to download game data:",
+      "target": "下载游戏数据时出现错误："
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Find [saga.cast.sammy] in a changing stall.",
+      "target": "在更衣隔间找到[saga.cast.sammy]。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Find [saga.cast.emma] in a changing stall.",
+      "target": "在更衣隔间找到[saga.cast.emma]。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Find [saga.cast.sue] in a changing stall.",
+      "target": "在更衣隔间找到[saga.cast.sue]。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A sketch of a dolphin tattoo for [saga.cast.mia].",
+      "target": "为[saga.cast.mia]设计的海豚纹身草图。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A sketch of a tattoo of flowers for [saga.cast.mia].",
+      "target": "为[saga.cast.mia]设计的花朵纹身草图。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A sketch of a skull tattoo for [saga.cast.mia].",
+      "target": "为[saga.cast.mia]设计的骷髅纹身草图。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A sketch of a star tattoo for [saga.cast.mia].",
+      "target": "为[saga.cast.mia]设计的星星纹身草图。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Time for our first art session. Best head to the art room.",
+      "target": "该上第一节美术课了，赶紧去美术室吧。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Time for our next art session. Best head to the art room.",
+      "target": "该上下一节美术课了，赶紧去美术室吧。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the upstairs hallway in the evening.",
+      "target": "晚上进入楼上的走廊。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the upstairs hallway in the morning.",
+      "target": "早上进入楼上的走廊。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder what [saga.cast.tammy] is doing this morning?",
+      "target": "不知道[saga.cast.tammy]今早在做什么？"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the science class in the morning.",
+      "target": "早上进入科学教室。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the French class in the morning.",
+      "target": "早上进入法语教室。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I should ask the librarian what books she has on French food.",
+      "target": "该问问图书管理员有哪些关于法国美食的书。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I should ask the librarian what books she has on French poetry.",
+      "target": "该问问图书管理员有哪些关于法国诗歌的书。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder what [saga.cast.tori] has planned for my first project?",
+      "target": "不知道[saga.cast.tori]给我的第一个项目安排了什么？"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder what [saga.cast.tori] has planned for my next project?",
+      "target": "不知道[saga.cast.tori]给我的下一个项目安排了什么？"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Inspect with the glasses inside [saga.cast.judith]'s locker.",
+      "target": "检查[saga.cast.judith]储物柜里的眼镜。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Inspect with the Master Blaster controller in the treehouse.",
+      "target": "检查树屋里的爆破大师手柄。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "( ... Best hurry to the art room. )",
+      "target": "（……得赶紧去美术室。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "( It's time for another art lesson with [saga.cast.barb]. )",
+      "target": "（又该去上[saga.cast.barb]的美术课了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "( Best hurry into the art room. )",
+      "target": "（得赶紧进美术室。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "I'm working on a project for [saga.cast.barb] and it requires a live model.",
+      "target": "我在做[saga.cast.barb]布置的美术作业，需要一位真人模特。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "( She's got enough on her plate right now, what with the babies and all. )",
+      "target": "（她光是照顾孩子们，就已经够忙的了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "( She's got enough on her plate right now, what with the baby and all. )",
+      "target": "（她光是照顾孩子，就已经够忙的了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen03.rpy",
+      "source": "( [saga.cast.debbie] must be cooking breakfast downstairs. )",
+      "target": "（[saga.cast.debbie]肯定在楼下做早餐。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen11.rpy",
+      "source": "( I'll have to be careful but I think it's worth a shot. )",
+      "target": "（我得小心一点，不过值得试试。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "... She just didn't wanna let him go.",
+      "target": "……她怎么都舍不得放手。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Of course, I'll watch her!",
+      "target": "当然，我来照看她！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Of course, I'll watch them!",
+      "target": "当然，我来照看他们！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "He's got his mama's eyes.",
+      "target": "他的眼睛像妈妈。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Your kids look great, [saga.cast.tony].",
+      "target": "你的孩子们可真漂亮，[saga.cast.tony]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Here, I'll take him.",
+      "target": "来，我来抱他。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "( ... I should let him rest. )",
+      "target": "（……还是让他好好休息吧。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel03.rpy",
+      "source": "( Hmm, I guess I should give her some space for the time being. )",
+      "target": "（嗯，暂时还是让她一个人静静吧。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "( The ward chart says that [saga.cast.tina] is in [saga.cast.tina.where!l]. )",
+      "target": "（病房表上写着[saga.cast.tina]在[saga.cast.tina.where!l]。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "( ... If only there was an easy way to know which room [saga.cast.tina] is in. )",
+      "target": "（……要是能有个简单办法，直接找到[saga.cast.tina]在哪间房就好了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "( Now, I just need to get these back to [saga.cast.tori]. )",
+      "target": "（现在，只要把这些还给[saga.cast.tori]就行。）"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Self-voicing disabled.",
+      "target": "自动朗读已禁用。"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Self-voicing enabled. ",
+      "target": "自动朗读已启用。"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Self-Voicing",
+      "target": "自动朗读"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Self-voicing support is limited when using a touch screen.",
+      "target": "在使用触摸屏时，自动朗读功能会受限。"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Self-Voicing Volume Drop",
+      "target": "自动朗读音量降低"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "self voicing",
+      "target": "自动朗读"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "self voicing enable",
+      "target": "启用自动朗读"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "self voicing disable",
+      "target": "禁用自动朗读"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "self voicing volume drop",
+      "target": "自动朗读音量降低"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Self-voicing would say \\\"[renpy.display.tts.last]\\\". Press 'alt+shift+V' to disable.",
+      "target": "自动朗读会说\\\"[renpy.display.tts.last]\\\"。按 'alt+shift+V' 禁用此功能。"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Self-voicing enabled. Press 'v' to disable.",
+      "target": "自动朗读已启用。按 'v' 禁用。"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Self-Voicing and Audio",
+      "target": "自动朗读和音频"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.",
+      "target": "切换辅助功能 {a=https://www.renpy.org/l/voicing}自动朗读{/a}。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.debbie]'s story during [saga.cast.jenny]'s second trimester.",
+      "target": "在[saga.cast.jenny]的孕中期推进[saga.cast.debbie]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.debbie]'s story during [saga.cast.jenny]'s third trimester.",
+      "target": "在[saga.cast.jenny]的孕晚期推进[saga.cast.debbie]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.jenny]'s story during her second trimester.",
+      "target": "在[saga.cast.jenny]孕中期推进她的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.maria]'s story during her second trimester.",
+      "target": "在[saga.cast.maria]孕中期推进她的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.jenny]'s story during her third trimester.",
+      "target": "在[saga.cast.jenny]孕晚期推进她的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.maria]'s story during her third trimester.",
+      "target": "在[saga.cast.maria]孕晚期推进她的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.melody]'s story, and win the talent show.",
+      "target": "推进[saga.cast.melody]的剧情，并赢得才艺表演。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.debbie]'s story.",
+      "target": "推进[saga.cast.debbie]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.judith]'s story.",
+      "target": "推进[saga.cast.judith]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.melody]'s story.",
+      "target": "推进[saga.cast.melody]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.diane]'s story.",
+      "target": "推进[saga.cast.diane]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.jenny]'s story.",
+      "target": "推进[saga.cast.jenny]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.barb]'s story.",
+      "target": "推进[saga.cast.barb]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.tina]'s story.",
+      "target": "推进[saga.cast.tina]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.tori]'s story.",
+      "target": "推进[saga.cast.tori]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through [saga.cast.viv]'s story.",
+      "target": "推进[saga.cast.viv]的剧情。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Progress through the main story.",
+      "target": "推进主线剧情。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "A Master Blaster controller",
+      "target": "爆破大师手柄"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "source": "[saga.cast.erik]'s Master Blaster controller. It should contain a faptic engine.",
+      "target": "[saga.cast.erik]的爆破大师手柄，里面应该有一个触觉引擎。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.tony] about a baby.",
+      "target": "和[saga.cast.tony]谈谈关于孩子的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.mia] about art class.",
+      "target": "和[saga.cast.mia]谈谈美术课。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.barb] about [saga.cast.mia].",
+      "target": "和[saga.cast.barb]谈谈[saga.cast.mia]。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.barb] about the next lesson.",
+      "target": "和[saga.cast.barb]谈谈下一课的事情。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.barb] about the magazines.",
+      "target": "和[saga.cast.barb]谈谈杂志的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.barb] about the easels.",
+      "target": "和[saga.cast.barb]谈谈画架的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.barb] about the contest.",
+      "target": "和[saga.cast.barb]谈谈比赛的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.ang] about linens.",
+      "target": "和[saga.cast.ang]谈谈亚麻布的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.barb] about linens.",
+      "target": "和[saga.cast.barb]谈谈亚麻布的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.lily] about costumes.",
+      "target": "和[saga.cast.lily]谈谈服装的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.barb] about the costumes.",
+      "target": "和[saga.cast.barb]谈谈服装的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.debbie] about dreams.",
+      "target": "和[saga.cast.debbie]谈谈梦境。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.debbie] about kissing.",
+      "target": "和[saga.cast.debbie]谈谈接吻。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.debbie] about the engine.",
+      "target": "和[saga.cast.debbie]谈谈引擎的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.diane] about [saga.cast.debbie].",
+      "target": "和[saga.cast.diane]谈谈[saga.cast.debbie]。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.kassy] about the dress.",
+      "target": "和[saga.cast.kassy]谈谈那条连衣裙。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.debbie] about a date.",
+      "target": "和[saga.cast.debbie]谈谈约会。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.jenny] about the gift.",
+      "target": "和[saga.cast.jenny]谈谈礼物的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.josie] about her phone.",
+      "target": "和[saga.cast.josie]谈谈她的手机。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.judith] about the flute.",
+      "target": "和[saga.cast.judith]谈谈长笛。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.eve] and [saga.cast.kevin] about the talent show.",
+      "target": "和[saga.cast.eve]和[saga.cast.kevin]谈谈才艺表演的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.melody] about the talent show.",
+      "target": "和[saga.cast.melody]谈谈才艺表演的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.liu] about [saga.cast.tina].",
+      "target": "和[saga.cast.liu]谈谈[saga.cast.tina]的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.june] about the faptic engine.",
+      "target": "和[saga.cast.june]谈谈触觉引擎。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.erik] about his Master Blaster controller.",
+      "target": "和[saga.cast.erik]谈谈他的爆破大师手柄。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.tori] about the faptic engine.",
+      "target": "和[saga.cast.tori]谈谈触觉引擎。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.viv] about tutoring sessions.",
+      "target": "和[saga.cast.viv]谈谈辅导课的事情。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.viv] about assignment.",
+      "target": "和[saga.cast.viv]谈谈作业。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.jenny] about tutoring [saga.cast.roxxy].",
+      "target": "和[saga.cast.jenny]谈谈给[saga.cast.roxxy]辅导的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.roxxy] about cheer tutoring.",
+      "target": "和[saga.cast.roxxy]谈谈啦啦队辅导的事。"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.viv] about [saga.cast.roxxy].",
+      "target": "和[saga.cast.viv]谈谈[saga.cast.roxxy]的事。"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Self-voicing",
+      "target": "自动朗读"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Self-voicing volume drop",
+      "target": "自动朗读音量降低"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/gym_workout.rpy",
+      "source": "( I can't wait around here, the gym will be closing soon. )",
+      "target": "（不能在这儿耗着，体育馆马上要关门了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/library_lobby.rpy",
+      "source": "( I can't wait around here, the library will be closing soon. )",
+      "target": "（不能在这儿耗着，图书馆马上要闭馆了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/pizza_shop.rpy",
+      "source": "( I can't wait around here, the pizzeria will be closing soon. )",
+      "target": "（不能在这儿耗着，披萨店马上要打烊了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "Well, they were putting them into those Master Blaster controllers a few years ago.",
+      "target": "几年前，那些爆破大师手柄里就装着这种东西。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "Master Blaster? Like the video game?",
+      "target": "爆破大师？就是那个电子游戏？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "The Master Blaster.",
+      "target": "爆破大师。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "So it turns out that [saga.cast.erik] does still have a Master Blaster...",
+      "target": "原来[saga.cast.erik]还留着一个爆破大师手柄……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "Falicum mushrooms grow in the forest here in Summerville.",
+      "target": "法利库姆蘑菇就生长在夏日镇的森林里。"
+    }
+  ]
+}

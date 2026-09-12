@@ -325,7 +325,7 @@ translate zh_hans strings:
     new "嗯，那还真是……我不确定有没有成功，不知道我们还得再试多少次。"
     # game/res/meta/step.rpym:270
     old "Speak with [saga.cast.tony] about a baby."
-    new "与[saga.cast.tony]谈谈关于孩子的事。"
+    new "和[saga.cast.tony]谈谈关于孩子的事。"
     # game/res/meta/step.rpym:271
     old "Keep trying to get [saga.cast.maria] pregnant."
     new "继续尝试让[saga.cast.maria]怀孕。"
@@ -346,13 +346,13 @@ translate zh_hans strings:
     new "我应该和她谈谈那个艺术比赛的事。"
     # game/res/meta/step.rpym:286
     old "Speak with [saga.cast.mia] about art class."
-    new "与[saga.cast.mia]谈谈美术课。"
+    new "和[saga.cast.mia]谈谈美术课。"
     # game/res/meta/step.rpym:287
     old "[saga.cast.barb] wants me to recruit [saga.cast.mia] as my partner for art lessons."
     new "[saga.cast.barb]想让我招募[saga.cast.mia]作为美术课的搭档。"
     # game/res/meta/step.rpym:289
     old "Speak with [saga.cast.barb] about [saga.cast.mia]."
-    new "与[saga.cast.barb]谈谈[saga.cast.mia]。"
+    new "和[saga.cast.barb]谈谈[saga.cast.mia]。"
     # game/res/meta/step.rpym:290
     old "Alright, [saga.cast.mia] is in! Time to inform [saga.cast.barb]."
     new "好的，[saga.cast.mia]同意了！该通知[saga.cast.barb]了。"
@@ -367,7 +367,7 @@ translate zh_hans strings:
     new "进入美术室。"
     # game/res/meta/step.rpym:299
     old "Time for our first art session. Best head to the art room."
-    new "第一节美术课时间到了。最好去美术室。"
+    new "该上第一节美术课了，赶紧去美术室吧。"
     # game/res/meta/step.rpym:301
     old "Speak to [saga.cast.eve]."
     new "与[saga.cast.eve]交谈。"
@@ -400,7 +400,7 @@ translate zh_hans strings:
     new "真容易！这些美术课会很有意思的。"
     # game/res/meta/step.rpym:322
     old "Speak with [saga.cast.barb] about the next lesson."
-    new "跟[saga.cast.barb]谈谈下一课的事情。"
+    new "和[saga.cast.barb]谈谈下一课的事情。"
     # game/res/meta/step.rpym:323
     old "I should probably schedule another lesson with [saga.cast.barb]."
     new "我或许应该再跟[saga.cast.barb]约一次课。"
@@ -412,7 +412,7 @@ translate zh_hans strings:
     new "下一课需要杂志。该开始搜寻了！"
     # game/res/meta/step.rpym:328
     old "Speak with [saga.cast.barb] about the magazines."
-    new "跟[saga.cast.barb]聊聊杂志的事。"
+    new "和[saga.cast.barb]谈谈杂志的事。"
     # game/res/meta/step.rpym:329
     old "Finally! Now let's get these magazines back to [saga.cast.barb]."
     new "终于！现在让我们把这些杂志送回[saga.cast.barb]。"
@@ -424,7 +424,7 @@ translate zh_hans strings:
     new "我想知道我们会用那些杂志做什么？"
     # game/res/meta/step.rpym:338
     old "Time for our next art session. Best head to the art room."
-    new "该上下一节美术课了。最好去美术室。"
+    new "该上下一节美术课了，赶紧去美术室吧。"
     # game/res/meta/step.rpym:340
     old "Inspect the magazines in [saga.cast.barb]'s office."
     new "检查[saga.cast.barb]办公室里的杂志。"
@@ -451,7 +451,7 @@ translate zh_hans strings:
     new "爸爸的工作台上应该有我需要的所有东西。"
     # game/res/meta/step.rpym:358
     old "Speak with [saga.cast.barb] about the easels."
-    new "跟[saga.cast.barb]谈谈画架的事。"
+    new "和[saga.cast.barb]谈谈画架的事。"
     # game/res/meta/step.rpym:359
     old "I hope these easels are sufficient for her needs."
     new "希望这些画架能满足她的需要。"
@@ -496,7 +496,7 @@ translate zh_hans strings:
     new "亲爱的阁楼……我的幻想银行满溢而出！"
     # game/res/meta/step.rpym:391
     old "Speak with [saga.cast.barb] about the contest."
-    new "跟[saga.cast.barb]谈谈比赛的事。"
+    new "和[saga.cast.barb]谈谈比赛的事。"
     # game/res/meta/step.rpym:392
     old "I wonder what subject [saga.cast.barb] has planned for my contest entry?"
     new "不知道[saga.cast.barb]为我的参赛作品准备了什么主题？"
@@ -511,25 +511,25 @@ translate zh_hans strings:
     new "我们去美术室把这些准备工作搞定吧。"
     # game/res/meta/step.rpym:403
     old "Speak with [saga.cast.ang] about linens."
-    new "与[saga.cast.ang]谈谈亚麻布的事。"
+    new "和[saga.cast.ang]谈谈亚麻布的事。"
     # game/res/meta/step.rpym:404
     old "Will [saga.cast.mia]'s church really give us linen for free?"
     new "[saga.cast.mia]的教堂真的会免费给我们亚麻布吗？"
     # game/res/meta/step.rpym:406
     old "Speak with [saga.cast.barb] about linens."
-    new "与[saga.cast.barb]谈谈亚麻布的事。"
+    new "和[saga.cast.barb]谈谈亚麻布的事。"
     # game/res/meta/step.rpym:407
     old "Freaky nuns aside, that went well... Time to report back!"
     new "除了诡异的修女们，进展还不错……是时候回去报告了！"
     # game/res/meta/step.rpym:409
     old "Speak with [saga.cast.lily] about costumes."
-    new "与[saga.cast.lily]谈谈服装的事。"
+    new "和[saga.cast.lily]谈谈服装的事。"
     # game/res/meta/step.rpym:410
     old "I didn't know Cosmic Cumics did custom costumes."
     new "我都不知道宇宙漫画还会定制服装。"
     # game/res/meta/step.rpym:412
     old "Speak with [saga.cast.barb] about the costumes."
-    new "与[saga.cast.barb]谈谈服装的事。"
+    new "和[saga.cast.barb]谈谈服装的事。"
     # game/res/meta/step.rpym:413
     old "I wonder what [saga.cast.barb] will make of these costumes."
     new "我想知道[saga.cast.barb]会对这些服装有何看法。"
@@ -796,13 +796,13 @@ translate zh_hans strings:
     new "我的梦变得越来越强烈了！…… 而且还很火辣！"
     # game/res/meta/step.rpym:635
     old "Speak with [saga.cast.debbie] about dreams."
-    new "与[saga.cast.debbie]谈论梦境。"
+    new "和[saga.cast.debbie]谈谈梦境。"
     # game/res/meta/step.rpym:636
     old "Asking [saga.cast.debbie] about these dreams might not be so bad. I just need approach it right."
     new "向[saga.cast.debbie]询问这些梦也许没那么糟。我只需要用对方式。"
     # game/res/meta/step.rpym:638
     old "Speak with [saga.cast.debbie] about kissing."
-    new "与[saga.cast.debbie]谈论接吻。"
+    new "和[saga.cast.debbie]谈谈接吻。"
     # game/res/meta/step.rpym:639
     old "Man, I sure wish [saga.cast.debbie] was willing to kiss me again. I wonder if there's some way to convince her?"
     new "天啊，我真希望[saga.cast.debbie]愿意再吻我一次。不知道有没有办法说服她？"
@@ -826,7 +826,7 @@ translate zh_hans strings:
     new "我应该看看车子出了什么问题。"
     # game/res/meta/step.rpym:653
     old "Speak with [saga.cast.debbie] about the engine."
-    new "与[saga.cast.debbie]谈谈引擎的事。"
+    new "和[saga.cast.debbie]谈谈引擎的事。"
     # game/res/meta/step.rpym:654
     old "I'd better let her know the bad news about the engine."
     new "我最好让她知道关于引擎的坏消息。"
@@ -946,7 +946,7 @@ translate zh_hans strings:
     new "我想知道[saga.cast.debbie]是否会按照[saga.cast.diane]的建议行动？"
     # game/res/meta/step.rpym:758
     old "Enter the upstairs hallway in the evening."
-    new "在晚上进入楼上的走廊。"
+    new "晚上进入楼上的走廊。"
     # game/res/meta/step.rpym:762
     old "I don't envy [saga.cast.debbie] right now. There's no way [saga.cast.jenny] lets her hear the end of this."
     new "我现在并不羡慕[saga.cast.debbie]。[saga.cast.jenny]绝不会让她轻易忘掉这件事。"
@@ -1000,19 +1000,19 @@ translate zh_hans strings:
     new "我仍然几乎无法相信那件事发生了。"
     # game/res/meta/step.rpym:827
     old "Speak with [saga.cast.diane] about [saga.cast.debbie]."
-    new "与[saga.cast.diane]谈谈[saga.cast.debbie]。"
+    new "和[saga.cast.diane]谈谈[saga.cast.debbie]。"
     # game/res/meta/step.rpym:828
     old "Hopefully [saga.cast.diane] will have some ideas. [saga.cast.debbie] can be so stubborn!"
     new "希望[saga.cast.diane]能有些主意。[saga.cast.debbie]可真固执！"
     # game/res/meta/step.rpym:830
     old "Speak with [saga.cast.kassy] about the dress."
-    new "跟[saga.cast.kassy]聊聊那条连衣裙。"
+    new "和[saga.cast.kassy]谈谈那条连衣裙。"
     # game/res/meta/step.rpym:831
     old "Right. Step 1: Get the dress. Step 2: Pray [saga.cast.debbie] doesn't murder me for getting the dress. Worst case, blame it all on [saga.cast.diane]!"
     new "好吧。第一步：拿到连衣裙。第二步：祈祷[saga.cast.debbie]别因为这条连衣裙宰了我。最坏的话，就全推到[saga.cast.diane]头上！"
     # game/res/meta/step.rpym:833
     old "Speak with [saga.cast.debbie] about a date."
-    new "与[saga.cast.debbie]谈谈约会。"
+    new "和[saga.cast.debbie]谈谈约会。"
     # game/res/meta/step.rpym:834
     old "Can't wait to see her face when she sees the dress. I hope [saga.cast.diane] was right and she's not too upset with me for buying it."
     new "真想看看她见到这条连衣裙时会是什么表情。希望[saga.cast.diane]说得没错，她不会因为我买了这条连衣裙太生气。"
@@ -1420,7 +1420,7 @@ translate zh_hans strings:
     new "和[saga.cast.jenny]的事情确实在升温……"
     # game/res/meta/step.rpym:1193
     old "I wonder what [saga.cast.tammy] is doing this morning?"
-    new "我想知道[saga.cast.tammy]今天早上在做什么？"
+    new "不知道[saga.cast.tammy]今早在做什么？"
     # game/res/meta/step.rpym:1196
     old "I guess [saga.cast.jenny] and I are just fooling around for fun now?"
     new "我猜现在[saga.cast.jenny]和我只是为了好玩而亲热吧？"
@@ -1492,7 +1492,7 @@ translate zh_hans strings:
     new "不知道我能不能做点什么让她回心转意？"
     # game/res/meta/step.rpym:1267
     old "Enter the upstairs hallway in the morning."
-    new "早上，进入楼上的走廊。"
+    new "早上进入楼上的走廊。"
     # game/res/meta/step.rpym:1271
     old "How can I get her to warm up to me? Maybe there's something in her diary."
     new "怎么才能让她对我的态度缓和呢？或许她日记里会有什么线索。"
@@ -1504,7 +1504,7 @@ translate zh_hans strings:
     new "看来钱是通往她内心的唯一途径，但该买什么样的项链呢？"
     # game/res/meta/step.rpym:1279
     old "Speak with [saga.cast.jenny] about the gift."
-    new "跟[saga.cast.jenny]谈谈礼物的事。"
+    new "和[saga.cast.jenny]谈谈礼物的事。"
     # game/res/meta/step.rpym:1280
     old "I hope [saga.cast.jenny] likes my gift."
     new "希望[saga.cast.jenny]喜欢我的礼物。"
@@ -1522,7 +1522,7 @@ translate zh_hans strings:
     new "我怎么又陷入这种局面了？现在我得从她爸爸的办公室取回她的手机。"
     # game/res/meta/step.rpym:1298
     old "Speak with [saga.cast.josie] about her phone."
-    new "与[saga.cast.josie]谈谈她的手机。"
+    new "和[saga.cast.josie]谈谈她的手机。"
     # game/res/meta/step.rpym:1299
     old "Mission accomplished! I should get her phone back to her right away."
     new "任务完成！我应该马上把手机还给她。"
@@ -1576,7 +1576,7 @@ translate zh_hans strings:
     new "真不敢相信我答应了学长笛。不知道现在谁拿着……"
     # game/res/meta/step.rpym:1337
     old "Speak with [saga.cast.judith] about the flute."
-    new "与[saga.cast.judith]谈谈长笛。"
+    new "和[saga.cast.judith]谈谈长笛。"
     # game/res/meta/step.rpym:1338
     old "Judith plays the flute? She really is full of surprises that one."
     new "Judith会吹长笛？她还真是总能让人意外。"
@@ -1606,13 +1606,13 @@ translate zh_hans strings:
     new "也许吹长笛也没那么糟……还挺有趣的！"
     # game/res/meta/step.rpym:1361
     old "Speak with [saga.cast.eve] and [saga.cast.kevin] about the talent show."
-    new "与[saga.cast.eve]和[saga.cast.kevin]谈谈才艺表演的事。"
+    new "和[saga.cast.eve]和[saga.cast.kevin]谈谈才艺表演的事。"
     # game/res/meta/step.rpym:1362
     old "I wonder why no one's signed up for the talent show... Guess I'll go ask them."
     new "我想知道为什么没人报名才艺表演……我想我会去问问他们。"
     # game/res/meta/step.rpym:1364
     old "Speak with [saga.cast.melody] about the talent show."
-    new "与[saga.cast.melody]谈谈才艺表演的事。"
+    new "和[saga.cast.melody]谈谈才艺表演的事。"
     # game/res/meta/step.rpym:1365
     old "I'm sure she'll be thrilled I managed to get more people involved in the talent show!"
     new "我肯定她会很兴奋我设法让更多人参与才艺表演！"
@@ -1738,7 +1738,7 @@ translate zh_hans strings:
     new "但愿这次比上次顺利，我确定一切都会好的。"
     # game/res/meta/step.rpym:1467
     old "Speak with [saga.cast.liu] about [saga.cast.tina]."
-    new "跟[saga.cast.liu]谈谈[saga.cast.tina]的事。"
+    new "和[saga.cast.liu]谈谈[saga.cast.tina]的事。"
     # game/res/meta/step.rpym:1468
     old "Probably shouldn't just try and wander into the employee area of the bank without talking to the staff on duty."
     new "可能不应该试图不跟值班员工打招呼就溜进银行的员工区。"
@@ -1780,7 +1780,7 @@ translate zh_hans strings:
     new "既然我已经拿到了她想要的东西，我最好把它们还给她。"
     # game/res/meta/step.rpym:1495
     old "Enter the science class in the morning."
-    new "早上进入科学课教室。"
+    new "早上进入科学教室。"
     # game/res/meta/step.rpym:1496
     old "I guess I just keep checking in until she's ready..."
     new "我想我只需要继续去查看，直到她准备好……"
@@ -1792,7 +1792,7 @@ translate zh_hans strings:
     new "在科学教室和[saga.cast.tori]交谈。"
     # game/res/meta/step.rpym:1502
     old "I wonder what [saga.cast.tori] has planned for my first project?"
-    new "不知道[saga.cast.tori]为我的第一个项目准备了什么？"
+    new "不知道[saga.cast.tori]给我的第一个项目安排了什么？"
     # game/res/meta/step.rpym:1504
     old "Speak with [saga.cast.judith] about her lenses."
     new "和[saga.cast.judith]谈谈她的镜片。"
@@ -1840,16 +1840,16 @@ translate zh_hans strings:
     new "哇，[saga.cast.tori]的手真的好柔软……"
     # game/res/meta/step.rpym:1547
     old "I wonder what [saga.cast.tori] has planned for my next project?"
-    new "不知道[saga.cast.tori]对我的下一个项目有什么计划？"
+    new "不知道[saga.cast.tori]给我的下一个项目安排了什么？"
     # game/res/meta/step.rpym:1549
     old "Speak with [saga.cast.june] about the faptic engine."
-    new "跟[saga.cast.june]聊聊触觉引擎。"
+    new "和[saga.cast.june]谈谈触觉引擎。"
     # game/res/meta/step.rpym:1550
     old "What even is a faptic engine? May [saga.cast.june] can explain."
     new "触觉引擎到底是什么？也许[saga.cast.june]能解释一下。"
     # game/res/meta/step.rpym:1552
     old "Speak with [saga.cast.erik] about his Master Blaster controller."
-    new "跟[saga.cast.erik]聊聊他的爆破大师手柄。"
+    new "和[saga.cast.erik]谈谈他的爆破大师手柄。"
     # game/res/meta/step.rpym:1553
     old "Hopefully [saga.cast.erik] doesn't mind me borrowing his old controller."
     new "希望[saga.cast.erik]不介意我借用他的旧手柄。"
@@ -1864,7 +1864,7 @@ translate zh_hans strings:
     new "让我们看看[saga.cast.june]能不能把这个芯片取出来。"
     # game/res/meta/step.rpym:1561
     old "Speak with [saga.cast.tori] about the faptic engine."
-    new "跟[saga.cast.tori]聊聊触觉引擎。"
+    new "和[saga.cast.tori]谈谈触觉引擎。"
     # game/res/meta/step.rpym:1562
     old "Ugh, back to [saga.cast.tori]... what a hassle!"
     new "啧，又要回去找[saga.cast.tori]……真麻烦！"
@@ -1951,7 +1951,7 @@ translate zh_hans strings:
     new "又一项新发明！这次会是什么呢？"
     # game/res/meta/step.rpym:1637
     old "Speak with [saga.cast.viv] about tutoring sessions."
-    new "与[saga.cast.viv]谈谈辅导课的事情。"
+    new "和[saga.cast.viv]谈谈辅导课的事情。"
     # game/res/meta/step.rpym:1638
     old "I should ask about those after-class French tutoring sessions."
     new "我该问问那些课后法语辅导课的事了。"
@@ -2011,10 +2011,10 @@ translate zh_hans strings:
     new "我想知道[saga.cast.viv]为下次的辅导课准备了什么。"
     # game/res/meta/step.rpym:1670
     old "Enter the French class in the morning."
-    new "早上进入法语课堂。"
+    new "早上进入法语教室。"
     # game/res/meta/step.rpym:1674
     old "I should ask the librarian what books she has on French food."
-    new "我应该问问图书管理员有没有关于法国美食的书。"
+    new "该问问图书管理员有哪些关于法国美食的书。"
     # game/res/meta/step.rpym:1676
     old "Retrieve library books from [f.hint[0]], [f.hint[1]], and [f.hint[2]]."
     new "从[f.hint[0]]、[f.hint[1]]和[f.hint[2]]取回图书馆的书。"
@@ -2044,7 +2044,7 @@ translate zh_hans strings:
     new "现在我只需要用法语写一篇关于我有多爱奶酪的报告！"
     # game/res/meta/step.rpym:1691
     old "Speak with [saga.cast.viv] about assignment."
-    new "与[saga.cast.viv]谈谈作业。"
+    new "和[saga.cast.viv]谈谈作业。"
     # game/res/meta/step.rpym:1692
     old "I hope [saga.cast.viv] likes my report!"
     new "我希望[saga.cast.viv]喜欢我的报告！"
@@ -2059,7 +2059,7 @@ translate zh_hans strings:
     new "下午进入图书馆。"
     # game/res/meta/step.rpym:1704
     old "I should ask the librarian what books she has on French poetry."
-    new "我应该问问图书管理员她有哪些关于法国诗歌的书。"
+    new "该问问图书管理员有哪些关于法国诗歌的书。"
     # game/res/meta/step.rpym:1707
     old "[saga.cast.jane] said the girls with the book I need usually visit in the afternoon."
     new "[saga.cast.jane]说，那些拿着我需要的那本书的女生通常下午会来。"
@@ -2131,7 +2131,7 @@ translate zh_hans strings:
     new "现在把这些啦啦球还给[saga.cast.roxxy]。"
     # game/res/meta/step.rpym:1754
     old "Speak with [saga.cast.jenny] about tutoring [saga.cast.roxxy]."
-    new "与[saga.cast.jenny]谈谈给[saga.cast.roxxy]辅导的事。"
+    new "和[saga.cast.jenny]谈谈给[saga.cast.roxxy]辅导的事。"
     # game/res/meta/step.rpym:1755
     old "Man, now I have to deal with [saga.cast.jenny]... what a complete pain in the balls!"
     new "天，现在我得应付[saga.cast.jenny]……真是个十足的麻烦！"
@@ -2143,7 +2143,7 @@ translate zh_hans strings:
     new "我真不知道自己在期待什么……果然，[saga.cast.jenny]要500美元才肯帮[saga.cast.roxxy]。"
     # game/res/meta/step.rpym:1760
     old "Speak with [saga.cast.roxxy] about cheer tutoring."
-    new "与[saga.cast.roxxy]谈谈啦啦队辅导的事。"
+    new "和[saga.cast.roxxy]谈谈啦啦队辅导的事。"
     # game/res/meta/step.rpym:1761
     old "Welp, this is certainly not going to be worth $500."
     new "唉，这笔钱肯定不值500美元。"
@@ -2164,7 +2164,7 @@ translate zh_hans strings:
     new "[saga.cast.jenny]和[saga.cast.roxxy]不会做什么{i}太{/i}疯狂的事吧？……我最好去看看。"
     # game/res/meta/step.rpym:1775
     old "Speak with [saga.cast.viv] about [saga.cast.roxxy]."
-    new "与[saga.cast.viv]谈谈[saga.cast.roxxy]的事。"
+    new "和[saga.cast.viv]谈谈[saga.cast.roxxy]的事。"
     # game/res/meta/step.rpym:1776
     old "Time to let [saga.cast.viv] know the good news."
     new "是时候让[saga.cast.viv]知道这个好消息了。"
@@ -2189,8 +2189,8 @@ translate zh_hans strings:
 
     # _archives/5/res/meta/step.rpym:1441
     old "Inspect with the glasses inside [saga.cast.judith]'s locker."
-    new "检查[saga.cast.judith]的储物柜里的眼镜。"
+    new "检查[saga.cast.judith]储物柜里的眼镜。"
 
     # _archives/5/res/meta/step.rpym:1474
     old "Inspect with the Master Blaster controller in the treehouse."
-    new "检查树屋里的Master Blaster手柄。"
+    new "检查树屋里的爆破大师手柄。"

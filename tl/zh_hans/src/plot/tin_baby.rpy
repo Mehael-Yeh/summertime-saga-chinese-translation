@@ -221,7 +221,7 @@ translate zh_hans tin_baby_belly_7f4a0e27:
 translate zh_hans tin_baby_meet_rails_2d0bc9d9:
 
     # anon @ -m_talk "( The ward chart says that [saga.cast.tina] is in [saga.cast.tina.where!l]. )"
-    anon @ -m_talk "（病房图表显示[saga.cast.tina]在[saga.cast.tina.where!l]。）"
+    anon @ -m_talk "（病房表上写着[saga.cast.tina]在[saga.cast.tina.where!l]。）"
 
 translate zh_hans tin_baby_meet_rails_748b5fdb:
 
@@ -231,7 +231,7 @@ translate zh_hans tin_baby_meet_rails_748b5fdb:
 translate zh_hans tin_baby_meet_rails_518db1be:
 
     # anon o_left @ -m_talk "( ... If only there was an easy way to know which room [saga.cast.tina] is in. )"
-    anon o_left @ -m_talk "（……要是能有个简单的方法知道[saga.cast.tina]在哪个房间就好了。）"
+    anon o_left @ -m_talk "（……要是能有个简单办法，直接找到[saga.cast.tina]在哪间房就好了。）"
 
 translate zh_hans tin_baby_meet_rails_8faff9ef:
 
@@ -478,7 +478,7 @@ translate zh_hans tin_baby_wait_once_dd526b43:
 translate zh_hans tin_baby_wait_once_60eac83e:
 
     # tina "I wanted you to know that I didn't plan on this happening."
-    tina "我想让你知道，我并没有计划让这件事发生。"
+    tina "我想跟你说清楚，这事真不是我故意的。"
 
 translate zh_hans tin_baby_wait_once_0cac7079:
 
@@ -488,7 +488,7 @@ translate zh_hans tin_baby_wait_once_0cac7079:
 translate zh_hans tin_baby_wait_once_9af7a8df:
 
     # anon "What do you mean?"
-    anon "你是什么意思？"
+    anon "什么意思？"
 
 translate zh_hans tin_baby_wait_once_1253d71b:
 

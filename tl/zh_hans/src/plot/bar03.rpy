@@ -760,7 +760,7 @@ translate zh_hans bar03_pause_mia_446cc0c9:
 translate zh_hans bar03_delay_366f6161:
 
     # anon @ -m_talk "( It's time for another art lesson with [saga.cast.barb]. )"
-    anon @ -m_talk "（又到了和[saga.cast.barb]一起上美术课的时间了。）"
+    anon @ -m_talk "（又该去上[saga.cast.barb]的美术课了。）"
 
 # game/src/plot/bar03.rpy:390
 translate zh_hans bar03_delay_ead2c192:

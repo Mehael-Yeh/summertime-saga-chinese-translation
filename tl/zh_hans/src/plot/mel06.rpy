@@ -1116,11 +1116,11 @@ translate zh_hans mel06_office4_3e2aac56:
 
 translate zh_hans mel06_office4_496d876b:
     # melody "Heh, well, I'm glad you like it..."
-    melody "嘿，我很高兴你喜欢……"
+    melody "呵，你喜欢就好……"
 
 translate zh_hans mel06_office4_abc08331:
     # melody "Why don't you take out that big dick of yours?"
-    melody "为什么不把你那根大家伙掏出来？"
+    melody "把你那根大家伙掏出来，让我看看？"
 
 translate zh_hans mel06_office4_5502af91:
     # anon "Really?"

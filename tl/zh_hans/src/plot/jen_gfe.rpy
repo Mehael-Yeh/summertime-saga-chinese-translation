@@ -1138,7 +1138,7 @@ translate zh_hans jen_gfe_jenny_merge1_4a64f9fc:
 translate zh_hans jen_gfe_jenny_merge1_b202da2b:
 
     # anon "... And I'm really happy you're not rushing off this time."
-    anon "……而且我很高兴你这次没有急着走。"
+    anon "……你这次没急着走，我真的很开心。"
 
 # game/src/plot/jen_gfe.rpy:432
 translate zh_hans jen_gfe_jenny_merge1_5be10a14:

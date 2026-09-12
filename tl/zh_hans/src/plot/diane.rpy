@@ -10,7 +10,7 @@ translate zh_hans diane_diane_yard_intro1_f76d6cc9:
 translate zh_hans diane_diane_yard_intro1_ea224078:
 
     # diane "I'm so glad you decided to come and help me."
-    diane "我很高兴你决定来帮我。"
+    diane "你肯来帮忙，我可太高兴了。"
 
 # game/src/plot/diane.rpy:33
 translate zh_hans diane_diane_yard_intro1_7bc90942:
@@ -22,7 +22,7 @@ translate zh_hans diane_diane_yard_intro1_7bc90942:
 translate zh_hans diane_diane_yard_outro1_55efbd18:
 
     # anon f_calm "I should probably get started on the garden."
-    anon f_calm "我大概应该开始打理花园了。"
+    anon f_calm "我该去打理花园了。"
 
 # game/src/plot/diane.rpy:47
 translate zh_hans diane_diane_yard_outro1_75366930:

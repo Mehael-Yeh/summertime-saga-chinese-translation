@@ -250,7 +250,7 @@ translate zh_hans deb_sink_merge1_382b7077:
 translate zh_hans deb_sink_merge1_a9a51510:
 
     # anon "Heh, I'm glad you enjoyed it."
-    anon "嘿，我很高兴你喜欢。"
+    anon "嘿，你舒服就好。"
 
 # game/src/plot/deb_sink.rpy:114
 translate zh_hans deb_sink_merge1_7afcb039:

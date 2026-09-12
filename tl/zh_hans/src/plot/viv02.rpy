@@ -1242,7 +1242,7 @@ translate zh_hans viv02_viv_ea6e196d:
 translate zh_hans viv02_viv_605bb560:
 
     # anon "Yeah? I'm glad you liked it. I worked really hard on it."
-    anon "是吗？我很高兴你喜欢。我花了很多心思在上面。"
+    anon "是吗？你喜欢就好，我可花了不少心思。"
 
 # game/src/plot/viv02.rpy:638
 translate zh_hans viv02_viv_720bd775:

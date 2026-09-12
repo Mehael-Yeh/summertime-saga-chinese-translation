@@ -754,7 +754,7 @@ translate zh_hans tor06_office2_f957a9a7:
 translate zh_hans tor06_office2_b7443592:
 
     # tori "I'm getting close, [saga.cast.anon]!"
-    tori "我快到了，[saga.cast.anon]！"
+    tori "我快高潮了，[saga.cast.anon]！"
 
 # game/src/plot/tor06.rpy:323
 translate zh_hans tor06_office2_4f162b6c:

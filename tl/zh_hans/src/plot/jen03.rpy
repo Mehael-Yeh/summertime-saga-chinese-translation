@@ -10,7 +10,7 @@ translate zh_hans jen03_intro_c820c168:
 translate zh_hans jen03_intro_6c06ea64:
 
     # anon a_side e_w f_calm @ -m_talk "( [saga.cast.debbie] must be cooking breakfast downstairs. )"
-    anon a_side e_w f_calm @ -m_talk "（[saga.cast.debbie]一定在楼下做早饭。）"
+    anon a_side e_w f_calm @ -m_talk "（[saga.cast.debbie]肯定在楼下做早餐。）"
 
 # game/src/plot/jen03.rpy:6
 translate zh_hans jen03_intro_7ce4831e:

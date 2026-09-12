@@ -1090,13 +1090,13 @@ translate zh_hans bar05_lily_78aae64d:
 translate zh_hans bar05_lily_6c2ed349:
 
     # lily f_horny "How every few years, [saga.cast.barb] selects a talented young art student to {i}groom{/i} into her dirty little sex puppet?"
-    lily f_horny "每隔几年，[saga.cast.barb]就会挑选一位有才华的年轻艺术学生，{i}把她调教{/i}成自己肮脏的性爱玩偶？"
+    lily f_horny "每隔几年，[saga.cast.barb]就会挑个有艺术天分的年轻学生，{i}调教{/i}成任她摆弄的淫荡小玩物，这事你不知道？"
 
 # game/src/plot/bar05.rpy:473
 translate zh_hans bar05_lily_48181839:
 
     # anon a_surprised f_surprised @ -m_talk "( !!! )" with hpunch
-    anon a_surprised f_surprised @ -m_talk "（!!!）" with hpunch
+    anon a_surprised f_surprised @ -m_talk "（！！！）" with hpunch
 
 # game/src/plot/bar05.rpy:474
 translate zh_hans bar05_lily_342436d0:

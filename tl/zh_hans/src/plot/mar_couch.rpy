@@ -129,7 +129,7 @@ translate zh_hans mar_couch_dusk_52e35678:
 
 
     # anon a_down e_e p_sit_edge_back @ -m_talk "( ... I should let him rest. )"
-    anon a_down e_e p_sit_edge_back @ -m_talk "（……我该让他休息了。）"
+    anon a_down e_e p_sit_edge_back @ -m_talk "（……还是让他好好休息吧。）"
 
 # game/src/plot/mar_couch.rpy:77
 translate zh_hans mar_couch_dusk1_1ecb3739:

@@ -730,13 +730,13 @@ translate zh_hans deb_mall_debbie_merge2_d4d70d8b:
 translate zh_hans deb_mall_debbie_merge2_5dc7f990:
 
     # debbie e_w "You're becoming quite the naughty boy, you know?"
-    debbie e_w "你变得越来越淘气了，知道吗？"
+    debbie e_w "你这小子越来越不安分了，知道吗？"
 
 # game/src/plot/deb_mall.rpy:362
 translate zh_hans deb_mall_debbie_merge2_ebff1943:
 
     # anon "Yeah, you better believe it."
-    anon "是啊，你最好信了。"
+    anon "没错，这下信了吧。"
 
 # game/src/plot/deb_mall.rpy:365
 translate zh_hans deb_mall_debbie_merge2_5942a36b:
@@ -748,7 +748,7 @@ translate zh_hans deb_mall_debbie_merge2_5942a36b:
 translate zh_hans deb_mall_debbie_merge2_f219643d:
 
     # anon e_wsw "Less talking, more riding."
-    anon e_wsw "少说话，多操干。"
+    anon e_wsw "少说两句，多动几下。"
 
 # game/src/plot/deb_mall.rpy:369
 translate zh_hans deb_mall_debbie_merge2_27cf2a1b:
@@ -1612,7 +1612,7 @@ translate zh_hans deb_mall_debbie_creampie_0bea765b:
 translate zh_hans deb_mall_debbie_creampie_4ba696bf:
 
     # anon a_point_down "Heh, you're getting cum all over your seat."
-    anon a_point_down "嘿，我的精液喷得到处都是。"
+    anon a_point_down "嘿，你把座椅都弄得满是精液了。"
 
 # game/src/plot/deb_mall.rpy:676
 translate zh_hans deb_mall_debbie_creampie_3a066094:

@@ -904,7 +904,7 @@ translate zh_hans ano06_debbies_merge_802e133b:
 translate zh_hans ano06_debbies_merge_0ab82b99:
 
     # tony "What the hell do those dirty Russkies want with you?"
-    tony "那两个肮脏的俄国佬到底找你干什么？"
+    tony "那两个混账俄国佬到底找你干什么？"
 
 # game/src/plot/ano06.rpy:289
 translate zh_hans ano06_debbies_merge_97c8038f:

@@ -16,5 +16,5 @@ translate zh_hans library_lobby_lock_ee426f72:
 translate zh_hans library_lobby_skip_661310c9:
 
     # anon @ -m_talk "( I can't wait around here, the library will be closing soon. )"
-    anon @ -m_talk "（不能在这里干等了，图书馆马上就要闭馆。）"
+    anon @ -m_talk "（不能在这儿耗着，图书馆马上要闭馆了。）"
 

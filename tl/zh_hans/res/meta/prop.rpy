@@ -1145,16 +1145,16 @@ translate zh_hans strings:
     new "为[saga.cast.mia]设计的饼干纹身草图。"
     # game/res/meta/prop.rpym:615
     old "A sketch of a dolphin tattoo for [saga.cast.mia]."
-    new "为[saga.cast.mia]准备的海豚纹身草图。"
+    new "为[saga.cast.mia]设计的海豚纹身草图。"
     # game/res/meta/prop.rpym:618
     old "A sketch of a tattoo of flowers for [saga.cast.mia]."
-    new "为[saga.cast.mia]准备的花朵纹身草图。"
+    new "为[saga.cast.mia]设计的花朵纹身草图。"
     # game/res/meta/prop.rpym:621
     old "A sketch of a skull tattoo for [saga.cast.mia]."
-    new "为[saga.cast.mia]准备的骷髅纹身草图。"
+    new "为[saga.cast.mia]设计的骷髅纹身草图。"
     # game/res/meta/prop.rpym:624
     old "A sketch of a star tattoo for [saga.cast.mia]."
-    new "为[saga.cast.mia]准备的星星纹身草图。"
+    new "为[saga.cast.mia]设计的星星纹身草图。"
     # game/res/meta/prop.rpym:626
     old "[saga.cast.erik]'s trading card collection"
     new "[saga.cast.erik]的集换式卡牌收藏"
@@ -1196,10 +1196,10 @@ translate zh_hans strings:
     new "从控制器中取出的触觉引擎"
     # game/res/meta/prop.rpym:647
     old "A Master Blaster controller"
-    new "一个主控爆破器控制器"
+    new "爆破大师手柄"
     # game/res/meta/prop.rpym:648
     old "[saga.cast.erik]'s Master Blaster controller. It should contain a faptic engine."
-    new "[saga.cast.erik]的主控爆破器控制器。它应该包含一个触觉引擎。"
+    new "[saga.cast.erik]的爆破大师手柄，里面应该有一个触觉引擎。"
     # game/res/meta/prop.rpym:650
     old "Computer parts"
     new "电脑零件"

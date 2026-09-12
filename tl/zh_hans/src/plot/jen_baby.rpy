@@ -5720,7 +5720,7 @@ translate zh_hans jen_baby_meet_52350419:
 
 
     # debbie e_w "... She just didn't wanna let him go."
-    debbie e_w "……她就是不想让他走。"
+    debbie e_w "……她怎么都舍不得放手。"
 
 translate zh_hans jen_baby_meet_7282fdcb:
 
@@ -5914,13 +5914,13 @@ translate zh_hans jen_baby_home_023cb43a:
 
 
     # debbie "Of course, I'll watch her!"
-    debbie "当然，我会看着她！"
+    debbie "当然，我来照看她！"
 
 translate zh_hans jen_baby_home_766a5f4f:
 
 
     # debbie "Of course, I'll watch them!"
-    debbie "当然，我会看着他们！"
+    debbie "当然，我来照看他们！"
 
 translate zh_hans jen_baby_home_17ffcf24:
 

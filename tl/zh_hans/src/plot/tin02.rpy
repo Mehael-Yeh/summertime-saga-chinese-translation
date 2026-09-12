@@ -489,7 +489,7 @@ translate zh_hans tin02_cubicle_reuse_7e731f21:
 
 
     # tina "... This is gonna be a big one!!"
-    tina "……这次会很大！！"
+    tina "……这次会爽翻的！！"
 
 # game/src/plot/tin02.rpy:247
 translate zh_hans tin02_cubicle_reuse_7e24b8bb:
@@ -503,7 +503,7 @@ translate zh_hans tin02_cubicle_reuse_9130a2f9:
 
 
     # anon "I'm getting close too!"
-    anon "我也快到了！"
+    anon "我也快射了！"
 
 # game/src/plot/tin02.rpy:258
 translate zh_hans tin02_cubicle_reuse_4acedb40:

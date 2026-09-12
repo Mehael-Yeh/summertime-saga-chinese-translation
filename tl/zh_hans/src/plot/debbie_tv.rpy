@@ -190,7 +190,7 @@ translate zh_hans debbie_tv_play_dd224ce5:
 translate zh_hans debbie_tv_merge_19926ac4:
 
     # anon @ -m_talk "( This is the perfect opportunity to rub one out! )"
-    anon @ -m_talk "（这简直是自慰的绝佳机会！）"
+    anon @ -m_talk "（正好趁现在撸一发！）"
 
 # game/src/plot/debbie_tv.rpy:126
 translate zh_hans debbie_tv_merge_88bc4c34:
@@ -202,7 +202,7 @@ translate zh_hans debbie_tv_merge_88bc4c34:
 translate zh_hans debbie_tv_merge_2874d063:
 
     # anon e_b f_shy m_lip s_6 @ -m_talk "( I'm getting close! )"
-    anon e_b f_shy m_lip s_6 @ -m_talk "（我快到了！）"
+    anon e_b f_shy m_lip s_6 @ -m_talk "（我快射了！）"
 
 # game/src/plot/debbie_tv.rpy:132
 translate zh_hans debbie_tv_solo_f144c0f8:
@@ -220,7 +220,7 @@ translate zh_hans debbie_tv_solo_d52f9606:
 translate zh_hans debbie_tv_solo_feab0e91:
 
     # anon e_s f_shy p_sit @ -m_talk "( I guess I'd better go and get cleaned up. )"
-    anon e_s f_shy p_sit @ -m_talk "（我想我最好去清理一下。）"
+    anon e_s f_shy p_sit @ -m_talk "（呼，还是先去清理一下吧。）"
 
 # game/src/plot/debbie_tv.rpy:146
 translate zh_hans debbie_tv_soon_616665cb:

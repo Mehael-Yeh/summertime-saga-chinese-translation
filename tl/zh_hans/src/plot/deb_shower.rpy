@@ -2068,7 +2068,7 @@ translate zh_hans deb_shower_handjob1_e7296da8:
 translate zh_hans deb_shower_handjob1_2ec47a84:
 
     # debbie a_jerk_04 "My mouth, eh?"
-    debbie a_jerk_04 "我的嘴，嗯？"
+    debbie a_jerk_04 "用嘴，是吗？"
 
 # game/src/plot/deb_shower.rpy:829
 translate zh_hans deb_shower_handjob1_1e56dec0:
@@ -2086,7 +2086,7 @@ translate zh_hans deb_shower_handjob1_7d6150da:
 translate zh_hans deb_shower_handjob1_5499e18d:
 
     # anon e_sw "I'm getting close!"
-    anon e_sw "我快到了！"
+    anon e_sw "我快射了！"
 
 # game/src/plot/deb_shower.rpy:843
 translate zh_hans deb_shower_handjob1_c32d6e0b:
@@ -2332,7 +2332,7 @@ translate zh_hans deb_shower_handjob2_362de542:
 translate zh_hans deb_shower_handjob2_bf2be05b:
 
     # debbie a_jerk_anon f_horny "You're getting close?"
-    debbie a_jerk_anon f_horny "你快到了吗？"
+    debbie a_jerk_anon f_horny "快要射了？"
 
 # game/src/plot/deb_shower.rpy:933
 translate zh_hans deb_shower_handjob2_647df347:

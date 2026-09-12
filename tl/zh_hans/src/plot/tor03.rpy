@@ -454,13 +454,13 @@ translate zh_hans tor03_june1_5bb8c050:
 translate zh_hans tor03_june1_e1542cc6:
 
     # june "Well, they were putting them into those Master Blaster controllers a few years ago."
-    june "几年前他们把这种配件装进了那些‘大师冲击’控制器里。"
+    june "几年前，那些爆破大师手柄里就装着这种东西。"
 
 # game/src/plot/tor03.rpy:192
 translate zh_hans tor03_june1_0e6e331a:
 
     # anon "Master Blaster? Like the video game?"
-    anon "大师冲击？就像那款电子游戏？"
+    anon "爆破大师？就是那个电子游戏？"
 
 # game/src/plot/tor03.rpy:195
 translate zh_hans tor03_june1_13ea1507:
@@ -616,7 +616,7 @@ translate zh_hans tor03_erik_june_11464296:
 translate zh_hans tor03_erik_june_50f03293:
 
     # june "The Master Blaster."
-    june "Master Blaster。"
+    june "爆破大师。"
 
 # game/src/plot/tor03.rpy:281
 translate zh_hans tor03_erik_june_a5773ca3:
@@ -724,7 +724,7 @@ translate zh_hans tor03_gamepad_erik_efa908f6:
 translate zh_hans tor03_gamepad_june_fbf15832:
 
     # anon "So it turns out that [saga.cast.erik] does still have a Master Blaster..."
-    anon "结果[saga.cast.erik]确实还有一挺“爆破大师”……"
+    anon "原来[saga.cast.erik]还留着一个爆破大师手柄……"
 
 # game/src/plot/tor03.rpy:345
 translate zh_hans tor03_gamepad_june_f3f1e560:

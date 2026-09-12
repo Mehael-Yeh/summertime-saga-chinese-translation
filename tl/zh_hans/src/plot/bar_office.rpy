@@ -28,7 +28,7 @@ translate zh_hans bar_office_area_43b202aa:
 translate zh_hans bar_office_area_496bccab:
 
     # barb f_horny "Oh, you naughty, {i}naughty{/i} boy!"
-    barb f_horny "哦，你这个淘气的{i}小坏蛋{/i}！"
+    barb f_horny "哦，你可真是个{i}小坏蛋{/i}！"
 
 # game/src/plot/bar_office.rpy:15
 translate zh_hans bar_office_area_60877580:

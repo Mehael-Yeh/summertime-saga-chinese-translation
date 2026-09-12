@@ -2259,7 +2259,7 @@ translate zh_hans ano13_lounge_7e48b48c:
 
 
     # tina "... Almost there!"
-    tina "……快到了！"
+    tina "……快高潮了！"
 
 # game/src/plot/ano13.rpy:677
 translate zh_hans ano13_lounge_34eb27c7:

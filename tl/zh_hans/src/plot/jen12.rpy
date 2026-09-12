@@ -340,7 +340,7 @@ translate zh_hans jen12_watch_vid2_88022648:
 translate zh_hans jen12_watch_vid2_157a3196:
 
     # anon "( Was she talking about fucking someone on camera?! )"
-    anon "（她是想在镜头前跟人性交吗？！）"
+    anon "（她是想当着镜头跟人干吗？！）"
 
 # game/src/plot/jen12.rpy:208
 translate zh_hans jen12_watch_vid2_aad89a37:

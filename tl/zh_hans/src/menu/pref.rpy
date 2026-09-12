@@ -52,11 +52,11 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:81
     old "Self-voicing"
-    new "自语音"
+    new "自动朗读"
 
     # game/src/menu/pref.rpy:86
     old "Self-voicing volume drop"
-    new "自语音音量降低"
+    new "自动朗读音量降低"
 
     # game/src/menu/pref.rpy:91
     old "Restore defaults"

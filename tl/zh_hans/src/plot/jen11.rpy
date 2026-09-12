@@ -170,7 +170,7 @@ translate zh_hans jen11_laptop_bf6c4906:
 
 
     # anon "( I'll have to be careful but I think it's worth a shot. )"
-    anon "（只有确定时间充足，我才能动手进去翻。）"
+    anon "（我得小心一点，不过值得试试。）"
 
 # game/src/plot/jen11.rpy:102
 translate zh_hans jen11_laptop_0958f9bc:

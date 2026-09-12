@@ -2296,7 +2296,7 @@ translate zh_hans jen26_outro_reuse_aaa6685b:
 translate zh_hans jen26_outro_reuse_2a84c03f:
 
     # jenny "Ahh, I'm so close!"
-    jenny "啊，我快到了！"
+    jenny "啊，我快高潮了！"
 
 # game/src/plot/jen26.rpy:814
 translate zh_hans jen26_outro_reuse_ac0d81ce:

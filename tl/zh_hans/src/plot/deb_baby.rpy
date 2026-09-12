@@ -1066,13 +1066,13 @@ translate zh_hans deb_baby_late_sleep_e1394f61:
 translate zh_hans deb_baby_late_sleep_4c3f9094:
 
     # anon @ -m_talk "( She's got enough on her plate right now, what with the babies and all. )"
-    anon @ -m_talk "（她现在够忙的了，又是孩子们什么的。）"
+    anon @ -m_talk "（她光是照顾孩子们，就已经够忙的了。）"
 
 # game/src/plot/deb_baby.rpy:517
 translate zh_hans deb_baby_late_sleep_e03514a8:
 
     # anon @ -m_talk "( She's got enough on her plate right now, what with the baby and all. )"
-    anon @ -m_talk "（她现在够忙的了，又是孩子什么的。）"
+    anon @ -m_talk "（她光是照顾孩子，就已经够忙的了。）"
 
 # game/src/plot/deb_baby.rpy:526
 translate zh_hans deb_baby_news_d619b3da:

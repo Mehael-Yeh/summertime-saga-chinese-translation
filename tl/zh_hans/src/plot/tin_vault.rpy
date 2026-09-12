@@ -160,7 +160,7 @@ translate zh_hans tin_vault_tina_alt_c9fb3918:
 translate zh_hans tin_vault_tina_alt_8809caf0:
 
     # tina o_right "Tsk, alright... but only because you've given me a deliciously naughty idea."
-    tina o_right "啧，好吧……但只因为你给了我一个美味又调皮的主意。"
+    tina o_right "啧，好吧……谁让你勾得我想出了个撩人的坏主意呢。"
 
 # game/src/plot/tin_vault.rpy:66
 translate zh_hans tin_vault_tina_alt_f4c0268e:

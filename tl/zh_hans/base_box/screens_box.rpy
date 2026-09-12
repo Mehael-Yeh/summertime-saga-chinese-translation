@@ -122,7 +122,7 @@ translate zh_hans strings:
     old "Takes a screenshot."
     new "截屏。"
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "切换辅助功能 {a=https://www.renpy.org/l/voicing}自动语音{/a}。"
+    new "切换辅助功能 {a=https://www.renpy.org/l/voicing}自动朗读{/a}。"
     old "Opens the accessibility menu."
     new "打开辅助功能菜单。"
     old "Left Click"

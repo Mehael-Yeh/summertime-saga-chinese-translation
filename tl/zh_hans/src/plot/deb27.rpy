@@ -448,13 +448,13 @@ translate zh_hans deb27_yard_9c858212:
 translate zh_hans deb27_yard_6ddce23f:
 
     # debbie "... A naughty..."
-    debbie "……淘气的……"
+    debbie "……不安分的……"
 
 # game/src/plot/deb27.rpy:140
 translate zh_hans deb27_yard_fbeba14f:
 
     # debbie "... Boy!!!"
-    debbie "……坏孩子！！！"
+    debbie "……小坏蛋！！！"
 
 # game/src/plot/deb27.rpy:141
 translate zh_hans deb27_yard_675a249d:

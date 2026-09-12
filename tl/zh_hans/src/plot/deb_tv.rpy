@@ -832,7 +832,7 @@ translate zh_hans deb_tv_boobjob3_14f498f3:
 translate zh_hans deb_tv_boobjob3_669b5404:
 
     # anon "I'm getting close."
-    anon "我快到了。"
+    anon "我快射了。"
 
 # game/src/plot/deb_tv.rpy:355
 translate zh_hans deb_tv_boobjob3_b9dc74e0:
@@ -1270,13 +1270,13 @@ translate zh_hans deb_tv_boobjob4_119f0064:
 translate zh_hans deb_tv_boobjob4_d160c47c:
 
     # anon "Oh, I'm gonna give it to ya."
-    anon "哦，我会给你的。"
+    anon "哦，这就给你。"
 
 # game/src/plot/deb_tv.rpy:493
 translate zh_hans deb_tv_boobjob4_f6d846ea:
 
     # anon "I'm almost there!"
-    anon "我快到了！"
+    anon "我快射了！"
 
 # game/src/plot/deb_tv.rpy:494
 translate zh_hans deb_tv_boobjob4_3edcf294:
@@ -2398,7 +2398,7 @@ translate zh_hans deb_tv_entry3_db0c8030:
 translate zh_hans deb_tv_entry3_18c47445:
 
     # debbie "Well, I'm glad that you like them."
-    debbie "嗯，我很高兴你喜欢它们。"
+    debbie "嗯，你喜欢就好。"
 
 # game/src/plot/deb_tv.rpy:922
 translate zh_hans deb_tv_entry3_05da0fa1:
@@ -2410,7 +2410,7 @@ translate zh_hans deb_tv_entry3_05da0fa1:
 translate zh_hans deb_tv_entry3_5e7a1592:
 
     # anon "I love them!"
-    anon "我爱它们！"
+    anon "简直爱死了！"
 
 # game/src/plot/deb_tv.rpy:925
 translate zh_hans deb_tv_entry3_2f2e0e93:
@@ -2536,7 +2536,7 @@ translate zh_hans deb_tv_entry3_a9cdf637:
 translate zh_hans deb_tv_entry3_adaa3447:
 
     # debbie e_e f_curious "{i}*Ahem*{/i} Are you... getting close?"
-    debbie e_e f_curious "{i}*咳*{/i} 你……快到了吗？"
+    debbie e_e f_curious "{i}*咳*{/i}你……快要射了吗？"
 
 # game/src/plot/deb_tv.rpy:958
 translate zh_hans deb_tv_entry3_3dd7cc75:
@@ -2980,7 +2980,7 @@ translate zh_hans deb_tv_entry3_6f4cb764:
 translate zh_hans deb_tv_entry3_1d1a6aea:
 
     # debbie "Are you close?"
-    debbie "你快到了吗？"
+    debbie "快要射了吗？"
 
 # game/src/plot/deb_tv.rpy:1109
 translate zh_hans deb_tv_entry3_d8f50d3e:
@@ -3568,7 +3568,7 @@ translate zh_hans deb_tv_footjob3_2add17a6:
 translate zh_hans deb_tv_footjob3_391c53a5:
 
     # debbie "Are you almost there, sweetie?"
-    debbie "快到了吗，亲爱的？"
+    debbie "快要射了吗，亲爱的？"
 
 # game/src/plot/deb_tv.rpy:1287
 translate zh_hans deb_tv_footjob3_9804de53:
@@ -3862,7 +3862,7 @@ translate zh_hans deb_tv_play3_c5a90106:
 translate zh_hans deb_tv_play3_6522a04e:
 
     # anon a_jerk_01 "I'm really glad you're getting more comfortable with this whole thing."
-    anon a_jerk_01 "我很高兴你对这件事越来越放得开了。"
+    anon a_jerk_01 "看你慢慢放开了，我真高兴。"
 
 # game/src/plot/deb_tv.rpy:1405
 translate zh_hans deb_tv_play3_786f2c6d:
@@ -4000,7 +4000,7 @@ translate zh_hans deb_tv_play3_f52a6908:
 translate zh_hans deb_tv_play3_30cb5357:
 
     # debbie e_w "{i}*Gulp*{/i} Are you close?"
-    debbie e_w "{i}*咕噜*{/i} 你快到了吗？"
+    debbie e_w "{i}*咕噜*{/i}快要射了吗？"
 
 # game/src/plot/deb_tv.rpy:1447
 translate zh_hans deb_tv_play3_ef7149e2:
@@ -4072,7 +4072,7 @@ translate zh_hans deb_tv_play3_869d4247:
 translate zh_hans deb_tv_play3_1d528826:
 
     # anon e_b f_shy m_blow p_couch s_32 @ m_pant "I'm getting close!"
-    anon e_b f_shy m_blow p_couch s_32 @ m_pant "我快到了！"
+    anon e_b f_shy m_blow p_couch s_32 @ m_pant "我快射了！"
 
 # game/src/plot/deb_tv.rpy:1468
 translate zh_hans deb_tv_play3_dd3c1b6d:
@@ -4300,7 +4300,7 @@ translate zh_hans deb_tv_play4_65c6ed54:
 translate zh_hans deb_tv_play4_93f84f3f:
 
     # anon e_w f_horny "Who's my naughty landlady?"
-    anon e_w f_horny "谁是我的调皮房东太太？"
+    anon e_w f_horny "谁是我那个不安分的房东太太？"
 
 # game/src/plot/deb_tv.rpy:1555
 translate zh_hans deb_tv_play4_aad81848:
@@ -4312,7 +4312,7 @@ translate zh_hans deb_tv_play4_aad81848:
 translate zh_hans deb_tv_play4_0f1cd944:
 
     # debbie e_e "I'm your naughty landlady."
-    debbie e_e "我是你的调皮房东太太。"
+    debbie e_e "我是你那个不安分的房东太太。"
 
 # game/src/plot/deb_tv.rpy:1561
 translate zh_hans deb_tv_play4_40623c03:
@@ -4468,7 +4468,7 @@ translate zh_hans deb_tv_play4_a4f660ee:
 translate zh_hans deb_tv_play4_26d6054d:
 
     # debbie "That was a big one."
-    debbie "刚才那一下真大。"
+    debbie "刚才那一下……真够劲。"
 
 # game/src/plot/deb_tv.rpy:1612
 translate zh_hans deb_tv_play4_754b5816:
@@ -4486,7 +4486,7 @@ translate zh_hans deb_tv_play4_27704dbc:
 translate zh_hans deb_tv_play4_c498724d:
 
     # anon f_horny "I'm almost there."
-    anon f_horny "我快到了。"
+    anon f_horny "我快射了。"
 
 # game/src/plot/deb_tv.rpy:1616
 translate zh_hans deb_tv_play4_60092acf:
@@ -4504,7 +4504,7 @@ translate zh_hans deb_tv_play4_21deae99:
 translate zh_hans deb_tv_play4_c55baf7c:
 
     # anon @ m_pant "It coming, [saga.cast.debbie]!!"
-    anon @ m_pant "要来了，[saga.cast.debbie]！！"
+    anon @ m_pant "要射了，[saga.cast.debbie]！！"
 
 # game/src/plot/deb_tv.rpy:1622
 translate zh_hans deb_tv_play4_0f9e4a20:

@@ -856,7 +856,7 @@ translate zh_hans bar04_art1_rails_0bae9676:
 translate zh_hans bar04_judith1_1e07fb5b:
 
     # anon "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon "我正在为[saga.cast.barb]做一个项目，需要一位真人模特。"
+    anon "我在做[saga.cast.barb]布置的美术作业，需要一位真人模特。"
 
 # game/src/plot/bar04.rpy:432
 translate zh_hans bar04_judith1_da329b42:
@@ -940,7 +940,7 @@ translate zh_hans bar04_judith1_c1a8f6ed:
 translate zh_hans bar04_judith1_annie_dda42fbb:
 
     # anon f_calm "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon f_calm "我正在为[saga.cast.barb]做一个项目，需要一名真人模特。"
+    anon f_calm "我在做[saga.cast.barb]布置的美术作业，需要一位真人模特。"
 
 # game/src/plot/bar04.rpy:471
 translate zh_hans bar04_judith1_annie_da329b42:
@@ -1114,7 +1114,7 @@ translate zh_hans bar04_judith1_dexter_3d69de98:
 translate zh_hans bar04_judith1_erik_1e07fb5b:
 
     # anon "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon "我正在为[saga.cast.barb]做一个项目，需要一位真人模特。"
+    anon "我在做[saga.cast.barb]布置的美术作业，需要一位真人模特。"
 
 # game/src/plot/bar04.rpy:545
 translate zh_hans bar04_judith1_erik_da329b42:
@@ -1150,7 +1150,7 @@ translate zh_hans bar04_judith1_erik_c5b0639d:
 translate zh_hans bar04_judith1_eve_dda42fbb:
 
     # anon f_calm "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon f_calm "我正在为[saga.cast.barb]做一个项目，需要一位真人模特。"
+    anon f_calm "我在做[saga.cast.barb]布置的美术作业，需要一位真人模特。"
 
 # game/src/plot/bar04.rpy:565
 translate zh_hans bar04_judith1_eve_da329b42:
@@ -1240,7 +1240,7 @@ translate zh_hans bar04_judith1_eve_bc613071:
 translate zh_hans bar04_judith1_june_1e07fb5b:
 
     # anon "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon "我正在为[saga.cast.barb]做一个项目，需要一位真人模特。"
+    anon "我在做[saga.cast.barb]布置的美术作业，需要一位真人模特。"
 
 # game/src/plot/bar04.rpy:599
 translate zh_hans bar04_judith1_june_da329b42:
@@ -1312,7 +1312,7 @@ translate zh_hans bar04_judith1_june_3643a578:
 translate zh_hans bar04_judith1_kevin_1e07fb5b:
 
     # anon "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon "我正在为[saga.cast.barb]做一个项目，需要一个真人模特。"
+    anon "我在做[saga.cast.barb]布置的美术作业，需要一位真人模特。"
 
 # game/src/plot/bar04.rpy:634
 translate zh_hans bar04_judith1_kevin_da329b42:
@@ -1438,7 +1438,7 @@ translate zh_hans bar04_judith1_mia_44e39f2c:
 translate zh_hans bar04_judith1_rhonda_6a54b236:
 
     # anon f_shy "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon f_shy "我正在为[saga.cast.barb]做一个项目，需要一个真人模特。"
+    anon f_shy "我在做[saga.cast.barb]布置的美术作业，需要一位真人模特。"
 
 # game/src/plot/bar04.rpy:693
 translate zh_hans bar04_judith1_rhonda_9532bb83:
@@ -1522,7 +1522,7 @@ translate zh_hans bar04_judith1_rhonda_ad53fae2:
 translate zh_hans bar04_judith1_roxxy_1e07fb5b:
 
     # anon "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon "我正在为[saga.cast.barb]做一个项目，需要一个真人模特。"
+    anon "我在做[saga.cast.barb]布置的美术作业，需要一位真人模特。"
 
 # game/src/plot/bar04.rpy:722
 translate zh_hans bar04_judith1_roxxy_da329b42:
@@ -3580,5 +3580,5 @@ translate zh_hans bar04_art2_rails_3ada3dae:
 translate zh_hans bar04_art2_rails_9aed0692:
 
     # anon @ -m_talk "( Best hurry into the art room. )"
-    anon @ -m_talk "（得赶紧进美术教室。）"
+    anon @ -m_talk "（得赶紧进美术室。）"
 
