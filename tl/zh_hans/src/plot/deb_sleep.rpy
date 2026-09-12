@@ -142,7 +142,7 @@ translate zh_hans deb_sleep_wake1_9959a9e4:
 translate zh_hans deb_sleep_wake1_30d6fafa:
 
     # anon "Heh, that's a nice way to wake up."
-    anon "呵，这真是个不错的醒来方式。"
+    anon "呵，能这样醒来可真好。"
 
 # game/src/plot/deb_sleep.rpy:94
 translate zh_hans deb_sleep_wake1_f2d44132:

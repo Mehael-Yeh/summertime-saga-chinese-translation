@@ -112,7 +112,7 @@ translate zh_hans deb_pants_merge_23a50ff3:
 translate zh_hans deb_pants_merge_2c2beecf:
 
     # debbie "Mm, I'm never too busy for this, sweetie!"
-    debbie "嗯，我可不会忙到没时间陪你这个，亲爱的！"
+    debbie "嗯，再忙我也有空陪你做这个，亲爱的！"
 
 # game/src/plot/deb_pants.rpy:54
 translate zh_hans deb_pants_merge_0b12a02b:

@@ -490,7 +490,7 @@ translate zh_hans jen16_scope_alt_09922af4:
 translate zh_hans jen16_scope_alt_ffd93056:
 
     # anon f_worried "Not for free, you don't!"
-    anon f_worried "我可没让你白摸！"
+    anon f_worried "可你哪次让我白摸了！"
 
 # game/src/plot/jen16.rpy:187
 translate zh_hans jen16_scope_alt_cce0b53a:
@@ -562,7 +562,7 @@ translate zh_hans jen16_scope_alt_d91a992e:
 translate zh_hans jen16_scope_alt_768b7e07:
 
     # jenny "Why else would you be perving on me in the shower or paying to see me naked?"
-    jenny "不然你为什么要在浴室里偷看我，或者花钱看我裸体？"
+    jenny "不然你为什么要偷看我洗澡，或者花钱看我裸体？"
 
 # game/src/plot/jen16.rpy:211
 translate zh_hans jen16_scope_alt_04189f5a:
@@ -640,7 +640,7 @@ translate zh_hans jen16_scope_alt_c93b6608:
 translate zh_hans jen16_scope_alt_285dd335:
 
     # jenny e_wsw f_snide p_spy_stand "... And put that thing away. You look ridiculous."
-    jenny e_wsw f_snide p_spy_stand "……把那玩意儿收起来。你看起来真可笑。"
+    jenny e_wsw f_snide p_spy_stand "……还有，把那东西收起来。你这样蠢死了。"
 
 # game/src/plot/jen16.rpy:230
 translate zh_hans jen16_scope_alt_aafbf2b2:
@@ -802,7 +802,7 @@ translate zh_hans jen16_jenny_4809ac68:
 translate zh_hans jen16_jenny_ae2ca0e3:
 
     # jenny f_annoyed -m_teeth "Ugh, this is such a bad idea..."
-    jenny f_annoyed -m_teeth "恶，这主意简直糟透了……"
+    jenny f_annoyed -m_teeth "唉，这主意简直糟透了……"
 
 # game/src/plot/jen16.rpy:312
 translate zh_hans jen16_jenny_01eb24d0:
@@ -1222,7 +1222,7 @@ translate zh_hans jen16_jenny_alt_abb29eb5:
 translate zh_hans jen16_jenny_alt_5d43a75c:
 
     # jenny e_r "{i}*Sigh*{/i} I need your help, okay?"
-    jenny e_r "{i}*叹气*{/i} 我需要你的帮助，好吗？"
+    jenny e_r "{i}*叹气*{/i} 我需要你帮忙，行了吧？"
 
 # game/src/plot/jen16.rpy:409
 translate zh_hans jen16_jenny_alt_ac169fe2:
@@ -1276,7 +1276,7 @@ translate zh_hans jen16_jenny_alt_b2f54230:
 translate zh_hans jen16_jenny_alt_1cde839c:
 
     # anon f_calm "Heh, yeah... It wasn't exactly hard to piece together, [saga.cast.jenny]."
-    anon f_calm "嘿，是啊……其实不难推断出来，[saga.cast.jenny]。"
+    anon f_calm "呵，是啊……这还不难猜，[saga.cast.jenny]。"
 
 # game/src/plot/jen16.rpy:422
 translate zh_hans jen16_jenny_alt_16643918:
@@ -1312,7 +1312,7 @@ translate zh_hans jen16_jenny_alt_b092d204:
 translate zh_hans jen16_jenny_alt_e1ff24f8:
 
     # jenny e_w "What Mom doesn't know, won't hurt her."
-    jenny e_w "只要妈妈不知道，就不会受伤。"
+    jenny e_w "反正妈不知道，就不会为这事烦心。"
 
 # game/src/plot/jen16.rpy:429
 translate zh_hans jen16_jenny_alt_b69390b6:
@@ -1528,7 +1528,7 @@ translate zh_hans jen16_jenny_alt_164b33d4:
 translate zh_hans jen16_jenny_alt_6b8ff421:
 
     # jenny "And don't come back without a mask!"
-    jenny "不戴面具别回来！"
+    jenny "还有，找不到面具就别回来！"
 
 # game/src/plot/jen16.rpy:470
 translate zh_hans jen16_jenny_alt_eebb1970:

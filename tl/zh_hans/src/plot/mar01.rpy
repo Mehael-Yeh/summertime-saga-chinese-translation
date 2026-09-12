@@ -236,7 +236,7 @@ translate zh_hans mar01_maria_8b2183f2:
 
 
     # maria "But I must be doin' okay, to keep gettin' this kinda reaction outta a young buck like you."
-    maria "不过，能让你这种小伙子一直有这种反应，说明我干得还不错。"
+    maria "不过，能让你这样的小伙子一再动心，看来我也不算太差嘛。"
 
 # game/src/plot/mar01.rpy:77
 translate zh_hans mar01_maria_4e2d8824:
@@ -977,7 +977,7 @@ translate zh_hans mar01_maria_merge_b2a85f73:
 translate zh_hans mar01_maria_merge_01bd7a56:
 
     # anon a_think f_sceptical "Wait... so you're saying, [saga.cast.tony] would actually be grateful about us doing it on our own like this?"
-    anon a_think f_sceptical "等等……你的意思是，像这样由我们自己来，[saga.cast.tony]反而会心存感激？"
+    anon a_think f_sceptical "等等……你的意思是，我们俩自己亲热，[saga.cast.tony]反倒会感谢我们？"
 
 # game/src/plot/mar01.rpy:285
 translate zh_hans mar01_maria_merge_cd35fb43:
@@ -1016,13 +1016,13 @@ translate zh_hans mar01_maria_merge_34f58be3:
 
 
     # maria "It was just what I needed."
-    maria "正是我需要的。"
+    maria "这下可舒坦了。"
 
 # game/src/plot/mar01.rpy:295
 translate zh_hans mar01_maria_merge_b61f75a7:
 
     # anon a_salute "Happy to be of service, boss."
-    anon a_salute "能帮上忙就好，老板。"
+    anon a_salute "乐意效劳，老板娘。"
 
 # game/src/plot/mar01.rpy:296
 translate zh_hans mar01_maria_merge_d899fa60:
@@ -1049,7 +1049,7 @@ translate zh_hans mar01_maria_merge_a884915f:
 
 
     # maria "Now beat it, would ya?!"
-    maria "现在快走，行了吧？！"
+    maria "好啦，快去吧，行不行？！"
 
 # game/src/plot/mar01.rpy:311
 translate zh_hans mar01_maria_merge_94a65b21:

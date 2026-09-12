@@ -1021,6 +1021,1151 @@
       "file": "tl/zh_hans/src/plot/deb_mall.rpy",
       "source": "Oh yes, please!",
       "target": "哦，好呀，帮我拿一下！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Can you believe this kid, [saga.cast.tony]?!",
+      "target": "[saga.cast.tony]，瞧瞧这小子，多难得啊！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb14.rpy",
+      "source": "Well, I'm... uhh, glad... you're feeling better.",
+      "target": "那……呃，你舒服多了……我也高兴。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb16.rpy",
+      "source": "I can't believe somebody thought this was a good idea for a porn narrative.",
+      "target": "真不敢相信，居然有人觉得色情片该拍这种剧情。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb16.rpy",
+      "source": "Now go to bed.",
+      "target": "好啦，去睡觉吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "My name is [saga.cast.hana].",
+      "target": "我是[saga.cast.hana]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Those are purely decorative.",
+      "target": "那些只是用来观赏的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Mm, they're nothing compared to you.",
+      "target": "嗯，她们可没法跟你比。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Ungh, I'm still stuffed.",
+      "target": "唔，我肚子还撑着呢。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "For uhh... you know.",
+      "target": "就是……呃，你懂的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "We can have some private time before we head inside.",
+      "target": "进去之前，咱们可以先单独待一会儿。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Maybe it was all the anticipation of what awaited us at our destination.",
+      "target": "也许是因为一想到回家后会发生什么，我们就格外期待。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "I'm sure Dad had some rags stored out here somewhere.",
+      "target": "爸爸应该在这附近放过几块抹布。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "( Hmm, it's so steamy... )",
+      "target": "（嗯，浴室里雾气腾腾的……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "( I can't quite make out- )",
+      "target": "（我看不太清——）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "They really need to expand their programming.",
+      "target": "他们真该换点别的节目了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "I've never made it all the way to the end.",
+      "target": "我还从没完整看到结尾过。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Maybe we'll make it there this time.",
+      "target": "说不定这次能看到结尾呢。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_visit.rpy",
+      "source": "That was a workout!",
+      "target": "刚才可真够累人的！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "Get that through your thick skull, dummy!",
+      "target": "给我记进你那榆木脑袋里，笨蛋！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar01.rpy",
+      "source": "It was just what I needed.",
+      "target": "这下可舒坦了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar01.rpy",
+      "source": "Happy to be of service, boss.",
+      "target": "乐意效劳，老板娘。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar01.rpy",
+      "source": "Now beat it, would ya?!",
+      "target": "好啦，快去吧，行不行？！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Turns on The Falsettos and conks out 'til bed.",
+      "target": "打开《假声》，然后一路打盹到该上床的时候。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "That's fine, thanks [saga.cast.tony].",
+      "target": "没问题，谢谢你，[saga.cast.tony]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Suppose, I should leave ya to yer business.",
+      "target": "那我就不打扰你们了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "The kid's here.",
+      "target": "那小子来了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "So, don't you wanna give him another tumble?",
+      "target": "那你不想再跟他亲热一回？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Suppose I could do with a bite.",
+      "target": "这么说来，我还真该吃点东西了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "I suppose it is getting late.",
+      "target": "看来时间不早了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "Thanks again for today, [saga.cast.anon]. It really was an incredible surprise!",
+      "target": "今天真是谢谢你了，[saga.cast.anon]。这份惊喜太棒了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "My pleasure, [saga.cast.melody].",
+      "target": "不客气，[saga.cast.melody]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel05.rpy",
+      "source": "... Actually, I think I'm going to sit this part out too.",
+      "target": "……其实，我想我也不参加这一步了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel05.rpy",
+      "source": "I guess I have to.",
+      "target": "看来只能这样了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "Heh, it's one of mine!",
+      "target": "呵，这首就是我写的！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "... And he needs to take a seat right here...",
+      "target": "……现在，该请他坐到这儿来了……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "It's only fair I return the favor.",
+      "target": "那我也该好好回报你一下。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "You gotta come back and do that again!",
+      "target": "记得再来找我，咱们下次继续！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Bye [saga.cast.anon].",
+      "target": "再见，[saga.cast.anon]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Sorry again about the other night.",
+      "target": "那天晚上的事，还得再跟你说声抱歉。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "... And if she doesn't, well then, we'll just ask her to join us.",
+      "target": "……她要是不敲门，那干脆请她也加入好了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "We're doing the money thing again, huh?",
+      "target": "又来钱堆这一套，是吧？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "( The things I do for these girls. )",
+      "target": "（唉，为了这些女孩，我还真是什么都做了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "Phew, that was vigorous.",
+      "target": "呼，刚才可真够卖力的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "... So {i}insanely{/i} hot.",
+      "target": "……性感得简直让人{i}发疯{/i}。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "So happy to amuse you.",
+      "target": "能把你逗乐，我可真荣幸啊。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "You go on and enjoy the rest of your day.",
+      "target": "你去忙吧，今天好好放松一下。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "source": "What happens when it-",
+      "target": "它启动以后会——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "source": "I am so confused...",
+      "target": "我都搞糊涂了……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "source": "... But what is the purpose of all this?",
+      "target": "……可弄这些到底是为了什么？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "source": "I think you've earned your A.",
+      "target": "看来该给你个A。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "source": "A {i}lot{/i} more testing!",
+      "target": "还要{i}多得多{/i}的测试！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "source": "That... really wasn't any less intense...",
+      "target": "刚才……感觉一点也没变弱……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "source": "... At some point it {i}must{/i} normalise!",
+      "target": "……总{i}该{/i}有习惯的时候吧！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor_office.rpy",
+      "source": "Why, have you come for another round of testing?",
+      "target": "怎么，又想来做一轮测试？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor_office.rpy",
+      "source": "Not now, [saga.cast.anon]!",
+      "target": "现在不行，[saga.cast.anon]！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor_office.rpy",
+      "source": "Can't you see I'm close to a breakthrough here?!",
+      "target": "没看见我的研究马上就要有突破了吗？！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "You want help cleaning all this up?",
+      "target": "要我帮忙收拾这些吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "I'm not sure I...",
+      "target": "我……我不太确定……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "You wouldn't mind doing it again sometime, would you, [saga.cast.anon]?",
+      "target": "你不介意改天再来一次吧，[saga.cast.anon]？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "You'd never leave your poor teacher wanting, would you, [saga.cast.anon]?",
+      "target": "你可舍不得让可怜的老师一直盼着，对吧，[saga.cast.anon]？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb06.rpy",
+      "source": "( Oh, gee... my head is spinning... )",
+      "target": "（哦，天哪……头好晕……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb06.rpy",
+      "source": "I think you're just going through a rough time right now and maybe some wires got crossed, huh?",
+      "target": "我想，你只是最近太难熬了，一时把自己的感情弄混了，是不是？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Heh, I've never been propositioned over the phone before...",
+      "target": "呵，我还从没在电话里被人约过呢……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "source": "The difference between that car journey and the previous was as night and day...",
+      "target": "接下来的车程，气氛和来时截然不同……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "source": "You've got curves in {i}all{/i} the right places.",
+      "target": "你身上{i}每一处{/i}曲线都恰到好处。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_pants.rpy",
+      "source": "Mm, I'm never too busy for this, sweetie!",
+      "target": "嗯，再忙我也有空陪你做这个，亲爱的！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie_rug.rpy",
+      "source": "Ahh, but I can't decide between the red convertable and the black-",
+      "target": "啊，可我拿不定主意，是要红色敞篷车，还是黑色——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Have you got my money yet?",
+      "target": "我的钱弄到了吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "We get pretty busy in the evenings but if you came before that we'd have time to chat and catch up.",
+      "target": "我们晚上挺忙的，但如果你在那之前来，我们就有时间聊聊天，叙叙旧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Ah, you're probably busy, huh?",
+      "target": "啊，你可能挺忙的吧？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "What are you doing for work nowadays?",
+      "target": "你现在做什么工作？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "You know, [saga.cast.grace]... this has been fun and all, but I'm really busy, so if you don't mind?",
+      "target": "[saga.cast.grace]……叙旧是挺开心的，可我真的很忙。没别的事，我就先走了？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "You know, [saga.cast.grace]... this has been fun and all, but we're busy, so if you don't mind?",
+      "target": "[saga.cast.grace]……叙旧是挺开心的，可我们还有事。没别的事，我们就先走了？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I've been trying, he won't answer.",
+      "target": "我一直在打，他就是不接。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Will you go down to the gym and tell that asshole to call me?",
+      "target": "你去趟健身房，叫那个混蛋给我回电话，行不行？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Oh, c'mon [saga.cast.anon].",
+      "target": "哎呀，拜托了，[saga.cast.anon]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "What if, I get naked for you again?",
+      "target": "那我再脱光给你看，怎么样？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I was still eating, you know?!",
+      "target": "我早饭还没吃完呢？！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I want [saga.cast.cedric] to call me ASAP!",
+      "target": "我要[saga.cast.cedric]马上给我回电话！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "That's plenty for today!",
+      "target": "今天就到这儿了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Where did you say I could find him?",
+      "target": "你说哪里能找到他？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "He'll probably be at the gym, that meathead is always at the gym.",
+      "target": "他多半在健身房，那个肌肉白痴整天泡在健身房。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "( I should probably give her space until she calms down. )",
+      "target": "（还是先别烦她，等她消消气吧。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Why else would you be perving on me in the shower or paying to see me naked?",
+      "target": "不然你为什么要偷看我洗澡，或者花钱看我裸体？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Not for free, you don't!",
+      "target": "可你哪次让我白摸了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "... And put that thing away. You look ridiculous.",
+      "target": "……还有，把那东西收起来。你这样蠢死了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Ugh, this is such a bad idea...",
+      "target": "唉，这主意简直糟透了……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "{i}*Sigh*{/i} I need your help, okay?",
+      "target": "{i}*叹气*{/i} 我需要你帮忙，行了吧？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Heh, yeah... It wasn't exactly hard to piece together, [saga.cast.jenny].",
+      "target": "呵，是啊……这还不难猜，[saga.cast.jenny]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "What Mom doesn't know, won't hurt her.",
+      "target": "反正妈不知道，就不会为这事烦心。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "And don't come back without a mask!",
+      "target": "还有，找不到面具就别回来！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "Something came up and I-",
+      "target": "突然有点事，我——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "( I'm not sure she knows how to feel right now... )",
+      "target": "（恐怕连她自己都不知道该是什么心情……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "( ... And what will [saga.cast.debbie] do when she finds out?! )",
+      "target": "（……[saga.cast.debbie]知道这事以后，会有什么反应？！）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Hey, stop it! Both of you!",
+      "target": "好了，都别吵了！你们两个！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "No, I'm not okay!",
+      "target": "我才不好！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "You should be sorry!",
+      "target": "你当然该道歉！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Isn't she beautiful?",
+      "target": "她是不是很漂亮？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Aren't they beautiful?",
+      "target": "他们是不是很漂亮？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Heh, I never took you for the momma bear type...",
+      "target": "呵，真没想到你当了妈会这么护着孩子……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_cam.rpy",
+      "source": "You're going to wear that again?",
+      "target": "你还打算穿那件吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "I'd be honored you guys...",
+      "target": "能当孩子的教父，是我的荣幸……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "I love you boys!",
+      "target": "我爱你们俩！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "I'm just as happy with a girl.",
+      "target": "生女儿我也一样开心。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "I can't believe I'm actually holding my child right now...",
+      "target": "真不敢相信，我现在居然正抱着自己的孩子……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "And his father's chin.",
+      "target": "下巴像爸爸。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "They got their mama's eyes.",
+      "target": "他们的眼睛像妈妈。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "And their father's ears.",
+      "target": "耳朵像爸爸。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "I'm your godfather, [saga.cast.anon].",
+      "target": "我是教父[saga.cast.anon]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "I'll be back in action this evening.",
+      "target": "我今晚就能回来干活了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "If you're up to it, there'll be pizzas that need deliverin'!",
+      "target": "你要是有空，店里还有披萨等着你送呢！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Can you believe that guy?",
+      "target": "你说那家伙是不是太不像话了？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Hold your godson for a second, would ya?",
+      "target": "帮我抱一下你的教子，行吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Hold your goddaughter for a second, would ya?",
+      "target": "帮我抱一下你的教女，行吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Hold your godchildren for a second, would ya?",
+      "target": "帮我抱一下你的教子们，行吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Why is the baby cryin', [saga.cast.tony]?",
+      "target": "宝宝怎么哭起来了，[saga.cast.tony]？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Ahh, the baby's fine!",
+      "target": "啊，宝宝没事！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Just a little shakin' up by the scuffle I had on telephone, that's all.",
+      "target": "就是刚才我在电话里跟人吵了几句，把孩子吓着了，没别的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "I assume you're keeping it?",
+      "target": "你打算留下这个孩子，对吧？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "I want to be involved!",
+      "target": "我想一起照顾孩子！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "Well, that's wonderful [saga.cast.anon], thank you!",
+      "target": "那太好了，[saga.cast.anon]，谢谢你！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "No, I'm not!",
+      "target": "我才不好呢！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "Just gimme a second to catch my breath...",
+      "target": "先让我喘口气……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv03.rpy",
+      "source": "I hope so! I really need to pass this class.",
+      "target": "希望如此！这门课我可一定得及格。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv03.rpy",
+      "source": "{i}*Ahem*{/i} I'm sorry, [saga.cast.anon]. It seems we must cut this short once more.",
+      "target": "{i}*咳咳*{/i} 抱歉，[saga.cast.anon]。看来又得先到这里了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Someone will be out to service the car tomorrow [when[1]!l].",
+      "target": "明天[when[1]!l]会有人过去修车。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Earliest we can get someone out is [saga.time.dow + when[0]] [when[1]!l].",
+      "target": "最早要到[saga.time.dow + when[0]] [when[1]!l]才能派人过去。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "I'll have someone out there tomorrow [when[1]!l].",
+      "target": "明天[when[1]!l]我会派人过去。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Yes, they're sending someone over tomorrow [when[1]!l].",
+      "target": "有，他们明天[when[1]!l]会派人过来。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Yes, but the earliest they can get someone out is [saga.time.dow + when[0]] [when[1]!l].",
+      "target": "有，不过最早要到[saga.time.dow + when[0]] [when[1]!l]才能派人过来。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Tomorrow [when[1]!l].",
+      "target": "明天[when[1]!l]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "source": "I'd say that went {i}pretty{/i} well!",
+      "target": "刚才感觉{i}相当{/i}不错吧！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Heh, you might have to carry me to the car after a meal like this.",
+      "target": "呵，吃完这顿，你说不定得把我抱到车上了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_kitchen.rpy",
+      "source": "I suppose... it has been awhile... since we...",
+      "target": "也是……我们确实有一阵子……没……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "That's why you're my sweetie...",
+      "target": "所以我才这么疼你呀……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "I'd say you do.",
+      "target": "那可不是嘛。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Sorry, I wasn't thinking.",
+      "target": "抱歉，是我没考虑周全。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "W-wow, we're just getting straight into it, huh?",
+      "target": "哇、哇，这就直奔主题了啊？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "That's just your imagination talking... I don't-",
+      "target": "都是你瞎想……我才没有——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "I guess, that means I'm renting to a boob guy?",
+      "target": "这么说，我的房客还是个胸控？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Then turn around for me.",
+      "target": "那就转过身来。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Everything about this gives me happy thoughts.",
+      "target": "只要和你在一起，我就满脑子都是开心的事。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Mm, my pleasure, sweetie.",
+      "target": "嗯，不客气，亲爱的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Can I join you?",
+      "target": "我能一起洗吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "I loved every second of it.",
+      "target": "刚才从头到尾，我都喜欢得不得了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Heh, that was a good one.",
+      "target": "呵，刚才可真不错。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "... That makes them better than the rest.",
+      "target": "……就是比别人更让我喜欢。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "N-no, I never... uhh...",
+      "target": "不、没有，我从来没……呃……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "... I mean, nobody ever asked me to-",
+      "target": "……我是说，从来没人让我这么做过——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "... People do that stuff... I'm sure.",
+      "target": "……肯定也有人这样做吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "I wouldn't even know where to begin.",
+      "target": "我都不知道该怎么做。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "{i}*Gulp*{/i} O-okay.",
+      "target": "{i}*咽口水*{/i} 好、好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "I guess I'll have to wash my robe again.",
+      "target": "看来又得洗浴袍了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Heh, let's get cleaned up and off to bed.",
+      "target": "呵，咱们洗洗睡吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Maybe it's for the best we don't watch the conclusion?",
+      "target": "要不还是别看结尾了？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "If that's what my baby wants, that's what he's gonna get!",
+      "target": "既然我的宝贝想看，那就让你看个够！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "... Maybe we should do this more often.",
+      "target": "……也许以后可以多这样待在一起。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_table.rpy",
+      "source": "Two eggs scrambled and three strips of bacon, just like you wanted.",
+      "target": "照你要的，炒了两个鸡蛋，再配三片培根。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar01.rpy",
+      "source": "But I must be doin' okay, to keep gettin' this kinda reaction outta a young buck like you.",
+      "target": "不过，能让你这样的小伙子一再动心，看来我也不算太差嘛。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar01.rpy",
+      "source": "Wait... so you're saying, [saga.cast.tony] would actually be grateful about us doing it on our own like this?",
+      "target": "等等……你的意思是，我们俩自己亲热，[saga.cast.tony]反倒会感谢我们？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Are you ready for me?",
+      "target": "准备好了吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "{i}*Sigh*{/i} You and your baseball.",
+      "target": "{i}*叹息*{/i} 你呀，满脑子都是棒球。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "You know he ain't of age.",
+      "target": "你明知道他还没到能喝酒的年纪。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Heh, ya lookin' to have another romp?",
+      "target": "呵，又想跟她亲热了？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Well, I mean... I wouldn't say no.",
+      "target": "呃，我是说……真有这机会，我可不会拒绝。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Tsk, really [saga.cast.tony]...",
+      "target": "啧，真是的，[saga.cast.tony]……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "No we're good!",
+      "target": "不用给我们带什么！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "source": "See ya, [saga.cast.anon].",
+      "target": "回头见，[saga.cast.anon]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "Damn, that was good!",
+      "target": "哇，刚才真够劲！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "You got something special there, sugar!",
+      "target": "甜心，你可真是天赋异禀！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "Stop worrying and get your cute little butt up on the table.",
+      "target": "别担心了，把你那可爱的小屁股放到桌子上来。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "In fact, he made a copy for his own private collection.",
+      "target": "其实，他还复制了一幅，留着自己收藏。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "... I mean, I've had a lot of sex in my life...",
+      "target": "……我是说，我这辈子也跟人做过不少次了……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "... A lot of good sex!",
+      "target": "……也有过不少美妙的体验！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "C'mon [saga.cast.debbie]...",
+      "target": "来嘛，[saga.cast.debbie]……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Nah, I'm good.",
+      "target": "不用，我没什么要买的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Mmm, my pleasure, sweetie.",
+      "target": "嗯，不客气，亲爱的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "There's my big boy.",
+      "target": "这才是我的大男孩。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Being the responsible adults we both were, we'd {i}definitely{/i} remembered that tissues are a valuable addition to any vehicle.",
+      "target": "身为两个负责任的成年人，我们{i}当然{/i}记得，车里备点纸巾很有用。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "It was just too bad that neither of us had remembered to actually get some.",
+      "target": "只可惜，谁也没想起来真的带上几张。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Don't worry, it sticks back on...",
+      "target": "别担心，还能粘回去……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "... I'll fix it when I'm done.",
+      "target": "……等我洗完再装好。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Now get out of here and let me finish up.",
+      "target": "好啦，你先出去，让我把澡洗完。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Now let's get washed up, so I can get on with the day.",
+      "target": "咱们洗洗干净，我也该忙今天的事了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Phew, man... that feels real good...",
+      "target": "呼，天哪……感觉真舒服……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "But nothing below the waist, okay?",
+      "target": "不过腰部以下不许碰，好吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_sink.rpy",
+      "source": "Pretty sure we're having cereal this morning.",
+      "target": "看来今天早上只能吃麦片了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_sink.rpy",
+      "source": "But she'll get over it.",
+      "target": "不过她气一会儿也就好了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_sink.rpy",
+      "source": "You better believe it.",
+      "target": "那还用说。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_sleep.rpy",
+      "source": "Heh, that's a nice way to wake up.",
+      "target": "呵，能这样醒来可真好。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "You don't have to be so closed off, you know?",
+      "target": "你不用这么拘谨的，知道吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "{i}*Ahem*{/i} O-okay.",
+      "target": "{i}*咳嗯*{/i} 好、好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "The way you talk about them...",
+      "target": "听你那样夸它们……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_visit.rpy",
+      "source": "It's just been a long day, that's all.",
+      "target": "只是今天太累了而已。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Such a little charmer.",
+      "target": "真是个嘴甜的小家伙。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Hey, there's my little charmer.",
+      "target": "嘿，我那嘴甜的小家伙来了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "When I realized I was living with such a sexy mama.",
+      "target": "从我发现自己居然跟这么性感的美人住在一起的时候起。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "You're not even wearing your suit!",
+      "target": "你连泳衣都没穿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "[saga.cast.cedric] never wanted to do any of this lovey-dovey bullshit.",
+      "target": "[saga.cast.cedric]从来都不肯陪我玩这些卿卿我我的破玩意儿。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_shower.rpy",
+      "source": "( Man, it's a shame she's so insecure about her pregnant body... )",
+      "target": "（唉，她这么介意自己怀孕后的身材，真可惜……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "I'll be glad to get this little one out of me.",
+      "target": "我就盼着早点把这小家伙生下来。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "It's like you got orangutan hands or somethin'.",
+      "target": "你这双手简直跟猩猩爪子似的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Goodness knows there'll be no time for that once we get these little ones home.",
+      "target": "天知道，等这些小家伙接回家，哪还有时间好好睡觉。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Goodness knows there'll be no time for that once we get this little one home.",
+      "target": "天知道，等这个小家伙接回家，哪还有时间好好睡觉。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Bah, I ain't half as heavy a sleeper as she believes...",
+      "target": "哼，我可没她想的睡得那么沉……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "See, I told ya it'd just take a second.",
+      "target": "瞧，我就说很快吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "Just be there [saga.time.dow + when] afternoon.",
+      "target": "[saga.time.dow + when]下午到那儿就行。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "I guess, I'll just catch you [saga.time.dow + when] then.",
+      "target": "那就[saga.time.dow + when]再找你吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "Not for a while.",
+      "target": "有一阵子没见着了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "Stop fooling around, [saga.cast.annie]. We don't have time to waste!",
+      "target": "别胡闹了，[saga.cast.annie]。我们没时间浪费！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Sorry, no. She's on leave at the moment.",
+      "target": "抱歉，她不在。她现在休假。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Sorry, no. She only works on weekdays.",
+      "target": "抱歉，她不在。她只在工作日上班。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Sorry, no. She won't be in until later this afternoon.",
+      "target": "抱歉，她还没来。今天下午晚些时候才到。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "( ... But I should probably speak to [saga.cast.liu] before heading back there. )",
+      "target": "（……不过进她办公室之前，还是先跟[saga.cast.liu]说一声吧。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Oh... right, sorry [saga.cast.tina].",
+      "target": "哦……对，抱歉，[saga.cast.tina]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "I'm so sorry, [saga.cast.tina]... I-",
+      "target": "真对不起，[saga.cast.tina]……我——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "I'll go get you some paper towels from the bathroom.",
+      "target": "我去洗手间给你拿些纸巾。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Perfect, thanks, [saga.cast.liu].",
+      "target": "太好了，谢谢，[saga.cast.liu]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "Ugh, I forgot how much I hate morning sickness...",
+      "target": "唉，都快忘了孕吐有多折腾人了……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "At least we're nearing the end.",
+      "target": "至少快到预产期了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "They're so beautiful!",
+      "target": "他们太漂亮了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "I'll take it everything went fine with the delivery?",
+      "target": "看来分娩一切顺利？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "You could have called me, I would have been there holding your hand.",
+      "target": "你当时可以打电话叫我来的，我也好握着你的手陪着你。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "( ... They both look so peaceful. )",
+      "target": "（……她和宝宝都睡得那么安详。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "That shouldn't be necessary but I appreciate the sentiment, [saga.cast.anon].",
+      "target": "应该用不着，不过你的心意我领了，[saga.cast.anon]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "I don't suppose you'd wanna take a walk down to the vault?",
+      "target": "要不要一起去下面的金库转转？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "More business in the vault?",
+      "target": "又要去金库办事？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "( ... Time to catch up to [saga.cast.tina] down in the vault. )",
+      "target": "（……该去下面的金库找[saga.cast.tina]了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "They're perfect!",
+      "target": "他们真完美！"
     }
   ]
 }

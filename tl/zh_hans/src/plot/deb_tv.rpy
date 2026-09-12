@@ -1360,7 +1360,7 @@ translate zh_hans deb_tv_boobjob4_361af2c1:
 translate zh_hans deb_tv_boobjob4_0be701d7:
 
     # debbie f_horny "I loved every second of it."
-    debbie f_horny "我享受其中的每一秒。"
+    debbie f_horny "刚才从头到尾，我都喜欢得不得了。"
 
 # game/src/plot/deb_tv.rpy:522
 translate zh_hans deb_tv_boobjob4_47b0d29a:
@@ -1450,7 +1450,7 @@ translate zh_hans deb_tv_creampie4_559ece68:
 translate zh_hans deb_tv_creampie4_7bdde6a2:
 
     # anon e_e p_sit z_reset "Heh, that was a good one."
-    anon e_e p_sit z_reset "嘿，那还挺不错的。"
+    anon e_e p_sit z_reset "呵，刚才可真不错。"
 
 # game/src/plot/deb_tv.rpy:562
 translate zh_hans deb_tv_creampie4_7d98dede:
@@ -1780,7 +1780,7 @@ translate zh_hans deb_tv_entry2_1cee7a41:
 translate zh_hans deb_tv_entry2_b4354e92:
 
     # anon a_jerk_01 f_shy "You don't have to be so closed off, you know?"
-    anon a_jerk_01 f_shy "你不必这么封闭自己，你知道吗？"
+    anon a_jerk_01 f_shy "你不用这么拘谨的，知道吗？"
 
 # game/src/plot/deb_tv.rpy:728
 translate zh_hans deb_tv_entry2_786f2c6d:
@@ -1798,7 +1798,7 @@ translate zh_hans deb_tv_entry2_e4127045:
 translate zh_hans deb_tv_entry2_c78668c1:
 
     # debbie "{i}*Ahem*{/i} O-okay."
-    debbie "{i}*咳嗯*{/i} 好-好吧。"
+    debbie "{i}*咳嗯*{/i} 好、好吧。"
 
 # game/src/plot/deb_tv.rpy:737
 translate zh_hans deb_tv_entry2_06852198:
@@ -2248,7 +2248,7 @@ translate zh_hans deb_tv_entry3_90ed27fb:
 translate zh_hans deb_tv_entry3_78894b28:
 
     # debbie "They really need to expand their programming."
-    debbie "他们真得扩展一下节目内容了。"
+    debbie "他们真该换点别的节目了。"
 
 # game/src/plot/deb_tv.rpy:869
 translate zh_hans deb_tv_entry3_3920bb53:
@@ -2284,7 +2284,7 @@ translate zh_hans deb_tv_entry3_ce1f9963:
 translate zh_hans deb_tv_entry3_e43d57c8:
 
     # anon "I've never made it all the way to the end."
-    anon "我从来没有完整地玩到结局。"
+    anon "我还从没完整看到结尾过。"
 
 # game/src/plot/deb_tv.rpy:880
 translate zh_hans deb_tv_entry3_f26a2a6a:
@@ -2374,7 +2374,7 @@ translate zh_hans deb_tv_entry3_bfd91a0b:
 translate zh_hans deb_tv_entry3_02496094:
 
     # anon "... That makes them better than the rest."
-    anon "……让它们比别的都更好。"
+    anon "……就是比别人更让我喜欢。"
 
 # game/src/plot/deb_tv.rpy:918
 translate zh_hans deb_tv_entry3_a937b54b:
@@ -2890,7 +2890,7 @@ translate zh_hans deb_tv_entry3_61027ed4_1:
 translate zh_hans deb_tv_entry3_00155775:
 
     # debbie "The way you talk about them..."
-    debbie "你谈论他们的方式……"
+    debbie "听你那样夸它们……"
 
 # game/src/plot/deb_tv.rpy:1092
 translate zh_hans deb_tv_entry3_7a8ea867:
@@ -3232,13 +3232,13 @@ translate zh_hans deb_tv_footjob3_a35ae772:
 translate zh_hans deb_tv_footjob3_daf9aaa6:
 
     # debbie "N-no, I never... uhh..."
-    debbie "不-不，我从来没……呃……"
+    debbie "不、没有，我从来没……呃……"
 
 # game/src/plot/deb_tv.rpy:1196
 translate zh_hans deb_tv_footjob3_e9ae3193:
 
     # debbie "... I mean, nobody ever asked me to-"
-    debbie "……我是说，从没人让我这样做过-"
+    debbie "……我是说，从来没人让我这么做过——"
 
 # game/src/plot/deb_tv.rpy:1197
 translate zh_hans deb_tv_footjob3_e40cbabe:
@@ -3256,7 +3256,7 @@ translate zh_hans deb_tv_footjob3_3ed395c3:
 translate zh_hans deb_tv_footjob3_df4d396c:
 
     # debbie "... People do that stuff... I'm sure."
-    debbie "……人们确实会做这种事……我肯定。"
+    debbie "……肯定也有人这样做吧。"
 
 # game/src/plot/deb_tv.rpy:1200
 translate zh_hans deb_tv_footjob3_2cc4e9bd:
@@ -3292,7 +3292,7 @@ translate zh_hans deb_tv_footjob3_da9a3cd4:
 translate zh_hans deb_tv_footjob3_4c4486b1:
 
     # debbie e_se "I wouldn't even know where to begin."
-    debbie e_se "我甚至不知道从哪里开始。"
+    debbie e_se "我都不知道该怎么做。"
 
 # game/src/plot/deb_tv.rpy:1207
 translate zh_hans deb_tv_footjob3_5f95dbf7:
@@ -3328,7 +3328,7 @@ translate zh_hans deb_tv_footjob3_7d1d645b:
 translate zh_hans deb_tv_footjob3_cf279f39:
 
     # debbie f_shy "{i}*Gulp*{/i} O-okay."
-    debbie f_shy "{i}*咕噜*{/i} 好-好吧。"
+    debbie f_shy "{i}*咽口水*{/i} 好、好吧。"
 
 # game/src/plot/deb_tv.rpy:1220
 translate zh_hans deb_tv_footjob3_e11ffae8:
@@ -3778,7 +3778,7 @@ translate zh_hans deb_tv_merge4a_d165fd93:
 translate zh_hans deb_tv_merge4a_61dd9478:
 
     # debbie "I guess I'll have to wash my robe again."
-    debbie "看来我又得洗我的长袍了。"
+    debbie "看来又得洗浴袍了。"
 
 # game/src/plot/deb_tv.rpy:1362
 translate zh_hans deb_tv_merge4a_6fd0ee9f:
@@ -3790,7 +3790,7 @@ translate zh_hans deb_tv_merge4a_6fd0ee9f:
 translate zh_hans deb_tv_merge4a_760d230b:
 
     # debbie "Heh, let's get cleaned up and off to bed."
-    debbie "嘿，我们清洗一下然后上床吧。"
+    debbie "呵，咱们洗洗睡吧。"
 
 # game/src/plot/deb_tv.rpy:1365
 translate zh_hans deb_tv_merge4a_343f0d4b:
@@ -3844,7 +3844,7 @@ translate zh_hans deb_tv_merge4a_89c316e7:
 translate zh_hans deb_tv_play3_428c58b6:
 
     # anon e_e p_sit "Maybe we'll make it there this time."
-    anon e_e p_sit "也许这次我们能达成目标。"
+    anon e_e p_sit "说不定这次能看到结尾呢。"
 
 # game/src/plot/deb_tv.rpy:1393
 translate zh_hans deb_tv_play3_a2193f04:
@@ -4198,7 +4198,7 @@ translate zh_hans deb_tv_play3_7227604e:
 translate zh_hans deb_tv_play3_acf6341b:
 
     # debbie a_lap e_w f_shy p_couch_tired_turn "Maybe it's for the best we don't watch the conclusion?"
-    debbie a_lap e_w f_shy p_couch_tired_turn "也许我们不看到结局比较好？"
+    debbie a_lap e_w f_shy p_couch_tired_turn "要不还是别看结尾了？"
 
 # game/src/plot/deb_tv.rpy:1503
 translate zh_hans deb_tv_play3_d695013a:
@@ -4252,7 +4252,7 @@ translate zh_hans deb_tv_play4_52682287:
 translate zh_hans deb_tv_play4_1cd814ce:
 
     # debbie a_side e_e f_calm p_lean_turn "If that's what my baby wants, that's what he's gonna get!"
-    debbie a_side e_e f_calm p_lean_turn "如果这是我家宝贝想要的，那他就一定会得到！"
+    debbie a_side e_e f_calm p_lean_turn "既然我的宝贝想看，那就让你看个够！"
 
 # game/src/plot/deb_tv.rpy:1534
 translate zh_hans deb_tv_play4_02ce9a0f:

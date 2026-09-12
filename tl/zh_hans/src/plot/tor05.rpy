@@ -1576,7 +1576,7 @@ translate zh_hans tor05_office2_66ba463d:
 translate zh_hans tor05_office2_93729532:
 
     # anon "Just gimme a second to catch my breath..."
-    anon "让我喘口气先……"
+    anon "先让我喘口气……"
 
 # game/src/plot/tor05.rpy:813
 translate zh_hans tor05_office2_e6c58c05:

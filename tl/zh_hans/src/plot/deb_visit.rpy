@@ -1636,7 +1636,7 @@ translate zh_hans deb_visit_bail_e5e23def:
 translate zh_hans deb_visit_bail_1f7c8f31:
 
     # anon f_shy "It's just been a long day, that's all."
-    anon f_shy "只是今天太长了而已。"
+    anon f_shy "只是今天太累了而已。"
 
 # game/src/plot/deb_visit.rpy:626
 translate zh_hans deb_visit_bail_1d78c901:
@@ -1756,7 +1756,7 @@ translate zh_hans deb_visit_creampie_08d4ffe2:
 translate zh_hans deb_visit_creampie_ca1773ac:
 
     # anon "That was a workout!"
-    anon "真是一场锻炼！"
+    anon "刚才可真够累人的！"
 
 # game/src/plot/deb_visit.rpy:676
 translate zh_hans deb_visit_creampie_ec606442:

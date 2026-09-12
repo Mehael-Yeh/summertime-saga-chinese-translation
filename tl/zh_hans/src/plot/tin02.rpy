@@ -68,7 +68,7 @@ translate zh_hans tin02_tina_02a60b7d:
 
 
     # tina "Bye [saga.cast.anon]."
-    tina "再见[saga.cast.anon]。"
+    tina "再见，[saga.cast.anon]。"
 
 # game/src/plot/tin02.rpy:28
 translate zh_hans tin02_liu_6b79ba50:
@@ -159,21 +159,21 @@ translate zh_hans tin02_liu_7a888e64:
 translate zh_hans tin02_liu_away_d417ed52:
 
     # liu e_w f_worried "Sorry, no. She's on leave at the moment."
-    liu e_w f_worried "抱歉，没有。她现在在休假。"
+    liu e_w f_worried "抱歉，她不在。她现在休假。"
 
 # game/src/plot/tin02.rpy:75
 translate zh_hans tin02_liu_away_bf64fc96:
 
 
     # liu e_w f_worried "Sorry, no. She only works on weekdays."
-    liu e_w f_worried "抱歉，不行。她只在工作日上班。"
+    liu e_w f_worried "抱歉，她不在。她只在工作日上班。"
 
 # game/src/plot/tin02.rpy:77
 translate zh_hans tin02_liu_away_b1b9210e:
 
 
     # liu e_w f_worried "Sorry, no. She won't be in until later this afternoon."
-    liu e_w f_worried "抱歉，不行。她今天下午晚些时候才会来。"
+    liu e_w f_worried "抱歉，她还没来。今天下午晚些时候才到。"
 
 # game/src/plot/tin02.rpy:80
 translate zh_hans tin02_liu_merge_2f3658c7:
@@ -186,7 +186,7 @@ translate zh_hans tin02_liu_merge_7cdb2c54:
 
 
     # anon "No, no, that's okay."
-    anon "不，不，这就可以了。"
+    anon "不，不用了，谢谢。"
 
 # game/src/plot/tin02.rpy:82
 translate zh_hans tin02_liu_merge_f64b36eb:
@@ -212,7 +212,7 @@ translate zh_hans tin02_liu_hall_b40579b1:
 
 
     # anon @ -m_talk "( ... But I should probably speak to [saga.cast.liu] before heading back there. )"
-    anon @ -m_talk "（……但也许回去之前，应该先跟[saga.cast.liu]谈谈。）"
+    anon @ -m_talk "（……不过进她办公室之前，还是先跟[saga.cast.liu]说一声吧。）"
 
 # game/src/plot/tin02.rpy:103
 translate zh_hans tin02_liu_near_18b6a785:
@@ -300,7 +300,7 @@ translate zh_hans tin02_liu_tina_ac5ae198:
 translate zh_hans tin02_liu_tina_6eb62b5e:
 
     # anon a_side "Oh... right, sorry [saga.cast.tina]."
-    anon a_side "哦……对，抱歉[saga.cast.tina]。"
+    anon a_side "哦……对，抱歉，[saga.cast.tina]。"
 
 # game/src/plot/tin02.rpy:130
 translate zh_hans tin02_liu_tina_2ad5aa3c:
@@ -313,7 +313,7 @@ translate zh_hans tin02_liu_tina_2ad5aa3c:
 translate zh_hans tin02_liu_tina_02a60b7d:
 
     # tina "Bye [saga.cast.anon]."
-    tina "再见[saga.cast.anon]。"
+    tina "再见，[saga.cast.anon]。"
 
 # game/src/plot/tin02.rpy:139
 translate zh_hans tin02_liu_womb_3f1aeab1:
@@ -395,7 +395,7 @@ translate zh_hans tin02_cubicle_21dd9225:
 translate zh_hans tin02_cubicle_3e326b68:
 
     # tina f_shy "Sorry again about the other night."
-    tina f_shy "再说声对不起，关于那天晚上的事。"
+    tina f_shy "那天晚上的事，还得再跟你说声抱歉。"
 
 # game/src/plot/tin02.rpy:167
 translate zh_hans tin02_cubicle_f9be23ad:
@@ -525,7 +525,7 @@ translate zh_hans tin02_cubicle_f027fc59:
 translate zh_hans tin02_cubicle_d7aa143b:
 
     # anon f_happy @ e_b m_laugh "... And if she doesn't, well then, we'll just ask her to join us."
-    anon f_happy @ e_b m_laugh "…… 要是她不愿意，那我们就直接邀请她加入我们。"
+    anon f_happy @ e_b m_laugh "……她要是不敲门，那干脆请她也加入好了。"
 
 # game/src/plot/tin02.rpy:193
 translate zh_hans tin02_cubicle_eea22bca:
@@ -854,7 +854,7 @@ translate zh_hans tin02_cubicle_reuse_21b8afb8:
 translate zh_hans tin02_cubicle_reuse_993c15f9:
 
     # anon "I'm so sorry, [saga.cast.tina]... I-"
-    anon "我很抱歉，[saga.cast.tina]…… 我—"
+    anon "真对不起，[saga.cast.tina]……我——"
 
 # game/src/plot/tin02.rpy:312
 translate zh_hans tin02_cubicle_reuse_c72ff3af:
@@ -886,7 +886,7 @@ translate zh_hans tin02_cubicle_reuse_e30b1895:
 translate zh_hans tin02_cubicle_merge_a60d372c:
 
     # anon "I'll go get you some paper towels from the bathroom."
-    anon "我去浴室给你拿些纸巾。"
+    anon "我去洗手间给你拿些纸巾。"
 
 # game/src/plot/tin02.rpy:333
 translate zh_hans tin02_cubicle_merge_3ee8a88a:
@@ -1081,4 +1081,4 @@ translate zh_hans tin02_cubicle_liu_931b2149:
 translate zh_hans tin02_cubicle_liu_65546dad:
 
     # anon f_happy "Perfect, thanks, [saga.cast.liu]."
-    anon f_happy "完美，谢谢，[saga.cast.liu]。"
+    anon f_happy "太好了，谢谢，[saga.cast.liu]。"

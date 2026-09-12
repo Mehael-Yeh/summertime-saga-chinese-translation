@@ -592,7 +592,7 @@ translate zh_hans jen_table_6e1c9982:
 translate zh_hans jen_table_8eaa120d:
 
     # debbie "Two eggs scrambled and three strips of bacon, just like you wanted."
-    debbie "两个炒蛋，三片培根，正合你的要求。"
+    debbie "照你要的，炒了两个鸡蛋，再配三片培根。"
 
 # game/src/plot/jen_table.rpy:252
 translate zh_hans jen_table_c268cb13:
@@ -850,7 +850,7 @@ translate zh_hans jen_table_creampie_6e1c9982:
 translate zh_hans jen_table_creampie_8eaa120d:
 
     # debbie "Two eggs scrambled and three strips of bacon, just like you wanted."
-    debbie "两个炒蛋，三片培根，正合你的要求。"
+    debbie "照你要的，炒了两个鸡蛋，再配三片培根。"
 
 # game/src/plot/jen_table.rpy:362
 translate zh_hans jen_table_creampie_c268cb13:

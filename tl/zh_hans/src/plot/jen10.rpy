@@ -490,7 +490,7 @@ translate zh_hans jen10_retry_81ac18b4:
 translate zh_hans jen10_retry_f9bbf50e:
 
     # jenny f_confused "Have you got my money yet?"
-    jenny f_confused "我的钱你搞到了吗？"
+    jenny f_confused "我的钱弄到了吗？"
 
 # game/src/plot/jen10.rpy:190
 translate zh_hans jen10_retry_ffae01ff:
@@ -1342,7 +1342,7 @@ translate zh_hans jen10_grace_d0c3afbf:
 translate zh_hans jen10_grace_f83cca47_1:
 
     # grace "We get pretty busy in the evenings but if you came before that we'd have time to chat and catch up."
-    grace "我们晚上会很忙，但如果你在那之前过来，我们就有时间聊天叙旧了。"
+    grace "我们晚上挺忙的，但如果你在那之前来，我们就有时间聊聊天，叙叙旧。"
 
 # game/src/plot/jen10.rpy:505
 translate zh_hans jen10_grace_bb43e3d5:
@@ -1366,13 +1366,13 @@ translate zh_hans jen10_grace_971e3304_1:
 translate zh_hans jen10_grace_dc9fabb3_1:
 
     # grace "Ah, you're probably busy, huh?"
-    grace "啊，你大概很忙吧？"
+    grace "啊，你可能挺忙的吧？"
 
 # game/src/plot/jen10.rpy:510
 translate zh_hans jen10_grace_e47efd05_1:
 
     # grace "What are you doing for work nowadays?"
-    grace "你现在在做什么工作？"
+    grace "你现在做什么工作？"
 
 # game/src/plot/jen10.rpy:513
 translate zh_hans jen10_grace_b6d0e1ac:
@@ -1576,7 +1576,7 @@ translate zh_hans jen10_grace_merge_139e5ec5:
 translate zh_hans jen10_grace_merge_7d45434b:
 
     # jenny f_annoyed -m_teeth "You know, [saga.cast.grace]... this has been fun and all, but I'm really busy, so if you don't mind?"
-    jenny f_annoyed -m_teeth "你知道，[saga.cast.grace]……这虽然挺有意思，但我真的很忙，所以你不介意的话？"
+    jenny f_annoyed -m_teeth "[saga.cast.grace]……叙旧是挺开心的，可我真的很忙。没别的事，我就先走了？"
 
 # game/src/plot/jen10.rpy:576
 translate zh_hans jen10_grace_merge_ed8381c6:
@@ -1600,7 +1600,7 @@ translate zh_hans jen10_grace_merge_d1119e2d:
 translate zh_hans jen10_grace_merge_f56d169b:
 
     # jenny "You know, [saga.cast.grace]... this has been fun and all, but we're busy, so if you don't mind?"
-    jenny "你知道，[saga.cast.grace]……这虽然挺有意思，但我们很忙，所以你不介意的话？"
+    jenny "[saga.cast.grace]……叙旧是挺开心的，可我们还有事。没别的事，我们就先走了？"
 
 # game/src/plot/jen10.rpy:584
 translate zh_hans jen10_grace_merge_2ca256ce:

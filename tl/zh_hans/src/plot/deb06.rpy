@@ -130,7 +130,7 @@ translate zh_hans deb06_lotion_49337ef6:
 translate zh_hans deb06_lotion_f19b1068:
 
     # anon @ -m_talk "( Oh, gee... my head is spinning... )"
-    anon @ -m_talk "（哦，天哪……我的头在转……）"
+    anon @ -m_talk "（哦，天哪……头好晕……）"
 
 # game/src/plot/deb06.rpy:82
 translate zh_hans deb06_lotion_81b7757c:
@@ -514,7 +514,7 @@ translate zh_hans deb06_lotion_merge_d9af8630:
 translate zh_hans deb06_lotion_merge_c02143cf:
 
     # debbie "I think you're just going through a rough time right now and maybe some wires got crossed, huh?"
-    debbie "我想你只是最近正处在一段难熬的时期，可能只是把一些念头弄混了，嗯？"
+    debbie "我想，你只是最近太难熬了，一时把自己的感情弄混了，是不是？"
 
 # game/src/plot/deb06.rpy:216
 translate zh_hans deb06_lotion_merge_54988811:

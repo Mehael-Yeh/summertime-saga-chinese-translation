@@ -4,7 +4,7 @@
 translate zh_hans tin_vault_tina_1c267275:
 
     # anon a_point_back f_curious "I don't suppose you'd wanna take a walk down to the vault?"
-    anon a_point_back f_curious "我想你不想去地下金库走一趟吧？"
+    anon a_point_back f_curious "要不要一起去下面的金库转转？"
 
 # game/src/plot/tin_vault.rpy:6
 translate zh_hans tin_vault_tina_2c05c847:
@@ -64,7 +64,7 @@ translate zh_hans tin_vault_tina_4a70ff32:
 translate zh_hans tin_vault_tina_549d8b2c:
 
     # tim "More business in the vault?"
-    tim "金库里的生意更多了？"
+    tim "又要去金库办事？"
 
 # game/src/plot/tin_vault.rpy:24
 translate zh_hans tin_vault_tina_85cd15ce:
@@ -364,7 +364,7 @@ translate zh_hans tin_vault_vault_37aed4bb:
 translate zh_hans tin_vault_vault_593dc275:
 
     # anon e_w f_worried "We're doing the money thing again, huh?"
-    anon e_w f_worried "我们又在干收钱这档事了，是吧？"
+    anon e_w f_worried "又来钱堆这一套，是吧？"
 
 # game/src/plot/tin_vault.rpy:161
 translate zh_hans tin_vault_vault_1ae76fb1:
@@ -430,7 +430,7 @@ translate zh_hans tin_vault_vault_cb00c159:
 translate zh_hans tin_vault_vault_30f1cad3:
 
     # anon a_top_off c_casual_bottom e_b f_calm @ -m_talk "( The things I do for these girls. )"
-    anon a_top_off c_casual_bottom e_b f_calm @ -m_talk "（我为这些女孩做的事。）"
+    anon a_top_off c_casual_bottom e_b f_calm @ -m_talk "（唉，为了这些女孩，我还真是什么都做了。）"
 
 # game/src/plot/tin_vault.rpy:177
 translate zh_hans tin_vault_vault_f39b6355:
@@ -820,7 +820,7 @@ translate zh_hans tin_vault_vault_merge1_f451e111:
 translate zh_hans tin_vault_vault_merge2_c0f6f473:
 
     # tina a_hips e_w "Phew, that was vigorous."
-    tina a_hips e_w "呼，真是激烈。"
+    tina a_hips e_w "呼，刚才可真够卖力的。"
 
 # game/src/plot/tin_vault.rpy:320
 translate zh_hans tin_vault_vault_merge2_a3df1f9d:
@@ -862,7 +862,7 @@ translate zh_hans tin_vault_vault_merge2_0613f655:
 translate zh_hans tin_vault_vault_merge2_42be5ed9:
 
     # anon a_uneasy "... So {i}insanely{/i} hot."
-    anon a_uneasy "……简直{i}是疯了{/i}地性感。"
+    anon a_uneasy "……性感得简直让人{i}发疯{/i}。"
 
 # game/src/plot/tin_vault.rpy:331
 translate zh_hans tin_vault_vault_merge2_112e6967:
@@ -898,7 +898,7 @@ translate zh_hans tin_vault_vault_merge2_72fdc67f:
 translate zh_hans tin_vault_vault_merge2_f8738405:
 
     # anon "So happy to amuse you."
-    anon "这么高兴能逗你笑。"
+    anon "能把你逗乐，我可真荣幸啊。"
 
 # game/src/plot/tin_vault.rpy:339
 translate zh_hans tin_vault_vault_merge2_c87fdca2:
@@ -922,7 +922,7 @@ translate zh_hans tin_vault_vault_merge2_36b37f6d:
 translate zh_hans tin_vault_vault_merge2_a8d8373d:
 
     # anon a_palm f_confused "You want help cleaning all this up?"
-    anon a_palm f_confused "你想帮忙收拾这些吗？"
+    anon a_palm f_confused "要我帮忙收拾这些吗？"
 
 # game/src/plot/tin_vault.rpy:346
 translate zh_hans tin_vault_vault_merge2_7596135d:
@@ -946,7 +946,7 @@ translate zh_hans tin_vault_vault_merge2_77db6d81:
 translate zh_hans tin_vault_vault_merge2_0292bd70:
 
     # tina "You go on and enjoy the rest of your day."
-    tina "你去享受剩下的一天吧。"
+    tina "你去忙吧，今天好好放松一下。"
 
 # game/src/plot/tin_vault.rpy:355
 translate zh_hans tin_vault_vault_merge2_22b25916:
@@ -1078,7 +1078,7 @@ translate zh_hans tin_vault_vault_alt_a7675e38:
 translate zh_hans tin_vault_vault_alt_6aafb70d:
 
     # tina o_left p_bottom_down_away_01 "Stop worrying and get your cute little butt up on the table."
-    tina o_left p_bottom_down_away_01 "别担心了，把你那可爱的小屁股放到桌上来。"
+    tina o_left p_bottom_down_away_01 "别担心了，把你那可爱的小屁股放到桌子上来。"
 
 # game/src/plot/tin_vault.rpy:409
 translate zh_hans tin_vault_vault_alt_d052b4f1:
@@ -1216,7 +1216,7 @@ translate zh_hans tin_vault_vault_rails_8e0fa9b4:
 translate zh_hans tin_vault_vault_rails_29f6a4ec:
 
     # anon @ -m_talk "( ... Time to catch up to [saga.cast.tina] down in the vault. )"
-    anon @ -m_talk "（…… 是时候追上在vault下面的[saga.cast.tina]了。）"
+    anon @ -m_talk "（……该去下面的金库找[saga.cast.tina]了。）"
 
 translate zh_hans strings:
 

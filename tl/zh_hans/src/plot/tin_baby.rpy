@@ -94,7 +94,7 @@ translate zh_hans tin_baby_wait_81ac18b4:
 translate zh_hans tin_baby_wait_935b2a37:
 
     # anon "I assume you're keeping it?"
-    anon "我猜你会留着它？"
+    anon "你打算留下这个孩子，对吧？"
 
 # game/src/plot/tin_baby.rpy:39
 translate zh_hans tin_baby_wait_96f05069:
@@ -118,7 +118,7 @@ translate zh_hans tin_baby_wait_1d7419a4:
 translate zh_hans tin_baby_wait_c1e0e11f:
 
     # anon f_shy_surprised "I want to be involved!"
-    anon f_shy_surprised "我想参与！"
+    anon f_shy_surprised "我想一起照顾孩子！"
 
 # game/src/plot/tin_baby.rpy:44
 translate zh_hans tin_baby_wait_21b8afb8:
@@ -130,7 +130,7 @@ translate zh_hans tin_baby_wait_21b8afb8:
 translate zh_hans tin_baby_wait_747cee09:
 
     # tina f_calm "Well, that's wonderful [saga.cast.anon], thank you!"
-    tina f_calm "嗯，那太好了[saga.cast.anon]，谢谢你！"
+    tina f_calm "那太好了，[saga.cast.anon]，谢谢你！"
 
 # game/src/plot/tin_baby.rpy:48
 translate zh_hans tin_baby_wait_a3df1f9d:
@@ -202,7 +202,7 @@ translate zh_hans tin_baby_wait_once_5a28ef47:
 translate zh_hans tin_baby_wait_once_a36ccec0:
 
     # tina "It's [saga.cast.tina]."
-    tina "这是[saga.cast.tina]。"
+    tina "我是[saga.cast.tina]。"
 
 # game/src/plot/tin_baby.rpy:75
 translate zh_hans tin_baby_wait_once_004db299:
@@ -562,7 +562,7 @@ translate zh_hans tin_baby_late_outro_212d6707:
 translate zh_hans tin_baby_late_outro_d01af0ed:
 
     # tina "That shouldn't be necessary but I appreciate the sentiment, [saga.cast.anon]."
-    tina "那应该没必要，但我很感激你的心意，[saga.cast.anon]。"
+    tina "应该用不着，不过你的心意我领了，[saga.cast.anon]。"
 
 # game/src/plot/tin_baby.rpy:196
 translate zh_hans tin_baby_late_outro_b7867d68:
@@ -610,7 +610,7 @@ translate zh_hans tin_baby_bump_misc1_5c58a4e2:
 translate zh_hans tin_baby_bump_misc1_f38d0a9b:
 
     # tina f_sad "Ugh, I forgot how much I hate morning sickness..."
-    tina f_sad "呃，我忘了多讨厌晨吐了……"
+    tina f_sad "唉，都快忘了孕吐有多折腾人了……"
 
 # game/src/plot/tin_baby.rpy:253
 translate zh_hans tin_baby_bump_misc1_debf68fc:
@@ -946,7 +946,7 @@ translate zh_hans tin_baby_warm_e65944d2:
 translate zh_hans tin_baby_warm_d06fe727:
 
     # becca f_shy "No, I'm not!"
-    becca f_shy "不，我没有！"
+    becca f_shy "我才不好呢！"
 
 # game/src/plot/tin_baby.rpy:393
 translate zh_hans tin_baby_warm_a0fa132b:
@@ -1000,7 +1000,7 @@ translate zh_hans tin_baby_warm_c321216c:
 translate zh_hans tin_baby_warm_53f6d1a0:
 
     # tina f_happy "That shouldn't be necessary but I appreciate the sentiment, [saga.cast.anon]."
-    tina f_happy "那应该没必要，但我感谢这份心意，[saga.cast.anon]。"
+    tina f_happy "应该用不着，不过你的心意我领了，[saga.cast.anon]。"
 
 # game/src/plot/tin_baby.rpy:412
 translate zh_hans tin_baby_warm_1247f70f:
@@ -1109,7 +1109,7 @@ translate zh_hans tin_baby_belly_misc1_c5115106:
 translate zh_hans tin_baby_belly_misc1_4a5a8a00:
 
     # tina f_calm "At least we're nearing the end."
-    tina f_calm "至少我们快结束了。"
+    tina f_calm "至少快到预产期了。"
 
 # game/src/plot/tin_baby.rpy:487
 translate zh_hans tin_baby_belly_misc1_76ee439a:
@@ -1342,7 +1342,7 @@ translate zh_hans tin_baby_meet_4e258915:
 translate zh_hans tin_baby_meet_f488bfe2:
 
     # anon "They're so beautiful!"
-    anon "她们太美了！"
+    anon "他们太漂亮了！"
 
 # game/src/plot/tin_baby.rpy:599
 translate zh_hans tin_baby_meet_f91bdb79:
@@ -1354,13 +1354,13 @@ translate zh_hans tin_baby_meet_f91bdb79:
 translate zh_hans tin_baby_meet_4d8e7b00:
 
     # tina "They're perfect!"
-    tina "她们真完美！"
+    tina "他们真完美！"
 
 # game/src/plot/tin_baby.rpy:605
 translate zh_hans tin_baby_meet_6c3416fc:
 
     # anon "I'll take it everything went fine with the delivery?"
-    anon "看来交付一切顺利吧？"
+    anon "看来分娩一切顺利？"
 
 # game/src/plot/tin_baby.rpy:607
 translate zh_hans tin_baby_meet_787bbbd9:
@@ -1372,7 +1372,7 @@ translate zh_hans tin_baby_meet_787bbbd9:
 translate zh_hans tin_baby_meet_a164f9b8:
 
     # anon "You could have called me, I would have been there holding your hand."
-    anon "你可以打电话给我，我会在那里握着你的手。"
+    anon "你当时可以打电话叫我来的，我也好握着你的手陪着你。"
 
 # game/src/plot/tin_baby.rpy:609
 translate zh_hans tin_baby_meet_c1258625:
@@ -1743,7 +1743,7 @@ translate zh_hans tin_baby_rest_sleep_99774382:
 translate zh_hans tin_baby_rest_sleep_b01b3ca7:
 
     # anon @ -m_talk "( ... They both look so peaceful. )"
-    anon @ -m_talk "（……他俩看起来都很平静。）"
+    anon @ -m_talk "（……她和宝宝都睡得那么安详。）"
 
 # game/src/plot/tin_baby.rpy:790
 translate zh_hans tin_baby_post_intro_c8186a9a:

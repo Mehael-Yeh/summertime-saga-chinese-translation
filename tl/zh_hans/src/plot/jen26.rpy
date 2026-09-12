@@ -2482,7 +2482,7 @@ translate zh_hans jen26_outro_merge_8e28119e:
 translate zh_hans jen26_outro_merge_4e279bcc:
 
     # jenny "Get that through your thick skull, dummy!"
-    jenny "给我把这句话塞进你那榆木脑袋里，笨蛋！"
+    jenny "给我记进你那榆木脑袋里，笨蛋！"
 
 # game/src/plot/jen26.rpy:877
 translate zh_hans jen26_outro_merge_133be4bc:

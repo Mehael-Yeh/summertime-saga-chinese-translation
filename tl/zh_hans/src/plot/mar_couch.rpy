@@ -417,7 +417,7 @@ translate zh_hans mar_couch_dusk1_f84cd8cc:
 
 
     # maria "Turns on The Falsettos and conks out 'til bed."
-    maria "打开《假声》，然后一觉睡到该上床睡。"
+    maria "打开《假声》，然后一路打盹到该上床的时候。"
 
 # game/src/plot/mar_couch.rpy:177
 translate zh_hans mar_couch_dusk1_e340d598:
@@ -860,7 +860,7 @@ translate zh_hans mar_couch_merge3_afc2a5f3:
 
 
     # tony "Bah, I ain't half as heavy a sleeper as she believes..."
-    tony "哼，我可没她以为的睡的那么死沉……"
+    tony "哼，我可没她想的睡得那么沉……"
 
 # game/src/plot/mar_couch.rpy:312
 translate zh_hans mar_couch_merge3_ca59384d:
@@ -926,7 +926,7 @@ translate zh_hans mar_couch_merge3_bd5ba053:
 
 
     # maria "See, I told ya it'd just take a second."
-    maria "看，我告诉过你这只需要一秒钟。"
+    maria "瞧，我就说很快吧。"
 
 # game/src/plot/mar_couch.rpy:330
 translate zh_hans mar_couch_merge3_8909ac06:
@@ -1265,7 +1265,7 @@ translate zh_hans mar_couch_dusk2_7e371f21:
 
 
     # maria "Are you ready for me?"
-    maria "你准备好迎接我的小穴了吗？"
+    maria "准备好了吗？"
 
 # game/src/plot/mar_couch.rpy:488
 translate zh_hans mar_couch_dusk2_c777540a:
@@ -2343,7 +2343,7 @@ translate zh_hans mar_couch_merge6_d9356f66:
 translate zh_hans mar_couch_merge6_bf85cef1:
 
     # maria e_b "{i}*Sigh*{/i} You and your baseball."
-    maria e_b "{i}*叹息*{/i} 你和你那棒球。"
+    maria e_b "{i}*叹息*{/i} 你呀，满脑子都是棒球。"
 
 # game/src/plot/mar_couch.rpy:879
 translate zh_hans mar_couch_merge6_442bfb9e:
@@ -2469,7 +2469,7 @@ translate zh_hans mar_couch_merge6_5860dbc0:
 translate zh_hans mar_couch_merge6_f17a23d7:
 
     # maria "You know he ain't of age."
-    maria "你知道他还没到法定年龄。"
+    maria "你明知道他还没到能喝酒的年纪。"
 
 # game/src/plot/mar_couch.rpy:913
 translate zh_hans mar_couch_merge6_66f2448c:
@@ -2505,7 +2505,7 @@ translate zh_hans mar_couch_merge6_e04da993:
 translate zh_hans mar_couch_merge6_f6fc2c2a:
 
     # anon "That's fine, thanks [saga.cast.tony]."
-    anon "没事，谢谢[saga.cast.tony]。"
+    anon "没问题，谢谢你，[saga.cast.tony]。"
 
 # game/src/plot/mar_couch.rpy:931
 translate zh_hans mar_couch_merge6_575458e9:
@@ -2589,7 +2589,7 @@ translate zh_hans mar_couch_noon1a_53c4bbfc:
 translate zh_hans mar_couch_noon1a_488f4a74:
 
     # tony "Suppose, I should leave ya to yer business."
-    tony "我想我该走了，让你忙你的。"
+    tony "那我就不打扰你们了。"
 
 # game/src/plot/mar_couch.rpy:964
 translate zh_hans mar_couch_noon1a_13ce197e:
@@ -2841,13 +2841,13 @@ translate zh_hans mar_couch_noon2_36a3c030:
 translate zh_hans mar_couch_noon2_79b62f7a:
 
     # tony f_horny "Heh, ya lookin' to have another romp?"
-    tony f_horny "嘿，想再来一次狂欢吗？"
+    tony f_horny "呵，又想跟她亲热了？"
 
 # game/src/plot/mar_couch.rpy:1030
 translate zh_hans mar_couch_noon2_8de7ebcb:
 
     # anon "Well, I mean... I wouldn't say no."
-    anon "嗯，我是说…… 我不会说不。"
+    anon "呃，我是说……真有这机会，我可不会拒绝。"
 
 # game/src/plot/mar_couch.rpy:1033
 translate zh_hans mar_couch_noon2_f2d4ad64:
@@ -2901,7 +2901,7 @@ translate zh_hans mar_couch_noon2_67cad8fd:
 translate zh_hans mar_couch_noon2_9d3446c4:
 
     # tony e_iw f_confused "The kid's here."
-    tony e_iw f_confused "孩子来了。"
+    tony e_iw f_confused "那小子来了。"
 
 # game/src/plot/mar_couch.rpy:1058
 translate zh_hans mar_couch_noon2_3ac51416:
@@ -2913,13 +2913,13 @@ translate zh_hans mar_couch_noon2_3ac51416:
 translate zh_hans mar_couch_noon2_3141b9d4:
 
     # tony f_horny "So, don't you wanna give him another tumble?"
-    tony f_horny "那你能不能让他再翻个跟头？"
+    tony f_horny "那你不想再跟他亲热一回？"
 
 # game/src/plot/mar_couch.rpy:1061
 translate zh_hans mar_couch_noon2_583fca3b:
 
     # maria a_fold f_sceptical "Tsk, really [saga.cast.tony]..."
-    maria a_fold f_sceptical "啧，真是的[saga.cast.tony]……"
+    maria a_fold f_sceptical "啧，真是的，[saga.cast.tony]……"
 
 # game/src/plot/mar_couch.rpy:1065
 translate zh_hans mar_couch_noon2_8f004edc:
@@ -3717,7 +3717,7 @@ translate zh_hans mar_couch_noon2a_467c9039:
 translate zh_hans mar_couch_noon2a_4c732248:
 
     # tony "Suppose I could do with a bite."
-    tony "想来我确实该吃点东西了。"
+    tony "这么说来，我还真该吃点东西了。"
 
 # game/src/plot/mar_couch.rpy:1331
 translate zh_hans mar_couch_noon2a_7e7b291c:
@@ -3735,7 +3735,7 @@ translate zh_hans mar_couch_noon2a_9f3bc17a:
 translate zh_hans mar_couch_noon2a_8be8cdf6:
 
     # maria "No we're good!"
-    maria "不，我们没事！"
+    maria "不用给我们带什么！"
 
 # game/src/plot/mar_couch.rpy:1334
 translate zh_hans mar_couch_noon2a_9e3f36f1:

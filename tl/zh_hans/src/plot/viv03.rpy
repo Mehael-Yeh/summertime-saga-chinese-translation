@@ -1438,7 +1438,7 @@ translate zh_hans viv03_viv_4d8b6ec6:
 translate zh_hans viv03_viv_f6640a44:
 
     # anon "I hope so! I really need to pass this class."
-    anon "希望如此！我真的需要及格这门课。"
+    anon "希望如此！这门课我可一定得及格。"
 
 # game/src/plot/viv03.rpy:763
 translate zh_hans viv03_viv_a31eafeb:
@@ -1708,7 +1708,7 @@ translate zh_hans viv03_viv_84b5a11f:
 translate zh_hans viv03_viv_d5e76918:
 
     # viv "{i}*Ahem*{/i} I'm sorry, [saga.cast.anon]. It seems we must cut this short once more."
-    viv "{i}*咳咳*{/i} 抱歉，[saga.cast.anon]。看来我们不得不再次提前结束了。"
+    viv "{i}*咳咳*{/i} 抱歉，[saga.cast.anon]。看来又得先到这里了。"
 
 # game/src/plot/viv03.rpy:859
 translate zh_hans viv03_viv_ab45840a:

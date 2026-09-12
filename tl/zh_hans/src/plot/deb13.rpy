@@ -1090,7 +1090,7 @@ translate zh_hans deb13_car_friends_ffb4c4fb:
 translate zh_hans deb13_car_friends_13aa800b:
 
     # josie "Heh, I've never been propositioned over the phone before..."
-    josie "呵，我还从没接到过电话性邀约呢……"
+    josie "呵，我还从没在电话里被人约过呢……"
 
 # game/src/plot/deb13.rpy:428
 translate zh_hans deb13_car_friends_f6bab7e5:
@@ -1318,13 +1318,13 @@ translate zh_hans deb13_car_merge_1906f24c:
 translate zh_hans deb13_car_merge_db30e94d:
 
     # josie "Someone will be out to service the car tomorrow [when[1]!l]."
-    josie "明天[when[1]！l]会有人过去修车。"
+    josie "明天[when[1]!l]会有人过去修车。"
 
 # game/src/plot/deb13.rpy:524
 translate zh_hans deb13_car_merge_50ef6cac:
 
     # josie "Earliest we can get someone out is [saga.time.dow + when[0]] [when[1]!l]."
-    josie "最早要到[saga.time.dow + when[0]] [when[1]！l]才能派人过去。"
+    josie "最早要到[saga.time.dow + when[0]] [when[1]!l]才能派人过去。"
 
 # game/src/plot/deb13.rpy:526
 translate zh_hans deb13_car_merge_7283290d:
@@ -1612,13 +1612,13 @@ translate zh_hans deb13_retry_22ab9f84:
 translate zh_hans deb13_retry_d6c6bbb1:
 
     # josie "I'll have someone out there tomorrow [when[1]!l]."
-    josie "明天[when[1]！l]我会派人过去。"
+    josie "明天[when[1]!l]我会派人过去。"
 
 # game/src/plot/deb13.rpy:672
 translate zh_hans deb13_retry_50ef6cac:
 
     # josie "Earliest we can get someone out is [saga.time.dow + when[0]] [when[1]!l]."
-    josie "最早要到[saga.time.dow + when[0]] [when[1]！l]才能派人过去。"
+    josie "最早要到[saga.time.dow + when[0]] [when[1]!l]才能派人过去。"
 
 # game/src/plot/deb13.rpy:675
 translate zh_hans deb13_retry_e0b1de4f:
@@ -1696,13 +1696,13 @@ translate zh_hans deb13_retry_cash_22ab9f84:
 translate zh_hans deb13_retry_cash_d6c6bbb1:
 
     # josie "I'll have someone out there tomorrow [when[1]!l]."
-    josie "明天[when[1]！l]我会派人过去。"
+    josie "明天[when[1]!l]我会派人过去。"
 
 # game/src/plot/deb13.rpy:756
 translate zh_hans deb13_retry_cash_50ef6cac:
 
     # josie "Earliest we can get someone out is [saga.time.dow + when[0]] [when[1]!l]."
-    josie "最早要到[saga.time.dow + when[0]] [when[1]！l]才能派人过去。"
+    josie "最早要到[saga.time.dow + when[0]] [when[1]!l]才能派人过去。"
 
 # game/src/plot/deb13.rpy:758
 translate zh_hans deb13_retry_cash_7b20a4ad:
@@ -1834,13 +1834,13 @@ translate zh_hans deb13_pause_debbie_7a5bcac4:
 translate zh_hans deb13_pause_debbie_de41959f:
 
     # anon "Yes, they're sending someone over tomorrow [when[1]!l]."
-    anon "有，他们明天[when[1]！l]会派人过来。"
+    anon "有，他们明天[when[1]!l]会派人过来。"
 
 # game/src/plot/deb13.rpy:860
 translate zh_hans deb13_pause_debbie_a00d1387:
 
     # anon "Yes, but the earliest they can get someone out is [saga.time.dow + when[0]] [when[1]!l]."
-    anon "有，不过最早要到[saga.time.dow + when[0]] [when[1]！l]才能派人过来。"
+    anon "有，不过最早要到[saga.time.dow + when[0]] [when[1]!l]才能派人过来。"
 
 # game/src/plot/deb13.rpy:867
 translate zh_hans deb13_pause_debbie_f39565c7:
@@ -1870,7 +1870,7 @@ translate zh_hans deb13_pause_josie_cbe42cda:
 translate zh_hans deb13_pause_josie_99c2be6b:
 
     # josie e_ssw "Tomorrow [when[1]!l]."
-    josie e_ssw "明天[when[1]！l]。"
+    josie e_ssw "明天[when[1]!l]。"
 
 # game/src/plot/deb13.rpy:882
 translate zh_hans deb13_pause_josie_e5ce3f83:

@@ -29,6 +29,8 @@ TRANSLATABLE_LINE_RE = re.compile(
 )
 
 SQUARE_RE = re.compile(r'\[[^\[\]\n]+\]')
+# The inner [index] match alone misses a corrupted outer conversion, e.g. [when[1]!l].
+NESTED_CONVERSION_RE = re.compile(r'\][!！][A-Za-z]+(?=\])')
 CURLY_RE = re.compile(r'\{[^{}\n]+\}')
 PRINTF_RE = re.compile(r'%\([^)]+\)[#0 +\-]?\d*(?:\.\d+)?[diouxXeEfFgGcrsa]|%(?!%)[#0 +\-]?\d*(?:\.\d+)?[diouxXeEfFgGcrsa]')
 
@@ -138,7 +140,8 @@ def tokens(text: str) -> Counter[str]:
     for token in CURLY_RE.findall(text):
         match = re.fullmatch(r'\{(dom|sub)=[^{}]+\}', token)
         curly.append(f'{{{match.group(1)}=*}}' if match else token)
-    found = SQUARE_RE.findall(text) + curly + PRINTF_RE.findall(text)
+    found = (SQUARE_RE.findall(text) + NESTED_CONVERSION_RE.findall(text)
+             + curly + PRINTF_RE.findall(text))
     return Counter(found)
 
 

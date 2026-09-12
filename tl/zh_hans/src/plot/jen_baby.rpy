@@ -341,14 +341,14 @@ translate zh_hans jen_baby_tell_ae4dd935:
 
 
     # anon @ -m_talk "( I'm not sure she knows how to feel right now... )"
-    anon @ -m_talk "（我不确定她现在是什么感受……）"
+    anon @ -m_talk "（恐怕连她自己都不知道该是什么心情……）"
 
 # game/src/plot/jen_baby.rpy:102
 translate zh_hans jen_baby_tell_0587d4a9:
 
 
     # anon @ -m_talk "( ... And what will [saga.cast.debbie] do when she finds out?! )"
-    anon @ -m_talk "（……要是她发现了，[saga.cast.debbie]会怎么做？！）"
+    anon @ -m_talk "（……[saga.cast.debbie]知道这事以后，会有什么反应？！）"
 
 # game/src/plot/jen_baby.rpy:105
 translate zh_hans jen_baby_tell_1b2fdb53:
@@ -796,7 +796,7 @@ translate zh_hans jen_baby_debbie_274a16fa:
 
 
     # debbie f_annoyed "Hey, stop it! Both of you!"
-    debbie f_annoyed "嘿，住手！你们俩！"
+    debbie f_annoyed "好了，都别吵了！你们两个！"
 
 # game/src/plot/jen_baby.rpy:348
 translate zh_hans jen_baby_debbie_5c07cb8b:
@@ -1321,7 +1321,7 @@ translate zh_hans jen_baby_bump_okay_6c0299c0:
 
 
     # jenny "No, I'm not okay!"
-    jenny "不，我不好！"
+    jenny "我才不好！"
 
 # game/src/plot/jen_baby.rpy:576
 translate zh_hans jen_baby_bump_okay_a0ce1a25:
@@ -1391,7 +1391,7 @@ translate zh_hans jen_baby_bump_okay_cdf35e9b:
 
 
     # jenny "You should be sorry!"
-    jenny "你该感到抱歉！"
+    jenny "你当然该道歉！"
 
 # game/src/plot/jen_baby.rpy:595
 translate zh_hans jen_baby_bump_okay_8cf4cd35:
@@ -5623,7 +5623,7 @@ translate zh_hans jen_baby_rest_clinic_baby_a027d98b:
 
 
     # jenny "Isn't she beautiful?"
-    jenny "她是不是很美？"
+    jenny "她是不是很漂亮？"
 
 # game/src/plot/jen_baby.rpy:2081
 translate zh_hans jen_baby_rest_clinic_baby_fa320b44:
@@ -5636,7 +5636,7 @@ translate zh_hans jen_baby_rest_clinic_baby_5e996d82:
 
 
     # jenny "Aren't they beautiful?"
-    jenny "他们是不是很美？"
+    jenny "他们是不是很漂亮？"
 
 # game/src/plot/jen_baby.rpy:2085
 translate zh_hans jen_baby_rest_clinic_baby_89e5e4c9:
@@ -6123,7 +6123,7 @@ translate zh_hans jen_baby_post_care_9da19bba:
 translate zh_hans jen_baby_post_care_c0081cd3:
 
     # anon @ f_happy "Heh, I never took you for the momma bear type..."
-    anon @ f_happy "呵，真没想到你会变成护崽母熊……"
+    anon @ f_happy "呵，真没想到你当了妈会这么护着孩子……"
 
 # game/src/plot/jen_baby.rpy:2251
 translate zh_hans jen_baby_post_care_92200270:

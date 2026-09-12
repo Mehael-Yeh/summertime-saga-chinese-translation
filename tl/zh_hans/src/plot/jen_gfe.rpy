@@ -1342,7 +1342,7 @@ translate zh_hans jen_gfe_jenny_alt_50b67c4a:
 translate zh_hans jen_gfe_jenny_alt_a69b90d1:
 
     # anon f_calm "... Maybe we should do this more often."
-    anon f_calm "……也许我们应该更经常这样做。"
+    anon f_calm "……也许以后可以多这样待在一起。"
 
 # game/src/plot/jen_gfe.rpy:500
 translate zh_hans jen_gfe_jenny_alt_7b3a9015:
@@ -1636,7 +1636,7 @@ translate zh_hans jen_gfe_jenny_merge2_b4eb6538:
 translate zh_hans jen_gfe_jenny_merge2_ea02c0a0:
 
     # jenny "[saga.cast.cedric] never wanted to do any of this lovey-dovey bullshit."
-    jenny "[saga.cast.cedric]从来都不想做这些卿卿我我的屁话。"
+    jenny "[saga.cast.cedric]从来都不肯陪我玩这些卿卿我我的破玩意儿。"
 
 # game/src/plot/jen_gfe.rpy:597
 translate zh_hans jen_gfe_jenny_merge2_04460948:

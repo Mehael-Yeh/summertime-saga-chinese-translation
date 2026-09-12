@@ -1102,7 +1102,7 @@ translate zh_hans jen_cam_sex_cde3ac00:
 translate zh_hans jen_cam_sex_0d8e7821:
 
     # anon f_confused "You're going to wear that again?"
-    anon f_confused "你又要穿那套？"
+    anon f_confused "你还打算穿那件吗？"
 
 # game/src/plot/jen_cam.rpy:487
 translate zh_hans jen_cam_sex_13364716:

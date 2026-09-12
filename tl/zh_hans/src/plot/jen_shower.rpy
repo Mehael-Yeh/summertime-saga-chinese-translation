@@ -412,7 +412,7 @@ translate zh_hans jen_shower_baby_0d81f120:
 translate zh_hans jen_shower_baby_9b0d3ba1:
 
     # anon "( Man, it's a shame she's so insecure about her pregnant body... )"
-    anon "（唉，可惜她这么不安自己的孕期身材……）"
+    anon "（唉，她这么介意自己怀孕后的身材，真可惜……）"
 
 # game/src/plot/jen_shower.rpy:179
 translate zh_hans jen_shower_baby_7884c0e1:

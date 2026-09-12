@@ -5084,7 +5084,7 @@ translate zh_hans ano15_pantry_poly_80df095b:
 translate zh_hans ano15_pantry_poly_1c7bc612:
 
     # maria e_wnw f_happy "Can you believe this kid, [saga.cast.tony]?!"
-    maria e_wnw f_happy "[saga.cast.tony]，你敢信这小子吗？！"
+    maria e_wnw f_happy "[saga.cast.tony]，瞧瞧这小子，多难得啊！"
 
 # game/src/plot/ano15.rpy:1701
 translate zh_hans ano15_pantry_poly_1e1824df:

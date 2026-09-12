@@ -666,7 +666,7 @@ translate zh_hans mel05_science_1855281c:
 # game/src/plot/mel05.rpy:393
 translate zh_hans mel05_science_54f1b9bb:
     # kevin "... Actually, I think I'm going to sit this part out too."
-    kevin "……事实上，我想我也不参与这部分的计划了。"
+    kevin "……其实，我想我也不参加这一步了。"
 
 # game/src/plot/mel05.rpy:396
 translate zh_hans mel05_science_aaabd872:
@@ -711,7 +711,7 @@ translate zh_hans mel05_science_cf53ba9f:
 # game/src/plot/mel05.rpy:414
 translate zh_hans mel05_science_b8567647:
     # anon "I guess I have to."
-    anon "我想我不得不这样做。"
+    anon "看来只能这样了。"
 
 # game/src/plot/mel05.rpy:417
 translate zh_hans mel05_science_3d4d23b8:

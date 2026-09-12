@@ -233,7 +233,7 @@ translate zh_hans deb_lobby_9b9e77d0:
 
 
     # debbie "NO!!"
-    debbie "不要！！"
+    debbie "没有！！"
 
 # game/src/plot/deb_lobby.rpy:112
 translate zh_hans deb_lobby_5ee6e6b4:

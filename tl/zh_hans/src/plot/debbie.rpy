@@ -226,7 +226,7 @@ translate zh_hans debbie_debbie_lobby_merge_17b5495c:
 translate zh_hans debbie_debbie_lobby_merge_09de778e:
 
     # debbie "Such a little charmer."
-    debbie "真是个小亲爱的。"
+    debbie "真是个嘴甜的小家伙。"
 
 # game/src/plot/debbie.rpy:222
 translate zh_hans debbie_debbie_lobby_merge_0da2a886:
@@ -238,7 +238,7 @@ translate zh_hans debbie_debbie_lobby_merge_0da2a886:
 translate zh_hans debbie_debbie_lobby_merge_daf2308a:
 
     # debbie "Hey, there's my little charmer."
-    debbie "嘿，我的小亲爱的来了。"
+    debbie "嘿，我那嘴甜的小家伙来了。"
 
 # game/src/plot/debbie.rpy:244
 translate zh_hans debbie_debbie_lobby_outro1_d73493ec:
@@ -1084,7 +1084,7 @@ translate zh_hans debbie_debbie_yard_swim2_e5aea99b:
 translate zh_hans debbie_debbie_yard_swim2_7fc38d25:
 
     # anon f_horny "When I realized I was living with such a sexy mama."
-    anon f_horny "当我意识到自己跟一个这么性感的老妈住在一起时。"
+    anon f_horny "从我发现自己居然跟这么性感的美人住在一起的时候起。"
 
 # game/src/plot/debbie.rpy:717
 translate zh_hans debbie_debbie_yard_swim2_032f4cd4:
@@ -1126,7 +1126,7 @@ translate zh_hans debbie_debbie_yard_swim3_dc590459:
 translate zh_hans debbie_debbie_yard_swim3_c0467c12:
 
     # debbie e_w f_happy "You're not even wearing your suit!"
-    debbie e_w f_happy "你连西装都没穿！"
+    debbie e_w f_happy "你连泳衣都没穿！"
 
 # game/src/plot/debbie.rpy:731
 translate zh_hans debbie_debbie_yard_swim3_8e57be12:

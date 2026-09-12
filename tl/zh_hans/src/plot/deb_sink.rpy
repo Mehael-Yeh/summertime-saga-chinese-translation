@@ -628,7 +628,7 @@ translate zh_hans deb_sink_merge3_898a5056:
 translate zh_hans deb_sink_merge3_26a9d325:
 
     # debbie e_w f_shy "Pretty sure we're having cereal this morning."
-    debbie e_w f_shy "我敢肯定今早我们吃麦片。"
+    debbie e_w f_shy "看来今天早上只能吃麦片了。"
 
 # game/src/plot/deb_sink.rpy:269
 translate zh_hans deb_sink_merge3_48715964:
@@ -658,7 +658,7 @@ translate zh_hans deb_sink_merge3_233bc563:
 translate zh_hans deb_sink_merge3_f13fb2e3:
 
     # anon a_wtf "But she'll get over it."
-    anon a_wtf "但她会没事的。"
+    anon a_wtf "不过她气一会儿也就好了。"
 
 # game/src/plot/deb_sink.rpy:275
 translate zh_hans deb_sink_merge3_2031e7c3:
@@ -772,7 +772,7 @@ translate zh_hans deb_sink_alt_6e934c23:
 translate zh_hans deb_sink_alt_00db40f4:
 
     # anon "You better believe it."
-    anon "你最好相信。"
+    anon "那还用说。"
 
 # game/src/plot/deb_sink.rpy:319
 translate zh_hans deb_sink_alt_b4d40bd4:

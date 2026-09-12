@@ -2032,7 +2032,7 @@ translate zh_hans deb23_car_54294cdd:
 translate zh_hans deb23_car_d273a451:
 
     # mono "The difference between that car journey and the previous was as night and day..." with fade
-    mono "接下来的车程和之前简直判若白昼与黑夜……" with fade
+    mono "接下来的车程，气氛和来时截然不同……" with fade
 
 # game/src/plot/deb23.rpy:768
 translate zh_hans deb23_car_e1c72b3a:
@@ -3118,7 +3118,7 @@ translate zh_hans deb23_car_merge2_bee68153:
 translate zh_hans deb23_car_merge2_44ffe522:
 
     # anon a_wtf "You've got curves in {i}all{/i} the right places."
-    anon a_wtf "你的曲线{i}全都{/i}长在最该长的地方。"
+    anon a_wtf "你身上{i}每一处{/i}曲线都恰到好处。"
 
 # game/src/plot/deb23.rpy:1230
 translate zh_hans deb23_car_merge2_f104b117:

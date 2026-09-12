@@ -1246,7 +1246,7 @@ translate zh_hans deb25_bed3_0b9e331f:
 translate zh_hans deb25_bed3_e0d57923:
 
     # anon "I'd say that went {i}pretty{/i} well!"
-    anon "我得说，刚才进展得{i}相当{/i}顺利！"
+    anon "刚才感觉{i}相当{/i}不错吧！"
 
 # game/src/plot/deb25.rpy:391
 translate zh_hans deb25_bed3_ad6829ad:

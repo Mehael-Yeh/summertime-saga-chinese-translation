@@ -41,7 +41,7 @@ translate zh_hans mel06_hall1_2f008241:
 # game/src/plot/mel06.rpy:29
 translate zh_hans mel06_hall1_0aa1b5b4:
     # kevin "Not for a while."
-    kevin "暂时不会。"
+    kevin "有一阵子没见着了。"
 
 # game/src/plot/mel06.rpy:30
 translate zh_hans mel06_hall1_88348bf3:
@@ -176,7 +176,7 @@ translate zh_hans mel06_office1_6dca7830:
 # game/src/plot/mel06.rpy:99
 translate zh_hans mel06_office1_20c6dfd4:
     # ursula "Stop fooling around, [saga.cast.annie]. We don't have time to waste!"
-    ursula "别亲热了，[saga.cast.annie]。我们没时间浪费！"
+    ursula "别胡闹了，[saga.cast.annie]。我们没时间浪费！"
 
 # game/src/plot/mel06.rpy:102
 translate zh_hans mel06_office1_ec5bd158:
@@ -1246,7 +1246,7 @@ translate zh_hans mel06_office4_72dd3373:
 # game/src/plot/mel06.rpy:684
 translate zh_hans mel06_office4_a5e12448:
     # melody "Heh, it's one of mine!"
-    melody "嘿，这可是我自己的一首！"
+    melody "呵，这首就是我写的！"
 
 # game/src/plot/mel06.rpy:687
 translate zh_hans mel06_office4_b42dc1f3:
@@ -1301,7 +1301,7 @@ translate zh_hans mel06_office4_d19ca33b:
 # game/src/plot/mel06.rpy:707
 translate zh_hans mel06_office4_7e2ba711:
     # melody "... And he needs to take a seat right here..."
-    melody "……而且他需要在这里坐下……"
+    melody "……现在，该请他坐到这儿来了……"
 
 # game/src/plot/mel06.rpy:710
 translate zh_hans mel06_office4_f96dd46b:
@@ -1316,7 +1316,7 @@ translate zh_hans mel06_office4_a97e2594:
 # game/src/plot/mel06.rpy:714
 translate zh_hans mel06_office4_4c154f14:
     # melody "It's only fair I return the favor."
-    melody "我当然应该回报这份好意。"
+    melody "那我也该好好回报你一下。"
 
 # game/src/plot/mel06.rpy:729
 translate zh_hans mel06_office4_b676b324:
@@ -1586,12 +1586,12 @@ translate zh_hans mel06_office4_c029f5b6:
 # game/src/plot/mel06.rpy:824
 translate zh_hans mel06_office4_60383330:
     # melody "Damn, that was good!"
-    melody "该死，那可真不错！"
+    melody "哇，刚才真够劲！"
 
 # game/src/plot/mel06.rpy:825
 translate zh_hans mel06_office4_07b9c58a:
     # melody "You got something special there, sugar!"
-    melody "你那儿有特别的东西，甜心！"
+    melody "甜心，你可真是天赋异禀！"
 
 # game/src/plot/mel06.rpy:826
 translate zh_hans mel06_office4_4b574788:
@@ -1601,7 +1601,7 @@ translate zh_hans mel06_office4_4b574788:
 # game/src/plot/mel06.rpy:833
 translate zh_hans mel06_office4_a2582b52:
     # melody "You gotta come back and do that again!"
-    melody "你得记得再回来做一次！"
+    melody "记得再来找我，咱们下次继续！"
 
 # game/src/plot/mel06.rpy:836
 translate zh_hans mel06_office4_503fd3fd:

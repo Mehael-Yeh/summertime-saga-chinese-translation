@@ -2481,7 +2481,7 @@ translate zh_hans deb26_shop_b2d1c497:
 translate zh_hans deb26_shop_b67c2496:
 
     # hana "My name is [saga.cast.hana]."
-    hana "我的名字是[saga.cast.hana]。"
+    hana "我是[saga.cast.hana]。"
 
 # game/src/plot/deb26.rpy:880
 translate zh_hans deb26_shop_2598c934:
@@ -2608,7 +2608,7 @@ translate zh_hans deb26_shop_f9c968ae:
 translate zh_hans deb26_shop_8f8c1140:
 
     # hana "Those are purely decorative."
-    hana "那些纯粹是装饰性的。"
+    hana "那些只是用来观赏的。"
 
 # game/src/plot/deb26.rpy:983
 translate zh_hans deb26_shop_3c9d070f:
@@ -3206,7 +3206,7 @@ translate zh_hans deb26_shop_2f513565:
 
 
     # anon a_table f_horny oa_hand z_b_f_of_a "Mm, they're nothing compared to you."
-    anon a_table f_horny oa_hand z_b_f_of_a "嗯，他们和你没法比。"
+    anon a_table f_horny oa_hand z_b_f_of_a "嗯，她们可没法跟你比。"
 
 # game/src/plot/deb26.rpy:1272
 translate zh_hans deb26_shop_8aeb02bf:
@@ -3494,7 +3494,7 @@ translate zh_hans deb26_shop_0f362cba:
 
 
     # debbie e_w "Heh, you might have to carry me to the car after a meal like this."
-    debbie e_w "嘿，吃完这顿我估计得让你扶我上车了。"
+    debbie e_w "呵，吃完这顿，你说不定得把我抱到车上了。"
 
 # game/src/plot/deb26.rpy:1398
 translate zh_hans deb26_shop_1a7fcac0:
@@ -3970,7 +3970,7 @@ translate zh_hans deb26_shop_merge1_5b9a2466:
 
 
     # anon "Ungh, I'm still stuffed."
-    anon "唔，我还撑着。"
+    anon "唔，我肚子还撑着呢。"
 
 # game/src/plot/deb26.rpy:1619
 translate zh_hans deb26_shop_merge1_c4af1234:

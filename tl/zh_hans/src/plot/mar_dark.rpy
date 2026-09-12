@@ -1173,7 +1173,7 @@ translate zh_hans mar_dark_maria_alt2_6876e8bd:
 
 
     # maria "See ya, [saga.cast.anon]."
-    maria "再见，[saga.cast.anon]。"
+    maria "回头见，[saga.cast.anon]。"
 
 # game/src/plot/mar_dark.rpy:523
 translate zh_hans mar_dark_maria_alt2_dc93c631:

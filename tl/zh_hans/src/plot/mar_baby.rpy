@@ -222,7 +222,7 @@ translate zh_hans mar_baby_tell_e085b70a:
 
 
     # anon "I'd be honored you guys..."
-    anon "我会很荣幸的，你们俩……"
+    anon "能当孩子的教父，是我的荣幸……"
 
 # game/src/plot/mar_baby.rpy:83
 translate zh_hans mar_baby_tell_37f0a377:
@@ -369,7 +369,7 @@ translate zh_hans mar_baby_tell_d3dfa632:
 
 
     # maria a_side "I love you boys!"
-    maria a_side "我爱你们，孩子们！"
+    maria a_side "我爱你们俩！"
 
 # game/src/plot/mar_baby.rpy:121
 translate zh_hans mar_baby_tell_bccb9b40:
@@ -805,7 +805,7 @@ translate zh_hans mar_baby_belly_misc1_86e81765:
 
 
     # maria e_s f_calm "I'll be glad to get this little one out of me."
-    maria e_s f_calm "我很高兴能把这个小东西从肚子里弄出来。"
+    maria e_s f_calm "我就盼着早点把这小家伙生下来。"
 
 # game/src/plot/mar_baby.rpy:420
 translate zh_hans mar_baby_belly_misc1_7f7d0e3e:
@@ -1147,7 +1147,7 @@ translate zh_hans mar_baby_meet_5f2cb802:
 
 
     # tony "I'm just as happy with a girl."
-    tony "我要是有个女儿也一样开心。"
+    tony "生女儿我也一样开心。"
 
 # game/src/plot/mar_baby.rpy:588
 translate zh_hans mar_baby_meet_07d946a9:
@@ -1193,7 +1193,7 @@ translate zh_hans mar_baby_meet_49378498:
 
 
     # maria "I can't believe I'm actually holding my child right now..."
-    maria "真不敢相信我现在真的抱着我的孩子……"
+    maria "真不敢相信，我现在居然正抱着自己的孩子……"
 
 # game/src/plot/mar_baby.rpy:608
 translate zh_hans mar_baby_meet_d8165d45:
@@ -1240,7 +1240,7 @@ translate zh_hans mar_baby_meet_72393f26:
 
 
     # maria @ e_w f_horny "And his father's chin."
-    maria @ e_w f_horny "还有他父亲的下巴。"
+    maria @ e_w f_horny "下巴像爸爸。"
 
 # game/src/plot/mar_baby.rpy:624
 translate zh_hans mar_baby_meet_89470b95:
@@ -1282,13 +1282,13 @@ translate zh_hans mar_baby_meet_6013f225:
 translate zh_hans mar_baby_meet_83b1edd3:
 
     # tony "They got their mama's eyes."
-    tony "他们遗传了妈妈的眼睛。"
+    tony "他们的眼睛像妈妈。"
 
 # game/src/plot/mar_baby.rpy:637
 translate zh_hans mar_baby_meet_2942e029:
 
     # maria @ e_w f_horny "And their father's ears."
-    maria @ e_w f_horny "还有爸爸的耳朵。"
+    maria @ e_w f_horny "耳朵像爸爸。"
 
 # game/src/plot/mar_baby.rpy:643
 translate zh_hans mar_baby_meet_40134cc5:
@@ -1443,7 +1443,7 @@ translate zh_hans mar_baby_meet_4275956f:
 
 
     # anon "I'm your godfather, [saga.cast.anon]."
-    anon "我是你们的教父，[saga.cast.anon]。"
+    anon "我是教父[saga.cast.anon]。"
 
 # game/src/plot/mar_baby.rpy:703
 translate zh_hans mar_baby_meet_b0b9b39e:
@@ -1529,7 +1529,7 @@ translate zh_hans mar_baby_meet_1a3a9431:
 
 
     # tony "I'll be back in action this evening."
-    tony "我今晚就能重新行动。"
+    tony "我今晚就能回来干活了。"
 
 # game/src/plot/mar_baby.rpy:732
 translate zh_hans mar_baby_meet_9ea41075:
@@ -1542,7 +1542,7 @@ translate zh_hans mar_baby_meet_cb02c49c:
 
 
     # tony "If you're up to it, there'll be pizzas that need deliverin'!"
-    tony "如果你愿意，会有披萨需要送的！"
+    tony "你要是有空，店里还有披萨等着你送呢！"
 
 # game/src/plot/mar_baby.rpy:737
 translate zh_hans mar_baby_meet_0a01c03b:
@@ -1816,7 +1816,7 @@ translate zh_hans mar_baby_rest_misc1_f86f0851:
 translate zh_hans mar_baby_rest_misc1_f4d428f9:
 
     # maria "It's like you got orangutan hands or somethin'."
-    maria "你的手简直跟大猩猩一样，什么的。"
+    maria "你这双手简直跟猩猩爪子似的。"
 
 # game/src/plot/mar_baby.rpy:884
 translate zh_hans mar_baby_rest_misc1_859736a5:
@@ -1951,13 +1951,13 @@ translate zh_hans mar_baby_rest_misc2_eccfcf91:
 translate zh_hans mar_baby_rest_misc2_2961ff61:
 
     # maria e_s f_shy "Goodness knows there'll be no time for that once we get these little ones home."
-    maria e_s f_shy "天知道一等把这些小家伙接回家，就再也没时间弄那个了。"
+    maria e_s f_shy "天知道，等这些小家伙接回家，哪还有时间好好睡觉。"
 
 # game/src/plot/mar_baby.rpy:943
 translate zh_hans mar_baby_rest_misc2_dfb0966b:
 
     # maria e_s f_shy "Goodness knows there'll be no time for that once we get this little one home."
-    maria e_s f_shy "天知道一等把这个小家伙接回家，就再也没时间弄那个了。"
+    maria e_s f_shy "天知道，等这个小家伙接回家，哪还有时间好好睡觉。"
 
 # game/src/plot/mar_baby.rpy:946
 translate zh_hans mar_baby_rest_misc2_e34ca210:
@@ -2169,7 +2169,7 @@ translate zh_hans mar_baby_home_bd93e59c:
 
 
     # tony e_s f_sad "Can you believe that guy?"
-    tony e_s f_sad "你能相信那家伙吗？"
+    tony e_s f_sad "你说那家伙是不是太不像话了？"
 
 # game/src/plot/mar_baby.rpy:1035
 translate zh_hans mar_baby_home_9db5fb33:
@@ -2216,21 +2216,21 @@ translate zh_hans mar_baby_home_97576398:
 translate zh_hans mar_baby_home_a9981edb:
 
     # tony "Hold your godson for a second, would ya?"
-    tony "抱一下你的教子，行不？"
+    tony "帮我抱一下你的教子，行吗？"
 
 # game/src/plot/mar_baby.rpy:1051
 translate zh_hans mar_baby_home_319d50fa:
 
 
     # tony "Hold your goddaughter for a second, would ya?"
-    tony "帮我抱一下你干女儿，行吗？"
+    tony "帮我抱一下你的教女，行吗？"
 
 # game/src/plot/mar_baby.rpy:1053
 translate zh_hans mar_baby_home_79ffffc6:
 
 
     # tony "Hold your godchildren for a second, would ya?"
-    tony "帮我抱一会儿你们的教子，行吗？"
+    tony "帮我抱一下你的教子们，行吗？"
 
 # game/src/plot/mar_baby.rpy:1058
 translate zh_hans mar_baby_home_70f8efee:
@@ -2344,7 +2344,7 @@ translate zh_hans mar_baby_home_50684d6f:
 
 
     # maria "Why is the baby cryin', [saga.cast.tony]?"
-    maria "为什么宝宝在哭，[saga.cast.tony]？"
+    maria "宝宝怎么哭起来了，[saga.cast.tony]？"
 
 # game/src/plot/mar_baby.rpy:1111
 translate zh_hans mar_baby_home_3d0dd838:
@@ -2356,14 +2356,14 @@ translate zh_hans mar_baby_home_3d0dd838:
 translate zh_hans mar_baby_home_6879545b:
 
     # tony "Ahh, the baby's fine!"
-    tony "啊，宝宝很好！"
+    tony "啊，宝宝没事！"
 
 # game/src/plot/mar_baby.rpy:1117
 translate zh_hans mar_baby_home_bbef05f5:
 
 
     # tony "Just a little shakin' up by the scuffle I had on telephone, that's all."
-    tony "只是我电话里吵架时有点激动，没事。"
+    tony "就是刚才我在电话里跟人吵了几句，把孩子吓着了，没别的。"
 
 # game/src/plot/mar_baby.rpy:1118
 translate zh_hans mar_baby_home_18fecd4a:

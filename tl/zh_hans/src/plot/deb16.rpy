@@ -1438,7 +1438,7 @@ translate zh_hans deb16_tv_d3a13ce5_1:
 translate zh_hans deb16_tv_f7d13eb9:
 
     # debbie "I can't believe somebody thought this was a good idea for a porn narrative."
-    debbie "真不敢相信有人会觉得这种色情片剧情是个好主意。"
+    debbie "真不敢相信，居然有人觉得色情片该拍这种剧情。"
 
 # game/src/plot/deb16.rpy:445
 translate zh_hans deb16_tv_507d4792:
@@ -1618,7 +1618,7 @@ translate zh_hans deb16_tv_e93be72c:
 translate zh_hans deb16_tv_53118908:
 
     # debbie "Now go to bed."
-    debbie "现在去睡觉。"
+    debbie "好啦，去睡觉吧。"
 
 # game/src/plot/deb16.rpy:493
 translate zh_hans deb16_tv_60951c5f:

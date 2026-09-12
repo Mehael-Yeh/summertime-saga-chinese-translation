@@ -1066,7 +1066,7 @@ translate zh_hans jen18_retry_plan_944cf4f1:
 translate zh_hans jen18_retry_plan_cb3461ea:
 
     # anon e_w f_worried "Something came up and I-"
-    anon e_w f_worried "出了点事，我——"
+    anon e_w f_worried "突然有点事，我——"
 
 # game/src/plot/jen18.rpy:440
 translate zh_hans jen18_outro_bed2_318cd96f:

@@ -10,7 +10,7 @@ translate zh_hans tor_office_69dc1585:
 translate zh_hans tor_office_3b0f8b36:
 
     # tori "Why, have you come for another round of testing?"
-    tori "怎么，你又来一轮测试了？"
+    tori "怎么，又想来做一轮测试？"
 
 # game/src/plot/tor_office.rpy:10
 translate zh_hans tor_office_2a032bf9:
@@ -334,13 +334,13 @@ translate zh_hans tor_office_busy_d3501819:
 translate zh_hans tor_office_busy_bfe78f8f:
 
     # tori "Not now, [saga.cast.anon]!"
-    tori "别现在，[saga.cast.anon]！"
+    tori "现在不行，[saga.cast.anon]！"
 
 # game/src/plot/tor_office.rpy:172
 translate zh_hans tor_office_busy_b0c09aa9:
 
     # tori "Can't you see I'm close to a breakthrough here?!"
-    tori "你没看到我马上要突破了吗？！"
+    tori "没看见我的研究马上就要有突破了吗？！"
 
 # game/src/plot/tor_office.rpy:174
 translate zh_hans tor_office_busy_774a175e:

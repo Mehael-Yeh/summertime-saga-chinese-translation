@@ -271,7 +271,7 @@ translate zh_hans jen14_dining_9c0a20c0:
 
 
     # jenny f_annoyed -m_teeth "I've been trying, he won't answer."
-    jenny f_annoyed -m_teeth "我一直在尝试，他不接。"
+    jenny f_annoyed -m_teeth "我一直在打，他就是不接。"
 
 # game/src/plot/jen14.rpy:74
 translate zh_hans jen14_dining_fbc4aa20:
@@ -341,7 +341,7 @@ translate zh_hans jen14_dining_67889e5a:
 
 
     # jenny e_w f_annoyed -m_teeth "Will you go down to the gym and tell that asshole to call me?"
-    jenny e_w f_annoyed -m_teeth "你愿意去健身房告诉那个混蛋给我打电话吗？"
+    jenny e_w f_annoyed -m_teeth "你去趟健身房，叫那个混蛋给我回电话，行不行？"
 
 # game/src/plot/jen14.rpy:98
 translate zh_hans jen14_dining_bc023374:
@@ -355,7 +355,7 @@ translate zh_hans jen14_dining_76e33cae:
 
 
     # jenny "Oh, c'mon [saga.cast.anon]."
-    jenny "哦，拜托了[saga.cast.anon]。"
+    jenny "哎呀，拜托了，[saga.cast.anon]。"
 
 # game/src/plot/jen14.rpy:100
 translate zh_hans jen14_dining_bab467c4:
@@ -397,7 +397,7 @@ translate zh_hans jen14_dining_c77f5675:
 
 
     # jenny f_annoyed -m_teeth "What if, I get naked for you again?"
-    jenny f_annoyed -m_teeth "如果，我再次为你脱光呢？"
+    jenny f_annoyed -m_teeth "那我再脱光给你看，怎么样？"
 
 # game/src/plot/jen14.rpy:107
 translate zh_hans jen14_dining_5a06c921:
@@ -543,7 +543,7 @@ translate zh_hans jen14_dining_29784ffc:
 
 
     # anon "I was still eating, you know?!"
-    anon "我当时还在吃东西，你知道吗？！"
+    anon "我早饭还没吃完呢？！"
 
 # game/src/plot/jen14.rpy:159
 translate zh_hans jen14_dining_7445b0ff:
@@ -612,7 +612,7 @@ translate zh_hans jen14_dining_e069896a:
 
 
     # jenny a_hips e_w f_annoyed p_stand "I want [saga.cast.cedric] to call me ASAP!"
-    jenny a_hips e_w f_annoyed p_stand "我希望[saga.cast.cedric]尽快给我打电话！"
+    jenny a_hips e_w f_annoyed p_stand "我要[saga.cast.cedric]马上给我回电话！"
 
 # game/src/plot/jen14.rpy:196
 translate zh_hans jen14_dining_052c532e:
@@ -737,7 +737,7 @@ translate zh_hans jen14_dining_37848721:
 translate zh_hans jen14_dining_c7b812fb:
 
     # jenny "That's plenty for today!"
-    jenny "今天就到此为止吧！"
+    jenny "今天就到这儿了！"
 
 # game/src/plot/jen14.rpy:236
 translate zh_hans jen14_dining_5bc69470:
@@ -876,7 +876,7 @@ translate zh_hans jen14_dining_alt_c7b812fb:
 
 
     # jenny "That's plenty for today!"
-    jenny "今天够了！"
+    jenny "今天就到这儿了！"
 
 # game/src/plot/jen14.rpy:279
 translate zh_hans jen14_dining_alt_b6766abd:
@@ -906,13 +906,13 @@ translate zh_hans jen14_dining_alt_34a3e871:
 translate zh_hans jen14_dining_alt_8380e820:
 
     # anon @ f_sceptical "Where did you say I could find him?"
-    anon @ f_sceptical "你说我在哪里可以找到他？"
+    anon @ f_sceptical "你说哪里能找到他？"
 
 # game/src/plot/jen14.rpy:284
 translate zh_hans jen14_dining_alt_8b6854de:
 
     # jenny f_annoyed -m_teeth "He'll probably be at the gym, that meathead is always at the gym."
-    jenny f_annoyed -m_teeth "他很可能在健身房，那个肌肉发达的家伙总是泡在健身房。"
+    jenny f_annoyed -m_teeth "他多半在健身房，那个肌肉白痴整天泡在健身房。"
 
 # game/src/plot/jen14.rpy:285
 translate zh_hans jen14_dining_alt_4cef1fdf:
@@ -1243,4 +1243,4 @@ translate zh_hans jen14_jenny_8954e945:
 
 
     # anon @ -m_talk "( I should probably give her space until she calms down. )"
-    anon @ -m_talk "（我可能应该给她空间，直到她冷静下来。）"
+    anon @ -m_talk "（还是先别烦她，等她消消气吧。）"

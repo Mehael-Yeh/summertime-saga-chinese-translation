@@ -346,7 +346,7 @@ translate zh_hans tor06_office2_98d1ae45:
 translate zh_hans tor06_office2_4ba08199:
 
     # anon "What happens when it-"
-    anon "当它——会发生什么——"
+    anon "它启动以后会——"
 
 # game/src/plot/tor06.rpy:157
 translate zh_hans tor06_office2_66f4e5a8_1:
@@ -442,7 +442,7 @@ translate zh_hans tor06_office2_af1a3788:
 translate zh_hans tor06_office2_26827b69:
 
     # anon "I am so confused..."
-    anon "我太困惑了……"
+    anon "我都搞糊涂了……"
 
 # game/src/plot/tor06.rpy:204
 translate zh_hans tor06_office2_ce68ff8a:
@@ -478,7 +478,7 @@ translate zh_hans tor06_office2_4045dc77:
 translate zh_hans tor06_office2_bb48c310:
 
     # anon "... But what is the purpose of all this?"
-    anon "……但是这一切的目的是什么？"
+    anon "……可弄这些到底是为了什么？"
 
 # game/src/plot/tor06.rpy:214
 translate zh_hans tor06_office2_455c3397:
@@ -904,7 +904,7 @@ translate zh_hans tor06_office2_reuse_5009af2f:
 translate zh_hans tor06_office2_reuse_50e7141b:
 
     # tori "I think you've earned your A."
-    tori "我想你值得一个A。"
+    tori "看来该给你个A。"
 
 # game/src/plot/tor06.rpy:386
 translate zh_hans tor06_office2_reuse_b42dc1f3:
@@ -946,7 +946,7 @@ translate zh_hans tor06_office2_reuse_f4c0268e:
 translate zh_hans tor06_office2_reuse_dbcc4378:
 
     # tori "A {i}lot{/i} more testing!"
-    tori "{i}很多{/i}更多的测试！"
+    tori "还要{i}多得多{/i}的测试！"
 
 # game/src/plot/tor06.rpy:405
 translate zh_hans tor06_office2_reuse_afd0c3bf:
@@ -964,13 +964,13 @@ translate zh_hans tor06_office2_reuse_97ba4118:
 translate zh_hans tor06_office2_reuse_c4bf76fd:
 
     # tori "That... really wasn't any less intense..."
-    tori "那……真的一点都没减轻强度……"
+    tori "刚才……感觉一点也没变弱……"
 
 # game/src/plot/tor06.rpy:412
 translate zh_hans tor06_office2_reuse_a8d0c653:
 
     # tori "... At some point it {i}must{/i} normalise!"
-    tori "……总有一天它{i}必须{/i}变得正常！"
+    tori "……总{i}该{/i}有习惯的时候吧！"
 
 # game/src/plot/tor06.rpy:415
 translate zh_hans tor06_office2_reuse_ab7c6f99:

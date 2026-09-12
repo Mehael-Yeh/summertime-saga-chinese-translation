@@ -82,7 +82,7 @@ translate zh_hans debbie_rug_alt_abca737e:
 translate zh_hans debbie_rug_alt_cd588d87:
 
     # jenny "Ahh, but I can't decide between the red convertable and the black-"
-    jenny "啊，但我没法在红色敞篷车和黑色——之间做决定"
+    jenny "啊，可我拿不定主意，是要红色敞篷车，还是黑色——"
 
 # game/src/plot/debbie_rug.rpy:25
 translate zh_hans debbie_rug_alt_48d17bc1:

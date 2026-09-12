@@ -231,7 +231,7 @@ translate zh_hans mel04_eve_6d26bad1:
 # game/src/plot/mel04.rpy:85
 translate zh_hans mel04_eve_70b4e45b:
     # eve "Just be there [saga.time.dow + when] afternoon."
-    eve "明天[saga.time.dow + when]下午到那就行。"
+    eve "[saga.time.dow + when]下午到那儿就行。"
 
 # game/src/plot/mel04.rpy:88
 translate zh_hans mel04_eve_4641623d:
@@ -296,7 +296,7 @@ translate zh_hans mel04_eve_34fc41ac:
 # game/src/plot/mel04.rpy:111
 translate zh_hans mel04_eve_f602010e:
     # anon "I guess, I'll just catch you [saga.time.dow + when] then."
-    anon "我想，那就明天再找你[saga.time.dow + when]吧。"
+    anon "那就[saga.time.dow + when]再找你吧。"
 
 # game/src/plot/mel04.rpy:113
 translate zh_hans mel04_eve_1e6b41ea:
@@ -856,7 +856,7 @@ translate zh_hans mel04_office4b_612fa233:
 # game/src/plot/mel04.rpy:551
 translate zh_hans mel04_office4b_0a05b29a:
     # anon "I suppose it is getting late."
-    anon "我想时间不早了。"
+    anon "看来时间不早了。"
 
 # game/src/plot/mel04.rpy:562
 translate zh_hans mel04_office4b_32694c72:
@@ -876,12 +876,12 @@ translate zh_hans mel04_office4b_cd857a90:
 # game/src/plot/mel04.rpy:566
 translate zh_hans mel04_office4b_16ba9190:
     # melody "Thanks again for today, [saga.cast.anon]. It really was an incredible surprise!"
-    melody "再次感谢今天的一切，[saga.cast.anon]。这真是个令人难以置信的惊喜！"
+    melody "今天真是谢谢你了，[saga.cast.anon]。这份惊喜太棒了！"
 
 # game/src/plot/mel04.rpy:569
 translate zh_hans mel04_office4b_951c8eca:
     # anon "My pleasure, [saga.cast.melody]."
-    anon "我的荣幸, [saga.cast.melody]."
+    anon "不客气，[saga.cast.melody]。"
 
 # game/src/plot/mel04.rpy:570
 translate zh_hans mel04_office4b_2f75606d:

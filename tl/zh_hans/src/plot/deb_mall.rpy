@@ -208,7 +208,7 @@ translate zh_hans deb_mall_debbie_8f0b9a46:
 translate zh_hans deb_mall_debbie_12fbd905:
 
     # debbie "That's why you're my sweetie..."
-    debbie "所以你是我的亲爱的……"
+    debbie "所以我才这么疼你呀……"
 
 # game/src/plot/deb_mall.rpy:118
 translate zh_hans deb_mall_debbie_978bdd1c:
@@ -358,7 +358,7 @@ translate zh_hans deb_mall_debbie_merge1_678c5e13:
 translate zh_hans deb_mall_debbie_merge1_1968f882:
 
     # anon f_horny "C'mon [saga.cast.debbie]..."
-    anon f_horny "来吧[saga.cast.debbie]……"
+    anon f_horny "来嘛，[saga.cast.debbie]……"
 
 # game/src/plot/deb_mall.rpy:200
 translate zh_hans deb_mall_debbie_merge1_2ccea002:
@@ -1180,7 +1180,7 @@ translate zh_hans deb_mall_debbie_merge3_845a0b99:
 translate zh_hans deb_mall_debbie_merge3_c49b3e5e:
 
     # anon e_sse f_shy "For uhh... you know."
-    anon e_sse f_shy "为了……呐……你懂的。"
+    anon e_sse f_shy "就是……呃，你懂的。"
 
 # game/src/plot/deb_mall.rpy:504
 translate zh_hans deb_mall_debbie_merge3_7c0012c7:
@@ -1498,7 +1498,7 @@ translate zh_hans deb_mall_debbie_blowjob_9063357c:
 translate zh_hans deb_mall_debbie_blowjob_ea3fdd0d:
 
     # anon "I'd say you do."
-    anon "我觉得你确实会。"
+    anon "那可不是嘛。"
 
 # game/src/plot/deb_mall.rpy:617
 translate zh_hans deb_mall_debbie_blowjob_72ac7095:
@@ -1546,7 +1546,7 @@ translate zh_hans deb_mall_debbie_busy_bded37f9:
 translate zh_hans deb_mall_debbie_busy_4d0fde93:
 
     # anon "Nah, I'm good."
-    anon "不了，我没事。"
+    anon "不用，我没什么要买的。"
 
 # game/src/plot/deb_mall.rpy:635
 translate zh_hans deb_mall_debbie_busy_c8276e40:
@@ -1870,7 +1870,7 @@ translate zh_hans deb_mall_debbie_garage_4be5dcde:
 translate zh_hans deb_mall_debbie_garage_b0299f3b:
 
     # anon a_uneasy e_w f_shy "Sorry, I wasn't thinking."
-    anon a_uneasy e_w f_shy "抱歉，我走神了。"
+    anon a_uneasy e_w f_shy "抱歉，是我没考虑周全。"
 
 # game/src/plot/deb_mall.rpy:764
 translate zh_hans deb_mall_debbie_garage_080aa02c:
@@ -1894,7 +1894,7 @@ translate zh_hans deb_mall_debbie_garage_dcb8ba32:
 translate zh_hans deb_mall_debbie_garage_9d4f7997:
 
     # debbie f_horny "We can have some private time before we head inside."
-    debbie f_horny "我们可以在进去之前享受点私人时间。"
+    debbie f_horny "进去之前，咱们可以先单独待一会儿。"
 
 # game/src/plot/deb_mall.rpy:768
 translate zh_hans deb_mall_debbie_garage_f4e729a3:
@@ -1930,7 +1930,7 @@ translate zh_hans deb_mall_debbie_garage_48907fb1:
 translate zh_hans deb_mall_debbie_garage_7f69f6e2:
 
     # mono "Maybe it was all the anticipation of what awaited us at our destination."
-    mono "也许是因为我们对目的地所期待的一切。"
+    mono "也许是因为一想到回家后会发生什么，我们就格外期待。"
 
 # game/src/plot/deb_mall.rpy:787
 translate zh_hans deb_mall_debbie_garage_244909c7:
@@ -2092,7 +2092,7 @@ translate zh_hans deb_mall_debbie_garage_b93b69e7:
 translate zh_hans deb_mall_debbie_garage_52b82449:
 
     # debbie "Mmm, my pleasure, sweetie."
-    debbie "嗯，我的荣幸，亲爱的。"
+    debbie "嗯，不客气，亲爱的。"
 
 # game/src/plot/deb_mall.rpy:865
 translate zh_hans deb_mall_debbie_garage_af7d8b54:
@@ -2248,7 +2248,7 @@ translate zh_hans deb_mall_debbie_garage_1e9d872f:
 translate zh_hans deb_mall_debbie_garage_b6fe8b14:
 
     # anon a_side_knee e_w f_shy "I'm sure Dad had some rags stored out here somewhere."
-    anon a_side_knee e_w f_shy "我肯定爸爸把一些抹布存放在这附近的某个地方。"
+    anon a_side_knee e_w f_shy "爸爸应该在这附近放过几块抹布。"
 
 # game/src/plot/deb_mall.rpy:925
 translate zh_hans deb_mall_debbie_handjob_a5067c7d:
@@ -2284,7 +2284,7 @@ translate zh_hans deb_mall_debbie_handjob_4952299c:
 translate zh_hans deb_mall_debbie_handjob_5a3b989a:
 
     # debbie "There's my big boy."
-    debbie "这才是我大男孩。"
+    debbie "这才是我的大男孩。"
 
 # game/src/plot/deb_mall.rpy:936
 translate zh_hans deb_mall_debbie_handjob_5d584aaf:
@@ -2446,13 +2446,13 @@ translate zh_hans deb_mall_debbie_handjob_a606823b:
 translate zh_hans deb_mall_debbie_handjob_a713bab2:
 
     # mono "Being the responsible adults we both were, we'd {i}definitely{/i} remembered that tissues are a valuable addition to any vehicle." with fade
-    mono "我们两个作为负责任的成年人，我们{i}肯定{/i}记得纸巾是任何车辆中的宝贵补充。" with fade
+    mono "身为两个负责任的成年人，我们{i}当然{/i}记得，车里备点纸巾很有用。" with fade
 
 # game/src/plot/deb_mall.rpy:989
 translate zh_hans deb_mall_debbie_handjob_69ca6ffb:
 
     # mono "It was just too bad that neither of us had remembered to actually get some."
-    mono "只可惜我们谁都没想起要带一些。"
+    mono "只可惜，谁也没想起来真的带上几张。"
 
 # game/src/plot/deb_mall.rpy:1003
 translate zh_hans deb_mall_debbie_merge4_bbf487a0:

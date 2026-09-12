@@ -82,13 +82,13 @@ translate zh_hans deb_kitchen_6f72da3a:
 translate zh_hans deb_kitchen_41ea19ee:
 
     # debbie "I suppose... it has been awhile... since we..."
-    debbie "我想……这小东西确实有一阵子……没……"
+    debbie "也是……我们确实有一阵子……没……"
 
 # game/src/plot/deb_kitchen.rpy:38
 translate zh_hans deb_kitchen_d0a21720:
 
     # anon "Fucked?"
-    anon "被肏了？"
+    anon "肏了？"
 
 # game/src/plot/deb_kitchen.rpy:40
 translate zh_hans deb_kitchen_4d52056f:

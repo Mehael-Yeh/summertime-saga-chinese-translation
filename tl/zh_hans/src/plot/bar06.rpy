@@ -148,7 +148,7 @@ translate zh_hans bar06_art_b5e78229:
 translate zh_hans bar06_art_d154c6dd:
 
     # iwanka "In fact, he made a copy for his own private collection."
-    iwanka "事实上，他还为自己的私人收藏临摹了一幅。"
+    iwanka "其实，他还复制了一幅，留着自己收藏。"
 
 # game/src/plot/bar06.rpy:67
 translate zh_hans bar06_art_2de722c1:
@@ -490,7 +490,7 @@ translate zh_hans bar06_office3_9ed1ca37:
 translate zh_hans bar06_office3_5c190949:
 
     # anon "I'm not sure I..."
-    anon "我不太确定……我"
+    anon "我……我不太确定……"
 
 # game/src/plot/bar06.rpy:240
 translate zh_hans bar06_office3_64c3e0e7:
@@ -1018,13 +1018,13 @@ translate zh_hans bar06_office3_reuse_bf8b6499:
 translate zh_hans bar06_office3_reuse_11cb6374:
 
     # barb "... I mean, I've had a lot of sex in my life..."
-    barb "……我是说，我一生中做过很多次性爱……"
+    barb "……我是说，我这辈子也跟人做过不少次了……"
 
 # game/src/plot/bar06.rpy:421
 translate zh_hans bar06_office3_reuse_38c661c0:
 
     # barb "... A lot of good sex!"
-    barb "……很多次美妙的性爱！"
+    barb "……也有过不少美妙的体验！"
 
 # game/src/plot/bar06.rpy:422
 translate zh_hans bar06_office3_reuse_f3edb2f3:
@@ -1090,13 +1090,13 @@ translate zh_hans bar06_office3_reuse_d91a992e_1:
 translate zh_hans bar06_office3_reuse_6c2c8b7d:
 
     # barb "You wouldn't mind doing it again sometime, would you, [saga.cast.anon]?"
-    barb "你不介意以后再这样做几次吧，[saga.cast.anon]？"
+    barb "你不介意改天再来一次吧，[saga.cast.anon]？"
 
 # game/src/plot/bar06.rpy:452
 translate zh_hans bar06_office3_reuse_de351bcb:
 
     # barb "You'd never leave your poor teacher wanting, would you, [saga.cast.anon]?"
-    barb "你不会让你可怜的老师失望吧，[saga.cast.anon]？"
+    barb "你可舍不得让可怜的老师一直盼着，对吧，[saga.cast.anon]？"
 
 # game/src/plot/bar06.rpy:456
 translate zh_hans bar06_office3_reuse_c954e350:

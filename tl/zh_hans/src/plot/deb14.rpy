@@ -784,7 +784,7 @@ translate zh_hans deb14_pants_5973516b:
 translate zh_hans deb14_pants_85e9d8ce:
 
     # debbie e_wsw f_calm "Well, I'm... uhh, glad... you're feeling better."
-    debbie e_wsw f_calm "那……呃，我很高兴……你舒服多了。"
+    debbie e_wsw f_calm "那……呃，你舒服多了……我也高兴。"
 
 # game/src/plot/deb14.rpy:333
 translate zh_hans deb14_pants_44ad90cf:
