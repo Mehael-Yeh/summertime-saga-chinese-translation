@@ -322,13 +322,13 @@ translate zh_hans jen21_jenny_merge_55e0c71c:
 translate zh_hans jen21_jenny_merge_6094bc8c:
 
     # jenny "I think you mean, \"Yes, Princess [saga.cast.jenny].\""
-    jenny "你应该说：“是的，公主[saga.cast.jenny]。”"
+    jenny "你应该说：“是的，[saga.cast.jenny]公主。”"
 
 # game/src/plot/jen21.rpy:119
 translate zh_hans jen21_jenny_merge_4e3e72f6:
 
     # anon "Yes, Princess [saga.cast.jenny]..."
-    anon "是的，公主[saga.cast.jenny]……"
+    anon "是的，[saga.cast.jenny]公主……"
 
 # game/src/plot/jen21.rpy:120
 translate zh_hans jen21_jenny_merge_4f6080bd:

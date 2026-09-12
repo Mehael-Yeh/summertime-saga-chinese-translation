@@ -898,7 +898,7 @@ translate zh_hans jen24_jenny_reuse_d91a992e_2:
 translate zh_hans jen24_jenny_reuse_2539edd8:
 
     # anon "Please, Princess [saga.cast.jenny]..."
-    anon "求你了，公主[saga.cast.jenny]……"
+    anon "求你了，[saga.cast.jenny]公主……"
 
 # game/src/plot/jen24.rpy:378
 translate zh_hans jen24_jenny_reuse_091d9330_1:
@@ -1372,13 +1372,13 @@ translate zh_hans jen24_jenny_alt_d86b3d71:
 translate zh_hans jen24_jenny_alt_df639532:
 
     # anon "Enjoying yourself, {i}Princess{/i} [saga.cast.jenny]?"
-    anon "爽吗，{i}公主{/i}[saga.cast.jenny]？"
+    anon "爽吗，[saga.cast.jenny]{i}公主{/i}？"
 
 # game/src/plot/jen24.rpy:574
 translate zh_hans jen24_jenny_alt_c0afa0e3:
 
     # jenny "FUUUUCK..."
-    jenny "去……"
+    jenny "操——……"
 
 # game/src/plot/jen24.rpy:575
 translate zh_hans jen24_jenny_alt_7d700a05:
@@ -1420,7 +1420,7 @@ translate zh_hans jen24_jenny_alt_eabc28c9:
 translate zh_hans jen24_jenny_alt_8b0d0221:
 
     # anon "Are you close, Princess [saga.cast.jenny]?"
-    anon "快高潮了吗，公主[saga.cast.jenny]？"
+    anon "快高潮了吗，[saga.cast.jenny]公主？"
 
 # game/src/plot/jen24.rpy:585
 translate zh_hans jen24_jenny_alt_f0e63fe5:

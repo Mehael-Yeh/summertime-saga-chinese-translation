@@ -888,3 +888,7 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 | a new vibe（日记购物语境） | 新振动棒 | vibe是vibrator的简称；其他表示气氛的vibe仍按上下文翻译 |
 
 阁楼的peephole统一称“窥视孔”，不是门上的“猫眼”。以上改动以文件和完整原文登记于sentence_patterns.json，避免跨语境替换。
+
+## 用户确认的界面用词
+
+bytecode_strings.rpy中的Narrative统一译为“叙事”，包括孕中期、孕晚期变体；它是内容类别，不译“旁白”。其他语境的narrative仍按实际含义判断。Princess [saga.cast.jenny]统一为“[saga.cast.jenny]公主”。

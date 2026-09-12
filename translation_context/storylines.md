@@ -1441,3 +1441,7 @@
 - 孕育后续：“直到第一次把孩子抱在怀里”跨片段完整连读，不先“握着”不明对象再另起抱孩子。
 - Debbie相关页：bleeding heart是容易心软，不是“软心肠硬不起来”；theater承接电影院跟踪狂事件，不另译剧院。
 - mar01的reaction保留身体反应，deb_shower的happy thoughts保留当下体验，tin_vault祝对方享受余下时间，不擅加去忙。mel01报名名额、mel06收尾致辞、tor03修好设备按任务对象明确表达。
+
+## Jenny称谓与直播回应复核
+
+jen21、jen24、jen_pool、jen_shower、jen_tv中的Princess加姓名统一后置称谓。jen_baby的“Thee, ahh tord eww...”还原为“See, I told you this would bring in tons of money”，承接打赏提示，译“看吧……我早就说了，这样能赚一大笔！”；主角随后介意的并非收入，回应“是啊，可我介意的又不是这个……”。jen24同段拉长的FUUUUCK是感叹，不能误作“去”。

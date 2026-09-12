@@ -250,13 +250,13 @@ translate zh_hans jen_tv_3b0fc905:
 translate zh_hans jen_tv_84e6ca26:
 
     # jenny "\"Please, Princess [saga.cast.jenny].\""
-    jenny "“求你了，公主[saga.cast.jenny]。”"
+    jenny "“求你了，[saga.cast.jenny]公主。”"
 
 # game/src/plot/jen_tv.rpy:75
 translate zh_hans jen_tv_f2fac03d:
 
     # anon "Please, Princess [saga.cast.jenny]."
-    anon "求你了，公主[saga.cast.jenny]。"
+    anon "求你了，[saga.cast.jenny]公主。"
 
 # game/src/plot/jen_tv.rpy:76
 translate zh_hans jen_tv_3c8b3e19:

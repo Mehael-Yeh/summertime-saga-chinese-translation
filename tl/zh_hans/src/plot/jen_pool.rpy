@@ -886,7 +886,7 @@ translate zh_hans jen_pool_once_c3e4e9b9:
 translate zh_hans jen_pool_once_1f79ff54:
 
     # anon "{i}*Sigh*{/i} Please, Princess [saga.cast.jenny]?"
-    anon "{i}*叹气*{/i} 求你了，公主[saga.cast.jenny]？"
+    anon "{i}*叹气*{/i} 求你了，[saga.cast.jenny]公主？"
 
 # game/src/plot/jen_pool.rpy:301
 translate zh_hans jen_pool_once_e90fd5ce:
@@ -916,7 +916,7 @@ translate zh_hans jen_pool_once_63748a30:
 translate zh_hans jen_pool_once_436136b7:
 
     # anon f_worried_surprised "Please, please have sex with me, Princess [saga.cast.jenny]!"
-    anon f_worried_surprised "求求你跟我做爱吧，公主[saga.cast.jenny]！"
+    anon f_worried_surprised "求求你跟我做爱吧，[saga.cast.jenny]公主！"
 
 # game/src/plot/jen_pool.rpy:307
 translate zh_hans jen_pool_once_94af107e:

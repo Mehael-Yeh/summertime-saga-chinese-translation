@@ -3317,6 +3317,94 @@
       "file": "tl/zh_hans/bytecode_strings.rpy",
       "source": "{pen=indigo}{size=-3}think about is {pen=neonpink}that {size=+3}ridiculously{/size} {pen=red}{size=-8}{b}ENORMOUS{/b}{/size}{/pen} cock{/pen} in his pants...{/size}{/pen}{space=15}",
       "target": "{pen=indigo}{size=-3}我脑子里就全是{pen=neonpink}他裤裆里那根{size=+3}大得{/size}{pen=red}{size=-8}{b}离谱的{/b}{/size}{/pen}肉棒{/pen}……{/size}{/pen}{space=15}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Narrative, second trimester.",
+      "target": "叙事，孕中期。"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "Narrative, third trimester.",
+      "target": "叙事，孕晚期。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "I think you mean, \\\"Yes, Princess [saga.cast.jenny].\\\"",
+      "target": "你应该说：“是的，[saga.cast.jenny]公主。”",
+      "id": "jen21_jenny_merge_6094bc8c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Yes, Princess [saga.cast.jenny]...",
+      "target": "是的，[saga.cast.jenny]公主……",
+      "id": "jen21_jenny_merge_4e3e72f6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen24.rpy",
+      "source": "Please, Princess [saga.cast.jenny]...",
+      "target": "求你了，[saga.cast.jenny]公主……",
+      "id": "jen24_jenny_reuse_2539edd8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen24.rpy",
+      "source": "Enjoying yourself, {i}Princess{/i} [saga.cast.jenny]?",
+      "target": "爽吗，[saga.cast.jenny]{i}公主{/i}？",
+      "id": "jen24_jenny_alt_df639532"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen24.rpy",
+      "source": "FUUUUCK...",
+      "target": "操——……",
+      "id": "jen24_jenny_alt_c0afa0e3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen24.rpy",
+      "source": "Are you close, Princess [saga.cast.jenny]?",
+      "target": "快高潮了吗，[saga.cast.jenny]公主？",
+      "id": "jen24_jenny_alt_8b0d0221"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Thee, ahh tord eww is ood bring in oons of morney!",
+      "target": "看吧……我早就说了，这样能赚一大笔！",
+      "id": "jen_baby_food_e40911a2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Yeah, that's not the part I had a problem with...",
+      "target": "是啊，可我介意的又不是这个……",
+      "id": "jen_baby_food_5dd6565f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_pool.rpy",
+      "source": "{i}*Sigh*{/i} Please, Princess [saga.cast.jenny]?",
+      "target": "{i}*叹气*{/i} 求你了，[saga.cast.jenny]公主？",
+      "id": "jen_pool_once_1f79ff54"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_pool.rpy",
+      "source": "Please, please have sex with me, Princess [saga.cast.jenny]!",
+      "target": "求求你跟我做爱吧，[saga.cast.jenny]公主！",
+      "id": "jen_pool_once_436136b7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_shower.rpy",
+      "source": "Please, Princess [saga.cast.jenny]...",
+      "target": "求你了，[saga.cast.jenny]公主……",
+      "id": "jen_shower_2539edd8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_tv.rpy",
+      "source": "\\\"Please, Princess [saga.cast.jenny].\\\"",
+      "target": "“求你了，[saga.cast.jenny]公主。”",
+      "id": "jen_tv_84e6ca26"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_tv.rpy",
+      "source": "Please, Princess [saga.cast.jenny].",
+      "target": "求你了，[saga.cast.jenny]公主。",
+      "id": "jen_tv_f2fac03d"
     }
   ]
 }

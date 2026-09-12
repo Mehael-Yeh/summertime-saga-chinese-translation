@@ -298,7 +298,7 @@ translate zh_hans jen_shower_d46280bd:
 translate zh_hans jen_shower_2539edd8:
 
     # anon "Please, Princess [saga.cast.jenny]..."
-    anon "求你了，公主[saga.cast.jenny]……"
+    anon "求你了，[saga.cast.jenny]公主……"
 
 # game/src/plot/jen_shower.rpy:140
 translate zh_hans jen_shower_c0c56577:

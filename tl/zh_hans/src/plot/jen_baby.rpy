@@ -4258,13 +4258,13 @@ translate zh_hans jen_baby_food_b82b2547:
 translate zh_hans jen_baby_food_e40911a2:
 
     # jenny "Thee, ahh tord eww is ood bring in oons of morney!"
-    jenny "看吧，我早嗦过这能赚好多钱！"
+    jenny "看吧……我早就说了，这样能赚一大笔！"
 
 # game/src/plot/jen_baby.rpy:1581
 translate zh_hans jen_baby_food_5dd6565f:
 
     # anon "Yeah, that's not the part I had a problem with..."
-    anon "对，但那不是我介意的部分……"
+    anon "是啊，可我介意的又不是这个……"
 
 # game/src/plot/jen_baby.rpy:1583
 translate zh_hans jen_baby_food_merge_a5514904:
