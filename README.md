@@ -38,9 +38,9 @@ SummertimeSaga/
 
 ### :package: 方法二：安装翻译源文件
 
-此方式适合需要自行修改译文或参与翻译的用户。
+此方式适合需要自行修改译文或参与翻译的用户，或者希望拿到最新手动翻译的用户。
 
-1. [下载](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases/latest)或克隆本仓库。
+1. [下载](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/archive/refs/heads/main.zip)或克隆本仓库。
 2. 将仓库中的整个 `tl` 文件夹复制到游戏的 `game` 文件夹中。
 3. 合并目录时保留 `tl/zh_hans/` 的完整结构。
 
