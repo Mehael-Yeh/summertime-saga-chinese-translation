@@ -3405,6 +3405,104 @@
       "source": "Please, Princess [saga.cast.jenny].",
       "target": "求你了，[saga.cast.jenny]公主。",
       "id": "jen_tv_f2fac03d"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=orange}{size=+1}{b}[saga.cast.debbie]{/b}'s really been strugg{rb}ling with the entire situation.{/rb}{art}{pen=pink}{i}I totally {pen=maroon}knew{/pen} they were {pen=neonpink}{b}BONING{/b}!!!{/pen}{/i}{/pen}{/art}{/size}{/pen}",
+      "target": "{pen=orange}{size=+1}{b}[saga.cast.debbie]{/b}因为这一切一直{rb}很不好受。{/rb}{art}{pen=pink}{i}我就{pen=maroon}知道{/pen}他们俩{pen=neonpink}{b}搞在一起了{/b}！！！{/pen}{/i}{/pen}{/art}{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=purple}I gave him the {rb}option - leer at them... {pen=pink}for a price!{/pen}{/rb}{art}{pen=indigo}{size=+1}He couldn't believe it lol, his face was so derpy!{/size}{/pen}{/art}{/pen}",
+      "target": "{pen=purple}我给了他个{rb}选择——想看这些照片也行……{pen=pink}不过得掏钱！{/pen}{/rb}{art}{pen=indigo}{size=+1}他简直不敢相信，哈哈，他的表情傻透了！{/size}{/pen}{/art}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=maroon}{size=-6}Maybe I can even turn on the waterworks{vspace=0}and guilt {b}[saga.cast.debbie]{/b} into buying me a camera?{/size}{/pen}{space=100}",
+      "target": "{pen=maroon}{size=-6}说不定我再挤几滴眼泪{vspace=0}，让{b}[saga.cast.debbie]{/b}一内疚，就给我买台相机？{/size}{/pen}{space=100}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=indigo}It's gonna be {pen=silver}{size=+2}{i}really weird{/i}{/size}{/pen} doing things with him!{/pen}",
+      "target": "{pen=indigo}要跟他做那些事，真是{pen=silver}{size=+2}{i}别扭{/i}{/size}{/pen}得要命！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=blue}Just for taking my shirt off!{/pen}{space=20}{pen=navy}{size=-6}{b}{i}LOL!{/b}{/i}{/size}{/pen}",
+      "target": "{pen=blue}不过就是脱了件上衣而已！{/pen}{space=20}{pen=navy}{size=-6}{b}{i}哈哈！{/b}{/i}{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=pink}{pen=red}{b}[saga.cast.anon]{/b}{/pen} totally got a boner too. {i}Not surprising...{/i}{/pen}",
+      "target": "{pen=pink}{pen=red}{b}[saga.cast.anon]{/b}{/pen}也硬起来了。{i}这有什么好奇怪的……{/i}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=blue}{size=+2}So this morning I was messaging {b}[saga.cast.jane]{/b}, and{/size}{/pen}{space=70}",
+      "target": "{pen=blue}{size=+2}今天早上我跟{b}[saga.cast.jane]{/b}发消息聊天，{/size}{/pen}{space=70}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=purple}His dick is {pen=neonpink}{size=-3}{b}{u}PERFECT{/u}{/b}{/size}{/pen}!{/pen}{space=120}",
+      "target": "{pen=purple}他的鸡巴简直{pen=neonpink}{size=-3}{b}{u}完美无缺{/u}{/b}{/size}{/pen}！{/pen}{space=120}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=indigo}And all that {pen=silver}{size=+35}{b}cum{/b}{/size}{/pen}... just...{/pen}{space=120}",
+      "target": "{pen=indigo}还有那么多{pen=silver}{size=+35}{b}精液{/b}{/size}{/pen}……简直……{/pen}{space=120}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=orange}Why can't people just pay to see me being a {pen=red}sexy bitch?!{/pen}{/pen}",
+      "target": "{pen=orange}我就当个{pen=red}性感婊子，让人付钱看，怎么就不行？！{/pen}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=indigo}It really is {pen=navy}{size=-6}{b}GENIUS!!{/b}{/size}{/pen}{/pen}",
+      "target": "{pen=indigo}这主意简直{pen=navy}{size=-6}{b}绝了！！{/b}{/size}{/pen}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=purple}I usually get so mad when he pulls this shit but I dunno,{/pen}",
+      "target": "{pen=purple}换作平时，他敢这样我早就发火了，可这次也不知道怎么回事，{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{space=135}{pen=blue}he can {pen=aqua}pay for the privilege{/pen}.{/pen}",
+      "target": "{space=135}{pen=blue}那就让他{pen=aqua}掏钱买这个资格{/pen}。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=purple}Apparently people pay girls to post pictures there,{/pen}",
+      "target": "{pen=purple}听说女孩们在那儿发照片，就有人愿意付钱，{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=pink}Like, who cares what the viewers think?!{/pen}{space=80}",
+      "target": "{pen=pink}拜托，谁在乎观众怎么想？！{/pen}{space=80}"
+    },
+    {
+      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "source": "{pen=pink}It's not even making me that much money...{/pen}",
+      "target": "{pen=pink}结果也没赚着几个钱……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano13.rpy",
+      "source": "You two are great, and you deserve a family.",
+      "target": "你们俩人这么好，也该有个属于自己的家庭。",
+      "id": "ano13_shop1_0f851c13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano13.rpy",
+      "source": "That's real nice of you to say.",
+      "target": "你能这么说，我真高兴。",
+      "id": "ano13_shop1_3e9fdf3e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv03.rpy",
+      "source": "Oh... that part?",
+      "target": "哦……你说那一段啊？",
+      "id": "viv03_viv_9a0a8eed"
     }
   ]
 }

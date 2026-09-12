@@ -544,7 +544,7 @@ translate zh_hans ano13_shop1_0f851c13:
 
 
     # anon "You two are great, and you deserve a family."
-    anon "你们人这么好，理应拥有一个完整的家。"
+    anon "你们俩人这么好，也该有个属于自己的家庭。"
 
 # game/src/plot/ano13.rpy:147
 translate zh_hans ano13_shop1_281387df:
@@ -558,7 +558,7 @@ translate zh_hans ano13_shop1_3e9fdf3e:
 
 
     # tony "That's real nice of you to say."
-    tony "你这么说真是太好了。"
+    tony "你能这么说，我真高兴。"
 
 # game/src/plot/ano13.rpy:150
 translate zh_hans ano13_shop1_6e68c911:

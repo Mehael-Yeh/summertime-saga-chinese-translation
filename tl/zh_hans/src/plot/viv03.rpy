@@ -1498,7 +1498,7 @@ translate zh_hans viv03_viv_4d5168e4:
 translate zh_hans viv03_viv_9a0a8eed:
 
     # anon "Oh... that part?"
-    anon "哦……那部分啊？"
+    anon "哦……你说那一段啊？"
 
 # game/src/plot/viv03.rpy:781
 translate zh_hans viv03_viv_3d3952a2:
