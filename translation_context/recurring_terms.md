@@ -322,3 +322,7 @@ tin_dusk的Cool.与Cool, cool, cool.是确认约定后的回应与紧张重复�
 - Tony的visualization统一为“想象法”，与ano15教学及mar_dark提醒一致；教父关系和赶到披萨店的电话提醒按同源句统一。
 - 道具名称中的Dillon、Harold保留英文；Dirty Harold与商店商品名一致。月份及June姓名规则不变。
 - 句式回归累计638条，约束具体语境，不是全局替换表。Tina获用户认可的原译保留，Melody同类pound表达也恢复原有粗口力度。
+
+## 2026-09-13 连续审读后的回归补充
+
+句式基准累计827条，新增／更新记录按具体文件与ID限制语境。Diane开工的Dig in、Tina的换位命令Now、Erik寒暄选项Not much，以及Jenny事后抱怨的近似分支已登记。相同英语在不同角色或动作中仍可采用不同译法，不将基准作为全局替换表。

@@ -10,7 +10,7 @@ translate zh_hans tori_school_office2_intro1_300ea22b:
 translate zh_hans tori_school_office2_intro1_6378550c:
 
     # tori "What do you want, [saga.cast.anon]?"
-    tori "你想要什么，[saga.cast.anon]？"
+    tori "找我什么事，[saga.cast.anon]？"
 
 # game/src/plot/tori.rpy:51
 translate zh_hans tori_school_office2_intro2_7b8250e9:
@@ -28,7 +28,7 @@ translate zh_hans tori_school_office2_intro2_32e4fd62:
 translate zh_hans tori_school_office2_intro2_25ab58b9:
 
     # tori "How nice of you to visit!"
-    tori "你真是太好了，来看我！"
+    tori "你能来看我，真好！"
 
 # game/src/plot/tori.rpy:56
 translate zh_hans tori_school_office2_intro2_ac62412b:
@@ -82,7 +82,7 @@ translate zh_hans tori_school_science_intro_ea591ef2:
 translate zh_hans tori_school_science_outro_6787a4d7:
 
     # anon "Eh, doesn't matter."
-    anon "呃，无所谓了。"
+    anon "呃，算了。"
 
 # game/src/plot/tori.rpy:135
 translate zh_hans tori_school_science_outro_10b42a58:

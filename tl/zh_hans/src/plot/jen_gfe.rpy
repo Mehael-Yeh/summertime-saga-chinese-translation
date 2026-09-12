@@ -46,7 +46,7 @@ translate zh_hans jen_gfe_ready_354197c3:
 translate zh_hans jen_gfe_ready_dfc08f79:
 
     # jenny "Heh, that's what I like to see!"
-    jenny "嘿，这就是我想看到的！"
+    jenny "嘿，这才像话嘛！"
 
 # game/src/plot/jen_gfe.rpy:32
 translate zh_hans jen_gfe_ready_d34ac3b2:
@@ -130,7 +130,7 @@ translate zh_hans jen_gfe_ready_once_82bbdc7c:
 translate zh_hans jen_gfe_ready_once_8d1c6238:
 
     # anon "I'm pretty sure nobody would care, [saga.cast.jenny]..."
-    anon "我敢肯定根本没人在乎，[saga.cast.jenny]……"
+    anon "我想应该没人在乎，[saga.cast.jenny]……"
 
 # game/src/plot/jen_gfe.rpy:65
 translate zh_hans jen_gfe_ready_once_ddc74d24:
@@ -346,7 +346,7 @@ translate zh_hans jen_gfe_ready_once_c4e36b00:
 translate zh_hans jen_gfe_ready_once_70a78ff6:
 
     # jenny "[saga.cast.debbie] and I used to watch it all the time when I was little."
-    jenny "[saga.cast.debbie]和我小时候经常看。"
+    jenny "小时候，我经常跟[saga.cast.debbie]一起看。"
 
 # game/src/plot/jen_gfe.rpy:128
 translate zh_hans jen_gfe_ready_once_a8d9f0ee:
@@ -664,7 +664,7 @@ translate zh_hans jen_gfe_ready_once_01e882d5:
 translate zh_hans jen_gfe_ready_once_48239ecf:
 
     # anon "I'm interested to see what comes next."
-    anon "我很好奇接下来会发生什么。"
+    anon "我还想看看后面怎么演呢。"
 
 # game/src/plot/jen_gfe.rpy:228
 translate zh_hans jen_gfe_ready_once_65ee2c16:
@@ -724,7 +724,7 @@ translate zh_hans jen_gfe_ready_once_796bdc54:
 translate zh_hans jen_gfe_ready_soon_289a45f5:
 
     # anon "Want to do that thing?"
-    anon "想做那件事吗？"
+    anon "想做那事吗？"
 
 # game/src/plot/jen_gfe.rpy:248
 translate zh_hans jen_gfe_ready_soon_b673ad27:
@@ -1228,7 +1228,7 @@ translate zh_hans jen_gfe_jenny_merge1_01abfa82:
 translate zh_hans jen_gfe_jenny_merge1_bd005f51:
 
     # jenny e_b "You're ruining my post-coital bliss."
-    jenny e_b "你把我做爱后的余韵都毁了。"
+    jenny e_b "你把我刚才那股舒坦劲都搅没了。"
 
 # game/src/plot/jen_gfe.rpy:456
 translate zh_hans jen_gfe_jenny_merge1_9ac806c2:
@@ -1348,7 +1348,7 @@ translate zh_hans jen_gfe_jenny_alt_a69b90d1:
 translate zh_hans jen_gfe_jenny_alt_7b3a9015:
 
     # jenny "I'm thinking, maybe I would like that."
-    jenny "我在想……也许我还真会喜欢。"
+    jenny "嗯……说不定我还真挺乐意。"
 
 # game/src/plot/jen_gfe.rpy:501
 translate zh_hans jen_gfe_jenny_alt_9a84753a:
@@ -1474,7 +1474,7 @@ translate zh_hans jen_gfe_jenny_alt_7982a97f:
 translate zh_hans jen_gfe_jenny_alt_f54af906:
 
     # jenny s_13 "Ahh, fuuuuuuuck!!"
-    jenny s_13 "啊，操操操操操！！"
+    jenny s_13 "啊，操——！！"
 
 # game/src/plot/jen_gfe.rpy:538
 translate zh_hans jen_gfe_jenny_alt_5a4c4686:
@@ -1708,7 +1708,7 @@ translate zh_hans jen_gfe_jenny_merge2_c03cf735:
 translate zh_hans jen_gfe_jenny_merge2_91b86dcf:
 
     # jenny f_annoyed "Yeah, I know what you're saying and you're ruining my post coital bliss!"
-    jenny f_annoyed "是啊，我知道你想说什么，你都快把我做爱后的余韵毁光了！"
+    jenny f_annoyed "行了，我知道你想说什么。你都快把我刚才那股舒坦劲搅没了！"
 
 # game/src/plot/jen_gfe.rpy:614
 translate zh_hans jen_gfe_jenny_merge2_ba417895:
@@ -1870,7 +1870,7 @@ translate zh_hans jen_gfe_jenny_creampie2_e02ff259:
 translate zh_hans jen_gfe_jenny_creampie2_d2a6132e:
 
     # jenny s_22 "YES!!!"
-    jenny s_22 "就是那里！！！"
+    jenny s_22 "对，就是这样！！！"
 
 # game/src/plot/jen_gfe.rpy:684
 translate zh_hans jen_gfe_jenny_creampie2_a129e2cc:

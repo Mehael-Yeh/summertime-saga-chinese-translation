@@ -154,7 +154,7 @@ translate zh_hans jud_stall_event_4a98289a:
 translate zh_hans jud_stall_event_d5808aee:
 
     # judith p_stand -b_anon "Magnificent muffins! That felt really nice!"
-    judith p_stand -b_anon "妙极了，松饼！感觉真舒服！"
+    judith p_stand -b_anon "我的松饼呀！刚才那感觉真好！"
 
 # game/src/plot/jud_stall.rpy:66
 translate zh_hans jud_stall_event_01d3b751:
@@ -316,7 +316,7 @@ translate zh_hans jud_stall_event_d256cd75:
 translate zh_hans jud_stall_event_2794ed4c:
 
     # judith a_surprised f_surprised "Holy honey buns!"
-    judith a_surprised f_surprised "老天，蜂蜜面包！"
+    judith a_surprised f_surprised "我的蜂蜜面包啊！"
 
 # game/src/plot/jud_stall.rpy:134
 translate zh_hans jud_stall_event_77e6e656:

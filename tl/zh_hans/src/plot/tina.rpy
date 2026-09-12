@@ -61,14 +61,14 @@ translate zh_hans tina_bank_lobby_intro1a_40d72c32:
 
 
     # anon e_wsw f_horny_smug @ -m_talk "( Now {i}that's{/i} a woman. )"
-    anon e_wsw f_horny_smug @ -m_talk "（现在{i}那才{/i}是个女人。）"
+    anon e_wsw f_horny_smug @ -m_talk "（这{i}才{/i}叫有女人味。）"
 
 # game/src/plot/tina.rpy:55
 translate zh_hans tina_bank_lobby_intro1a_42b27dc1:
 
 
     # tina a_point "There's an open teller just over there to assist you."
-    tina a_point "那边有开放的柜台可以为您服务。"
+    tina a_point "那边有位柜员正好有空，可以为您办理业务。"
 
 # game/src/plot/tina.rpy:56
 translate zh_hans tina_bank_lobby_intro1a_9f964ddc:
@@ -173,21 +173,21 @@ translate zh_hans tina_bank_lobby_outro_5906253e:
 
 
     # anon a_side "It was nice seeing you though."
-    anon a_side "不过很高兴见到你。"
+    anon a_side "能见到你还是很开心的。"
 
 # game/src/plot/tina.rpy:91
 translate zh_hans tina_bank_lobby_outro_193a33ee:
 
 
     # tina f_happy "You too, [saga.cast.anon]."
-    tina f_happy "你也是，[saga.cast.anon]。"
+    tina f_happy "我也是，[saga.cast.anon]。"
 
 # game/src/plot/tina.rpy:92
 translate zh_hans tina_bank_lobby_outro_05aac281:
 
 
     # tina "Come back soon."
-    tina "快点回来。"
+    tina "有空再来找我。"
 
 # game/src/plot/tina.rpy:117
 translate zh_hans tina_bank_cubicle_intro_64f1bab2:
@@ -215,7 +215,7 @@ translate zh_hans tina_bank_cubicle_intro_3b4dadea:
 
 
     # tina f_calm "What brings you into my office today?"
-    tina f_calm "什么事让你今天来我办公室？"
+    tina f_calm "今天来我办公室找我有什么事？"
 
 # game/src/plot/tina.rpy:142
 translate zh_hans tina_tina_lounge_intro_0482623b:

@@ -28,7 +28,7 @@ translate zh_hans bar02_intro_f4c0268e:
 translate zh_hans bar02_intro_88041568:
 
     # barb "I think we should get you a partner for these sessions, what do you think?"
-    barb "我觉得你应该找个搭档一起进行这些课程，你觉得呢？"
+    barb "我想给你找个搭档，一起上这些课，你觉得呢？"
 
 # game/src/plot/bar02.rpy:7
 translate zh_hans bar02_intro_20d69fd8:
@@ -40,7 +40,7 @@ translate zh_hans bar02_intro_20d69fd8:
 translate zh_hans bar02_intro_00e46a98:
 
     # barb "Yeah, somebody to work alongside you and bounce ideas back and forth!"
-    barb "是啊，找个人和你一起工作，互相交流想法！"
+    barb "对，找个人和你一起创作，互相交流想法！"
 
 # game/src/plot/bar02.rpy:9
 translate zh_hans bar02_intro_f3472ff0:
@@ -70,7 +70,7 @@ translate zh_hans bar02_intro_9273474f:
 translate zh_hans bar02_intro_4de168b8:
 
     # barb "... But I doubt she'd have time with all her musical studies."
-    barb "……但我担心她有没有时间，毕竟她要学那么多音乐。"
+    barb "……不过她还要学音乐，恐怕腾不出时间。"
 
 # game/src/plot/bar02.rpy:15
 translate zh_hans bar02_intro_d5006672:
@@ -796,7 +796,7 @@ translate zh_hans bar02_eve1_f732a64e:
 translate zh_hans bar02_eve1_merge_b65d90d7:
 
     # eve f_pensive ".. Unless..."
-    eve f_pensive "……可是……"
+    eve f_pensive "……难道……"
 
 # game/src/plot/bar02.rpy:383
 translate zh_hans bar02_eve1_merge_76ac2caf:
@@ -814,7 +814,7 @@ translate zh_hans bar02_eve1_merge_86f0d13a:
 translate zh_hans bar02_eve1_merge_4efc5f5b:
 
     # eve f_calm "Well, that's no problem."
-    eve f_calm "好吧，其实也不是什么问题。"
+    eve f_calm "那没问题。"
 
 # game/src/plot/bar02.rpy:389
 translate zh_hans bar02_eve1_merge_91066a0f:
@@ -1030,7 +1030,7 @@ translate zh_hans bar02_eve1_fence_02376712:
 translate zh_hans bar02_eve1_fence_c076a478:
 
     # anon @ -m_talk "( Hopefully she'll have an extra art pad that [saga.cast.mia] can borrow. )"
-    anon @ -m_talk "（希望她有多的画板能借[saga.cast.mia]一张。）"
+    anon @ -m_talk "（希望她有多余的画板，能借[saga.cast.mia]一块。）"
 
 # game/src/plot/bar02.rpy:502
 translate zh_hans bar02_bag_dabaf64b:
@@ -1168,7 +1168,7 @@ translate zh_hans bar02_eve2_merge_be0aae9c:
 translate zh_hans bar02_eve2_merge_eeb974cf:
 
     # eve "Cool. See ya, [saga.cast.anon]."
-    eve "酷。回见，[saga.cast.anon]。"
+    eve "行，那回见，[saga.cast.anon]。"
 
 # game/src/plot/bar02.rpy:566
 translate zh_hans bar02_eve2_merge_d7673a35:
@@ -1180,13 +1180,13 @@ translate zh_hans bar02_eve2_merge_d7673a35:
 translate zh_hans bar02_eve2_rails_d28fa71c:
 
     # anon @ -m_talk "( Hopefully [saga.cast.eve] will have some other idea where her artpad might be... )"
-    anon @ -m_talk "（希望[saga.cast.eve]能想到她的画板可能在别的地方……）"
+    anon @ -m_talk "（希望[saga.cast.eve]还能想到别的线索，找到她的画板……）"
 
 # game/src/plot/bar02.rpy:576
 translate zh_hans bar02_eve2_rails_c9491ffc:
 
     # anon f_happy @ -m_talk "( ... At least she'll be happy to have this back though. )"
-    anon f_happy @ -m_talk "（……不过至少她会很高兴拿回这个。）"
+    anon f_happy @ -m_talk "（……不过至少能拿回背包，她应该会很高兴。）"
 
 # game/src/plot/bar02.rpy:586
 translate zh_hans bar02_chad_3fc48861:
@@ -1210,7 +1210,7 @@ translate zh_hans bar02_chad_d70d4704:
 translate zh_hans bar02_chad_af6cfc3b:
 
     # anon "So, could I get it from you?"
-    anon "所以，能还给我吗？"
+    anon "那能把它给我吗？"
 
 # game/src/plot/bar02.rpy:593
 translate zh_hans bar02_chad_56941834:
@@ -1276,7 +1276,7 @@ translate zh_hans bar02_chad_75b056de:
 translate zh_hans bar02_chad_451e599b:
 
     # chad @ e_b m_laugh "Haaah, that's the deal, yo."
-    chad @ e_b m_laugh "哈啊，就这么交易，哟。"
+    chad @ e_b m_laugh "哈，没错，就这么说定了，哥们。"
 
 # game/src/plot/bar02.rpy:614
 translate zh_hans bar02_chad_327360c0:
@@ -1360,7 +1360,7 @@ translate zh_hans bar02_chad_alt_f8fe5113:
 translate zh_hans bar02_chad_alt_e76272dd:
 
     # chad "Damn! Now that's a woman, yo!"
-    chad "靠！这才叫女人嘛，哟！"
+    chad "靠！这才叫女人嘛，哥们！"
 
 # game/src/plot/bar02.rpy:646
 translate zh_hans bar02_chad_alt_7a474117:
@@ -1420,7 +1420,7 @@ translate zh_hans bar02_chad_eve_703b5a77:
 translate zh_hans bar02_chad_rails_1ac718a2:
 
     # anon @ -m_talk "( Guess I should go speak with [saga.cast.chad] regarding [saga.cast.eve]'s art pad. )"
-    anon @ -m_talk "（我想我应该去找[saga.cast.chad]谈谈[saga.cast.eve]的画板的事。）"
+    anon @ -m_talk "（看来得去找[saga.cast.chad]，问问[saga.cast.eve]的画板。）"
 
 # game/src/plot/bar02.rpy:678
 translate zh_hans bar02_chad_rails_e5354350:
@@ -1474,7 +1474,7 @@ translate zh_hans bar02_eve3_f414d9a0:
 translate zh_hans bar02_eve3_e12838be:
 
     # chad "Yo, wha-"
-    chad "哟，什—"
+    chad "哟，什——"
 
 # game/src/plot/bar02.rpy:701
 translate zh_hans bar02_eve3_6d7016e3:
@@ -1486,7 +1486,7 @@ translate zh_hans bar02_eve3_6d7016e3:
 translate zh_hans bar02_eve3_76ddd08d:
 
     # chad "What the-" with hpunch
-    chad "搞什么—" with hpunch
+    chad "搞什么——" with hpunch
 
 # game/src/plot/bar02.rpy:704
 translate zh_hans bar02_eve3_d9a9e7f9:
@@ -1642,13 +1642,13 @@ translate zh_hans bar02_eve3_locker_f1eae397:
 translate zh_hans bar02_eve3_locker_41773493:
 
     # anon @ -m_talk "( ... Maybe I should speak with [saga.cast.eve] about this [saga.cast.chad] situation. )"
-    anon @ -m_talk "（……也许我应该跟[saga.cast.eve]谈谈这个[saga.cast.chad]的事。）"
+    anon @ -m_talk "（……也许该跟[saga.cast.eve]说说[saga.cast.chad]扣着画板的事。）"
 
 # game/src/plot/bar02.rpy:781
 translate zh_hans bar02_eve3_rails_b57f2694:
 
     # anon @ -m_talk "( I should probably speak with [saga.cast.eve] about this [saga.cast.chad] situation. )"
-    anon @ -m_talk "（我应该跟[saga.cast.eve]谈谈这个[saga.cast.chad]的事。）"
+    anon @ -m_talk "（我还是跟[saga.cast.eve]说说[saga.cast.chad]扣着画板的事吧。）"
 
 # game/src/plot/bar02.rpy:792
 translate zh_hans bar02_art2_d0557485:
@@ -1900,7 +1900,7 @@ translate zh_hans bar02_art2_5170fd7c:
 translate zh_hans bar02_art2_8e4b8550:
 
     # mia "Mmm, no. That's okay. I'd rather not."
-    mia "嗯，不了。没关系，我还是不看了。"
+    mia "嗯，还是算了吧。我不太想给你们看。"
 
 # game/src/plot/bar02.rpy:896
 translate zh_hans bar02_art2_d6f53e16:
@@ -1912,7 +1912,7 @@ translate zh_hans bar02_art2_d6f53e16:
 translate zh_hans bar02_art2_2481ae9a:
 
     # barb "Remember, there's no such thing as bad art..."
-    barb "记住，没有所谓的糟糕艺术……"
+    barb "记住，艺术没有好坏之分……"
 
 # game/src/plot/bar02.rpy:900
 translate zh_hans bar02_art2_59e213ea:

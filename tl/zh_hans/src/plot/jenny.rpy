@@ -310,7 +310,7 @@ translate zh_hans jenny_debbie_bed2_outro3_2fe07423:
 translate zh_hans jenny_debbie_bed2_outro3_74c5b59b:
 
     # jenny a_hips e_w f_angry m_teeth "Fuck you!"
-    jenny a_hips e_w f_angry m_teeth "操你！"
+    jenny a_hips e_w f_angry m_teeth "去你的！"
 
 # game/src/plot/jenny.rpy:186
 translate zh_hans jenny_debbie_bed2_outro3_824b3ad9:
@@ -706,7 +706,7 @@ translate zh_hans jenny_debbie_yard_intro1_f46dcdba:
 translate zh_hans jenny_debbie_yard_intro1_6500e425:
 
     # anon "Tch, fine."
-    anon "切，行吧。"
+    anon "啧，行吧。"
 
 # game/src/plot/jenny.rpy:468
 translate zh_hans jenny_debbie_yard_intro2_a0469bb8:

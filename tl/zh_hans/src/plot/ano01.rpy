@@ -1840,7 +1840,7 @@ translate zh_hans ano01_kevin_71dc2d18:
 translate zh_hans ano01_kevin_6eb3845c:
 
     # kevin a_pot "Oh, that reminds me!"
-    kevin a_pot "哦，这提醒了我！"
+    kevin a_pot "哦，说到这个！"
 
 # game/src/plot/ano01.rpy:661
 translate zh_hans ano01_kevin_2d464581:
@@ -2848,7 +2848,7 @@ translate zh_hans ano01_bridget_718512b6:
 translate zh_hans ano01_bridget_533c03c9:
 
     # bridget a_fold e_w p_stand "You can't even do three miserable push-ups?!"
-    bridget a_fold e_w p_stand "你连三个该死的俯卧撑都做不了？！"
+    bridget a_fold e_w p_stand "你连区区三个俯卧撑都做不了？！"
 
 # game/src/plot/ano01.rpy:1033
 translate zh_hans ano01_bridget_98944aae:

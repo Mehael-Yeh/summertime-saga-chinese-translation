@@ -226,7 +226,7 @@ translate zh_hans viv01_intro_eve_9d39bc84:
 translate zh_hans viv01_intro_eve_cc725b36:
 
     # eve "Well, yeah... You're failing right now, aren't you?"
-    eve "嗯，是啊……你现在不是快不及格了吗？"
+    eve "嗯，是啊……你现在不是都不及格了吗？"
 
 # game/src/plot/viv01.rpy:102
 translate zh_hans viv01_intro_eve_7e17498e:
@@ -340,7 +340,7 @@ translate zh_hans viv01_book_viv_0344e852:
 translate zh_hans viv01_jane_e8d47d3f:
 
     # anon "Well, I found part of a French dictionary."
-    anon "嗯，我只找到了半本法语词典。"
+    anon "嗯，我找到一本法语词典，不过缺了几页。"
 
 # game/src/plot/viv01.rpy:169
 translate zh_hans viv01_jane_625eff3e:
@@ -442,7 +442,7 @@ translate zh_hans viv01_viv_merge_d7e5a72e:
 translate zh_hans viv01_viv_merge_3c401603:
 
     # viv "Hmm, perhaps all is not lost. I'm sure a classmate of yours would be willing to let you copy the missing pages from their dictionary."
-    viv "嗯，也许还不算无可挽回。你可以找位同学借字典，把缺的几页复印下来，我想总会有人愿意的。"
+    viv "嗯，也不是没办法。找个同学借本字典，把缺的几页复印下来吧，我想总会有人愿意借你的。"
 
 # game/src/plot/viv01.rpy:230
 translate zh_hans viv01_viv_merge_389fd7dc:
@@ -550,7 +550,7 @@ translate zh_hans viv01_judith_b54c8659:
 translate zh_hans viv01_judith_45094b63:
 
     # anon "( What is with women and their French dictionaries? )"
-    anon "（女人和她们的法语词典到底是怎么回事？）"
+    anon "（这些女人怎么都这么宝贝自己的法语词典？）"
 
 # game/src/plot/viv01.rpy:283
 translate zh_hans viv01_judith_3bce6dad:
@@ -916,7 +916,7 @@ translate zh_hans viv01_outro_7bb06c9e:
 translate zh_hans viv01_outro_7f91a82e:
 
     # viv "Stay after class and we will begin."
-    viv "放学后留下，我们就开始。"
+    viv "下课后留下来，我们就开始。"
 
 # game/src/plot/viv01.rpy:514
 translate zh_hans viv01_outro_294b4cc7:
@@ -1228,7 +1228,7 @@ translate zh_hans viv01_outro_viv_3feb42a5:
 translate zh_hans viv01_outro_viv_ece544cb:
 
     # viv "Now make certain you bring it to your next class and we'll begin your private tutoring afterwards, yes?"
-    viv "下节课一定要把它带来，放学后我们就开始一对一辅导，好吗？"
+    viv "下节课一定要把它带来，课后我们就开始一对一辅导，好吗？"
 
 # game/src/plot/viv01.rpy:643
 translate zh_hans viv01_outro_viv_ec0d469d:

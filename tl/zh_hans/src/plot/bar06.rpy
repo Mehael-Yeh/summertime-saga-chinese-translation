@@ -172,7 +172,7 @@ translate zh_hans bar06_art_a3be3209:
 translate zh_hans bar06_art_83859534:
 
     # iwanka "I got your phone number from [saga.cast.barb]. I hope that's alright?"
-    iwanka "我从[saga.cast.barb]那里拿到了你的电话号码。希望这没冒犯到你？"
+    iwanka "我从[saga.cast.barb]那里拿到了你的电话号码，希望你不介意？"
 
 # game/src/plot/bar06.rpy:74
 translate zh_hans bar06_art_d845e517:
@@ -214,7 +214,7 @@ translate zh_hans bar06_art_00396bbd:
 translate zh_hans bar06_art_89ba317f:
 
     # barb "... And I couldn't be more proud!"
-    barb "……我真是无比骄傲！"
+    barb "……我真为你骄傲！"
 
 # game/src/plot/bar06.rpy:91
 translate zh_hans bar06_art_3be301b9:
@@ -358,7 +358,7 @@ translate zh_hans bar06_office3_f9b2f6a4:
 translate zh_hans bar06_office3_aee62062:
 
     # anon "What's with the giant canvas?"
-    anon "那幅巨大的画布是怎么回事？"
+    anon "那块大画布是做什么用的？"
 
 # game/src/plot/bar06.rpy:170
 translate zh_hans bar06_office3_40440fd7:
@@ -898,7 +898,7 @@ translate zh_hans bar06_office3_reuse_edcae4ff:
 translate zh_hans bar06_office3_reuse_c1db9b98:
 
     # barb "I want you to come a lot for me this time!"
-    barb "我想让你这次多射几次！"
+    barb "这次我想让你多射一点！"
 
 # game/src/plot/bar06.rpy:391
 translate zh_hans bar06_office3_reuse_02ac7b88:
@@ -1042,7 +1042,7 @@ translate zh_hans bar06_office3_reuse_c2808c5b:
 translate zh_hans bar06_office3_reuse_7cf65d9b:
 
     # barb "... I still can't get over how good it is..."
-    barb "……我还是不敢相信每次都有这么爽……"
+    barb "……我还是不敢相信，会这么舒服……"
 
 # game/src/plot/bar06.rpy:427
 translate zh_hans bar06_office3_reuse_3135f33e:

@@ -22,7 +22,7 @@ translate zh_hans tor_office_2a032bf9:
 translate zh_hans tor_office_9fdd7318:
 
     # tori "Of course, just let me just attach your sensory AR device..."
-    tori "当然，让我先把你的感官AR设备戴上……"
+    tori "当然，先让我给你戴上感官AR设备……"
 
 # game/src/plot/tor_office.rpy:19
 translate zh_hans tor_office_af714091:
@@ -46,7 +46,7 @@ translate zh_hans tor_office_d91a992e:
 translate zh_hans tor_office_16ef10fa:
 
     # anon "Now this part I like!"
-    anon "现在这一步我喜欢！"
+    anon "这一步我倒是喜欢！"
 
 # game/src/plot/tor_office.rpy:43
 translate zh_hans tor_office_8bfa218b:
@@ -100,7 +100,7 @@ translate zh_hans tor_office_1d6d7683:
 translate zh_hans tor_office_3fe1ec74:
 
     # tori "I've had it in all day."
-    tori "我整天都带着它。"
+    tori "我一整天都把它塞在里面。"
 
 # game/src/plot/tor_office.rpy:66
 translate zh_hans tor_office_854630c4:
@@ -124,7 +124,7 @@ translate zh_hans tor_office_66f4e5a8:
 translate zh_hans tor_office_2ae7b50e:
 
     # anon "I'm not sure I'll ever get used to feeling both sides of this."
-    anon "我恐怕永远无法习惯同时感受这两边。"
+    anon "同时感受到双方的感觉，我恐怕怎么都习惯不了。"
 
 # game/src/plot/tor_office.rpy:82
 translate zh_hans tor_office_377a548d:
@@ -142,7 +142,7 @@ translate zh_hans tor_office_178e9349:
 translate zh_hans tor_office_e567e19e:
 
     # tori "Just relax and let me do the work."
-    tori "放轻松，让我来干活就行了。"
+    tori "放轻松，交给我就好。"
 
 # game/src/plot/tor_office.rpy:86
 translate zh_hans tor_office_d4d01fd6:

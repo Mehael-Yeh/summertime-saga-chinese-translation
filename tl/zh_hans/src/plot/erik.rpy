@@ -10,7 +10,7 @@ translate zh_hans erik_school_science_intro_56cfb8a0:
 translate zh_hans erik_school_science_intro_44e10262:
 
     # erik "Hey [saga.cast.anon]! What's up?"
-    erik "嘿[saga.cast.anon]！最近咋样？"
+    erik "嘿，[saga.cast.anon]！最近咋样？"
 
 # game/src/plot/erik.rpy:53
 translate zh_hans erik_school_science_outro_d4d6b9b6:
@@ -46,7 +46,7 @@ translate zh_hans erik_tammy_bed2_intro_56cfb8a0:
 translate zh_hans erik_tammy_bed2_intro_44e10262:
 
     # erik "Hey [saga.cast.anon]! What's up?"
-    erik "嘿[saga.cast.anon]！最近咋样？"
+    erik "嘿，[saga.cast.anon]！最近咋样？"
 
 translate zh_hans strings:
 
@@ -76,4 +76,4 @@ translate zh_hans strings:
 
     # game/src/plot/erik.rpy:32
     old "Not much."
-    new "不太多"
+    new "没什么事"

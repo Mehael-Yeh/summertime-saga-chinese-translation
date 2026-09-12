@@ -10,19 +10,19 @@ translate zh_hans dia01_intro_24fc4aaf:
 translate zh_hans dia01_intro_b81c12f1:
 
     # mono "Growing up, I'd always liked her, she was just a fun person to be around!"
-    mono "从小到大，我一直都很喜欢她，她就是个有趣的人！"
+    mono "从小我就喜欢跟她待在一起，总是很开心！"
 
 # game/src/plot/dia01.rpy:5
 translate zh_hans dia01_intro_6dd81289:
 
     # more "Kind-hearted and supportive, with a great sense of humor and so full of warmth."
-    more "心地善良、乐于助人，还特别幽默，充满了温暖。"
+    more "她心善，又总愿意支持我，说话风趣，待人也暖。"
 
 # game/src/plot/dia01.rpy:11
 translate zh_hans dia01_intro_4dccaef2:
 
     # diane "Well, there's a handsome young man..."
-    diane "嗯，有个帅小伙……"
+    diane "哟，这不是我们的帅小伙嘛……"
 
 # game/src/plot/dia01.rpy:12
 translate zh_hans dia01_intro_3bf04edc:
@@ -34,7 +34,7 @@ translate zh_hans dia01_intro_3bf04edc:
 translate zh_hans dia01_intro_04570302:
 
     # anon @ e_b f_happy m_laugh "Heh, hi [saga.cast.diane]."
-    anon @ e_b f_happy m_laugh "嘿，嗨[saga.cast.diane]。"
+    anon @ e_b f_happy m_laugh "嘿，你好，[saga.cast.diane]。"
 
 # game/src/plot/dia01.rpy:16
 translate zh_hans dia01_intro_2331a313:
@@ -58,7 +58,7 @@ translate zh_hans dia01_intro_3299c0d2:
 translate zh_hans dia01_intro_3a255c09:
 
     # diane a_shovel_cheek e_b f_shy m_laugh of_blush @ -m_talk "Aww, aren't you just a little charmer?!"
-    diane a_shovel_cheek e_b f_shy m_laugh of_blush @ -m_talk "哎呀，你可真会讨人欢心？！"
+    diane a_shovel_cheek e_b f_shy m_laugh of_blush @ -m_talk "哎呀，你这小嘴可真甜！"
 
 # game/src/plot/dia01.rpy:21
 translate zh_hans dia01_intro_baa19fb4:
@@ -76,7 +76,7 @@ translate zh_hans dia01_intro_650d15a6:
 translate zh_hans dia01_intro_ee26c599:
 
     # diane e_w f_calm -m_laugh "I'm guessing [saga.cast.debbie] told you I'm looking for someone to help me this summer?"
-    diane e_w f_calm -m_laugh "我猜[saga.cast.debbie]告诉你我在找人帮忙度过这个夏天？"
+    diane e_w f_calm -m_laugh "是[saga.cast.debbie]告诉你，我这个夏天想找人来帮忙的吧？"
 
 # game/src/plot/dia01.rpy:24
 translate zh_hans dia01_intro_eca430db:
@@ -130,13 +130,13 @@ translate zh_hans dia01_intro_0e5ad6ef:
 translate zh_hans dia01_intro_merge_1cef7897:
 
     # anon "Is there any way we can continue the work without it?"
-    anon "有什么办法可以不用它继续工作吗？"
+    anon "没有铲子，就没法继续干活了吗？"
 
 # game/src/plot/dia01.rpy:41
 translate zh_hans dia01_intro_merge_db25bed0:
 
     # diane "Well, we can't really dig up a garden without a shovel, can we?"
-    diane "没有铲子我们还真挖不了花园，对吧？"
+    diane "没铲子可没法给地翻土呀，你说是不是？"
 
 # game/src/plot/dia01.rpy:42
 translate zh_hans dia01_intro_merge_989806bd:
@@ -250,13 +250,13 @@ translate zh_hans dia01_diane_3853ee45:
 translate zh_hans dia01_diane_7e875815:
 
     # diane "You should really take all the money I'm paying you to the bank too, when you're done!"
-    diane "你最好也把我付给你的所有钱都存到银行里去，干完活之后！"
+    diane "干完活，记得把挣的工钱都存到银行里去！"
 
 # game/src/plot/dia01.rpy:85
 translate zh_hans dia01_diane_7c7bd8e4:
 
     # diane "That's your decision though."
-    diane "不过那是你自己的决定。"
+    diane "当然，怎么用还是你自己决定。"
 
 # game/src/plot/dia01.rpy:86
 translate zh_hans dia01_diane_28a53171:
@@ -310,19 +310,19 @@ translate zh_hans dia01_outro_fd5d03ab:
 translate zh_hans dia01_outro_c4356860:
 
     # mono "I grit my teeth and kept myself to the task, hoping all the while that she'd be compensating me well for so much physical labor."
-    mono "我咬紧牙关，坚持干活，一直希望她能因为这么繁重的体力活而好好补偿我。"
+    mono "我咬着牙继续干，只盼着出了这么多力，她给工钱时也能大方点。"
 
 # game/src/plot/dia01.rpy:112
 translate zh_hans dia01_outro_c620e918:
 
     # mono "As I worked, it became apparant that [saga.cast.diane] was watching me very intently..." with fade
-    mono "在我干活的时候，显然[saga.cast.diane]一直在非常专注地注视着我……" with fade
+    mono "干着干着，我发现[saga.cast.diane]一直目不转睛地盯着我……" with fade
 
 # game/src/plot/dia01.rpy:113
 translate zh_hans dia01_outro_e62540c5:
 
     # more "... But I suppose she was just trying to make sure I did a good job."
-    more "……但我想她大概只是想确保我干得不错。"
+    more "……不过，我想她大概只是想看看我干得好不好。"
 
 # game/src/plot/dia01.rpy:114
 translate zh_hans dia01_outro_8bed002b:
@@ -364,7 +364,7 @@ translate zh_hans dia01_outro_426b1e4d:
 translate zh_hans dia01_outro_d28583dd:
 
     # diane f_ashamed m_talk "I err..."
-    diane f_ashamed m_talk "我呃……"
+    diane f_ashamed m_talk "我，呃……"
 
 # game/src/plot/dia01.rpy:134
 translate zh_hans dia01_outro_05deb459:
@@ -418,13 +418,13 @@ translate zh_hans dia01_outro_95fc00c8:
 translate zh_hans dia01_outro_6234445a:
 
     # anon "How did you get into this stuff anyways?"
-    anon "你是怎么开始搞这些东西的？"
+    anon "说起来，你是怎么喜欢上种菜的？"
 
 # game/src/plot/dia01.rpy:145
 translate zh_hans dia01_outro_bbd878b2:
 
     # diane "Oh, I've always had a bit of a green thumb. Even when I was a kid."
-    diane "哦，我一直有点园艺天赋。甚至还是孩子的时候就有。"
+    diane "哦，我从小就挺会侍弄花草的。"
 
 # game/src/plot/dia01.rpy:146
 translate zh_hans dia01_outro_5502af91:
@@ -454,7 +454,7 @@ translate zh_hans dia01_outro_bc172218:
 translate zh_hans dia01_outro_6a24a8ac:
 
     # diane "That's right! I wanted the whole nine yards!"
-    diane "没错！我想要全套的！"
+    diane "没错！种庄稼、养牲口，我全都想要！"
 
 # game/src/plot/dia01.rpy:151
 translate zh_hans dia01_outro_806b87d5:
@@ -490,7 +490,7 @@ translate zh_hans dia01_outro_35f93b36:
 translate zh_hans dia01_outro_9f935ecf:
 
     # diane e_w f_calm -m_laugh "Why don't you come back tomorrow, and we'll continue where we left off?"
-    diane e_w f_calm -m_laugh "明天再来吧，我们接着今天的地方继续？"
+    diane e_w f_calm -m_laugh "明天再来吧，咱们接着干，怎么样？"
 
 # game/src/plot/dia01.rpy:158
 translate zh_hans dia01_outro_8fda5e3f:
@@ -508,13 +508,13 @@ translate zh_hans dia01_outro_6d132dc6:
 translate zh_hans dia01_outro_diane_b30e33e1:
 
     # diane "Well, don't be timid, [saga.cast.anon]."
-    diane "好吧，别害羞，[saga.cast.anon]。"
+    diane "别拘束，[saga.cast.anon]。"
 
 # game/src/plot/dia01.rpy:170
 translate zh_hans dia01_outro_diane_415468fe:
 
     # diane a_shovel_give @ e_b f_happy "Dig in!"
-    diane a_shovel_give @ e_b f_happy "快吃吧！"
+    diane a_shovel_give @ e_b f_happy "动手吧！"
 
 # game/src/plot/dia01.rpy:172
 translate zh_hans dia01_outro_diane_945d18b2:
@@ -586,7 +586,7 @@ translate zh_hans dia01_outro_fail_a13387a5:
 translate zh_hans dia01_outro_rails_96bf9574:
 
     # anon @ -m_talk "( Heh, a rare situation that I {i}can{/i} dig my way out of! )"
-    anon @ -m_talk "（呵，难得有我能{i}挖{/i}出去的情况！）"
+    anon @ -m_talk "（呵，这回倒真{i}能{/i}靠挖土解决问题了！）"
 
 # game/src/plot/dia01.rpy:204
 translate zh_hans dia01_outro_rails_d2c4e7a3:

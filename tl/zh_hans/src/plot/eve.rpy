@@ -52,7 +52,7 @@ translate zh_hans eve_school_french_intro2_cb75627b:
 translate zh_hans eve_school_french_intro2_c00f0f56:
 
     # eve @ e_r f_annoyed "Heh, yeah... \"Fun.\""
-    eve @ e_r f_annoyed "呵，是啊……“有趣。”"
+    eve @ e_r f_annoyed "呵，是啊……可真“快乐”。"
 
 # game/src/plot/eve.rpy:71
 translate zh_hans eve_school_french_intro2_40c52d56:
@@ -166,7 +166,7 @@ translate zh_hans eve_school_hall1e_intro1_eb375dbc:
 translate zh_hans eve_school_hall1e_intro1_da4cff77:
 
     # anon a_side "What's going on?"
-    anon a_side "你怎么了？"
+    anon a_side "在忙什么呢？"
 
 # game/src/plot/eve.rpy:168
 translate zh_hans eve_school_hall1e_intro1_a040ab13:
@@ -208,7 +208,7 @@ translate zh_hans eve_school_hall1e_intro2_d8180fc0:
 translate zh_hans eve_school_hall1e_intro2_b7ba3f45:
 
     # eve "Man, I hope she has something simple planned today..."
-    eve "天啊，希望她今天计划简单一些……"
+    eve "唉，希望她今天别安排太难的内容……"
 
 # game/src/plot/eve.rpy:197
 translate zh_hans eve_school_hall1e_intro3_b1b2977a:
@@ -250,13 +250,13 @@ translate zh_hans eve_school_hall1e_intro3_3abf2be5:
 translate zh_hans eve_school_hall1e_intro3_58d285c2:
 
     # eve @ e_r f_annoyed "Aww, c'mon... Please?"
-    eve @ e_r f_annoyed "哎呀，拜托了……求你了？"
+    eve @ e_r f_annoyed "啊，拜托嘛……求你了？"
 
 # game/src/plot/eve.rpy:211
 translate zh_hans eve_school_hall1e_intro3_a97d6c94:
 
     # eve "It's so boring when you're not around!"
-    eve "你不在的时候太无聊了！"
+    eve "你不在的时候好无聊！"
 
 translate zh_hans strings:
 

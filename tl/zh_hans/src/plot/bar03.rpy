@@ -316,13 +316,13 @@ translate zh_hans bar03_mags_kevin_252282bd:
 translate zh_hans bar03_mags_kevin_3378eb8f:
 
     # kevin "What's up, [saga.cast.anon]?"
-    kevin "怎么了，[saga.cast.anon]？"
+    kevin "最近怎么样，[saga.cast.anon]？"
 
 # game/src/plot/bar03.rpy:149
 translate zh_hans bar03_mags_kevin_510559f1:
 
     # anon "Not much. What are you reading?"
-    anon "没什么。你在读什么？"
+    anon "没什么事。你在看什么？"
 
 # game/src/plot/bar03.rpy:152
 translate zh_hans bar03_mags_kevin_4f8b2f8d:
@@ -562,7 +562,7 @@ translate zh_hans bar03_mags_melody_f9ec98ed:
 translate zh_hans bar03_mags_melody_508673d3:
 
     # anon "Awes-"
-    anon "太棒了——"
+    anon "太棒——"
 
 # game/src/plot/bar03.rpy:284
 translate zh_hans bar03_mags_melody_b58fa014:
@@ -982,7 +982,7 @@ translate zh_hans bar03_art1_ec150409:
 translate zh_hans bar03_art1_2b6e8d1e:
 
     # mia "I coul-"
-    mia "我可以试——"
+    mia "我可以——"
 
 # game/src/plot/bar03.rpy:485
 translate zh_hans bar03_art1_f4332dcd:
@@ -1108,7 +1108,7 @@ translate zh_hans bar03_art1_828332b4:
 translate zh_hans bar03_art1_e67957d1:
 
     # mia "Oh, umm... okay, I suppose."
-    mia "哦，嗯……好吧，我想也是。"
+    mia "哦，呃……那好吧。"
 
 # game/src/plot/bar03.rpy:537
 translate zh_hans bar03_art1_8411fa68:
@@ -1234,7 +1234,7 @@ translate zh_hans bar03_take_barb_a7111fc5:
 translate zh_hans bar03_take_barb_c271caa5:
 
     # anon @ -m_talk "( I wonder what they were talking about... )"
-    anon @ -m_talk "（我好奇她们在聊什么……）"
+    anon @ -m_talk "（不知道她们刚才在聊什么……）"
 
 # game/src/plot/bar03.rpy:612
 translate zh_hans bar03_take_barb_fc0cdb45:
@@ -1330,7 +1330,7 @@ translate zh_hans bar03_art2_d3b43be8:
 translate zh_hans bar03_art2_5cd811fe:
 
     # barb "Did you have any trouble finding them?"
-    barb "你找到它们没遇到什么麻烦吧？"
+    barb "杂志找起来还顺利吗？"
 
 # game/src/plot/bar03.rpy:668
 translate zh_hans bar03_art2_9ceb7896:
@@ -1780,7 +1780,7 @@ translate zh_hans bar03_art2_129c5304:
 translate zh_hans bar03_art2_272de1cc:
 
     # anon "Yeah, that's probably a good idea."
-    anon "是啊，这主意不错。"
+    anon "嗯，我还是早点回去吧。"
 
 # game/src/plot/bar03.rpy:880
 translate zh_hans bar03_art2_b8833660:
@@ -1834,7 +1834,7 @@ translate zh_hans bar03_art2_hall1_ad872ad9:
 translate zh_hans bar03_art2_hall1_57dbca96:
 
     # anon e_w f_worried_surprised "No! I mean, they're not- These are for an art proj-"
-    anon e_w f_worried_surprised "不是！我是说，我不是——这些是美术作业要用的——"
+    anon e_w f_worried_surprised "不是！我是说，这些不是——这些是美术作业要用——"
 
 # game/src/plot/bar03.rpy:909
 translate zh_hans bar03_art2_hall1_027f698c:

@@ -40,7 +40,7 @@ translate zh_hans bar_office_area_60877580:
 translate zh_hans bar_office_area_68347a3b:
 
     # anon a_side f_worried "Aww."
-    anon a_side f_worried "哎呀。"
+    anon a_side f_worried "唉。"
 
 # game/src/plot/bar_office.rpy:18
 translate zh_hans bar_office_area_3fc363cd:

@@ -64,13 +64,13 @@ translate zh_hans tin01_lounge_a8d3f0a5:
 translate zh_hans tin01_lounge_46d65e56:
 
     # tina "Come see me at work and we'll schedule something, okay?"
-    tina "来我工作的地方找我，我们再安排时间，好吗？"
+    tina "来银行找我，我们再约个时间，好吗？"
 
 # game/src/plot/tin01.rpy:37
 translate zh_hans tin01_lounge_51cc8487:
 
     # anon f_horny "Y-yeah, okay."
-    anon f_horny "嗯-嗯，好吧。"
+    anon f_horny "好、好吧。"
 
 # game/src/plot/tin01.rpy:41
 translate zh_hans tin01_lounge_305ff617:
@@ -112,7 +112,7 @@ translate zh_hans tin01_lounge_8e4be2f5:
 translate zh_hans tin01_lounge_4d70bd0e:
 
     # anon "Alright, I'll swing by sometime."
-    anon "好的，我改天过来转转。"
+    anon "好，我改天去找你。"
 
 # game/src/plot/tin01.rpy:50
 translate zh_hans tin01_lounge_0e1f5f42:
@@ -148,7 +148,7 @@ translate zh_hans tin01_lounge_727493c5:
 translate zh_hans tin01_lounge_c6e35d7b:
 
     # tina "You'd better go."
-    tina "你最好走了。"
+    tina "你还是快走吧。"
 
 # game/src/plot/tin01.rpy:68
 translate zh_hans tin01_lounge_0a01c03b:
@@ -160,7 +160,7 @@ translate zh_hans tin01_lounge_0a01c03b:
 translate zh_hans tin01_lounge_1d0af379:
 
     # anon f_shy "See you soon."
-    anon f_shy "待会儿见。"
+    anon f_shy "回头见。"
 
 # game/src/plot/tin01.rpy:71
 translate zh_hans tin01_lounge_b6cc038d:

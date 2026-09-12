@@ -50,7 +50,7 @@ translate zh_hans tutor_hud_ffa09f64:
 translate zh_hans tutor_hud_300a2a92:
 
     # tutor "Advancing between days is done by sleeping, which can be triggered by interacting with [saga.cast.anon]'s bed. Sometimes it may also be desirable to use the chair to ensure a peaceful night's sleep."
-    tutor "点击[saga.cast.anon]的床睡觉，就能推进到第二天。有时为了安稳过夜，你可能还得睡在椅子上。"
+    tutor "点击[saga.cast.anon]的床睡觉，就能推进到第二天。有时也可以用椅子挡住门，免得睡觉时被打扰。"
 
 # game/src/plot/+tutor.rpy:61
 translate zh_hans tutor_hud_12d126ef:

@@ -118,7 +118,7 @@ translate zh_hans bar01_intro_de2b6a05:
 translate zh_hans bar01_intro_3189275e:
 
     # barb "Of course! We have to relax our minds and align our chakras if we want our creativity to flow correctly!"
-    barb "当然！如果我们想让创造力顺畅流动，就必须放松心灵，调整脉轮！"
+    barb "当然！得先放松心神、调和脉轮，灵感才能畅通无阻！"
 
 # game/src/plot/bar01.rpy:55
 translate zh_hans bar01_intro_2a5d3954:
@@ -208,7 +208,7 @@ translate zh_hans bar01_clay_d91a992e:
 translate zh_hans bar01_clay_bcb503c7:
 
     # barb "So, what are we going to do about these low grades of yours?"
-    barb "那么，我们该怎么处理你这糟糕的成绩呢？"
+    barb "那咱们想想，怎么把你落下的成绩补上来？"
 
 # game/src/plot/bar01.rpy:102
 translate zh_hans bar01_clay_eba4cfca:
@@ -412,7 +412,7 @@ translate zh_hans bar01_clay_02e765b5:
 translate zh_hans bar01_clay_db9aae72:
 
     # mia "Seriously?"
-    mia "认真的吗？"
+    mia "真的？"
 
 # game/src/plot/bar01.rpy:190
 translate zh_hans bar01_clay_4197dff8:
@@ -448,13 +448,13 @@ translate zh_hans bar01_clay_ca02af93:
 translate zh_hans bar01_clay_c6c3699f:
 
     # mia "Would a thousand dollars help?"
-    mia "一千美元够吗？"
+    mia "一千美元能帮上忙吗？"
 
 # game/src/plot/bar01.rpy:208
 translate zh_hans bar01_clay_b9fc92b0:
 
     # barb "Huh? Yeah, that would be plenty to order new equipment, restock the art shelves, and maybe even hire some real models for you kids to paint."
-    barb "嗯？应该够的，这笔钱足够订购新设备、补充美术用品，甚至还能给你们这些孩子雇几个真正的模特来画画。"
+    barb "嗯？够了，这笔钱足够订购新设备、补充美术用品，甚至还能请几位真人模特，让你们照着画。"
 
 # game/src/plot/bar01.rpy:209
 translate zh_hans bar01_clay_84fbbf0e:

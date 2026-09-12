@@ -3591,7 +3591,7 @@
     {
       "file": "tl/zh_hans/src/plot/debbie.rpy",
       "source": "Yeah, I bet.",
-      "target": "是啊，忙了一天，可算能放松了。",
+      "target": "是啊，肯定很舒服。",
       "id": "debbie_debbie_yard_intro3_ce7a0675"
     },
     {
@@ -3611,6 +3611,1439 @@
       "source": "If you say so.",
       "target": "好吧，你都这么说了。",
       "id": "deb05_vacuum_d6601855"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/barb.rpy",
+      "source": "... Just let me know if anything changes.",
+      "target": "……如果安排有变，就告诉我。",
+      "id": "barb_school_art_nope_985c6d70"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/barb.rpy",
+      "source": "Alright, go in peace, [saga.cast.anon]...",
+      "target": "好吧，安心去吧，[saga.cast.anon]……",
+      "id": "barb_school_art_outro_dd883abe"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/barb.rpy",
+      "source": "Nice of you to visit me!",
+      "target": "真高兴你来看我！",
+      "id": "barb_school_office3_intro1_11b0fd8b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/barb.rpy",
+      "source": "... I hope you're here for another private lesson?",
+      "target": "……是来找我再上节私人课的吗？",
+      "id": "barb_school_office3_intro2_f9318f95"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/barb.rpy",
+      "source": "Helping talented young artists is my specialty after all!",
+      "target": "毕竟，培养有天赋的年轻艺术家可是我的拿手好戏！",
+      "id": "barb_school_office3_outro_8a24bc5a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/diane.rpy",
+      "source": "Yeah, it's no problem [saga.cast.diane].",
+      "target": "没问题，[saga.cast.diane]。",
+      "id": "diane_diane_yard_intro1_7bc90942"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/diane.rpy",
+      "source": "Thanks again for helping!",
+      "target": "今天真是多亏你帮忙了！",
+      "id": "diane_diane_yard_outro1_43dcd9ba"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/diane_lobby.rpy",
+      "source": "( Locked. )",
+      "target": "（门锁着。）",
+      "id": "diane_lobby_dark_dcea19cd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/diane_lobby.rpy",
+      "source": "( Don't want to overstay my welcome. I should think about getting out of here. )",
+      "target": "（待太久就打扰人家了，我还是先走吧。）",
+      "id": "diane_lobby_skip_a93e9208"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/diane_plot.rpy",
+      "source": "( Trying to garden in this failing light doesn't seem like a good idea. )",
+      "target": "（天都快黑了，这会儿下地干活可不合适。）",
+      "id": "diane_plot_late_9da76eed"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/diane_plot.rpy",
+      "source": "( Trying to garden in the dark really doesn't seem like a good idea. )",
+      "target": "（黑灯瞎火的，还是别下地干活了。）",
+      "id": "diane_plot_late_ce703898"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/diane_plot.rpy",
+      "source": "( I'll come back when the sun's out. )",
+      "target": "（等天亮了再来吧。）",
+      "id": "diane_plot_late_a1aea306"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/erik.rpy",
+      "source": "Hey [saga.cast.anon]! What's up?",
+      "target": "嘿，[saga.cast.anon]！最近咋样？",
+      "id": "erik_school_science_intro_44e10262"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/erik.rpy",
+      "source": "Hey [saga.cast.anon]! What's up?",
+      "target": "嘿，[saga.cast.anon]！最近咋样？",
+      "id": "erik_tammy_bed2_intro_44e10262"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/erik.rpy",
+      "source": "Not much.",
+      "target": "没什么事"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/eve.rpy",
+      "source": "Heh, yeah... \\\"Fun.\\\"",
+      "target": "呵，是啊……可真“快乐”。",
+      "id": "eve_school_french_intro2_c00f0f56"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/eve.rpy",
+      "source": "What's going on?",
+      "target": "在忙什么呢？",
+      "id": "eve_school_hall1e_intro1_da4cff77"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/eve.rpy",
+      "source": "Man, I hope she has something simple planned today...",
+      "target": "唉，希望她今天别安排太难的内容……",
+      "id": "eve_school_hall1e_intro2_b7ba3f45"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/eve.rpy",
+      "source": "Aww, c'mon... Please?",
+      "target": "啊，拜托嘛……求你了？",
+      "id": "eve_school_hall1e_intro3_58d285c2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/eve.rpy",
+      "source": "It's so boring when you're not around!",
+      "target": "你不在的时候好无聊！",
+      "id": "eve_school_hall1e_intro3_a97d6c94"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/judith.rpy",
+      "source": "Enjoying art, [saga.cast.judith]?",
+      "target": "喜欢美术课吗，[saga.cast.judith]？",
+      "id": "judith_school_art_intro_e18be7b3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin01.rpy",
+      "source": "Come see me at work and we'll schedule something, okay?",
+      "target": "来银行找我，我们再约个时间，好吗？",
+      "id": "tin01_lounge_46d65e56"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin01.rpy",
+      "source": "Y-yeah, okay.",
+      "target": "好、好吧。",
+      "id": "tin01_lounge_51cc8487"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin01.rpy",
+      "source": "Alright, I'll swing by sometime.",
+      "target": "好，我改天去找你。",
+      "id": "tin01_lounge_4d70bd0e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin01.rpy",
+      "source": "You'd better go.",
+      "target": "你还是快走吧。",
+      "id": "tin01_lounge_c6e35d7b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin01.rpy",
+      "source": "See you soon.",
+      "target": "回头见。",
+      "id": "tin01_lounge_1d0af379"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina.rpy",
+      "source": "( Now {i}that's{/i} a woman. )",
+      "target": "（这{i}才{/i}叫有女人味。）",
+      "id": "tina_bank_lobby_intro1a_40d72c32"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina.rpy",
+      "source": "There's an open teller just over there to assist you.",
+      "target": "那边有位柜员正好有空，可以为您办理业务。",
+      "id": "tina_bank_lobby_intro1a_42b27dc1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina.rpy",
+      "source": "It was nice seeing you though.",
+      "target": "能见到你还是很开心的。",
+      "id": "tina_bank_lobby_outro_5906253e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina.rpy",
+      "source": "You too, [saga.cast.anon].",
+      "target": "我也是，[saga.cast.anon]。",
+      "id": "tina_bank_lobby_outro_193a33ee"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina.rpy",
+      "source": "Come back soon.",
+      "target": "有空再来找我。",
+      "id": "tina_bank_lobby_outro_05aac281"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina.rpy",
+      "source": "What brings you into my office today?",
+      "target": "今天来我办公室找我有什么事？",
+      "id": "tina_bank_cubicle_intro_3b4dadea"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina_lounge.rpy",
+      "source": "You know, you should swing by the bank on Monday.",
+      "target": "对了，周一来银行找我吧。",
+      "id": "tina_lounge_tina_81dd8f84"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina_lounge.rpy",
+      "source": "You know, you should swing by the bank tomorrow.",
+      "target": "对了，明天来银行找我吧。",
+      "id": "tina_lounge_tina_e555cf5d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina_lounge.rpy",
+      "source": "We can schedule a little fun.",
+      "target": "我们可以约个时间，好好亲热一下。",
+      "id": "tina_lounge_tina_ec7ceecc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina_lounge.rpy",
+      "source": "This isn't a good time.",
+      "target": "现在不太方便。",
+      "id": "tina_lounge_tina1_65594b63"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina_lounge.rpy",
+      "source": "Come see me at work and we'll schedule something.",
+      "target": "来银行找我，我们再约个时间。",
+      "id": "tina_lounge_tina1_4ff08104"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tina_lounge.rpy",
+      "source": "Y-yeah, okay.",
+      "target": "好、好吧。",
+      "id": "tina_lounge_tina1_a1f61959"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tori.rpy",
+      "source": "What do you want, [saga.cast.anon]?",
+      "target": "找我什么事，[saga.cast.anon]？",
+      "id": "tori_school_office2_intro1_6378550c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tori.rpy",
+      "source": "How nice of you to visit!",
+      "target": "你能来看我，真好！",
+      "id": "tori_school_office2_intro2_25ab58b9"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tori.rpy",
+      "source": "Eh, doesn't matter.",
+      "target": "呃，算了。",
+      "id": "tori_school_science_outro_6787a4d7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Coming {s}soon{/s} later!",
+      "target": "{s}很快{/s}以后再推出！",
+      "id": "debbie_debbie_bed1_bebdc4ad"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "I hope you didn't fall too far behind, what with all that's happened?",
+      "target": "发生了这么多事，希望你没落下太多功课？",
+      "id": "debbie_debbie_kitchen_intro1_e8e2fbb0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Looking for me, I hope.",
+      "target": "是来找我的吧？",
+      "id": "debbie_debbie_kitchen_intro2_35c41580"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "I was hoping I'd see you today.",
+      "target": "正盼着今天能见到你呢。",
+      "id": "debbie_debbie_kitchen_intro2_80562afc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Now you go on... and stop worrying about your old landlady!",
+      "target": "好啦，忙你的去吧……别再操心你这老房东了！",
+      "id": "debbie_debbie_lobby_outro2_e289b5f6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "You get out there and enjoy the day!",
+      "target": "出去好好玩吧！",
+      "id": "debbie_debbie_utility_outro_9d9412ce"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Y-yeah, maybe a bit.",
+      "target": "是、是啊，有一点吧。",
+      "id": "debbie_debbie_yard_intro1_ed08b1d8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "... And now it's all just-",
+      "target": "……可现在，这一切都——",
+      "id": "debbie_debbie_yard_intro1_d3c991e3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Gone?",
+      "target": "没了？",
+      "id": "debbie_debbie_yard_intro1_31d01ad2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "But I'm certain you'll figure it out.",
+      "target": "不过我相信，你会慢慢找到方向的。",
+      "id": "debbie_debbie_yard_intro1_21f33ac1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "And I'll be here for you every step of the way as you work through it.",
+      "target": "在你慢慢走出来的这段日子里，我会一直陪着你。",
+      "id": "debbie_debbie_yard_intro1_a3d13d67"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Why don't you head inside and give me a moment to compose myself.",
+      "target": "你先进去吧，让我缓一缓。",
+      "id": "debbie_debbie_yard_intro1_e75c2120"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "I'll be along shortly and get dinner started.",
+      "target": "我一会儿就进去做晚饭。",
+      "id": "debbie_debbie_yard_intro1_344b17ac"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "H-hey, [saga.cast.debbie]?",
+      "target": "嘿、嘿，[saga.cast.debbie]？",
+      "id": "debbie_debbie_yard_intro4_3b4f0f07"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Really?",
+      "target": "你还真来啊？",
+      "id": "debbie_debbie_yard_intro4b_7fd304b2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Sweetie, you're not being very nice right now.",
+      "target": "亲爱的，你这样闹可就不好了哦。",
+      "id": "debbie_debbie_yard_intro4b_27bb0f59"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Okay, that's the last one!",
+      "target": "好了，只许这最后一次！",
+      "id": "debbie_debbie_yard_intro4b_cbe384c7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Mm, relaxing.",
+      "target": "嗯，歇会儿。",
+      "id": "debbie_debbie_yard_intro4b_0a2b46b4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "And don't stay out too long or your feet will get all pruney.",
+      "target": "也别泡太久，不然脚都要泡皱了。",
+      "id": "debbie_debbie_yard_outro2_92803a0b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "... But I suppose, I should do something productive with my evening.",
+      "target": "……不过今晚总得干点正事。",
+      "id": "debbie_debbie_yard_outro3_7bb62575"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Well, I'll leave you to it.",
+      "target": "好吧，那就不打扰你了。",
+      "id": "debbie_debbie_yard_outro4_0810472c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "... N-no, sweetie.",
+      "target": "……不、不行，亲爱的。",
+      "id": "debbie_debbie_yard_swim3_19bea77f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Another time though.",
+      "target": "不过，说好了下次啊。",
+      "id": "debbie_debbie_yard_swim3_bd5d981f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Heh, I am having fun!",
+      "target": "呵，我现在就挺开心呀！",
+      "id": "debbie_debbie_yard_swim4_3f4fc7ee"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jenny.rpy",
+      "source": "Fuck you!",
+      "target": "去你的！",
+      "id": "jenny_debbie_bed2_outro3_74c5b59b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jenny.rpy",
+      "source": "Tch, fine.",
+      "target": "啧，行吧。",
+      "id": "jenny_debbie_yard_intro1_6500e425"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor_office.rpy",
+      "source": "Of course, just let me just attach your sensory AR device...",
+      "target": "当然，先让我给你戴上感官AR设备……",
+      "id": "tor_office_9fdd7318"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor_office.rpy",
+      "source": "Now this part I like!",
+      "target": "这一步我倒是喜欢！",
+      "id": "tor_office_16ef10fa"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor_office.rpy",
+      "source": "I've had it in all day.",
+      "target": "我一整天都把它塞在里面。",
+      "id": "tor_office_3fe1ec74"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor_office.rpy",
+      "source": "I'm not sure I'll ever get used to feeling both sides of this.",
+      "target": "同时感受到双方的感觉，我恐怕怎么都习惯不了。",
+      "id": "tor_office_2ae7b50e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor_office.rpy",
+      "source": "Just relax and let me do the work.",
+      "target": "放轻松，交给我就好。",
+      "id": "tor_office_e567e19e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar01.rpy",
+      "source": "Of course! We have to relax our minds and align our chakras if we want our creativity to flow correctly!",
+      "target": "当然！得先放松心神、调和脉轮，灵感才能畅通无阻！",
+      "id": "bar01_intro_3189275e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar01.rpy",
+      "source": "So, what are we going to do about these low grades of yours?",
+      "target": "那咱们想想，怎么把你落下的成绩补上来？",
+      "id": "bar01_clay_bcb503c7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar01.rpy",
+      "source": "Seriously?",
+      "target": "真的？",
+      "id": "bar01_clay_db9aae72"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar01.rpy",
+      "source": "Would a thousand dollars help?",
+      "target": "一千美元能帮上忙吗？",
+      "id": "bar01_clay_c6c3699f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Growing up, I'd always liked her, she was just a fun person to be around!",
+      "target": "从小我就喜欢跟她待在一起，总是很开心！",
+      "id": "dia01_intro_b81c12f1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Kind-hearted and supportive, with a great sense of humor and so full of warmth.",
+      "target": "她心善，又总愿意支持我，说话风趣，待人也暖。",
+      "id": "dia01_intro_6dd81289"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Well, there's a handsome young man...",
+      "target": "哟，这不是我们的帅小伙嘛……",
+      "id": "dia01_intro_4dccaef2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Heh, hi [saga.cast.diane].",
+      "target": "嘿，你好，[saga.cast.diane]。",
+      "id": "dia01_intro_04570302"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Aww, aren't you just a little charmer?!",
+      "target": "哎呀，你这小嘴可真甜！",
+      "id": "dia01_intro_3a255c09"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "I'm guessing [saga.cast.debbie] told you I'm looking for someone to help me this summer?",
+      "target": "是[saga.cast.debbie]告诉你，我这个夏天想找人来帮忙的吧？",
+      "id": "dia01_intro_ee26c599"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Is there any way we can continue the work without it?",
+      "target": "没有铲子，就没法继续干活了吗？",
+      "id": "dia01_intro_merge_1cef7897"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Well, we can't really dig up a garden without a shovel, can we?",
+      "target": "没铲子可没法给地翻土呀，你说是不是？",
+      "id": "dia01_intro_merge_db25bed0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "You should really take all the money I'm paying you to the bank too, when you're done!",
+      "target": "干完活，记得把挣的工钱都存到银行里去！",
+      "id": "dia01_diane_7e875815"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "That's your decision though.",
+      "target": "当然，怎么用还是你自己决定。",
+      "id": "dia01_diane_7c7bd8e4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "I grit my teeth and kept myself to the task, hoping all the while that she'd be compensating me well for so much physical labor.",
+      "target": "我咬着牙继续干，只盼着出了这么多力，她给工钱时也能大方点。",
+      "id": "dia01_outro_c4356860"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "As I worked, it became apparant that [saga.cast.diane] was watching me very intently...",
+      "target": "干着干着，我发现[saga.cast.diane]一直目不转睛地盯着我……",
+      "id": "dia01_outro_c620e918"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "... But I suppose she was just trying to make sure I did a good job.",
+      "target": "……不过，我想她大概只是想看看我干得好不好。",
+      "id": "dia01_outro_e62540c5"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "I err...",
+      "target": "我，呃……",
+      "id": "dia01_outro_d28583dd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "How did you get into this stuff anyways?",
+      "target": "说起来，你是怎么喜欢上种菜的？",
+      "id": "dia01_outro_6234445a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Oh, I've always had a bit of a green thumb. Even when I was a kid.",
+      "target": "哦，我从小就挺会侍弄花草的。",
+      "id": "dia01_outro_bbd878b2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "That's right! I wanted the whole nine yards!",
+      "target": "没错！种庄稼、养牲口，我全都想要！",
+      "id": "dia01_outro_6a24a8ac"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Why don't you come back tomorrow, and we'll continue where we left off?",
+      "target": "明天再来吧，咱们接着干，怎么样？",
+      "id": "dia01_outro_9f935ecf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Well, don't be timid, [saga.cast.anon].",
+      "target": "别拘束，[saga.cast.anon]。",
+      "id": "dia01_outro_diane_b30e33e1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Dig in!",
+      "target": "动手吧！",
+      "id": "dia01_outro_diane_415468fe"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "( Heh, a rare situation that I {i}can{/i} dig my way out of! )",
+      "target": "（呵，这回倒真{i}能{/i}靠挖土解决问题了！）",
+      "id": "dia01_outro_rails_96bf9574"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "I'm so wet for you right now...",
+      "target": "我现在都为你湿透了……",
+      "id": "tin_dusk_lounge_fe3fcf19"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "... I dunno... Think you have what it takes to get me over the finish line?",
+      "target": "……那可不好说……你有本事让我爽到高潮吗？",
+      "id": "tin_dusk_lounge_e25c61c5"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Points for confidence.",
+      "target": "这份自信倒是能加点分。",
+      "id": "tin_dusk_lounge_3dbfa592"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "I suppose it doesn't hurt to let you try.",
+      "target": "行，就让你再试试。",
+      "id": "tin_dusk_lounge_5887adb6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "N-no, I can do it!",
+      "target": "不、不，我可以的！",
+      "id": "tin_dusk_lounge_46dd0277"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Y-yeah, maybe.",
+      "target": "嗯、嗯，也许吧。",
+      "id": "tin_dusk_lounge_96ddf6ea"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Yeah, pound it!",
+      "target": "对，用力肏！",
+      "id": "tin_dusk_lounge_f02a1ec7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Thanks... I guess.",
+      "target": "呃……那就当你是在夸我吧。",
+      "id": "tin_dusk_lounge_8ddefb33"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Now, [saga.cast.anon]!",
+      "target": "马上，[saga.cast.anon]！",
+      "id": "tin_dusk_lounge_b371e2dc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Be careful, it'll burn you!",
+      "target": "小心，别烫着你！",
+      "id": "tin_dusk_lounge_892269a2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "C'mon, babyface... I'm not a fragile girl...",
+      "target": "来吧，小帅哥……我可没那么娇弱……",
+      "id": "tin_dusk_lounge_5b70d4c2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Here, let me take over.",
+      "target": "来，换我来。",
+      "id": "tin_dusk_lounge_b6855223"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Wha-",
+      "target": "什——",
+      "id": "tin_dusk_lounge_b82c2e64"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Now, babyface!",
+      "target": "马上，小帅哥！",
+      "id": "tin_dusk_lounge_ebc60811"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Y-yeah, okay.",
+      "target": "好、好吧。",
+      "id": "tin_dusk_lounge_a1f61959"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "You're squeezing me...",
+      "target": "你夹得我……",
+      "id": "tin_dusk_lounge_ea337b07"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "[saga.cast.tina], you're crushing my-",
+      "target": "[saga.cast.tina]，你都快夹碎我的——",
+      "id": "tin_dusk_lounge_b34ee4bd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "N-no, it was good!",
+      "target": "不、不是，感觉挺好的！",
+      "id": "tin_dusk_lounge_merge_ac0c5696"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "Y-yeah, okay.",
+      "target": "好、好吧。",
+      "id": "tin_dusk_lounge_merge_a1f61959"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "HNNGGG!!!",
+      "target": "嗯啊啊啊！！！",
+      "id": "tin_dusk_lounge_creampie_0cf4d269"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "NGGHHH!!!",
+      "target": "嗯呃呃呃！！！",
+      "id": "tin_dusk_lounge_creampie_06026dd3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "source": "( Double-oh-six-seven, license to drill! )",
+      "target": "（零零六七，持牌干炮！）",
+      "id": "tin_dusk_lounge_rails_ebbb42c0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv01.rpy",
+      "source": "Well, yeah... You're failing right now, aren't you?",
+      "target": "嗯，是啊……你现在不是都不及格了吗？",
+      "id": "viv01_intro_eve_cc725b36"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv01.rpy",
+      "source": "Well, I found part of a French dictionary.",
+      "target": "嗯，我找到一本法语词典，不过缺了几页。",
+      "id": "viv01_jane_e8d47d3f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv01.rpy",
+      "source": "Hmm, perhaps all is not lost. I'm sure a classmate of yours would be willing to let you copy the missing pages from their dictionary.",
+      "target": "嗯，也不是没办法。找个同学借本字典，把缺的几页复印下来吧，我想总会有人愿意借你的。",
+      "id": "viv01_viv_merge_3c401603"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv01.rpy",
+      "source": "( What is with women and their French dictionaries? )",
+      "target": "（这些女人怎么都这么宝贝自己的法语词典？）",
+      "id": "viv01_judith_45094b63"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv01.rpy",
+      "source": "Stay after class and we will begin.",
+      "target": "下课后留下来，我们就开始。",
+      "id": "viv01_outro_7f91a82e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv01.rpy",
+      "source": "Now make certain you bring it to your next class and we'll begin your private tutoring afterwards, yes?",
+      "target": "下节课一定要把它带来，课后我们就开始一对一辅导，好吗？",
+      "id": "viv01_outro_viv_ece544cb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jud_stall.rpy",
+      "source": "Magnificent muffins! That felt really nice!",
+      "target": "我的松饼呀！刚才那感觉真好！",
+      "id": "jud_stall_event_d5808aee"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jud_stall.rpy",
+      "source": "Holy honey buns!",
+      "target": "我的蜂蜜面包啊！",
+      "id": "jud_stall_event_2794ed4c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "Heh, that's what I like to see!",
+      "target": "嘿，这才像话嘛！",
+      "id": "jen_gfe_ready_dfc08f79"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "I'm pretty sure nobody would care, [saga.cast.jenny]...",
+      "target": "我想应该没人在乎，[saga.cast.jenny]……",
+      "id": "jen_gfe_ready_once_8d1c6238"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "[saga.cast.debbie] and I used to watch it all the time when I was little.",
+      "target": "小时候，我经常跟[saga.cast.debbie]一起看。",
+      "id": "jen_gfe_ready_once_70a78ff6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "I'm interested to see what comes next.",
+      "target": "我还想看看后面怎么演呢。",
+      "id": "jen_gfe_ready_once_48239ecf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "Want to do that thing?",
+      "target": "想做那事吗？",
+      "id": "jen_gfe_ready_soon_289a45f5"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "You're ruining my post-coital bliss.",
+      "target": "你把我刚才那股舒坦劲都搅没了。",
+      "id": "jen_gfe_jenny_merge1_bd005f51"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "I'm thinking, maybe I would like that.",
+      "target": "嗯……说不定我还真挺乐意。",
+      "id": "jen_gfe_jenny_alt_7b3a9015"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "Ahh, fuuuuuuuck!!",
+      "target": "啊，操——！！",
+      "id": "jen_gfe_jenny_alt_f54af906"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "Yeah, I know what you're saying and you're ruining my post coital bliss!",
+      "target": "行了，我知道你想说什么。你都快把我刚才那股舒坦劲搅没了！",
+      "id": "jen_gfe_jenny_merge2_91b86dcf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "YES!!!",
+      "target": "对，就是这样！！！",
+      "id": "jen_gfe_jenny_creampie2_d2a6132e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/+tutor.rpy",
+      "source": "Advancing between days is done by sleeping, which can be triggered by interacting with [saga.cast.anon]'s bed. Sometimes it may also be desirable to use the chair to ensure a peaceful night's sleep.",
+      "target": "点击[saga.cast.anon]的床睡觉，就能推进到第二天。有时也可以用椅子挡住门，免得睡觉时被打扰。",
+      "id": "tutor_hud_300a2a92"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/anon_chair.rpy",
+      "source": "... No lock, no problem!",
+      "target": "……没门锁也不成问题！",
+      "id": "anon_chair_0bacf2ee"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano01.rpy",
+      "source": "Oh, that reminds me!",
+      "target": "哦，说到这个！",
+      "id": "ano01_kevin_6eb3845c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano01.rpy",
+      "source": "You can't even do three miserable push-ups?!",
+      "target": "你连区区三个俯卧撑都做不了？！",
+      "id": "ano01_bridget_533c03c9"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "That should work just fine! Thank you so very much.",
+      "target": "那应该正好能用！真是太谢谢你了。",
+      "id": "bar05_ang_e952feda"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "... [saga.cast.mia] might end up fronting the bill on this one.",
+      "target": "……这回恐怕得让[saga.cast.mia]替我付出代价了。",
+      "id": "bar05_ang_fe00408e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "I'd better get these linens back to [saga.cast.barb].",
+      "target": "我得赶紧把这些亚麻布带回去交给[saga.cast.barb]。",
+      "id": "bar05_ang_74b2c123"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "No, I haven't gotten them yet.",
+      "target": "还没，我还没拿到。",
+      "id": "bar05_ang_barb_1e80f545"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Ah, it shouldn't be a problem. Plenty of usable material there.",
+      "target": "啊，没关系，还能用的布料足够了。",
+      "id": "bar05_barb2_d9f82ef6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "I thought I was just painting [saga.cast.ursula]?",
+      "target": "我还以为只画[saga.cast.ursula]一个人呢？",
+      "id": "bar05_barb2_1f687a5d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Ga-doy!!",
+      "target": "这还用问！！",
+      "id": "bar05_lily_48625eb7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Yeah, right.",
+      "target": "是啊，你就信吧。",
+      "id": "bar05_lily_bc4dcac0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "I'll be right back with those costumes.",
+      "target": "我去拿服装，马上回来。",
+      "id": "bar05_lily_7d0a7ae0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "... She did so well, she even brought me back some change!",
+      "target": "……她办得很不错，钱还有剩，还给我带回来了！",
+      "id": "bar05_barb3_349fed19"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "As for you... Let's plan on meeting up for your painting tomorrow afternoon, okay?",
+      "target": "至于你……我们约在明天下午画画，好吗？",
+      "id": "bar05_barb3_2dd46056"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "As for you... Let's plan on meeting up for your painting on [saga.time.dow + when] afternoon, okay?",
+      "target": "至于你……我们约在[saga.time.dow + when]下午画画，好吗？",
+      "id": "bar05_barb3_05348fbb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "And someone else too, apparently.",
+      "target": "而且听说还要画另一个人。",
+      "id": "bar05_pause2_barb_9419c0b2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Ugh, I'm really nervous about this afternoon.",
+      "target": "唉，一想到下午的事，我就紧张。",
+      "id": "bar05_delay2_barb_7096c267"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Man, I wish you and [saga.cast.barb] could stay with me while I paint this afternoon.",
+      "target": "唉，真希望今天下午画画的时候，你和[saga.cast.barb]能留下来陪我。",
+      "id": "bar05_delay2_mia_1ccdda17"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "I'd love to see how you manage creating something beautiful using [saga.cast.ursula] as the model.",
+      "target": "我倒想看看，以[saga.cast.ursula]为模特，你要怎么画出一幅好看的画。",
+      "id": "bar05_delay2_mia_02427dd2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Oh, man... this is gonna be tough, huh?!",
+      "target": "唉……这下可难办了，是吧？！",
+      "id": "bar05_delay2_mia_eefda411"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "So we're all set to go on the contest painting?",
+      "target": "那参赛的画可以开始画了吗？",
+      "id": "bar05_barb1_9793e619"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "You wanted to meet here this afternoon, right?",
+      "target": "我们约的是今天下午在这里见面，对吧？",
+      "id": "bar05_delay1_barb_4dedfcd3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "... And the honking.",
+      "target": "……还有我学喇叭叫的那两声。",
+      "id": "bar05_art1_950b1c61"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "... Yeah, I guess you're right.",
+      "target": "……嗯，你说得也对。",
+      "id": "bar05_art1_47f5466a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "[saga.cast.anon]'s still gonna paint something for that, right?",
+      "target": "[saga.cast.anon]还是会画一幅参赛作品的，对吧？",
+      "id": "bar05_art1_4af58de7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Unfortunately, cutie pie. You and I are gonna have to sit this one out.",
+      "target": "可惜了，小可爱。这次你和我都不能参与。",
+      "id": "bar05_art1_c41d5097"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Believe me, I'm not happy about it either.",
+      "target": "相信我，我也不乐意。",
+      "id": "bar05_art1_ee1ea0b4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "I was just starting to feel secure about my job again and this had to go and happen.",
+      "target": "我才刚觉得这份工作能保住了，就出了这档子事。",
+      "id": "bar05_art1_9fb05341"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Huh, well, that's convenient!",
+      "target": "哈，那可正好！",
+      "id": "bar05_art1_07eae791"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "[saga.cast.anon] can handle the linens.",
+      "target": "取亚麻布的事交给[saga.cast.anon]就行。",
+      "id": "bar05_art1_47378b28"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "I know you can do it, [saga.cast.mia]. So certainly, if I know it, you know it too!",
+      "target": "我知道你能行，[saga.cast.mia]。连我都对你这么有信心，你自己当然也该有信心！",
+      "id": "bar05_art1_45c7892f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Focus on the linens.",
+      "target": "你先把亚麻布弄来。",
+      "id": "bar05_art1_9c28b486"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "With all of nature's cute little critters frolicking about your feet, playing silly games and making merry.",
+      "target": "可爱的小动物就在你脚边嬉戏打闹，玩得不亦乐乎。",
+      "id": "bar05_art2_12bb81cd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Wait, what am I supposed to do with this acorn full of anxiety?!",
+      "target": "等等，那我手里这颗装满焦虑的橡子该怎么办？！",
+      "id": "bar05_art2_4e1808e7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "You're the artist aren't you?!",
+      "target": "你才是艺术家，不是吗？！",
+      "id": "bar05_art2_dd6493e3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "... What is happening right now?",
+      "target": "……这到底是在搞什么？",
+      "id": "bar05_art2_retry_dfa18b5e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "And rule 3...",
+      "target": "还有规矩三……",
+      "id": "bar05_art2_retry_9e7b456a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "It's about time.",
+      "target": "总算可以开始了。",
+      "id": "bar05_art2_retry_0d65e5ec"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Attend me, slave, before I lose my patience!",
+      "target": "奴隶，还不来伺候我！别等我没了耐心！",
+      "id": "bar05_art2_retry_fd9dc534"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Ugh, you've ruined the moment, slave...",
+      "target": "啧，真扫兴，奴隶……",
+      "id": "bar05_art2_retry_a62615db"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Peasant?! You may address me, just this once.",
+      "target": "贱民？！这次准你直接对我说话，仅此一次。",
+      "id": "bar05_art2_retry_825049bb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Yeah, imagine the weirdest thing you can.",
+      "target": "这样吧，先想一件你觉得最离奇的事。",
+      "id": "bar05_art2_retry_15be2017"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "You still won't even come close to how weird my night was...",
+      "target": "那都比不上我今晚经历的事有多离奇……",
+      "id": "bar05_art2_retry_feeda082"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "I'm pretty sure Mrs. [saga.cast.ursula.clan] would have me murdered in my sleep if I said anything more.",
+      "target": "要是我再多说一句，[saga.cast.ursula.clan]夫人多半会找人趁我睡着把我杀了。",
+      "id": "bar05_art2_retry_6bbd2562"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Mrs. [saga.cast.ursula.clan] said she wants it framed and delivered to her office right away.",
+      "target": "[saga.cast.ursula.clan]夫人说，画要立刻装裱好送到她办公室。",
+      "id": "bar05_art2_retry_951c42ea"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "Get on home and get some sleep. I'll make sure the painting gets framed and sent off to the contest.",
+      "target": "快回家睡一觉吧。我会把画装裱好，送去参赛。",
+      "id": "bar05_art2_retry_11198b13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "source": "( Let's just head to the art class and get this over with, yeah? )",
+      "target": "（还是赶紧去美术教室，把这事做完吧。）",
+      "id": "bar05_art2_rails_dd0b257a"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/paint.rpy",
+      "source": "Combine two paint tube colors to make [game.hint!i]!",
+      "target": "混合两种颜料，调出[game.hint!i]！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "I got your phone number from [saga.cast.barb]. I hope that's alright?",
+      "target": "我从[saga.cast.barb]那里拿到了你的电话号码，希望你不介意？",
+      "id": "bar06_art_83859534"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "... And I couldn't be more proud!",
+      "target": "……我真为你骄傲！",
+      "id": "bar06_art_89ba317f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "What's with the giant canvas?",
+      "target": "那块大画布是做什么用的？",
+      "id": "bar06_office3_aee62062"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "I want you to come a lot for me this time!",
+      "target": "这次我想让你多射一点！",
+      "id": "bar06_office3_reuse_c1db9b98"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "source": "... I still can't get over how good it is...",
+      "target": "……我还是不敢相信，会这么舒服……",
+      "id": "bar06_office3_reuse_7cf65d9b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/barb.rpy",
+      "source": "Partner.",
+      "target": "搭档",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar_office.rpy",
+      "source": "Aww.",
+      "target": "唉。",
+      "id": "bar_office_area_68347a3b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar01.rpy",
+      "source": "Huh? Yeah, that would be plenty to order new equipment, restock the art shelves, and maybe even hire some real models for you kids to paint.",
+      "target": "嗯？够了，这笔钱足够订购新设备、补充美术用品，甚至还能请几位真人模特，让你们照着画。",
+      "id": "bar01_clay_b9fc92b0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "I think we should get you a partner for these sessions, what do you think?",
+      "target": "我想给你找个搭档，一起上这些课，你觉得呢？",
+      "id": "bar02_intro_88041568"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "Yeah, somebody to work alongside you and bounce ideas back and forth!",
+      "target": "对，找个人和你一起创作，互相交流想法！",
+      "id": "bar02_intro_00e46a98"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "... But I doubt she'd have time with all her musical studies.",
+      "target": "……不过她还要学音乐，恐怕腾不出时间。",
+      "id": "bar02_intro_4de168b8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": ".. Unless...",
+      "target": "……难道……",
+      "id": "bar02_eve1_merge_b65d90d7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "Well, that's no problem.",
+      "target": "那没问题。",
+      "id": "bar02_eve1_merge_4efc5f5b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "( Hopefully she'll have an extra art pad that [saga.cast.mia] can borrow. )",
+      "target": "（希望她有多余的画板，能借[saga.cast.mia]一块。）",
+      "id": "bar02_eve1_fence_c076a478"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "Cool. See ya, [saga.cast.anon].",
+      "target": "行，那回见，[saga.cast.anon]。",
+      "id": "bar02_eve2_merge_eeb974cf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "( Hopefully [saga.cast.eve] will have some other idea where her artpad might be... )",
+      "target": "（希望[saga.cast.eve]还能想到别的线索，找到她的画板……）",
+      "id": "bar02_eve2_rails_d28fa71c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "( ... At least she'll be happy to have this back though. )",
+      "target": "（……不过至少能拿回背包，她应该会很高兴。）",
+      "id": "bar02_eve2_rails_c9491ffc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "So, could I get it from you?",
+      "target": "那能把它给我吗？",
+      "id": "bar02_chad_af6cfc3b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "Haaah, that's the deal, yo.",
+      "target": "哈，没错，就这么说定了，哥们。",
+      "id": "bar02_chad_451e599b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "Damn! Now that's a woman, yo!",
+      "target": "靠！这才叫女人嘛，哥们！",
+      "id": "bar02_chad_alt_e76272dd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "( Guess I should go speak with [saga.cast.chad] regarding [saga.cast.eve]'s art pad. )",
+      "target": "（看来得去找[saga.cast.chad]，问问[saga.cast.eve]的画板。）",
+      "id": "bar02_chad_rails_1ac718a2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "Yo, wha-",
+      "target": "哟，什——",
+      "id": "bar02_eve3_e12838be"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "What the-",
+      "target": "搞什么——",
+      "id": "bar02_eve3_76ddd08d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "( ... Maybe I should speak with [saga.cast.eve] about this [saga.cast.chad] situation. )",
+      "target": "（……也许该跟[saga.cast.eve]说说[saga.cast.chad]扣着画板的事。）",
+      "id": "bar02_eve3_locker_41773493"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "( I should probably speak with [saga.cast.eve] about this [saga.cast.chad] situation. )",
+      "target": "（我还是跟[saga.cast.eve]说说[saga.cast.chad]扣着画板的事吧。）",
+      "id": "bar02_eve3_rails_b57f2694"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "Mmm, no. That's okay. I'd rather not.",
+      "target": "嗯，还是算了吧。我不太想给你们看。",
+      "id": "bar02_art2_8e4b8550"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar02.rpy",
+      "source": "Remember, there's no such thing as bad art...",
+      "target": "记住，艺术没有好坏之分……",
+      "id": "bar02_art2_2481ae9a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "What's up, [saga.cast.anon]?",
+      "target": "最近怎么样，[saga.cast.anon]？",
+      "id": "bar03_mags_kevin_3378eb8f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "Not much. What are you reading?",
+      "target": "没什么事。你在看什么？",
+      "id": "bar03_mags_kevin_510559f1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "Awes-",
+      "target": "太棒——",
+      "id": "bar03_mags_melody_508673d3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "I coul-",
+      "target": "我可以——",
+      "id": "bar03_art1_2b6e8d1e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "Oh, umm... okay, I suppose.",
+      "target": "哦，呃……那好吧。",
+      "id": "bar03_art1_e67957d1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "( I wonder what they were talking about... )",
+      "target": "（不知道她们刚才在聊什么……）",
+      "id": "bar03_take_barb_c271caa5"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "Did you have any trouble finding them?",
+      "target": "杂志找起来还顺利吗？",
+      "id": "bar03_art2_5cd811fe"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "Yeah, that's probably a good idea.",
+      "target": "嗯，我还是早点回去吧。",
+      "id": "bar03_art2_272de1cc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar03.rpy",
+      "source": "No! I mean, they're not- These are for an art proj-",
+      "target": "不是！我是说，这些不是——这些是美术作业要用——",
+      "id": "bar03_art2_hall1_57dbca96"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "I've got exciting news on that front, actually!",
+      "target": "说起这个，我正好有个好消息！",
+      "id": "bar04_barb1_7ea6d16b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "I was unstoppable, and not to toot my own horn, but those easels might have been the some of the highest quality work I've ever done, before or since.",
+      "target": "我简直势不可挡。不是自吹，那几个画架大概是我这辈子做过最精良的作品之一。",
+      "id": "bar04_craft_4373aa02"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "What do you mean?",
+      "target": "怎么说？",
+      "id": "bar04_art1_9af7a8df"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "I don't suppose you'd be interested in modeling for an art piece?",
+      "target": "你应该没兴趣给一幅画当模特吧？",
+      "id": "bar04_judith1_dexter_4252deb4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "[saga.cast.barb] needs someone to pose for a painting.",
+      "target": "[saga.cast.barb]需要人来当绘画模特。",
+      "id": "bar04_judith1_dexter_4a75dfac"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "Ugh, just forget it.",
+      "target": "唉，算了，当我没说。",
+      "id": "bar04_judith1_dexter_463f2e77"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "Hahahaha!",
+      "target": "哈哈哈哈！",
+      "id": "bar04_judith1_dexter_3d69de98"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "It's super cool of you!",
+      "target": "你愿意帮这个忙，真是太棒了！",
+      "id": "bar04_barb3_judith_19989abc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "Everything is ready to go this afternoon, right?",
+      "target": "今天下午要用的都准备好了，对吧？",
+      "id": "bar04_delay2_barb_c032a827"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "I have to say, it's refreshing to see one of my students so enthusiastic over an art project.",
+      "target": "难得看到学生对美术作业这么热情，真让人高兴。",
+      "id": "bar04_delay2_barb_7b403762"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "I uhh-",
+      "target": "我，呃——",
+      "id": "bar04_judith2_6be9ff68"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "Sorry, I got held up.",
+      "target": "抱歉，刚才有事耽搁了。",
+      "id": "bar04_art2_cd5d11cb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "She's really gonna go through with it, huh?",
+      "target": "她真的决定当这个模特了，是吧？",
+      "id": "bar04_art2_09cd6e89"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "Calm down, [saga.cast.judith]... Everything is going to be fine, dear.",
+      "target": "别紧张，[saga.cast.judith]……不会有事的，亲爱的。",
+      "id": "bar04_art2_d022edfb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "Go ahead you two...",
+      "target": "你们俩也来吧……",
+      "id": "bar04_art2_78da91bd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "You had better have a damn good explanation for this, [saga.cast.barb.name]!",
+      "target": "[saga.cast.barb.name]，你最好能给我个说得过去的解释！",
+      "id": "bar04_art2_c4e81b7d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "source": "... But only if your student here can recreate this quality on a portrait of me!",
+      "target": "……但前提是，你这位学生得给我画一幅同样出色的肖像！",
+      "id": "bar04_art2_d0e79d37"
     }
   ]
 }

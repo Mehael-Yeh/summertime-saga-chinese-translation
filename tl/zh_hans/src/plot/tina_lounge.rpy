@@ -95,19 +95,19 @@ translate zh_hans tina_lounge_tina_81dd8f84:
 
 
     # tina f_horny "You know, you should swing by the bank on Monday."
-    tina f_horny "你知道，你应该周一去银行一趟。"
+    tina f_horny "对了，周一来银行找我吧。"
 
 # game/src/plot/tina_lounge.rpy:87
 translate zh_hans tina_lounge_tina_e555cf5d:
 
     # tina f_horny "You know, you should swing by the bank tomorrow."
-    tina f_horny "你知道，你明天应该去趟银行。"
+    tina f_horny "对了，明天来银行找我吧。"
 
 # game/src/plot/tina_lounge.rpy:89
 translate zh_hans tina_lounge_tina_ec7ceecc:
 
     # tina "We can schedule a little fun."
-    tina "我们可以安排点小乐子。"
+    tina "我们可以约个时间，好好亲热一下。"
 
 # game/src/plot/tina_lounge.rpy:90
 translate zh_hans tina_lounge_tina_3809b6ab:
@@ -147,7 +147,7 @@ translate zh_hans tina_lounge_tina1_c8f0e1e9:
 translate zh_hans tina_lounge_tina1_65594b63:
 
     # tina "This isn't a good time."
-    tina "现在不是好时机。"
+    tina "现在不太方便。"
 
 # game/src/plot/tina_lounge.rpy:105
 translate zh_hans tina_lounge_tina1_0a922936:
@@ -167,14 +167,14 @@ translate zh_hans tina_lounge_tina1_4ff08104:
 
 
     # tina f_horny "Come see me at work and we'll schedule something."
-    tina f_horny "来我工作的地方找我，我们安排一下。"
+    tina f_horny "来银行找我，我们再约个时间。"
 
 # game/src/plot/tina_lounge.rpy:110
 translate zh_hans tina_lounge_tina1_a1f61959:
 
 
     # anon "Y-yeah, okay."
-    anon "好，好吧。"
+    anon "好、好吧。"
 
 # game/src/plot/tina_lounge.rpy:114
 translate zh_hans tina_lounge_tina1_696adc62:

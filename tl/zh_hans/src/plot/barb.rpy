@@ -100,7 +100,7 @@ translate zh_hans barb_school_art_nope_ae56d48c:
 translate zh_hans barb_school_art_nope_985c6d70:
 
     # barb "... Just let me know if anything changes."
-    barb "……如果你改主意了就告诉我。"
+    barb "……如果安排有变，就告诉我。"
 
 # game/src/plot/barb.rpy:97
 translate zh_hans barb_school_art_nope_fbec2aa5:
@@ -136,7 +136,7 @@ translate zh_hans barb_school_art_outro_26fded18:
 translate zh_hans barb_school_art_outro_dd883abe:
 
     # barb f_calm "Alright, go in peace, [saga.cast.anon]..."
-    barb f_calm "好吧，注意安全，[saga.cast.anon]……"
+    barb f_calm "好吧，安心去吧，[saga.cast.anon]……"
 
 # game/src/plot/barb.rpy:109
 translate zh_hans barb_school_art_outro_e8491978:
@@ -154,7 +154,7 @@ translate zh_hans barb_school_office3_intro1_525ff438:
 translate zh_hans barb_school_office3_intro1_11b0fd8b:
 
     # barb "Nice of you to visit me!"
-    barb "很高兴你来拜访我！"
+    barb "真高兴你来看我！"
 
 # game/src/plot/barb.rpy:172
 translate zh_hans barb_school_office3_intro1_8a925b95:
@@ -184,7 +184,7 @@ translate zh_hans barb_school_office3_intro2_e0343252:
 translate zh_hans barb_school_office3_intro2_f9318f95:
 
     # barb f_horny "... I hope you're here for another private lesson?"
-    barb f_horny "……我希望你是来上另一节私人课程的？"
+    barb f_horny "……是来找我再上节私人课的吗？"
 
 # game/src/plot/barb.rpy:191
 translate zh_hans barb_school_office3_outro_43718cda:
@@ -208,7 +208,7 @@ translate zh_hans barb_school_office3_outro_9fab012a:
 translate zh_hans barb_school_office3_outro_8a24bc5a:
 
     # barb "Helping talented young artists is my specialty after all!"
-    barb "帮助有才华的年轻艺术家，毕竟是我的专长！"
+    barb "毕竟，培养有天赋的年轻艺术家可是我的拿手好戏！"
 
 # game/src/plot/barb.rpy:195
 translate zh_hans barb_school_office3_outro_25aa3ab2:
@@ -242,7 +242,7 @@ translate zh_hans strings:
 
     # game/src/plot/barb.rpy:8
     old "Partner."
-    new "同伴"
+    new "搭档"
 
     # game/src/plot/barb.rpy:11
     old "Lessons."

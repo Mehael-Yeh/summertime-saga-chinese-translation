@@ -28,4 +28,4 @@ translate zh_hans anon_chair_3503556f:
 translate zh_hans anon_chair_0bacf2ee:
 
     # anon "... No lock, no problem!"
-    anon "……没锁？那就好办了！"
+    anon "……没门锁也不成问题！"

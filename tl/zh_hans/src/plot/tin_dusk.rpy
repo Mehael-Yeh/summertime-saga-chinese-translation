@@ -231,7 +231,7 @@ translate zh_hans tin_dusk_lounge_6e6a37b3:
 # game/src/plot/tin_dusk.rpy:130
 translate zh_hans tin_dusk_lounge_fe3fcf19:
     # tina c_lingerie_bottom p_pickup_away "I'm so wet for you right now..."
-    tina c_lingerie_bottom p_pickup_away "为了你，我现在已经浑身湿透了……"
+    tina c_lingerie_bottom p_pickup_away "我现在都为你湿透了……"
 
 # game/src/plot/tin_dusk.rpy:137
 translate zh_hans tin_dusk_lounge_0e8509ad:
@@ -255,7 +255,7 @@ translate zh_hans tin_dusk_lounge_468dbce9:
 translate zh_hans tin_dusk_lounge_e25c61c5:
 
     # tina e_w f_sceptical "... I dunno... Think you have what it takes to get me over the finish line?"
-    tina e_w f_sceptical "……我不知道……你觉得你能让我爽到高潮吗？"
+    tina e_w f_sceptical "……那可不好说……你有本事让我爽到高潮吗？"
 
 # game/src/plot/tin_dusk.rpy:145
 translate zh_hans tin_dusk_lounge_720de690:
@@ -267,7 +267,7 @@ translate zh_hans tin_dusk_lounge_720de690:
 translate zh_hans tin_dusk_lounge_3dbfa592:
 
     # tina "Points for confidence."
-    tina "自信加分。"
+    tina "这份自信倒是能加点分。"
 
 # game/src/plot/tin_dusk.rpy:150
 translate zh_hans tin_dusk_lounge_aeb32dbd:
@@ -321,7 +321,7 @@ translate zh_hans tin_dusk_lounge_5b0f510a:
 translate zh_hans tin_dusk_lounge_5887adb6:
 
     # tina "I suppose it doesn't hurt to let you try."
-    tina "我想让你试试也无妨。"
+    tina "行，就让你再试试。"
 
 # game/src/plot/tin_dusk.rpy:171
 translate zh_hans tin_dusk_lounge_528db071:
@@ -393,7 +393,7 @@ translate zh_hans tin_dusk_lounge_bb22a266:
 translate zh_hans tin_dusk_lounge_46dd0277:
 
     # anon "N-no, I can do it!"
-    anon "不，我可以的！"
+    anon "不、不，我可以的！"
 
 # game/src/plot/tin_dusk.rpy:200
 translate zh_hans tin_dusk_lounge_f345bd48:
@@ -411,7 +411,7 @@ translate zh_hans tin_dusk_lounge_4bfea5cd:
 translate zh_hans tin_dusk_lounge_96ddf6ea:
 
     # tina "Y-yeah, maybe."
-    tina "嗯…可能吧。"
+    tina "嗯、嗯，也许吧。"
 
 # game/src/plot/tin_dusk.rpy:204
 translate zh_hans tin_dusk_lounge_c6223d68:
@@ -423,7 +423,7 @@ translate zh_hans tin_dusk_lounge_c6223d68:
 translate zh_hans tin_dusk_lounge_f02a1ec7:
 
     # tina "Yeah, pound it!"
-    tina "对，肏它！"
+    tina "对，用力肏！"
 
 # game/src/plot/tin_dusk.rpy:207
 translate zh_hans tin_dusk_lounge_2f51d8bc:
@@ -447,7 +447,7 @@ translate zh_hans tin_dusk_lounge_1f10a7f5:
 translate zh_hans tin_dusk_lounge_8ddefb33:
 
     # tina "Thanks... I guess."
-    tina "谢了…大概吧。"
+    tina "呃……那就当你是在夸我吧。"
 
 # game/src/plot/tin_dusk.rpy:213
 translate zh_hans tin_dusk_lounge_edfcdbb6:
@@ -513,7 +513,7 @@ translate zh_hans tin_dusk_lounge_b2d0460d:
 translate zh_hans tin_dusk_lounge_b371e2dc:
 
     # tina "Now, [saga.cast.anon]!"
-    tina "现在，[saga.cast.anon]！"
+    tina "马上，[saga.cast.anon]！"
 
 # game/src/plot/tin_dusk.rpy:226
 translate zh_hans tin_dusk_lounge_aab6f843:
@@ -555,7 +555,7 @@ translate zh_hans tin_dusk_lounge_c4a737c6:
 translate zh_hans tin_dusk_lounge_892269a2:
 
     # tina "Be careful, it'll burn you!"
-    tina "小心点，它会烧伤你的！"
+    tina "小心，别烫着你！"
 
 # game/src/plot/tin_dusk.rpy:235
 translate zh_hans tin_dusk_lounge_586392e4:
@@ -579,7 +579,7 @@ translate zh_hans tin_dusk_lounge_d1abd50a:
 translate zh_hans tin_dusk_lounge_5b70d4c2:
 
     # tina "C'mon, babyface... I'm not a fragile girl..."
-    tina "来吧，小帅哥……我不是脆弱的女孩……"
+    tina "来吧，小帅哥……我可没那么娇弱……"
 
 # game/src/plot/tin_dusk.rpy:240
 translate zh_hans tin_dusk_lounge_1ec249cb:
@@ -657,13 +657,13 @@ translate zh_hans tin_dusk_lounge_13992a17:
 translate zh_hans tin_dusk_lounge_b6855223:
 
     # tina "Here, let me take over."
-    tina "来，让我主导。"
+    tina "来，换我来。"
 
 # game/src/plot/tin_dusk.rpy:255
 translate zh_hans tin_dusk_lounge_b82c2e64:
 
     # anon "Wha-"
-    anon "什-"
+    anon "什——"
 
 # game/src/plot/tin_dusk.rpy:256
 translate zh_hans tin_dusk_lounge_5502af91:
@@ -693,7 +693,7 @@ translate zh_hans tin_dusk_lounge_424e82b6:
 translate zh_hans tin_dusk_lounge_ebc60811:
 
     # tina "Now, babyface!"
-    tina "现在，小帅哥！"
+    tina "马上，小帅哥！"
 
 # game/src/plot/tin_dusk.rpy:263
 translate zh_hans tin_dusk_lounge_3f16262f:
@@ -705,7 +705,7 @@ translate zh_hans tin_dusk_lounge_3f16262f:
 translate zh_hans tin_dusk_lounge_a1f61959:
 
     # anon "Y-yeah, okay."
-    anon "好，好吧。"
+    anon "好、好吧。"
 
 # game/src/plot/tin_dusk.rpy:278
 translate zh_hans tin_dusk_lounge_41ab73a3:
@@ -819,7 +819,7 @@ translate zh_hans tin_dusk_lounge_a45f3616:
 translate zh_hans tin_dusk_lounge_ea337b07:
 
     # anon "You're squeezing me..."
-    anon "你把我夹得太紧了……"
+    anon "你夹得我……"
 
 # game/src/plot/tin_dusk.rpy:312
 translate zh_hans tin_dusk_lounge_fec98111:
@@ -843,7 +843,7 @@ translate zh_hans tin_dusk_lounge_c8c7dc91:
 translate zh_hans tin_dusk_lounge_b34ee4bd:
 
     # anon "[saga.cast.tina], you're crushing my-"
-    anon "[saga.cast.tina]，你压到我的—"
+    anon "[saga.cast.tina]，你都快夹碎我的——"
 
 # game/src/plot/tin_dusk.rpy:316
 translate zh_hans tin_dusk_lounge_d417dea9:
@@ -921,7 +921,7 @@ translate zh_hans tin_dusk_lounge_merge_e53cdec4:
 translate zh_hans tin_dusk_lounge_merge_ac0c5696:
 
     # anon "N-no, it was good!"
-    anon "不——不，挺好的！"
+    anon "不、不是，感觉挺好的！"
 
 # game/src/plot/tin_dusk.rpy:342
 translate zh_hans tin_dusk_lounge_merge_e1108a4e:
@@ -951,7 +951,7 @@ translate zh_hans tin_dusk_lounge_merge_77ef3d60:
 translate zh_hans tin_dusk_lounge_merge_a1f61959:
 
     # anon "Y-yeah, okay."
-    anon "好——好吧。"
+    anon "好、好吧。"
 
 # game/src/plot/tin_dusk.rpy:365
 translate zh_hans tin_dusk_lounge_merge_187cc2d5:
@@ -969,13 +969,13 @@ translate zh_hans tin_dusk_lounge_merge_c704becc:
 translate zh_hans tin_dusk_lounge_creampie_0cf4d269:
 
     # anon "HNNGGG!!!" with flash
-    anon "哈哈！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/tin_dusk.rpy:376
 translate zh_hans tin_dusk_lounge_creampie_06026dd3:
 
     # tina p_tina_lounge_floor_ride_cum_02 "NGGHHH!!!"
-    tina p_tina_lounge_floor_ride_cum_02 "嗯嗯！！！"
+    tina p_tina_lounge_floor_ride_cum_02 "嗯呃呃呃！！！"
 
 # game/src/plot/tin_dusk.rpy:386
 translate zh_hans tin_dusk_lounge_rails_419625a3:
@@ -993,4 +993,4 @@ translate zh_hans tin_dusk_lounge_rails_400ca9ec:
 translate zh_hans tin_dusk_lounge_rails_ebbb42c0:
 
     # anon e_b m_teeth @ -m_talk "( Double-oh-six-seven, license to drill! )"
-    anon e_b m_teeth @ -m_talk "零零六七，持牌干炮！"
+    anon e_b m_teeth @ -m_talk "（零零六七，持牌干炮！）"

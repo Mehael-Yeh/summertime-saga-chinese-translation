@@ -4,7 +4,7 @@
 translate zh_hans debbie_debbie_bed1_bebdc4ad:
 
     # TODO "Coming {s}soon{/s} later!"
-    TODO "稍后{s}很快{/s}推出！"
+    TODO "{s}很快{/s}以后再推出！"
 
 # game/src/plot/debbie.rpy:10
 translate zh_hans debbie_debbie_bed1_sleep_d15f7b5b:
@@ -46,7 +46,7 @@ translate zh_hans debbie_debbie_kitchen_intro1_35942aca:
 translate zh_hans debbie_debbie_kitchen_intro1_e8e2fbb0:
 
     # debbie e_w f_shy p_stand "I hope you didn't fall too far behind, what with all that's happened?"
-    debbie e_w f_shy p_stand "希望你没落下太多功课，毕竟发生了那么多事？"
+    debbie e_w f_shy p_stand "发生了这么多事，希望你没落下太多功课？"
 
 # game/src/plot/debbie.rpy:70
 translate zh_hans debbie_debbie_kitchen_intro1_c7b521a8:
@@ -82,7 +82,7 @@ translate zh_hans debbie_debbie_kitchen_intro2_38af74d2:
 translate zh_hans debbie_debbie_kitchen_intro2_35c41580:
 
     # debbie "Looking for me, I hope."
-    debbie "希望是在找我。"
+    debbie "是来找我的吧？"
 
 # game/src/plot/debbie.rpy:90
 translate zh_hans debbie_debbie_kitchen_intro2_80cca2be:
@@ -94,7 +94,7 @@ translate zh_hans debbie_debbie_kitchen_intro2_80cca2be:
 translate zh_hans debbie_debbie_kitchen_intro2_80562afc:
 
     # debbie "I was hoping I'd see you today."
-    debbie "我希望能今天见到你。"
+    debbie "正盼着今天能见到你呢。"
 
 # game/src/plot/debbie.rpy:97
 translate zh_hans debbie_debbie_kitchen_intro2_f45f65b0:
@@ -262,7 +262,7 @@ translate zh_hans debbie_debbie_lobby_outro2_2777fd97:
 translate zh_hans debbie_debbie_lobby_outro2_e289b5f6:
 
     # debbie a_side "Now you go on... and stop worrying about your old landlady!"
-    debbie a_side "你现在继续吧……别担心你那个老房东了！"
+    debbie a_side "好啦，忙你的去吧……别再操心你这老房东了！"
 
 # game/src/plot/debbie.rpy:259
 translate zh_hans debbie_debbie_lobby_outro2_0a01c03b:
@@ -412,7 +412,7 @@ translate zh_hans debbie_debbie_utility_outro_16b5e6eb:
 translate zh_hans debbie_debbie_utility_outro_9d9412ce:
 
     # debbie f_calm "You get out there and enjoy the day!"
-    debbie f_calm "你出去享受今天吧！"
+    debbie f_calm "出去好好玩吧！"
 
 # game/src/plot/debbie.rpy:371
 translate zh_hans debbie_debbie_utility_outro_ac4caad7:
@@ -466,7 +466,7 @@ translate zh_hans debbie_debbie_yard_intro1_3b215984:
 translate zh_hans debbie_debbie_yard_intro1_ed08b1d8:
 
     # debbie e_sw f_sad "Y-yeah, maybe a bit."
-    debbie e_sw f_sad "是——是，可能有点吧。"
+    debbie e_sw f_sad "是、是啊，有一点吧。"
 
 # game/src/plot/debbie.rpy:436
 translate zh_hans debbie_debbie_yard_intro1_bd489022:
@@ -478,13 +478,13 @@ translate zh_hans debbie_debbie_yard_intro1_bd489022:
 translate zh_hans debbie_debbie_yard_intro1_d3c991e3:
 
     # debbie "... And now it's all just-"
-    debbie "……现在全都没了——"
+    debbie "……可现在，这一切都——"
 
 # game/src/plot/debbie.rpy:438
 translate zh_hans debbie_debbie_yard_intro1_31d01ad2:
 
     # anon "Gone?"
-    anon "消失了吗？"
+    anon "没了？"
 
 # game/src/plot/debbie.rpy:439
 translate zh_hans debbie_debbie_yard_intro1_da9a3cd4:
@@ -526,13 +526,13 @@ translate zh_hans debbie_debbie_yard_intro1_e5356ec1:
 translate zh_hans debbie_debbie_yard_intro1_21f33ac1:
 
     # anon "But I'm certain you'll figure it out."
-    anon "但我相信你会搞明白的。"
+    anon "不过我相信，你会慢慢找到方向的。"
 
 # game/src/plot/debbie.rpy:454
 translate zh_hans debbie_debbie_yard_intro1_a3d13d67:
 
     # anon "And I'll be here for you every step of the way as you work through it."
-    anon "在你努力的过程中，我会一直在这里陪着你。"
+    anon "在你慢慢走出来的这段日子里，我会一直陪着你。"
 
 # game/src/plot/debbie.rpy:455
 translate zh_hans debbie_debbie_yard_intro1_dca7a8cb:
@@ -574,13 +574,13 @@ translate zh_hans debbie_debbie_yard_intro1_3e405d53:
 translate zh_hans debbie_debbie_yard_intro1_e75c2120:
 
     # debbie "Why don't you head inside and give me a moment to compose myself."
-    debbie "你为什么不先进去，让我整理一下思绪。"
+    debbie "你先进去吧，让我缓一缓。"
 
 # game/src/plot/debbie.rpy:469
 translate zh_hans debbie_debbie_yard_intro1_344b17ac:
 
     # debbie "I'll be along shortly and get dinner started."
-    debbie "我一会儿就来，开始准备晚餐。"
+    debbie "我一会儿就进去做晚饭。"
 
 # game/src/plot/debbie.rpy:470
 translate zh_hans debbie_debbie_yard_intro1_5e08f6e7:
@@ -706,13 +706,13 @@ translate zh_hans debbie_debbie_yard_intro3_dec6810c:
 translate zh_hans debbie_debbie_yard_intro3_ce7a0675:
 
     # anon "Yeah, I bet."
-    anon "是啊，忙了一天，可算能放松了。"
+    anon "是啊，肯定很舒服。"
 
 # game/src/plot/debbie.rpy:547
 translate zh_hans debbie_debbie_yard_intro4_3b4f0f07:
 
     # anon "H-hey, [saga.cast.debbie]?"
-    anon "嘿，[saga.cast.debbie]？"
+    anon "嘿、嘿，[saga.cast.debbie]？"
 
 # game/src/plot/debbie.rpy:548
 translate zh_hans debbie_debbie_yard_intro4_51a5f0b7:
@@ -784,7 +784,7 @@ translate zh_hans debbie_debbie_yard_intro4b_a27a58c9:
 translate zh_hans debbie_debbie_yard_intro4b_7fd304b2:
 
     # debbie "Really?"
-    debbie "真的吗？"
+    debbie "你还真来啊？"
 
 # game/src/plot/debbie.rpy:595
 translate zh_hans debbie_debbie_yard_intro4b_a09ac346:
@@ -814,7 +814,7 @@ translate zh_hans debbie_debbie_yard_intro4b_a09ac346_1:
 translate zh_hans debbie_debbie_yard_intro4b_27bb0f59:
 
     # debbie "Sweetie, you're not being very nice right now."
-    debbie "亲爱的，你现在可不太友好哦。"
+    debbie "亲爱的，你这样闹可就不好了哦。"
 
 # game/src/plot/debbie.rpy:603
 translate zh_hans debbie_debbie_yard_intro4b_58409537:
@@ -850,7 +850,7 @@ translate zh_hans debbie_debbie_yard_intro4b_a09ac346_2:
 translate zh_hans debbie_debbie_yard_intro4b_cbe384c7:
 
     # debbie "Okay, that's the last one!"
-    debbie "好了，这是最后一个了！"
+    debbie "好了，只许这最后一次！"
 
 # game/src/plot/debbie.rpy:612
 translate zh_hans debbie_debbie_yard_intro4b_def97ec5:
@@ -886,7 +886,7 @@ translate zh_hans debbie_debbie_yard_intro4b_6a709d9a:
 translate zh_hans debbie_debbie_yard_intro4b_0a2b46b4:
 
     # debbie e_b f_calm "Mm, relaxing."
-    debbie e_b f_calm "嗯，真放松。"
+    debbie e_b f_calm "嗯，歇会儿。"
 
 # game/src/plot/debbie.rpy:623
 translate zh_hans debbie_debbie_yard_intro4b_1aa1cca1:
@@ -904,7 +904,7 @@ translate zh_hans debbie_debbie_yard_outro2_ecda6b49:
 translate zh_hans debbie_debbie_yard_outro2_92803a0b:
 
     # anon "And don't stay out too long or your feet will get all pruney."
-    anon "别在外面待太久，不然脚会泡皱的。"
+    anon "也别泡太久，不然脚都要泡皱了。"
 
 # game/src/plot/debbie.rpy:647
 translate zh_hans debbie_debbie_yard_outro2_e9a65716:
@@ -922,7 +922,7 @@ translate zh_hans debbie_debbie_yard_outro3_cd21e5bb:
 translate zh_hans debbie_debbie_yard_outro3_7bb62575:
 
     # anon f_calm "... But I suppose, I should do something productive with my evening."
-    anon f_calm "……但我想，我该用今晚做点有意义的事。"
+    anon f_calm "……不过今晚总得干点正事。"
 
 # game/src/plot/debbie.rpy:657
 translate zh_hans debbie_debbie_yard_outro3_91a54e17:
@@ -946,7 +946,7 @@ translate zh_hans debbie_debbie_yard_outro3_4b981197:
 translate zh_hans debbie_debbie_yard_outro4_0810472c:
 
     # anon f_shy "Well, I'll leave you to it."
-    anon f_shy "好吧，那你忙吧。"
+    anon f_shy "好吧，那就不打扰你了。"
 
 # game/src/plot/debbie.rpy:672
 translate zh_hans debbie_debbie_yard_outro4_ac78db09:
@@ -1162,7 +1162,7 @@ translate zh_hans debbie_debbie_yard_swim3_c5bb643e:
 translate zh_hans debbie_debbie_yard_swim3_19bea77f:
 
     # debbie "... N-no, sweetie."
-    debbie "…… 不，亲爱的。"
+    debbie "……不、不行，亲爱的。"
 
 # game/src/plot/debbie.rpy:745
 translate zh_hans debbie_debbie_yard_swim3_5830bdf6:
@@ -1180,7 +1180,7 @@ translate zh_hans debbie_debbie_yard_swim3_76b149c1:
 translate zh_hans debbie_debbie_yard_swim3_bd5d981f:
 
     # anon f_calm "Another time though."
-    anon f_calm "改天吧。"
+    anon f_calm "不过，说好了下次啊。"
 
 # game/src/plot/debbie.rpy:748
 translate zh_hans debbie_debbie_yard_swim3_c14aca4a:
@@ -1222,7 +1222,7 @@ translate zh_hans debbie_debbie_yard_swim4_2092fc40:
 translate zh_hans debbie_debbie_yard_swim4_3f4fc7ee:
 
     # debbie "Heh, I am having fun!"
-    debbie "呵，我已经在找乐子了！"
+    debbie "呵，我现在就挺开心呀！"
 
 # game/src/plot/debbie.rpy:761
 translate zh_hans debbie_debbie_yard_swim4_9f5163e4:

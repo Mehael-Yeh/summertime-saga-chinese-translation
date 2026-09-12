@@ -4,7 +4,7 @@
 translate zh_hans judith_school_art_intro_e18be7b3:
 
     # anon "Enjoying art, [saga.cast.judith]?"
-    anon "在欣赏艺术吗，[saga.cast.judith]？"
+    anon "喜欢美术课吗，[saga.cast.judith]？"
 
 # game/src/plot/judith.rpy:40
 translate zh_hans judith_school_art_intro_50da544b:

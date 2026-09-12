@@ -10,7 +10,7 @@ translate zh_hans bar04_barb1_af88a21d:
 translate zh_hans bar04_barb1_7ea6d16b:
 
     # barb "I've got exciting news on that front, actually!"
-    barb "其实这方面我正好有个令人兴奋的消息！"
+    barb "说起这个，我正好有个好消息！"
 
 # game/src/plot/bar04.rpy:4
 translate zh_hans bar04_barb1_06c80ca3:
@@ -274,7 +274,7 @@ translate zh_hans bar04_craft_fd595f31:
 translate zh_hans bar04_craft_4373aa02:
 
     # mono "I was unstoppable, and not to toot my own horn, but those easels might have been the some of the highest quality work I've ever done, before or since."
-    mono "我简直势不可挡。不是自吹，那几个画架大概是我这辈子前后做过最精良的作品之一。"
+    mono "我简直势不可挡。不是自吹，那几个画架大概是我这辈子做过最精良的作品之一。"
 
 # game/src/plot/bar04.rpy:125
 translate zh_hans bar04_craft_item_e0e887f0:
@@ -688,7 +688,7 @@ translate zh_hans bar04_art1_1aad5688:
 translate zh_hans bar04_art1_9af7a8df:
 
     # anon "What do you mean?"
-    anon "你什么意思？"
+    anon "怎么说？"
 
 # game/src/plot/bar04.rpy:340
 translate zh_hans bar04_art1_1c058f16:
@@ -1012,7 +1012,7 @@ translate zh_hans bar04_judith1_barb_81b917d7:
 translate zh_hans bar04_judith1_dexter_4252deb4:
 
     # anon "I don't suppose you'd be interested in modeling for an art piece?"
-    anon "我想你不会对为一件艺术品当模特感兴趣吧？"
+    anon "你应该没兴趣给一幅画当模特吧？"
 
 # game/src/plot/bar04.rpy:499
 translate zh_hans bar04_judith1_dexter_79b0110b:
@@ -1024,7 +1024,7 @@ translate zh_hans bar04_judith1_dexter_79b0110b:
 translate zh_hans bar04_judith1_dexter_4a75dfac:
 
     # anon "[saga.cast.barb] needs someone to pose for a painting."
-    anon "[saga.cast.barb]需要有人为画作摆姿势。"
+    anon "[saga.cast.barb]需要人来当绘画模特。"
 
 # game/src/plot/bar04.rpy:504
 translate zh_hans bar04_judith1_dexter_6ab9c6f2:
@@ -1084,7 +1084,7 @@ translate zh_hans bar04_judith1_dexter_a1645ab6:
 translate zh_hans bar04_judith1_dexter_463f2e77:
 
     # anon "Ugh, just forget it."
-    anon "你该不会是基佬吧？！"
+    anon "唉，算了，当我没说。"
 
 # game/src/plot/bar04.rpy:530
 translate zh_hans bar04_judith1_dexter_60a2c492:
@@ -1108,7 +1108,7 @@ translate zh_hans bar04_judith1_dexter_db29b82f:
 translate zh_hans bar04_judith1_dexter_3d69de98:
 
     # dexter "Hahahaha!"
-    dexter "哟，小基佬书呆子要哭鼻子了？！"
+    dexter "哈哈哈哈！"
 
 # game/src/plot/bar04.rpy:544
 translate zh_hans bar04_judith1_erik_1e07fb5b:
@@ -1630,7 +1630,7 @@ translate zh_hans bar04_barb3_judith_d59b80c7:
 translate zh_hans bar04_barb3_judith_19989abc:
 
     # anon "It's super cool of you!"
-    anon "你肯帮忙真是太好了！"
+    anon "你愿意帮这个忙，真是太棒了！"
 
 # game/src/plot/bar04.rpy:762
 translate zh_hans bar04_barb3_judith_f6e582f1:
@@ -1798,7 +1798,7 @@ translate zh_hans bar04_delay2_cecf4ac5:
 translate zh_hans bar04_delay2_barb_c032a827:
 
     # anon f_confused "Everything is ready to go this afternoon, right?"
-    anon f_confused "今天下午一切都准备好了，对吧？"
+    anon f_confused "今天下午要用的都准备好了，对吧？"
 
 # game/src/plot/bar04.rpy:856
 translate zh_hans bar04_delay2_barb_70b67f7c:
@@ -1816,7 +1816,7 @@ translate zh_hans bar04_delay2_barb_96ef2aee:
 translate zh_hans bar04_delay2_barb_7b403762:
 
     # barb "I have to say, it's refreshing to see one of my students so enthusiastic over an art project."
-    barb "不得不说，看到我的学生对艺术项目这么热情，真是令人耳目一新。"
+    barb "难得看到学生对美术作业这么热情，真让人高兴。"
 
 # game/src/plot/bar04.rpy:859
 translate zh_hans bar04_delay2_barb_83857e54:
@@ -1894,7 +1894,7 @@ translate zh_hans bar04_judith2_dba201cf:
 translate zh_hans bar04_judith2_6be9ff68:
 
     # judith "I uhh-"
-    judith "我呃-"
+    judith "我，呃——"
 
 # game/src/plot/bar04.rpy:896
 translate zh_hans bar04_judith2_1285a2fe:
@@ -2182,7 +2182,7 @@ translate zh_hans bar04_art2_b80d19b1:
 translate zh_hans bar04_art2_cd5d11cb:
 
     # mia "Sorry, I got held up."
-    mia "抱歉，我被耽搁了。"
+    mia "抱歉，刚才有事耽搁了。"
 
 # game/src/plot/bar04.rpy:1039
 translate zh_hans bar04_art2_b015da7a:
@@ -2194,7 +2194,7 @@ translate zh_hans bar04_art2_b015da7a:
 translate zh_hans bar04_art2_09cd6e89:
 
     # mia "She's really gonna go through with it, huh?"
-    mia "她真的要做到底，是吧？"
+    mia "她真的决定当这个模特了，是吧？"
 
 # game/src/plot/bar04.rpy:1044
 translate zh_hans bar04_art2_8aa9dfd2:
@@ -2242,7 +2242,7 @@ translate zh_hans bar04_art2_2619b456:
 translate zh_hans bar04_art2_d022edfb:
 
     # barb "Calm down, [saga.cast.judith]... Everything is going to be fine, dear."
-    barb "冷静点，[saga.cast.judith]……一切都会好起来的，亲爱的。"
+    barb "别紧张，[saga.cast.judith]……不会有事的，亲爱的。"
 
 # game/src/plot/bar04.rpy:1073
 translate zh_hans bar04_art2_3dd485fc:
@@ -2554,7 +2554,7 @@ translate zh_hans bar04_art2_a121c85f:
 translate zh_hans bar04_art2_78da91bd:
 
     # barb "Go ahead you two..."
-    barb "你们两个先来吧……"
+    barb "你们俩也来吧……"
 
 # game/src/plot/bar04.rpy:1261
 translate zh_hans bar04_art2_cb763849:
@@ -3262,7 +3262,7 @@ translate zh_hans bar04_art2_24e6321e:
 translate zh_hans bar04_art2_c4e81b7d:
 
     # ursula "You had better have a damn good explanation for this, [saga.cast.barb.name]!"
-    ursula "你最好给我一个该死的合理解释，[saga.cast.barb.name]！"
+    ursula "[saga.cast.barb.name]，你最好能给我个说得过去的解释！"
 
 # game/src/plot/bar04.rpy:1624
 translate zh_hans bar04_art2_4b1da289:
@@ -3508,7 +3508,7 @@ translate zh_hans bar04_art2_2c1aa70b:
 translate zh_hans bar04_art2_d0e79d37:
 
     # ursula "... But only if your student here can recreate this quality on a portrait of me!"
-    ursula "……但前提是你这位学生能为我画一幅同样质量的人像！"
+    ursula "……但前提是，你这位学生得给我画一幅同样出色的肖像！"
 
 # game/src/plot/bar04.rpy:1723
 translate zh_hans bar04_art2_3ee543cf:

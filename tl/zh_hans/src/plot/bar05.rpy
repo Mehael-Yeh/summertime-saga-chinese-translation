@@ -28,7 +28,7 @@ translate zh_hans bar05_setup_barb_dfeb85a8:
 translate zh_hans bar05_barb1_9793e619:
 
     # anon f_confused "So we're all set to go on the contest painting?"
-    anon f_confused "那我们参加比赛这幅画已经准备好了吗？"
+    anon f_confused "那参赛的画可以开始画了吗？"
 
 # game/src/plot/bar05.rpy:15
 translate zh_hans bar05_barb1_2cd2792f:
@@ -112,7 +112,7 @@ translate zh_hans bar05_delay1_d0552460:
 translate zh_hans bar05_delay1_barb_4dedfcd3:
 
     # anon f_confused "You wanted to meet here this afternoon, right?"
-    anon f_confused "你想今天下午在这里见面，对吧？"
+    anon f_confused "我们约的是今天下午在这里见面，对吧？"
 
 # game/src/plot/bar05.rpy:68
 translate zh_hans bar05_delay1_barb_e408bc94:
@@ -226,7 +226,7 @@ translate zh_hans bar05_art1_c5467c1d:
 translate zh_hans bar05_art1_950b1c61:
 
     # mia "... And the honking."
-    mia "……还有那声淫叫。"
+    mia "……还有我学喇叭叫的那两声。"
 
 # game/src/plot/bar05.rpy:128
 translate zh_hans bar05_art1_d91a992e_1:
@@ -322,7 +322,7 @@ translate zh_hans bar05_art1_a109b0f7:
 translate zh_hans bar05_art1_47f5466a:
 
     # mia "... Yeah, I guess you're right."
-    mia "…… 是啊，我想你是对的。"
+    mia "……嗯，你说得也对。"
 
 # game/src/plot/bar05.rpy:164
 translate zh_hans bar05_art1_573d8b96:
@@ -394,7 +394,7 @@ translate zh_hans bar05_art1_b0bb135c:
 translate zh_hans bar05_art1_4af58de7:
 
     # mia "[saga.cast.anon]'s still gonna paint something for that, right?"
-    mia "[saga.cast.anon]还是会为此画一幅画的，对吧？"
+    mia "[saga.cast.anon]还是会画一幅参赛作品的，对吧？"
 
 # game/src/plot/bar05.rpy:195
 translate zh_hans bar05_art1_547c9671:
@@ -466,7 +466,7 @@ translate zh_hans bar05_art1_b49e58fd:
 translate zh_hans bar05_art1_c41d5097:
 
     # barb "Unfortunately, cutie pie. You and I are gonna have to sit this one out."
-    barb "可惜了，小可爱。这次你和我只能在场外看着。"
+    barb "可惜了，小可爱。这次你和我都不能参与。"
 
 # game/src/plot/bar05.rpy:225
 translate zh_hans bar05_art1_cd74eb90:
@@ -490,7 +490,7 @@ translate zh_hans bar05_art1_5ddd52c6:
 translate zh_hans bar05_art1_ee1ea0b4:
 
     # barb "Believe me, I'm not happy about it either."
-    barb "相信我，尽管我也不乐意。"
+    barb "相信我，我也不乐意。"
 
 # game/src/plot/bar05.rpy:235
 translate zh_hans bar05_art1_ffa56b97:
@@ -502,7 +502,7 @@ translate zh_hans bar05_art1_ffa56b97:
 translate zh_hans bar05_art1_9fb05341:
 
     # barb "I was just starting to feel secure about my job again and this had to go and happen."
-    barb "我才刚重新对这份工作有了点信心，就出了这档子事。"
+    barb "我才刚觉得这份工作能保住了，就出了这档子事。"
 
 # game/src/plot/bar05.rpy:239
 translate zh_hans bar05_art1_20498b36:
@@ -622,7 +622,7 @@ translate zh_hans bar05_art1_5a07a061:
 translate zh_hans bar05_art1_07eae791:
 
     # anon "Huh, well, that's convenient!"
-    anon "哈，那可真是利人利己！"
+    anon "哈，那可正好！"
 
 # game/src/plot/bar05.rpy:289
 translate zh_hans bar05_art1_6700de3a:
@@ -640,7 +640,7 @@ translate zh_hans bar05_art1_1491424b:
 translate zh_hans bar05_art1_47378b28:
 
     # barb "[saga.cast.anon] can handle the linens."
-    barb "[saga.cast.anon]可以处理这些亚麻布。"
+    barb "取亚麻布的事交给[saga.cast.anon]就行。"
 
 # game/src/plot/bar05.rpy:296
 translate zh_hans bar05_art1_3524a0e1:
@@ -706,7 +706,7 @@ translate zh_hans bar05_art1_a652c777_2:
 translate zh_hans bar05_art1_45c7892f:
 
     # barb "I know you can do it, [saga.cast.mia]. So certainly, if I know it, you know it too!"
-    barb "我知道你能行，[saga.cast.mia]。既然连我都看得出来，你当然也能做到！"
+    barb "我知道你能行，[saga.cast.mia]。连我都对你这么有信心，你自己当然也该有信心！"
 
 # game/src/plot/bar05.rpy:329
 translate zh_hans bar05_art1_d36d8f9f:
@@ -736,7 +736,7 @@ translate zh_hans bar05_art1_fe62518c:
 translate zh_hans bar05_art1_9c28b486:
 
     # barb "Focus on the linens."
-    barb "专注于取得亚麻布。"
+    barb "你先把亚麻布弄来。"
 
 # game/src/plot/bar05.rpy:344
 translate zh_hans bar05_art1_316527a2:
@@ -790,7 +790,7 @@ translate zh_hans bar05_ang_5ffc2b9d:
 translate zh_hans bar05_ang_e952feda:
 
     # anon "That should work just fine! Thank you so very much."
-    anon "那应该足够了！非常感谢你。"
+    anon "那应该正好能用！真是太谢谢你了。"
 
 # game/src/plot/bar05.rpy:374
 translate zh_hans bar05_ang_918bd718:
@@ -856,13 +856,13 @@ translate zh_hans bar05_ang_89e05e38:
 translate zh_hans bar05_ang_fe00408e:
 
     # anon "... [saga.cast.mia] might end up fronting the bill on this one."
-    anon "……这次[saga.cast.mia]可能要自掏腰包了。"
+    anon "……这回恐怕得让[saga.cast.mia]替我付出代价了。"
 
 # game/src/plot/bar05.rpy:411
 translate zh_hans bar05_ang_74b2c123:
 
     # anon "I'd better get these linens back to [saga.cast.barb]."
-    anon "我最好把这些亚麻布还给[saga.cast.barb]。"
+    anon "我得赶紧把这些亚麻布带回去交给[saga.cast.barb]。"
 
 # game/src/plot/bar05.rpy:418
 translate zh_hans bar05_ang_barb_4d354208:
@@ -880,7 +880,7 @@ translate zh_hans bar05_ang_barb_6a25ba42:
 translate zh_hans bar05_ang_barb_1e80f545:
 
     # anon a_uneasy f_worried "No, I haven't gotten them yet."
-    anon a_uneasy f_worried "不，我还没去拿。"
+    anon a_uneasy f_worried "还没，我还没拿到。"
 
 # game/src/plot/bar05.rpy:421
 translate zh_hans bar05_ang_barb_b8930f51:
@@ -916,7 +916,7 @@ translate zh_hans bar05_barb2_f2180845:
 translate zh_hans bar05_barb2_d9f82ef6:
 
     # barb f_calm "Ah, it shouldn't be a problem. Plenty of usable material there."
-    barb f_calm "啊，应该没问题。那里有足够多的可用材料。"
+    barb f_calm "啊，没关系，还能用的布料足够了。"
 
 # game/src/plot/bar05.rpy:437
 translate zh_hans bar05_barb2_6f98da9b:
@@ -952,7 +952,7 @@ translate zh_hans bar05_barb2_92bed6ee:
 translate zh_hans bar05_barb2_1f687a5d:
 
     # anon "I thought I was just painting [saga.cast.ursula]?"
-    anon "我以为我只是给[saga.cast.ursula]画？"
+    anon "我还以为只画[saga.cast.ursula]一个人呢？"
 
 # game/src/plot/bar05.rpy:443
 translate zh_hans bar05_barb2_fd16f7e1:
@@ -1120,7 +1120,7 @@ translate zh_hans bar05_lily_552df156:
 translate zh_hans bar05_lily_48625eb7:
 
     # lily e_w -m_laugh "Ga-doy!!"
-    lily e_w -m_laugh "天哪！！"
+    lily e_w -m_laugh "这还用问！！"
 
 # game/src/plot/bar05.rpy:479
 translate zh_hans bar05_lily_d15bfabe:
@@ -1144,7 +1144,7 @@ translate zh_hans bar05_lily_0a4314ff:
 translate zh_hans bar05_lily_bc4dcac0:
 
     # lily "Yeah, right."
-    lily "是啊，没错。"
+    lily "是啊，你就信吧。"
 
 # game/src/plot/bar05.rpy:483
 translate zh_hans bar05_lily_3042c7df:
@@ -1252,7 +1252,7 @@ translate zh_hans bar05_lily_2c505e5b:
 translate zh_hans bar05_lily_7d0a7ae0:
 
     # lily @ f_happy "I'll be right back with those costumes."
-    lily @ f_happy "我马上回来拿那些服装。"
+    lily @ f_happy "我去拿服装，马上回来。"
 
 # game/src/plot/bar05.rpy:515
 translate zh_hans bar05_lily_f179461f:
@@ -1438,7 +1438,7 @@ translate zh_hans bar05_barb3_672c83aa:
 translate zh_hans bar05_barb3_349fed19:
 
     # barb "... She did so well, she even brought me back some change!"
-    barb "……她干得不错，甚至还给我找了零钱！"
+    barb "……她办得很不错，钱还有剩，还给我带回来了！"
 
 # game/src/plot/bar05.rpy:597
 translate zh_hans bar05_barb3_0e66f7d1:
@@ -1534,13 +1534,13 @@ translate zh_hans bar05_barb3_5e6925ba:
 translate zh_hans bar05_barb3_2dd46056:
 
     # barb f_calm "As for you... Let's plan on meeting up for your painting tomorrow afternoon, okay?"
-    barb f_calm "至于你……我们明天下午约好画你的画，好吗？"
+    barb f_calm "至于你……我们约在明天下午画画，好吗？"
 
 # game/src/plot/bar05.rpy:622
 translate zh_hans bar05_barb3_05348fbb:
 
     # barb f_calm "As for you... Let's plan on meeting up for your painting on [saga.time.dow + when] afternoon, okay?"
-    barb f_calm "至于你……我们定在[saga.time.dow + when]下午见面画你的画，好吗？"
+    barb f_calm "至于你……我们约在[saga.time.dow + when]下午画画，好吗？"
 
 # game/src/plot/bar05.rpy:625
 translate zh_hans bar05_barb3_e038fd84:
@@ -1570,7 +1570,7 @@ translate zh_hans bar05_pause2_barb_077a6bd6:
 translate zh_hans bar05_pause2_barb_9419c0b2:
 
     # barb f_sad "And someone else too, apparently."
-    barb f_sad "而且显然还要画另一个人。"
+    barb f_sad "而且听说还要画另一个人。"
 
 # game/src/plot/bar05.rpy:644
 translate zh_hans bar05_pause2_barb_0c0159ee:
@@ -1654,7 +1654,7 @@ translate zh_hans bar05_delay2_5835e5c5:
 translate zh_hans bar05_delay2_barb_7096c267:
 
     # anon a_hug_self f_worried "Ugh, I'm really nervous about this afternoon."
-    anon a_hug_self f_worried "唉，今天下午我真的很紧张。"
+    anon a_hug_self f_worried "唉，一想到下午的事，我就紧张。"
 
 # game/src/plot/bar05.rpy:690
 translate zh_hans bar05_delay2_barb_80448ce9:
@@ -1666,7 +1666,7 @@ translate zh_hans bar05_delay2_barb_80448ce9:
 translate zh_hans bar05_delay2_mia_1ccdda17:
 
     # anon "Man, I wish you and [saga.cast.barb] could stay with me while I paint this afternoon."
-    anon "伙计，我真希望你和[saga.cast.barb]今天下午能陪我一起画画。"
+    anon "唉，真希望今天下午画画的时候，你和[saga.cast.barb]能留下来陪我。"
 
 # game/src/plot/bar05.rpy:700
 translate zh_hans bar05_delay2_mia_70670a8b:
@@ -1678,13 +1678,13 @@ translate zh_hans bar05_delay2_mia_70670a8b:
 translate zh_hans bar05_delay2_mia_02427dd2:
 
     # mia "I'd love to see how you manage creating something beautiful using [saga.cast.ursula] as the model."
-    mia "我很想看看你如何以[saga.cast.ursula]为模特创作出美丽的东西。"
+    mia "我倒想看看，以[saga.cast.ursula]为模特，你要怎么画出一幅好看的画。"
 
 # game/src/plot/bar05.rpy:705
 translate zh_hans bar05_delay2_mia_eefda411:
 
     # anon "Oh, man... this is gonna be tough, huh?!"
-    anon "哦，天啊……这将会很艰难，对吧？！"
+    anon "唉……这下可难办了，是吧？！"
 
 # game/src/plot/bar05.rpy:714
 translate zh_hans bar05_art2_23c7de3d:
@@ -1720,7 +1720,7 @@ translate zh_hans bar05_art2_22fdfae9:
 translate zh_hans bar05_art2_12bb81cd:
 
     # barb "With all of nature's cute little critters frolicking about your feet, playing silly games and making merry."
-    barb "所有可爱的自然小动物在你脚边嬉戏，玩着傻乎乎的游戏，开心不已。"
+    barb "可爱的小动物就在你脚边嬉戏打闹，玩得不亦乐乎。"
 
 # game/src/plot/bar05.rpy:736
 translate zh_hans bar05_art2_692ca7b7:
@@ -1774,7 +1774,7 @@ translate zh_hans bar05_art2_9b9c71d9:
 translate zh_hans bar05_art2_4e1808e7:
 
     # anon "Wait, what am I supposed to do with this acorn full of anxiety?!"
-    anon "等等，这颗装满焦虑的橡子是让我干什么？！"
+    anon "等等，那我手里这颗装满焦虑的橡子该怎么办？！"
 
 # game/src/plot/bar05.rpy:763
 translate zh_hans bar05_art2_d4270d8c:
@@ -1822,7 +1822,7 @@ translate zh_hans bar05_art2_d8f3233d:
 translate zh_hans bar05_art2_dd6493e3:
 
     # anon "You're the artist aren't you?!"
-    anon "你就是那个艺术家吧？！"
+    anon "你才是艺术家，不是吗？！"
 
 # game/src/plot/bar05.rpy:791
 translate zh_hans bar05_art2_33e9b545:
@@ -2020,7 +2020,7 @@ translate zh_hans bar05_art2_retry_e93a76b3:
 translate zh_hans bar05_art2_retry_dfa18b5e:
 
     # anon "... What is happening right now?"
-    anon "……这里将要发生什么？"
+    anon "……这到底是在搞什么？"
 
 # game/src/plot/bar05.rpy:917
 translate zh_hans bar05_art2_retry_56e6b9c5:
@@ -2092,7 +2092,7 @@ translate zh_hans bar05_art2_retry_d91a992e_2:
 translate zh_hans bar05_art2_retry_9e7b456a:
 
     # annie "And rule 3..."
-    annie "还有第三条规则……"
+    annie "还有规矩三……"
 
 # game/src/plot/bar05.rpy:942
 translate zh_hans bar05_art2_retry_0aa5a936:
@@ -2146,7 +2146,7 @@ translate zh_hans bar05_art2_retry_be8e817b:
 translate zh_hans bar05_art2_retry_0d65e5ec:
 
     # ursula "It's about time."
-    ursula "是时候了。"
+    ursula "总算可以开始了。"
 
 # game/src/plot/bar05.rpy:963
 translate zh_hans bar05_art2_retry_162f7214:
@@ -2206,7 +2206,7 @@ translate zh_hans bar05_art2_retry_63da6f62:
 translate zh_hans bar05_art2_retry_fd9dc534:
 
     # ursula "Attend me, slave, before I lose my patience!"
-    ursula "伺候我，奴隶，在我失去耐心之前！"
+    ursula "奴隶，还不来伺候我！别等我没了耐心！"
 
 # game/src/plot/bar05.rpy:998
 translate zh_hans bar05_art2_retry_313da3c6:
@@ -2392,7 +2392,7 @@ translate zh_hans bar05_art2_retry_df1e6a86_2:
 translate zh_hans bar05_art2_retry_a62615db:
 
     # ursula "Ugh, you've ruined the moment, slave..."
-    ursula "啧，你毁了这一刻，奴隶……"
+    ursula "啧，真扫兴，奴隶……"
 
 # game/src/plot/bar05.rpy:1105
 translate zh_hans bar05_art2_retry_4ae38af1:
@@ -2416,7 +2416,7 @@ translate zh_hans bar05_art2_retry_d91a992e_4:
 translate zh_hans bar05_art2_retry_825049bb:
 
     # ursula "Peasant?! You may address me, just this once."
-    ursula "贱民？！你可以称呼我一次，仅此一次。"
+    ursula "贱民？！这次准你直接对我说话，仅此一次。"
 
 # game/src/plot/bar05.rpy:1114
 translate zh_hans bar05_art2_retry_6f70b0c4:
@@ -2590,7 +2590,7 @@ translate zh_hans bar05_art2_retry_b49e58fd_1:
 translate zh_hans bar05_art2_retry_15be2017:
 
     # anon "Yeah, imagine the weirdest thing you can."
-    anon "是啊，想象一下你能想到的最奇怪的事。"
+    anon "这样吧，先想一件你觉得最离奇的事。"
 
 # game/src/plot/bar05.rpy:1186
 translate zh_hans bar05_art2_retry_8f420522:
@@ -2602,7 +2602,7 @@ translate zh_hans bar05_art2_retry_8f420522:
 translate zh_hans bar05_art2_retry_feeda082:
 
     # anon "You still won't even come close to how weird my night was..."
-    anon "你甚至都无法接近我今晚经历的离奇程度……"
+    anon "那都比不上我今晚经历的事有多离奇……"
 
 # game/src/plot/bar05.rpy:1190
 translate zh_hans bar05_art2_retry_16ef5b52:
@@ -2626,7 +2626,7 @@ translate zh_hans bar05_art2_retry_5c174893:
 translate zh_hans bar05_art2_retry_6bbd2562:
 
     # anon "I'm pretty sure Mrs. [saga.cast.ursula.clan] would have me murdered in my sleep if I said anything more."
-    anon "我很确定，要是我再多说一句，[saga.cast.ursula.clan]夫人会在我熟睡时杀了我。"
+    anon "要是我再多说一句，[saga.cast.ursula.clan]夫人多半会找人趁我睡着把我杀了。"
 
 # game/src/plot/bar05.rpy:1202
 translate zh_hans bar05_art2_retry_5c3d4e4f:
@@ -2704,7 +2704,7 @@ translate zh_hans bar05_art2_retry_c86f8203:
 translate zh_hans bar05_art2_retry_951c42ea:
 
     # anon "Mrs. [saga.cast.ursula.clan] said she wants it framed and delivered to her office right away."
-    anon "[saga.cast.ursula.clan]夫人说她要我立刻把画装裱好送到她办公室。"
+    anon "[saga.cast.ursula.clan]夫人说，画要立刻装裱好送到她办公室。"
 
 # game/src/plot/bar05.rpy:1259
 translate zh_hans bar05_art2_retry_be24cc5b:
@@ -2794,7 +2794,7 @@ translate zh_hans bar05_art2_retry_d5b2cc8b:
 translate zh_hans bar05_art2_retry_11198b13:
 
     # barb "Get on home and get some sleep. I'll make sure the painting gets framed and sent off to the contest."
-    barb "我会确保把画装裱好并送去参赛。"
+    barb "快回家睡一觉吧。我会把画装裱好，送去参赛。"
 
 # game/src/plot/bar05.rpy:1294
 translate zh_hans bar05_art2_retry_517d6dbe:
@@ -2812,5 +2812,5 @@ translate zh_hans bar05_art2_retry_fad301e7:
 translate zh_hans bar05_art2_rails_dd0b257a:
 
     # anon @ -m_talk "( Let's just head to the art class and get this over with, yeah? )"
-    anon @ -m_talk "（我们就直接去美术课把这事搞定，对吧？）"
+    anon @ -m_talk "（还是赶紧去美术教室，把这事做完吧。）"
 

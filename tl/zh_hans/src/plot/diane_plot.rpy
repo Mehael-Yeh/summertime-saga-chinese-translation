@@ -34,19 +34,19 @@ translate zh_hans diane_plot_diane_19d1c150:
 translate zh_hans diane_plot_late_9da76eed:
 
     # anon @ -m_talk "( Trying to garden in this failing light doesn't seem like a good idea. )"
-    anon @ -m_talk "（在这昏暗的光线下尝试园艺似乎不是个好主意。）"
+    anon @ -m_talk "（天都快黑了，这会儿下地干活可不合适。）"
 
 # game/src/plot/diane_plot.rpy:28
 translate zh_hans diane_plot_late_ce703898:
 
     # anon @ -m_talk "( Trying to garden in the dark really doesn't seem like a good idea. )"
-    anon @ -m_talk "（在黑暗中尝试园艺真不是个好主意。）"
+    anon @ -m_talk "（黑灯瞎火的，还是别下地干活了。）"
 
 # game/src/plot/diane_plot.rpy:30
 translate zh_hans diane_plot_late_a1aea306:
 
     # anon f_happy @ -m_talk "( I'll come back when the sun's out. )"
-    anon f_happy @ -m_talk "（等太阳出来的时候再来吧。）"
+    anon f_happy @ -m_talk "（等天亮了再来吧。）"
 
 # game/src/plot/diane_plot.rpy:39
 translate zh_hans diane_plot_wait_dabaf64b:

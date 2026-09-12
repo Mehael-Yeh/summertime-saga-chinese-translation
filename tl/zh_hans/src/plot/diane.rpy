@@ -16,7 +16,7 @@ translate zh_hans diane_diane_yard_intro1_ea224078:
 translate zh_hans diane_diane_yard_intro1_7bc90942:
 
     # anon "Yeah, it's no problem [saga.cast.diane]."
-    anon "是啊，没问题[saga.cast.diane]。"
+    anon "没问题，[saga.cast.diane]。"
 
 # game/src/plot/diane.rpy:45
 translate zh_hans diane_diane_yard_outro1_55efbd18:
@@ -40,7 +40,7 @@ translate zh_hans diane_diane_yard_outro1_d69ecc2c:
 translate zh_hans diane_diane_yard_outro1_43dcd9ba:
 
     # diane "Thanks again for helping!"
-    diane "再次感谢你的帮助！"
+    diane "今天真是多亏你帮忙了！"
 
 # game/src/plot/diane.rpy:51
 translate zh_hans diane_diane_yard_outro1_f6e8d577:
