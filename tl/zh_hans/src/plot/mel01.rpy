@@ -1372,7 +1372,7 @@ translate zh_hans mel01_flute_2a44255c:
 translate zh_hans mel01_flute_9dd8a870:
 
     # anon "( ... And maybe that stick I picked up on Raven Hill could work, nice! )"
-    anon "（……也许我在鸦山捡的那根棍子也能用，不错！）"
+    anon "（……也许我在渡鸦山捡的那根棍子也能用，不错！）"
 
 # game/src/plot/mel01.rpy:711
 translate zh_hans mel01_flute_f4274203:
@@ -1468,7 +1468,7 @@ translate zh_hans mel01_craft_erik_f6129a09:
 translate zh_hans mel01_craft_erik_b66ca8fc:
 
     # anon "I have a flute-sized stick that I found up Raven Hill."
-    anon "我在乌鸦山上发现了一根笛子大小的棍子。"
+    anon "我在渡鸦山上发现了一根笛子大小的棍子。"
 
 # game/src/plot/mel01.rpy:772
 translate zh_hans mel01_craft_erik_d870542a:

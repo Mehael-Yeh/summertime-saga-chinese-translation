@@ -562,7 +562,7 @@ translate zh_hans deb_mall_debbie_merge1_a431c9da:
 translate zh_hans deb_mall_debbie_merge1_419a3af2:
 
     # debbie "We're heading to Raven Hill."
-    debbie "我们正前往乌鸦山。"
+    debbie "我们正前往渡鸦山。"
 
 # game/src/plot/deb_mall.rpy:279
 translate zh_hans deb_mall_debbie_merge1_6df91e84:
@@ -580,7 +580,7 @@ translate zh_hans deb_mall_debbie_merge1_b4f1ee75:
 translate zh_hans deb_mall_debbie_merge2_da9c98d0:
 
     # mono "The anticipation we felt during those drives to Raven Hill was intoxicating." with fade
-    mono "每次前往乌鸦山途中那种期待感都让人陶醉。" with fade
+    mono "每次前往渡鸦山途中那种期待感都让人陶醉。" with fade
 
 # game/src/plot/deb_mall.rpy:286
 translate zh_hans deb_mall_debbie_merge2_cd6ee703:
@@ -790,7 +790,7 @@ translate zh_hans deb_mall_debbie_merge2_fd05ff4e:
 translate zh_hans deb_mall_debbie_merge2_233499ea:
 
     # anon "What, you mean Raven Hill?"
-    anon "怎么，你是说鸦丘？"
+    anon "怎么，你是说渡鸦山？"
 
 # game/src/plot/deb_mall.rpy:389
 translate zh_hans deb_mall_debbie_merge2_e74afc60:
@@ -808,7 +808,7 @@ translate zh_hans deb_mall_debbie_merge2_4729a721:
 translate zh_hans deb_mall_debbie_merge2_990c7e42:
 
     # debbie "N-not Raven Hill."
-    debbie "不……不是瑞文山。"
+    debbie "不……不是渡鸦山。"
 
 # game/src/plot/deb_mall.rpy:393
 translate zh_hans deb_mall_debbie_merge2_99303eb3:
@@ -904,7 +904,7 @@ translate zh_hans deb_mall_debbie_merge2_1b26e588:
 translate zh_hans deb_mall_debbie_merge2_86f74e84:
 
     # debbie "Oh, you hush!"
-    debbie "哦，你给我闭嘴！"
+    debbie "哦，别作声！"
 
 # game/src/plot/deb_mall.rpy:411
 translate zh_hans deb_mall_debbie_merge2_bf6ea998:
@@ -1360,7 +1360,7 @@ translate zh_hans deb_mall_debbie_blowjob_91207b03:
 translate zh_hans deb_mall_debbie_blowjob_a3503fcd:
 
     # anon "Y-you're so good at this!"
-    anon "你、你这方面真棒！"
+    anon "你、你这口活真棒！"
 
 # game/src/plot/deb_mall.rpy:577
 translate zh_hans deb_mall_debbie_blowjob_2d1eb199:
@@ -1612,7 +1612,7 @@ translate zh_hans deb_mall_debbie_creampie_0bea765b:
 translate zh_hans deb_mall_debbie_creampie_4ba696bf:
 
     # anon a_point_down "Heh, you're getting cum all over your seat."
-    anon a_point_down "嘿，我的精液溅得到处都是。"
+    anon a_point_down "嘿，我的精液喷得到处都是。"
 
 # game/src/plot/deb_mall.rpy:676
 translate zh_hans deb_mall_debbie_creampie_3a066094:
@@ -2056,13 +2056,13 @@ translate zh_hans deb_mall_debbie_garage_ad1c3f0d:
 translate zh_hans deb_mall_debbie_garage_96db199a:
 
     # debbie e_w "... Can you?"
-    debbie e_w "……你能吗？"
+    debbie e_w "……你有吗？"
 
 # game/src/plot/deb_mall.rpy:847
 translate zh_hans deb_mall_debbie_garage_c6291b9b:
 
     # anon "No, I suppose not."
-    anon "不，我觉得不能。"
+    anon "不，我觉得没有。"
 
 # game/src/plot/deb_mall.rpy:857
 translate zh_hans deb_mall_debbie_garage_e260a61f:
@@ -2422,7 +2422,7 @@ translate zh_hans deb_mall_debbie_handjob_e67e6fe1:
 translate zh_hans deb_mall_debbie_handjob_6b64f2d1:
 
     # debbie a_cum_wipe e_w f_horny -m_kiss "I like the taste of {i}you{/i}, sweetie."
-    debbie a_cum_wipe e_w f_horny -m_kiss "我喜欢你{i}的味道{/i}，亲爱的。"
+    debbie a_cum_wipe e_w f_horny -m_kiss "我喜欢{i}你的{/i}味道，亲爱的。"
 
 # game/src/plot/deb_mall.rpy:980
 translate zh_hans deb_mall_debbie_handjob_a2344895:
@@ -2446,7 +2446,7 @@ translate zh_hans deb_mall_debbie_handjob_a606823b:
 translate zh_hans deb_mall_debbie_handjob_a713bab2:
 
     # mono "Being the responsible adults we both were, we'd {i}definitely{/i} remembered that tissues are a valuable addition to any vehicle." with fade
-    mono "作为我们两个负责任的成年人，我们{i}肯定{/i}记得纸巾是任何车辆中的宝贵补充。" with fade
+    mono "我们两个作为负责任的成年人，我们{i}肯定{/i}记得纸巾是任何车辆中的宝贵补充。" with fade
 
 # game/src/plot/deb_mall.rpy:989
 translate zh_hans deb_mall_debbie_handjob_69ca6ffb:
@@ -2566,7 +2566,7 @@ translate zh_hans deb_mall_debbie_shop1_99719d44:
 translate zh_hans deb_mall_debbie_shop2_ba79d966:
 
     # debbie "... I've got this recipe for boneless beef short ribs I think you kids will like."
-    debbie "我有一份无骨牛小排的食谱，我想你们小孩会喜欢的。"
+    debbie "我有一份无骨牛小排的食谱，我想你们这俩小孩会喜欢的。"
 
 # game/src/plot/deb_mall.rpy:1058
 translate zh_hans deb_mall_debbie_shop2_b6574e43:

@@ -370,7 +370,7 @@ translate zh_hans deb_laundry_reuse_1cee7a41_1:
 translate zh_hans deb_laundry_reuse_e6bc85ea:
 
     # anon a_palm f_smug "You realize you're staring at my-"
-    anon a_palm f_smug "你知道自己一直盯着我的——"
+    anon a_palm f_smug "你明知道你一直盯着我的——"
 
 # game/src/plot/deb_laundry.rpy:150
 translate zh_hans deb_laundry_reuse_9a11c094:
@@ -1564,7 +1564,7 @@ translate zh_hans deb_laundry_merge_727eb2c0:
 translate zh_hans deb_laundry_merge_2ec7cf3c:
 
     # anon a_side e_w p_stand "I dunno, you seem to be doing alright."
-    anon a_side e_w p_stand "哪有，你应付得挺好的。"
+    anon a_side e_w p_stand "哪有，你已经做得挺好的。"
 
 # game/src/plot/deb_laundry.rpy:548
 translate zh_hans deb_laundry_merge_cd294f98:

@@ -2623,7 +2623,7 @@ translate zh_hans ano13_lounge_merge_b7dac9b7:
 
 
     # tina f_annoyed "[saga.cast.becca], language!"
-    tina f_annoyed "[saga.cast.becca]，注意你的用词！"
+    tina f_annoyed "[saga.cast.becca]，注意言辞！"
 
 # game/src/plot/ano13.rpy:802
 translate zh_hans ano13_lounge_merge_af28fdfe:

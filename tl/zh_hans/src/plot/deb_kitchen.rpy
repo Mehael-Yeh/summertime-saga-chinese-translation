@@ -82,19 +82,19 @@ translate zh_hans deb_kitchen_6f72da3a:
 translate zh_hans deb_kitchen_41ea19ee:
 
     # debbie "I suppose... it has been awhile... since we..."
-    debbie "我想……我们确实有一阵子……没……"
+    debbie "我想……这小东西确实有一阵子……没……"
 
 # game/src/plot/deb_kitchen.rpy:38
 translate zh_hans deb_kitchen_d0a21720:
 
     # anon "Fucked?"
-    anon "肏过了？"
+    anon "被肏了？"
 
 # game/src/plot/deb_kitchen.rpy:40
 translate zh_hans deb_kitchen_4d52056f:
 
     # debbie f_surprised p_bend_twist_away "Tsk, sweetie... language!"
-    debbie f_surprised p_bend_twist_away "啧，亲爱的……说话注意点！"
+    debbie f_surprised p_bend_twist_away "啧，亲爱的……注意言辞！"
 
 # game/src/plot/deb_kitchen.rpy:41
 translate zh_hans deb_kitchen_9ac806c2:
@@ -172,7 +172,7 @@ translate zh_hans deb_kitchen_d46fa00f:
 translate zh_hans deb_kitchen_e87745e2:
 
     # anon a_pull_pants_02 p_lean_away "You want it, don't you?"
-    anon a_pull_pants_02 p_lean_away "你想要，对吧？"
+    anon a_pull_pants_02 p_lean_away "你想要的，对吧？"
 
 # game/src/plot/deb_kitchen.rpy:66
 translate zh_hans deb_kitchen_03699172:
@@ -304,7 +304,7 @@ translate zh_hans deb_kitchen_c35871f2:
 translate zh_hans deb_kitchen_205ce549:
 
     # anon "[saga.cast.debbie], language!"
-    anon "[saga.cast.debbie]，注意措辞！"
+    anon "[saga.cast.debbie]，注意言辞！"
 
 # game/src/plot/deb_kitchen.rpy:116
 translate zh_hans deb_kitchen_acc559eb_1:
@@ -544,7 +544,7 @@ translate zh_hans deb_kitchen_6739d123:
 translate zh_hans deb_kitchen_fe7e8dfc:
 
     # debbie "[saga.cast.jenny] language!!"
-    debbie "[saga.cast.jenny]，注意措辞！！"
+    debbie "[saga.cast.jenny]，注意言辞！！"
 
 # game/src/plot/deb_kitchen.rpy:175
 translate zh_hans deb_kitchen_e38e4e67:
@@ -778,7 +778,7 @@ translate zh_hans deb_kitchen_1c3eded1:
 translate zh_hans deb_kitchen_d2e7a199:
 
     # debbie "Inside!!"
-    debbie "射在里面！！"
+    debbie "射到里面！！"
 
 # game/src/plot/deb_kitchen.rpy:233
 translate zh_hans deb_kitchen_0cf4d269:
@@ -1006,7 +1006,7 @@ translate zh_hans deb_kitchen_ac4caad7:
 translate zh_hans deb_kitchen_3594ac1f:
 
     # debbie "No, thank {i}you{/i}, sweetie!"
-    debbie "不，该说谢谢的是{i}你{/i}，亲爱的！"
+    debbie "不，应该说谢谢{i}你{/i}，亲爱的！"
 
 # game/src/plot/deb_kitchen.rpy:322
 translate zh_hans deb_kitchen_3f5ac57c:

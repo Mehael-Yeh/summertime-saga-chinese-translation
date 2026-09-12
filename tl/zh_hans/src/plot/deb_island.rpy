@@ -4,7 +4,7 @@
 translate zh_hans deb_island_134f75ff:
 
     # anon f_horny "Feeling a little naughty?"
-    anon f_horny "想干点坏事吗？"
+    anon f_horny "是不是有点想要了？"
 
 # game/src/plot/deb_island.rpy:14
 translate zh_hans deb_island_bc32b28d:
@@ -190,7 +190,7 @@ translate zh_hans deb_island_1c894d42:
 translate zh_hans deb_island_17acbe9b:
 
     # anon "Mm, I can do that."
-    anon "嗯，这我能做到。"
+    anon "嗯，这我知道。"
 
 # game/src/plot/deb_island.rpy:128
 translate zh_hans deb_island_933dce8f:
@@ -598,7 +598,7 @@ translate zh_hans deb_island_merge1_9d23b26a:
 translate zh_hans deb_island_merge1_d00ded84:
 
     # debbie "Give it to me, sweetie!"
-    debbie "再用力，亲爱的！"
+    debbie "给我，亲爱的！"
 
 # game/src/plot/deb_island.rpy:272
 translate zh_hans deb_island_merge1_f496ff77:
@@ -640,7 +640,7 @@ translate zh_hans deb_island_merge1_afec060b:
 translate zh_hans deb_island_merge1_ad200fd6:
 
     # debbie "Do it, sweetie!"
-    debbie "射吧，亲爱的！"
+    debbie "来吧，亲爱的！"
 
 # game/src/plot/deb_island.rpy:289
 translate zh_hans deb_island_merge1_48cb1ebc:
@@ -754,7 +754,7 @@ translate zh_hans deb_island_merge2_a443be4c:
 translate zh_hans deb_island_merge2_e64dae29:
 
     # anon "Guilty as charged!"
-    anon "认罪！"
+    anon "我认，都是我干的！"
 
 # game/src/plot/deb_island.rpy:335
 translate zh_hans deb_island_merge2_719d8532:

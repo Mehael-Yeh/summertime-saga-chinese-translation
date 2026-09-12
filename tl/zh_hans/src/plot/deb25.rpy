@@ -778,7 +778,7 @@ translate zh_hans deb25_bed3_9cb79dd1:
 translate zh_hans deb25_bed3_5060b3a2:
 
     # anon "[saga.cast.debbie]... language!"
-    anon "[saga.cast.debbie]……注意用词！"
+    anon "[saga.cast.debbie]……注意言辞！"
 
 # game/src/plot/deb25.rpy:271
 translate zh_hans deb25_bed3_d0b2c916:

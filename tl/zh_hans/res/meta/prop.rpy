@@ -356,7 +356,7 @@ translate zh_hans strings:
     new "卷轴"
     # game/res/meta/prop.rpym:162
     old "A mysterious scroll found hidden in a tree on Raven Hill."
-    new "藏在乌鸦山一棵树里的神秘卷轴。"
+    new "藏在渡鸦山一棵树里的神秘卷轴。"
     # game/res/meta/prop.rpym:164
     old "[saga.cast.sara]'s bikini"
     new "[saga.cast.sara]的比基尼"

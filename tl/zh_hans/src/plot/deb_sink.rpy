@@ -376,7 +376,7 @@ translate zh_hans deb_sink_merge2_1dbeb6c1:
 translate zh_hans deb_sink_merge2_205ce549:
 
     # anon "[saga.cast.debbie], language!"
-    anon "[saga.cast.debbie]，注意语言！"
+    anon "[saga.cast.debbie]，注意言辞！"
 
 # game/src/plot/deb_sink.rpy:163
 translate zh_hans deb_sink_merge2_acc559eb:

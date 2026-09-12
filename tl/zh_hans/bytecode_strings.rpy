@@ -1155,7 +1155,7 @@ translate zh_hans strings:
     old "Miss Dewitt"
     new "德威特小姐"
     old "Raven Hill."
-    new "鸦山"
+    new "渡鸦山"
     old "Recycle Bin"
     new "回收站"
     old "angle speed"

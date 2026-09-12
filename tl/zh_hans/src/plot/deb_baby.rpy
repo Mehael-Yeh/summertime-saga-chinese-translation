@@ -226,7 +226,7 @@ translate zh_hans deb_baby_tell_merge1_b9402dfc:
 translate zh_hans deb_baby_tell_merge1_12d2bfae:
 
     # debbie f_shy "Believe me... I was surprised too."
-    debbie f_shy "相信我……我自己也很惊讶。"
+    debbie f_shy "其实吧……连我自己也很惊讶。"
 
 # game/src/plot/deb_baby.rpy:120
 translate zh_hans deb_baby_tell_merge1_997c9499:
@@ -268,7 +268,7 @@ translate zh_hans deb_baby_tell_merge1_6e71d476:
 translate zh_hans deb_baby_tell_merge1_5dff3e0c:
 
     # anon f_confused "Is that something you want?"
-    anon f_confused "那是你想要的吗？"
+    anon f_confused "这个结果是你想要的吗？"
 
 # game/src/plot/deb_baby.rpy:130
 translate zh_hans deb_baby_tell_merge1_d85002ae:
@@ -280,13 +280,13 @@ translate zh_hans deb_baby_tell_merge1_d85002ae:
 translate zh_hans deb_baby_tell_merge1_37f0884a:
 
     # debbie "How crazy is that?"
-    debbie "是不是很离谱？"
+    debbie "这个想法是不是很疯狂？"
 
 # game/src/plot/deb_baby.rpy:132
 translate zh_hans deb_baby_tell_merge1_9af7a8df:
 
     # anon "What do you mean?"
-    anon "你什么意思？"
+    anon "什么意思？"
 
 # game/src/plot/deb_baby.rpy:133
 translate zh_hans deb_baby_tell_merge1_b14ff0ce:
@@ -1066,7 +1066,7 @@ translate zh_hans deb_baby_late_sleep_e1394f61:
 translate zh_hans deb_baby_late_sleep_4c3f9094:
 
     # anon @ -m_talk "( She's got enough on her plate right now, what with the babies and all. )"
-    anon @ -m_talk "（她现在够忙的了，又是孩子什么的。）"
+    anon @ -m_talk "（她现在够忙的了，又是孩子们什么的。）"
 
 # game/src/plot/deb_baby.rpy:517
 translate zh_hans deb_baby_late_sleep_e03514a8:
@@ -1786,7 +1786,7 @@ translate zh_hans deb_baby_jenny_alt_b1162fbb:
 translate zh_hans deb_baby_jenny_alt_1e0d8ac8:
 
     # debbie a_touch_belly e_s f_happy "Babies are a blessing."
-    debbie a_touch_belly e_s f_happy "孩子是上天的恩赐。"
+    debbie a_touch_belly e_s f_happy "孩子们是上天的恩赐。"
 
 # game/src/plot/deb_baby.rpy:799
 translate zh_hans deb_baby_jenny_alt_7ecfc07e:
@@ -3544,7 +3544,7 @@ translate zh_hans deb_baby_rest_micoe_a57eed6e:
 translate zh_hans deb_baby_rest_micoe_383ff35a:
 
     # micoe "No, the little girl is doing very well."
-    micoe "没问题，小姑娘的情况很好。"
+    micoe "没问题，小公主的情况很好。"
 
 # game/src/plot/deb_baby.rpy:1624
 translate zh_hans deb_baby_rest_micoe_adbff167:
