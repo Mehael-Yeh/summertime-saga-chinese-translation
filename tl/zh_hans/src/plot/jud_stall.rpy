@@ -208,7 +208,7 @@ translate zh_hans jud_stall_event_cfc02533:
 translate zh_hans jud_stall_event_940931e4:
 
     # anon "So what's next in your illicit bathoom liason secret master plan of doom?"
-    anon "那你这套“见不得光的浴室幽会终极邪恶计划”，下一步是什么？"
+    anon "那你这套“见不得光的卫生间幽会终极邪恶计划”，下一步是什么？"
 
 # game/src/plot/jud_stall.rpy:87
 translate zh_hans jud_stall_event_780c7906:
@@ -448,7 +448,7 @@ translate zh_hans jud_stall_event_5671d651:
 translate zh_hans jud_stall_event_7a6e3765:
 
     # anon "Sorry! I didn't mean to make a mess of your shirt."
-    anon "对不起！我不是故意把你的衬衫弄得一团糟的。"
+    anon "对不起！我不是故意弄脏你衬衫的。"
 
 # game/src/plot/jud_stall.rpy:188
 translate zh_hans jud_stall_event_cd7ffa92:
@@ -478,7 +478,7 @@ translate zh_hans jud_stall_event_5a056a93:
 translate zh_hans jud_stall_event_8307a0d9:
 
     # judith a_scrub_01 e_nw ob_none "M-maybe we could... you know, do this again sometime?"
-    judith a_scrub_01 e_nw ob_none "也、也许我们可以……你懂的，改天再来一次？"
+    judith a_scrub_01 e_nw ob_none "也、也许……我们改天还能再这样，你说呢？"
 
 # game/src/plot/jud_stall.rpy:200
 translate zh_hans jud_stall_event_0b78738e:
@@ -496,7 +496,7 @@ translate zh_hans jud_stall_event_cad13005:
 translate zh_hans jud_stall_event_1d17b040:
 
     # anon e_e f_calm "We should probably get out of here, ya know?"
-    anon e_e f_calm "我们也该出去了，你说呢？"
+    anon e_e f_calm "咱们是不是该出去了？"
 
 # game/src/plot/jud_stall.rpy:208
 translate zh_hans jud_stall_event_a96ad04a:
@@ -514,7 +514,7 @@ translate zh_hans jud_stall_event_rails_dfe874c3:
 translate zh_hans jud_stall_event_rails_4c04a681:
 
     # anon @ -m_talk "( ... Definitely shouldn't keep her waiting. To the bathroom! )"
-    anon @ -m_talk "（……绝对不能让她久等。去浴室吧！）"
+    anon @ -m_talk "（……可不能让她久等。去卫生间！）"
 
 # game/src/plot/jud_stall.rpy:226
 translate zh_hans jud_stall_reset_d63eac9d:

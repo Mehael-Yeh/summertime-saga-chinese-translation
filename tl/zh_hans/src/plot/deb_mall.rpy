@@ -196,13 +196,13 @@ translate zh_hans deb_mall_debbie_44ac0797:
 translate zh_hans deb_mall_debbie_8accf33a:
 
     # anon f_happy "Especially with such good company."
-    anon f_happy "尤其是和这么好的同伴一起。"
+    anon f_happy "尤其是有你这么好的伴儿。"
 
 # game/src/plot/deb_mall.rpy:113
 translate zh_hans deb_mall_debbie_8f0b9a46:
 
     # debbie "Aww, that's such a wonderful compliment!"
-    debbie "哇，这真是最好的夸奖！"
+    debbie "哎呀，你这话真让人开心！"
 
 # game/src/plot/deb_mall.rpy:116
 translate zh_hans deb_mall_debbie_12fbd905:
@@ -238,7 +238,7 @@ translate zh_hans deb_mall_debbie_merge1_05484436:
 translate zh_hans deb_mall_debbie_merge1_6b9c9658:
 
     # debbie "Phew, thanks again for coming with me and helping, sweetie."
-    debbie "呼，再次感谢你陪我来帮忙，亲爱的。"
+    debbie "呼，亲爱的，谢谢你今天又陪我来帮忙。"
 
 # game/src/plot/deb_mall.rpy:149
 translate zh_hans deb_mall_debbie_merge1_df7afb54:
@@ -250,7 +250,7 @@ translate zh_hans deb_mall_debbie_merge1_df7afb54:
 translate zh_hans deb_mall_debbie_merge1_7420b06f:
 
     # anon "Actually, it was a lot of fun."
-    anon "其实，真的很有趣。"
+    anon "其实，我也逛得挺开心的。"
 
 # game/src/plot/deb_mall.rpy:151
 translate zh_hans deb_mall_debbie_merge1_ed4add15:
@@ -262,7 +262,7 @@ translate zh_hans deb_mall_debbie_merge1_ed4add15:
 translate zh_hans deb_mall_debbie_merge1_2296cdcc:
 
     # anon "I always have fun when I'm with you, [saga.cast.debbie]."
-    anon "和你在一起的时候我总是很开心，[saga.cast.debbie]。"
+    anon "只要和你在一起，我就很开心，[saga.cast.debbie]。"
 
 # game/src/plot/deb_mall.rpy:153
 translate zh_hans deb_mall_debbie_merge1_9fc776b5:
@@ -274,13 +274,13 @@ translate zh_hans deb_mall_debbie_merge1_9fc776b5:
 translate zh_hans deb_mall_debbie_merge1_d60cb971:
 
     # debbie "I'm happy we've become so close over these past few weeks."
-    debbie "我很高兴我们这几周变得这么亲近。"
+    debbie "这几周咱们越来越亲近了，我真的很开心。"
 
 # game/src/plot/deb_mall.rpy:161
 translate zh_hans deb_mall_debbie_merge1_965325d6:
 
     # debbie "I'm happy we're so close now."
-    debbie "我很高兴我们现在这么亲密。"
+    debbie "咱们现在这么亲近，我真的很开心。"
 
 # game/src/plot/deb_mall.rpy:163
 translate zh_hans deb_mall_debbie_merge1_16a48d33:
@@ -1816,7 +1816,7 @@ translate zh_hans deb_mall_debbie_deny2_0686f373:
 translate zh_hans deb_mall_debbie_deny2_847b84df:
 
     # debbie a_touch_anon_knee f_calm "Thanks again for today."
-    debbie a_touch_anon_knee f_calm "今天再次感谢你。"
+    debbie a_touch_anon_knee f_calm "今天真是谢谢你了。"
 
 # game/src/plot/deb_mall.rpy:738
 translate zh_hans deb_mall_debbie_deny2_21dd9225:
@@ -2728,7 +2728,7 @@ translate zh_hans deb_mall_debbie_shop4_9556586e:
 translate zh_hans deb_mall_debbie_shop4_b5fb7604:
 
     # anon a_side e_w f_sceptical "I'm totally gonna end up sitting in a corner holding your purse aren't I?"
-    anon a_side e_w f_sceptical "我最终肯定会坐在角落里帮你拿着包，对吧？"
+    anon a_side e_w f_sceptical "到头来，肯定是我坐在角落里替你拎包，对吧？"
 
 # game/src/plot/deb_mall.rpy:1103
 translate zh_hans deb_mall_debbie_shop4_fa0ec1ba:
@@ -2740,7 +2740,7 @@ translate zh_hans deb_mall_debbie_shop4_fa0ec1ba:
 translate zh_hans deb_mall_debbie_shop4_54753c49:
 
     # debbie f_calm "I need your discerning eye to help me find something pretty."
-    debbie f_calm "我需要你独到的眼光帮我挑件漂亮的。"
+    debbie f_calm "我还指望你帮我掌掌眼，挑件漂亮的呢。"
 
 # game/src/plot/deb_mall.rpy:1106
 translate zh_hans deb_mall_debbie_shop4_7edac6d4:
@@ -2752,7 +2752,7 @@ translate zh_hans deb_mall_debbie_shop4_7edac6d4:
 translate zh_hans deb_mall_debbie_shop4_c34f1949:
 
     # anon f_pouty "... I know exactly where this is going."
-    anon f_pouty "……我完全知道这会是什么结果。"
+    anon f_pouty "……我都知道接下来会怎么样了。"
 
 # game/src/plot/deb_mall.rpy:1109
 translate zh_hans deb_mall_debbie_shop4_2577ba83:
@@ -2998,7 +2998,7 @@ translate zh_hans deb_mall_debbie_shop7_d067a2af:
 translate zh_hans deb_mall_debbie_shop8_16c0ec26:
 
     # debbie "... I thought this could be your day."
-    debbie "……我还以为今天是你的日子呢。"
+    debbie "……我是想，今天就陪你逛逛。"
 
 # game/src/plot/deb_mall.rpy:1187
 translate zh_hans deb_mall_debbie_shop8_ea692633:
@@ -3010,7 +3010,7 @@ translate zh_hans deb_mall_debbie_shop8_ea692633:
 translate zh_hans deb_mall_debbie_shop8_e8c10cc7:
 
     # debbie "Yeah, we don't always have to do {i}my{/i} shopping..."
-    debbie "是啊，我们不一定非要去{i}我{/i}买东西……"
+    debbie "是啊，总不能每次都只顾着给{i}我{/i}买东西……"
 
 # game/src/plot/deb_mall.rpy:1189
 translate zh_hans deb_mall_debbie_shop8_a20b671b:
@@ -3034,7 +3034,7 @@ translate zh_hans deb_mall_debbie_shop8_2bb69380:
 translate zh_hans deb_mall_debbie_shop8_322084f3:
 
     # debbie "I just want you to have the best day possible!"
-    debbie "我只想让你度过最棒的一天！"
+    debbie "今天就想让你玩个尽兴！"
 
 # game/src/plot/deb_mall.rpy:1193
 translate zh_hans deb_mall_debbie_shop8_4f830e9f:
@@ -3148,7 +3148,7 @@ translate zh_hans deb_mall_debbie_womb_e6dc309d:
 translate zh_hans deb_mall_debbie_womb_06a6e32e:
 
     # anon f_disgusted "Eugh, too much information!"
-    anon f_disgusted "呃，太详细了吧！"
+    anon f_disgusted "呃，这就不用告诉我了！"
 
 # game/src/plot/deb_mall.rpy:1228
 translate zh_hans deb_mall_debbie_womb_f3bea06e:
@@ -3166,7 +3166,7 @@ translate zh_hans deb_mall_debbie_womb_74b7557f:
 translate zh_hans deb_mall_debbie_womb_c4ef8a00:
 
     # mono "Maybe it was all those potential futures stretching out before us, and the sobering responsibilities that went along with them."
-    mono "也许是因为我们面前摆着那么多可能的未来，以及随之而来的让人清醒的责任。"
+    mono "也许是因为想到未来的种种可能，以及随之而来的责任，心情也就没那么轻松了。"
 
 # game/src/plot/deb_mall.rpy:1240
 translate zh_hans deb_mall_debbie_womb_78ebad98:
@@ -3184,7 +3184,7 @@ translate zh_hans deb_mall_debbie_womb_67c690f2:
 translate zh_hans deb_mall_debbie_womb_a8aae1d6:
 
     # debbie "Thanks again for today."
-    debbie "再次感谢今天的一切。"
+    debbie "今天真是谢谢你了。"
 
 # game/src/plot/deb_mall.rpy:1244
 translate zh_hans deb_mall_debbie_womb_dfed78e0:
@@ -3244,7 +3244,7 @@ translate zh_hans deb_mall_garage_5b71f444:
 translate zh_hans deb_mall_garage_390b8beb:
 
     # mono "And occasionally surprising [saga.cast.debbie] to welcome her home and help unload the shopping was definitely one of them."
-    mono "偶尔给她个惊喜[saga.cast.debbie]，迎接她回家并帮忙搬东西，绝对是其中之一。"
+    mono "偶尔给[saga.cast.debbie]一个惊喜，迎她回家，再帮她搬搬买回来的东西，就算是其中一种吧。"
 
 # game/src/plot/deb_mall.rpy:1282
 translate zh_hans deb_mall_garage_96b080af:
@@ -3268,7 +3268,7 @@ translate zh_hans deb_mall_garage_fb7d5749:
 translate zh_hans deb_mall_garage_5daa1e40:
 
     # debbie a_grocery_give e_sw "Oh yes, please!"
-    debbie a_grocery_give e_sw "哦，好的，请！"
+    debbie a_grocery_give e_sw "哦，好呀，帮我拿一下！"
 
 # game/src/plot/deb_mall.rpy:1288
 translate zh_hans deb_mall_garage_8be8b0ae:

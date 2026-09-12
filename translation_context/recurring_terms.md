@@ -276,3 +276,9 @@ python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
 ## ano10连续感叹句
 
 7944的ano10_kitchen_retry2中，39869a88的Oh.与741a8ce2的My.、be8e9e9f的God.构成连续的extend表达，固定衔接为“我。”→“的。”→“天哪。”；第一段不能孤立改为“哦。”。旧dc2d0643已失效，修正须落在当前39869a88中。
+
+## 2026-09-12 非露骨前后对白回归
+
+句式基准从141条增至204条，新增63条源文件绑定的原文／译文基准。相同原文在同一已核对语境中统一，例如deb_lobby两处分支的I needed that.为“这下可舒坦了。”，deb_mall两处Thanks again for today.为“今天真是谢谢你了。”。不同人物、阶段或含义不作全局替换。
+
+tin_dusk的Cool.与Cool, cool, cool.是确认约定后的回应与紧张重复，分别用“好。”和“好，好，好。”；保留重复次数。still on for tonight保留“今晚的约定还算数”这一确认意味。

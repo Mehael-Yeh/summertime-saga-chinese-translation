@@ -88,7 +88,7 @@ translate zh_hans tin_dusk_tina_busy_43f999c3:
 translate zh_hans tin_dusk_delay_a5c0b3ae:
 
     # anon @ -m_talk "( It's time for my evening with [saga.cast.tina]! )"
-    anon @ -m_talk "（是时候和[saga.cast.tina]共度今宵了！）"
+    anon @ -m_talk "（和[saga.cast.tina]约好的时间到了！）"
 
 # game/src/plot/tin_dusk.rpy:44
 translate zh_hans tin_dusk_delay_1ea838c1:
@@ -100,13 +100,13 @@ translate zh_hans tin_dusk_delay_1ea838c1:
 translate zh_hans tin_dusk_delay_tina_2aa4b2ed:
 
     # anon "We're, umm... still on for tonight, right?"
-    anon "我们，嗯……今晚还照旧，对吧？"
+    anon "我们，嗯……今晚的约定还算数吧？"
 
 # game/src/plot/tin_dusk.rpy:61
 translate zh_hans tin_dusk_delay_tina_55e39e2a:
 
     # anon a_point "We're still on for tonight, right?"
-    anon a_point "我们今晚还照旧，对吧？"
+    anon a_point "我们今晚的约定还算数吧？"
 
 # game/src/plot/tin_dusk.rpy:63
 translate zh_hans tin_dusk_delay_tina_194f1082:
@@ -118,31 +118,31 @@ translate zh_hans tin_dusk_delay_tina_194f1082:
 translate zh_hans tin_dusk_delay_tina_d6b574ff:
 
     # tina "Yes, babyface. We're still on for tonight."
-    tina "是的，小帅哥。我们今晚还照旧。"
+    tina "当然算数，小帅哥。说好了今晚见。"
 
 # game/src/plot/tin_dusk.rpy:67
 translate zh_hans tin_dusk_delay_tina_22b25916:
 
     # anon "Cool."
-    anon "酷。"
+    anon "好。"
 
 # game/src/plot/tin_dusk.rpy:74
 translate zh_hans tin_dusk_delay_tina_d04774e9:
 
     # anon "Cool, cool, cool."
-    anon "酷，酷，酷。"
+    anon "好，好，好。"
 
 # game/src/plot/tin_dusk.rpy:77
 translate zh_hans tin_dusk_delay_tina_201ed6f2:
 
     # tina "Cool."
-    tina "酷。"
+    tina "好。"
 
 # game/src/plot/tin_dusk.rpy:78
 translate zh_hans tin_dusk_delay_tina_51b913fc:
 
     # anon f_shy "Cool."
-    anon f_shy "酷。"
+    anon f_shy "好。"
 
 # game/src/plot/tin_dusk.rpy:87
 translate zh_hans tin_dusk_lounge_bca3ac64:
@@ -154,7 +154,7 @@ translate zh_hans tin_dusk_lounge_bca3ac64:
 translate zh_hans tin_dusk_lounge_66661339:
 
     # tina "Well, hello there."
-    tina "嗯，你好啊。"
+    tina "哟，你来啦。"
 
 # game/src/plot/tin_dusk.rpy:99
 translate zh_hans tin_dusk_lounge_e1292c3a:
@@ -172,7 +172,7 @@ translate zh_hans tin_dusk_lounge_bd73ed7e:
 translate zh_hans tin_dusk_lounge_3448ebd1:
 
     # tina "Heh, come on in."
-    tina "嘿，进来吧。"
+    tina "呵，进来吧。"
 
 # game/src/plot/tin_dusk.rpy:108
 translate zh_hans tin_dusk_lounge_764c680c:
@@ -184,7 +184,7 @@ translate zh_hans tin_dusk_lounge_764c680c:
 translate zh_hans tin_dusk_lounge_6b2253a5:
 
     # anon "So I assume [saga.cast.becca] is-"
-    anon "所以我猜[saga.cast.becca]是——"
+    anon "那[saga.cast.becca]应该已经——"
 
 # game/src/plot/tin_dusk.rpy:110
 translate zh_hans tin_dusk_lounge_35cdb204:
@@ -939,13 +939,13 @@ translate zh_hans tin_dusk_lounge_merge_cfff820d:
 translate zh_hans tin_dusk_lounge_merge_e3f32c91:
 
     # tina "Heh, you better get out of here before Rebecca gets home."
-    tina "嘿，你最好在贝卡回家前离开这里。"
+    tina "呵，你可得赶在Rebecca回家前走。"
 
 # game/src/plot/tin_dusk.rpy:357
 translate zh_hans tin_dusk_lounge_merge_77ef3d60:
 
     # tina "Heh, you better get out of here before [saga.cast.becca] gets home."
-    tina "嘿，你最好在[saga.cast.becca]回家前离开这里。"
+    tina "呵，你可得赶在[saga.cast.becca]回家前走。"
 
 # game/src/plot/tin_dusk.rpy:359
 translate zh_hans tin_dusk_lounge_merge_a1f61959:
@@ -957,7 +957,7 @@ translate zh_hans tin_dusk_lounge_merge_a1f61959:
 translate zh_hans tin_dusk_lounge_merge_187cc2d5:
 
     # tina "It's always a pleasure [saga.cast.anon]."
-    tina "和你在一起总是很愉快[saga.cast.anon]。"
+    tina "和你在一起总是很开心，[saga.cast.anon]。"
 
 # game/src/plot/tin_dusk.rpy:366
 translate zh_hans tin_dusk_lounge_merge_c704becc:
@@ -987,7 +987,7 @@ translate zh_hans tin_dusk_lounge_rails_419625a3:
 translate zh_hans tin_dusk_lounge_rails_400ca9ec:
 
     # anon a_woo e_e p_stoop @ -m_talk "( And organising it so she can get [saga.cast.becca] out of the house makes it feel super clandestine! )"
-    anon a_woo e_e p_stoop @ -m_talk "而且她还安排得让[saga.cast.becca]能出门，这让一切感觉超级隐秘！"
+    anon a_woo e_e p_stoop @ -m_talk "（而且她还特意支开了[saga.cast.becca]，弄得跟秘密接头似的！）"
 
 # game/src/plot/tin_dusk.rpy:388
 translate zh_hans tin_dusk_lounge_rails_ebbb42c0:

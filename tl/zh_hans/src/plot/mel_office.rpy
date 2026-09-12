@@ -16,7 +16,7 @@ translate zh_hans mel_office_5a806fe8:
 # game/src/plot/mel_office.rpy:21
 translate zh_hans mel_office_0acdce92:
     # anon "I'm ready to go."
-    anon "我随时可以开始。"
+    anon "我准备好了。"
 
 # game/src/plot/mel_office.rpy:24
 translate zh_hans mel_office_44f7d8ec:
@@ -206,7 +206,7 @@ translate zh_hans mel_office_merge_dafb9eb1:
 # game/src/plot/mel_office.rpy:114
 translate zh_hans mel_office_merge_f1b77c19:
     # melody "See you again, soon?"
-    melody "很快再来找我，好吗？"
+    melody "记得早点再来找我，好吗？"
 
 # game/src/plot/mel_office.rpy:117
 translate zh_hans mel_office_merge_ebf66ab7:

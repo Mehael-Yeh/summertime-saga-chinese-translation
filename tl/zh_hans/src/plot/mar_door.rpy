@@ -41,7 +41,7 @@ translate zh_hans mar_door_knock_a51ab875:
 # game/src/plot/mar_door.rpy:28
 translate zh_hans mar_door_knock_0f23bd01:
     # maria "I already told ya gals, I'm not buyin' ya any alcohol!"
-    maria "我早就跟你们说过了，姑娘们，我不会替你们买酒！"
+    maria "姑娘们，我早说了，不会替你们买酒！"
 
 # game/src/plot/mar_door.rpy:30
 translate zh_hans mar_door_knock_e7571124:
@@ -676,7 +676,7 @@ translate zh_hans mar_door_maria_creampie_b3ec5f40:
 # game/src/plot/mar_door.rpy:331
 translate zh_hans mar_door_maria_creampie_0f98b52d:
     # maria "I needed that."
-    maria "这正是我需要的。"
+    maria "这下可舒坦了。"
 
 # game/src/plot/mar_door.rpy:332
 translate zh_hans mar_door_maria_creampie_49da3a8f:

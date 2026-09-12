@@ -748,7 +748,7 @@ translate zh_hans deb_visit_merge_3cbafeb0:
 translate zh_hans deb_visit_merge_56a1ee0c:
 
     # debbie "Heh, like a log."
-    debbie "嘿，睡得跟死猪一样。"
+    debbie "呵，睡得可沉了。"
 
 # game/src/plot/deb_visit.rpy:322
 translate zh_hans deb_visit_merge_25c0e1ff:
@@ -760,7 +760,7 @@ translate zh_hans deb_visit_merge_25c0e1ff:
 translate zh_hans deb_visit_merge_f073140f:
 
     # anon "I love having you in my bed."
-    anon "我喜欢你在我的床上。"
+    anon "能和你睡在一起，真好。"
 
 # game/src/plot/deb_visit.rpy:325
 translate zh_hans deb_visit_merge_ce9db5c5:
@@ -772,13 +772,13 @@ translate zh_hans deb_visit_merge_ce9db5c5:
 translate zh_hans deb_visit_merge_111b0c0a:
 
     # anon "You don't agree?"
-    anon "你不同意？"
+    anon "你不这么觉得吗？"
 
 # game/src/plot/deb_visit.rpy:327
 translate zh_hans deb_visit_merge_65ef5969:
 
     # debbie e_se f_shy "N-no, it is nice!"
-    debbie e_se f_shy "不——不，这很好！"
+    debbie e_se f_shy "不、不是，挺好的！"
 
 # game/src/plot/deb_visit.rpy:328
 translate zh_hans deb_visit_merge_268574b5:
@@ -796,7 +796,7 @@ translate zh_hans deb_visit_merge_1e8ccf01:
 translate zh_hans deb_visit_merge_e728969c:
 
     # anon "I suppose your bed {i}is{/i} more comfortable."
-    anon "我猜你的床{i}更{/i}舒服。"
+    anon "你的床{i}确实{/i}更舒服些。"
 
 # game/src/plot/deb_visit.rpy:334
 translate zh_hans deb_visit_merge_28666d4d:
@@ -808,7 +808,7 @@ translate zh_hans deb_visit_merge_28666d4d:
 translate zh_hans deb_visit_merge_c4772ecb:
 
     # debbie "I think I'll head downstairs before you try and convince me to spend the whole day in here."
-    debbie "我想在你试图说服我在这里待一整天之前下楼去。"
+    debbie "我还是先下楼吧，免得一会儿又被你劝着在这里待上一整天。"
 
 # game/src/plot/deb_visit.rpy:338
 translate zh_hans deb_visit_merge_a3574f4c:
@@ -820,7 +820,7 @@ translate zh_hans deb_visit_merge_a3574f4c:
 translate zh_hans deb_visit_merge_5add91a6:
 
     # anon "Do you need help?"
-    anon "需要帮助吗？"
+    anon "要我帮你吗？"
 
 # game/src/plot/deb_visit.rpy:340
 translate zh_hans deb_visit_merge_3f01908f:
@@ -838,7 +838,7 @@ translate zh_hans deb_visit_merge_c5406e56:
 translate zh_hans deb_visit_merge_0e5adf0b:
 
     # anon "Hah, I bet!"
-    anon "哈，我敢打赌！"
+    anon "哈，那倒是！"
 
 # game/src/plot/deb_visit.rpy:344
 translate zh_hans deb_visit_merge_f62eaeae:
@@ -862,7 +862,7 @@ translate zh_hans deb_visit_merge_f381c6b7:
 translate zh_hans deb_visit_merge_8d7089df:
 
     # debbie "Now, try to get a bit more rest before breakfast."
-    debbie "现在，尽量在早餐前多休息一会儿。"
+    debbie "好啦，趁还没吃早饭，再歇一会儿吧。"
 
 # game/src/plot/deb_visit.rpy:362
 translate zh_hans deb_visit_merge_244739f4:

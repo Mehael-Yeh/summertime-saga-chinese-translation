@@ -22,7 +22,7 @@ translate zh_hans jen_gfe_ready_f9e38b03:
 translate zh_hans jen_gfe_ready_e7367b4d:
 
     # anon "On second thought, I'm not interested right now."
-    anon "转念一想，我现在没兴趣了。"
+    anon "想了想，还是算了。"
 
 # game/src/plot/jen_gfe.rpy:20
 translate zh_hans jen_gfe_ready_6ea334f0:
@@ -82,7 +82,7 @@ translate zh_hans jen_gfe_ready_cash_d7f30cc0:
 translate zh_hans jen_gfe_ready_cash_bb341e3d:
 
     # jenny @ e_r "Aww, that's very sad for you."
-    jenny @ e_r "啊，那对你来说真是太可惜了。"
+    jenny @ e_r "哎呀，那你可真够可怜的。"
 
 # game/src/plot/jen_gfe.rpy:51
 translate zh_hans jen_gfe_ready_cash_3d70b35e:
@@ -100,7 +100,7 @@ translate zh_hans jen_gfe_ready_cash_94c02107:
 translate zh_hans jen_gfe_ready_once_05b78415:
 
     # anon f_shy "I was thinking we could just stay in and hang out or something."
-    anon f_shy "我在想我们可以就待在家里，一起消磨时间什么的。"
+    anon f_shy "我想，要不就待在家里，一起坐坐什么的。"
 
 # game/src/plot/jen_gfe.rpy:60
 translate zh_hans jen_gfe_ready_once_d6281fee:
@@ -112,7 +112,7 @@ translate zh_hans jen_gfe_ready_once_d6281fee:
 translate zh_hans jen_gfe_ready_once_7d8aebeb:
 
     # anon f_worried "Bad idea?"
-    anon f_worried "坏主意？"
+    anon f_worried "这样不好吗？"
 
 # game/src/plot/jen_gfe.rpy:62
 translate zh_hans jen_gfe_ready_once_69e0c51a:
@@ -2110,13 +2110,13 @@ translate zh_hans jen_gfe_dawn_once_a3178a95:
 translate zh_hans jen_gfe_dawn_once_32ce4ada:
 
     # jenny "I did, actually."
-    jenny "事实上，我睡得不错。"
+    jenny "还真睡得不错。"
 
 # game/src/plot/jen_gfe.rpy:785
 translate zh_hans jen_gfe_dawn_once_e4fda3d0:
 
     # jenny "In spite of your crazy loud snoring."
-    jenny "尽管你打鼾声震天响。"
+    jenny "虽然你的呼噜声简直震天响。"
 
 # game/src/plot/jen_gfe.rpy:786
 translate zh_hans jen_gfe_dawn_once_8f790bbf:
@@ -2128,13 +2128,13 @@ translate zh_hans jen_gfe_dawn_once_8f790bbf:
 translate zh_hans jen_gfe_dawn_once_3dab6525:
 
     # jenny "I did, surprisingly. It wasn't the worst night ever..."
-    jenny "出乎意料，我还真睡得不错。昨晚也不算最糟……"
+    jenny "没想到还真睡得不错。昨晚嘛，倒也没那么糟……"
 
 # game/src/plot/jen_gfe.rpy:790
 translate zh_hans jen_gfe_dawn_once_475e85d6:
 
     # jenny "... Well, except for the waking up covered in your drool part."
-    jenny "……好吧，除了醒来时发现自己沾满了你的口水。"
+    jenny "……就是醒来的时候，一身都是你的口水。"
 
 # game/src/plot/jen_gfe.rpy:791
 translate zh_hans jen_gfe_dawn_once_ba382acd:

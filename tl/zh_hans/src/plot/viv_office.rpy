@@ -46,7 +46,7 @@ translate zh_hans viv_office_782fc300:
 translate zh_hans viv_office_area_d18d82b7:
 
     # anon "Do you think we could meet in your office after class?"
-    anon "你觉得我们下课后能去你办公室见面吗？"
+    anon "下课后，我能去你办公室找你吗？"
 
 # game/src/plot/viv_office.rpy:37
 translate zh_hans viv_office_area_cab4619b:

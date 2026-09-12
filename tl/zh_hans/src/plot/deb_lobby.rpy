@@ -413,7 +413,7 @@ translate zh_hans deb_lobby_d5b0aa20:
 translate zh_hans deb_lobby_651f53ec:
 
     # anon "I needed that."
-    anon "我需要这个。"
+    anon "这下可舒坦了。"
 
 # game/src/plot/deb_lobby.rpy:171
 translate zh_hans deb_lobby_f574035c:
@@ -475,14 +475,14 @@ translate zh_hans deb_lobby_merge_0a8d4907:
 
 
     # anon "So, you're sure I can't help you out?"
-    anon "所以，你确定不用我帮忙？"
+    anon "真的不用我搭把手吗？"
 
 # game/src/plot/deb_lobby.rpy:190
 translate zh_hans deb_lobby_merge_30d4c072:
 
 
     # debbie p_bend "Yes, I'm sure!"
-    debbie p_bend "当然，我确定！"
+    debbie p_bend "真的不用！"
 
 # game/src/plot/deb_lobby.rpy:194
 translate zh_hans deb_lobby_merge_170ea401:
@@ -520,7 +520,7 @@ translate zh_hans deb_lobby_merge_9d809a31:
 translate zh_hans deb_lobby_merge_30f3670d:
 
     # debbie "Heh, now go on and give me some peace..."
-    debbie "呵，现在走吧，让我清静一会儿……"
+    debbie "呵，好啦，快去吧，让我清静一会儿……"
 
 # game/src/plot/deb_lobby.rpy:207
 translate zh_hans deb_lobby_merge_770f7cc5:
@@ -546,7 +546,7 @@ translate zh_hans deb_lobby_merge_22f96ff9:
 
 
     # debbie f_happy "You will."
-    debbie f_happy "你会的。"
+    debbie f_happy "一会儿见。"
 
 # game/src/plot/deb_lobby.rpy:214
 translate zh_hans deb_lobby_merge_07a2b53c:
@@ -634,7 +634,7 @@ translate zh_hans deb_lobby_creampie_42585c48:
 translate zh_hans deb_lobby_creampie_651f53ec:
 
     # anon "I needed that."
-    anon "我正需要这个。"
+    anon "这下可舒坦了。"
 
 # game/src/plot/deb_lobby.rpy:264
 translate zh_hans deb_lobby_creampie_f574035c:
