@@ -38,7 +38,7 @@ translate zh_hans tutor_hud_3e3676fe:
 translate zh_hans tutor_hud_5ec815fb:
 
     # extend " and where you are, respectively."
-    extend "……以及你目前所在的位置。"
+    extend "以及你目前所在的位置。"
 
 # game/src/plot/+tutor.rpy:46
 translate zh_hans tutor_hud_ffa09f64:

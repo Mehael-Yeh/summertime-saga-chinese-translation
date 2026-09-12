@@ -329,13 +329,13 @@ translate zh_hans deb_lobby_1710fb22:
 translate zh_hans deb_lobby_b3fe01ea:
 
     # debbie "I love you..."
-    debbie "我爱你……"
+    debbie "我也……"
 
 # game/src/plot/deb_lobby.rpy:139
 translate zh_hans deb_lobby_d4d589eb:
 
     # debbie "... Too..."
-    debbie "……我也爱你……"
+    debbie "……爱你……"
 
 # game/src/plot/deb_lobby.rpy:140
 translate zh_hans deb_lobby_d17e4b3a:

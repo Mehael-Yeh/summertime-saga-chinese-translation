@@ -2374,7 +2374,7 @@ translate zh_hans deb_tv_entry3_bfd91a0b:
 translate zh_hans deb_tv_entry3_02496094:
 
     # anon "... That makes them better than the rest."
-    anon "……就是比别人更让我喜欢。"
+    anon "……比别人的更让我喜欢。"
 
 # game/src/plot/deb_tv.rpy:918
 translate zh_hans deb_tv_entry3_a937b54b:
@@ -4414,13 +4414,13 @@ translate zh_hans deb_tv_play4_0e4573c9:
 translate zh_hans deb_tv_play4_2fda4c6f:
 
     # debbie "I love... you..."
-    debbie "我爱……你……"
+    debbie "我……也……"
 
 # game/src/plot/deb_tv.rpy:1596
 translate zh_hans deb_tv_play4_f098a5e3:
 
     # debbie f_shy "... T-too!!!"
-    debbie f_shy "……我、也是！！！"
+    debbie f_shy "……爱、爱你！！！"
 
 # game/src/plot/deb_tv.rpy:1599
 translate zh_hans deb_tv_play4_7845dfdf:

@@ -276,12 +276,12 @@ translate zh_hans mel06_gym_aa211850:
 # game/src/plot/mel06.rpy:160
 translate zh_hans mel06_gym_rails_49518c77:
     # anon @ -m_talk "( I've offically pressed pause on Mrs. [saga.cast.ursula.clan]'s highfalutin... )"
-    anon @ -m_talk "（我已经正式把[saga.cast.ursula.clan]夫人的高调言论暂停了……）"
+    anon @ -m_talk "（总算让[saga.cast.ursula.clan]夫人暂时没法唱高调了……）"
 
 # game/src/plot/mel06.rpy:161
 translate zh_hans mel06_gym_rails_bfd194b5:
     # anon e_b m_laugh @ -m_talk "( ... Which means there's never been a better time for me to do my own high flutin'! )"
-    anon e_b m_laugh @ -m_talk "（……也就是说现在正是我装腔作势的最佳时机！）"
+    anon e_b m_laugh @ -m_talk "（……接下来，该轮到我上台吹长笛了！）"
 
 # game/src/plot/mel06.rpy:174
 translate zh_hans mel06_kevin_5e45968e:
@@ -681,12 +681,12 @@ translate zh_hans mel06_kevin_merge1_68b6107e:
 # game/src/plot/mel06.rpy:387
 translate zh_hans mel06_kevin_merge1_7295b0e9:
     # anon "W-we really appreciate..."
-    anon "我-我们真的很感激……"
+    anon "我、我们真的很感谢……"
 
 # game/src/plot/mel06.rpy:388
 translate zh_hans mel06_kevin_merge1_0e418fff:
     # anon "... You all coming out to..."
-    anon "……你们都来……"
+    anon "……大家能来……"
 
 # game/src/plot/mel06.rpy:389
 translate zh_hans mel06_kevin_merge1_06096e5e:
@@ -701,7 +701,7 @@ translate zh_hans mel06_kevin_merge1_c9d55e79:
 # game/src/plot/mel06.rpy:391
 translate zh_hans mel06_kevin_merge1_0b074661:
     # anon "Let's hear it one more time for-"
-    anon "让我们再为——鼓掌吧！"
+    anon "让我们再次把掌声送给——"
 
 # game/src/plot/mel06.rpy:392
 translate zh_hans mel06_kevin_merge1_503c35ae:
@@ -711,12 +711,12 @@ translate zh_hans mel06_kevin_merge1_503c35ae:
 # game/src/plot/mel06.rpy:393
 translate zh_hans mel06_kevin_merge1_ecca5e08:
     # anon "[saga.cast.kevin] on guitar!"
-    anon "[saga.cast.kevin]负责吉他！"
+    anon "吉他手[saga.cast.kevin]！"
 
 # game/src/plot/mel06.rpy:394
 translate zh_hans mel06_kevin_merge1_320869bd:
     # anon "[saga.cast.eve] on vocals!"
-    anon "[saga.cast.eve]负责主唱！"
+    anon "主唱[saga.cast.eve]！"
 
 # game/src/plot/mel06.rpy:395
 translate zh_hans mel06_kevin_merge1_22b3acc0:
@@ -766,12 +766,12 @@ translate zh_hans mel06_kevin_merge1_05f57138:
 # game/src/plot/mel06.rpy:405
 translate zh_hans mel06_kevin_merge1_e6c7cab0:
     # anon "... And of course, [saga.cast.melody]!"
-    anon "…… 当然，[saga.cast.melody]！"
+    anon "……当然，还有[saga.cast.melody]！"
 
 # game/src/plot/mel06.rpy:406
 translate zh_hans mel06_kevin_merge1_16abf373:
     # anon "Who-"
-    anon "谁——"
+    anon "她——"
 
 # game/src/plot/mel06.rpy:408
 translate zh_hans mel06_kevin_merge1_5ef7e5ef:
@@ -786,17 +786,17 @@ translate zh_hans mel06_kevin_merge1_f7cd91c8:
 # game/src/plot/mel06.rpy:410
 translate zh_hans mel06_kevin_merge1_d86ec413:
     # anon "[saga.cast.melody], who never fails..."
-    anon "[saga.cast.melody]，从来不会失败……"
+    anon "[saga.cast.melody]，她总能……"
 
 # game/src/plot/mel06.rpy:411
 translate zh_hans mel06_kevin_merge1_ef575ea9:
     # anon "... To suck every..."
-    anon "…… 吸干每一……"
+    anon "……从学生身上榨出……"
 
 # game/src/plot/mel06.rpy:412
 translate zh_hans mel06_kevin_merge1_5ec45ca9:
     # anon "... Last... Drop..."
-    anon "……最后……一滴……"
+    anon "……每一滴……"
 
 # game/src/plot/mel06.rpy:413
 translate zh_hans mel06_kevin_merge1_a5860291:
@@ -811,7 +811,7 @@ translate zh_hans mel06_kevin_merge1_d4990d97:
 # game/src/plot/mel06.rpy:415
 translate zh_hans mel06_kevin_merge1_acb72699:
     # anon "... Out of her students!"
-    anon "……从她学生身上吸干！"
+    anon "……连最后一滴都不剩！"
 
 # game/src/plot/mel06.rpy:416
 translate zh_hans mel06_kevin_merge1_26b6c3a0:
@@ -861,7 +861,7 @@ translate zh_hans mel06_kevin_merge1_0541ab14:
 # game/src/plot/mel06.rpy:450
 translate zh_hans mel06_kevin_merge1_c0e857e5:
     # anon "Sorry, I meant to say."
-    anon "抱歉，我本来想说的。"
+    anon "抱歉，我是想说……"
 
 # game/src/plot/mel06.rpy:451
 translate zh_hans mel06_kevin_merge1_8f334eda:

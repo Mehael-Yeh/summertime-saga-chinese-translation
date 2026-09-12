@@ -1156,7 +1156,7 @@ translate zh_hans deb_visit_baby_2b0e2124:
 translate zh_hans deb_visit_baby_e3ae6764:
 
     # debbie "It's been... so long... since we-"
-    debbie "已经……太久了……自从我们——"
+    debbie "我们已经……太久没——"
 
 # game/src/plot/deb_visit.rpy:483
 translate zh_hans deb_visit_baby_02f4a6b6:

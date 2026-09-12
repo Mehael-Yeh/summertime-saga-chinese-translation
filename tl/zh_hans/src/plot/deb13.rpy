@@ -2050,7 +2050,7 @@ translate zh_hans deb13_outro_e4727cf4:
 translate zh_hans deb13_outro_636b80e8:
 
     # jiang a_side f_calm "... Everything paid in full, mind!"
-    jiang a_side f_calm "……不过，上面已经全额付清了！"
+    jiang a_side f_calm "……钱可都付清了啊！"
 
 # game/src/plot/deb13.rpy:956
 translate zh_hans deb13_outro_50cb44f4:

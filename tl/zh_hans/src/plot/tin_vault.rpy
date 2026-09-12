@@ -1174,19 +1174,19 @@ translate zh_hans tin_vault_vault_creampie_ec19ea08:
 translate zh_hans tin_vault_vault_creampie_f5b8228f:
 
     # tina e_ese "... That was..."
-    tina e_ese "…… 那真是……"
+    tina e_ese "……刚才真是……"
 
 # game/src/plot/tin_vault.rpy:450
 translate zh_hans tin_vault_vault_creampie_209dc063:
 
     # tina "... The best sex..."
-    tina "…… 有生以来最棒……"
+    tina "……我这辈子……"
 
 # game/src/plot/tin_vault.rpy:451
 translate zh_hans tin_vault_vault_creampie_bfa17bb6:
 
     # tina "... Of my life!"
-    tina "…… 的性爱！"
+    tina "……最棒的一次！"
 
 # game/src/plot/tin_vault.rpy:452
 translate zh_hans tin_vault_vault_creampie_675a249d:

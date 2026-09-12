@@ -250,7 +250,7 @@ translate zh_hans tor02_judith1_a3c862fb:
 translate zh_hans tor02_judith1_fd76942b:
 
     # anon "Well, I mean, no. It sucks that you can't see without them."
-    anon "嗯，我是说，不。你看不见它们真糟糕。"
+    anon "呃，不，我是说，你不戴眼镜就看不清，确实挺麻烦的。"
 
 # game/src/plot/tor02.rpy:118
 translate zh_hans tor02_judith1_583ee723:
@@ -922,13 +922,13 @@ translate zh_hans tor02_pause_tori_adaa2acd:
 translate zh_hans tor02_pause_tori_1bf43216:
 
     # tori "While it's true that as scientists, we must be willing to sacrifice in the name of humankind's advancement..."
-    tori "虽然作为科学家，我们必须愿意为了人类的进步而牺牲，这是事实……"
+    tori "科学家为了人类进步，确实应该有牺牲精神……"
 
 # game/src/plot/tor02.rpy:432
 translate zh_hans tor02_pause_tori_8e5cd45e:
 
     # tori "... Not even I, it's most devout pupil, would demean myself in such a ludicrous way!"
-    tori "……但即使是我，它最虔诚的信徒，也不会以如此荒谬的方式自贬身份！"
+    tori "……但就连我这个最虔诚的科学信徒，也不会用这么荒唐的方式自贬身份！"
 
 # game/src/plot/tor02.rpy:434
 translate zh_hans tor02_pause_tori_7ec51e43:
@@ -1300,13 +1300,13 @@ translate zh_hans tor02_flake_2b7050da:
 translate zh_hans tor02_flake_d011e370:
 
     # judith "I waited in the park for you..."
-    judith "我刚才在公园等你……"
+    judith "我在公园等了你……"
 
 # game/src/plot/tor02.rpy:624
 translate zh_hans tor02_flake_49289eab:
 
     # judith "... But you never showed up."
-    judith "……但你从没出现过。"
+    judith "……可你一直没来。"
 
 # game/src/plot/tor02.rpy:627
 translate zh_hans tor02_flake_14cbd78c:

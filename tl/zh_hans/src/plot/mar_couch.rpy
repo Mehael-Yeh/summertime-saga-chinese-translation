@@ -1533,7 +1533,7 @@ translate zh_hans mar_couch_noon1_612ade63:
 translate zh_hans mar_couch_noon1_6de192f9:
 
     # maria "... That's so sweet of you to say!"
-    maria "… 你这么说真是太贴心了！"
+    maria "……你这么说真贴心！"
 
 # game/src/plot/mar_couch.rpy:596
 translate zh_hans mar_couch_noon1_65f2f80d:
@@ -2049,13 +2049,13 @@ translate zh_hans mar_couch_noon1_30c7dbae:
 translate zh_hans mar_couch_noon1_daa87630:
 
     # maria "... How good..."
-    maria "……有多美妙……"
+    maria "……你在我体内的感觉……"
 
 # game/src/plot/mar_couch.rpy:802
 translate zh_hans mar_couch_noon1_00fa051b:
 
     # maria "... You feel inside me!"
-    maria "……你在我体内的感觉！"
+    maria "……竟然这么美妙！"
 
 # game/src/plot/mar_couch.rpy:803
 translate zh_hans mar_couch_noon1_c8481ccd_1:

@@ -110,6 +110,7 @@ def iter_pairs(lines: list[str]) -> Iterable[Pair]:
             cursor = index + 1
             while cursor < len(lines) and (
                 not lines[cursor].strip() or lines[cursor].lstrip().startswith('#')
+                or lines[cursor].strip() == 'nvl clear'
             ):
                 cursor += 1
             if cursor < len(lines):

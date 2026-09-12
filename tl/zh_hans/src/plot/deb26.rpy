@@ -4849,7 +4849,7 @@ translate zh_hans deb26_shop_sushi_b825afe8:
 
 
     # debbie "Oh. {nw=1}"
-    debbie "哦。{nw=1}"
+    debbie "我。{nw=1}"
 
 # game/src/plot/deb26.rpy:1998
 translate zh_hans deb26_shop_sushi_adfc0dfe:
@@ -4869,7 +4869,7 @@ translate zh_hans deb26_shop_sushi_adfc0dfe_1:
 translate zh_hans deb26_shop_sushi_7f4bb404:
 
     # extend "My. {nw=.3}"
-    extend "哎呀。{nw=.3}"
+    extend "的。{nw=.3}"
 
 # game/src/plot/deb26.rpy:2005
 translate zh_hans deb26_shop_sushi_c2f9334d:

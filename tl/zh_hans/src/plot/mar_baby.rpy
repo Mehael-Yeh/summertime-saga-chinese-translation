@@ -2106,7 +2106,7 @@ translate zh_hans mar_baby_home_36a80298:
 translate zh_hans mar_baby_home_cc3dd9db:
 
     # tony "... I got it."
-    tony "……我拿到了。"
+    tony "……记下了。"
 
 # game/src/plot/mar_baby.rpy:1016
 translate zh_hans mar_baby_home_29e29af2:

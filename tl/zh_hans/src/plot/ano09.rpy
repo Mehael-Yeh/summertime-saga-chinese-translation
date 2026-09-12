@@ -1228,7 +1228,7 @@ translate zh_hans ano09_tony_merge_46ae1fcc:
 translate zh_hans ano09_tony_merge_f51555ee:
 
     # anon "Not only were they running a fifteen percent off deal..."
-    anon "不光正赶上他们打八五折……"
+    anon "正好赶上他们打八五折……"
 
 # game/src/plot/ano09.rpy:406
 translate zh_hans ano09_tony_merge_d91c45e9:
@@ -1240,19 +1240,19 @@ translate zh_hans ano09_tony_merge_d91c45e9:
 translate zh_hans ano09_tony_merge_66972780:
 
     # anon "... But the girl at the dealership gave me a great trade-in deal."
-    anon "……但车行那姑娘给我的旧车估了个好价钱。"
+    anon "……车行那姑娘给我的旧车估价也挺高，抵了不少钱。"
 
 # game/src/plot/ano09.rpy:411
 translate zh_hans ano09_tony_merge_d3028c36:
 
     # anon "... But I got pretty good value out of my trade-in."
-    anon "……不过我的旧车抵了不少钱。"
+    anon "……旧车置换也帮我抵了不少钱。"
 
 # game/src/plot/ano09.rpy:413
 translate zh_hans ano09_tony_merge_b7843d7b:
 
     # anon "... But they even had it prepped so I could drive it away the same day."
-    anon "……而且他们连车都准备好了，当天就能开走。"
+    anon "……车也整备好了，当天就能开走。"
 
 # game/src/plot/ano09.rpy:418
 translate zh_hans ano09_tony_merge_1c77a943:

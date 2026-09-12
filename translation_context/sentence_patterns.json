@@ -1755,7 +1755,7 @@
     {
       "file": "tl/zh_hans/src/plot/deb_tv.rpy",
       "source": "... That makes them better than the rest.",
-      "target": "……就是比别人更让我喜欢。"
+      "target": "……比别人的更让我喜欢。"
     },
     {
       "file": "tl/zh_hans/src/plot/deb_tv.rpy",
@@ -2166,6 +2166,372 @@
       "file": "tl/zh_hans/src/plot/tin_baby.rpy",
       "source": "They're perfect!",
       "target": "他们真完美！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/+tutor.rpy",
+      "id": "tutor_hud_5ec815fb",
+      "source": " and where you are, respectively.",
+      "target": "以及你目前所在的位置。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "id": "ano09_tony_merge_f51555ee",
+      "source": "Not only were they running a fifteen percent off deal...",
+      "target": "正好赶上他们打八五折……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "id": "ano09_tony_merge_66972780",
+      "source": "... But the girl at the dealership gave me a great trade-in deal.",
+      "target": "……车行那姑娘给我的旧车估价也挺高，抵了不少钱。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "id": "ano09_tony_merge_d3028c36",
+      "source": "... But I got pretty good value out of my trade-in.",
+      "target": "……旧车置换也帮我抵了不少钱。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "id": "ano09_tony_merge_b7843d7b",
+      "source": "... But they even had it prepped so I could drive it away the same day.",
+      "target": "……车也整备好了，当天就能开走。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb14.rpy",
+      "id": "deb14_pants_8ce14470",
+      "source": "I've tried it before, but...",
+      "target": "我以前试过……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "id": "deb13_outro_636b80e8",
+      "source": "... Everything paid in full, mind!",
+      "target": "……钱可都付清了啊！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_lobby.rpy",
+      "id": "deb_lobby_b3fe01ea",
+      "source": "I love you...",
+      "target": "我也……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_lobby.rpy",
+      "id": "deb_lobby_d4d589eb",
+      "source": "... Too...",
+      "target": "……爱你……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "id": "deb_tv_play4_2fda4c6f",
+      "source": "I love... you...",
+      "target": "我……也……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "id": "deb_tv_play4_f098a5e3",
+      "source": "... T-too!!!",
+      "target": "……爱、爱你！！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "id": "deb_mall_debbie_garage_ad1c3f0d",
+      "source": "Yeah, I can't imagine any reason I shouldn't...",
+      "target": "是啊，我想不出有什么理由不能这么做……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "id": "deb_mall_debbie_garage_96db199a",
+      "source": "... Can you?",
+      "target": "……你想得到吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "id": "jen_gfe_jenny_alt_fa226029",
+      "source": "You know, seeing you like this has me thinking...",
+      "target": "你知道吗，看到你这个样子，我就在想……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "id": "jen_baby_food_2e533855",
+      "source": "So, the reason I haven't been around...",
+      "target": "所以，我最近之所以没出现……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "id": "jen_baby_food_6be240a2",
+      "source": "... My little boy toy here put a baby in me!",
+      "target": "……我身边这个小男宠让我怀孕了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "id": "mar_baby_home_cc3dd9db",
+      "source": "... I got it.",
+      "target": "……记下了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "id": "mar_couch_noon1_6de192f9",
+      "source": "... That's so sweet of you to say!",
+      "target": "……你这么说真贴心！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_pantry.rpy",
+      "id": "mar_pantry_creampie_b12cf85c",
+      "source": "That was a...",
+      "target": "刚才算是……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_pantry.rpy",
+      "id": "mar_pantry_creampie_0b2edfca",
+      "source": " good...",
+      "target": "好好……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_pantry.rpy",
+      "id": "mar_pantry_creampie_68938e9d",
+      "source": " break.",
+      "target": "歇了一会儿。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "id": "mel01_flute_6bd829af",
+      "source": "( A good piece of wood and a drill... )",
+      "target": "（一块好木头和一把电钻……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "id": "mel01_flute_1b4caf18",
+      "source": "( ... Well the drill I already have... )",
+      "target": "（……电钻我已经有了……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "id": "mel01_craft_item2_b307a6ce",
+      "source": "( Thankfully, there's that old drill of Dad's on the shelf... )",
+      "target": "（还好，爸爸那把旧电钻就在架子上……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "id": "mel01_craft_item2_84311dd7",
+      "source": "( ... Even if it will be a little weird using it without him... )",
+      "target": "（……不过他不在了，用他的电钻总觉得有点怪……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_gym_rails_49518c77",
+      "source": "( I've offically pressed pause on Mrs. [saga.cast.ursula.clan]'s highfalutin... )",
+      "target": "（总算让[saga.cast.ursula.clan]夫人暂时没法唱高调了……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_gym_rails_bfd194b5",
+      "source": "( ... Which means there's never been a better time for me to do my own high flutin'! )",
+      "target": "（……接下来，该轮到我上台吹长笛了！）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_7295b0e9",
+      "source": "W-we really appreciate...",
+      "target": "我、我们真的很感谢……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_0e418fff",
+      "source": "... You all coming out to...",
+      "target": "……大家能来……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_0b074661",
+      "source": "Let's hear it one more time for-",
+      "target": "让我们再次把掌声送给——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_ecca5e08",
+      "source": "[saga.cast.kevin] on guitar!",
+      "target": "吉他手[saga.cast.kevin]！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_320869bd",
+      "source": "[saga.cast.eve] on vocals!",
+      "target": "主唱[saga.cast.eve]！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_e6c7cab0",
+      "source": "... And of course, [saga.cast.melody]!",
+      "target": "……当然，还有[saga.cast.melody]！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_16abf373",
+      "source": "Who-",
+      "target": "她——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_d86ec413",
+      "source": "[saga.cast.melody], who never fails...",
+      "target": "[saga.cast.melody]，她总能……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_ef575ea9",
+      "source": "... To suck every...",
+      "target": "……从学生身上榨出……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_5ec45ca9",
+      "source": "... Last... Drop...",
+      "target": "……每一滴……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_acb72699",
+      "source": "... Out of her students!",
+      "target": "……连最后一滴都不剩！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "id": "mel06_kevin_merge1_c0e857e5",
+      "source": "Sorry, I meant to say.",
+      "target": "抱歉，我是想说……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "id": "tin_baby_warm_a0fa132b",
+      "source": "I'm all sweaty and gross and...",
+      "target": "我浑身是汗，脏兮兮的……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "id": "tin_baby_warm_3bea68d3",
+      "source": "... A-and don't look at me, I'm hideous!",
+      "target": "……别、别看我，我现在丑死了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "id": "tin_vault_vault_creampie_f5b8228f",
+      "source": "... That was...",
+      "target": "……刚才真是……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "id": "tin_vault_vault_creampie_209dc063",
+      "source": "... The best sex...",
+      "target": "……我这辈子……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "id": "tin_vault_vault_creampie_bfa17bb6",
+      "source": "... Of my life!",
+      "target": "……最棒的一次！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "id": "tor02_pause_tori_1bf43216",
+      "source": "While it's true that as scientists, we must be willing to sacrifice in the name of humankind's advancement...",
+      "target": "科学家为了人类进步，确实应该有牺牲精神……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "id": "tor02_pause_tori_8e5cd45e",
+      "source": "... Not even I, it's most devout pupil, would demean myself in such a ludicrous way!",
+      "target": "……但就连我这个最虔诚的科学信徒，也不会用这么荒唐的方式自贬身份！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "id": "tor02_flake_d011e370",
+      "source": "I waited in the park for you...",
+      "target": "我在公园等了你……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "id": "tor02_flake_49289eab",
+      "source": "... But you never showed up.",
+      "target": "……可你一直没来。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "id": "tor02_judith1_fd76942b",
+      "source": "Well, I mean, no. It sucks that you can't see without them.",
+      "target": "呃，不，我是说，你不戴眼镜就看不清，确实挺麻烦的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "id": "tor05_office2_d5551fe9",
+      "source": "... But the other day.",
+      "target": "……可自从那天以后……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "id": "tor05_office2_2aa1d8cb",
+      "source": "I can't stop thinking about those sensations...",
+      "target": "我就总是忍不住回想那些感觉……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_visit.rpy",
+      "id": "deb_visit_baby_e3ae6764",
+      "source": "It's been... so long... since we-",
+      "target": "我们已经……太久没——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "id": "deb26_shop_sushi_b825afe8",
+      "source": "Oh. {nw=1}",
+      "target": "我。{nw=1}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "id": "deb26_shop_sushi_7f4bb404",
+      "source": "My. {nw=.3}",
+      "target": "的。{nw=.3}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "id": "deb_mall_debbie_creampie_4af782f7",
+      "source": "That was... the best... orgasm...",
+      "target": "刚才那次……高潮……是我……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "id": "deb_mall_debbie_creampie_0bea765b",
+      "source": "... I've ever-",
+      "target": "……这辈子最棒的——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "id": "mar_couch_noon1_daa87630",
+      "source": "... How good...",
+      "target": "……你在我体内的感觉……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "id": "mar_couch_noon1_00fa051b",
+      "source": "... You feel inside me!",
+      "target": "……竟然这么美妙！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "id": "tin_dusk_lounge_bc1ebef8",
+      "source": "... I can go...",
+      "target": "……还能不能……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "id": "tin_dusk_lounge_99ad41a5",
+      "source": "... Any faster!",
+      "target": "……再快一点！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "id": "mel02_eve_delay_erik_dc5532e5",
+      "source": "Not... that... I sing karaoke on my own wearing only...",
+      "target": "我不是……说我会一个人唱卡拉OK，还只穿着……"
     }
   ]
 }

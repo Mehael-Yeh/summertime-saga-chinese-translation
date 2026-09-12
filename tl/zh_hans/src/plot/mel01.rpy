@@ -1354,13 +1354,13 @@ translate zh_hans mel01_flute_46f1afaa:
 translate zh_hans mel01_flute_6bd829af:
 
     # anon "( A good piece of wood and a drill... )"
-    anon "（一块好木头和一个钻头……）"
+    anon "（一块好木头和一把电钻……）"
 
 # game/src/plot/mel01.rpy:703
 translate zh_hans mel01_flute_1b4caf18:
 
     # anon "( ... Well the drill I already have... )"
-    anon "（……好吧，钻头我已经有了……）"
+    anon "（……电钻我已经有了……）"
 
 # game/src/plot/mel01.rpy:705
 translate zh_hans mel01_flute_2a44255c:
@@ -1582,13 +1582,13 @@ translate zh_hans mel01_craft_item2_f8a5fab8:
 translate zh_hans mel01_craft_item2_b307a6ce:
 
     # anon @ -m_talk "( Thankfully, there's that old drill of Dad's on the shelf... )"
-    anon @ -m_talk "（……我很确定家里车库里还有爸爸以前用的那把旧电钻……）"
+    anon @ -m_talk "（还好，爸爸那把旧电钻就在架子上……）"
 
 # game/src/plot/mel01.rpy:834
 translate zh_hans mel01_craft_item2_84311dd7:
 
     # anon e_osw f_sad_happy @ -m_talk "( ... Even if it will be a little weird using it without him... )"
-    anon e_osw f_sad_happy @ -m_talk "（……就算没有他用起来有点怪……）"
+    anon e_osw f_sad_happy @ -m_talk "（……不过他不在了，用他的电钻总觉得有点怪……）"
 
 # game/src/plot/mel01.rpy:843
 translate zh_hans mel01_craft_late_328e9b39:

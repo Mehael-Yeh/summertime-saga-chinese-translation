@@ -1600,13 +1600,13 @@ translate zh_hans deb_mall_debbie_creampie_0a8d737c:
 translate zh_hans deb_mall_debbie_creampie_4af782f7:
 
     # debbie "That was... the best... orgasm..."
-    debbie "那是……最棒的……高潮……"
+    debbie "刚才那次……高潮……是我……"
 
 # game/src/plot/deb_mall.rpy:672
 translate zh_hans deb_mall_debbie_creampie_0bea765b:
 
     # debbie "... I've ever-"
-    debbie "……我从未——"
+    debbie "……这辈子最棒的——"
 
 # game/src/plot/deb_mall.rpy:674
 translate zh_hans deb_mall_debbie_creampie_4ba696bf:
@@ -2050,13 +2050,13 @@ translate zh_hans deb_mall_debbie_garage_5989da59:
 translate zh_hans deb_mall_debbie_garage_ad1c3f0d:
 
     # debbie "Yeah, I can't imagine any reason I shouldn't..."
-    debbie "是啊，我想不出有什么理由我不该……"
+    debbie "是啊，我想不出有什么理由不能这么做……"
 
 # game/src/plot/deb_mall.rpy:846
 translate zh_hans deb_mall_debbie_garage_96db199a:
 
     # debbie e_w "... Can you?"
-    debbie e_w "……你有吗？"
+    debbie e_w "……你想得到吗？"
 
 # game/src/plot/deb_mall.rpy:847
 translate zh_hans deb_mall_debbie_garage_c6291b9b:

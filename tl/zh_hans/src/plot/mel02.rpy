@@ -1545,7 +1545,7 @@ translate zh_hans mel02_eve_delay_erik_dc5532e5:
 
 
     # erik "Not... that... I sing karaoke on my own wearing only..."
-    erik "不是……说……我独自一人只穿着……唱卡拉OK……"
+    erik "我不是……说我会一个人唱卡拉OK，还只穿着……"
 
 # game/src/plot/mel02.rpy:659
 translate zh_hans mel02_eve_delay_erik_d91a992e:

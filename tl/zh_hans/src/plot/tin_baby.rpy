@@ -952,13 +952,13 @@ translate zh_hans tin_baby_warm_d06fe727:
 translate zh_hans tin_baby_warm_a0fa132b:
 
     # becca e_ssw "I'm all sweaty and gross and..."
-    becca e_ssw "我浑身是汗，脏兮兮的，而且……"
+    becca e_ssw "我浑身是汗，脏兮兮的……"
 
 # game/src/plot/tin_baby.rpy:395
 translate zh_hans tin_baby_warm_3bea68d3:
 
     # becca e_se "... A-and don't look at me, I'm hideous!"
-    becca e_se "……而、而且别看我，我丑得很！"
+    becca e_se "……别、别看我，我现在丑死了！"
 
 # game/src/plot/tin_baby.rpy:401
 translate zh_hans tin_baby_warm_d7da5863_1:

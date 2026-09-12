@@ -426,17 +426,17 @@ translate zh_hans mar_pantry_creampie_d5b0aa20:
 # game/src/plot/mar_pantry.rpy:183
 translate zh_hans mar_pantry_creampie_b12cf85c:
     # maria "That was a..."
-    maria "刚才真是一次……"
+    maria "刚才算是……"
 
 # game/src/plot/mar_pantry.rpy:185
 translate zh_hans mar_pantry_creampie_0b2edfca:
     # extend " good..."
-    extend "痛快的……"
+    extend "好好……"
 
 # game/src/plot/mar_pantry.rpy:186
 translate zh_hans mar_pantry_creampie_68938e9d:
     # extend " break."
-    extend "休息。"
+    extend "歇了一会儿。"
 
 # game/src/plot/mar_pantry.rpy:188
 translate zh_hans mar_pantry_creampie_52b3c814:

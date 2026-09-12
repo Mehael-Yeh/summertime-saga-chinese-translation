@@ -226,7 +226,7 @@ translate zh_hans deb14_pants_0ee2e3de:
 translate zh_hans deb14_pants_8ce14470:
 
     # anon "I've tried it before, but..."
-    anon "我以前试过，但是……"
+    anon "我以前试过……"
 
 # game/src/plot/deb14.rpy:138
 translate zh_hans deb14_pants_08bc7c31:

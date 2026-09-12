@@ -60,8 +60,17 @@ def check_approved(path):
     for rule in patterns:
         file=rule['file']
         if file not in cache:
-            cache[file]=list(iter_pairs(Path(file).read_text(encoding='utf-8-sig').splitlines()))
-        matches=[p for p in cache[file] if p.source==rule['source']]
+            lines=Path(file).read_text(encoding='utf-8-sig').splitlines()
+            block=None
+            blocks={}
+            for number,line in enumerate(lines,1):
+                match=re.match(r'^translate\s+zh_hans\s+([^:]+):',line)
+                if match:
+                    block=match.group(1)
+                blocks[number]=block
+            cache[file]=[(p,blocks[p.target_line]) for p in iter_pairs(lines)]
+        matches=[p for p,block in cache[file] if p.source==rule['source']
+                 and ('id' not in rule or rule['id']==block)]
         if not matches:
             issues.append(f'{file}: approved source missing')
         for pair in matches:

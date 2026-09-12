@@ -633,13 +633,13 @@ translate zh_hans tin_dusk_lounge_369912ec:
 translate zh_hans tin_dusk_lounge_bc1ebef8:
 
     # anon "... I can go..."
-    anon "……我还能……"
+    anon "……还能不能……"
 
 # game/src/plot/tin_dusk.rpy:250
 translate zh_hans tin_dusk_lounge_99ad41a5:
 
     # anon "... Any faster!"
-    anon "……再快了！"
+    anon "……再快一点！"
 
 # game/src/plot/tin_dusk.rpy:251
 translate zh_hans tin_dusk_lounge_3f1a7285:

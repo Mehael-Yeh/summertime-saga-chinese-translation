@@ -1168,13 +1168,13 @@ translate zh_hans tor05_office2_4e75b08f:
 translate zh_hans tor05_office2_d5551fe9:
 
     # tori "... But the other day."
-    tori "……但那天。"
+    tori "……可自从那天以后……"
 
 # game/src/plot/tor05.rpy:644
 translate zh_hans tor05_office2_2aa1d8cb:
 
     # tori "I can't stop thinking about those sensations..."
-    tori "我无法停止回想那些感觉……"
+    tori "我就总是忍不住回想那些感觉……"
 
 # game/src/plot/tor05.rpy:645
 translate zh_hans tor05_office2_1c541315:

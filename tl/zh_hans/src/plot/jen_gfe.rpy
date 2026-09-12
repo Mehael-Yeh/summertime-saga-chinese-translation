@@ -1300,7 +1300,7 @@ translate zh_hans jen_gfe_jenny_alt_71c505a2:
 translate zh_hans jen_gfe_jenny_alt_fa226029:
 
     # anon "You know, seeing you like this has me thinking..."
-    anon "你知道吗，看到你这个样子，让我想……"
+    anon "你知道吗，看到你这个样子，我就在想……"
 
 # game/src/plot/jen_gfe.rpy:488
 translate zh_hans jen_gfe_jenny_alt_7bb8973c:

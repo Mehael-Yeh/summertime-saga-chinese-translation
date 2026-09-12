@@ -3732,7 +3732,7 @@ translate zh_hans jen_baby_food_2e533855:
 
 
     # jenny "So, the reason I haven't been around..."
-    jenny "所以，我最近没出现的原因……"
+    jenny "所以，我最近之所以没出现……"
 
 # game/src/plot/jen_baby.rpy:1402
 translate zh_hans jen_baby_food_eb17b24c:
@@ -3745,7 +3745,7 @@ translate zh_hans jen_baby_food_eb17b24c:
 translate zh_hans jen_baby_food_6be240a2:
 
     # jenny p_bed_sit_close "... My little boy toy here put a baby in me!"
-    jenny p_bed_sit_close "……就是我身边这个小男宠让我怀孕了！"
+    jenny p_bed_sit_close "……我身边这个小男宠让我怀孕了！"
 
 # game/src/plot/jen_baby.rpy:1406
 translate zh_hans jen_baby_food_7f64381b:
