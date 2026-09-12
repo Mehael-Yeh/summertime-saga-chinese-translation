@@ -520,7 +520,7 @@ translate zh_hans tor01_intro_96ad61b8:
 translate zh_hans tor01_intro_cda9f6f0:
 
     # tori "[saga.cast.anon], you just watch [saga.cast.mia] and [saga.cast.erik] for today."
-    tori "[saga.cast.anon]，你今天就看管好[saga.cast.mia]和[saga.cast.erik]。"
+    tori "[saga.cast.anon]，你今天就在旁边看[saga.cast.mia]和[saga.cast.erik]做实验。"
 
 # game/src/plot/tor01.rpy:234
 translate zh_hans tor01_intro_1d67ab17:
@@ -1096,7 +1096,7 @@ translate zh_hans tor01_office2_f92fd61c:
 translate zh_hans tor01_office2_935b06c6:
 
     # anon "Blueprints, a lab coat, and safety glasses..."
-    anon "蓝图、一件实验室外套，还有护目镜……"
+    anon "蓝图、一件实验服，还有护目镜……"
 
 # game/src/plot/tor01.rpy:479
 translate zh_hans tor01_office2_44746db4:
@@ -1750,7 +1750,7 @@ translate zh_hans tor01_take_rails_f8aa9ded:
 translate zh_hans tor01_take_specs_bcf6a146:
 
     # anon "( Here's the glasses! )"
-    anon "（眼镜给你！）"
+    anon "（护目镜在这儿！）"
 
 # game/src/plot/tor01.rpy:812
 translate zh_hans tor01_science_2779d3c0:
@@ -1954,7 +1954,7 @@ translate zh_hans tor01_science_e219345f:
 translate zh_hans tor01_science_6a9a6b01:
 
     # tori "Can nobody do anything right?!"
-    tori "难道就没有一个人能做好事吗？！"
+    tori "难道就没一个人能把事情做对吗？！"
 
 # game/src/plot/tor01.rpy:935
 translate zh_hans tor01_science_9b140a64:

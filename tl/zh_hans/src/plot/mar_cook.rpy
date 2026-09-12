@@ -6,7 +6,7 @@ translate zh_hans mar_cook_47f4af67:
 # game/src/plot/mar_cook.rpy:5
 translate zh_hans mar_cook_66024988:
     # maria a_point e_wsw o_right "You remember how to work the prep station?"
-    maria a_point e_wsw o_right "你还记得怎么操作备料台吗？"
+    maria a_point e_wsw o_right "备料台上的活儿，你还记得怎么做吧？"
 
 # game/src/plot/mar_cook.rpy:7
 translate zh_hans mar_cook_575ae8ef:
@@ -66,7 +66,7 @@ translate zh_hans mar_cook_retry_c8846e80:
 # game/src/plot/mar_cook.rpy:49
 translate zh_hans mar_cook_retry_d2316696:
     # maria "You just earned yourself a very special reward!"
-    maria "你刚刚为自己赢得了一份特别奖励！"
+    maria "这下可得给你一份特别奖励了！"
 
 # game/src/plot/mar_cook.rpy:50
 translate zh_hans mar_cook_retry_7f7d0e3e:

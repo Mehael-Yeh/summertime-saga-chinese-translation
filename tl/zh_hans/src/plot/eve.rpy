@@ -262,7 +262,7 @@ translate zh_hans strings:
 
     # game/src/plot/eve.rpy:5
     old "Tutor."
-    new "导师"
+    new "课后辅导"
 
     # game/src/plot/eve.rpy:8
     old "Bag."

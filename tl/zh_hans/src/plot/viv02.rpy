@@ -315,7 +315,7 @@ translate zh_hans viv02_jane_b1540678:
 translate zh_hans viv02_jane_82477d62:
 
     # jane "It's saying our sister branch has a French book about cheese."
-    jane "系统显示我们的姐妹分馆有一本法语书是关于奶酪的。"
+    jane "系统显示，另一家分馆有一本介绍奶酪的法语书。"
 
 # game/src/plot/viv02.rpy:150
 translate zh_hans viv02_jane_dcd945a6:
@@ -327,7 +327,7 @@ translate zh_hans viv02_jane_dcd945a6:
 translate zh_hans viv02_jane_3d31b237:
 
     # anon "Sure, I love cheese! Where do I need to pick it up?"
-    anon "当然，我喜欢奶酪！我需要在哪儿去取？"
+    anon "当然，我喜欢奶酪！我该去哪儿取？"
 
 # game/src/plot/viv02.rpy:154
 translate zh_hans viv02_jane_3185fa15:
@@ -393,7 +393,7 @@ translate zh_hans viv02_jane_a915e11e:
 translate zh_hans viv02_jane_c7ae2fc2:
 
     # anon "Those should be easy."
-    anon "那些应该很容易。"
+    anon "这两个人应该不难搞定。"
 
 # game/src/plot/viv02.rpy:172
 translate zh_hans viv02_jane_e63c028b:
@@ -423,7 +423,7 @@ translate zh_hans viv02_jane_5175a94e:
 translate zh_hans viv02_jane_d4b71799:
 
     # jane "That's what the log says..."
-    jane "日志上是这么说的……"
+    jane "借阅记录上是这么写的……"
 
 # game/src/plot/viv02.rpy:181
 translate zh_hans viv02_jane_1911dfdf:
@@ -735,7 +735,7 @@ translate zh_hans viv02_books_erik_373bd868:
 translate zh_hans viv02_books_erik_a3d4736b:
 
     # anon "She said you had a book that's overdue, and I was hoping I could get it from you."
-    anon "她说你有本书过期了，我希望能从你这儿拿到。"
+    anon "她说你有本书逾期没还，我想来找你拿回去。"
 
 # game/src/plot/viv02.rpy:384
 translate zh_hans viv02_books_erik_92b2b896:
@@ -1450,7 +1450,7 @@ translate zh_hans viv02_viv_busy_356c36b7:
 translate zh_hans viv02_viv_busy_c074d282:
 
     # viv "Perhaps next time, no?"
-    viv "也许下次，不是吗？"
+    viv "那就下次，好吗？"
 
 # game/src/plot/viv02.rpy:718
 translate zh_hans viv02_viv_busy_7b852aeb:
@@ -1528,7 +1528,7 @@ translate zh_hans viv02_outro_office1_4ea2ee77:
 translate zh_hans viv02_outro_office1_a6f69ff1:
 
     # ursula "Yes, yes... easy to understand when speaking about a mind as small as yours, [saga.cast.viv.name]..."
-    ursula "是的，是的……说到像你这样小的头脑，就很容易理解了，[saga.cast.viv.name]……"
+    ursula "是，是……就你那点脑子，记不住也不奇怪，[saga.cast.viv.name]……"
 
 # game/src/plot/viv02.rpy:763
 translate zh_hans viv02_outro_office1_eace97ed:
@@ -1564,7 +1564,7 @@ translate zh_hans viv02_outro_office1_441ab62a:
 translate zh_hans viv02_outro_office1_b1bc9ac9:
 
     # ursula "You're on very thin ice, [saga.cast.viv.name]!"
-    ursula "你已经如履薄冰了，[saga.cast.viv.name]！"
+    ursula "你现在的处境可不妙，[saga.cast.viv.name]！"
 
 # game/src/plot/viv02.rpy:772
 translate zh_hans viv02_outro_office1_49aff42c:

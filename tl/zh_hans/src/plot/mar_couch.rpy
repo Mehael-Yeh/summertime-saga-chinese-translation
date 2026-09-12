@@ -752,7 +752,7 @@ translate zh_hans mar_couch_merge3_219851ea:
 
 
     # anon "You there, buddy?"
-    anon "嘿，哥们儿，你还清醒吗？"
+    anon "嘿，哥们儿，还醒着吗？"
 
 # game/src/plot/mar_couch.rpy:278
 translate zh_hans mar_couch_merge3_68a78b80:
@@ -2745,7 +2745,7 @@ translate zh_hans mar_couch_noon1b_330783d2:
 translate zh_hans mar_couch_noon1b_3d6e8c93:
 
     # anon f_calm "You smell wonderful, by the way."
-    anon f_calm "顺便说一句，你闻起来真好闻。"
+    anon f_calm "对了，你身上真香。"
 
 # game/src/plot/mar_couch.rpy:1003
 translate zh_hans mar_couch_noon1b_bef151d0:
@@ -3489,7 +3489,7 @@ translate zh_hans mar_couch_noon2_0cf4d269:
 translate zh_hans mar_couch_noon2_8a5e247c:
 
     # tony a_wtf_tv f_sceptical "RIGHT DOWN THE MIDDLE!?"
-    tony a_wtf_tv f_sceptical "正中红心！？"
+    tony a_wtf_tv f_sceptical "正中间？！"
 
 # game/src/plot/mar_couch.rpy:1248
 translate zh_hans mar_couch_noon2_7fd5d419:

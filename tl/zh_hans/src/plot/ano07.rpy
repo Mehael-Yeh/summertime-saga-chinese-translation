@@ -766,7 +766,7 @@ translate zh_hans ano07_boxes_3fbc2443:
 translate zh_hans ano07_boxes_178fc879:
 
     # anon f_happy "So I'm hired?"
-    anon f_happy "所以我被录取了？"
+    anon f_happy "所以我被录用了？"
 
 # game/src/plot/ano07.rpy:320
 translate zh_hans ano07_boxes_6db07ad4:

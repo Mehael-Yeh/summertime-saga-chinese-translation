@@ -166,7 +166,7 @@ translate zh_hans ano06_debbies_46230c44:
 translate zh_hans ano06_debbies_957eacdd:
 
     # dimitri "We want."
-    dimitri "我们要……"
+    dimitri "我们要你……"
 
 # game/src/plot/ano06.rpy:71
 translate zh_hans ano06_debbies_059338fc:
@@ -178,7 +178,7 @@ translate zh_hans ano06_debbies_059338fc:
 translate zh_hans ano06_debbies_33dfc8d8:
 
     # dimitri "Back."
-    dimitri "全部还回来。"
+    dimitri "还回来。"
 
 # game/src/plot/ano06.rpy:75
 translate zh_hans ano06_debbies_556479c1:
@@ -244,7 +244,7 @@ translate zh_hans ano06_debbies_a7627140:
 translate zh_hans ano06_debbies_6c122cc8:
 
     # dimitri a_talk "Yip, yip, yip!"
-    dimitri a_talk "汪！汪！汪！"
+    dimitri a_talk "叽里呱啦，叽里呱啦！"
 
 # game/src/plot/ano06.rpy:96
 translate zh_hans ano06_debbies_b9d37844:

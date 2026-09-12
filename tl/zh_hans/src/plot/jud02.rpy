@@ -425,7 +425,7 @@ translate zh_hans jud02_stall_6ecb3960:
 
 
     # judith f_shy "Oh, wowie waffles!"
-    judith f_shy "哦，哇哦，华夫饼！"
+    judith f_shy "我的华夫饼呀！"
 
 # game/src/plot/jud02.rpy:140
 translate zh_hans jud02_stall_46ff8fd3:

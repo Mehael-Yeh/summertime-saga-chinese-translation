@@ -34,7 +34,7 @@ translate zh_hans tin_vault_tina_028e8a2d:
 translate zh_hans tin_vault_tina_9943b63a:
 
     # tina "Hey, [saga.cast.liu], hold my calls!"
-    tina "嘿，[saga.cast.liu]，别接电话！"
+    tina "嘿，[saga.cast.liu]，先别把电话转给我！"
 
 # game/src/plot/tin_vault.rpy:16
 translate zh_hans tin_vault_tina_16c36ce2:
@@ -52,7 +52,7 @@ translate zh_hans tin_vault_tina_f927513f:
 translate zh_hans tin_vault_tina_3f6256e1:
 
     # tina "Hey, [saga.cast.tim], hold my calls!"
-    tina "嘿，[saga.cast.tim]，别接电话！"
+    tina "嘿，[saga.cast.tim]，先别把电话转给我！"
 
 # game/src/plot/tin_vault.rpy:21
 translate zh_hans tin_vault_tina_4a70ff32:
@@ -328,7 +328,7 @@ translate zh_hans tin_vault_tina_fail_61dd07a7:
 translate zh_hans tin_vault_tina_fail_e9898a2f:
 
     # tina f_calm "I guess, I shouldn't be surprised by your lack of creativity..."
-    tina f_calm "我想，我对你缺乏创意这一点不该感到惊讶……"
+    tina f_calm "你这么没创意，我也不该觉得奇怪……"
 
 # game/src/plot/tin_vault.rpy:123
 translate zh_hans tin_vault_tina_fail_7b513867:
@@ -352,7 +352,7 @@ translate zh_hans tin_vault_tina_fail_3d262930:
 translate zh_hans tin_vault_tina_fail_c2fe45ca:
 
     # anon a_uneasy f_shy "Aww."
-    anon a_uneasy f_shy "啊哦。"
+    anon a_uneasy f_shy "唉。"
 
 # game/src/plot/tin_vault.rpy:159
 translate zh_hans tin_vault_vault_37aed4bb:

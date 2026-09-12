@@ -514,7 +514,7 @@ translate zh_hans ano03_dimitri_92b353cb:
 translate zh_hans ano03_dimitri_73ce88fc:
 
     # dimitri "I guess apple can fall far from tree."
-    dimitri "看来这颗苹果，也能落得离树很远。"
+    dimitri "看来儿子，也不一定像老子。"
 
 # game/src/plot/ano03.rpy:148
 translate zh_hans ano03_dimitri_4df519e1:

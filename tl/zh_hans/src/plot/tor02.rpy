@@ -34,7 +34,7 @@ translate zh_hans tor02_intro_16cfe53c:
 translate zh_hans tor02_intro_7828d126:
 
     # tori "I call these beauties, the Okitatron Oculars."
-    tori "我把这些美人称为“冲田眼”。"
+    tori "我把这副宝贝叫作“Okitatron眼镜”。"
 
 # game/src/plot/tor02.rpy:29
 translate zh_hans tor02_intro_79503283:
@@ -70,7 +70,7 @@ translate zh_hans tor02_intro_7d4d63e7:
 translate zh_hans tor02_intro_bdec0f6f:
 
     # tori "Let me just put it this way, the Okitatron Oculars will soon replace every smartphone on the planet."
-    tori "简单来说，冲田眼罩很快就会取代地球上的每一部智能手机。"
+    tori "简单来说，Okitatron眼镜很快就会取代地球上的每一部智能手机。"
 
 # game/src/plot/tor02.rpy:44
 translate zh_hans tor02_intro_eba8d3f9:
@@ -574,7 +574,7 @@ translate zh_hans tor02_judith1_erik_acef0743:
 translate zh_hans tor02_judith1_erik_0a17b3c1:
 
     # anon "I forgot, they need to be varifocal lenses..."
-    anon "我忘了，它们得是变焦镜片……"
+    anon "我忘了，得是渐进镜片才行……"
 
 # game/src/plot/tor02.rpy:260
 translate zh_hans tor02_judith1_erik_4236ff7c:
@@ -598,7 +598,7 @@ translate zh_hans tor02_judith1_erik_fe8ce0b2:
 translate zh_hans tor02_judith1_erik_ba6115f9:
 
     # anon "Crap! I need lenses from someone who is both."
-    anon "操！我需要一个同时有这两样东西的人来拿镜头。"
+    anon "糟了！我得找个既近视又远视的人，借一副镜片。"
 
 # game/src/plot/tor02.rpy:272
 translate zh_hans tor02_judith1_erik_1e1a7d53:
@@ -718,7 +718,7 @@ translate zh_hans tor02_judith1_june_55ac05c9:
 translate zh_hans tor02_judith1_june_a653e1fa:
 
     # anon "I need a pair from someone who is both."
-    anon "我需要一个既远视又近视的人的眼睛。"
+    anon "我得找个既远视又近视的人，借一副眼镜。"
 
 # game/src/plot/tor02.rpy:330
 translate zh_hans tor02_judith1_june_5f246288:
@@ -886,7 +886,7 @@ translate zh_hans tor02_pause_judith_d40e018d:
 translate zh_hans tor02_pause_tori_2826421b:
 
     # anon f_calm "I've got a lead on those lenses you want."
-    anon f_calm "我找到了你想要的那些镜头的线索。"
+    anon f_calm "我打听到哪里能找到你要的镜片了。"
 
 # game/src/plot/tor02.rpy:419
 translate zh_hans tor02_pause_tori_d088413f:
@@ -1600,7 +1600,7 @@ translate zh_hans tor02_specs_ef2cf98b:
 translate zh_hans tor02_specs_e27e60e9:
 
     # anon "( Now, I just need to get these back to [saga.cast.tori]. )"
-    anon "（现在，只要把这些还给[saga.cast.tori]就行。）"
+    anon "（现在，只要把这副眼镜带给[saga.cast.tori]就行。）"
 
 # game/src/plot/tor02.rpy:749
 translate zh_hans tor02_specs_rails_7b9b81bf:
@@ -1726,7 +1726,7 @@ translate zh_hans tor02_tori_5937d079:
 translate zh_hans tor02_tori_d93c0eea:
 
     # anon "... Yes."
-    anon "……看懂。"
+    anon "……能。"
 
 # game/src/plot/tor02.rpy:815
 translate zh_hans tor02_tori_b27ad19f:
@@ -1762,7 +1762,7 @@ translate zh_hans tor02_tori_merge_76d5e6d5:
 translate zh_hans tor02_tori_merge_ce043e37:
 
     # anon "One pair of Okitatron Oculars, ready for testing!"
-    anon "一副Okitatron眼部装置，准备测试！"
+    anon "Okitatron眼镜组装完毕，可以测试了！"
 
 # game/src/plot/tor02.rpy:838
 translate zh_hans tor02_tori_merge_c4f340ac:
@@ -2122,7 +2122,7 @@ translate zh_hans tor02_tori_fail_756bafd1:
 translate zh_hans tor02_tori_fail_baab2ecb:
 
     # tori "No, they are absolutely not supposed to be smoking!"
-    tori "不，他们绝对不该抽烟！"
+    tori "不，这眼镜绝对不该冒烟！"
 
 # game/src/plot/tor02.rpy:1079
 translate zh_hans tor02_tori_fail_9d816de7:
@@ -2188,7 +2188,7 @@ translate zh_hans tor02_tori_tori_bc817f6f:
 translate zh_hans tor02_tori_tori_c2c7c6d5:
 
     # tori "Are they varifocal, like I requested?"
-    tori "是我要求的渐进多焦点镜片吗？"
+    tori "是我要求的渐进镜片吗？"
 
 # game/src/plot/tor02.rpy:1111
 translate zh_hans tor02_tori_tori_1d2b2ff8:
@@ -2320,7 +2320,7 @@ translate zh_hans tor02_redux_tori_e0f38bb5:
 translate zh_hans tor02_redux_tori_4934e503:
 
     # tori "Not while I'm fracting!"
-    tori "我正分神呢！"
+    tori "我正做分形处理呢，别打岔！"
 
 # game/src/plot/tor02.rpy:1173
 translate zh_hans tor02_redux_tori_44b0ce1b:
@@ -2362,7 +2362,7 @@ translate zh_hans tor02_retry2_d91a992e:
 translate zh_hans tor02_retry2_af2cb342:
 
     # anon "I'll get them to work this time, I know it!"
-    anon "这次我会让他们运作起来，我知道的！"
+    anon "这次我一定能让眼镜正常运作！"
 
 # game/src/plot/tor02.rpy:1200
 translate zh_hans tor02_retry2_a8e49068:
@@ -2416,7 +2416,7 @@ translate zh_hans tor02_retry2_tori_37aed4bb:
 translate zh_hans tor02_retry2_tori_04bf2a92:
 
     # anon "Yeah, I suppose we don't."
-    anon "是啊，我想我们确实没有。"
+    anon "是啊，确实不能让她起疑。"
 
 # game/src/plot/tor02.rpy:1230
 translate zh_hans tor02_office2_1767491b:
@@ -2698,7 +2698,7 @@ translate zh_hans tor02_office2_2fff76d7:
 translate zh_hans tor02_office2_a4f8846b:
 
     # anon "What about the Okitatron Oculars?"
-    anon "那台Okitatron Oculars是怎么回事？"
+    anon "那Okitatron眼镜怎么办？"
 
 # game/src/plot/tor02.rpy:1369
 translate zh_hans tor02_office2_eb8a4b2f:

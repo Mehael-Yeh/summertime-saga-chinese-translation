@@ -1178,4 +1178,4 @@ translate zh_hans strings:
 
     # game/src/plot/deb14.rpy:158
     old "Not really."
-    new "没怎么想过"
+    new "倒也没有"

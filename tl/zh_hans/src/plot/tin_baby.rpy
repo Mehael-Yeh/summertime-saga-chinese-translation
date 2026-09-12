@@ -550,13 +550,13 @@ translate zh_hans tin_baby_late_misc2_68782066:
 translate zh_hans tin_baby_late_outro_7a6103d8:
 
     # anon a_wave f_happy "I'll see you soon."
-    anon a_wave f_happy "我很快就会见到你。"
+    anon a_wave f_happy "我很快再来看你。"
 
 # game/src/plot/tin_baby.rpy:193
 translate zh_hans tin_baby_late_outro_212d6707:
 
     # anon "Feel free to call me, night or day, okay?"
-    anon "随时给我打电话，早晚都行，好吗？"
+    anon "有事随时给我打电话，白天晚上都行，好吗？"
 
 # game/src/plot/tin_baby.rpy:195
 translate zh_hans tin_baby_late_outro_d01af0ed:
@@ -988,13 +988,13 @@ translate zh_hans tin_baby_warm_69650a55:
 translate zh_hans tin_baby_warm_f5759927:
 
     # anon "Feel free to call me, night or day..."
-    anon "随时给我打电话，早晚都行……"
+    anon "有事随时给我打电话，白天晚上都行……"
 
 # game/src/plot/tin_baby.rpy:409
 translate zh_hans tin_baby_warm_c321216c:
 
     # anon a_point f_curious "... Okay?"
-    anon a_point f_curious "…… 好吧？"
+    anon a_point f_curious "……好吗？"
 
 # game/src/plot/tin_baby.rpy:411
 translate zh_hans tin_baby_warm_53f6d1a0:
@@ -1127,7 +1127,7 @@ translate zh_hans tin_baby_belly_misc1_d70fc680:
 translate zh_hans tin_baby_belly_misc2_823e5694:
 
     # anon f_curious "Can I get you anything?"
-    anon f_curious "需要我给你拿点什么吗？"
+    anon f_curious "需要我帮你做点什么吗？"
 
 # game/src/plot/tin_baby.rpy:494
 translate zh_hans tin_baby_belly_misc2_ac40beb3:
@@ -1151,7 +1151,7 @@ translate zh_hans tin_baby_belly_misc2_18261af8:
 translate zh_hans tin_baby_belly_misc2_c5c46eed:
 
     # tina "[saga.cast.becca] and I have been going to a masseuse twice a week."
-    tina "[saga.cast.becca]和我每周去做两次按摩。"
+    tina "我和[saga.cast.becca]每周都去找按摩师按摩两次。"
 
 # game/src/plot/tin_baby.rpy:500
 translate zh_hans tin_baby_belly_misc2_1aad234c:
@@ -1426,7 +1426,7 @@ translate zh_hans tin_baby_meet_823e5694:
 translate zh_hans tin_baby_meet_e62041d1:
 
     # tina "Yes, actually!"
-    tina "是的，其实！"
+    tina "还真有！"
 
 # game/src/plot/tin_baby.rpy:622
 translate zh_hans tin_baby_meet_b42dc1f3:
@@ -1651,7 +1651,7 @@ translate zh_hans tin_baby_rest_misc1_6331fc39:
 translate zh_hans tin_baby_rest_misc1_91712a7f:
 
     # tina f_calm "That lactation specialist is really gonna pay off!"
-    tina f_calm "那位哺乳专家真的会值回票价！"
+    tina f_calm "请那位哺乳专家的钱可真不会白花！"
 
 # game/src/plot/tin_baby.rpy:734
 translate zh_hans tin_baby_rest_misc1_8dd6c718:
@@ -1791,19 +1791,19 @@ translate zh_hans tin_baby_post_misc1_0cdf01de:
 translate zh_hans tin_baby_post_misc1_e2d111ac:
 
     # anon "He came from good stock, on his mother's side."
-    anon "他血统优良，像他母亲那边。"
+    anon "他遗传了妈妈的好基因。"
 
 # game/src/plot/tin_baby.rpy:823
 translate zh_hans tin_baby_post_misc1_c8d9b7c4:
 
     # anon "She came from good stock, on her mother's side."
-    anon "她血统优良，像她母亲那边。"
+    anon "她遗传了妈妈的好基因。"
 
 # game/src/plot/tin_baby.rpy:825
 translate zh_hans tin_baby_post_misc1_0d3621b1:
 
     # anon "They come from good stock, on their mother's side."
-    anon "他们血统优良，像他们母亲那边。"
+    anon "他们遗传了妈妈的好基因。"
 
 # game/src/plot/tin_baby.rpy:828
 translate zh_hans tin_baby_post_misc1_194f1082:
@@ -1821,19 +1821,19 @@ translate zh_hans tin_baby_post_misc1_94d72c0e:
 translate zh_hans tin_baby_post_misc1_0aa1a702:
 
     # tina "... His father's side isn't too shabby either, you know?"
-    tina "……他父亲那边也不赖，你知道吧？"
+    tina "……他爸爸也不差呀。"
 
 # game/src/plot/tin_baby.rpy:836
 translate zh_hans tin_baby_post_misc1_7bd2ec7b:
 
     # tina "... Her father's side isn't too shabby either, you know?"
-    tina "…… 她父亲那边也不赖，你知道吗？"
+    tina "……她爸爸也不差呀。"
 
 # game/src/plot/tin_baby.rpy:838
 translate zh_hans tin_baby_post_misc1_5105ebc3:
 
     # tina "... Their father's side isn't too shabby either, you know?"
-    tina "…… 他们父亲那边也不赖，你知道吗？"
+    tina "……他们爸爸也不差呀。"
 
 # game/src/plot/tin_baby.rpy:842
 translate zh_hans tin_baby_post_misc1_d177e36d:

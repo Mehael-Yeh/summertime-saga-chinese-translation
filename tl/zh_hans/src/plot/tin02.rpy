@@ -280,7 +280,7 @@ translate zh_hans tin02_liu_tina_5e94017b:
 
 
     # tina e_w f_curious "Really, babyface?"
-    tina e_w f_curious "真的吗，小帅哥？"
+    tina e_w f_curious "小帅哥，你还说这个？"
 
 # game/src/plot/tin02.rpy:126
 translate zh_hans tin02_liu_tina_10fcb159:
@@ -294,7 +294,7 @@ translate zh_hans tin02_liu_tina_ac5ae198:
 
 
     # tina "... Come and see me in my office in the morning."
-    tina "…… 早上来我办公室见我。"
+    tina "……早上来我办公室见我。"
 
 # game/src/plot/tin02.rpy:129
 translate zh_hans tin02_liu_tina_6eb62b5e:
@@ -408,7 +408,7 @@ translate zh_hans tin02_cubicle_3b32703c:
 
 
     # tina "Yeah, you know... When my daughter and her little friend caught us kissing in my doorway."
-    tina "是啊，你知道…… 当我女儿和她的小朋友撞见我们在门口接吻的时候。"
+    tina "是啊，你知道……我女儿和她的小朋友撞见我们在门口接吻的那次。"
 
 # game/src/plot/tin02.rpy:170
 translate zh_hans tin02_cubicle_78fc23c2:
@@ -1022,7 +1022,7 @@ translate zh_hans tin02_cubicle_creampie_c2808c5b:
 
 
     # anon "Y-yeah."
-    anon "嗯…… 嗯。"
+    anon "嗯、嗯。"
 
 # game/src/plot/tin02.rpy:382
 translate zh_hans tin02_cubicle_creampie_cfff820d:

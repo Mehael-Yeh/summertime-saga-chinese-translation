@@ -131,7 +131,7 @@ translate zh_hans ano15_shop1_b30b4e1a:
 
 
     # anon "Trafficking hub?"
-    anon "走私枢纽？"
+    anon "走私中转站？"
 
 # game/src/plot/ano15.rpy:37
 translate zh_hans ano15_shop1_2851ca15:
@@ -4659,7 +4659,7 @@ translate zh_hans ano15_pantry_reuse_906a37bb:
 translate zh_hans ano15_pantry_reuse_06a807eb:
 
     # anon f_surprised @ -m_talk "( [saga.cast.maria] really seemed to enjoy it too, even though it was her first time! )"
-    anon f_surprised @ -m_talk "（[saga.cast.maria]看起来也很享受，虽然这是她第一次跟别的男人上床！）"
+    anon f_surprised @ -m_talk "（虽然是第一次尝试，[saga.cast.maria]看起来也很享受！）"
 
 # game/src/plot/ano15.rpy:1555
 translate zh_hans ano15_pantry_reuse_e619b6bb:

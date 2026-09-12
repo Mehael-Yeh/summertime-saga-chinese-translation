@@ -76,7 +76,7 @@ translate zh_hans ano09_shop_a928c2a7:
 translate zh_hans ano09_shop_669d22fd:
 
     # tony "Don't worry your pretty little head about it!"
-    tony "你那漂亮的小脑袋就别操心这事啦！"
+    tony "你这位美人儿就别操心这事啦！"
 
 # game/src/plot/ano09.rpy:24
 translate zh_hans ano09_shop_d105d724:

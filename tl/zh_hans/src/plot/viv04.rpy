@@ -2188,7 +2188,7 @@ translate zh_hans viv04_delay_30eccdbb:
 translate zh_hans viv04_delay_e879a011:
 
     # anon @ -m_talk "( I should make sure [saga.cast.jenny] holds up her end of the deal. )"
-    anon @ -m_talk "（我得确保[saga.cast.jenny]履行她那一半约定。）"
+    anon @ -m_talk "（我得确认[saga.cast.jenny]会按约定帮忙。）"
 
 # game/src/plot/viv04.rpy:1182
 translate zh_hans viv04_delay_bell_e63def69:
@@ -2818,7 +2818,7 @@ translate zh_hans viv04_bed2_4224c2cb:
 translate zh_hans viv04_bed2_036225e7:
 
     # jenny "Shit, this college uniform barely fits..."
-    jenny "靠，我大学时的队服都快塞不下我了……"
+    jenny "靠，连这身大学啦啦队服都快塞不下我了……"
 
 # game/src/plot/viv04.rpy:1496
 translate zh_hans viv04_bed2_86f04b0f:
@@ -2866,7 +2866,7 @@ translate zh_hans viv04_bed2_991b9494:
 translate zh_hans viv04_bed2_071018ec:
 
     # jenny "Tell me something I don't know..."
-    jenny "告诉我点我不知道的事……"
+    jenny "那还用你说……"
 
 # game/src/plot/viv04.rpy:1508
 translate zh_hans viv04_bed2_f74c77a4:

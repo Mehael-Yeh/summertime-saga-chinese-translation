@@ -994,7 +994,7 @@ translate zh_hans viv03_viv_99e6bb88:
 translate zh_hans viv03_viv_0d7f89c8:
 
     # viv "You will get up there and read or I will be giving you detention until the end of the term!"
-    viv "你要么上去读，要么就留校察看到学期结束！"
+    viv "你要么上去读，要么就每天放学后留堂，直到这学期结束！"
 
 # game/src/plot/viv03.rpy:544
 translate zh_hans viv03_viv_9ad4b2f9:
@@ -1720,7 +1720,7 @@ translate zh_hans viv03_viv_ab45840a:
 translate zh_hans viv03_viv_78450665:
 
     # viv "Mmm, ta bouche est magique!"
-    viv "嗯，你的嘴有魔力！"
+    viv "嗯，ta bouche est magique（你的嘴有魔力）！"
 
 # game/src/plot/viv03.rpy:865
 translate zh_hans viv03_viv_f79c204b:

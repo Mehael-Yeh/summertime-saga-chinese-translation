@@ -280,7 +280,7 @@ translate zh_hans ano05_dimitri_88dfb0d8:
 translate zh_hans ano05_dimitri_4dce6624:
 
     # anon f_confused "You don't want to play a board game?"
-    anon f_confused "你不想玩棋盘游戏？"
+    anon f_confused "你不想玩桌游？"
 
 # game/src/plot/ano05.rpy:93
 translate zh_hans ano05_dimitri_b6e75bff:

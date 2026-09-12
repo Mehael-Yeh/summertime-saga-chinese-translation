@@ -76,7 +76,7 @@ translate zh_hans mar_kitchen_7dabe49d:
 translate zh_hans mar_kitchen_553327da:
 
     # anon a_point "Heh, good one."
-    anon a_point "呵，这玩笑不错。"
+    anon a_point "呵，真会逗我。"
 
 # game/src/plot/mar_kitchen.rpy:30
 translate zh_hans mar_kitchen_be911b5d:

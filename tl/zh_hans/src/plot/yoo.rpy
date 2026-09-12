@@ -58,7 +58,7 @@ translate zh_hans yoo_car_shop_eotm_5d4069d5:
 translate zh_hans yoo_car_shop_eotm_4de52341:
 
     # anon f_surprised "Conquer?"
-    anon f_surprised "征服？"
+    anon f_surprised "拿下车行？"
 
 # game/src/plot/yoo.rpy:29
 translate zh_hans yoo_car_shop_eotm_736231a3:

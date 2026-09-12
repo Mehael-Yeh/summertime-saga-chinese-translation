@@ -82,13 +82,13 @@ translate zh_hans ano02_harold_fa2d5910:
 translate zh_hans ano02_harold_9969c550:
 
     # harold "Ehh, not as much as I'd hoped."
-    harold "呃……没有我原本希望的那么多。"
+    harold "呃……进展没有我原先期待的那么大。"
 
 # game/src/plot/ano02.rpy:37
 translate zh_hans ano02_harold_6af113f7:
 
     # harold a_mug f_calm "Thank you for this."
-    harold a_mug f_calm "谢谢你的咖啡。"
+    harold a_mug f_calm "谢谢您的咖啡。"
 
 # game/src/plot/ano02.rpy:40
 translate zh_hans ano02_harold_b44067df:
@@ -328,7 +328,7 @@ translate zh_hans ano02_harold_9d2e9a88:
 translate zh_hans ano02_harold_d184a9b1:
 
     # harold "I pulled your phone records from the past couple days and it seems the calls are coming from an overseas number."
-    harold "我调取了你这几天的通话记录，电话似乎是从境外号码打来的。"
+    harold "我调取了您这几天的通话记录，电话似乎是从境外号码打来的。"
 
 # game/src/plot/ano02.rpy:84
 translate zh_hans ano02_harold_27e92065:

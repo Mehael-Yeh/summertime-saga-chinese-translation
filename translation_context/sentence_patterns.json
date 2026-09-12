@@ -200,7 +200,7 @@
     {
       "file": "tl/zh_hans/src/plot/tor02.rpy",
       "source": "( Now, I just need to get these back to [saga.cast.tori]. )",
-      "target": "（现在，只要把这些还给[saga.cast.tori]就行。）"
+      "target": "（现在，只要把这副眼镜带给[saga.cast.tori]就行。）"
     },
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
@@ -5044,6 +5044,550 @@
       "source": "... But only if your student here can recreate this quality on a portrait of me!",
       "target": "……但前提是，你这位学生得给我画一幅同样出色的肖像！",
       "id": "bar04_art2_d0e79d37"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano02.rpy",
+      "source": "Ehh, not as much as I'd hoped.",
+      "target": "呃……进展没有我原先期待的那么大。",
+      "id": "ano02_harold_9969c550"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano02.rpy",
+      "source": "Thank you for this.",
+      "target": "谢谢您的咖啡。",
+      "id": "ano02_harold_6af113f7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano02.rpy",
+      "source": "I pulled your phone records from the past couple days and it seems the calls are coming from an overseas number.",
+      "target": "我调取了您这几天的通话记录，电话似乎是从境外号码打来的。",
+      "id": "ano02_harold_d184a9b1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano03.rpy",
+      "source": "I guess apple can fall far from tree.",
+      "target": "看来儿子，也不一定像老子。",
+      "id": "ano03_dimitri_73ce88fc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano05.rpy",
+      "source": "You don't want to play a board game?",
+      "target": "你不想玩桌游？",
+      "id": "ano05_dimitri_4dce6624"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano06.rpy",
+      "source": "We want.",
+      "target": "我们要你……",
+      "id": "ano06_debbies_957eacdd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano06.rpy",
+      "source": "Back.",
+      "target": "还回来。",
+      "id": "ano06_debbies_33dfc8d8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano06.rpy",
+      "source": "Yip, yip, yip!",
+      "target": "叽里呱啦，叽里呱啦！",
+      "id": "ano06_debbies_6c122cc8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano07.rpy",
+      "source": "So I'm hired?",
+      "target": "所以我被录用了？",
+      "id": "ano07_boxes_178fc879"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "Don't worry your pretty little head about it!",
+      "target": "你这位美人儿就别操心这事啦！",
+      "id": "ano09_shop_669d22fd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "You been doin' a good job out there deliverin' pizza, champ.",
+      "target": "冠军，你这阵子披萨送得不错。",
+      "id": "ano09_shop_8a3e6a92"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "Well, I guess this is gonna be a good life lesson for ya, champ.",
+      "target": "那这次就当给你上堂人生课吧，冠军。",
+      "id": "ano09_shop_22771ccd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "Alright, champ... it's okay.",
+      "target": "行了，冠军……没事。",
+      "id": "ano09_shop_quick_e3c8d1c1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "You get some new wheels yet, champ?",
+      "target": "弄到新座驾了吗，冠军？",
+      "id": "ano09_vehicle_tony_78713d15"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "See champ, I told ya the ladies would love it.",
+      "target": "看吧，冠军，我早说过女人都会喜欢它。",
+      "id": "ano09_tony_merge_8968c82c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "... Ya want a beer, champ?",
+      "target": "……冠军，想喝啤酒吗？",
+      "id": "ano09_tony_merge_e3d24a63"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "Chin up, champ.",
+      "target": "别垂头丧气了，冠军。",
+      "id": "ano09_tony_alt1_c496d3f6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "Nice work, champ!",
+      "target": "干得漂亮，冠军！",
+      "id": "ano09_tony_compact_aa0e6010"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "Nice work, champ!",
+      "target": "干得漂亮，冠军！",
+      "id": "ano09_tony_scooter_3b2a861c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano13.rpy",
+      "source": "Debacle?",
+      "target": "怎么折腾了？",
+      "id": "ano13_shop1_83b13e2c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano13.rpy",
+      "source": "So you just agreed to follow the instructions of some stranger you've never met?",
+      "target": "所以你连对方的面都没见过，就答应什么指示都听？",
+      "id": "ano13_lounge_18aa29c6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Trafficking hub?",
+      "target": "走私中转站？",
+      "id": "ano15_shop1_b30b4e1a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Yeah, he is.",
+      "target": "是啊，真漂亮。",
+      "id": "mar_baby_meet_1eb6e4c8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Yeah, she is.",
+      "target": "是啊，真漂亮。",
+      "id": "mar_baby_meet_adfa9ea4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Yeah, they are.",
+      "target": "是啊，都很漂亮。",
+      "id": "mar_baby_meet_6013f225"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Yeah, I wasn't certain either.",
+      "target": "是啊，我之前也没定下来。",
+      "id": "mar_baby_home_39fabd9b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Not one bit!",
+      "target": "一点儿也不喜欢！",
+      "id": "mar_baby_post_intro_e2f77209"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_cook.rpy",
+      "source": "You remember how to work the prep station?",
+      "target": "备料台上的活儿，你还记得怎么做吧？",
+      "id": "mar_cook_66024988"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_cook.rpy",
+      "source": "You just earned yourself a very special reward!",
+      "target": "这下可得给你一份特别奖励了！",
+      "id": "mar_cook_retry_d2316696"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_kitchen.rpy",
+      "source": "Heh, good one.",
+      "target": "呵，真会逗我。",
+      "id": "mar_kitchen_553327da"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "You there, buddy?",
+      "target": "嘿，哥们儿，还醒着吗？",
+      "id": "mar_couch_merge3_219851ea"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "You smell wonderful, by the way.",
+      "target": "对了，你身上真香。",
+      "id": "mar_couch_noon1b_3d6e8c93"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "RIGHT DOWN THE MIDDLE!?",
+      "target": "正中间？！",
+      "id": "mar_couch_noon2_8a5e247c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "( [saga.cast.maria] really seemed to enjoy it too, even though it was her first time! )",
+      "target": "（虽然是第一次尝试，[saga.cast.maria]看起来也很享受！）",
+      "id": "ano15_pantry_reuse_06a807eb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Really, babyface?",
+      "target": "小帅哥，你还说这个？",
+      "id": "tin02_liu_tina_5e94017b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "... Come and see me in my office in the morning.",
+      "target": "……早上来我办公室见我。",
+      "id": "tin02_liu_tina_ac5ae198"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Yeah, you know... When my daughter and her little friend caught us kissing in my doorway.",
+      "target": "是啊，你知道……我女儿和她的小朋友撞见我们在门口接吻的那次。",
+      "id": "tin02_cubicle_3b32703c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin02.rpy",
+      "source": "Y-yeah.",
+      "target": "嗯、嗯。",
+      "id": "tin02_cubicle_creampie_c2808c5b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "Hey, [saga.cast.liu], hold my calls!",
+      "target": "嘿，[saga.cast.liu]，先别把电话转给我！",
+      "id": "tin_vault_tina_9943b63a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "Hey, [saga.cast.tim], hold my calls!",
+      "target": "嘿，[saga.cast.tim]，先别把电话转给我！",
+      "id": "tin_vault_tina_3f6256e1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "I guess, I shouldn't be surprised by your lack of creativity...",
+      "target": "你这么没创意，我也不该觉得奇怪……",
+      "id": "tin_vault_tina_fail_e9898a2f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+      "source": "Aww.",
+      "target": "唉。",
+      "id": "tin_vault_tina_fail_c2fe45ca"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "I'll see you soon.",
+      "target": "我很快再来看你。",
+      "id": "tin_baby_late_outro_7a6103d8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "Feel free to call me, night or day, okay?",
+      "target": "有事随时给我打电话，白天晚上都行，好吗？",
+      "id": "tin_baby_late_outro_212d6707"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "Feel free to call me, night or day...",
+      "target": "有事随时给我打电话，白天晚上都行……",
+      "id": "tin_baby_warm_f5759927"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "... Okay?",
+      "target": "……好吗？",
+      "id": "tin_baby_warm_c321216c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "Can I get you anything?",
+      "target": "需要我帮你做点什么吗？",
+      "id": "tin_baby_belly_misc2_823e5694"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "[saga.cast.becca] and I have been going to a masseuse twice a week.",
+      "target": "我和[saga.cast.becca]每周都去找按摩师按摩两次。",
+      "id": "tin_baby_belly_misc2_c5c46eed"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "Yes, actually!",
+      "target": "还真有！",
+      "id": "tin_baby_meet_e62041d1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "That lactation specialist is really gonna pay off!",
+      "target": "请那位哺乳专家的钱可真不会白花！",
+      "id": "tin_baby_rest_misc1_91712a7f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "He came from good stock, on his mother's side.",
+      "target": "他遗传了妈妈的好基因。",
+      "id": "tin_baby_post_misc1_e2d111ac"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "She came from good stock, on her mother's side.",
+      "target": "她遗传了妈妈的好基因。",
+      "id": "tin_baby_post_misc1_c8d9b7c4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "They come from good stock, on their mother's side.",
+      "target": "他们遗传了妈妈的好基因。",
+      "id": "tin_baby_post_misc1_0d3621b1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "... His father's side isn't too shabby either, you know?",
+      "target": "……他爸爸也不差呀。",
+      "id": "tin_baby_post_misc1_0aa1a702"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "... Her father's side isn't too shabby either, you know?",
+      "target": "……她爸爸也不差呀。",
+      "id": "tin_baby_post_misc1_7bd2ec7b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "source": "... Their father's side isn't too shabby either, you know?",
+      "target": "……他们爸爸也不差呀。",
+      "id": "tin_baby_post_misc1_5105ebc3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/yoo.rpy",
+      "source": "Conquer?",
+      "target": "拿下车行？",
+      "id": "yoo_car_shop_eotm_4de52341"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv02.rpy",
+      "source": "It's saying our sister branch has a French book about cheese.",
+      "target": "系统显示，另一家分馆有一本介绍奶酪的法语书。",
+      "id": "viv02_jane_82477d62"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv02.rpy",
+      "source": "Sure, I love cheese! Where do I need to pick it up?",
+      "target": "当然，我喜欢奶酪！我该去哪儿取？",
+      "id": "viv02_jane_3d31b237"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv02.rpy",
+      "source": "Those should be easy.",
+      "target": "这两个人应该不难搞定。",
+      "id": "viv02_jane_c7ae2fc2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv02.rpy",
+      "source": "That's what the log says...",
+      "target": "借阅记录上是这么写的……",
+      "id": "viv02_jane_d4b71799"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv02.rpy",
+      "source": "She said you had a book that's overdue, and I was hoping I could get it from you.",
+      "target": "她说你有本书逾期没还，我想来找你拿回去。",
+      "id": "viv02_books_erik_a3d4736b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv02.rpy",
+      "source": "Perhaps next time, no?",
+      "target": "那就下次，好吗？",
+      "id": "viv02_viv_busy_c074d282"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv02.rpy",
+      "source": "Yes, yes... easy to understand when speaking about a mind as small as yours, [saga.cast.viv.name]...",
+      "target": "是，是……就你那点脑子，记不住也不奇怪，[saga.cast.viv.name]……",
+      "id": "viv02_outro_office1_a6f69ff1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv02.rpy",
+      "source": "You're on very thin ice, [saga.cast.viv.name]!",
+      "target": "你现在的处境可不妙，[saga.cast.viv.name]！",
+      "id": "viv02_outro_office1_b1bc9ac9"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv03.rpy",
+      "source": "You will get up there and read or I will be giving you detention until the end of the term!",
+      "target": "你要么上去读，要么就每天放学后留堂，直到这学期结束！",
+      "id": "viv03_viv_0d7f89c8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv03.rpy",
+      "source": "Mmm, ta bouche est magique!",
+      "target": "嗯，ta bouche est magique（你的嘴有魔力）！",
+      "id": "viv03_viv_78450665"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "( I should make sure [saga.cast.jenny] holds up her end of the deal. )",
+      "target": "（我得确认[saga.cast.jenny]会按约定帮忙。）",
+      "id": "viv04_delay_e879a011"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Shit, this college uniform barely fits...",
+      "target": "靠，连这身大学啦啦队服都快塞不下我了……",
+      "id": "viv04_bed2_036225e7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Tell me something I don't know...",
+      "target": "那还用你说……",
+      "id": "viv04_bed2_071018ec"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb14.rpy",
+      "source": "Not really.",
+      "target": "倒也没有"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jud02.rpy",
+      "source": "Oh, wowie waffles!",
+      "target": "我的华夫饼呀！",
+      "id": "jud02_stall_6ecb3960"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/eve.rpy",
+      "source": "Tutor.",
+      "target": "课后辅导"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor01.rpy",
+      "source": "[saga.cast.anon], you just watch [saga.cast.mia] and [saga.cast.erik] for today.",
+      "target": "[saga.cast.anon]，你今天就在旁边看[saga.cast.mia]和[saga.cast.erik]做实验。",
+      "id": "tor01_intro_cda9f6f0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor01.rpy",
+      "source": "Blueprints, a lab coat, and safety glasses...",
+      "target": "蓝图、一件实验服，还有护目镜……",
+      "id": "tor01_office2_935b06c6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor01.rpy",
+      "source": "( Here's the glasses! )",
+      "target": "（护目镜在这儿！）",
+      "id": "tor01_take_specs_bcf6a146"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor01.rpy",
+      "source": "Can nobody do anything right?!",
+      "target": "难道就没一个人能把事情做对吗？！",
+      "id": "tor01_science_6a9a6b01"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "I call these beauties, the Okitatron Oculars.",
+      "target": "我把这副宝贝叫作“Okitatron眼镜”。",
+      "id": "tor02_intro_7828d126"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Let me just put it this way, the Okitatron Oculars will soon replace every smartphone on the planet.",
+      "target": "简单来说，Okitatron眼镜很快就会取代地球上的每一部智能手机。",
+      "id": "tor02_intro_bdec0f6f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "I forgot, they need to be varifocal lenses...",
+      "target": "我忘了，得是渐进镜片才行……",
+      "id": "tor02_judith1_erik_0a17b3c1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Crap! I need lenses from someone who is both.",
+      "target": "糟了！我得找个既近视又远视的人，借一副镜片。",
+      "id": "tor02_judith1_erik_ba6115f9"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "I need a pair from someone who is both.",
+      "target": "我得找个既远视又近视的人，借一副眼镜。",
+      "id": "tor02_judith1_june_a653e1fa"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "I've got a lead on those lenses you want.",
+      "target": "我打听到哪里能找到你要的镜片了。",
+      "id": "tor02_pause_tori_2826421b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "... Yes.",
+      "target": "……能。",
+      "id": "tor02_tori_d93c0eea"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "One pair of Okitatron Oculars, ready for testing!",
+      "target": "Okitatron眼镜组装完毕，可以测试了！",
+      "id": "tor02_tori_merge_ce043e37"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "No, they are absolutely not supposed to be smoking!",
+      "target": "不，这眼镜绝对不该冒烟！",
+      "id": "tor02_tori_fail_baab2ecb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Are they varifocal, like I requested?",
+      "target": "是我要求的渐进镜片吗？",
+      "id": "tor02_tori_tori_c2c7c6d5"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Not while I'm fracting!",
+      "target": "我正做分形处理呢，别打岔！",
+      "id": "tor02_redux_tori_4934e503"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "I'll get them to work this time, I know it!",
+      "target": "这次我一定能让眼镜正常运作！",
+      "id": "tor02_retry2_af2cb342"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Yeah, I suppose we don't.",
+      "target": "是啊，确实不能让她起疑。",
+      "id": "tor02_retry2_tori_04bf2a92"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "What about the Okitatron Oculars?",
+      "target": "那Okitatron眼镜怎么办？",
+      "id": "tor02_office2_a4f8846b"
     }
   ]
 }

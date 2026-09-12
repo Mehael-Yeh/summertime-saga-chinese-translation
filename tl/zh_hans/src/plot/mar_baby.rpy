@@ -1226,7 +1226,7 @@ translate zh_hans mar_baby_meet_c0f32909:
 translate zh_hans mar_baby_meet_1eb6e4c8:
 
     # tony f_horny "Yeah, he is."
-    tony f_horny "是啊，他真是。"
+    tony f_horny "是啊，真漂亮。"
 
 # game/src/plot/mar_baby.rpy:619
 translate zh_hans mar_baby_meet_cc02593b:
@@ -1252,7 +1252,7 @@ translate zh_hans mar_baby_meet_89470b95:
 translate zh_hans mar_baby_meet_adfa9ea4:
 
     # tony f_horny "Yeah, she is."
-    tony f_horny "是啊，她真是。"
+    tony f_horny "是啊，真漂亮。"
 
 # game/src/plot/mar_baby.rpy:627
 translate zh_hans mar_baby_meet_a6bd847e:
@@ -1276,7 +1276,7 @@ translate zh_hans mar_baby_meet_6e26f8cd:
 translate zh_hans mar_baby_meet_6013f225:
 
     # tony f_horny "Yeah, they are."
-    tony f_horny "是啊，确实。"
+    tony f_horny "是啊，都很漂亮。"
 
 # game/src/plot/mar_baby.rpy:635
 translate zh_hans mar_baby_meet_83b1edd3:
@@ -2382,7 +2382,7 @@ translate zh_hans mar_baby_home_11a9ddcb:
 translate zh_hans mar_baby_home_39fabd9b:
 
     # anon "Yeah, I wasn't certain either."
-    anon "是啊，我也没把握。"
+    anon "是啊，我之前也没定下来。"
 
 # game/src/plot/mar_baby.rpy:1132
 translate zh_hans mar_baby_home_d6c2ab3d:
@@ -2530,7 +2530,7 @@ translate zh_hans mar_baby_post_intro_b947650b:
 translate zh_hans mar_baby_post_intro_e2f77209:
 
     # maria "Not one bit!"
-    maria "一点儿也没有！"
+    maria "一点儿也不喜欢！"
 
 # game/src/plot/mar_baby.rpy:1189
 translate zh_hans mar_baby_post_intro_f4f4a1ee:

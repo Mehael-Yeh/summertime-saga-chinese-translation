@@ -21,6 +21,8 @@ def main():
     lines = translated.read_text(encoding='utf-8-sig').splitlines()
     by_location = {}
     for pair in iter_pairs(lines):
+        if lines[pair.source_line - 1].lstrip().startswith('old '):
+            continue
         location = next((LOCATION.match(s) for s in reversed(lines[:pair.source_line]) if LOCATION.match(s)), None)
         if location:
             by_location[(location[1], int(location[2]))] = pair
@@ -38,14 +40,16 @@ def main():
         if not stripped or stripped.startswith('#'):
             continue
         pair = by_location.get((args.script.replace('\\', '/'), n))
+        if pair and quoted_body(line) != pair.source:
+            pair = None
         indent = line[:len(line) - len(line.lstrip())]
         if pair:
-            speaker = stripped.split()[0] if not stripped.startswith(('"', "'")) else '菜单'
+            speaker = stripped.split()[0] if not stripped.startswith(('"', "'")) else ('菜单' if stripped.endswith(':') else '叙述')
             print(f'S{n}/T{pair.target_line} {indent}{speaker}: {pair.target}')
         elif stripped.startswith('"'):
             body = quoted_body(line)
             values = shared.get(body, set())
-            label = next(iter(values)) if len(values) == 1 else '【共享译文未定位或有歧义，待回查】'
+            label = next(iter(values)) if len(values) == 1 else (body if body and re.fullmatch(r'\[[^\[\]]+\]', body) else '【共享译文未定位或有歧义，待回查】')
             match = re.search(r'"(?:\\.|[^"\\])*"(.*)$', stripped)
             suffix = match[1] if match else ''
             print(f'S{n} {indent}菜单: {label}{suffix}')

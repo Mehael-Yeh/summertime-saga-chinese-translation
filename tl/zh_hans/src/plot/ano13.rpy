@@ -488,7 +488,7 @@ translate zh_hans ano13_shop1_83b13e2c:
 
 
     # anon f_confused "Debacle?"
-    anon f_confused "闹剧？"
+    anon f_confused "怎么折腾了？"
 
 # game/src/plot/ano13.rpy:137
 translate zh_hans ano13_shop1_5201f427:
@@ -1601,7 +1601,7 @@ translate zh_hans ano13_lounge_18aa29c6:
 
 
     # tina "So you just agreed to follow the instructions of some stranger you've never met?"
-    tina "所以你连对方是谁都没见过，就答应什么指示都听？"
+    tina "所以你连对方的面都没见过，就答应什么指示都听？"
 
 # game/src/plot/ano13.rpy:475
 translate zh_hans ano13_lounge_43af377a:
