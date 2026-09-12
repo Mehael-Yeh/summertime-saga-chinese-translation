@@ -2084,7 +2084,7 @@ step源1136—1178的重试、道歉、电视及jen21复用链已连读。三处
 
 
 ## 2026-09-13 短信发送者与主语复核
-messages.rpy按init/mesg注册顺序整理37条，注释标明事件键、发送者和源行号。grace_late是Grace再次自报身份，不是第三人称说她又来了；maria_baby1/2均由Tony发出，Taking Maria...省略的是发送者主语，不能误作让主角送院的命令。
+mesg.rpy按init/mesg注册顺序整理37条，注释标明事件键、发送者和源行号。grace_late是Grace再次自报身份，不是第三人称说她又来了；maria_baby1/2均由Tony发出，Taking Maria...省略的是发送者主语，不能误作让主角送院的命令。
 
 
 ## 2026-09-13 卡拉OK邀请与短信合组

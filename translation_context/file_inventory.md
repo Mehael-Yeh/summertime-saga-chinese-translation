@@ -1058,15 +1058,15 @@ bytecode_strings.rpy的631条本地文本均已阅读；36页日记有事件内�
 
 | 文件 | 用途 | 条目 |
 |---|---|---:|
-| diary.rpy | 日记正文与旁注 | 294 |
-| messages.rpy | 手机短信 | 37 |
-| gallery.rpy | 图鉴标题、变体和解锁提示 | 225 |
-| computer.rpy | 电脑、邮件与桌面应用 | 21 |
-| minigames.rpy | 小游戏配料、材料等 | 12 |
-| notifications.rpy | 系统通知、开发中和目录状态 | 11 |
-| calendar.rpy | 月相及相对日期 | 11 |
-| diagnostics.rpy | 调试、技术字段及待定位的旧提取项 | 16 |
-| compatibility.rpy | 旧存档名字迁移和姓名种子 | 4 |
+| jenny_diary.rpy | 日记正文与旁注 | 294 |
+| mesg.rpy | 手机短信 | 37 |
+| lewd.rpy | 图鉴标题、变体和解锁提示 | 225 |
+| anon_pc_jenny_laptop.rpy | 电脑、邮件与桌面应用 | 21 |
+| cocktail_donut_garden_serum.rpy | 小游戏配料、材料等 | 12 |
+| gui_wip_lewd_catalogue.rpy | 系统通知、开发中和目录状态 | 11 |
+| pom_lang.rpy | 月相及相对日期 | 11 |
+| ex_tv_television_menu_view_wind.rpy | 调试、技术字段及待定位的旧提取项 | 16 |
+| game_seed.rpy | 旧存档名字迁移和姓名种子 | 4 |
 
 631组old/new的键和值逐字保留；分组内保持原相对顺序。Ren’Py扫描语言目录下各rpy文件，不需要聚合入口。
 

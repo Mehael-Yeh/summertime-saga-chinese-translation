@@ -1,0 +1,672 @@
+{
+  "status": "partial",
+  "scope": "Targeted language corrections; explicit familial sexual content unchanged. Remaining entries are not certified by this pass.",
+  "changes": [
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "I need to speak with you urgently! It's about Daisy... Can you come see us at the barn?",
+      "before": "我需要立刻和你谈谈！是关于Daisy的……你能来谷仓见我们吗？",
+      "target": "有急事要跟你说！是Daisy的事……你能来谷仓找我们吗？",
+      "line": 7
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "[saga.cast.daisy] gave birth last night. You should come and see the babies!",
+      "before": "[saga.cast.daisy]昨晚生下了孩子。你应该来看看宝宝们！",
+      "target": "[saga.cast.daisy]昨晚生了！来看看宝宝们吧！",
+      "line": 12
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "[saga.cast.daisy] gave birth last night. You should come and see the baby!",
+      "before": "[saga.cast.daisy]昨晚生下了孩子。你应该过来看看宝宝！",
+      "target": "[saga.cast.daisy]昨晚生了！来看看宝宝吧！",
+      "line": 17
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Sweetie, I really need to see you! There's something important I need to speak with you about. I'll be in the kitchen.",
+      "before": "亲爱的，我真的得见你！有件重要的事要跟你谈谈。我会在厨房等你。",
+      "target": "亲爱的，快来找我！有件重要的事要跟你说。我在厨房等你。",
+      "line": 22
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "I need to speak with you urgently! I think you did good work! Can you come see me?",
+      "before": "我需要紧急和你谈谈！我觉得你做得不错！能来见我吗？",
+      "target": "有急事要跟你说！看来你干得挺不错嘛！能来找我吗？",
+      "line": 32
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "The baby is coming! Meet me at the hospital!",
+      "before": "宝宝要出生了！来医院找我！",
+      "target": "宝宝要出生了！快来医院找我！",
+      "line": 42
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "So I may have accidentally told [saga.cast.eve] we could practice for the talent show with your karaoke machine. 😬🙏",
+      "before": "所以我可能不小心告诉了[saga.cast.eve]我们可以用你的卡拉OK机为才艺表演练习。😬🙏",
+      "target": "那个，我好像一不小心跟[saga.cast.eve]说，可以借你的卡拉OK机排练才艺表演了。😬🙏",
+      "line": 47
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "LOL!! 🤣",
+      "before": "LOL！！🤣",
+      "target": "笑死了！！🤣",
+      "line": 52
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Hey, are you free today? Something really important has come up and I need to speak with you ASAP.",
+      "before": "嘿，你今天有空吗？突然发生了件非常重要的事，我需要尽快和你谈谈。",
+      "target": "嘿，今天有空吗？出了件很重要的事，得赶紧跟你谈谈。",
+      "line": 62
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Hey, it's [saga.cast.grace]. I got your number from my sister. I need to speak with you ASAP.",
+      "before": "嘿，我是[saga.cast.grace]。我从我妹妹那里拿到了你的号码。我需要尽快和你谈谈。",
+      "target": "嘿，我是[saga.cast.grace]，号码是我妹妹给的。有事得赶紧跟你谈谈。",
+      "line": 72
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "[saga.cast.grace] went into labor last night! [saga.cast.odette] took her to the hospital.",
+      "before": "[saga.cast.grace]昨晚临产了！[saga.cast.odette]送她去了医院。",
+      "target": "[saga.cast.grace]昨晚发动了！[saga.cast.odette]送她去了医院。",
+      "line": 82
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "My room, NOW!",
+      "before": "来我的房间，立刻！",
+      "target": "马上来我房间！",
+      "line": 92
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "[saga.cast.jenny] went into labor, sweetie! Come find us at the hospital when you see this.",
+      "before": "[saga.cast.jenny]开始分娩了，亲爱的！看到这条消息就来医院找我们。",
+      "target": "亲爱的，[saga.cast.jenny]要生了！看到消息就来医院找我们。",
+      "line": 97
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Mom went into labor. The security guys took her to the hospital.",
+      "before": "妈妈开始分娩了，保安人员把她送去了医院。",
+      "target": "妈妈要生了，保安已经送她去医院了。",
+      "line": 127
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Baby come. I go hospital.",
+      "before": "宝宝要出生了。我得去医院。",
+      "target": "宝宝要生。我去医院。",
+      "line": 142
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "OMG, you're not going to believe this! [saga.cast.odette] is pregnant! I just overheard her and my sister talking about it. I wonder who the father is?",
+      "before": "天啊，你绝对不会相信这个！[saga.cast.odette]怀孕了！我刚偷听到她和我姐姐在谈论这件事。不知道孩子的父亲是谁？",
+      "target": "天啊，说出来你肯定不信！[saga.cast.odette]怀孕了！我刚无意中听到她跟我姐姐说这事。孩子爸爸会是谁呢？",
+      "line": 147
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "[saga.cast.odette] is pregnant, again! I wonder if she used a donor this time too?",
+      "before": "[saga.cast.odette]又怀孕了！不知道她这次是不是也用了捐精者？",
+      "target": "[saga.cast.odette]又怀孕了！不知道这次是不是也找人捐的精？",
+      "line": 152
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "[saga.cast.odette] went into labor last night! [saga.cast.grace] took her to the hospital.",
+      "before": "[saga.cast.odette]昨晚临产了！[saga.cast.grace]送她去了医院。",
+      "target": "[saga.cast.odette]昨晚发动了！[saga.cast.grace]送她去了医院。",
+      "line": 157
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Showtime, big fella! The moon is hitting its peak. See you in the graveyard at midnight! ;)",
+      "before": "表演时间到了，大家伙！月亮正达到顶峰。午夜在墓地见！ ;)",
+      "target": "该登场了，大块头！月亮就快圆了。午夜墓地见！;)",
+      "line": 162
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "We're missing it! :( It's a full moon tonight, but I can't go anywhere in this state. Let's try again once the babies are born.",
+      "before": "我们错过了！:( 今晚是满月，但我这个状态哪儿也去不了。等宝宝出生后再试一次吧。",
+      "target": "这回要错过了！:(今晚是满月，可我现在这样哪儿也去不了。等宝宝们出生后再约吧。",
+      "line": 167
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "We're missing it! :( It's a full moon tonight, but I can't go anywhere in this state. Let's try again once the baby is born.",
+      "before": "我们错过了！:( 今晚是满月，可我这样子哪儿也去不了。等宝宝出生后再试试吧。",
+      "target": "这回要错过了！:(今晚是满月，可我现在这样哪儿也去不了。等宝宝出生后再约吧。",
+      "line": 172
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "So tired. ~_~ It's a full moon tonight, but I can't keep my eyes open. Babies are a lot of work! Maybe next time... :(",
+      "before": "好累。~_~ 今晚是满月，但我眼睛都快睁不开了。宝宝太折腾人了！下次再说吧…… :(",
+      "target": "累死了。~_~今晚是满月，可我眼睛都睁不开了。带孩子真累人！还是下次吧……:(",
+      "line": 177
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Just had twins. We're at the hospital if you'd like to visit.",
+      "before": "刚生了双胞胎。想来看望的话，我们在医院。",
+      "target": "刚生了双胞胎。我们在医院，想来看我们就来吧。",
+      "line": 182
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Just had the baby. We're at the hospital if you'd like to visit.",
+      "before": "刚生下孩子。想来看望的话，我们在医院。",
+      "target": "刚生了孩子。我们在医院，想来看我们就来吧。",
+      "line": 187
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Repeat.",
+      "before": "再次",
+      "target": "重温",
+      "line": 18
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Drying off.",
+      "before": "擦干",
+      "target": "擦干身体",
+      "line": 38
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Peek at [saga.cast.debbie] in the bathroom during her second trimester.",
+      "before": "在孕中期偷看[saga.cast.debbie]在浴室里。",
+      "target": "在[saga.cast.debbie]孕中期，去浴室偷看她。",
+      "line": 66
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Peek at [saga.cast.debbie] in the bathroom during her third trimester.",
+      "before": "在[saga.cast.debbie]孕晚期偷看她在浴室里。",
+      "target": "在[saga.cast.debbie]孕晚期，去浴室偷看她。",
+      "line": 78
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Peek at [saga.cast.debbie] when visiting Cupid.",
+      "before": "拜访丘比特时偷看[saga.cast.debbie]。",
+      "target": "逛丘比特时偷看[saga.cast.debbie]。",
+      "line": 86
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Catch [saga.cast.debbie] loading the dryer in the basement.",
+      "before": "在地下室撞见[saga.cast.debbie]在往烘干机里放衣服。",
+      "target": "在地下室撞见[saga.cast.debbie]往烘干机里放衣服。",
+      "line": 238
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Deprive [saga.cast.debbie] of attention, then catch her loading the dryer in the basement.",
+      "before": "冷落[saga.cast.debbie]，然后在地下室抓到她正在往烘干机里装衣服。",
+      "target": "冷落[saga.cast.debbie]，然后在地下室撞见她往烘干机里放衣服。",
+      "line": 242
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Catch [saga.cast.debbie] loading the dryer in the basement again before the date.",
+      "before": "约会前再看到[saga.cast.debbie]在地下室装烘干机。",
+      "target": "约会前，再次在地下室撞见[saga.cast.debbie]往烘干机里放衣服。",
+      "line": 246
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Deprive [saga.cast.debbie] of attention, then catch her loading the dryer in the basement again.",
+      "before": "冷落[saga.cast.debbie]，再趁她在地下室往烘干机里装衣服时抓个正着。",
+      "target": "冷落[saga.cast.debbie]，然后再次在地下室撞见她往烘干机里放衣服。",
+      "line": 250
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Enter the bathroom while [saga.cast.debbie] is drying off.",
+      "before": "当[saga.cast.debbie]正在擦干身体时进入浴室。",
+      "target": "在[saga.cast.debbie]擦干身体时进入浴室。",
+      "line": 282
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Wait for [saga.cast.debbie] to visit Anon at night during her second trimester.",
+      "before": "等[saga.cast.debbie]在孕中期的夜晚来找你。",
+      "target": "在[saga.cast.debbie]孕中期，等她晚上来找你。",
+      "line": 318
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Wait for [saga.cast.debbie] to visit Anon at night during her third trimester.",
+      "before": "等[saga.cast.debbie]在孕晚期的夜晚来找你。",
+      "target": "在[saga.cast.debbie]孕晚期，等她晚上来找你。",
+      "line": 322
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}It's even more depressing now that I'm single...{/pen}",
+      "before": "{pen=pink}现在单身了，更让人沮丧……{/pen}",
+      "target": "{pen=pink}现在又单身了，日子更没劲了……{/pen}",
+      "line": 22
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}At least my {pen=maroon}{u}EX{/u}{/pen} knew how to spoil meee{/pen}",
+      "before": "{pen=pink}至少我的{pen=maroon}{u}前任{/u}{/pen}知道怎么宠我{/pen}",
+      "target": "{pen=pink}至少我的{pen=maroon}{u}前任{/u}{/pen}还知道宠着我嘛{/pen}",
+      "line": 27
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}{size=+5}Anyway..{/size}{/pen}{space=180}",
+      "before": "{pen=blue}{size=+5}总之..{/size}{/pen}{space=180}",
+      "target": "{pen=blue}{size=+5}算了……{/size}{/pen}{space=180}",
+      "line": 32
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}{size=+2}I just hope I don't have to get a job....{/size}{/pen}",
+      "before": "{pen=blue}{size=+2}我只希望我不必去工作……{/size}{/pen}",
+      "target": "{pen=blue}{size=+2}只求别让我出去打工……{/size}{/pen}",
+      "line": 47
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=red}{size=+2}{b}I FUCKING {u}HATE{/u}{/b}{/pen} {pen=blue}working.... {b}UGH!!{/b}{/size}{/pen}{space=30}",
+      "before": "{pen=red}{size=+2}{b}我他妈最{u}讨厌{/u}{/b}{/pen}{pen=blue}工作了……{b}呃！！{/b}{/size}{/pen}{space=30}",
+      "target": "{pen=red}{size=+2}{b}我他妈最{u}讨厌{/u}{/b}{/pen}{pen=blue}工作了……{b}烦死了！！{/b}{/size}{/pen}{space=30}",
+      "line": 52
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=+2}The police said his death was {pen=maroon}{size=+5}suspicious{/size}{/pen} but they{/size}{/pen}",
+      "before": "{pen=pink}{size=+2}警方称他的死亡{pen=maroon}{size=+5}可疑{/size}{/pen}，但他们{/size}{/pen}",
+      "target": "{pen=pink}{size=+2}警察说他死得{pen=maroon}{size=+5}可疑{/size}{/pen}，但他们{/size}{/pen}",
+      "line": 57
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-3}At least {b}[saga.cast.debbie]{/b} says he'll be working for {b}Diane{/b} this summer...{/size}{/pen}",
+      "before": "{pen=purple}{size=-3}至少{b}[saga.cast.debbie]{/b}说他今年夏天要为{b}Diane{/b}工作……{/size}{/pen}",
+      "target": "{pen=purple}{size=-3}至少{b}[saga.cast.debbie]{/b}说，他今年夏天要去给{b}Diane{/b}打工……{/size}{/pen}",
+      "line": 87
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-3}Hopefully that means she'll get off my back about me losing my job.{/size}{/pen}",
+      "before": "{pen=purple}{size=-3}希望这样她就不会再因为我丢了工作的事唠叨我了。{/size}{/pen}",
+      "target": "{pen=purple}{size=-3}但愿这样她就不会揪着我丢工作的事唠叨个没完了。{/size}{/pen}",
+      "line": 92
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}As if {pen=red}{b}{i}I{/i}{/b}{/pen} belong in grocery store or movie theater!{/pen}",
+      "before": "{pen=maroon}好像{pen=red}{b}{i}我{/i}{/b}{/pen}该待在杂货店或电影院里似的！{/pen}",
+      "target": "{pen=maroon}好像{pen=red}{b}{i}我{/i}{/b}{/pen}就该去杂货店、电影院打工似的！{/pen}",
+      "line": 107
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}I should be an {pen=blue}{size=+10}actress{/size}{/pen} or a {pen=aqua}{size=+10}model{/size}{/pen} or something...{/pen}",
+      "before": "{pen=pink}我应该做个{pen=blue}{size=+10}女演员{/size}{/pen}或者{pen=aqua}{size=+10}模特{/size}{/pen}之类的……{/pen}",
+      "target": "{pen=pink}我就该去当{pen=blue}{size=+10}女演员{/size}{/pen}或者{pen=aqua}{size=+10}模特{/size}{/pen}之类的……{/pen}",
+      "line": 117
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}she said I could always come work with her at the {b}Library{/b}.{/pen}",
+      "before": "{pen=blue}她说我随时可以去她工作的{b}图书馆{/b}上班。{/pen}",
+      "target": "{pen=blue}她说我随时可以去{b}图书馆{/b}跟她一起上班。{/pen}",
+      "line": 167
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}I told her I would think about it... {rb}{pen=navy}{b}YEAH RIGHT{/b}{/pen}!{/rb}{art}{pen=navy}Can you even imagine? {pen=aqua}{size=+2}{b}{i}{u}SO{/u}{/i}{/b} boring!{/size}{/pen}{/pen}{/art}{/pen}{space=30}",
+      "before": "{pen=blue}我跟她说我会考虑一下……{rb}{pen=navy}{b}想得美{/b}{/pen}！{/rb}{art}{pen=navy}你能想象吗？{pen=aqua}{size=+2}{b}{i}{u}太{/u}{/i}{/b}无聊了！{/size}{/pen}{/pen}{/art}{/pen}{space=30}",
+      "target": "{pen=blue}我跟她说会考虑一下……{rb}{pen=navy}{b}才怪{/b}{/pen}！{/rb}{art}{pen=navy}你能想象吗？{pen=aqua}{size=+2}{b}{i}{u}太{/u}{/i}{/b}无聊了！{/size}{/pen}{/pen}{/art}{/pen}{space=30}",
+      "line": 172
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{pen=neonpink}Sluttygram{/pen} might be worth looking into though.{/pen}",
+      "before": "{pen=pink}{pen=neonpink}不过Sluttygram{/pen}或许值得研究一下。{/pen}",
+      "target": "{pen=pink}不过，{pen=neonpink}Sluttygram{/pen}倒是可以了解一下。{/pen}",
+      "line": 197
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}I bet they'd pay top dollar for my pics!{/pen}",
+      "before": "{pen=pink}我敢打赌他们会为我的照片花大价钱！{/pen}",
+      "target": "{pen=pink}我的照片，肯定有人肯花大价钱买！{/pen}",
+      "line": 202
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}{size=-3}I guess it's back to the drawing board for ways to make {size=+10}money{/size}.{/size}{/pen}",
+      "before": "{pen=aqua}{size=-3}我想我又得重新想办法赚{size=+10}钱{/size}了。{/size}{/pen}",
+      "target": "{pen=aqua}{size=-3}看来还得另想办法赚{size=+10}钱{/size}。{/size}{/pen}",
+      "line": 297
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Narrative, second trimester.",
+      "before": "叙事，孕中期。",
+      "target": "叙事（孕中期）",
+      "line": 504
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Narrative, third trimester.",
+      "before": "叙事，孕晚期。",
+      "target": "叙事（孕晚期）",
+      "line": 508
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Wait for [saga.cast.jenny] to visit at night again.",
+      "before": "等[saga.cast.jenny]晚上再次来访。",
+      "target": "等[saga.cast.jenny]晚上再来找你。",
+      "line": 512
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Repeat, second trimester.",
+      "before": "重复，孕中期。",
+      "target": "重温（孕中期）",
+      "line": 520
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Wait for [saga.cast.jenny] to visit at night again during her second trimester.",
+      "before": "等[saga.cast.jenny]在孕中期的夜晚再次来访。",
+      "target": "在[saga.cast.jenny]孕中期，等她晚上再来找你。",
+      "line": 524
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Repeat, third trimester.",
+      "before": "重复，孕晚期。",
+      "target": "重温（孕晚期）",
+      "line": 528
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Wait for [saga.cast.jenny] to visit at night again during her third trimester.",
+      "before": "等[saga.cast.jenny]在孕晚期的夜晚再次来访。",
+      "target": "在[saga.cast.jenny]孕晚期，等她晚上再来找你。",
+      "line": 532
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Noon (first-time).",
+      "before": "中午(首次)",
+      "target": "中午（首次）",
+      "line": 740
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Dusk (first-time).",
+      "before": "黄昏(首次)",
+      "target": "黄昏（首次）",
+      "line": 756
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Gym.",
+      "before": "体育馆。",
+      "target": "体育馆",
+      "line": 772
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Progress through [saga.cast.melody]'s story, and win the talent show.",
+      "before": "推进[saga.cast.melody]的剧情，并赢得才艺表演。",
+      "target": "推进[saga.cast.melody]的剧情，并在才艺表演中获胜。",
+      "line": 776
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Dolphin plank pose.",
+      "before": "海豚式平板支撑。",
+      "target": "海豚式平板支撑",
+      "line": 848
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Visit [saga.cast.tina] at home during her third trimester before [saga.cast.roxxy]'s contest.",
+      "before": "在[saga.cast.roxxy]比赛前，去她家看望[saga.cast.tina]，她现在正处于妊娠晚期。",
+      "target": "在[saga.cast.roxxy]的比赛开始前，趁[saga.cast.tina]处于孕晚期时去她家找她。",
+      "line": 872
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}{size=-3}Why can't I find a fa{rb}mous guy{/rb}{rt}{pen=black}{size=+2}i.e. rich{/size}{/pen}{/rt} to take care of me??!{/size}{/pen}",
+      "before": "{pen=blue}{size=-3}我怎么就找不到一个出{rb}名的男人{/rb}{rt}{pen=black}{size=+2}也就是有钱人{/size}{/pen}{/rt}来照顾我呢？！{/size}{/pen}",
+      "target": "{pen=blue}{size=-3}我怎么就找不到一个{rb}有名的男人{/rb}{rt}{pen=black}{size=+2}也就是有钱人{/size}{/pen}{/rt}来照顾我呢？！{/size}{/pen}",
+      "line": 37
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=40}{pen=blue}Don't I at least deserve {pen=navy}{b}{u}THAT{/u}{/b}{/pen}?{/pen}{space=20}{pen=aqua}{size=-3}I'm like, super hot!{/size}{/pen}",
+      "before": "{space=40}{pen=blue}我至少也该有{pen=navy}{b}{u}这个{/u}{/b}{/pen}吧？{/pen}{space=20}{pen=aqua}{size=-3}我可是超级性感！{/size}{/pen}",
+      "target": "{space=40}{pen=blue}我难道连{pen=navy}{b}{u}这点待遇{/u}{/b}{/pen}都不配有吗？{/pen}{space=20}{pen=aqua}{size=-3}我可是超级性感！{/size}{/pen}",
+      "line": 42
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=+2}The police said his death was {pen=maroon}{size=+5}suspicious{/size}{/pen} but they{/size}{/pen}",
+      "before": "{pen=pink}{size=+2}警察说他死得{pen=maroon}{size=+5}可疑{/size}{/pen}，但他们{/size}{/pen}",
+      "target": "{pen=pink}{size=+2}警察说他死得{pen=maroon}{size=+5}蹊跷{/size}{/pen}，但他们{/size}{/pen}",
+      "line": 57
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}didn't find any {size=+5}{pen=maroon}{u}evidence{/u}{/pen}{/size} that proved foul play.{/pen}{space=30}",
+      "before": "{pen=pink}没有找到任何{size=+5}{pen=maroon}{u}证据{/u}{/pen}{/size}能证明他遭人谋害。{/pen}{space=30}",
+      "target": "{pen=pink}没找到能证明他遭人谋害的{size=+5}{pen=maroon}{u}证据{/u}{/pen}{/size}。{/pen}{space=30}",
+      "line": 62
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Shy (first-time).",
+      "before": "害羞(首次)",
+      "target": "害羞（首次）",
+      "line": 234
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Confident (first-time).",
+      "before": "自信(首次)",
+      "target": "自信（首次）",
+      "line": 254
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Tempted (first-time).",
+      "before": "受诱惑(初次)",
+      "target": "受诱惑（首次）",
+      "line": 286
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Proactive (first-time).",
+      "before": "主动(初次)",
+      "target": "主动（首次）",
+      "line": 298
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "First time.",
+      "before": "初次",
+      "target": "首次",
+      "line": 342
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Accept [saga.cast.judith]'s offer in the bathroom.",
+      "before": "在浴室接受[saga.cast.judith]的提议。",
+      "target": "在洗手间接受[saga.cast.judith]的提议。",
+      "line": 632
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Ask [saga.cast.judith] to go faster in the bathroom.",
+      "before": "在浴室里让[saga.cast.judith]快点。",
+      "target": "在洗手间里让[saga.cast.judith]快点。",
+      "line": 636
+    }
+  ],
+  "reading_batches": [
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen03_intro page 2",
+        "jen04_outro page 1",
+        "jen05_jenny page 1 rows 1-10"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        167,
+        172,
+        197,
+        202,
+        297
+      ],
+      "note": "Five non-explicit lines corrected after reading adjacent entries. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "status": "partial",
+      "reviewed_target_lines": [
+        504,
+        508,
+        512,
+        520,
+        524,
+        528,
+        532,
+        740,
+        756,
+        772,
+        776,
+        848,
+        872
+      ],
+      "note": "Compared related non-explicit labels and unlock conditions. Source wording verified; underlying event trigger execution is not certified."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "event": "jen01_setup",
+      "event_page": 1,
+      "reviewed_target_lines": [
+        7,
+        12,
+        17,
+        22,
+        27,
+        32,
+        37,
+        42,
+        47,
+        52
+      ],
+      "status": "text_readability_passed",
+      "note": "Read all ten translated rows; rich-man ruby note checked independently. Repaired split Chinese word anchor and vague reference to desired treatment. No in-game visual test."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen01_setup page 2",
+        "jen02_lobby page 1"
+      ],
+      "reviewed_target_lines": [
+        57,
+        62,
+        67,
+        72,
+        77,
+        82,
+        87,
+        92,
+        97,
+        102,
+        107,
+        112,
+        117
+      ],
+      "status": "text_readability_passed",
+      "note": "Read thirteen translated rows as a connected family-loss and employment sequence. Checked the first two rows as one sentence, distinguished resignation from dismissal, and read the marginal aside separately. Two police-report clauses made natural without changing the evidence claim. No in-game visual test."
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "status": "partial",
+      "reviewed_target_lines": [
+        234,
+        254,
+        286,
+        298,
+        342
+      ],
+      "note": "Compared first-time title variants in adjacent gallery entries. Unified first-time wording and Chinese parentheses. This is label consistency review only, not scene approval."
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "status": "partial",
+      "reviewed_target_lines": [
+        632,
+        636
+      ],
+      "note": "Checked bathroom against jud_stall_event scene school_stall and res/meta/sets.rpym Toilet Stall with escape to school_girls. Two location errors corrected. Full dialogue branches not newly certified."
+    }
+  ],
+  "source_followups": [
+    {
+      "topic": "odette_full_moon_sms",
+      "status": "trigger_unconfirmed",
+      "scanned_bytecode_files": 471,
+      "method": "Read-only recursive code-object name and exact string-constant search; no game code executed. Dynamic references are not excluded.",
+      "hits": [
+        {
+          "path": ".codex_tmp/current7944/lib/saga/init/mesg.pyc",
+          "function": "<module>",
+          "keys": [
+            "odette_moon",
+            "odette_moon_baby",
+            "odette_moon_bump1",
+            "odette_moon_bump2"
+          ],
+          "sha256": "879bce21f96996b73966e12ab557a8a0f833d46b97bf0908815418039a97b4ac"
+        }
+      ],
+      "finding": "Only registration references located. Full moon reminder and missed-meeting variants read together; timing of initial reminder is not proven.",
+      "next_check": "Locate dynamic message selection or unavailable source before certifying initial reminder timing. Do not infer unused strings from absence of direct references."
+    }
+  ],
+  "unresolved_findings": [
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Get caught watching porn in the lounge by [saga.cast.debbie] again post-boobjob.",
+      "issue": "post-boobjob is a prior-event condition, not cosmetic surgery. Existing target remains incorrect.",
+      "status": "unresolved_content_boundary"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Warm [saga.cast.debbie] up in the shower post-boobjob.",
+      "issue": "Prior-event condition was incorrectly converted into an additional present action.",
+      "status": "unresolved_content_boundary"
+    }
+  ],
+  "whole_lewd_review": "not_complete; known semantic errors remain; renaming is not translation approval"
+}

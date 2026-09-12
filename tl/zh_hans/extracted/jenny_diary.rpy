@@ -19,47 +19,47 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 1; row: 4
     old "{pen=pink}It's even more depressing now that I'm single...{/pen}"
-    new "{pen=pink}现在单身了，更让人沮丧……{/pen}"
+    new "{pen=pink}现在又单身了，日子更没劲了……{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 1; row: 5
     old "{pen=pink}At least my {pen=maroon}{u}EX{/u}{/pen} knew how to spoil meee{/pen}"
-    new "{pen=pink}至少我的{pen=maroon}{u}前任{/u}{/pen}知道怎么宠我{/pen}"
+    new "{pen=pink}至少我的{pen=maroon}{u}前任{/u}{/pen}还知道宠着我嘛{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 1; row: 6
     old "{pen=blue}{size=+5}Anyway..{/size}{/pen}{space=180}"
-    new "{pen=blue}{size=+5}总之..{/size}{/pen}{space=180}"
+    new "{pen=blue}{size=+5}算了……{/size}{/pen}{space=180}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 1; row: 7
     old "{pen=blue}{size=-3}Why can't I find a fa{rb}mous guy{/rb}{rt}{pen=black}{size=+2}i.e. rich{/size}{/pen}{/rt} to take care of me??!{/size}{/pen}"
-    new "{pen=blue}{size=-3}我怎么就找不到一个出{rb}名的男人{/rb}{rt}{pen=black}{size=+2}也就是有钱人{/size}{/pen}{/rt}来照顾我呢？！{/size}{/pen}"
+    new "{pen=blue}{size=-3}我怎么就找不到一个{rb}有名的男人{/rb}{rt}{pen=black}{size=+2}也就是有钱人{/size}{/pen}{/rt}来照顾我呢？！{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 1; row: 8
     old "{space=40}{pen=blue}Don't I at least deserve {pen=navy}{b}{u}THAT{/u}{/b}{/pen}?{/pen}{space=20}{pen=aqua}{size=-3}I'm like, super hot!{/size}{/pen}"
-    new "{space=40}{pen=blue}我至少也该有{pen=navy}{b}{u}这个{/u}{/b}{/pen}吧？{/pen}{space=20}{pen=aqua}{size=-3}我可是超级性感！{/size}{/pen}"
+    new "{space=40}{pen=blue}我难道连{pen=navy}{b}{u}这点待遇{/u}{/b}{/pen}都不配有吗？{/pen}{space=20}{pen=aqua}{size=-3}我可是超级性感！{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 1; row: 10
     old "{pen=blue}{size=+2}I just hope I don't have to get a job....{/size}{/pen}"
-    new "{pen=blue}{size=+2}我只希望我不必去工作……{/size}{/pen}"
+    new "{pen=blue}{size=+2}只求别让我出去打工……{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 1; row: 11
     old "{pen=red}{size=+2}{b}I FUCKING {u}HATE{/u}{/b}{/pen} {pen=blue}working.... {b}UGH!!{/b}{/size}{/pen}{space=30}"
-    new "{pen=red}{size=+2}{b}我他妈最{u}讨厌{/u}{/b}{/pen}{pen=blue}工作了……{b}呃！！{/b}{/size}{/pen}{space=30}"
+    new "{pen=red}{size=+2}{b}我他妈最{u}讨厌{/u}{/b}{/pen}{pen=blue}工作了……{b}烦死了！！{/b}{/size}{/pen}{space=30}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 2; row: 1
     old "{pen=pink}{size=+2}The police said his death was {pen=maroon}{size=+5}suspicious{/size}{/pen} but they{/size}{/pen}"
-    new "{pen=pink}{size=+2}警方称他的死亡{pen=maroon}{size=+5}可疑{/size}{/pen}，但他们{/size}{/pen}"
+    new "{pen=pink}{size=+2}警察说他死得{pen=maroon}{size=+5}蹊跷{/size}{/pen}，但他们{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 2; row: 2
     old "{pen=pink}didn't find any {size=+5}{pen=maroon}{u}evidence{/u}{/pen}{/size} that proved foul play.{/pen}{space=30}"
-    new "{pen=pink}没有找到任何{size=+5}{pen=maroon}{u}证据{/u}{/pen}{/size}能证明他遭人谋害。{/pen}{space=30}"
+    new "{pen=pink}没找到能证明他遭人谋害的{size=+5}{pen=maroon}{u}证据{/u}{/pen}{/size}。{/pen}{space=30}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 2; row: 3
@@ -84,12 +84,12 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 2; row: 9
     old "{pen=purple}{size=-3}At least {b}[saga.cast.debbie]{/b} says he'll be working for {b}Diane{/b} this summer...{/size}{/pen}"
-    new "{pen=purple}{size=-3}至少{b}[saga.cast.debbie]{/b}说他今年夏天要为{b}Diane{/b}工作……{/size}{/pen}"
+    new "{pen=purple}{size=-3}至少{b}[saga.cast.debbie]{/b}说，他今年夏天要去给{b}Diane{/b}打工……{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 2; row: 10
     old "{pen=purple}{size=-3}Hopefully that means she'll get off my back about me losing my job.{/size}{/pen}"
-    new "{pen=purple}{size=-3}希望这样她就不会再因为我丢了工作的事唠叨我了。{/size}{/pen}"
+    new "{pen=purple}{size=-3}但愿这样她就不会揪着我丢工作的事唠叨个没完了。{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen01_setup; page: 2; row: 11
@@ -104,7 +104,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen02_lobby; page: 1; row: 3
     old "{pen=maroon}As if {pen=red}{b}{i}I{/i}{/b}{/pen} belong in grocery store or movie theater!{/pen}"
-    new "{pen=maroon}好像{pen=red}{b}{i}我{/i}{/b}{/pen}该待在杂货店或电影院里似的！{/pen}"
+    new "{pen=maroon}好像{pen=red}{b}{i}我{/i}{/b}{/pen}就该去杂货店、电影院打工似的！{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen02_lobby; page: 1; row: 4
@@ -114,7 +114,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen02_lobby; page: 1; row: 6
     old "{pen=pink}I should be an {pen=blue}{size=+10}actress{/size}{/pen} or a {pen=aqua}{size=+10}model{/size}{/pen} or something...{/pen}"
-    new "{pen=pink}我应该做个{pen=blue}{size=+10}女演员{/size}{/pen}或者{pen=aqua}{size=+10}模特{/size}{/pen}之类的……{/pen}"
+    new "{pen=pink}我就该去当{pen=blue}{size=+10}女演员{/size}{/pen}或者{pen=aqua}{size=+10}模特{/size}{/pen}之类的……{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen03_intro; page: 1; row: 1
@@ -164,12 +164,12 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen03_intro; page: 2; row: 2
     old "{pen=blue}she said I could always come work with her at the {b}Library{/b}.{/pen}"
-    new "{pen=blue}她说我随时可以去她工作的{b}图书馆{/b}上班。{/pen}"
+    new "{pen=blue}她说我随时可以去{b}图书馆{/b}跟她一起上班。{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen03_intro; page: 2; row: 3
     old "{pen=blue}I told her I would think about it... {rb}{pen=navy}{b}YEAH RIGHT{/b}{/pen}!{/rb}{art}{pen=navy}Can you even imagine? {pen=aqua}{size=+2}{b}{i}{u}SO{/u}{/i}{/b} boring!{/size}{/pen}{/pen}{/art}{/pen}{space=30}"
-    new "{pen=blue}我跟她说我会考虑一下……{rb}{pen=navy}{b}想得美{/b}{/pen}！{/rb}{art}{pen=navy}你能想象吗？{pen=aqua}{size=+2}{b}{i}{u}太{/u}{/i}{/b}无聊了！{/size}{/pen}{/pen}{/art}{/pen}{space=30}"
+    new "{pen=blue}我跟她说会考虑一下……{rb}{pen=navy}{b}才怪{/b}{/pen}！{/rb}{art}{pen=navy}你能想象吗？{pen=aqua}{size=+2}{b}{i}{u}太{/u}{/i}{/b}无聊了！{/size}{/pen}{/pen}{/art}{/pen}{space=30}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen03_intro; page: 2; row: 5
@@ -194,12 +194,12 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen03_intro; page: 2; row: 10
     old "{pen=pink}{pen=neonpink}Sluttygram{/pen} might be worth looking into though.{/pen}"
-    new "{pen=pink}{pen=neonpink}不过Sluttygram{/pen}或许值得研究一下。{/pen}"
+    new "{pen=pink}不过，{pen=neonpink}Sluttygram{/pen}倒是可以了解一下。{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen03_intro; page: 2; row: 11
     old "{pen=pink}I bet they'd pay top dollar for my pics!{/pen}"
-    new "{pen=pink}我敢打赌他们会为我的照片花大价钱！{/pen}"
+    new "{pen=pink}我的照片，肯定有人肯花大价钱买！{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen03_intro; page: 2; row: 12
@@ -294,7 +294,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen05_jenny; page: 1; row: 8
     old "{pen=aqua}{size=-3}I guess it's back to the drawing board for ways to make {size=+10}money{/size}.{/size}{/pen}"
-    new "{pen=aqua}{size=-3}我想我又得重新想办法赚{size=+10}钱{/size}了。{/size}{/pen}"
+    new "{pen=aqua}{size=-3}看来还得另想办法赚{size=+10}钱{/size}。{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen05_jenny; page: 1; row: 10

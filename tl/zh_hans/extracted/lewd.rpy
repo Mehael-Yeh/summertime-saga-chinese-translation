@@ -15,7 +15,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Repeat."
-    new "再次"
+    new "重温"
 
     # game/lib/saga/init/lewd.py
     old "Have sex with [saga.cast.barb] in her office again."
@@ -35,7 +35,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Drying off."
-    new "擦干"
+    new "擦干身体"
 
     # game/lib/saga/init/lewd.py
     old "Peek at [saga.cast.debbie] in the bathroom early in her story."
@@ -63,7 +63,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Peek at [saga.cast.debbie] in the bathroom during her second trimester."
-    new "在孕中期偷看[saga.cast.debbie]在浴室里。"
+    new "在[saga.cast.debbie]孕中期，去浴室偷看她。"
 
     # game/lib/saga/init/lewd.py
     old "Third trimester."
@@ -75,7 +75,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Peek at [saga.cast.debbie] in the bathroom during her third trimester."
-    new "在[saga.cast.debbie]孕晚期偷看她在浴室里。"
+    new "在[saga.cast.debbie]孕晚期，去浴室偷看她。"
 
     # game/lib/saga/init/lewd.py
     old "Progress through [saga.cast.debbie]'s story."
@@ -83,7 +83,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Peek at [saga.cast.debbie] when visiting Cupid."
-    new "拜访丘比特时偷看[saga.cast.debbie]。"
+    new "逛丘比特时偷看[saga.cast.debbie]。"
 
     # game/lib/saga/init/lewd.py
     old "Kitchen."
@@ -231,27 +231,27 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Shy (first-time)."
-    new "害羞(首次)"
+    new "害羞（首次）"
 
     # game/lib/saga/init/lewd.py
     old "Catch [saga.cast.debbie] loading the dryer in the basement."
-    new "在地下室撞见[saga.cast.debbie]在往烘干机里放衣服。"
+    new "在地下室撞见[saga.cast.debbie]往烘干机里放衣服。"
 
     # game/lib/saga/init/lewd.py
     old "Deprive [saga.cast.debbie] of attention, then catch her loading the dryer in the basement."
-    new "冷落[saga.cast.debbie]，然后在地下室抓到她正在往烘干机里装衣服。"
+    new "冷落[saga.cast.debbie]，然后在地下室撞见她往烘干机里放衣服。"
 
     # game/lib/saga/init/lewd.py
     old "Catch [saga.cast.debbie] loading the dryer in the basement again before the date."
-    new "约会前再看到[saga.cast.debbie]在地下室装烘干机。"
+    new "约会前，再次在地下室撞见[saga.cast.debbie]往烘干机里放衣服。"
 
     # game/lib/saga/init/lewd.py
     old "Deprive [saga.cast.debbie] of attention, then catch her loading the dryer in the basement again."
-    new "冷落[saga.cast.debbie]，再趁她在地下室往烘干机里装衣服时抓个正着。"
+    new "冷落[saga.cast.debbie]，然后再次在地下室撞见她往烘干机里放衣服。"
 
     # game/lib/saga/init/lewd.py
     old "Confident (first-time)."
-    new "自信(首次)"
+    new "自信（首次）"
 
     # game/lib/saga/init/lewd.py
     old "Fool around with [saga.cast.debbie] in the basement."
@@ -279,11 +279,11 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Enter the bathroom while [saga.cast.debbie] is drying off."
-    new "当[saga.cast.debbie]正在擦干身体时进入浴室。"
+    new "在[saga.cast.debbie]擦干身体时进入浴室。"
 
     # game/lib/saga/init/lewd.py
     old "Tempted (first-time)."
-    new "受诱惑(初次)"
+    new "受诱惑（首次）"
 
     # game/lib/saga/init/lewd.py
     old "Get caught watching porn in the lounge by [saga.cast.debbie] and request a footjob."
@@ -295,7 +295,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Proactive (first-time)."
-    new "主动(初次)"
+    new "主动（首次）"
 
     # game/lib/saga/init/lewd.py
     old "Get caught watching porn in the lounge by [saga.cast.debbie] and request a footjob after the date."
@@ -315,11 +315,11 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Wait for [saga.cast.debbie] to visit Anon at night during her second trimester."
-    new "等[saga.cast.debbie]在孕中期的夜晚来找你。"
+    new "在[saga.cast.debbie]孕中期，等她晚上来找你。"
 
     # game/lib/saga/init/lewd.py
     old "Wait for [saga.cast.debbie] to visit Anon at night during her third trimester."
-    new "等[saga.cast.debbie]在孕晚期的夜晚来找你。"
+    new "在[saga.cast.debbie]孕晚期，等她晚上来找你。"
 
     # game/lib/saga/init/lewd.py
     old "Have sex with [saga.cast.debbie] in the kitchen in the morning."
@@ -339,7 +339,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "First time."
-    new "初次"
+    new "首次"
 
     # game/lib/saga/init/lewd.py
     old "Catch [saga.cast.debbie] taking a break in the lobby."
@@ -501,15 +501,15 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Narrative, second trimester."
-    new "叙事，孕中期。"
+    new "叙事（孕中期）"
 
     # game/lib/saga/init/lewd.py
     old "Narrative, third trimester."
-    new "叙事，孕晚期。"
+    new "叙事（孕晚期）"
 
     # game/lib/saga/init/lewd.py
     old "Wait for [saga.cast.jenny] to visit at night again."
-    new "等[saga.cast.jenny]晚上再次来访。"
+    new "等[saga.cast.jenny]晚上再来找你。"
 
     # game/lib/saga/init/lewd.py
     old "right now"
@@ -517,19 +517,19 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Repeat, second trimester."
-    new "重复，孕中期。"
+    new "重温（孕中期）"
 
     # game/lib/saga/init/lewd.py
     old "Wait for [saga.cast.jenny] to visit at night again during her second trimester."
-    new "等[saga.cast.jenny]在孕中期的夜晚再次来访。"
+    new "在[saga.cast.jenny]孕中期，等她晚上再来找你。"
 
     # game/lib/saga/init/lewd.py
     old "Repeat, third trimester."
-    new "重复，孕晚期。"
+    new "重温（孕晚期）"
 
     # game/lib/saga/init/lewd.py
     old "Wait for [saga.cast.jenny] to visit at night again during her third trimester."
-    new "等[saga.cast.jenny]在孕晚期的夜晚再次来访。"
+    new "在[saga.cast.jenny]孕晚期，等她晚上再来找你。"
 
     # game/lib/saga/init/lewd.py
     old "Fool around with [saga.cast.jenny] during breakfast. {sub}"
@@ -629,11 +629,11 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Accept [saga.cast.judith]'s offer in the bathroom."
-    new "在浴室接受[saga.cast.judith]的提议。"
+    new "在洗手间接受[saga.cast.judith]的提议。"
 
     # game/lib/saga/init/lewd.py
     old "Ask [saga.cast.judith] to go faster in the bathroom."
-    new "在浴室里让[saga.cast.judith]快点。"
+    new "在洗手间里让[saga.cast.judith]快点。"
 
     # game/lib/saga/init/lewd.py
     old "Tell [saga.cast.judith] to meet you in the girl's bathroom."
@@ -737,7 +737,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Noon (first-time)."
-    new "中午(首次)"
+    new "中午（首次）"
 
     # game/lib/saga/init/lewd.py
     old "Fool around with [saga.cast.tony] in his apartment."
@@ -753,7 +753,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Dusk (first-time)."
-    new "黄昏(首次)"
+    new "黄昏（首次）"
 
     # game/lib/saga/init/lewd.py
     old "Interact with sleeping [saga.cast.tony] in his apartment."
@@ -769,11 +769,11 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Gym."
-    new "体育馆。"
+    new "体育馆"
 
     # game/lib/saga/init/lewd.py
     old "Progress through [saga.cast.melody]'s story, and win the talent show."
-    new "推进[saga.cast.melody]的剧情，并赢得才艺表演。"
+    new "推进[saga.cast.melody]的剧情，并在才艺表演中获胜。"
 
     # game/lib/saga/init/lewd.py
     old "Office."
@@ -845,7 +845,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Dolphin plank pose."
-    new "海豚式平板支撑。"
+    new "海豚式平板支撑"
 
     # game/lib/saga/init/lewd.py
     old "Doubtful."
@@ -869,7 +869,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Visit [saga.cast.tina] at home during her third trimester before [saga.cast.roxxy]'s contest."
-    new "在[saga.cast.roxxy]比赛前，去她家看望[saga.cast.tina]，她现在正处于妊娠晚期。"
+    new "在[saga.cast.roxxy]的比赛开始前，趁[saga.cast.tina]处于孕晚期时去她家找她。"
 
     # game/lib/saga/init/lewd.py
     old "Progress through [saga.cast.tina]'s story."

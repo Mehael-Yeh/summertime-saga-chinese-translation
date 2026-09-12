@@ -42,7 +42,7 @@ for content in files.values():
         if en and en != zh:
             expected[en] = zh
 assert renpy.store._rb_sms_map == expected
-messages = list(iter_pairs(files['tl/zh_hans/extracted/messages.rpy'].decode('utf-8-sig').splitlines()))
+messages = list(iter_pairs(files['tl/zh_hans/extracted/mesg.rpy'].decode('utf-8-sig').splitlines()))
 for pair in messages:
     source, target = map(env['_rb_unescape'], (pair.source, pair.target))
     assert env['_rb_sms_replace'](substitute(source)[0]) == substitute(target)[0]

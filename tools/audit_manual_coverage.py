@@ -63,8 +63,12 @@ def main():
                 else:
                     completed += len(review['items'])
     print(f'Inventory: {len(current)} files, {sum(r["pairs"] for r in current.values())} pairs')
-    print(f'Current human-reviewed items: {completed}; stale files: {len(stale)}')
-    print('Human review credit comes only from explicit records, not this audit.')
+    print(f'Hash-matching historical review items: {completed}; stale files: {len(stale)}')
+    print('Record integrity only: this does not certify readability or scene/branch completion.')
+    for name, record in ledger['files'].items():
+        quality = (record.get('review') or {}).get('readability_review')
+        if quality and quality.get('status') != 'passed':
+            print('READABILITY NOT PASSED:', name, quality.get('status'))
     for name in stale:
         print('STALE:', name)
     for name, problems in invalid:
