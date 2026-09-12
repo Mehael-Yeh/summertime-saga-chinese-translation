@@ -1370,7 +1370,7 @@ translate zh_hans mel02_eve_ask_0c8f2efb:
 
 
     # anon a_phone e_sw f_worried @ -m_talk "( I'll text him real quick, hopefully he's cool with it... )"
-    anon a_phone e_sw f_worried @ -m_talk "（我马上给他发个短信，希望他没问题……）"
+    anon a_phone e_sw f_worried @ -m_talk "（我赶紧给他发条短信，希望他不介意……）"
 
 # game/src/plot/mel02.rpy:575
 translate zh_hans mel02_eve_ask_c59a50d6:
@@ -1412,14 +1412,14 @@ translate zh_hans mel02_eve_pause_erik_485c9afc:
 
 
     # anon "Thanks for agreeing to host karaoke tomorrow."
-    anon "感谢你同意明天举办卡拉OK。"
+    anon "谢谢你答应让我们明天去你家唱卡拉OK。"
 
 # game/src/plot/mel02.rpy:596
 translate zh_hans mel02_eve_pause_erik_27dca1bf:
 
 
     # anon "Thanks for agreeing to host karaoke on [saga.time.dow + when]."
-    anon "感谢你同意在[saga.time.dow + when]举办卡拉OK。"
+    anon "谢谢你答应让我们[saga.time.dow + when]去你家唱卡拉OK。"
 
 # game/src/plot/mel02.rpy:598
 translate zh_hans mel02_eve_pause_erik_96afd166:
@@ -1503,7 +1503,7 @@ translate zh_hans mel02_eve_delay_erik_b0c39aff:
 
 
     # anon "Thanks again for hosting karaoke tonight."
-    anon "再次感谢你今晚主持卡拉OK。"
+    anon "谢谢你今晚让我们来你家唱卡拉OK。"
 
 # game/src/plot/mel02.rpy:644
 translate zh_hans mel02_eve_delay_erik_56818a42:

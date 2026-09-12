@@ -8,17 +8,17 @@
       "target": "下载游戏数据时出现错误："
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Find [saga.cast.sammy] in a changing stall.",
       "target": "在更衣隔间找到[saga.cast.sammy]。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Find [saga.cast.emma] in a changing stall.",
       "target": "在更衣隔间找到[saga.cast.emma]。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Find [saga.cast.sue] in a changing stall.",
       "target": "在更衣隔间找到[saga.cast.sue]。"
     },
@@ -268,87 +268,87 @@
       "target": "开启或关闭辅助功能中的{a=https://www.renpy.org/l/voicing}自动朗读{/a}。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.debbie]'s story during [saga.cast.jenny]'s second trimester.",
       "target": "在[saga.cast.jenny]的孕中期推进[saga.cast.debbie]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.debbie]'s story during [saga.cast.jenny]'s third trimester.",
       "target": "在[saga.cast.jenny]的孕晚期推进[saga.cast.debbie]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.jenny]'s story during her second trimester.",
       "target": "在[saga.cast.jenny]孕中期推进她的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.maria]'s story during her second trimester.",
       "target": "在[saga.cast.maria]孕中期推进她的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.jenny]'s story during her third trimester.",
       "target": "在[saga.cast.jenny]孕晚期推进她的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.maria]'s story during her third trimester.",
       "target": "在[saga.cast.maria]孕晚期推进她的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.melody]'s story, and win the talent show.",
       "target": "推进[saga.cast.melody]的剧情，并赢得才艺表演。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.debbie]'s story.",
       "target": "推进[saga.cast.debbie]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.judith]'s story.",
       "target": "推进[saga.cast.judith]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.melody]'s story.",
       "target": "推进[saga.cast.melody]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.diane]'s story.",
       "target": "推进[saga.cast.diane]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.jenny]'s story.",
       "target": "推进[saga.cast.jenny]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.barb]'s story.",
       "target": "推进[saga.cast.barb]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.tina]'s story.",
       "target": "推进[saga.cast.tina]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.tori]'s story.",
       "target": "推进[saga.cast.tori]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through [saga.cast.viv]'s story.",
       "target": "推进[saga.cast.viv]的剧情。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Progress through the main story.",
       "target": "推进主线剧情。"
     },
@@ -573,117 +573,117 @@
       "target": "（只有确定时间充足，我才能动手进去翻。）"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] and request a footjob again after the date.",
       "target": "在客厅看色情片被[saga.cast.debbie]抓住，然后在约会后再次要求足交。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] and request a footjob after the date.",
       "target": "在客厅看色情片被[saga.cast.debbie]抓到，约会后要求足交。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}practice for the {pen=neonpink}{size=+3}{b}camshows{/b}{/size}{/pen}.{/pen}{space=80}",
       "target": "{pen=orange}{pen=neonpink}{size=+3}{b}成人直播{/b}{/size}{/pen}前的练习。{/pen}{space=80}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] and request a footjob again.",
       "target": "在客厅看色情片被[saga.cast.debbie]抓到，然后再要求一次足交。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=aqua}I can't believe he's {pen=neonpink}been packing{/pen} this entire time!{/pen}",
       "target": "{pen=aqua}真不敢相信，他居然{pen=neonpink}一直藏着这么个大家伙{/pen}！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}{size=-2}totally enough for a camera.{/size} Maybe even a new vibe...{/pen}",
       "target": "{pen=blue}{size=-2}买相机绰绰有余。{/size}也许还能买根新振动棒……{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] and request a footjob.",
       "target": "在客厅看色情片被[saga.cast.debbie]逮到，并要求足交。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] again after the date.",
       "target": "约会后又在客厅看色情片被[saga.cast.debbie]抓住。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] again post-boobjob.",
       "target": "隆胸手术后，在客厅看黄片再次被[saga.cast.debbie]抓个正着。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.jenny], and have sex.",
       "target": "在客厅看黄片被[saga.cast.jenny]抓到，然后做爱。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Peek at [saga.cast.debbie] in the bathroom midway through her story.",
       "target": "在[saga.cast.debbie]的剧情中段，去浴室偷看她。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] again.",
       "target": "再次在客厅看色情片被[saga.cast.debbie]抓到。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Peek at [saga.cast.debbie] in the shower midway through her story.",
       "target": "在[saga.cast.debbie]的剧情中段，偷看她洗澡。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Peek at [saga.cast.jenny] in the shower again early in her story.",
       "target": "在[saga.cast.jenny]的剧情前期，再次偷看她洗澡。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Use [saga.cast.debbie]'s panties again midway through her story.",
       "target": "在[saga.cast.debbie]的剧情中段，再次使用她的内裤。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Use the peephole in the attic in the evening early in her story.",
       "target": "在她的剧情前期，傍晚时使用阁楼上的窥视孔。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Use the peephole in the attic in the evening late in her story.",
       "target": "在她的剧情后期，傍晚时使用阁楼上的窥视孔。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Peek at [saga.cast.debbie] in the bathroom early in her story.",
       "target": "在[saga.cast.debbie]的剧情前期，去浴室偷看她。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie].",
       "target": "在客厅看色情片被[saga.cast.debbie]发现了。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.jenny].",
       "target": "在客厅看色情片被[saga.cast.jenny]发现。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Peek at [saga.cast.debbie] in the shower early in her story.",
       "target": "在[saga.cast.debbie]的剧情前期，偷看她洗澡。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Put on another blowjob camshow with [saga.cast.jenny].",
       "target": "和[saga.cast.jenny]再开一场口交直播。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Put on another handjob camshow with [saga.cast.jenny].",
       "target": "和[saga.cast.jenny]再开一场手交直播。"
     },
@@ -2876,277 +2876,277 @@
       "id": "tor02_flake_eef1abfb"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}AND I'm still living here with these {pen=maroon}{u}losers{/u}{/pen}!!!!{/pen}",
       "target": "{pen=pink}而且我还和这些{pen=maroon}{u}废柴{/u}{/pen}一起住在这里！！！！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}{size=+1}I mean, {u}who{/u} would want to pop that {pen=aqua}little dork cherry?!{/pen}{/size}{/pen}",
       "target": "{pen=blue}{size=+1}我是说，{u}谁会{/u}想给那个{pen=aqua}小呆子破处啊？！{/pen}{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}{size=-4}He may have been a {k=1.8}{pen=red}{b}MEAT{/b}{/pen}{pen=orange}HEAD{/k}{/pen} but at least he was obedient...{/size}{/pen}",
       "target": "{pen=purple}{size=-4}他是个{k=1.8}{pen=red}{b}肌肉{/b}{/pen}{pen=orange}白痴{/k}{/pen}没错，但至少他很听话……{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{space=150}{pen=neonpink}my {b}KITTY{/b} is going {b}{u}CRAZY{/u}!{/b}{/pen}",
       "target": "{space=150}{pen=neonpink}我的{b}小穴{/b}都快憋{b}{u}疯了{/u}！{/b}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}He might be a {pen=navy}{size=-8}{b}{u}DISGUSTING{/u} {u}LOSER{/u}{/b}{/size}{/pen} but he's been{/pen}",
       "target": "{pen=blue}他虽然是个{pen=navy}{size=-8}{b}{u}恶心的{/u}{u}废柴{/u}{/b}{/size}{/pen}，可最近{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}{size=+2}pretty {pen=aqua}flush with {size=+5}cash{/size}{/pen} recently...{/size}{/pen}{space=100}",
       "target": "{pen=blue}{size=+2}手头倒挺{pen=aqua}宽{size=+5}裕{/size}{/pen}……{/size}{/pen}{space=100}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}I bet I could find ways to get more out of him...{/pen}{space=40}",
       "target": "{pen=blue}我肯定能想办法再从他身上榨些钱……{/pen}{space=40}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{space=100}{pen=blue}for {pen=aqua}{b}two hundred dollars{/b}{/pen}!!!{/pen} {pen=yellow}{size=+10}$$${/size}{/pen}",
       "target": "{space=100}{pen=blue}就收了{pen=aqua}{b}两百美元{/b}{/pen}！！！{/pen} {pen=yellow}{size=+10}$$${/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=neonpink}My tits {i}are{/i} pretty {b}AWESOME{/b}{/pen} {pen=pink}after all.{/pen}{space=40}",
       "target": "{pen=neonpink}毕竟老娘这对奶子{i}可{/i}不是{b}盖的{/b}{/pen}{pen=pink}。{/pen}{space=40}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}You know what {pen=purple}{i}is{/i}{/pen} crazy though?!{/pen}{space=80}",
       "target": "{pen=pink}不过你知道真正{pen=purple}{i}离谱的{/i}{/pen}是什么吗？！{/pen}{space=80}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}people fuck, just imagine what they would pay someone{/pen}",
       "target": "{pen=orange}上个床都有人肯花大钱看，那要是换成{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=aqua}Talk about dreams coming true for the little {pen=navy}VIRGIN BOY!{/pen}{/pen}",
       "target": "{pen=aqua}这下那个{pen=navy}小处男{/pen}可真是梦想成真了！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=indigo}{size=-3}I sent him to {pen=neonpink}{b}Pink{/b}{/pen} for an {pen=navy}{b}Electro Clit{/b}{/pen} and he comes back{/size}{/pen}",
       "target": "{pen=indigo}{size=-3}我叫他去{pen=neonpink}{b}粉色诱惑{/b}{/pen}买{pen=navy}{b}电击阴蒂棒{/b}{/pen}，结果他拿回来的是{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=indigo}{size=-2}with this crappy {i}\\\"lite\\\"{/i} version! It's a total {pen=red}{size=-6}{b}PIECE OF {size=+16}{u}SHIT{/u}!{/size}{/b}{/size}{/pen}{/size}{/pen}",
       "target": "{pen=indigo}{size=-2}这个破{i}“轻量”{/i}版！简直是一{pen=red}{size=-6}{b}坨{size=+16}{u}屎{/u}！{/size}{/b}{/size}{/pen}{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=indigo}He kinda weirds me out now... when I see him all I can{/pen}",
       "target": "{pen=indigo}他现在让我有点不自在……每次看到他，{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}Okay, {pen=neonpink}CAMslut{/pen} is fucking {pen=indigo}AWESOME{/pen}!{/pen}",
       "target": "{pen=blue}好吧，{pen=neonpink}CAMslut{/pen}真他妈太{pen=indigo}棒{/pen}了！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}My last show brought in almost {pen=aqua}a thousand dollars{/pen}!!{/pen}",
       "target": "{pen=blue}我上次直播赚了将近{pen=aqua}一千美元{/pen}！！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=maroon}{size=-3}And the few who aren't, are too {pen=black}{size=+10}fat{/size}{/pen} or {pen=black}ugly{/pen} to bring in {pen=pink}any fans{/pen}!{/size}{/pen}",
       "target": "{pen=maroon}{size=-3}难得有几个不怂的，又太{pen=black}{size=+10}胖{/size}{/pen}或{pen=black}丑{/pen}，根本带不来{pen=pink}任何粉丝{/pen}！{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}I mean, sure. He's a {pen=red}{size=-2}{u}doofus{/u}{/size}{/pen} but he'll pretty much do{/pen}{space=30}",
       "target": "{pen=pink}我是说，他是个{pen=red}{size=-2}{u}傻瓜{/u}{/size}{/pen}没错，但我让他做什么，{/pen}{space=30}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}anything I tell him to and {pen=neonpink}his cock is fucking {pen=indigo}{b}HUGE{/b}{/pen}{/pen}!{/pen}{space=20}",
       "target": "{pen=pink}他就做什么，而且{pen=neonpink}他的鸡巴真他妈{pen=indigo}{b}大{/b}{/pen}{/pen}！{/pen}{space=20}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}{size=-3}As long as he {pen=navy}keeps his mouth shut{/pen}{/size}, I think it could totally{/pen}",
       "target": "{pen=purple}{size=-3}只要他{pen=navy}闭上嘴{/pen}{/size}，我觉得这事就能{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{space=100}{pen=purple}work! I'll ask him tomorrow.{/pen}",
       "target": "{space=100}{pen=purple}成！我明天问问他。{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}{size=-4}Not surprising really, he's been {pen=maroon}not very subtly{/pen} drooling{/size}{/pen}",
       "target": "{pen=orange}{size=-4}其实也不奇怪，他早就{pen=maroon}毫不掩饰地{/pen}对着{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}I didn't get {pen=navy}a very good look{/pen} at him but I'm sure of it!{/pen}",
       "target": "{pen=blue}我没{pen=navy}看清{/pen}他，但我敢肯定有人在偷窥！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}{size=-2}Only when I imagined it, he was {pen=purple}good looking{/pen} and {pen=indigo}suave...{/pen}{/size}{/pen}{rt}{pen=pink}and {pen=navy}filthy rich!{/pen}{/pen}{/rt}{space=25}",
       "target": "{pen=pink}{size=-2}不过我想象中的他可是{pen=purple}长得帅{/pen}，还{pen=indigo}风度翩翩……{/pen}{/size}{/pen}{rt}{pen=pink}而且还{pen=navy}腰缠万贯！{/pen}{/pen}{/rt}{space=25}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}If this keeps up, I might actually be able to {pen=pink}buy{/pen}{/pen}{space=30}",
       "target": "{pen=orange}照这么赚下去，再过几个月我就{pen=pink}能{/pen}{/pen}{space=30}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}{pen=pink}my own place{/pen} in a few months!{/pen}{space=130}",
       "target": "{pen=orange}{pen=pink}买套自己的房子了{/pen}！{/pen}{space=130}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}I'm{/pen} {pen=indigo}thinking{/pen} {pen=purple}something{/pen} {pen=red}by{/pen} {pen=orange}the{/pen} {pen=yellow}{size=+12}beach!{/size}{/pen}",
       "target": "{pen=blue}我{/pen}{pen=indigo}想{/pen}{pen=purple}找套{/pen}{pen=red}海{/pen}{pen=orange}边{/pen}{pen=yellow}{size=+12}的！{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{space=85}{pen=maroon}{pen=red}{b}[saga.cast.anon]{/b}{/pen} continues to be a big hit with {pen=pink}my{/pen}{/pen}",
       "target": "{space=85}{pen=maroon}{pen=red}{b}[saga.cast.anon]{/b}{/pen}在{pen=pink}我的{/pen}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=maroon}{pen=pink}fans{/pen}. They're {pen=neonpink}{b}begging me{/b}{/pen} to go further with him and{/pen}",
       "target": "{pen=maroon}{pen=pink}粉丝里{/pen}还是特别受欢迎。他们一直{pen=neonpink}{b}求我{/b}{/pen}和他更进一步，{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}Even after everything we've done, he's {i}still{/i} perving on me!{/pen}",
       "target": "{pen=pink}都已经做过那么多事了，他{i}还是{/i}色眯眯地盯着我！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=neonpink}I {size=+4}sucked his dick today{/size}!{/pen} {pen=pink}I've never sucked{/pen}",
       "target": "{pen=neonpink}今天我{size=+4}给他口交了{/size}！{/pen} {pen=pink}我以前可从没{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}anyone's dick before, but today I sucked {pen=indigo}{b}[saga.cast.anon]{/b}'s{/pen}...{/pen}",
       "target": "{pen=pink}给任何人口交过，今天却给了{pen=indigo}{b}[saga.cast.anon]{/b}{/pen}……{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}or {pen=navy}peer pressure{/pen} from all my fans but...{/pen}",
       "target": "{pen=pink}或者说是{pen=navy}顶不住粉丝们的压力{/pen}，可……{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}I can't even begin to explain... The thought of going down{/pen}",
       "target": "{pen=orange}这事我根本说不清……以前光是想到要给{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}on ex's always {pen=lime}repulsed me{/pen} but, like...{/pen}{space=90}",
       "target": "{pen=orange}前任口交，我都{pen=lime}嫌恶心{/pen}，可这次……{/pen}{space=90}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=silver}My fans are demanding {pen=neonpink}{size=+40}sex{/size}{/pen}...{/pen}",
       "target": "{pen=silver}粉丝们嚷着要看我{pen=neonpink}{size=+40}做爱{/size}{/pen}……{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{space=100}{pen=purple}{b}thrusting{/b}{/pen} {pen=indigo}deep{/pen} {pen=neonpink}inside me!{/pen}",
       "target": "{space=100}{pen=purple}{b}在我体内{/b}{/pen}{pen=indigo}深深地{/pen}{pen=neonpink}抽插！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}It was{/pen} {pen=purple}{b}SO{/b}{/pen} {pen=pink}{b}FUCKING{/b}{/pen} {pen=neonpink}{b}HAWT!{/b}{/pen}{space=40}",
       "target": "{pen=blue}太{/pen}{pen=purple}{b}他{/b}{/pen}{pen=pink}{b}妈{/b}{/pen}{pen=neonpink}{b}刺激了！{/b}{/pen}{space=40}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}I'm thinking we should make this a regular thing...{/pen}",
       "target": "{pen=orange}我在想，以后是不是该经常这样……{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}{pen=indigo}{b}[saga.cast.anon]{/b}{/pen} and I had {pen=neonpink}sex{/pen} today on stream!{/pen}{space=70}",
       "target": "{pen=purple}{pen=indigo}{b}[saga.cast.anon]{/b}{/pen}今天和我在{pen=neonpink}直播里做爱了{/pen}！{/pen}{space=70}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=neonpink}It hits all the {pen=indigo}right spots{/pen} and drives me {pen=purple}absolutely wild{/pen}...{/pen}",
       "target": "{pen=neonpink}每下都顶得{pen=indigo}恰到好处{/pen}，弄得我{pen=purple}快疯了{/pen}……{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=navy}I'm even starting to {pen=blue}think it's {size=+4}{i}cute{/i}{/size}{/pen}...{space=30}{size=+10}@.@;;{/size}{/pen}",
       "target": "{pen=navy}我甚至开始{pen=blue}觉得他这样还挺{size=+4}{i}可爱{/i}{/size}{/pen}……{space=30}{size=+10}@.@;;{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=silver}His {pen=neonpink}{b}huge cock{/b}{/pen} is turning me into a {pen=red}crazy person{/pen}!{/pen}",
       "target": "{pen=silver}他这根{pen=neonpink}{b}大鸡巴{/b}{/pen}简直快把我{pen=red}逼疯了{/pen}！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}{size=-2}How can someone with such a {pen=indigo}{size=+4}{b}huge cock{/b}{/size}{/pen} be such{/size}{/pen}{space=20}",
       "target": "{pen=pink}{size=-2}鸡巴长得那么{pen=indigo}{size=+4}{b}大{/b}{/size}{/pen}，怎么还能是{/size}{/pen}{space=20}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}a {b}ginormous{/b} {pen=neonpink}{b}PUSSY?!{/b}{/pen} {size=-10}{b}LOLOL!{/b}{/size}{/pen}",
       "target": "{pen=pink}个{b}超级{/b}{pen=neonpink}{b}怂包？！{/b}{/pen}{size=-10}{b}哈哈哈哈！{/b}{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=aqua}Ugh, {pen=lime}{b}[saga.cast.anon]{/b}{/pen} is relentless about this whole wanting me{/pen}",
       "target": "{pen=aqua}啊，{pen=lime}{b}[saga.cast.anon]{/b}{/pen}一直缠着我不放，非要我{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=aqua}to be his girlfriend thing! It's {pen=navy}{size=-5}RIDICULOUS!!!{/size}{/pen}{/pen}",
       "target": "{pen=aqua}做他女朋友！太{pen=navy}{size=-5}荒谬了！！！{/size}{/pen}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}{size=-3}Now I get all the benefits of someone doting on me and if{/size}{/pen}",
       "target": "{pen=pink}{size=-3}这样既有人宠着，又能享尽好处；要是哪天{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}things get {pen=purple}{i}too real{/i}{/pen}, I can just{/pen}{space=120}",
       "target": "{pen=pink}开始{pen=purple}{i}动真感情{/i}{/pen}了，我就可以{/pen}{space=120}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=maroon}but I never really understood what it meant until I held {/pen}{space=10}",
       "target": "{pen=maroon}可我真正明白它的意思{/pen}，是在{space=10}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=maroon}{size=+4}my {pen=orange}{b}child{/b}{/pen} in my arms for the first time...{/size}{/pen}{space=90}{rt}{pen=silver}{size=-6}being this happy is {u}so{/u} weird!{/size}{/pen}{/rt}",
       "target": "{pen=maroon}{size=+4}第一次把我的{pen=orange}{b}孩子{/b}{/pen}抱在怀里的时候……{/size}{/pen}{space=90}{rt}{pen=silver}{size=-6}这么幸福真是{u}太{/u}奇怪了！{/size}{/pen}{/rt}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{space=50}{pen=purple}{size=-6}The {pen=aqua}little perv{/pen} probably told her some {pen=aqua}{b}sob story{/b}{/pen} about his {pen=aqua}pathetic{/pen}{/size}{/pen}",
       "target": "{space=50}{pen=purple}{size=-6}那{pen=aqua}小变态{/pen}大概又在{pen=aqua}{b}卖惨{/b}{/pen}，说自己过着{pen=aqua}可怜巴巴的{/pen}{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{rt}{size=+2}{pen=purple}{pen=aqua}existence{/pen} and her {pen=red}bleeding heart{/pen} just couldn't resist.{/pen}{/size}{/rt}{space=70}",
       "target": "{rt}{size=+2}{pen=purple}{pen=aqua}日子{/pen}，她一{pen=red}心软{/pen}就招架不住了。{/pen}{/size}{/rt}{space=70}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{space=120}{pen=pink}I will {pen=silver}{b}{i}{u}LITERALLY{/u}{/i}{/b}{/pen} {pen=black}die of embarrassment! x_x{/pen}{/pen}",
       "target": "{space=120}{pen=pink}我会{pen=silver}{b}{i}{u}羞愤欲死{/u}{/i}{/b}{/pen}{pen=black}！x_x{/pen}{/pen}"
     },
@@ -3224,107 +3224,107 @@
       "id": "tina_lounge_skip_292571bc"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=red}{size=-1}I mean, I was worried about {pen=maroon}anal stuff{/pen} and the {pen=maroon}buttplug{/pen}{/size}{/pen}",
       "target": "{pen=red}{size=-1}我是说，之前我还担心{pen=maroon}玩后门{/pen}，可那根{pen=maroon}肛塞{/pen}{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}{size=-4}Nothing crazy, just a little{/size} {pen=neonpink}strip tease and light masturbation{/pen}!{/pen}",
       "target": "{pen=purple}{size=-4}也没玩多疯，就是{/size} {pen=neonpink}跳了点脱衣舞，稍微自慰了一下{/pen}！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=red}{size=+2}{b}I FUCKING {u}HATE{/u}{/b}{/pen} {pen=blue}working.... {b}UGH!!{/b}{/size}{/pen}{space=30}",
       "target": "{pen=red}{size=+2}{b}我他妈最{u}讨厌{/u}{/b}{/pen}{pen=blue}工作了……{b}呃！！{/b}{/size}{/pen}{space=30}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=maroon}{size=-2}The weirdest part is that {pen=red}I never liked kids{/pen}... I was completely{/size}{/pen}",
       "target": "{pen=maroon}{size=-2}最奇怪的是{pen=red}我以前从来不喜欢小孩{/pen}……我完全{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=maroon}blindsided. I've heard the term {pen=pink}{size=+2}unconditional love{/size}{/pen} before{/pen}",
       "target": "{pen=maroon}没料到自己会这样。我以前听过{pen=pink}{size=+2}无条件的爱{/size}{/pen}这个词，{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{space=20}{pen=red}Like seriously, there {pen=maroon}isn't enough therapy in the world{/pen} to{/pen}",
       "target": "{space=20}{pen=red}说真的，这世上{pen=maroon}再多的心理治疗也没法{/pen}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}Errmm... {pen=purple}{b}{u}OBVIOUSLY{/u}{i}!!!{/i}{/b}{/pen} That part's great!{/pen}",
       "target": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}这些当然好了！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}We had some {pen=neonpink}naughty fun{/pen} in the theater too! ;D{/pen}{space=35}",
       "target": "{pen=purple}我们在电影院里也{pen=neonpink}玩了些刺激的{/pen}！;D{/pen}{space=35}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}{size=-3}Do I miss going out? Or having someone buy me nice things?{/size}{/pen}",
       "target": "{pen=pink}{size=-3}我想不想出去约会？想不想有人给我买好东西？{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=aqua}The {pen=lime}FREAKS{/pen} absolutely ate it up!{/pen}{space=100}",
       "target": "{pen=aqua}那些{pen=lime}变态{/pen}完全被迷住了！{/pen}{space=100}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}Hopefully they will take my mind off {pen=indigo}{b}[saga.cast.anon]{/b}'s {rb}{u}cock{/u}{/rb}{art}{pen=pink}¦D~~~{/pen}{/art}{/pen}.{/pen}{space=55}{rt}{pen=purple}{size=-10}{b}D{/b}{/size}roooo{size=-10}{b}L!{/b}{/size}{/pen}{/rt}",
       "target": "{pen=pink}希望它们能让我不再想{pen=indigo}{b}[saga.cast.anon]{/b}的{rb}{u}鸡巴{/u}{/rb}{art}{pen=pink}¦D~~~{/pen}{/art}{/pen}.{/pen}{space=55}{rt}{pen=purple}{size=-10}{b}口{/b}{/size}水直{size=-10}{b}流！{/b}{/size}{/pen}{/rt}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/computer.rpy",
       "source": "Leisure Suit Harold",
       "target": "休闲西装Harold"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}If people will pay good money to watch random {pen=maroon}{size=-6}UGLY{/size}{/pen}{/pen}{space=20}",
       "target": "{pen=orange}随便找几个{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}over my {pen=neonpink}{size=+3}super hot{/size} bod{/pen} for a while now...{/pen}",
       "target": "{pen=orange}我这{pen=neonpink}{size=+3}火辣{/size}身材{/pen}流口水了……{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}Not because {pen=red}{size=-2}I want to{/size}{/pen} or anything but it'll be good{/pen}",
       "target": "{pen=orange}才不是{pen=red}{size=-2}我自己想这样{/size}{/pen}，只不过能当作{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}I mean, I don't blame him. I'm like {pen=neonpink}{i}crazy{/i} {u}hot{/u}{/pen}...{/pen}",
       "target": "{pen=purple}我是说，我也不怪他。谁让我{pen=neonpink}{i}性感{/i}{u}得要命{/u}{/pen}呢……{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=neonpink}{b}SUPER HOT?{/b}{/pen} {pen=pink}Like yours truly?{/pen}{space=40}",
       "target": "{pen=neonpink}{b}像本小姐这样的超级辣妹，{/b}{/pen}{pen=pink}他们会出多少钱？！{/pen}{space=40}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=indigo}{size=-3}I'm kind of {pen=navy}{b}having second thoughts{/b}{/pen} about all of this...{/size}{/pen}",
       "target": "{pen=indigo}{size=-3}不过这事我又有点{pen=navy}{b}犹豫{/b}{/pen}了……{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=indigo}{size=-3}think about is {pen=neonpink}that {size=+3}ridiculously{/size} {pen=red}{size=-8}{b}ENORMOUS{/b}{/size}{/pen} cock{/pen} in his pants...{/size}{/pen}{space=15}",
       "target": "{pen=indigo}{size=-3}我脑子里就全是{pen=neonpink}他裤裆里那根{size=+3}大得{/size}{pen=red}{size=-8}{b}离谱的{/b}{/size}{/pen}肉棒{/pen}……{/size}{/pen}{space=15}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Narrative, second trimester.",
       "target": "叙事，孕中期。"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Narrative, third trimester.",
       "target": "叙事，孕晚期。"
     },
@@ -3407,82 +3407,82 @@
       "id": "jen_tv_f2fac03d"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}{size=+1}{b}[saga.cast.debbie]{/b}'s really been strugg{rb}ling with the entire situation.{/rb}{art}{pen=pink}{i}I totally {pen=maroon}knew{/pen} they were {pen=neonpink}{b}BONING{/b}!!!{/pen}{/i}{/pen}{/art}{/size}{/pen}",
       "target": "{pen=orange}{size=+1}{b}[saga.cast.debbie]{/b}因为这一切一直{rb}很不好受。{/rb}{art}{pen=pink}{i}我就{pen=maroon}知道{/pen}他们俩{pen=neonpink}{b}搞在一起了{/b}！！！{/pen}{/i}{/pen}{/art}{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}I gave him the {rb}option - leer at them... {pen=pink}for a price!{/pen}{/rb}{art}{pen=indigo}{size=+1}He couldn't believe it lol, his face was so derpy!{/size}{/pen}{/art}{/pen}",
       "target": "{pen=purple}我给了他个{rb}选择——想看这些照片也行……{pen=pink}不过得掏钱！{/pen}{/rb}{art}{pen=indigo}{size=+1}他简直不敢相信，哈哈，他的表情傻透了！{/size}{/pen}{/art}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=maroon}{size=-6}Maybe I can even turn on the waterworks{vspace=0}and guilt {b}[saga.cast.debbie]{/b} into buying me a camera?{/size}{/pen}{space=100}",
       "target": "{pen=maroon}{size=-6}说不定我再挤几滴眼泪{vspace=0}，让{b}[saga.cast.debbie]{/b}一内疚，就给我买台相机？{/size}{/pen}{space=100}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=indigo}It's gonna be {pen=silver}{size=+2}{i}really weird{/i}{/size}{/pen} doing things with him!{/pen}",
       "target": "{pen=indigo}要跟他做那些事，真是{pen=silver}{size=+2}{i}别扭{/i}{/size}{/pen}得要命！{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}Just for taking my shirt off!{/pen}{space=20}{pen=navy}{size=-6}{b}{i}LOL!{/b}{/i}{/size}{/pen}",
       "target": "{pen=blue}不过就是脱了件上衣而已！{/pen}{space=20}{pen=navy}{size=-6}{b}{i}哈哈！{/b}{/i}{/size}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}{pen=red}{b}[saga.cast.anon]{/b}{/pen} totally got a boner too. {i}Not surprising...{/i}{/pen}",
       "target": "{pen=pink}{pen=red}{b}[saga.cast.anon]{/b}{/pen}也硬起来了。{i}这有什么好奇怪的……{/i}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=blue}{size=+2}So this morning I was messaging {b}[saga.cast.jane]{/b}, and{/size}{/pen}{space=70}",
       "target": "{pen=blue}{size=+2}今天早上我跟{b}[saga.cast.jane]{/b}发消息聊天，{/size}{/pen}{space=70}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}His dick is {pen=neonpink}{size=-3}{b}{u}PERFECT{/u}{/b}{/size}{/pen}!{/pen}{space=120}",
       "target": "{pen=purple}他的鸡巴简直{pen=neonpink}{size=-3}{b}{u}完美无缺{/u}{/b}{/size}{/pen}！{/pen}{space=120}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=indigo}And all that {pen=silver}{size=+35}{b}cum{/b}{/size}{/pen}... just...{/pen}{space=120}",
       "target": "{pen=indigo}还有那么多{pen=silver}{size=+35}{b}精液{/b}{/size}{/pen}……简直……{/pen}{space=120}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=orange}Why can't people just pay to see me being a {pen=red}sexy bitch?!{/pen}{/pen}",
       "target": "{pen=orange}我就当个{pen=red}性感婊子，让人付钱看，怎么就不行？！{/pen}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=indigo}It really is {pen=navy}{size=-6}{b}GENIUS!!{/b}{/size}{/pen}{/pen}",
       "target": "{pen=indigo}这主意简直{pen=navy}{size=-6}{b}绝了！！{/b}{/size}{/pen}{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}I usually get so mad when he pulls this shit but I dunno,{/pen}",
       "target": "{pen=purple}换作平时，他敢这样我早就发火了，可这次也不知道怎么回事，{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{space=135}{pen=blue}he can {pen=aqua}pay for the privilege{/pen}.{/pen}",
       "target": "{space=135}{pen=blue}那就让他{pen=aqua}掏钱买这个资格{/pen}。{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=purple}Apparently people pay girls to post pictures there,{/pen}",
       "target": "{pen=purple}听说女孩们在那儿发照片，就有人愿意付钱，{/pen}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}Like, who cares what the viewers think?!{/pen}{space=80}",
       "target": "{pen=pink}拜托，谁在乎观众怎么想？！{/pen}{space=80}"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/diary.rpy",
       "source": "{pen=pink}It's not even making me that much money...{/pen}",
       "target": "{pen=pink}结果也没赚着几个钱……{/pen}"
     },
@@ -8942,28 +8942,64 @@
       "id": "strings"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/computer.rpy",
       "source": "Outlood Express",
       "target": "Outlood邮箱",
       "id": "strings"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/minigames.rpy",
       "source": "blueberry glaze",
       "target": "蓝莓糖霜",
       "id": "strings"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/messages.rpy",
       "source": "All good, dude. Got a raid scheduled, but you can always start without me.",
       "target": "没事，哥们。我约好要打团本，不过你们可以先开始，不用等我。",
       "id": "strings"
     },
     {
-      "file": "tl/zh_hans/bytecode_strings.rpy",
+      "file": "tl/zh_hans/extracted/gallery.rpy",
       "source": "Peek into the backroom of Pink after grabbing the Electoclit.",
       "target": "拿到电击阴蒂棒后，偷看粉色诱惑的后屋。",
       "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/extracted/messages.rpy",
+      "source": "[saga.cast.grace] again. Can we talk?",
+      "target": "又是我，[saga.cast.grace]。我们能谈谈吗？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/extracted/messages.rpy",
+      "source": "[saga.cast.anon], the babies are coming! Taking [saga.cast.maria] to the hospital now!",
+      "target": "[saga.cast.anon]，宝宝们要出生了！我现在带[saga.cast.maria]去医院！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "( I'll text him real quick, hopefully he's cool with it... )",
+      "target": "（我赶紧给他发条短信，希望他不介意……）",
+      "id": "mel02_eve_ask_0c8f2efb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Thanks for agreeing to host karaoke tomorrow.",
+      "target": "谢谢你答应让我们明天去你家唱卡拉OK。",
+      "id": "mel02_eve_pause_erik_485c9afc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Thanks for agreeing to host karaoke on [saga.time.dow + when].",
+      "target": "谢谢你答应让我们[saga.time.dow + when]去你家唱卡拉OK。",
+      "id": "mel02_eve_pause_erik_27dca1bf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Thanks again for hosting karaoke tonight.",
+      "target": "谢谢你今晚让我们来你家唱卡拉OK。",
+      "id": "mel02_eve_delay_erik_b0c39aff"
     }
   ]
 }

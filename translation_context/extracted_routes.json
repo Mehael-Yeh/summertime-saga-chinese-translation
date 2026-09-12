@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "directory": "tl/zh_hans/extracted",
+  "source_module_routes": {
+    "data/anon_pc.py": "computer.rpy",
+    "data/jenny_diary.py": "diary.rpy",
+    "data/jenny_laptop.py": "computer.rpy",
+    "enum/pom.py": "calendar.rpy",
+    "game.py": "compatibility.rpy",
+    "init/ex.py": "diagnostics.rpy",
+    "init/gui.py": "notifications.rpy",
+    "init/lewd.py": "gallery.rpy",
+    "init/mesg.py": "messages.rpy",
+    "init/seed.py": "compatibility.rpy",
+    "init/tv.py": "diagnostics.rpy",
+    "init/wip.py": "notifications.rpy",
+    "intf/lewd.py": "gallery.rpy",
+    "lang.py": "calendar.rpy",
+    "lewd.py": "notifications.rpy",
+    "logic/television.py": "diagnostics.rpy",
+    "menu.py": "diagnostics.rpy",
+    "mini/cocktail.py": "minigames.rpy",
+    "mini/donut.py": "minigames.rpy",
+    "mini/garden.py": "minigames.rpy",
+    "mini/serum.py": "minigames.rpy",
+    "tech/television.py": "diagnostics.rpy",
+    "util/catalogue.py": "notifications.rpy",
+    "vfx/view.py": "diagnostics.rpy",
+    "wind.py": "diagnostics.rpy"
+  },
+  "unlocated_legacy_sources": [
+    "He loves bug reports!",
+    "{color=1ceda7}TODO:{/color}",
+    "{}:{}: missing"
+  ],
+  "policy": "One owner per exact old key across the language tree; route by actual caller/module, preserve source keys and payloads.",
+  "ordering": {
+    "diary": "event registration, then page and row",
+    "messages": "message registration order",
+    "other": "source module then first source occurrence",
+    "shared_key": "keep one entry at first occurrence",
+    "unlocated": "keep legacy entries at end, pending source identification"
+  }
+}

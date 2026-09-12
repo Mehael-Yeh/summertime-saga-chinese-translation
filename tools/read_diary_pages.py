@@ -37,7 +37,7 @@ def collect(source, translation):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source', type=Path, required=True)
-    parser.add_argument('--translation', type=Path, default=Path('tl/zh_hans/bytecode_strings.rpy'))
+    parser.add_argument('--translation', type=Path, default=Path('tl/zh_hans/extracted/diary.rpy'))
     parser.add_argument('--output', type=Path, required=True)
     args = parser.parse_args()
     result = collect(args.source, args.translation)

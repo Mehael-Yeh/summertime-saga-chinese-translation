@@ -1,25 +1,7 @@
-# sms_fix.rpy
-# ============================================================
-# 短信/UI 文本翻译修复（纯 tl 目录方案，不改游戏本体脚本）
-# ------------------------------------------------------------
-# 背景：游戏短信在 tel_chat 界面用 `text '[mesg.what!i]'` 渲染。
-#   Ren'Py 的 `!i` 转换只做插值、不做字符串翻译（只有 `!t`
-#   才会调用 translate_string），所以 bytecode_strings.rpy
-#   里带 [saga.cast.X] 占位符的 old/new 对永远无法命中，短信
-#   始终显示英文。
-#
-# 方案：zh_hans 语言激活时，
-#   1. 读取 bytecode_strings.rpy 的全部 old/new 对；
-#   2. 对占位符全部为 [saga.cast.X] 的纯文本条目，用 Ren'Py 插值
-#      把 old 还原成运行时实际显示的英文；
-#   3. 把「插值后的英文 -> 插值后的中文」注册进 config.replace_text，
-#      文本渲染（插值之后）时按整串替换。
-#
-# 注意：Ren'Py 8.5.3 没有 `translate <lang> screen` 语法（解析器
-#   只支持 strings/python/style/对话块），因此无法用屏幕覆盖把
-#   `!i` 改成 `!ti`，本文件是等效且自维护的替代方案：zz 文件每次
-#   重新生成后，映射会自动跟随。
-# ============================================================
+# 短信/UI插值后的整串翻译补丁。
+# 从tl/zh_hans/extracted/下发现全部rpy，兼容松散文件和Ren’Py归档。
+# 按原有安全规则跳过标签及非角色动态表达式；不执行提取文件中的代码。
+# 新增分类文件无需修改加载清单；维护规则见translation_context/style_guide.md。
 
 init -1 python:
     import re as _rb_re
@@ -51,13 +33,20 @@ init -1 python:
     def _rb_rebuild_sms_map():
         renpy.store._rb_sms_map = {}
         try:
-            _rb_f = renpy.loader.load('tl/zh_hans/bytecode_strings.rpy')
-            try:
-                _rb_raw = _rb_f.read()
-            finally:
-                _rb_f.close()
-            if isinstance(_rb_raw, bytes):
-                _rb_raw = _rb_raw.decode('utf-8', 'replace')
+            _rb_sources = []
+            for _rb_path in sorted(renpy.list_files()):
+                if not (_rb_path.startswith('tl/zh_hans/extracted/')
+                        and _rb_path.endswith('.rpy')):
+                    continue
+                _rb_f = renpy.loader.load(_rb_path)
+                try:
+                    _rb_text = _rb_f.read()
+                finally:
+                    _rb_f.close()
+                if isinstance(_rb_text, bytes):
+                    _rb_text = _rb_text.decode('utf-8-sig', 'replace')
+                _rb_sources.append(_rb_text)
+            _rb_raw = '\n'.join(_rb_sources)
 
             _rb_pairs = []
             _rb_old = None

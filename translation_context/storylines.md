@@ -2081,3 +2081,23 @@ step源1136—1178的重试、道歉、电视及jen21复用链已连读。三处
 
 ## 2026-09-13 日记事件返回值复核
 调度返回值已静态核实：event.next先弹出已调用项；None继续、abort清空当前stack、带pool的下一任务交ctx.next、clear执行crowd.discard(ctx)。Step.next移除旧任务并挂载新任务；Flow.next更新step，Trackable.next另记录done。jen16.jenny_miss仅加rage并转retry，不写日记；成功入口的abort和jen17_intro都会依次处理。以上证明清除与推进机制，不证明不存在未来显式重新挂载。
+
+
+## 2026-09-13 短信发送者与主语复核
+messages.rpy按init/mesg注册顺序整理37条，注释标明事件键、发送者和源行号。grace_late是Grace再次自报身份，不是第三人称说她又来了；maria_baby1/2均由Tony发出，Taking Maria...省略的是发送者主语，不能误作让主角送院的命令。
+
+
+## 2026-09-13 卡拉OK邀请与短信合组
+卡拉OK短信链：mel02.eve_ask把erik_karaoke2作为misc传入对白，源579的[misc.what!t]负责译文展示；对白返回后依次recv erik_karaoke1/2，并把Erik标已读。预约为当天进入eve_delay，否则eve_pause。源594/596/642区分明天、指定星期和今晚；host是邀请大家来家里唱歌，避免主持节目的正式语气。rec排期及anon_karaoke如何进入聊天历史仍待核。
+
+
+## 2026-09-13 手机消息存储与排期复核
+卡拉OK收件链已静态闭环至手机：recv以time.now作为默认时间，追加后按时间排序；chat按m.who筛选联系人并合并时间标签。mel02依次recv的两条Erik回复保留顺序。rec从delay开始逐时段寻找满足dow/tod及req(plan)的安排，所以日期由可用安排决定。anon_karaoke目前仅确认定义，未发现直接属性访问；动态使用仍可能存在，保留译文，不据此删项。
+
+
+## 2026-09-13 调色结果与重试对白复核
+bar05调色路径已复核：选择两种颜料后combo比较mix/goal，错误延迟返回False，全部目标完成返回True；Schedule.event以is not None判定结果，False可正确传出。mini.paint原样return _return；bar05源796按not _return进入安慰并跳retry，成功接源820/823赞扬。中文提示与分支一致，不需改写。
+
+
+## 2026-09-13 简单难度与任务反馈合组
+简单难度返回值必须区别：mini.cook直接True；mini.courier直接2，只有3才进入ano07/pizza_boxes的完美评价与奖励分支；mini.garden返回(100,False)，diane_plot取第0项。pizza_boxes接入时Tony优先于Maria，两人的反馈均区分3/非零/零，场景切换前用dynamic mini保留结果。现有中文的普通成功与完美评价差异符合分支，不统一成全部完美。
