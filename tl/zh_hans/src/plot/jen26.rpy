@@ -2638,7 +2638,7 @@ translate zh_hans jen26_outro_creampie_ba382acd:
 translate zh_hans jen26_outro_creampie_770f220b:
 
     # anon "It's not like you can get {i}more{/i} pregnant."
-    anon "反正你都怀孕了，又不可能{i}更怀孕{/i}。"
+    anon "反正你都怀孕了，又不可能{i}再怀孕{/i}。"
 
 # game/src/plot/jen26.rpy:943
 translate zh_hans jen26_outro_creampie_3109fb58:

@@ -802,7 +802,7 @@ translate zh_hans jen24_jenny_reuse_cc338b5d:
 translate zh_hans jen24_jenny_reuse_466594bd:
 
     # jenny "Here I am, offering to fuck your brains out, and you're whining about stupid handcuffs!"
-    jenny "我都主动要把你肏到脑子发白了，你还在为一副破手铐唧唧歪歪！"
+    jenny "我都主动要把你肏到脑子一片空白了，你还在为一副破手铐唧唧歪歪！"
 
 # game/src/plot/jen24.rpy:353
 translate zh_hans jen24_jenny_reuse_56ad5840:

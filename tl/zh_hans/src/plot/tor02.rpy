@@ -1342,7 +1342,7 @@ translate zh_hans tor02_flake_302af377:
 translate zh_hans tor02_flake_eef1abfb:
 
     # anon a_facepalm "Sheesh, I totally forgot about that [saga.cast.judith]... my bad!"
-    anon a_facepalm "天哪，我完全忘了那件事[saga.cast.judith]……我的错！"
+    anon a_facepalm "哎呀，我把那事忘得一干二净了，[saga.cast.judith]……是我的错！"
 
 # game/src/plot/tor02.rpy:634
 translate zh_hans tor02_flake_bf11d0e0:

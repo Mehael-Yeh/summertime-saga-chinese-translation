@@ -1210,7 +1210,7 @@ translate zh_hans tor03_tori2_fail_3075c017:
 translate zh_hans tor03_tori2_fail_b74ef9c0:
 
     # tori "Yes, yes. Just get back here and finish this soon."
-    tori "是的，是的。快回来，赶紧结束这一切。"
+    tori "行了，行了。赶紧回来把这东西弄好。"
 
 # game/src/plot/tor03.rpy:594
 translate zh_hans tor03_tori2_fail_05681e37:

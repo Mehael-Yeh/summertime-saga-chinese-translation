@@ -946,7 +946,7 @@ translate zh_hans tin_vault_vault_merge2_77db6d81:
 translate zh_hans tin_vault_vault_merge2_0292bd70:
 
     # tina "You go on and enjoy the rest of your day."
-    tina "你去忙吧，今天好好放松一下。"
+    tina "剩下的时间就好好放松一下吧。"
 
 # game/src/plot/tin_vault.rpy:355
 translate zh_hans tin_vault_vault_merge2_22b25916:

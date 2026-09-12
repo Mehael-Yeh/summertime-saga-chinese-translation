@@ -315,3 +315,10 @@ tin_dusk的Cool.与Cool, cool, cool.是确认约定后的回应与紧张重复�
 - lampredotto沿用原文意大利食品名；mar_couch下文已有三明治解释，不杜撰“灯笼牛肚”。
 
 新增51条具体语境回归，sentence_patterns.json累计545条。仍按文件、源句及必要时的ID限定适用范围。
+
+## 2026-09-12 筛查复核补充
+
+- 同角色同语境告别统一：tin_baby的all/both分别为“大家／你们俩回头见”，不擅加“再来看”。
+- Tony的visualization统一为“想象法”，与ano15教学及mar_dark提醒一致；教父关系和赶到披萨店的电话提醒按同源句统一。
+- 道具名称中的Dillon、Harold保留英文；Dirty Harold与商店商品名一致。月份及June姓名规则不变。
+- 句式回归累计638条，约束具体语境，不是全局替换表。Tina获用户认可的原译保留，Melody同类pound表达也恢复原有粗口力度。

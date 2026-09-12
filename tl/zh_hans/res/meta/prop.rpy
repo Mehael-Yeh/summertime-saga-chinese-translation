@@ -290,7 +290,7 @@ translate zh_hans strings:
     new "开胃小食"
     # game/res/meta/prop.rpym:129
     old "An extremely graphic depiction about the ways of French love."
-    new "极其露骨地描绘了法国爱情的方式"
+    new "一本极其露骨地描写法式情爱的书。"
     # game/res/meta/prop.rpym:131
     old "Quick Mafs!"
     new "速算！"
@@ -302,7 +302,7 @@ translate zh_hans strings:
     new "《俄狄浦斯王》"
     # game/res/meta/prop.rpym:135
     old "Doin' it the ancient way."
-    new "以古老的方式行事。"
+    new "古人的那一套。"
     # game/res/meta/prop.rpym:137
     old "Kama Sutra"
     new "《爱经》"
@@ -1169,10 +1169,10 @@ translate zh_hans strings:
     new "“荆棘冠阳具”的Fappening卡牌。"
     # game/res/meta/prop.rpym:632
     old "Dillon"
-    new "狄龙"
+    new "Dillon"
     # game/res/meta/prop.rpym:633
     old "The Fappening card for Dillon."
-    new "狄龙的Fappening卡牌"
+    new "Dillon的Fappening卡牌。"
     # game/res/meta/prop.rpym:635
     old "The Flying Cock Goblin"
     new "飞天公鸡哥布林"
@@ -1328,7 +1328,7 @@ translate zh_hans strings:
     new "双头假阳具，双倍乐趣！"
     # game/res/meta/prop.rpym:713
     old "Sex Doll \"Dirty Harold\""
-    new "性爱娃娃“肮脏的哈罗德”"
+    new "性爱娃娃“Dirty Harold”"
     # game/res/meta/prop.rpym:714
     old "A strange sex doll of a man with a moustache."
     new "一个奇怪的留着胡子的男人性爱娃娃。"

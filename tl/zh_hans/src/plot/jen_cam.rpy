@@ -1072,7 +1072,7 @@ translate zh_hans jen_cam_lickjob_4985e7ce:
 translate zh_hans jen_cam_lickjob_e94ee835:
 
     # jenny a_hips f_horny "I'm going to cum all over that idiot face of yours!"
-    jenny a_hips f_horny "我要在你那张蠢脸上高潮，喷得你满脸都是！"
+    jenny a_hips f_horny "我要把你那张蠢脸喷得湿透！"
 
 # game/src/plot/jen_cam.rpy:475
 translate zh_hans jen_cam_sex_024730a6:

@@ -126,7 +126,7 @@ translate zh_hans mel_office_merge_4d21051e:
 # game/src/plot/mel_office.rpy:82
 translate zh_hans mel_office_merge_ee6678e4:
     # melody "I'm gonna cum so hard!"
-    melody "我快高潮了，这次会很猛！"
+    melody "我要爽到不行了！"
 
 # game/src/plot/mel_office.rpy:84
 translate zh_hans mel_office_merge_ae610c47:

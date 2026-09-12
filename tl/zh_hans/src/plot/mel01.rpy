@@ -268,13 +268,13 @@ translate zh_hans mel01_intro_ea44b2a3:
 translate zh_hans mel01_intro_b6e75680:
 
     # melody "Now, I wanted to remind everybody that the musical talent show is coming up, very soon."
-    melody "现在，我想提醒大家，音乐才艺表演就要来了，很快。"
+    melody "提醒大家，音乐才艺表演很快就要开始了。"
 
 # game/src/plot/mel01.rpy:124
 translate zh_hans mel01_intro_131a89b9:
 
     # melody "... And we still have a lot of open slots that need to be filled."
-    melody "……而且我们还有很多空缺需要填补。"
+    melody "……还有不少节目名额，等着大家报名呢。"
 
 # game/src/plot/mel01.rpy:126
 translate zh_hans mel01_intro_e35ebaba:

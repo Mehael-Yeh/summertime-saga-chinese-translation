@@ -496,7 +496,7 @@ translate zh_hans mel06_kevin_merge1_b8d3b8ae:
 # game/src/plot/mel06.rpy:280
 translate zh_hans mel06_kevin_merge1_978ded69:
     # anon "She's supposed to close out the show with a speech."
-    anon "她本应该以一场演讲结束这场演出。"
+    anon "本来该由她上台致辞，给演出收尾的。"
 
 # game/src/plot/mel06.rpy:282
 translate zh_hans mel06_kevin_merge1_d91a992e:
@@ -1476,7 +1476,7 @@ translate zh_hans mel06_office4_dcac1e03_1:
 # game/src/plot/mel06.rpy:791
 translate zh_hans mel06_office4_50ccb436:
     # melody "Pound that pussy, sugar!"
-    melody "用力肏我，甜心！"
+    melody "猛肏我的骚屄，甜心！"
 
 # game/src/plot/mel06.rpy:792
 translate zh_hans mel06_office4_83eafc87:

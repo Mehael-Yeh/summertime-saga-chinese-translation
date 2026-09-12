@@ -2260,7 +2260,7 @@ translate zh_hans deb_mall_debbie_handjob_a5067c7d:
 translate zh_hans deb_mall_debbie_handjob_ebb7eb52:
 
     # anon f_horny "It's just, they're so soft and I love the way you stroke it for me."
-    anon f_horny "只是它们太柔软了，我喜欢你为我抚摸它的方式。"
+    anon f_horny "就是觉得你的手特别软，你这样帮我撸，我很喜欢。"
 
 # game/src/plot/deb_mall.rpy:927
 translate zh_hans deb_mall_debbie_handjob_0aee27a8:

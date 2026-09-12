@@ -40,7 +40,7 @@ translate zh_hans mar_baby_wait_cc06bc52:
 
 
     # tony "I need you down here at the pizzeria ASAP!"
-    tony "我需要你马上赶到披萨店来！"
+    tony "我需要你尽快赶到披萨店来！"
 
 # game/src/plot/mar_baby.rpy:21
 translate zh_hans mar_baby_wait_d0e50d52:
@@ -110,7 +110,7 @@ translate zh_hans mar_baby_wait_redo_cc06bc52:
 
 
     # tony "I need you down here at the pizzeria ASAP!"
-    tony "我需要你尽快来披萨店一趟！"
+    tony "我需要你尽快赶到披萨店来！"
 
 # game/src/plot/mar_baby.rpy:42
 translate zh_hans mar_baby_wait_redo_addf0db6:
@@ -208,7 +208,7 @@ translate zh_hans mar_baby_tell_3702b5c6:
 
 
     # tony a_hip_single "I mean, you're gonna be the godfather, ain't ya?"
-    tony a_hip_single "我是说，你马上就要当教父了，对吧？"
+    tony a_hip_single "你可是要当孩子的教父，对吧？"
 
 # game/src/plot/mar_baby.rpy:77
 translate zh_hans mar_baby_tell_2c5e7926:

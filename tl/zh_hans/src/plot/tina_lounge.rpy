@@ -47,7 +47,7 @@ translate zh_hans tina_lounge_skip_292571bc:
 
 
     # anon @ -m_talk "( Feels kinda a rude to loiter in here. )"
-    anon @ -m_talk "（在这里闲逛感觉有点失礼。）"
+    anon @ -m_talk "（一直待在这里好像不太礼貌。）"
 
 # game/src/plot/tina_lounge.rpy:48
 translate zh_hans tina_lounge_tina_bca3ac64:

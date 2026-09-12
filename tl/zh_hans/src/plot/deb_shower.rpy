@@ -2050,7 +2050,7 @@ translate zh_hans deb_shower_handjob1_ebcb9e93:
 translate zh_hans deb_shower_handjob1_eff208c9:
 
     # anon "Everything about this gives me happy thoughts."
-    anon "只要和你在一起，我就满脑子都是开心的事。"
+    anon "眼下这一切，都让我满脑子是开心的事。"
 
 # game/src/plot/deb_shower.rpy:818
 translate zh_hans deb_shower_handjob1_0dafa05f:

@@ -1711,13 +1711,13 @@ translate zh_hans tin_baby_rest_misc2_386dfa4d:
 translate zh_hans tin_baby_rest_outro_66b59a81:
 
     # anon "I guess I'll see you all later."
-    anon "那大家回头见吧。"
+    anon "那，大家回头见。"
 
 # game/src/plot/tin_baby.rpy:759
 translate zh_hans tin_baby_rest_outro_609fc409:
 
     # anon "I guess I'll see you both later."
-    anon "我想我晚点再见你们俩。"
+    anon "那，你们俩回头见。"
 
 # game/src/plot/tin_baby.rpy:761
 translate zh_hans tin_baby_rest_outro_8e4be2f5:

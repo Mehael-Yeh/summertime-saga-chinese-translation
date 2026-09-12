@@ -152,7 +152,7 @@ translate zh_hans mar_dark_maria_6cf0d379:
 
 
     # tony "Oh, and don't forget the visualization thing we talked about!"
-    tony "哦，还有我们之前说过的意念法，可别忘了！"
+    tony "哦，别忘了咱们说的那个想象法！"
 
 # game/src/plot/mar_dark.rpy:97
 translate zh_hans mar_dark_maria_4ffde4f8:

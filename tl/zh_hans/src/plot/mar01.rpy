@@ -236,7 +236,7 @@ translate zh_hans mar01_maria_8b2183f2:
 
 
     # maria "But I must be doin' okay, to keep gettin' this kinda reaction outta a young buck like you."
-    maria "不过，能让你这样的小伙子一再动心，看来我也不算太差嘛。"
+    maria "不过，能让你这样的小伙子一再有这种反应，看来我也不算太差嘛。"
 
 # game/src/plot/mar01.rpy:77
 translate zh_hans mar01_maria_4e2d8824:
@@ -1049,7 +1049,7 @@ translate zh_hans mar01_maria_merge_a884915f:
 
 
     # maria "Now beat it, would ya?!"
-    maria "好啦，快去吧，行不行？！"
+    maria "行了，快走吧，行不行？！"
 
 # game/src/plot/mar01.rpy:311
 translate zh_hans mar01_maria_merge_94a65b21:
