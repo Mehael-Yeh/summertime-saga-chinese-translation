@@ -2002,7 +2002,7 @@ translate zh_hans deb08_stall1_alt2_52bd37c8:
 translate zh_hans deb08_stall1_alt2_9e2f82e2:
 
     # debbie "I won't hear another word about it, Mister!"
-    debbie "不许再说了，先生！"
+    debbie "不许再说了，你这小子！"
 
 # game/src/plot/deb08.rpy:833
 translate zh_hans deb08_stall1_fence_8d33f673:

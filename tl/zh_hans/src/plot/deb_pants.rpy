@@ -298,7 +298,7 @@ translate zh_hans deb_pants_merge_05ec2bdb:
 translate zh_hans deb_pants_merge_3a04c9e2:
 
     # anon @ e_b "Haah, I'm getting close, [saga.cast.debbie]!"
-    anon @ e_b "哈啊，我快到了，[saga.cast.debbie]！"
+    anon @ e_b "哈啊，我快射了，[saga.cast.debbie]！"
 
 # game/src/plot/deb_pants.rpy:126
 translate zh_hans deb_pants_merge_81d7040e:

@@ -1533,6 +1533,18 @@
       "category": "english_residual",
       "translation": "令人着迷",
       "note": "普通英语形容词。"
+    },
+    {
+      "id": "debbie_mister_context",
+      "source_regex": "^(?:I\\ won't\\ hear\\ another\\ word\\ about\\ it,\\ Mister!|Eyes\\ on\\ the\\ TV,\\ mister\\.|I\\ mean\\ it,\\ mister!|What\\ are\\ you\\ up\\ to,\\ mister\\?!|Absolutely\\ not,\\ mister!|I\\ think\\ you'd\\ better\\ go\\ before\\ you\\ find\\ yourself\\ in\\ a\\ whole\\ heap\\ of\\ trouble,\\ mister!|You\\ better\\ not\\ be\\ doing\\ what\\ I\\ think\\ you're\\ doing,\\ mister!)$",
+      "target_regexes": [
+        "^(?!.*先生).+$"
+      ],
+      "category": "character_address",
+      "speaker": "Debbie",
+      "addressee": "Anon",
+      "translation": "按语境使用你这小子／小坏蛋，或以整句嗔怪、警告承载",
+      "note": "Debbie 对 Anon 的句尾 mister 是熟人间的嗔怪、提醒或警告，不是礼貌尊称“先生”。调侃可译“小坏蛋”，轻斥可译“你这小子”，严肃拒绝可省略称呼，以“想都别想”“我可没跟你开玩笑”等整句语气承载；不强制每次使用同一中文称呼，不把认真划界一律写成调情。deb01.rpy 电话中的 mister 指威胁者，不套用亲昵称呼；其他说话人单独判断。 审计仅覆盖已核实的7句；新增mister命中须先确认说话人与对象。"
     }
   ]
 }

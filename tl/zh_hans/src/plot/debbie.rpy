@@ -868,7 +868,7 @@ translate zh_hans debbie_debbie_yard_intro4b_4a7f5600:
 translate zh_hans debbie_debbie_yard_intro4b_69ae205d:
 
     # debbie "I mean it, mister!"
-    debbie "我说真的，先生！"
+    debbie "我可没跟你开玩笑！"
 
 # game/src/plot/debbie.rpy:618
 translate zh_hans debbie_debbie_yard_intro4b_de7bfb90:

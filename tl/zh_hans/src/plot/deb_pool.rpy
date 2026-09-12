@@ -70,7 +70,7 @@ translate zh_hans deb_pool_4e6e91f9:
 translate zh_hans deb_pool_76bf7ce5:
 
     # debbie f_annoyed p_sit "You better not be doing what I think you're doing, mister!"
-    debbie f_annoyed p_sit "你最好不是在做我想的那件事，先生！"
+    debbie f_annoyed p_sit "你这小子，最好不是在做我想的那件事！"
 
 # game/src/plot/deb_pool.rpy:17
 translate zh_hans deb_pool_38635429:

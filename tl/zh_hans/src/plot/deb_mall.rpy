@@ -370,7 +370,7 @@ translate zh_hans deb_mall_debbie_merge1_2ccea002:
 translate zh_hans deb_mall_debbie_merge1_dae05690:
 
     # debbie f_annoyed p_car_turn "Absolutely not, mister!"
-    debbie f_annoyed p_car_turn "绝对不行，先生！"
+    debbie f_annoyed p_car_turn "想都别想！"
 
 # game/src/plot/deb_mall.rpy:203
 translate zh_hans deb_mall_debbie_merge1_f701747d:

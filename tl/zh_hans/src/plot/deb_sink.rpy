@@ -1102,7 +1102,7 @@ translate zh_hans deb_sink_deny2_6ce370fa:
 translate zh_hans deb_sink_deny2_b8486f50:
 
     # debbie f_calm "I think you'd better go before you find yourself in a whole heap of trouble, mister!"
-    debbie f_calm "我看你最好赶紧走，不然可就要惹出大麻烦了，先生！"
+    debbie f_calm "你这小坏蛋，我看你最好赶紧走，免得惹出大麻烦来！"
 
 # game/src/plot/deb_sink.rpy:449
 translate zh_hans deb_sink_deny2_8c5af117:
