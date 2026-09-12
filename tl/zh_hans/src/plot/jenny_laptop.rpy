@@ -100,7 +100,7 @@ translate zh_hans jenny_laptop_near_1f6b04da:
 translate zh_hans jenny_laptop_pink_7129a113:
 
     # anon "( [saga.cast.jenny] has a pink account?! )"
-    anon "（[saga.cast.jenny]居然有Pink Channel账号？！）"
+    anon "（[saga.cast.jenny]居然有Pink频道账号？！）"
 
 # game/src/plot/jenny_laptop.rpy:71
 translate zh_hans jenny_laptop_pink_f83b612a:

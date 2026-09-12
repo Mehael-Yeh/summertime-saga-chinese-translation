@@ -358,7 +358,7 @@ translate zh_hans jen10_lobby_alt_8ccb5cad:
 translate zh_hans jen10_lobby_alt_455da9e4:
 
     # anon a_pocket e_w f_worried @ f_sceptical "Yeah, I guess... if you say please."
-    anon a_pocket e_w f_worried @ f_sceptical "好吧，我想……如果你说请的话。"
+    anon a_pocket e_w f_worried @ f_sceptical "行吧……你求我一声，我就给。"
 
 # game/src/plot/jen10.rpy:125
 translate zh_hans jen10_lobby_alt_35838449:
@@ -1726,7 +1726,7 @@ translate zh_hans jen10_grace_merge_01fe63d0:
 translate zh_hans jen10_grace_rails_3fa38835:
 
     # jenny "Umm, hello?!"
-    jenny "呃，你好？！"
+    jenny "喂，听见没有？！"
 
 # game/src/plot/jen10.rpy:636
 translate zh_hans jen10_grace_rails_4d9e038c:
@@ -1960,7 +1960,7 @@ translate zh_hans jen10_shop_2d6f31da:
 translate zh_hans jen10_shop_0cdb9eaf:
 
     # jenny a_wave_off f_disgusted "You know what, nevermind..."
-    jenny a_wave_off f_disgusted "算了，没什么……"
+    jenny a_wave_off f_disgusted "算了，当我没问……"
 
 # game/src/plot/jen10.rpy:706
 translate zh_hans jen10_shop_dc036f6b:

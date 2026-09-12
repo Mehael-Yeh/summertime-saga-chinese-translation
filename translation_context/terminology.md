@@ -892,3 +892,7 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 ## 用户确认的界面用词
 
 bytecode_strings.rpy中的Narrative统一译为“叙事”，包括孕中期、孕晚期变体；它是内容类别，不译“旁白”。其他语境的narrative仍按实际含义判断。Princess [saga.cast.jenny]统一为“[saga.cast.jenny]公主”。
+
+
+## 2026-09-13 地点与场景名称批次
+场景名称按实体用途翻译：tammy_den的Den为起居室，不能与洞穴Nest的巢穴混同；yacht_cabin的Cabin为船舱；factory_cargo的Loading Dock为装卸区；pool_medic的Medic Stall为救护间。factory_main.alt的Access Road为进出道路；forest_main.alt的Path为林间小径。Apartment编号写作102号公寓，Recovery Room编号写作1号康复室；人物住宅统一为“[角色]的家”。上述规则仅适用于已确认实体，不对普通对白中的同形词盲目替换。

@@ -550,7 +550,7 @@ translate zh_hans jos01_yoo_josie_079a0dc4:
 translate zh_hans jos01_yoo_josie_24f707bb:
 
     # anon e_w f_disgusted @ -m_talk "( Uhhh, I really don't want to speak to that other guy again. )"
-    anon e_w f_disgusted @ -m_talk "（呃，我真的不想再跟另一个家伙说话了。）"
+    anon e_w f_disgusted @ -m_talk "（呃，我真不想再去跟那个销售员说话了。）"
 
 # game/src/plot/jos01.rpy:246
 translate zh_hans jos01_josie1_97405d61:

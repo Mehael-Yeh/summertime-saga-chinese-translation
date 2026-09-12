@@ -424,7 +424,7 @@ translate zh_hans deb05_laundry_c539309d:
 translate zh_hans deb05_laundry_8caa7d4b:
 
     # debbie "You'd better be careful, cause a girl could get used to this..."
-    debbie "你最好小心点，不然女孩子可是会习惯成自然的……"
+    debbie "你可得当心，再这样宠下去，我会习惯的……"
 
 # game/src/plot/deb05.rpy:186
 translate zh_hans deb05_laundry_14414ffd:
@@ -814,13 +814,13 @@ translate zh_hans deb05_debbie_4594bda2:
 translate zh_hans deb05_debbie_c8bc8a8d:
 
     # anon e_e f_happy "One extra special leg massage, coming right up!"
-    anon e_e f_happy "特别护理版腿部按摩，这就来！"
+    anon e_e f_happy "那就给你来套特别的腿部按摩！"
 
 # game/src/plot/deb05.rpy:348
 translate zh_hans deb05_debbie_f7a04251:
 
     # debbie @ f_curious "Oh, I get to experience the extra special version, huh?"
-    debbie @ f_curious "哦，看来我要享受特别护理版了，是吧？"
+    debbie @ f_curious "哦，还有特别版让我体验呀？"
 
 # game/src/plot/deb05.rpy:350
 translate zh_hans deb05_debbie_152bd5c1:
@@ -892,7 +892,7 @@ translate zh_hans deb05_debbie_5171e1d9:
 translate zh_hans deb05_debbie_1b925061:
 
     # anon e_sse "It's smooth as silk down here."
-    anon e_sse "这下面滑得像丝绸一样。"
+    anon e_sse "你腿上的皮肤滑得像丝绸一样。"
 
 # game/src/plot/deb05.rpy:369
 translate zh_hans deb05_debbie_7dd9cf73:

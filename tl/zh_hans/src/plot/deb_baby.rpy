@@ -898,7 +898,7 @@ translate zh_hans deb_baby_late_mood_c5d3da1a:
 translate zh_hans deb_baby_late_mood_8bbc6b2b:
 
     # debbie a_wtf f_happy "And why shouldn't I be?"
-    debbie a_wtf f_happy "我为什么不该开心？"
+    debbie a_wtf f_happy "我当然开心啦！"
 
 # game/src/plot/deb_baby.rpy:452
 translate zh_hans deb_baby_late_mood_71e44587:
@@ -1978,7 +1978,7 @@ translate zh_hans deb_baby_bump_help1_1c82fbf1:
 translate zh_hans deb_baby_bump_help2_0b50304b:
 
     # anon f_confused "Want help with that?"
-    anon f_confused "需要帮忙拿吗？"
+    anon f_confused "要我搭把手吗？"
 
 # game/src/plot/deb_baby.rpy:911
 translate zh_hans deb_baby_bump_merge_690ba373:
@@ -2422,7 +2422,7 @@ translate zh_hans deb_baby_belly_food1_f29d57e3:
 translate zh_hans deb_baby_belly_food1_52b1f865:
 
     # debbie a_mayo_dip f_calm m_chew @ -m_talk "Om nom nom."
-    debbie a_mayo_dip f_calm m_chew @ -m_talk "嗷唔嗷唔嗷唔。"
+    debbie a_mayo_dip f_calm m_chew @ -m_talk "嗷呜嗷呜嗷呜。"
 
 # game/src/plot/deb_baby.rpy:1140
 translate zh_hans deb_baby_belly_food1_a941cac4:
@@ -2950,7 +2950,7 @@ translate zh_hans deb_baby_belly_pool_d46280bd:
 translate zh_hans deb_baby_belly_pool_2a99945b:
 
     # anon "Can't blame a guy for trying, can you?"
-    anon "总不能怪我试都不试一下吧？"
+    anon "我也就试着问问，这总不为过吧？"
 
 # game/src/plot/deb_baby.rpy:1355
 translate zh_hans deb_baby_read2_b33f081b:
@@ -3310,7 +3310,7 @@ translate zh_hans deb_baby_meet_cb5ae2fd:
 translate zh_hans deb_baby_meet_525e5ae5:
 
     # anon "I'm going to spoil you rotten."
-    anon "以后非把你宠坏不可。"
+    anon "以后非得宠上天不可。"
 
 # game/src/plot/deb_baby.rpy:1501
 translate zh_hans deb_baby_meet_ea70a514:

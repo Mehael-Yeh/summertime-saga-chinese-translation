@@ -351,7 +351,7 @@ translate zh_hans mel05_music_7fe53263:
 # game/src/plot/mel05.rpy:184
 translate zh_hans mel05_music_74f5ca7a:
     # eve "It took [saga.cast.tori] twenty minutes to get him sorted out."
-    eve "花了[saga.cast.tori]二十分钟才把他弄好。"
+    eve "[saga.cast.tori]花了二十分钟才把他的手弄下来。"
 
 # game/src/plot/mel05.rpy:186
 translate zh_hans mel05_music_614f541e:
@@ -506,7 +506,7 @@ translate zh_hans mel05_science_325ed29a:
 # game/src/plot/mel05.rpy:286
 translate zh_hans mel05_science_fcd579a0:
     # anon "Dude... It's stuck!"
-    anon "老兄……它卡住了！"
+    anon "老兄……粘住了！"
 
 # game/src/plot/mel05.rpy:290
 translate zh_hans mel05_science_3a14e704:
@@ -1011,7 +1011,7 @@ translate zh_hans mel05_school_c12b763b:
 # game/src/plot/mel05.rpy:606
 translate zh_hans mel05_school_bf4bbbf6:
     # anon "Heh, that's kind of the point, dude."
-    anon "嘿，这差不多就是重点，老兄。"
+    anon "嘿，要的就是这个效果，老兄。"
 
 # game/src/plot/mel05.rpy:609
 translate zh_hans mel05_school_f6f30adb:
@@ -1081,7 +1081,7 @@ translate zh_hans mel05_school_alt_a141a187:
 # game/src/plot/mel05.rpy:655
 translate zh_hans mel05_school_alt_1b4226d0:
     # anon "Nah, not really. I pinched it from Mrs. [saga.cast.ursula.clan]'s desk."
-    anon "不，并不完全是。我从[saga.cast.ursula.clan]夫人的桌子上顺来的。"
+    anon "其实也没什么好说的。我从[saga.cast.ursula.clan]夫人的桌子上顺来的。"
 
 # game/src/plot/mel05.rpy:657
 translate zh_hans mel05_school_alt_6dd3ab72:
@@ -1326,7 +1326,7 @@ translate zh_hans mel05_office1_7c300342:
 # game/src/plot/mel05.rpy:811
 translate zh_hans mel05_office1_f662501d:
     # anon "Yeah, I'm right behind you!"
-    anon "耶，我就在你后面！"
+    anon "好，我跟着你！"
 
 # game/src/plot/mel05.rpy:821
 translate zh_hans mel05_office1_11f5c8e7:

@@ -190,13 +190,13 @@ translate zh_hans dia02_diane_merge_6860872d:
 translate zh_hans dia02_diane_merge_fda72dfd:
 
     # diane "I keep a compost heap just over here, behind the house."
-    diane "我在这里，房子后面堆了一个肥料堆。"
+    diane "房子后面那儿有个堆肥堆。"
 
 # game/src/plot/dia02.rpy:62
 translate zh_hans dia02_diane_merge_ff47745a:
 
     # anon "Compost?"
-    anon "肥料？"
+    anon "堆肥？"
 
 # game/src/plot/dia02.rpy:63
 translate zh_hans dia02_diane_merge_cae31a86:
@@ -214,7 +214,7 @@ translate zh_hans dia02_diane_merge_ec8d8f28:
 translate zh_hans dia02_diane_merge_c2473dbb:
 
     # diane e_w f_calm -m_laugh "Compost is a valuable resource for a gardener, [saga.cast.anon]!"
-    diane e_w f_calm -m_laugh "肥料对园丁来说是宝贵的资源，[saga.cast.anon]！"
+    diane e_w f_calm -m_laugh "堆肥可是园丁的宝贝，[saga.cast.anon]！"
 
 # game/src/plot/dia02.rpy:67
 translate zh_hans dia02_diane_merge_bd209518:
@@ -490,7 +490,7 @@ translate zh_hans dia02_diane_merge_8cb70cac:
 translate zh_hans dia02_diane_merge_42706eb9:
 
     # anon "There are guys much bigger than me at school."
-    anon "学校里有很多比我大的家伙。"
+    anon "学校里多的是比我壮的家伙。"
 
 # game/src/plot/dia02.rpy:161
 translate zh_hans dia02_diane_merge_dce7b0f9:
@@ -820,7 +820,7 @@ translate zh_hans dia02_diane_fail_9666c4e7:
 translate zh_hans dia02_retry_e22e74db:
 
     # anon "Still need help moving that wheelbarrow?"
-    anon "还需要帮忙搬那辆独轮车吗？"
+    anon "那辆手推车还需要我帮忙推吗？"
 
 # game/src/plot/dia02.rpy:289
 translate zh_hans dia02_retry_a51f7533:

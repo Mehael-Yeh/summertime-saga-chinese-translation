@@ -4,7 +4,7 @@
 translate zh_hans diane_plot_diane_33daf976:
 
     # anon f_calm "Please could I have my wages?"
-    anon f_calm "请问我能领工资吗？"
+    anon f_calm "能把工钱结给我吗？"
 
 # game/src/plot/diane_plot.rpy:11
 translate zh_hans diane_plot_diane_eea0204a:

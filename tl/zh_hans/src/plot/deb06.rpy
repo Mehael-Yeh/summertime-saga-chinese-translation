@@ -22,7 +22,7 @@ translate zh_hans deb06_intro_8619676d:
 translate zh_hans deb06_intro_614388e3:
 
     # anon a_smell_finger e_b f_happy @ -m_talk "( Tsk, the smell of her lotion has almost faded and with it, I fear the memories might also. )"
-    anon a_smell_finger e_b f_happy @ -m_talk "（啧，她润肤露的味道都快散光了，再这样下去，连那些回忆都要一起淡掉了。）"
+    anon a_smell_finger e_b f_happy @ -m_talk "（啧，她润肤乳的味道都快散光了，再这样下去，连那些回忆都要一起淡掉了。）"
 
 # game/src/plot/deb06.rpy:9
 translate zh_hans deb06_intro_9cfd2267:
@@ -448,7 +448,7 @@ translate zh_hans deb06_lotion_merge_b98c17da:
 translate zh_hans deb06_lotion_merge_a17f1958:
 
     # anon a_shy_neck e_ese "I wanted to borrow some of your lotion and then I started feeling lightheaded... so I laid down..."
-    anon a_shy_neck e_ese "我本来只是想借点你的润肤露……后来突然觉得头晕，所以就躺下了……"
+    anon a_shy_neck e_ese "我本来只是想借点你的润肤乳……后来突然觉得头晕，所以就躺下了……"
 
 # game/src/plot/deb06.rpy:203
 translate zh_hans deb06_lotion_merge_a047e32e:
@@ -652,7 +652,7 @@ translate zh_hans deb06_lotion_bed1_ef1de015:
 translate zh_hans deb06_lotion_bed1_dcf2faaf:
 
     # anon @ -m_talk "( Even though I don't think she would mind my borrowing some of her lotion... )"
-    anon @ -m_talk "（虽然我觉得她应该不会介意我借点润肤露……）"
+    anon @ -m_talk "（虽然我觉得她应该不会介意我借点润肤乳……）"
 
 # game/src/plot/deb06.rpy:279
 translate zh_hans deb06_lotion_bed1_6ba66ed1:
@@ -670,7 +670,7 @@ translate zh_hans deb06_lotion_bed1_6cda3151:
 translate zh_hans deb06_lotion_bed1_cf219645:
 
     # anon @ -m_talk "( \"Hi [saga.cast.debbie], it's only me. I'm just here to smell some of your lotion. Go back to sleep.\" )"
-    anon @ -m_talk "（“嗨，[saga.cast.debbie]，是我。我只是来闻闻你的润肤露。你继续睡吧。”）"
+    anon @ -m_talk "（“嗨，[saga.cast.debbie]，是我。我只是来闻闻你的润肤乳。你继续睡吧。”）"
 
 # game/src/plot/deb06.rpy:285
 translate zh_hans deb06_lotion_bed1_9c45a60d:
@@ -682,7 +682,7 @@ translate zh_hans deb06_lotion_bed1_9c45a60d:
 translate zh_hans deb06_reset_63177e46:
 
     # anon @ -m_talk "( Urgh, I'm still thinking about that massage with [saga.cast.debbie]! )"
-    anon @ -m_talk "（唉，我还是会想起和[saga.cast.debbie]按摩的那次经历！）"
+    anon @ -m_talk "（唉，我还是忘不了那次给[saga.cast.debbie]按摩的情景！）"
 
 # game/src/plot/deb06.rpy:296
 translate zh_hans deb06_reset_e19f78aa:

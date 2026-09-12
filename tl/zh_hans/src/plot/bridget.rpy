@@ -88,7 +88,7 @@ translate zh_hans bridget_school_track_intro_634edd56:
 translate zh_hans bridget_school_track_train_9485bb00:
 
     # anon f_worried "I... well, where should I train?"
-    anon f_worried "我……嗯，我应该练什么？"
+    anon f_worried "我……嗯，我该去哪儿训练？"
 
 # game/src/plot/bridget.rpy:68
 translate zh_hans bridget_school_track_train_c70e2e9e:

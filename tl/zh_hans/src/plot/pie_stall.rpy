@@ -51,7 +51,7 @@ translate zh_hans pie_stall_e642de50:
 # game/src/plot/pie_stall.rpy:20
 translate zh_hans pie_stall_44062d94:
     # pietro a_bottle_show p_stand_leg "Be sure to my get abs, eh?"
-    pietro a_bottle_show p_stand_leg "可得帮我练出腹肌，听见没？"
+    pietro a_bottle_show p_stand_leg "腹肌也别漏了，听见没？"
 
 # game/src/plot/pie_stall.rpy:21
 translate zh_hans pie_stall_2135c911:

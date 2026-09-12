@@ -340,13 +340,13 @@ translate zh_hans deb25_bed3_61eeefd2:
 translate zh_hans deb25_bed3_3d18e3dd:
 
     # debbie a_rub_bulge e_se m_lip p_sit_edge_lean s_600ms @ -m_talk "( Mmm, but there's no escape. )"
-    debbie a_rub_bulge e_se m_lip p_sit_edge_lean s_600ms @ -m_talk "（唔……可我根本不想逃。）"
+    debbie a_rub_bulge e_se m_lip p_sit_edge_lean s_600ms @ -m_talk "（唔，可是逃不掉了。）"
 
 # game/src/plot/deb25.rpy:143
 translate zh_hans deb25_bed3_43b6d0fa:
 
     # debbie @ -m_talk "( Not for me. )"
-    debbie @ -m_talk "（至少我不想。）"
+    debbie @ -m_talk "（至少我逃不掉。）"
 
 # game/src/plot/deb25.rpy:144
 translate zh_hans deb25_bed3_cdf074d2:

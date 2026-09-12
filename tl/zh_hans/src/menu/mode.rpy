@@ -12,7 +12,7 @@ translate zh_hans strings:
 
     # game/src/menu/mode.rpy:17
     old "Start with money and stats as there is no way to earn them yet. Extra money can be found in the ATM in the bank. More content will be restored in future releases."
-    new "在无法赚钱的情况下以金钱和属性开局。额外金钱可在银行ATM机中找到。更多内容将在未来版本中恢复。"
+    new "目前尚无法通过游戏获取金钱和提升属性，因此开局会直接提供金钱和属性。需要更多钱时，可到银行的ATM机领取。后续版本将逐步恢复更多内容。"
 
     # game/src/menu/mode.rpy:27
     old "Normal"
@@ -44,10 +44,10 @@ translate zh_hans strings:
 
     # game/src/menu/mode.rpy:42
     old "Money in the bank"
-    new "银行里的钱"
+    new "银行有存款"
 
     # game/src/menu/mode.rpy:43
     old "Play with boosted stats"
-    new "使用强化属性进行游戏"
+    new "以提升后的属性开局"
 
 

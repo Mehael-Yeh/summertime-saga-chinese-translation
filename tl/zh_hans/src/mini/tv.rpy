@@ -8,7 +8,7 @@ translate zh_hans strings:
 
     # game/src/mini/tv.rpy:86
     old "Account input"
-    new "账号输入"
+    new "输入账号"
 
     # game/src/mini/tv.rpy:95
     old "PIN"
@@ -16,4 +16,4 @@ translate zh_hans strings:
 
     # game/src/mini/tv.rpy:108
     old "PIN input"
-    new "密码输入"
+    new "输入密码"

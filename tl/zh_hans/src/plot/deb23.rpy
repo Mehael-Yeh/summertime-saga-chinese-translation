@@ -3972,7 +3972,7 @@ translate zh_hans strings:
 
     # game/src/plot/deb23.rpy:1225
     old "Thick and delicious."
-    new "又浓又美味"
+    new "丰满又诱人"
 
     # game/src/plot/deb23.rpy:1031
     old "Conservative."

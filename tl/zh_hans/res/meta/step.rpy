@@ -10,13 +10,13 @@ translate zh_hans strings:
     new "进入厨房。"
     # game/res/meta/step.rpym:16
     old "I should check in with [saga.cast.debbie] before I leave."
-    new "离开前我应该跟[saga.cast.debbie]确认一下。"
+    new "出门前，我得先跟[saga.cast.debbie]打声招呼。"
     # game/res/meta/step.rpym:18
     old "Leave the house."
     new "离开房子。"
     # game/res/meta/step.rpym:19
     old "Best be on my way, don't want to be late on my first day back."
-    new "最好马上出发，可不想第一天复职就迟到。"
+    new "得赶紧出发，返校第一天可不能迟到。"
     # game/res/meta/step.rpym:21
     old "Visit [saga.cast.erik]'s house."
     new "拜访[saga.cast.erik]的家。"
@@ -28,10 +28,10 @@ translate zh_hans strings:
     new "和[saga.cast.erik]交谈。"
     # game/res/meta/step.rpym:25
     old "Of course [saga.cast.erik] is gaming..."
-    new "当然[saga.cast.erik]在玩游戏……"
+    new "果然，[saga.cast.erik]又在打游戏……"
     # game/res/meta/step.rpym:27
     old "Visit the school."
-    new "参观学校。"
+    new "去学校。"
     # game/res/meta/step.rpym:28
     old "We should hurry to school, don't want to be late on my first day back."
     new "我们得赶紧去学校，我可不想第一天回来就迟到。"
@@ -40,7 +40,7 @@ translate zh_hans strings:
     new "进入学校。"
     # game/res/meta/step.rpym:31
     old "First day back, here we go again."
-    new "第一天回来，我们又开始了。"
+    new "返校第一天，又得开始上课了。"
     # game/res/meta/step.rpym:33
     old "Inspect the stairwell."
     new "仔细检查楼梯间。"
@@ -70,7 +70,7 @@ translate zh_hans strings:
     new "所以女生们现在共用男生更衣室吗？我真希望自己早点到这里！"
     # game/res/meta/step.rpym:51
     old "Visit the track."
-    new "参观跑道。"
+    new "去跑道。"
     # game/res/meta/step.rpym:52
     old "Ugh, it's too hot for gym class."
     new "呃，天气太热了，不适合上体育课。"
@@ -79,7 +79,7 @@ translate zh_hans strings:
     new "太好了，现在我一身臭汗。"
     # game/res/meta/step.rpym:57
     old "Enter the French class."
-    new "进入法语课堂。"
+    new "进入法语教室。"
     # game/res/meta/step.rpym:58
     old "L'heure du français!"
     new "L'heure du français!（法语课时间到！）"
@@ -181,7 +181,7 @@ translate zh_hans strings:
     new "唉，真是太倒霉了，这年头谁还自己取披萨啊？我还是晚点再来吧。"
     # game/res/meta/step.rpym:135
     old "Speak with [saga.cast.tony] about the trial run."
-    new "和[saga.cast.tony]谈谈试运行的事。"
+    new "和[saga.cast.tony]谈谈试送披萨的事。"
     # game/res/meta/step.rpym:136
     old "Right, enough false starts! Time to show [saga.cast.tony] what I can do!"
     new "好了，别再出岔子了！该让[saga.cast.tony]看看我的本事了！"
@@ -190,16 +190,16 @@ translate zh_hans strings:
     new "检查柜台上的披萨盒。"
     # game/res/meta/step.rpym:139
     old "Time for a trial run. I've seen the movies, I know the tropes, but really, how hard can it be to deliver a few pizzas? I got this."
-    new "试运行的时候到了。我看过电影，我知道那些套路，但说真的，送几个披萨能有多难？我能搞定。"
+    new "该试着送一趟了。电影里那些套路我都见过，不过说真的，送几个披萨能有多难？我能行。"
     # game/res/meta/step.rpym:141
     old "Speak to [saga.cast.maria]."
     new "与[saga.cast.maria]交谈。"
     # game/res/meta/step.rpym:142
     old "[saga.cast.maria] sounded formidable, I hope she's willing to let me work here."
-    new "[saga.cast.maria]听起来很厉害，我希望她愿意让我在这里工作。"
+    new "[saga.cast.maria]听着可不好惹，希望她肯让我在这里打工。"
     # game/res/meta/step.rpym:145
     old "That [saga.cast.tony] guy is kinda awesome! I can't believe he gave me a job just like that!"
-    new "那个[saga.cast.tony]家伙有点厉害！真不敢相信他就这样给了我一份工作！"
+    new "[saga.cast.tony]这人真够意思！居然就这么给了我一份工作！"
     # game/res/meta/step.rpym:148
     old "Time to clock in for my shift at the pizzeria again."
     new "又到了该在披萨店打卡上班的时间了。"
@@ -208,16 +208,16 @@ translate zh_hans strings:
     new "再送[max(0, f.need - saga.prop.pizza_boxes.ever)]个披萨。"
     # game/res/meta/step.rpym:151
     old "Bonding with [saga.cast.tony] sure was fun... probably."
-    new "和[saga.cast.tony]建立感情确实很有趣……大概吧。"
+    new "和[saga.cast.tony]增进感情确实挺有趣的……大概吧。"
     # game/res/meta/step.rpym:157
     old "Not to toot my own horn, but I'm kinda crushing this whole pizza delivery gig."
     new "不是我自夸，但我送披萨这份工作干得还挺不错的。"
     # game/res/meta/step.rpym:159
     old "Purchase a vehicle from the dealership."
-    new "从经销商那里购买一辆车。"
+    new "去车行买一辆车。"
     # game/res/meta/step.rpym:160
     old "Fingers crossed the car dealership has something in my price bracket!"
-    new "希望汽车经销商那里有我能买得起的车！"
+    new "希望车行有我买得起的车！"
     # game/res/meta/step.rpym:162
     old "Speak to [saga.cast.tony] about your vehicle."
     new "和[saga.cast.tony]谈谈你的车。"
@@ -232,10 +232,10 @@ translate zh_hans strings:
     new "送外卖可是重要服务！我最好赶紧出发！"
     # game/res/meta/step.rpym:171
     old "Visit the pizzeria before evening."
-    new "傍晚前光临披萨店。"
+    new "傍晚前去披萨店。"
     # game/res/meta/step.rpym:175
     old "Never though I'd be helping cook when I signed up as a delivery boy! Hope [saga.cast.maria] is a good teacher. Ready? Steady? Cook!"
-    new "从没想过我报名当外卖员的时候还要帮忙做饭！希望[saga.cast.maria]是个好老师。准备？稳当？开煮！"
+    new "应聘送餐员时，可没想到还得帮忙做饭！希望[saga.cast.maria]教得好。各就各位，预备——开火！"
     # game/res/meta/step.rpym:178
     old "Holy cannoli, that was awkward! I did get the rest of the day off though, guess I ought to make the most of it."
     new "天啊，真尴尬！不过我今天剩下的时间确实放假了，我想我得好好利用一下。"
@@ -286,7 +286,7 @@ translate zh_hans strings:
     new "前往301号公寓。"
     # game/res/meta/step.rpym:226
     old "The quicker I find 301 the better, this monstrosity is almost beginning to smell good!"
-    new "我越快找到301越好，这怪物开始闻起来都香了！"
+    new "得赶紧找到301，连这份怪模怪样的披萨都快闻着香了！"
     # game/res/meta/step.rpym:232
     old "I can't believe [saga.cast.tony] set me up with an \"extra sausage\" order for [saga.cast.tina]—and that she's [saga.cast.becca]'s mom! Does this mean I'm some kind of pizza gigolo now?!"
     new "真不敢相信[saga.cast.tony]给我安排了给[saga.cast.tina]的“额外香肠”订单——而且她还是[saga.cast.becca]的妈妈！难道我现在成了披萨小白脸了？！"
@@ -295,7 +295,7 @@ translate zh_hans strings:
     new "希望[saga.cast.tony]和[saga.cast.maria]的领养会面进展顺利。"
     # game/res/meta/step.rpym:238
     old "I should go find out how [saga.cast.tony] and [saga.cast.maria] got on at the adoption agency."
-    new "我应该去了解一下[saga.cast.tony]和[saga.cast.maria]在收养机构的情况如何。"
+    new "我该去问问[saga.cast.tony]和[saga.cast.maria]，领养的事谈得怎么样了。"
     # game/res/meta/step.rpym:241
     old "Well, that blows! [saga.cast.tony] and [saga.cast.maria] would be great parents. I hope Eddie can give us a lead."
     new "唉，真糟糕！[saga.cast.tony]和[saga.cast.maria]会是很好的父母。希望埃迪能给我们提供线索。"
@@ -304,10 +304,10 @@ translate zh_hans strings:
     new "[saga.cast.tony]去监狱探望埃迪了，[saga.cast.maria]独自经营着披萨店……但要说谁能应付得来，非她莫属。"
     # game/res/meta/step.rpym:250
     old "Bonding with [saga.cast.maria] sure was something... probably."
-    new "与[saga.cast.maria]培养感情确实是……大概吧。"
+    new "和[saga.cast.maria]增进感情的经历还真不一般……大概吧。"
     # game/res/meta/step.rpym:253
     old "[saga.cast.tony] should be back from his trip by now. I should head to the pizzeria and see if he got anything useful from Eddie."
-    new "[saga.cast.tony]现在应该已经从旅途回来了。我该去披萨店看看，他是否从Eddie那里得到了什么有用的信息。"
+    new "[saga.cast.tony]这会儿应该回来了。我该去披萨店问问，他有没有从埃迪那儿打听到什么有用的消息。"
     # game/res/meta/step.rpym:256
     old "This is crazy! I can't believe [saga.cast.tony] wants me to have sex with [saga.cast.maria]!"
     new "这太疯狂了！我真不敢相信[saga.cast.tony]想让我和[saga.cast.maria]发生关系！"
@@ -331,7 +331,7 @@ translate zh_hans strings:
     new "继续尝试让[saga.cast.maria]怀孕。"
     # game/res/meta/step.rpym:274
     old "[saga.cast.tony] needs to see me urgently at the pizzeria. I wonder what's the matter!"
-    new "[saga.cast.tony]急需在披萨店见我。不知道出什么事了！"
+    new "[saga.cast.tony]有急事找我，让我去披萨店。不知道出什么事了！"
     # game/res/meta/step.rpym:280
     old "Inspect the block of clay."
     new "检查这块黏土。"
@@ -349,7 +349,7 @@ translate zh_hans strings:
     new "和[saga.cast.mia]谈谈美术课。"
     # game/res/meta/step.rpym:287
     old "[saga.cast.barb] wants me to recruit [saga.cast.mia] as my partner for art lessons."
-    new "[saga.cast.barb]想让我招募[saga.cast.mia]作为美术课的搭档。"
+    new "[saga.cast.barb]让我找[saga.cast.mia]一起上美术课，给我当搭档。"
     # game/res/meta/step.rpym:289
     old "Speak with [saga.cast.barb] about [saga.cast.mia]."
     new "和[saga.cast.barb]谈谈[saga.cast.mia]。"
@@ -361,7 +361,7 @@ translate zh_hans strings:
     new "我想知道第一节美术课我们会做什么？"
     # game/res/meta/step.rpym:296
     old "We've got an art session with [saga.cast.barb] this afternoon."
-    new "今天下午我们和[saga.cast.barb]有美术课。"
+    new "今天下午要去上[saga.cast.barb]的美术课。"
     # game/res/meta/step.rpym:298
     old "Enter the art room."
     new "进入美术室。"
@@ -388,7 +388,7 @@ translate zh_hans strings:
     new "与[saga.cast.chad]交谈。"
     # game/res/meta/step.rpym:311
     old "[saga.cast.eve] thinks [saga.cast.chad] might have taken her art pad."
-    new "[saga.cast.eve]以为[saga.cast.chad]可能拿走了她的画板。"
+    new "[saga.cast.eve]觉得可能是[saga.cast.chad]拿走了她的画板。"
     # game/res/meta/step.rpym:314
     old "I'm not sure I'm comfortable stealing from [saga.cast.eve]... Maybe I should speak with her."
     new "我不确定偷[saga.cast.eve]的东西是否合适……也许我该和她谈谈。"
@@ -415,7 +415,7 @@ translate zh_hans strings:
     new "和[saga.cast.barb]谈谈杂志的事。"
     # game/res/meta/step.rpym:329
     old "Finally! Now let's get these magazines back to [saga.cast.barb]."
-    new "终于！现在让我们把这些杂志送回[saga.cast.barb]。"
+    new "终于找齐了！现在把这些杂志交给[saga.cast.barb]吧。"
     # game/res/meta/step.rpym:332
     old "I've got my next lesson scheduled, all that's left now is to wait."
     new "我的下一堂课已经安排好了，现在只剩下等待了。"
@@ -433,10 +433,10 @@ translate zh_hans strings:
     new "她把杂志留在办公室了，真麻烦。"
     # game/res/meta/step.rpym:344
     old "I can't believe I have to lug around those magazines {i}again{/i}!!"
-    new "我不敢相信我还得{i}再次{/i}拖着那些杂志！！"
+    new "不是吧，我竟然{i}又{/i}得搬这些杂志！！"
     # game/res/meta/step.rpym:347
     old "You know what's remarkable? How my paper-mâché robot looks in no way like a collage."
-    new "你知道什么了不起吗？我的纸塑机器人看起来一点也不像拼贴画。"
+    new "说来也怪，我做的纸塑机器人怎么看都不像拼贴画。"
     # game/res/meta/step.rpym:352
     old "Inspect the pile of wooden planks in the meadow."
     new "检查草地上那堆木板。"
@@ -502,7 +502,7 @@ translate zh_hans strings:
     new "不知道[saga.cast.barb]为我的参赛作品准备了什么主题？"
     # game/res/meta/step.rpym:395
     old "I'll bet \"prep\" is code for more annoying busy work."
-    new "我敢打赌“准备”就是更多烦人杂务的代号。"
+    new "我敢打赌，所谓“准备”就是又要让我干一堆烦人的杂活。"
     # game/res/meta/step.rpym:398
     old "I wonder if [saga.cast.mia] will be helping this afternoon?"
     new "不知道今天下午[saga.cast.mia]会不会来帮忙？"
@@ -520,7 +520,7 @@ translate zh_hans strings:
     new "和[saga.cast.barb]谈谈亚麻布的事。"
     # game/res/meta/step.rpym:407
     old "Freaky nuns aside, that went well... Time to report back!"
-    new "除了诡异的修女们，进展还不错……是时候回去报告了！"
+    new "先不说那些古怪的修女，事情倒挺顺利……该回去报个信了！"
     # game/res/meta/step.rpym:409
     old "Speak with [saga.cast.lily] about costumes."
     new "和[saga.cast.lily]谈谈服装的事。"
@@ -532,22 +532,22 @@ translate zh_hans strings:
     new "和[saga.cast.barb]谈谈服装的事。"
     # game/res/meta/step.rpym:413
     old "I wonder what [saga.cast.barb] will make of these costumes."
-    new "我想知道[saga.cast.barb]会对这些服装有何看法。"
+    new "不知道[saga.cast.barb]看到这些服装会怎么想。"
     # game/res/meta/step.rpym:416
     old "There's really not much to those costumes..."
-    new "那些服装真的没什么特别的……"
+    new "那些服装还真没几块布料……"
     # game/res/meta/step.rpym:419
     old "... Why do I have such an ominous feeling about this?"
     new "……为什么我对此有种不祥的预感？"
     # game/res/meta/step.rpym:422
     old "Ugh, this is gonna be weird, isn't it?"
-    new "呃，这会很奇怪，不是吗？"
+    new "呃，总觉得接下来会很尴尬啊。"
     # game/res/meta/step.rpym:425
     old "The painting turned out surprisingly well! I hope it wins."
     new "这幅画出乎意料地好！我希望它能获胜。"
     # game/res/meta/step.rpym:428
     old "I wonder if the results are in yet? I should check."
-    new "我想知道结果出来了吗？我应该去看看。"
+    new "不知道比赛结果出来没有，去问问吧。"
     # game/res/meta/step.rpym:430
     old "Enter [saga.cast.barb]'s office."
     new "进入[saga.cast.barb]的办公室。"
@@ -586,16 +586,16 @@ translate zh_hans strings:
     new "与[saga.cast.debbie]交谈。"
     # game/res/meta/step.rpym:459
     old "She seems very focused on that newspaper, I wonder what's up."
-    new "她似乎很专注那份报纸，不知道怎么回事。"
+    new "她看那份报纸看得这么入神，不知道有什么事。"
     # game/res/meta/step.rpym:462
     old "Well that was soul-crunchingly awkward... and weird. So weird."
-    new "好吧，那真是令人难堪的尴尬……而且奇怪。太奇怪了。"
+    new "刚才真是尴尬得要命……还怪怪的。太奇怪了。"
     # game/res/meta/step.rpym:467
     old "Enter the lobby during the day."
     new "白天进入大厅。"
     # game/res/meta/step.rpym:468
     old "I wonder if [saga.cast.debbie] needs any help around the house?"
-    new "不知道[saga.cast.debbie]是否需要在家里帮忙？"
+    new "不知道[saga.cast.debbie]有没有什么家务需要我帮忙？"
     # game/res/meta/step.rpym:470
     old "Inspect the lawn mower in the garage."
     new "检查车库里的割草机。"
@@ -607,7 +607,7 @@ translate zh_hans strings:
     new "从商场的购乐百货购买汽油。"
     # game/res/meta/step.rpym:474
     old "I'll need some gas for the mower if I want to trim the lawn."
-    new "如果我想修剪草坪，我需要一些割草机的汽油。"
+    new "要想修剪草坪，得先给割草机弄点汽油。"
     # game/res/meta/step.rpym:476
     old "Enter the basement."
     new "进入地下室。"
@@ -616,7 +616,7 @@ translate zh_hans strings:
     new "[saga.cast.debbie]让我把衣服拿到地下室。"
     # game/res/meta/step.rpym:483
     old "And to think, I thought the crossword incident was awkward! D:"
-    new "想想看，我还以为填字游戏事件很尴尬呢！D:"
+    new "亏我之前还觉得填字游戏那次已经够尴尬了！D:"
     # game/res/meta/step.rpym:485
     old "Enter the landing."
     new "进入楼梯平台。"
@@ -640,7 +640,7 @@ translate zh_hans strings:
     new "检查浴室的水槽。"
     # game/res/meta/step.rpym:498
     old "The quicker I fix that sink, the better. Can't let [saga.cast.debbie] down."
-    new "我修好水槽的速度越快越好。不能让[saga.cast.debbie]失望。"
+    new "得赶紧把水槽修好，可不能让[saga.cast.debbie]失望。"
     # game/res/meta/step.rpym:501
     old "I've got everything I need to fix that sink."
     new "修水槽需要的东西我都有了。"
@@ -658,7 +658,7 @@ translate zh_hans strings:
     new "明天再帮她一次。"
     # game/res/meta/step.rpym:510
     old "It feels good helping [saga.cast.debbie]. I should do it more often."
-    new "帮助[saga.cast.debbie]的感觉真好。我应该多这样做。"
+    new "能帮上[saga.cast.debbie]的忙，感觉真好。以后得多帮帮她。"
     # game/res/meta/step.rpym:512
     old "Speak to [saga.cast.debbie] while she's doing dishes in the kitchen."
     new "在厨房里和正在洗碗的[saga.cast.debbie]说话。"
@@ -679,7 +679,7 @@ translate zh_hans strings:
     new "[saga.cast.debbie]想要她抽屉里的乳液。"
     # game/res/meta/step.rpym:525
     old "I should bring this lotion back to [saga.cast.debbie]."
-    new "我应该把这瓶乳液带回给[saga.cast.debbie]。"
+    new "该把这瓶乳液拿回去给[saga.cast.debbie]了。"
     # game/res/meta/step.rpym:528
     old "I never noticed how nice her legs were before."
     new "我以前从没注意到她的腿这么漂亮。"
@@ -688,7 +688,7 @@ translate zh_hans strings:
     new "查看从她卧室抽屉里拿出的乳液。"
     # game/res/meta/step.rpym:534
     old "Why can't I stop thinking about that delicious lotion smell?"
-    new "为什么我无法停止想着那美妙的乳液香味？"
+    new "怎么总忘不了那股好闻的乳液香味？"
     # game/res/meta/step.rpym:537
     old "I'm sure glad [saga.cast.debbie] didn't see what I did with her panties. {i}Awkward!{/i}"
     new "我很庆幸[saga.cast.debbie]没看到我对她的内裤做了什么。{i}真尴尬！{/i}"
@@ -706,7 +706,7 @@ translate zh_hans strings:
     new "我真不敢相信[saga.cast.debbie]竟然原谅了我……原谅我是个这么下流的变态。"
     # game/res/meta/step.rpym:549
     old "I'm surprised things haven't been more awkward after what happened."
-    new "我很惊讶事情发生后竟然没有更尴尬。"
+    new "出了那种事，相处起来居然没变得更尴尬，真没想到。"
     # game/res/meta/step.rpym:551
     old "Enter the lobby in the evening."
     new "晚上进入大厅。"
@@ -718,10 +718,10 @@ translate zh_hans strings:
     new "[saga.cast.debbie]正在客厅等我。"
     # game/res/meta/step.rpym:561
     old "It's really cool how [saga.cast.debbie] isn't making me feel embarrassed about all this."
-    new "[saga.cast.debbie]没有让我为这些事感到难堪，真是太酷了。"
+    new "[saga.cast.debbie]没有拿这些事让我难堪，真好。"
     # game/res/meta/step.rpym:564
     old "I hope I get more chances to spend time with [saga.cast.debbie]."
-    new "希望我有更多机会和[saga.cast.debbie]一起度过时光。"
+    new "希望以后能多和[saga.cast.debbie]待在一起。"
     # game/res/meta/step.rpym:567
     old "I wonder what she's doing today?"
     new "不知道她今天在做什么？"
@@ -736,7 +736,7 @@ translate zh_hans strings:
     new "检查车库里的车。"
     # game/res/meta/step.rpym:579
     old "[saga.cast.debbie] said to wait for her in the car."
-    new "[saga.cast.debbie]说在车里等她。"
+    new "[saga.cast.debbie]让我在车里等她。"
     # game/res/meta/step.rpym:581
     old "Visit the Cupid store."
     new "去丘比特商店看看。"
@@ -760,19 +760,19 @@ translate zh_hans strings:
     new "回到商店前面。"
     # game/res/meta/step.rpym:591
     old "I... I should go out front... Did that really just happen?!"
-    new "我……我得去前面……刚刚那真的发生了？！"
+    new "我……我得回店铺前面去……刚才那不是在做梦吧？！"
     # game/res/meta/step.rpym:594
     old "I can't believe we kissed! What if someone had seen us?!"
     new "我真不敢相信我们接吻了！要是有人看见怎么办？！"
     # game/res/meta/step.rpym:606
     old "Great, now [saga.cast.ursula] is invading my dreams."
-    new "太好了，现在[saga.cast.ursula]都侵入我的梦了。"
+    new "这下好了，连做梦都躲不开[saga.cast.ursula]了。"
     # game/res/meta/step.rpym:609
     old "I wonder what she's doing this afternoon?"
     new "我想知道她今天下午在做什么？"
     # game/res/meta/step.rpym:611
     old "Enter the lounge in the afternoon [saga.lang.wait(f)!t]."
-    new "下午进入客厅[saga.lang.wait(f)!t]。"
+    new "[saga.lang.wait(f)!t]下午进入客厅。"
     # game/res/meta/step.rpym:612
     old "Does [saga.cast.debbie] really need to do laundry every day?"
     new "[saga.cast.debbie]真的需要每天洗衣服吗？"
@@ -784,7 +784,7 @@ translate zh_hans strings:
     new "进入她的卧室。"
     # game/res/meta/step.rpym:618
     old "I should investigate the noise coming from her room!"
-    new "我应该调查一下她房间里传来的声音！"
+    new "她房间里好像有动静，我得去看看！"
     # game/res/meta/step.rpym:621
     old "Whoa, landladies masturbate too?! Neat!!"
     new "哇，女房东也自慰吗？！太棒了！！"
@@ -799,7 +799,7 @@ translate zh_hans strings:
     new "和[saga.cast.debbie]谈谈梦境。"
     # game/res/meta/step.rpym:636
     old "Asking [saga.cast.debbie] about these dreams might not be so bad. I just need approach it right."
-    new "向[saga.cast.debbie]询问这些梦也许没那么糟。我只需要用对方式。"
+    new "跟[saga.cast.debbie]聊聊这些梦，也许没什么不好。只要想好怎么开口就行。"
     # game/res/meta/step.rpym:638
     old "Speak with [saga.cast.debbie] about kissing."
     new "和[saga.cast.debbie]谈谈接吻。"
@@ -808,7 +808,7 @@ translate zh_hans strings:
     new "天啊，我真希望[saga.cast.debbie]愿意再吻我一次。不知道有没有办法说服她？"
     # game/res/meta/step.rpym:642
     old "Of course [saga.cast.jenny] would walk in on us. Talk about rotten luck..."
-    new "当然[saga.cast.jenny]会撞见我们。真是倒霉透顶……"
+    new "偏偏让[saga.cast.jenny]撞见了。真是倒霉透顶……"
     # game/res/meta/step.rpym:645
     old "I wonder if she's going shopping today?"
     new "不知道她今天会不会去购物？"
@@ -832,19 +832,19 @@ translate zh_hans strings:
     new "我最好让她知道关于引擎的坏消息。"
     # game/res/meta/step.rpym:656
     old "Inspect the car to call the dealership."
-    new "检查车子以呼叫经销商。"
+    new "查看车子，给车行打电话。"
     # game/res/meta/step.rpym:657
     old "I should probably be near the car when I call, in case they need specifics."
     new "我打电话时最好在车子旁边，以防他们需要详细信息。"
     # game/res/meta/step.rpym:662
     old "Enter the garage [saga.lang.wait(f)!t] in the [f.when!l]."
-    new "进入[f.when!l]的[saga.lang.wait(f)!t]车库。"
+    new "[saga.lang.wait(f)!t][f.when!l]进入车库。"
     # game/res/meta/step.rpym:663
     old "The mechanic is booked, now I just have to wait."
     new "已经预约了修理工，现在只需等待。"
     # game/res/meta/step.rpym:665
     old "Enter the garage in the [f.when!l]."
-    new "进入车库在[f.when!l]。"
+    new "[f.when!l]进入车库。"
     # game/res/meta/step.rpym:666
     old "The mechanic will be here later today, I really hope he can get the car sorted."
     new "修理工今天晚些时候会来，我真希望他能把车修好。"
@@ -880,10 +880,10 @@ translate zh_hans strings:
     new "如果我闯进去，[saga.cast.debbie]会有什么反应？"
     # game/res/meta/step.rpym:696
     old "What was I thinking?! Obviously that was a terrible idea..."
-    new "我当时在想什么？！显然那是个糟糕的主意……"
+    new "我当时脑子进水了吗？！那样做明明就不对……"
     # game/res/meta/step.rpym:699
     old "I probably shouldn't try that again..."
-    new "我可能不应该再尝试那样了……"
+    new "我还是别再那么做了……"
     # game/res/meta/step.rpym:702
     old "Thankfully things aren't more awkward between us, it could have been so much worse."
     new "幸好我们之间没有变得更尴尬，情况本来可能糟糕得多。"
@@ -898,10 +898,10 @@ translate zh_hans strings:
     new "检查电视。"
     # game/res/meta/step.rpym:711
     old "Huh, what gives? There's literally a zero percent chance [saga.cast.jenny] is interested in laundry..."
-    new "哈，怎么回事？[saga.cast.jenny]对洗衣感兴趣的可能性完全是零……"
+    new "咦，怎么回事？[saga.cast.jenny]怎么可能对洗衣服感兴趣……"
     # game/res/meta/step.rpym:713
     old "Sleep in your bed."
-    new "睡在你的床上。"
+    new "回自己的床上睡觉。"
     # game/res/meta/step.rpym:714
     old "I wonder where we go from here?"
     new "我想知道我们接下来会怎样？"
@@ -910,7 +910,7 @@ translate zh_hans strings:
     new "天啊，这些下流的梦越来越失控了。"
     # game/res/meta/step.rpym:720
     old "I should get out of the house for while and try to get my mind off [saga.cast.debbie]."
-    new "我应该出门一段时间，试着不去想[saga.cast.debbie]。"
+    new "我该出门转转，分散一下注意力，别老想着[saga.cast.debbie]。"
     # game/res/meta/step.rpym:722
     old "Enter the house."
     new "进入房子。"
@@ -925,7 +925,7 @@ translate zh_hans strings:
     new "嗯，和[saga.cast.debbie]一起淋浴真是太值了，所有的痛苦都值得！"
     # game/res/meta/step.rpym:732
     old "A nice glass of warm milk is sure to set the world to rights, then it'll be straight off to dreamland!"
-    new "一杯美味的温牛奶肯定能让一切恢复正轨，然后就可以直接进入梦乡了！"
+    new "喝杯温牛奶，心里肯定就舒坦了，然后就能美美地睡上一觉！"
     # game/res/meta/step.rpym:738
     old "I slept really well next to [saga.cast.debbie]."
     new "我在[saga.cast.debbie]旁边睡得很好。"
@@ -943,13 +943,13 @@ translate zh_hans strings:
     new "进入楼上的走廊。"
     # game/res/meta/step.rpym:756
     old "I wonder if [saga.cast.debbie] will act on what [saga.cast.diane] suggested?"
-    new "我想知道[saga.cast.debbie]是否会按照[saga.cast.diane]的建议行动？"
+    new "不知道[saga.cast.debbie]会不会照[saga.cast.diane]说的去做？"
     # game/res/meta/step.rpym:758
     old "Enter the upstairs hallway in the evening."
     new "晚上进入楼上的走廊。"
     # game/res/meta/step.rpym:762
     old "I don't envy [saga.cast.debbie] right now. There's no way [saga.cast.jenny] lets her hear the end of this."
-    new "我现在并不羡慕[saga.cast.debbie]。[saga.cast.jenny]绝不会让她轻易忘掉这件事。"
+    new "[saga.cast.debbie]这下可不好受了，[saga.cast.jenny]肯定会揪着这件事说个没完。"
     # game/res/meta/step.rpym:765
     old "Hearing those British accents in the background while having fun with [saga.cast.debbie] had better not awaken anything in me."
     new "在背景中听到那些英国口音，并且与[saga.cast.debbie]玩得很开心，最好不要唤醒我内心的任何东西。"
@@ -979,7 +979,7 @@ translate zh_hans strings:
     new "有点不对劲。我应该试着去找[saga.cast.debbie]。"
     # game/res/meta/step.rpym:803
     old "Enter the backyard at night after waiting in your room."
-    new "在房间里等待后，晚上进入后院。"
+    new "先在自己的房间里等一会儿，晚上再去后院。"
     # game/res/meta/step.rpym:806
     old "Inspect the robe in the [saga.prop.costume_robe.where!l]."
     new "检查[saga.prop.costume_robe.where!l]里的长袍。"
@@ -988,7 +988,7 @@ translate zh_hans strings:
     new "典型的[saga.cast.debbie]，她当然不记得把长袍丢在哪里了！"
     # game/res/meta/step.rpym:809
     old "Return to [saga.cast.debbie]."
-    new "返回[saga.cast.debbie]。"
+    new "回到[saga.cast.debbie]身边。"
     # game/res/meta/step.rpym:810
     old "[saga.cast.debbie] will be freezing without her robe. I need to hurry back to her."
     new "没有长袍，[saga.cast.debbie]会冻坏的。我得赶紧回到她身边。"
@@ -997,7 +997,7 @@ translate zh_hans strings:
     new "我真希望当时能和她更进一步……"
     # game/res/meta/step.rpym:825
     old "I can still barely believe that happened."
-    new "我仍然几乎无法相信那件事发生了。"
+    new "到现在我都还不太敢相信，居然真的发生了。"
     # game/res/meta/step.rpym:827
     old "Speak with [saga.cast.diane] about [saga.cast.debbie]."
     new "和[saga.cast.diane]谈谈[saga.cast.debbie]。"
@@ -1018,7 +1018,7 @@ translate zh_hans strings:
     new "真想看看她见到这条连衣裙时会是什么表情。希望[saga.cast.diane]说得没错，她不会因为我买了这条连衣裙太生气。"
     # game/res/meta/step.rpym:837
     old "So far, so good! The strategy [saga.cast.diane] suggested really seems to be working!"
-    new "到目前为止一切顺利！[saga.cast.diane]建议的策略似乎真的奏效了！"
+    new "目前一切顺利！[saga.cast.diane]出的主意好像还真管用！"
     # game/res/meta/step.rpym:840
     old "Never thought I'd be this nervous for a date... I really hope it goes well."
     new "从没想过约个会会这么紧张……真希望一切顺利。"
@@ -1036,16 +1036,16 @@ translate zh_hans strings:
     new "真等不及想看看她对啊啦啊啦有什么评价，那绝对不是她平时会去吃饭的地方。"
     # game/res/meta/step.rpym:852
     old "What a night, and now waking up to the smell of her wonderful cooking! Amazing! I'm on top of the world!"
-    new "多么美妙的一晚，现在醒来就闻到她做的美味早餐！太棒了！我感觉自己站在世界之巅！"
+    new "昨晚真美好，醒来又闻到了她做饭的香味！太棒了！简直幸福得要飞起来了！"
     # game/res/meta/step.rpym:855
     old "This is so much better than I ever could have hoped for! [saga.cast.debbie] is the best! "
-    new "这比我曾经希望的还要好得多！[saga.cast.debbie]是最棒的！"
+    new "这比我想象中还要美好！[saga.cast.debbie]最棒了！"
     # game/res/meta/step.rpym:858
     old "Everything is going swimmingly with [saga.cast.debbie]!"
     new "和[saga.cast.debbie]相处的一切都非常顺利！"
     # game/res/meta/step.rpym:860
     old "Enter the backyard in the evening when [saga.cast.debbie] is there."
-    new "在傍晚时分，当[saga.cast.debbie]在场时进入后院。"
+    new "傍晚趁[saga.cast.debbie]在后院时过去。"
     # game/res/meta/step.rpym:864
     old "I should head to the yard and see if I was right. Mmm, just thinking of [saga.cast.debbie] in her swimsuit is getting me excited!"
     new "我得去院子里看看我猜得对不对。嗯，光想想[saga.cast.debbie]穿泳装的样子就让我兴奋起来了！"
@@ -1060,13 +1060,13 @@ translate zh_hans strings:
     new "检查[saga.cast.debbie]车库里的铲子。"
     # game/res/meta/step.rpym:871
     old "Hmm, [saga.cast.diane] needs a new shovel for her garden... I'm pretty sure I saw one hanging up in the garage back home."
-    new "嗯，[saga.cast.diane]的花园需要一把新铲子……我肯定在老家的车库里见过一把挂在那儿。"
+    new "嗯，[saga.cast.diane]打理花园需要一把新铲子……我记得家里车库墙上就挂着一把。"
     # game/res/meta/step.rpym:873
     old "Speak with [saga.cast.diane] about the shovel."
     new "和[saga.cast.diane]谈谈铲子的事。"
     # game/res/meta/step.rpym:874
     old "She seemed eager to start work on her garden. I should get his shovel over there as soon as possible."
-    new "她似乎迫不及待地想开始打理她的花园。我应该尽快把他的铲子拿过去。"
+    new "她好像急着打理花园，我得赶紧把这把铲子送过去。"
     # game/res/meta/step.rpym:876
     old "Inspect the vegetable patch."
     new "检查菜地。"
@@ -1105,7 +1105,7 @@ translate zh_hans strings:
     new "晚上进入楼上的走廊。"
     # game/res/meta/step.rpym:908
     old "I should investigate the light coming out from under her bedroom door!"
-    new "我应该去查看她卧室门缝下透出的灯光！"
+    new "她卧室门缝底下透着光，我得去看看！"
     # game/res/meta/step.rpym:911
     old "Whoa, girls watch porn?! Who knew?"
     new "哇，女生也看色情片？！谁知道呢？"
@@ -1117,7 +1117,7 @@ translate zh_hans strings:
     new "在早餐桌旁与[saga.cast.jenny]交谈。"
     # game/res/meta/step.rpym:917
     old "Breakfast seems like the safest time to approach [saga.cast.jenny] now that I've upset her."
-    new "既然我已经惹恼了她，早餐时间似乎是接近[saga.cast.jenny]最安全的时机。"
+    new "惹了[saga.cast.jenny]生气，还是趁吃早饭时去找她比较安全。"
     # game/res/meta/step.rpym:923
     old "Did that really just happen?!"
     new "那真的发生了吗？"
@@ -1135,13 +1135,13 @@ translate zh_hans strings:
     new "她的数码相机一定在这里的某个地方。"
     # game/res/meta/step.rpym:932
     old "It's a shame [saga.cast.jenny] caught me... Oh, well."
-    new "真可惜[saga.cast.jenny]抓住了我……算了。"
+    new "偏偏被[saga.cast.jenny]逮到了……唉，算了。"
     # game/res/meta/step.rpym:934
     old "Enter the dining room."
     new "进入餐厅。"
     # game/res/meta/step.rpym:938
     old "I wonder what [saga.cast.jenny] wants with me in her room?"
-    new "我想知道[saga.cast.jenny]在她的房间里找我有什么事？"
+    new "不知道[saga.cast.jenny]叫我去她房间做什么？"
     # game/res/meta/step.rpym:940
     old "Give $200 to [saga.cast.jenny]."
     new "给[saga.cast.jenny]200美元。"
@@ -1180,7 +1180,7 @@ translate zh_hans strings:
     new "好了，我给[saga.cast.jenny]拿到玩具了。该给我奖励了！"
     # game/res/meta/step.rpym:962
     old "[saga.cast.jenny] actually made good, I can't believe it."
-    new "[saga.cast.jenny]居然兑现了，真不敢相信。"
+    new "[saga.cast.jenny]居然说到做到了，真不敢相信。"
     # game/res/meta/step.rpym:965
     old "Mmm, naked [saga.cast.jenny]. Sha-wing!"
     new "嗯，裸体的[saga.cast.jenny]。哇塞！"
@@ -1201,31 +1201,31 @@ translate zh_hans strings:
     new "听写难道不需要听别人说什么吗？xD"
     # game/res/meta/step.rpym:982
     old "Speak to [saga.cast.jenny] in the lobby."
-    new "在大堂与[saga.cast.jenny]交谈。"
+    new "在大厅与[saga.cast.jenny]交谈。"
     # game/res/meta/step.rpym:983
     old "I feel like I've been obsessing over [saga.cast.jenny] recently... I should go touch grass."
-    new "我觉得我最近对[saga.cast.jenny]太着迷了…… 我应该出去摸摸草地。"
+    new "我最近好像满脑子都是[saga.cast.jenny]……该出去走走，清醒一下了。"
     # game/res/meta/step.rpym:986
     old "I'll need $200 if I wanna accompany [saga.cast.jenny] to the mall."
     new "如果我想陪[saga.cast.jenny]去商场，我需要200美元。"
     # game/res/meta/step.rpym:988
     old "Meet [saga.cast.jenny] in the lobby."
-    new "在大堂见[saga.cast.jenny]。"
+    new "在大厅见[saga.cast.jenny]。"
     # game/res/meta/step.rpym:989
     old "[saga.cast.jenny] said to meet her in the lobby."
-    new "[saga.cast.jenny]说在大堂见她。"
+    new "[saga.cast.jenny]让我在大厅跟她会合。"
     # game/res/meta/step.rpym:991
     old "Travel to the mall."
-    new "前往购物中心。"
+    new "前往商场。"
     # game/res/meta/step.rpym:992
     old "Let's go to the mall!"
-    new "我们去购物中心吧！"
+    new "去商场吧！"
     # game/res/meta/step.rpym:994
     old "Visit the Pink store."
     new "前往粉色诱惑。"
     # game/res/meta/step.rpym:995
     old "Man, what crawled up her butt? I should track her down."
-    new "天啊，她怎么了？我得找到她。"
+    new "她这是发什么脾气？我得去找找她。"
     # game/res/meta/step.rpym:997
     old "Locate the UltraVibe 2000."
     new "找到UltraVibe 2000。"
@@ -1261,16 +1261,16 @@ translate zh_hans strings:
     new "或许等她睡着后，我能看看她的笔记本电脑。"
     # game/res/meta/step.rpym:1021
     old "Access her computer while she's asleep."
-    new "在她睡觉时访问她的电脑。"
+    new "趁她睡着时使用她的电脑。"
     # game/res/meta/step.rpym:1022
     old "Sneak 100! I can definitely access her laptop at night without waking her."
-    new "潜行100分！我肯定能在晚上不吵醒她而访问她的笔记本电脑。"
+    new "潜行100分！我晚上偷偷用她的笔记本电脑，肯定不会把她吵醒。"
     # game/res/meta/step.rpym:1031
     old "That was close! Maybe I can try again tomorrow."
     new "好险！也许我明天可以再试一次。"
     # game/res/meta/step.rpym:1033
     old "Access the CAMSlut videos tab on her laptop at night."
-    new "晚上在她笔记本电脑上访问CAMSlut视频标签页。"
+    new "晚上在她的笔记本电脑上打开CAMSlut视频页。"
     # game/res/meta/step.rpym:1034
     old "Once she's asleep I can try to setup a remote connection on her laptop again."
     new "等她睡着后，我可以试着再次在她的笔记本电脑上设置远程连接。"
@@ -1285,7 +1285,7 @@ translate zh_hans strings:
     new "天啊，真不敢相信[saga.cast.jenny]居然做了那种事……还被拍下来了！"
     # game/res/meta/step.rpym:1045
     old "Access the CAMSlut videos tab."
-    new "访问CAMSlut视频标签页。"
+    new "打开CAMSlut视频页。"
     # game/res/meta/step.rpym:1046
     old "I wonder if [saga.cast.jenny] has posted any new videos?"
     new "不知道[saga.cast.jenny]有没有发布新视频？"
@@ -1297,7 +1297,7 @@ translate zh_hans strings:
     new "在商场的粉色诱惑买个坏怪物。"
     # game/res/meta/step.rpym:1052
     old "That Bad Monster isn't going to buy itself. I wonder why it's called that anyway?"
-    new "那个坏怪物可不会自己买给自己。话说回来，为什么会叫这个名字？"
+    new "“坏怪物”还得我去买。话说，它为什么叫这个名字？"
     # game/res/meta/step.rpym:1054
     old "Speak to [saga.cast.jenny] in her bedroom."
     new "在[saga.cast.jenny]的卧室里和她说话。"
@@ -1312,7 +1312,7 @@ translate zh_hans strings:
     new "从电脑启动远程访问。"
     # game/res/meta/step.rpym:1064
     old "It totally worked! She posted a new video."
-    new "完全成功了！她发布了新视频。"
+    new "果然管用！她发新视频了。"
     # game/res/meta/step.rpym:1070
     old "Honestly? That might be the single best purchase I've ever made! :D"
     new "老实说？这可能是我买过的最值的东西了！:D"
@@ -1330,10 +1330,10 @@ translate zh_hans strings:
     new "和[saga.cast.jenny]谈谈[saga.cast.cedric]的事。"
     # game/res/meta/step.rpym:1082
     old "[saga.cast.jenny] isn't going to be happy about this."
-    new "[saga.cast.jenny]大概不会对此感到高兴。"
+    new "[saga.cast.jenny]听了肯定不高兴。"
     # game/res/meta/step.rpym:1085
     old "Talk about shooting the messenger! It's not me who's ignoring her texts."
-    new "这简直就是迁怒于报信人！又不是我不回她的短信。"
+    new "我就传个话，怎么还冲我发火！又不是我不回她的短信。"
     # game/res/meta/step.rpym:1097
     old "Ouch! Now I know why it's called a bad monster. >_<"
     new "哎呀！这下我知道为什么叫它坏怪物了。>_<"
@@ -1345,7 +1345,7 @@ translate zh_hans strings:
     new "不知道[saga.cast.mia]今早在做什么？"
     # game/res/meta/step.rpym:1106
     old "What is she planning?"
-    new "她在计划什么？"
+    new "她在打什么主意？"
     # game/res/meta/step.rpym:1109
     old "[saga.cast.jenny] said she would be waiting for me in her room."
     new "[saga.cast.jenny]说她会待在房间里等我。"
@@ -1360,7 +1360,7 @@ translate zh_hans strings:
     new "进入商场。"
     # game/res/meta/step.rpym:1115
     old "Where am I supposed to get a mask? It's not like we have a costume shop in Summerville."
-    new "我该去哪里弄个面具？夏日镇可没有服装店。"
+    new "我该去哪儿弄个面具？夏日镇又没有卖化装服饰的店。"
     # game/res/meta/step.rpym:1117
     old "Visit the Cosmic Cumics store."
     new "前往宇宙漫画商店。"
@@ -1369,7 +1369,7 @@ translate zh_hans strings:
     new "哇！宇宙漫画那边发生了什么事？"
     # game/res/meta/step.rpym:1121
     old "Woo hoo, free mask! That was oddly convenient."
-    new "喔吼，免费面具！真是出奇的方便。"
+    new "好耶，白得一个面具！这也太巧了。"
     # game/res/meta/step.rpym:1124
     old "Are we really going to go through with this? What if someone recognizes me? D:"
     new "我们真的要这么做吗？万一有人认出我怎么办？D:"
@@ -1396,16 +1396,16 @@ translate zh_hans strings:
     new "早餐时与[saga.cast.jenny]交谈。"
     # game/res/meta/step.rpym:1148
     old "I guess [saga.cast.jenny] is going to stay mad until I apologize. -_-'"
-    new "我猜[saga.cast.jenny]会一直生气直到我道歉。-_-'"
+    new "看来我不道歉，[saga.cast.jenny]就不会消气。-_-'"
     # game/res/meta/step.rpym:1151
     old "It's crazy that people are paying me to get handjobs."
     new "人们付钱让我打手枪，这太疯狂了。"
     # game/res/meta/step.rpym:1154
     old "I'm surprised things aren't more awkward between us."
-    new "我很惊讶我们之间居然没有更尴尬。"
+    new "我们相处起来居然没变得更尴尬，真没想到。"
     # game/res/meta/step.rpym:1160
     old "Who's left the television on?"
-    new "谁让电视一直开着？"
+    new "谁看完电视没关？"
     # game/res/meta/step.rpym:1163
     old "Is [saga.cast.jenny] watching foot porn?!"
     new "[saga.cast.jenny]是在看足部色情片吗？！"

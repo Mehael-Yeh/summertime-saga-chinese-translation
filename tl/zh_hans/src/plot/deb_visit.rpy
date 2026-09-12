@@ -1192,7 +1192,7 @@ translate zh_hans deb_visit_baby_a4da2842:
 translate zh_hans deb_visit_baby_36e142a9:
 
     # anon "Sorry, I didn't realize that I was-"
-    anon "抱歉，我没意识到自己刚才——"
+    anon "抱歉，我没想到自己——"
 
 # game/src/plot/deb_visit.rpy:490
 translate zh_hans deb_visit_baby_0ad78b94:

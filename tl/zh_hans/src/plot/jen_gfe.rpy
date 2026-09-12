@@ -232,13 +232,13 @@ translate zh_hans jen_gfe_ready_once_9bce005f:
 translate zh_hans jen_gfe_ready_once_bdc1a398:
 
     # jenny a_side e_r f_annoyed m_talk "Trust me."
-    jenny a_side e_r f_annoyed m_talk "听我的。"
+    jenny a_side e_r f_annoyed m_talk "信我的。"
 
 # game/src/plot/jen_gfe.rpy:100
 translate zh_hans jen_gfe_ready_once_e3e11332:
 
     # jenny "It's true."
-    jenny "就是这样。"
+    jenny "就是不喜欢。"
 
 # game/src/plot/jen_gfe.rpy:104
 translate zh_hans jen_gfe_ready_once_8d9814a0:

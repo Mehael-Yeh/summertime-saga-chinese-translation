@@ -1612,7 +1612,7 @@ translate zh_hans jen16_retry_jenny_585b3d7c:
 translate zh_hans jen16_retry_jenny_8e02077e:
 
     # anon "You know, you catch more flies with honey than vinegar."
-    anon "你没听过伸手不打笑脸人吗？"
+    anon "求人办事，嘴甜点总比凶巴巴的管用吧？"
 
 # game/src/plot/jen16.rpy:523
 translate zh_hans jen16_retry_jenny_c9594b9a:

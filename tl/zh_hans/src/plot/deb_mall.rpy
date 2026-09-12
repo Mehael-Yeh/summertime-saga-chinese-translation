@@ -412,7 +412,7 @@ translate zh_hans deb_mall_debbie_merge1_d932997e:
 translate zh_hans deb_mall_debbie_merge1_b32a619c:
 
     # anon f_shy_surprised "Yes, please."
-    anon f_shy_surprised "好的，请。"
+    anon f_shy_surprised "想，当然想。"
 
 # game/src/plot/deb_mall.rpy:217
 translate zh_hans deb_mall_debbie_merge1_4d57014d:
@@ -562,7 +562,7 @@ translate zh_hans deb_mall_debbie_merge1_a431c9da:
 translate zh_hans deb_mall_debbie_merge1_419a3af2:
 
     # debbie "We're heading to Raven Hill."
-    debbie "我们正前往渡鸦山。"
+    debbie "我们去渡鸦山。"
 
 # game/src/plot/deb_mall.rpy:279
 translate zh_hans deb_mall_debbie_merge1_6df91e84:
@@ -718,7 +718,7 @@ translate zh_hans deb_mall_debbie_merge2_660cb30e:
 translate zh_hans deb_mall_debbie_merge2_4930a389:
 
     # anon a_jerk_01 e_w p_car_turn "Hop on!"
-    anon a_jerk_01 e_w p_car_turn "上车吧！"
+    anon a_jerk_01 e_w p_car_turn "坐上来吧！"
 
 # game/src/plot/deb_mall.rpy:359
 translate zh_hans deb_mall_debbie_merge2_d4d70d8b:
@@ -2842,19 +2842,19 @@ translate zh_hans deb_mall_debbie_shop5_7d98dede:
 translate zh_hans deb_mall_debbie_shop6_5dc78d6f:
 
     # debbie "... I'm nearly out of lotion at home and I'd like to get some flowers for the kitchen table."
-    debbie "……我家里乳液快用完了，还想买点花放在厨房桌上。"
+    debbie "……家里的润肤乳快用完了，我还想买点花放在厨房桌上。"
 
 # game/src/plot/deb_mall.rpy:1134
 translate zh_hans deb_mall_debbie_shop6_fb83f939:
 
     # anon f_surprised "Bum Bum cream?!"
-    anon f_surprised "Bum Bum乳霜？！"
+    anon f_surprised "Bum Bum润肤霜？！"
 
 # game/src/plot/deb_mall.rpy:1135
 translate zh_hans deb_mall_debbie_shop6_600e0943:
 
     # debbie f_curious "Heh, how do you know the name of my lotion?"
-    debbie f_curious "嘿，你怎么知道我那款乳液的名字？"
+    debbie f_curious "呵，你怎么知道我那款润肤乳的名字？"
 
 # game/src/plot/deb_mall.rpy:1136
 translate zh_hans deb_mall_debbie_shop6_be67a3cf:
@@ -3226,7 +3226,7 @@ translate zh_hans deb_mall_debbie_womb_39df2413:
 translate zh_hans deb_mall_debbie_womb_0002dc28:
 
     # anon a_facepalm f_pensive @ -m_talk "( Although it is now. )"
-    anon a_facepalm f_pensive @ -m_talk "（不过现在就是了。）"
+    anon a_facepalm f_pensive @ -m_talk "（不过现在脑子里倒是有画面了。）"
 
 # game/src/plot/deb_mall.rpy:1265
 translate zh_hans deb_mall_debbie_womb_0329ecff:

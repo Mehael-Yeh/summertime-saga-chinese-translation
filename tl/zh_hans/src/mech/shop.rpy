@@ -16,7 +16,7 @@ translate zh_hans shop_ivy_e4d264fa:
 translate zh_hans shop_jane_8cf671d7:
 
     # jane "Hi, [saga.cast.anon]. Checking something out?"
-    jane "嗨，[saga.cast.anon]。是在看什么东西吗？"
+    jane "嗨，[saga.cast.anon]。来办借阅吗？"
 
 # game/src/mech/shop.rpy:87
 translate zh_hans shop_kassy_c1e1f840:
@@ -66,11 +66,11 @@ translate zh_hans strings:
 
     # game/src/mech/shop.rpy:23
     old "Buy items for $[cash]."
-    new "购买物品花费$[cash]"
+    new "花$[cash]购买这些物品"
 
     # game/src/mech/shop.rpy:26
     old "Borrow [saga.gui.buy!lt]."
-    new "借入[saga.gui.buy!lt]"
+    new "借阅[saga.gui.buy!lt]"
 
     # game/src/mech/shop.rpy:32
     old "Abandon [saga.gui.buy!lt]."

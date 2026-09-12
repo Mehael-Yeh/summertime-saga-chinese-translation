@@ -1154,9 +1154,7 @@ translate zh_hans strings:
     old "Maze Runner"
     new "移动迷宫"
     old "Miss DeWitt"
-    new "德威特小姐"
-    old "Miss Dewitt"
-    new "德威特小姐"
+    new "DeWitt小姐"
     old "Raven Hill."
     new "渡鸦山"
     old "Recycle Bin"
@@ -1255,3 +1253,20 @@ translate zh_hans strings:
     new "体育馆。"
     old "Shy."
     new "害羞"
+
+
+    # game/lib/saga/lang.py: wait() date fragments
+    old "today"
+    new "今天"
+
+    old "tomorrow"
+    new "明天"
+
+    old "the day after tomorrow"
+    new "后天"
+
+    old "a few days from now"
+    new "几天后"
+
+    old "a week or so from now"
+    new "一周左右后"

@@ -4,7 +4,7 @@ translate zh_hans strings:
 
     # game/src/mini/womb.rpy:8
     old "Spin the wheel of conception!"
-    new "转动受孕之轮！"
+    new "转动受孕轮盘！"
 
     # game/src/mini/womb.rpy:13
     old "No egg?!"

@@ -22,7 +22,7 @@ translate zh_hans strings:
     new "[self.clan]市长"
     # game/res/meta/cast.rpym:21
     old "Mrs. [self.clan]"
-    new "[self.clan]夫人"
+    new "[self.clan]太太"
     # game/res/meta/cast.rpym:22
     old "Father [self.clan]"
     new "[self.clan]神父"
@@ -103,7 +103,7 @@ translate zh_hans strings:
     new "[saga.cast.anon]从小一起长大的好友兼邻居。他点子多、反应快、够义气，还心甘情愿当配角，简直是每个准英雄梦寐以求的搭档。他是狂热游戏迷、业余的“职业”实景角色扮演玩家、桌游高手、观鸟爱好者，还热衷于追求虚拟少女，至今保持着公会有史以来最高的DKP纪录。\n\n也许不是你想要的僚机，却绝对是与你绝配的那一个。"
     # game/res/meta/cast.rpym:466
     old "A recent arrival to Summerville, you know little about her, other than she comes from a big city. You've heard it said around school that she's living with an older sibling. She's definitely the introverted type and mostly keeps to herself. She's supposedly quite a gifted artist.\n\nShe seems easy to talk with, maybe you should get to know her better?"
-    new "她刚搬来夏日镇不久，你对她还不太了解，只知道她来自大城市。听学校里的人说，她跟年长的兄弟姐妹住在一起。她性格内向，大多时候都独来独往，听说画画很有天分。\n\n不过，她似乎挺好说话。也许你该多了解她一点？"
+    new "她刚搬来夏日镇不久，你对她还不太了解，只知道她来自大城市。听学校里的人说，她是跟哥哥或姐姐一起住的。她性格内向，大多时候都独来独往，听说画画很有天分。\n\n不过，她似乎挺好说话。也许你该多了解她一点？"
     # game/res/meta/cast.rpym:476
     old "[saga.cast.anon]'s deceased father and former lover of [saga.cast.debbie], [saga.cast.frank] was a warm soul. Infinitely caring, he always kept the well-being of his loved ones at the forefront of his priorities. Famously resourceful and fastidious with money, he sought employment at the nearby Summerville Bank, where he worked until his untimely demise.\n\nSupposedly, he was quite the Casanova in his younger years with countless conquests under his belt."
     new "[saga.cast.frank]是[saga.cast.anon]已故的父亲，也是[saga.cast.debbie]曾经的恋人。他待人温厚，对亲近的人关怀备至，总把他们的幸福放在第一位。他脑子活，管钱也仔细，后来在附近的夏日镇银行找了份工作，一直做到英年早逝。\n\n据说，他年轻时可是个风流浪子，不知俘获过多少芳心。"
@@ -112,7 +112,7 @@ translate zh_hans strings:
     new "[saga.cast.debbie]的女儿，对与[saga.cast.anon]同住这件事百般不情愿。她曾与[saga.cast.frank] [saga.cast.frank.clan]十分亲近，他也把她当亲生女儿一样疼爱、娇惯。她刚从大学辍学，当过毕业舞会皇后，拿过全国啦啦队冠军，还自封为公主。这些年事事顺心惯了，最受不了的就是别人对她说“不”——半点都不行。\n\n说白了，[saga.cast.jenny]就是个傲慢难缠的麻烦精，脾气臭得出了名，还总觉得自己高人一等。"
     # game/res/meta/cast.rpym:499
     old "Shy, soft-spoken, and a bit of a sad sack, [saga.cast.judith] spends most of her time hiding away from the rest of the world. Suffering from an inferiority complex and an undeniable lack of fashion sense, she often serves as the butt of the joke for her fellow classmates.\n\nGetting to know her can prove difficult given her flighty nature but those that make the effort will find her a sweet young girl, endlessly giving, and with a deep yearning for acceptance."
-    new "[saga.cast.judith]害羞，讲话轻声细气，总有些垂头丧气，大部分时间都躲着别人。她本就自卑，穿衣打扮又实在没什么品味，难免成了同学们取笑的对象。\n\n她动不动就往后缩，想走近她并不容易。但只要肯花心思，就会发现她温柔可亲，总愿意为别人付出，也深深渴望有人能接纳自己。"
+    new "[saga.cast.judith]害羞，讲话轻声细气，总有些垂头丧气，大部分时间都躲着别人。她本就自卑，穿衣打扮又实在没什么品味，也常常成为同学们取笑的对象。\n\n她动不动就往后缩，想走近她并不容易。但只要肯花心思，就会发现她温柔可亲，总愿意为别人付出，也深深渴望有人能接纳自己。"
     # game/res/meta/cast.rpym:509
     old "Contagiously optimistic and endlessly cheerful, Miss [saga.cast.melody.clan] is a beacon of light within Summerville College. Inspiring her students through song and dance, and promoting a sense of community through teamwork. Her beautiful voice and curvaceous form bedazzle the senses and stupefy on-lookers with an astounding regularity.\n\nShe can often be found jamming out in her office after class."
     new "[saga.cast.melody.clan]小姐总是乐呵呵的，乐观得能感染身边每个人，像夏日学院里的一缕阳光。她用歌舞鼓励学生，让大家在合作中学会团结。那副好嗓子，再加上凹凸有致的身段，时不时就能把旁人迷得魂都没了。\n\n课后去她办公室，常能碰上她正忘情地玩着音乐。"

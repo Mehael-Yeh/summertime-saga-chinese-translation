@@ -8,15 +8,15 @@ translate zh_hans strings:
 
     # game/src/menu/team.rpy:19
     old "CODE"
-    new "代码"
+    new "程序开发"
 
     # game/src/menu/team.rpy:25
     old "STORY"
-    new "故事"
+    new "剧情编写"
 
     # game/src/menu/team.rpy:31
     old "POSING"
-    new "姿势"
+    new "姿势设计"
 
     # game/src/menu/team.rpy:39
     old "HR"

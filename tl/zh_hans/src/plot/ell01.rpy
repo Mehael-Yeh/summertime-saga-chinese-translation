@@ -58,4 +58,4 @@ translate zh_hans ell01_ella_278de845:
 translate zh_hans ell01_ella_rails_efd2252d:
 
     # anon @ -m_talk "( Oh right, because I'm {i}not{/i} going to try take this opportunity to meet whoever she is. )"
-    anon @ -m_talk "（哦对了，因为我{i}不{/i}打算趁这个机会去认识她是谁。）"
+    anon @ -m_talk "（对哦，这么好的机会，我怎么可能{i}不{/i}去认识一下她？）"

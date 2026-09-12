@@ -46,7 +46,7 @@ translate zh_hans mel01_intro_8327cd39:
 translate zh_hans mel01_intro_764e1304:
 
     # melody "Well, I betcha we can figure something out."
-    melody "嗯，我打赌我们能想出办法的。"
+    melody "嗯，总能想出办法的。"
 
 # game/src/plot/mel01.rpy:23
 translate zh_hans mel01_intro_7410c097:
@@ -64,7 +64,7 @@ translate zh_hans mel01_intro_17c53e56:
 translate zh_hans mel01_intro_374c9916:
 
     # anon "Alright, any instrument in particular, [saga.cast.melody]?"
-    anon "好吧，特别是哪种乐器呢，[saga.cast.melody]？"
+    anon "好，[saga.cast.melody]，你建议我选哪种乐器？"
 
 # game/src/plot/mel01.rpy:33
 translate zh_hans mel01_intro_2f0b4d58:
@@ -592,7 +592,7 @@ translate zh_hans mel01_melody_703dc29e:
 translate zh_hans mel01_melody_d2ca233c:
 
     # melody "These ladies have a habit of getting in the way."
-    anon "这两个女人总是爱碍事。"
+    melody "这对宝贝老是碍事。"
 
 # game/src/plot/mel01.rpy:286
 translate zh_hans mel01_melody_9cf0a617:
@@ -742,13 +742,13 @@ translate zh_hans mel01_melody_ddbaf030:
 translate zh_hans mel01_melody_b78a25b4:
 
     # melody "Um, well, we did have one."
-    melody "呃，好吧，我们确实有一个。"
+    melody "呃，我们之前确实有一支。"
 
 # game/src/plot/mel01.rpy:366
 translate zh_hans mel01_melody_ff458c39:
 
     # melody "Hmm. I wonder where it went."
-    melody "嗯，我猜它去哪了。"
+    melody "嗯，不知道跑哪儿去了。"
 
 # game/src/plot/mel01.rpy:368
 translate zh_hans mel01_melody_1c3021f3:
@@ -790,7 +790,7 @@ translate zh_hans mel01_cabinet_3b42405f:
 translate zh_hans mel01_cabinet_1ce7e919:
 
     # anon "It looks like [saga.cast.judith] was the last person to check out the school's flute."
-    anon "看来[saga.cast.judith]是最后一个借出学校长笛的人。"
+    anon "看来[saga.cast.judith]是最后一个借用学校长笛的人。"
 
 # game/src/plot/mel01.rpy:387
 translate zh_hans mel01_cabinet_c19f5757:
@@ -1150,7 +1150,7 @@ translate zh_hans mel01_hall1w_4a9a5c3e:
 translate zh_hans mel01_hall1w_f29af223:
 
     # judith "T-there you are. It's open..."
-    judith "在——在那里。门开着……"
+    judith "好——好了，打开了……"
 
 # game/src/plot/mel01.rpy:595
 translate zh_hans mel01_hall1w_8e3fbe32:
@@ -1252,7 +1252,7 @@ translate zh_hans mel01_flute_270304a0:
 translate zh_hans mel01_flute_9cd1ae88:
 
     # erik "It has definitely seen better days..."
-    erik "它确实已经风光不再了……"
+    erik "确实折腾得够呛……"
 
 # game/src/plot/mel01.rpy:655
 translate zh_hans mel01_flute_bc074c2a:
@@ -1270,7 +1270,7 @@ translate zh_hans mel01_flute_f4198ad5:
 translate zh_hans mel01_flute_36d83ef9:
 
     # anon "You think?"
-    anon "你觉得呢？"
+    anon "你觉得能行？"
 
 # game/src/plot/mel01.rpy:664
 translate zh_hans mel01_flute_2287a6ed:
@@ -1288,7 +1288,7 @@ translate zh_hans mel01_flute_e3ad8a45:
 translate zh_hans mel01_flute_63ebcd57:
 
     # erik "All you need is a good piece of wood and a drill to make all the holes."
-    erik "你只需要一块好木头和一把钻头来打孔。"
+    erik "你只需要一块好木头，再用电钻打孔。"
 
 # game/src/plot/mel01.rpy:670
 translate zh_hans mel01_flute_f68326e2:
@@ -1396,7 +1396,7 @@ translate zh_hans mel01_flute_rails_f570bcdf:
 translate zh_hans mel01_craft_265e34fc:
 
     # mono "You know, it was oddly satisfying, building a flute by hand. It actually got me pretty excited to play it!" with fade
-    mono "你知道吗，亲手做一支笛子有种奇怪的满足感。这让我超级兴奋想吹它！" with fade
+    mono "说来也怪，亲手做出一支笛子还挺有成就感，让我迫不及待地想试吹一下！" with fade
 
 # game/src/plot/mel01.rpy:734
 translate zh_hans mel01_craft_2463e509:
@@ -1426,7 +1426,7 @@ translate zh_hans mel01_craft_eeea9be5:
 translate zh_hans mel01_craft_249d1176:
 
     # anon "( I bet [saga.cast.melody] is gonna freak out when she sees I built a flute from scratch! )"
-    anon "（我打赌[saga.cast.melody]看到我亲手做出一根笛子时会吓疯的！）"
+    anon "（[saga.cast.melody]看到我亲手做出了一支笛子，肯定会大吃一惊！）"
 
 # game/src/plot/mel01.rpy:751
 translate zh_hans mel01_craft_erik_df5b2c4e:
@@ -1738,7 +1738,7 @@ translate zh_hans mel01_outro_d9c634a6:
 translate zh_hans mel01_outro_e65fd64c:
 
     # anon "Sure!"
-    anon "当然！"
+    anon "不介意，你看吧！"
 
 # game/src/plot/mel01.rpy:932
 translate zh_hans mel01_outro_a62a9a8e:
@@ -1756,7 +1756,7 @@ translate zh_hans mel01_outro_666a7324:
 translate zh_hans mel01_outro_0fc14e25:
 
     # melody "When you're done with this flute, I wouldn't mind borrowing it for a night or two!"
-    melody "等你弄好这支笛子，我不介意借来用一两个晚上！"
+    melody "等你用完这支笛子，借我用一两个晚上也不错！"
 
 # game/src/plot/mel01.rpy:937
 translate zh_hans mel01_outro_13438e66:
@@ -1780,7 +1780,7 @@ translate zh_hans mel01_outro_6d32c8cc:
 translate zh_hans mel01_outro_6bc86fdb:
 
     # anon "I tried playing it earlier. It isn't too hard!"
-    anon "我之前试过弹它。并不难！"
+    anon "我之前试着吹过，还挺容易的！"
 
 # game/src/plot/mel01.rpy:947
 translate zh_hans mel01_outro_0a0c3acd:

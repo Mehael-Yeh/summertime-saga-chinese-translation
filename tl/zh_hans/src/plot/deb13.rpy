@@ -322,7 +322,7 @@ translate zh_hans deb13_lobby_bdf2bbda:
 translate zh_hans deb13_lobby_45202b46:
 
     # anon "Nope. I've got it!"
-    anon "不用了，我搞定了！"
+    anon "不用，我能搞定！"
 
 # game/src/plot/deb13.rpy:77
 translate zh_hans deb13_lobby_529a7227:
@@ -1774,7 +1774,7 @@ translate zh_hans deb13_retry_friends_69ea6692:
 translate zh_hans deb13_retry_friends_86757dce:
 
     # josie a_landline_talk "I wasn't expecting you to be on the other end of this line..."
-    josie a_landline_talk "我没想到接电话的会是你……"
+    josie a_landline_talk "没想到电话那头会是你……"
 
 # game/src/plot/deb13.rpy:824
 translate zh_hans deb13_retry_friends_0a43421a:

@@ -166,7 +166,7 @@ translate zh_hans debbie_rug_once_60b52cdf:
 translate zh_hans debbie_rug_once_1d23a887:
 
     # mono "Thinking as if to examine it, I lifted the corner,\nand as I did so something beneath it caught my eye." with fade
-    mono "我假装检查，掀起了一角，\n就在这时，底下有个东西吸引了我的注意。" with fade
+    mono "我想仔细看看，便掀起地毯一角，\n却被底下的东西吸引了目光。" with fade
 
 # game/src/plot/debbie_rug.rpy:89
 translate zh_hans debbie_rug_once_f9c30e87:
@@ -178,7 +178,7 @@ translate zh_hans debbie_rug_once_f9c30e87:
 translate zh_hans debbie_rug_once_c2d3b10b:
 
     # mono "What contrived combination of happenstance had conspired to create this curious aperture..." with fade
-    mono "究竟是什么机缘巧合的诡异组合，造就了这奇异的洞口……" with fade
+    mono "究竟得有多少刻意安排般的巧合，才会造就这样一个奇妙的洞口……" with fade
 
 # game/src/plot/debbie_rug.rpy:93
 translate zh_hans debbie_rug_once_957e404a:
@@ -190,7 +190,7 @@ translate zh_hans debbie_rug_once_957e404a:
 translate zh_hans debbie_rug_once_747a8e46:
 
     # mono "These questions and more were quickly forgotten however, left forever unanswered, as the enormity of my discovery came into focus."
-    mono "然而，这些问题连同更多疑问很快就被抛诸脑后，永远得不到解答，因为我发现的东西实在太惊人了。"
+    mono "不过，当我看清这个惊人发现时，这些疑问就全被抛到了脑后，恐怕永远也不会有答案了。"
 
 # game/src/plot/debbie_rug.rpy:103
 translate zh_hans debbie_rug_play_6eea506d:

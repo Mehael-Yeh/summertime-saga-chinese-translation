@@ -208,7 +208,7 @@ translate zh_hans dia01_diane_832cb315:
 translate zh_hans dia01_diane_d987a352:
 
     # anon a_shovel e_w "Here it is!"
-    anon a_shovel e_w "在这里！"
+    anon a_shovel e_w "铲子带来了！"
 
 # game/src/plot/dia01.rpy:76
 translate zh_hans dia01_diane_15ad2e9b:

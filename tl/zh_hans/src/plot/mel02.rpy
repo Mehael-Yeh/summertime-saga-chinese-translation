@@ -845,7 +845,7 @@ translate zh_hans mel02_ask_rhonda_9eb303af:
 
 
     # rhonda e_r f_annoyed "Pfft, yeah right."
-    rhonda e_r f_annoyed "切，说得对。"
+    rhonda e_r f_annoyed "切，才怪。"
 
 # game/src/plot/mel02.rpy:356
 translate zh_hans mel02_ask_roxxy_8c784552:
@@ -1405,7 +1405,7 @@ translate zh_hans mel02_eve_ask_719e8ae2:
 
 
     # anon a_wipe e_b f_calm m_drink @ -m_talk "( Nice, we're still in business! )"
-    anon a_wipe e_b f_calm m_drink @ -m_talk "（太好了，我们还在营业！）"
+    anon a_wipe e_b f_calm m_drink @ -m_talk "（太好了，计划可以照常进行了！）"
 
 # game/src/plot/mel02.rpy:594
 translate zh_hans mel02_eve_pause_erik_485c9afc:
@@ -1468,7 +1468,7 @@ translate zh_hans mel02_eve_pause_eve_451105e7:
 
 
     # eve f_nervous "Eh, probably not the word I'd choose."
-    eve f_nervous "呃，可能不是我会选择的词。"
+    eve f_nervous "呃，倒也谈不上期待。"
 
 # game/src/plot/mel02.rpy:618
 translate zh_hans mel02_eve_pause_eve_845217c7:
@@ -1510,7 +1510,7 @@ translate zh_hans mel02_eve_delay_erik_56818a42:
 
 
     # anon "Sorry I kinda sprang it on you."
-    anon "抱歉我有点突然。"
+    anon "抱歉，临时才跟你说。"
 
 # game/src/plot/mel02.rpy:647
 translate zh_hans mel02_eve_delay_erik_b71ac017:
@@ -1720,7 +1720,7 @@ translate zh_hans mel02_eve_den_merge_b6542e7e:
 
 
     # erik "Y-yeah, why?"
-    erik "好—好吧，怎么了？"
+    erik "是——是啊，怎么了？"
 
 # game/src/plot/mel02.rpy:738
 translate zh_hans mel02_eve_den_merge_6081c981:
@@ -1790,7 +1790,7 @@ translate zh_hans mel02_eve_den_merge_1ef72e51:
 
 
     # anon "I know right? This is the perfect party house."
-    anon "对吧？这简直是完美的派对吧。"
+    anon "对吧？这房子简直太适合开派对了。"
 
 # game/src/plot/mel02.rpy:785
 translate zh_hans mel02_eve_den_merge_48bf20a8:
@@ -2367,7 +2367,7 @@ translate zh_hans mel02_kevin_ask_merge_5232e8a2:
 
 
     # anon "( I need to switch my custom-made guitar with one in [saga.cast.erik]'s basement! )"
-    anon "（我需要用我定做的吉他换掉[saga.cast.erik]的地下室里的那把！）"
+    anon "（我得用自己做的假吉他换走[saga.cast.erik]地下室里的那把真吉他！）"
 
 # game/src/plot/mel02.rpy:1136
 translate zh_hans mel02_kevin_ask_merge_a73c17e6:
@@ -2620,7 +2620,7 @@ translate zh_hans mel02_kevin_craft_490a8297:
 translate zh_hans mel02_kevin_craft_48471600:
 
     # anon "Yikes! Maybe I'm not quite as ready for the big time as I thought!"
-    anon "哎呀！也许我还没自己想的那么准备好迎接大场面！"
+    anon "哎呀！看来我这手艺离成名还远着呢！"
 
 # game/src/plot/mel02.rpy:1269
 translate zh_hans mel02_kevin_craft_135dbe84:
@@ -2734,7 +2734,7 @@ translate zh_hans mel02_kevin_craft_planks_b5ae2449:
 
 
     # anon "( With some tools and a little paint, I can make a fake guitar no problem. )"
-    anon "（用些工具和一点颜料，我就能轻松做把假吉他。）"
+    anon "（有工具，再加一点油漆，我就能轻松做把假吉他。）"
 
 # game/src/plot/mel02.rpy:1346
 translate zh_hans mel02_kevin_guitar_62cdddbe:

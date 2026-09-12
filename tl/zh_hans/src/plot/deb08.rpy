@@ -2256,11 +2256,11 @@ translate zh_hans strings:
     # game/src/plot/deb08.rpy:383
     # game/src/plot/deb08.rpy:525
     old "Peek."
-    new "偷看。"
+    new "偷看"
 
     # game/src/plot/deb08.rpy:528
     old "Keep it respectful."
-    new "规矩点。"
+    new "规矩点"
 
     # game/src/plot/deb08.rpy:589
     # game/src/plot/deb08.rpy:592
@@ -2278,4 +2278,4 @@ translate zh_hans strings:
 
     # game/src/plot/deb08.rpy:376
     old "Definitely!"
-    new "当然愿意！"
+    new "当然！"

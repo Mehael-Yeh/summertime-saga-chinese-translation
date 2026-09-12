@@ -76,7 +76,7 @@ translate zh_hans debbie_tv_play_2582a868:
 translate zh_hans debbie_tv_play_d08f5efd:
 
     # anon "( This'll work, it's a re-run but such a fun match. )"
-    anon "（这行得通，虽然是重播，但比赛真有趣。）"
+    anon "（先看这个吧。虽然是重播，但这场比赛可有意思了。）"
 
 # game/src/plot/debbie_tv.rpy:71
 translate zh_hans debbie_tv_play_e52e2812:

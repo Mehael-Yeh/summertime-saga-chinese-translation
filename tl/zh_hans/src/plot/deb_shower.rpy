@@ -1186,7 +1186,7 @@ translate zh_hans deb_shower_blowjob2_f6bab7e5:
 translate zh_hans deb_shower_blowjob2_828b4bd8:
 
     # debbie f_worried_surprised "That's a terrible thing to say to your landlady!!"
-    debbie f_worried_surprised "对你这个房东太太说这种话，太过分了！！"
+    debbie f_worried_surprised "居然对你的房东太太说这种话，太过分了！！"
 
 # game/src/plot/deb_shower.rpy:485
 translate zh_hans deb_shower_blowjob2_b82c2e64:
@@ -1360,7 +1360,7 @@ translate zh_hans deb_shower_blowjob2_c9bf678e:
 translate zh_hans deb_shower_blowjob2_194963f5:
 
     # debbie f_shy "Excuse me."
-    debbie f_shy "失陪了。"
+    debbie f_shy "不好意思。"
 
 # game/src/plot/deb_shower.rpy:549
 translate zh_hans deb_shower_blowjob2_871186c2:
@@ -2188,7 +2188,7 @@ translate zh_hans deb_shower_handjob1a_5794a7b8:
 translate zh_hans deb_shower_handjob1a_4591b592:
 
     # anon f_happy "Umm, do bears shit in the woods?!"
-    anon f_happy "嗯，当然了！"
+    anon f_happy "嗯，废话，当然愿意！"
 
 # game/src/plot/deb_shower.rpy:880
 translate zh_hans deb_shower_handjob1a_3f604875:

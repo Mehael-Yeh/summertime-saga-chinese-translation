@@ -1264,7 +1264,7 @@ translate zh_hans jen26_cinema_04a7e764:
 translate zh_hans jen26_cinema_43f7d116:
 
     # mono "As we made our way into the screen the trailers were already in full swing, and I began to sit down in the first available seats to watch." with fade
-    mono "我们走进影厅时，预告片已经放得热火朝天。我正打算在最先看到的空位坐下观看。" with fade
+    mono "我们走进影厅时，预告片已经播上了。我正打算在最先看到的空位坐下观看。" with fade
 
 # game/src/plot/jen26.rpy:476
 translate zh_hans jen26_cinema_a2115ebe:
@@ -1420,7 +1420,7 @@ translate zh_hans jen26_cinema_015e96e7:
 translate zh_hans jen26_cinema_e71bfca4:
 
     # anon "Yeah, exactly like the first one."
-    anon "是啊，就和第一个一样。"
+    anon "是啊，跟第一部一模一样。"
 
 # game/src/plot/jen26.rpy:521
 translate zh_hans jen26_cinema_441ed20c:

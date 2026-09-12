@@ -40,11 +40,11 @@ translate zh_hans strings:
 
     # game/src/menu/slot.rpy:116
     old "Long press to save with a caption."
-    new "长按以保存并添加说明。"
+    new "长按可添加备注并保存。"
 
     # game/src/menu/slot.rpy:118
     old "Right-click to save with a caption."
-    new "右键点击以添加说明并保存。"
+    new "右键点击可添加备注并保存。"
 
     # game/src/menu/slot.rpy:128
     old "OK"
@@ -52,7 +52,7 @@ translate zh_hans strings:
 
     # game/src/menu/slot.rpy:133
     old "Enter a note to help recognise this save:"
-    new "输入备注以帮助识别此存档："
+    new "为这份存档添加备注，方便日后查找："
 
     # game/src/menu/slot.rpy:47
     old "{#date_fmt}%B %d, %H:%M"

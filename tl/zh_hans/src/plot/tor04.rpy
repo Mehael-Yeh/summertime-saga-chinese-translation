@@ -40,7 +40,7 @@ translate zh_hans tor04_tori_79bb7138:
 translate zh_hans tor04_tori_7c926853:
 
     # anon "Alright, now wha-"
-    anon "行了，你到——"
+    anon "拿来了，接下来——"
 
 # game/src/plot/tor04.rpy:36
 translate zh_hans tor04_tori_e8d16f7d:
@@ -196,7 +196,7 @@ translate zh_hans tor04_tori_4ea50e7a:
 translate zh_hans tor04_tori_7f8f74c0:
 
     # tori "Mmmm."
-    tori "嗯……。"
+    tori "嗯……"
 
 # game/src/plot/tor04.rpy:99
 translate zh_hans tor04_tori_b313d677:
@@ -256,7 +256,7 @@ translate zh_hans tor04_tori_821b1f9e:
 translate zh_hans tor04_tori_84764408:
 
     # ursula "This is your last stop, [saga.cast.tori.name]!"
-    ursula "这是你的最后一站，[saga.cast.tori.name]！"
+    ursula "除了这里，你已经无处可去了，[saga.cast.tori.name]！"
 
 # game/src/plot/tor04.rpy:117
 translate zh_hans tor04_tori_8add1854:
@@ -268,13 +268,13 @@ translate zh_hans tor04_tori_8add1854:
 translate zh_hans tor04_tori_4b591d44:
 
     # ursula "Do we have an understanding here?!"
-    ursula "我们达成共识了吗？！"
+    ursula "听明白了吗？！"
 
 # game/src/plot/tor04.rpy:121
 translate zh_hans tor04_tori_6cc7b6e7:
 
     # tori "Yess!! YessSssss!!!"
-    tori "是！！是Sssss！！！"
+    tori "是！！是——！！！"
 
 # game/src/plot/tor04.rpy:123
 translate zh_hans tor04_tori_8ba53f07:
@@ -454,7 +454,7 @@ translate zh_hans tor04_tori_67e0f8c5:
 translate zh_hans tor04_tori_a9c0eb8f:
 
     # tori "THE BELT! TURN IT OFF!"
-    tori "皮带！关掉它！"
+    tori "腰带！把它关掉！"
 
 # game/src/plot/tor04.rpy:196
 translate zh_hans tor04_tori_9f2b5d9e:
@@ -490,7 +490,7 @@ translate zh_hans tor04_tori_c2771f5e:
 translate zh_hans tor04_tori_0575dbd6:
 
     # anon "... You want me to?"
-    anon "……你确定要我？"
+    anon "……你要我帮你脱下来？"
 
 # game/src/plot/tor04.rpy:212
 translate zh_hans tor04_tori_9f6bfbb1:
@@ -526,7 +526,7 @@ translate zh_hans tor04_tori_0bb6726c:
 translate zh_hans tor04_tori_b142f0b0:
 
     # anon "Got it!"
-    anon "知道了！"
+    anon "取下来了！"
 
 # game/src/plot/tor04.rpy:227
 translate zh_hans tor04_tori_faebb70a:

@@ -4,4 +4,4 @@ translate zh_hans strings:
 
     # game/src/mini/scuffle.rpy:17
     old "Click like your life depends on it!"
-    new "像你的命就悬在上面一样点！"
+    new "拼命点击！"

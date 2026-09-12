@@ -1248,7 +1248,7 @@ translate zh_hans strings:
 
     # game/src/plot/debbie.rpy:31
     old "Dreams."
-    new "梦想"
+    new "梦境"
 
     # game/src/plot/debbie.rpy:34
     old "Kissing."

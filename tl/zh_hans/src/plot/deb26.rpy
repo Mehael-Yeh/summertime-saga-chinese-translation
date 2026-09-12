@@ -2976,7 +2976,7 @@ translate zh_hans deb26_shop_9a04016a:
 
 
     # titomi "Excellent choice."
-    titomi "绝佳的选择。"
+    titomi "您真会选。"
 
 # game/src/plot/deb26.rpy:1160
 translate zh_hans deb26_shop_f809a122:
@@ -3022,7 +3022,7 @@ translate zh_hans deb26_shop_454f7f38:
 translate zh_hans deb26_shop_1bd2d4f9:
 
     # anon e_w f_shy "Why don't you pick something?"
-    anon e_w f_shy "你怎么不选点什么？"
+    anon e_w f_shy "要不你来点菜？"
 
 # game/src/plot/deb26.rpy:1185
 translate zh_hans deb26_shop_d078d9f7:
@@ -3137,7 +3137,7 @@ translate zh_hans deb26_shop_5242d979:
 translate zh_hans deb26_shop_6bf44e03:
 
     # anon f_smug "I am."
-    anon f_smug "我就是。"
+    anon f_smug "我确定。"
 
 # game/src/plot/deb26.rpy:1232
 translate zh_hans deb26_shop_e63065b9:
@@ -3546,7 +3546,7 @@ translate zh_hans deb26_shop_608b4e6f:
 
 
     # anon e_w "Yeah, sucks-que-rant."
-    anon e_w "鲜……鲜美多之。"
+    anon e_w "鲜……鲜美多姿。"
 
 # game/src/plot/deb26.rpy:1417
 translate zh_hans deb26_shop_ea7d5eea:
@@ -3949,7 +3949,7 @@ translate zh_hans deb26_shop_merge1_bceeb639:
 translate zh_hans deb26_shop_merge1_5c2de0f7:
 
     # debbie a_down f_calm p_sit z_reset "Oh, yes please."
-    debbie a_down f_calm p_sit z_reset "哦，好的，拜托了。"
+    debbie a_down f_calm p_sit z_reset "嗯，走吧。"
 
 # game/src/plot/deb26.rpy:1607
 translate zh_hans deb26_shop_merge1_2fdc1d4a:
@@ -5394,7 +5394,7 @@ translate zh_hans deb26_kitchen_fddfac39:
 translate zh_hans deb26_kitchen_57ff0936:
 
     # anon "Would you like that?"
-    anon "你喜欢我这么叫吗？"
+    anon "你愿意吗？"
 
 # game/src/plot/deb26.rpy:2249
 translate zh_hans deb26_kitchen_9f1b6f6a:

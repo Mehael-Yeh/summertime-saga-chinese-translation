@@ -22,7 +22,7 @@ translate zh_hans tor_office_2a032bf9:
 translate zh_hans tor_office_9fdd7318:
 
     # tori "Of course, just let me just attach your sensory AR device..."
-    tori "当然，先让我给你戴上感官AR设备……"
+    tori "当然，先让我给你戴上感官增强现实设备……"
 
 # game/src/plot/tor_office.rpy:19
 translate zh_hans tor_office_af714091:

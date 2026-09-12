@@ -286,7 +286,7 @@ translate zh_hans deb07_movie_7bff8429:
 translate zh_hans deb07_movie_6ef29f52:
 
     # more "... Especially when the movie took an erotic turn."
-    more "……尤其是在电影情节逐渐变得情色以后。"
+    more "……尤其是电影里开始出现香艳情节以后。"
 
 # game/src/plot/deb07.rpy:111
 translate zh_hans deb07_movie_42584e5e:

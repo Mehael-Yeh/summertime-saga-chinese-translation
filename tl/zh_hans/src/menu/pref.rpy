@@ -8,7 +8,7 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:23
     old "Gameplay"
-    new "游戏性"
+    new "游戏选项"
 
     # game/src/menu/pref.rpy:28
     old "Cheats"
@@ -20,7 +20,7 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:47
     old "Font override"
-    new "字体覆盖"
+    new "替换字体"
 
     # game/src/menu/pref.rpy:48
     old "Disabled"
@@ -56,7 +56,7 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:86
     old "Self-voicing volume drop"
-    new "自动朗读音量降低"
+    new "朗读时背景音量降低"
 
     # game/src/menu/pref.rpy:91
     old "Restore defaults"
@@ -68,7 +68,7 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:113
     old "This will not impact your save data. Turning this option off will revert to showing only those scenes you have unlocked legitimately."
-    new "这不会影响您的存档数据。关闭此选项将恢复为仅显示您已合法解锁的场景。"
+    new "此选项不会影响存档。关闭后，图鉴将只显示你在正常游戏过程中解锁的场景。"
 
     # game/src/menu/pref.rpy:117
     old "Disable cheats"
@@ -80,7 +80,7 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:129
     old "Rollback side"
-    new "回滚侧边"
+    new "回退操作区域"
 
     # game/src/menu/pref.rpy:147
     old "Reset size"
@@ -108,15 +108,15 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:180
     old "Easy (Skip mini games)"
-    new "简单(跳过小游戏)"
+    new "简单（跳过小游戏）"
 
     # game/src/menu/pref.rpy:183
     old "Reveal pregnancy"
-    new "揭示怀孕"
+    new "显示受孕结果"
 
     # game/src/menu/pref.rpy:188
     old "Enables the wheel of conception, allowing the player to see the result of pregnancy attempts immediately.\n\nTurn this off to learn about pregnancies at the same time as the characters."
-    new "启用受孕轮盘，使玩家能立即看到怀孕尝试的结果。\n\n关闭此选项，将与角色同时了解怀孕情况。"
+    new "开启受孕轮盘，立即显示是否成功受孕。\n\n关闭后，你会和角色同时得知怀孕的消息。"
 
     # game/src/menu/pref.rpy:194
     old "X-Rays"
@@ -140,7 +140,7 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:213
     old "Adds various controls to the bottom of the dialogue window that can be useful to those playing on touch screen devices."
-    new "在对话窗口底部添加各种控件，对触屏设备玩家有用。"
+    new "在对话框底部显示操作按钮，方便使用触屏设备的玩家。"
 
     # game/src/menu/pref.rpy:217
     old "Skip unseen text"
@@ -148,15 +148,15 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:223
     old "Skip after choices"
-    new "选择后跳过"
+    new "选项后继续快进"
 
     # game/src/menu/pref.rpy:229
     old "Text speed"
-    new "文字速度"
+    new "文字显示速度"
 
     # game/src/menu/pref.rpy:234
     old "Auto-forward time"
-    new "自动前进时间"
+    new "自动播放间隔"
 
     # game/src/menu/pref.rpy:241
     old "Overall"

@@ -233,7 +233,7 @@ translate zh_hans strings:
 
     # game/src/plot/cedric.rpy:16
     old "Can you spot me?"
-    new "你能借我点钱吗？"
+    new "你能帮我护着点儿吗？"
 
     # game/src/plot/cedric.rpy:19
     old "See ya!"

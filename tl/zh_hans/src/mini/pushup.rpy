@@ -4,4 +4,4 @@ translate zh_hans strings:
 
     # game/src/mini/pushup.rpy:27
     old "Click to do as many push-ups as possible within the time!"
-    new "在时限内尽可能多地点击做俯卧撑！"
+    new "不断点击，在规定时间内尽量多做几个俯卧撑！"

@@ -460,13 +460,13 @@ translate zh_hans deb_pants_alt_78ed1092:
 translate zh_hans deb_pants_alt_dba8042a:
 
     # anon a_cover_face e_b f_distressed o_left "... Things are just so... backed up, and I didn't wanna be a bother so-"
-    anon a_cover_face e_b f_distressed o_left "……事情憋得太久了……我又不想麻烦你，所以——"
+    anon a_cover_face e_b f_distressed o_left "……我实在憋得太久了，又不想麻烦你，所以——"
 
 # game/src/plot/deb_pants.rpy:217
 translate zh_hans deb_pants_alt_e5bd9067:
 
     # debbie "Backed up?"
-    debbie "积压？"
+    debbie "憋得太久了？"
 
 # game/src/plot/deb_pants.rpy:219
 translate zh_hans deb_pants_alt_9a8d1485:

@@ -225,7 +225,7 @@
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
       "source": "Self-Voicing Volume Drop",
-      "target": "自动朗读音量降低"
+      "target": "朗读时背景音量降低"
     },
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
@@ -245,7 +245,7 @@
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
       "source": "self voicing volume drop",
-      "target": "自动朗读音量降低"
+      "target": "朗读时背景音量降低"
     },
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
@@ -255,7 +255,7 @@
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
       "source": "Self-voicing enabled. Press 'v' to disable.",
-      "target": "自动朗读已启用。按 'v' 禁用。"
+      "target": "已启用自动朗读。按V关闭。"
     },
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
@@ -265,7 +265,7 @@
     {
       "file": "tl/zh_hans/base_box/screens_box.rpy",
       "source": "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.",
-      "target": "切换辅助功能 {a=https://www.renpy.org/l/voicing}自动朗读{/a}。"
+      "target": "开启或关闭辅助功能中的{a=https://www.renpy.org/l/voicing}自动朗读{/a}。"
     },
     {
       "file": "tl/zh_hans/bytecode_strings.rpy",
@@ -525,7 +525,7 @@
     {
       "file": "tl/zh_hans/src/menu/pref.rpy",
       "source": "Self-voicing volume drop",
-      "target": "自动朗读音量降低"
+      "target": "朗读时背景音量降低"
     },
     {
       "file": "tl/zh_hans/src/plot/gym_workout.rpy",
@@ -700,7 +700,7 @@
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
       "source": "Enter the lounge in the afternoon [saga.lang.wait(f)!t].",
-      "target": "下午进入客厅[saga.lang.wait(f)!t]。"
+      "target": "[saga.lang.wait(f)!t]下午进入客厅。"
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
@@ -4016,7 +4016,7 @@
     {
       "file": "tl/zh_hans/src/plot/tor_office.rpy",
       "source": "Of course, just let me just attach your sensory AR device...",
-      "target": "当然，先让我给你戴上感官AR设备……",
+      "target": "当然，先让我给你戴上感官增强现实设备……",
       "id": "tor_office_9fdd7318"
     },
     {
@@ -5588,6 +5588,2656 @@
       "source": "What about the Okitatron Oculars?",
       "target": "那Okitatron眼镜怎么办？",
       "id": "tor02_office2_a4f8846b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "It's good for a start.",
+      "target": "作为开端，还不错。",
+      "id": "tor03_intro_930bc133"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "Yesterday's news!",
+      "target": "早就过时了！",
+      "id": "tor03_intro_583a6700"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "I call this, the Okitatron Belt.",
+      "target": "我把它叫作Okitatron腰带。",
+      "id": "tor03_intro_27077712"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "The Okitatron Belt is gonna revolutionize the way people keep in shape!",
+      "target": "Okitatron腰带会彻底改变人们保持身材的方式！",
+      "id": "tor03_intro_29c9efc2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "Sure, no problem.",
+      "target": "不介意，拿去吧。",
+      "id": "tor03_erik_d2e221f3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "... And he said we can have it!",
+      "target": "……他说可以给我们！",
+      "id": "tor03_gamepad_june_f3f1e560"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "Making any progress with the belt?",
+      "target": "腰带做得怎么样了？",
+      "id": "tor03_delay_tori_a2ae23bd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "Just make certain you're ready to work once I've ironed out the kinks.",
+      "target": "等我解决这些问题，你就得准备好开工。",
+      "id": "tor03_delay_tori_af4e583f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "Very well, you can go ahead and get started on the belt.",
+      "target": "很好，你可以开始做腰带了。",
+      "id": "tor03_tori2_f47b325e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "So it was that I set to work. Fastidiously adhering to the detailed blueprints, brimming with confidence that having already built X-ray goggles there was no way a belt could best me.",
+      "target": "于是我动起手来，严格照着详细的蓝图操作，信心满满——既然连X光眼镜都做出来了，区区一条腰带还能难倒我？",
+      "id": "tor03_tori2_acdba04d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "There you are, ready to test this thing?",
+      "target": "你来了，准备好测试这东西了吗？",
+      "id": "tor03_office2_aa415121"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "Nothing, I built it exactly like the blueprint said!",
+      "target": "我没乱来，完全是照着蓝图做的！",
+      "id": "tor03_office2_a11fd374"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "I'm trying to think...",
+      "target": "别打岔，让我想想……",
+      "id": "tor03_office2_d852e0c3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor04.rpy",
+      "source": "Alright, now wha-",
+      "target": "拿来了，接下来——",
+      "id": "tor04_tori_7c926853"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor04.rpy",
+      "source": "Mmmm.",
+      "target": "嗯……",
+      "id": "tor04_tori_7f8f74c0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor04.rpy",
+      "source": "This is your last stop, [saga.cast.tori.name]!",
+      "target": "除了这里，你已经无处可去了，[saga.cast.tori.name]！",
+      "id": "tor04_tori_84764408"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor04.rpy",
+      "source": "Do we have an understanding here?!",
+      "target": "听明白了吗？！",
+      "id": "tor04_tori_4b591d44"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor04.rpy",
+      "source": "Yess!! YessSssss!!!",
+      "target": "是！！是——！！！",
+      "id": "tor04_tori_6cc7b6e7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor04.rpy",
+      "source": "THE BELT! TURN IT OFF!",
+      "target": "腰带！把它关掉！",
+      "id": "tor04_tori_a9c0eb8f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor04.rpy",
+      "source": "... You want me to?",
+      "target": "……你要我帮你脱下来？",
+      "id": "tor04_tori_0575dbd6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor04.rpy",
+      "source": "Got it!",
+      "target": "取下来了！",
+      "id": "tor04_tori_b142f0b0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "Psychotropic what?",
+      "target": "致幻什么？",
+      "id": "tor05_intro_d2a7ee7e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "What was it you said about the mushroom?",
+      "target": "关于那种蘑菇，你之前怎么说的来着？",
+      "id": "tor05_take_help_de075ee0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "The psychotropic euphorbia is a luminescent flower that grows only in dark places.",
+      "target": "致幻大戟是一种只生长在黑暗处的发光花朵。",
+      "id": "tor05_take_help_aea2a95e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "( I should buy some and take it to [saga.cast.tori]. )",
+      "target": "（我得买点带给[saga.cast.tori]。）",
+      "id": "tor05_take_vee_276827cf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "I think I've got everything.",
+      "target": "我想材料都找齐了。",
+      "id": "tor05_tori1_4c32c5ae"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "... You think?",
+      "target": "……你想？",
+      "id": "tor05_tori1_f921b2e7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "Yeah. It's all Consum-R had...",
+      "target": "是啊，购乐百货只剩鸡汤了……",
+      "id": "tor05_tori1_1df746b6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "Meet me in my office this evening, and we'll start mixing.",
+      "target": "今晚来我办公室，我们开始配制血清。",
+      "id": "tor05_tori1_2f611d48"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "Meet me in my office tomorrow evening, and we'll start mixing.",
+      "target": "明晚来我办公室，我们开始配制血清。",
+      "id": "tor05_tori1_07413879"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "Meet me in my office on [saga.time.dow + when] evening, and we'll start mixing.",
+      "target": "[saga.time.dow + when]晚上来我办公室，我们开始配制血清。",
+      "id": "tor05_tori1_bbdc6c35"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "You still haven't dosed [saga.cast.ursula]?!",
+      "target": "你还没给[saga.cast.ursula]下药？！",
+      "id": "tor05_coffee_tori_5dda1c7b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "Bawk bawk.",
+      "target": "咯咯。",
+      "id": "tor05_tori2_7a294e16"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "Yeah she is! Hahaha!",
+      "target": "可不是嘛！哈哈哈！",
+      "id": "tor05_tori2_a62cffc4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "( I should inform [saga.cast.tori] that I've dosed [saga.cast.ursula]'s afternoon coffee. )",
+      "target": "（我应该告诉[saga.cast.tori]，我已经在[saga.cast.ursula]下午喝的咖啡里下了药。）",
+      "id": "tor05_tori2_rails_dd24770b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "source": "... I appreciate you checking in with me though.",
+      "target": "……不过，谢谢你来关心我。",
+      "id": "tor06_setup_tori_b8cc17b9"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "source": "But building is monkey work. I thought you didn't do monkey work?",
+      "target": "可你不是说，动手组装是猴子干的活，你不干这种活吗？",
+      "id": "tor06_tori_7608ca8f"
+    },
+    {
+      "file": "tl/zh_hans/src/mech/shop.rpy",
+      "source": "Hi, [saga.cast.anon]. Checking something out?",
+      "target": "嗨，[saga.cast.anon]。来办借阅吗？",
+      "id": "shop_jane_8cf671d7"
+    },
+    {
+      "file": "tl/zh_hans/src/mech/shop.rpy",
+      "source": "Buy items for $[cash].",
+      "target": "花$[cash]购买这些物品"
+    },
+    {
+      "file": "tl/zh_hans/src/mech/shop.rpy",
+      "source": "Borrow [saga.gui.buy!lt].",
+      "target": "借阅[saga.gui.buy!lt]"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ivy.rpy",
+      "source": "I'm fine, thank you.",
+      "target": "不用了，谢谢。",
+      "id": "ivy_toy_shop_outro_6e48366c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ivy.rpy",
+      "source": "Alright, then! Let me know if you need anything else.",
+      "target": "好的！有别的需要就告诉我。",
+      "id": "ivy_toy_shop_outro_91b37b1a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "Well, I betcha we can figure something out.",
+      "target": "嗯，总能想出办法的。",
+      "id": "mel01_intro_764e1304"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "Alright, any instrument in particular, [saga.cast.melody]?",
+      "target": "好，[saga.cast.melody]，你建议我选哪种乐器？",
+      "id": "mel01_intro_374c9916"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "These ladies have a habit of getting in the way.",
+      "target": "这对宝贝老是碍事。",
+      "id": "mel01_melody_d2ca233c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "Um, well, we did have one.",
+      "target": "呃，我们之前确实有一支。",
+      "id": "mel01_melody_b78a25b4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "Hmm. I wonder where it went.",
+      "target": "嗯，不知道跑哪儿去了。",
+      "id": "mel01_melody_ff458c39"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "It looks like [saga.cast.judith] was the last person to check out the school's flute.",
+      "target": "看来[saga.cast.judith]是最后一个借用学校长笛的人。",
+      "id": "mel01_cabinet_1ce7e919"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "T-there you are. It's open...",
+      "target": "好——好了，打开了……",
+      "id": "mel01_hall1w_f29af223"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "It has definitely seen better days...",
+      "target": "确实折腾得够呛……",
+      "id": "mel01_flute_9cd1ae88"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "You think?",
+      "target": "你觉得能行？",
+      "id": "mel01_flute_36d83ef9"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "All you need is a good piece of wood and a drill to make all the holes.",
+      "target": "你只需要一块好木头，再用电钻打孔。",
+      "id": "mel01_flute_63ebcd57"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "You know, it was oddly satisfying, building a flute by hand. It actually got me pretty excited to play it!",
+      "target": "说来也怪，亲手做出一支笛子还挺有成就感，让我迫不及待地想试吹一下！",
+      "id": "mel01_craft_265e34fc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "( I bet [saga.cast.melody] is gonna freak out when she sees I built a flute from scratch! )",
+      "target": "（[saga.cast.melody]看到我亲手做出了一支笛子，肯定会大吃一惊！）",
+      "id": "mel01_craft_249d1176"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "Sure!",
+      "target": "不介意，你看吧！",
+      "id": "mel01_outro_e65fd64c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "When you're done with this flute, I wouldn't mind borrowing it for a night or two!",
+      "target": "等你用完这支笛子，借我用一两个晚上也不错！",
+      "id": "mel01_outro_0fc14e25"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "I tried playing it earlier. It isn't too hard!",
+      "target": "我之前试着吹过，还挺容易的！",
+      "id": "mel01_outro_6bc86fdb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Pfft, yeah right.",
+      "target": "切，才怪。",
+      "id": "mel02_ask_rhonda_9eb303af"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "( Nice, we're still in business! )",
+      "target": "（太好了，计划可以照常进行了！）",
+      "id": "mel02_eve_ask_719e8ae2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Eh, probably not the word I'd choose.",
+      "target": "呃，倒也谈不上期待。",
+      "id": "mel02_eve_pause_eve_451105e7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Sorry I kinda sprang it on you.",
+      "target": "抱歉，临时才跟你说。",
+      "id": "mel02_eve_delay_erik_56818a42"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Y-yeah, why?",
+      "target": "是——是啊，怎么了？",
+      "id": "mel02_eve_den_merge_b6542e7e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "I know right? This is the perfect party house.",
+      "target": "对吧？这房子简直太适合开派对了。",
+      "id": "mel02_eve_den_merge_1ef72e51"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "( I need to switch my custom-made guitar with one in [saga.cast.erik]'s basement! )",
+      "target": "（我得用自己做的假吉他换走[saga.cast.erik]地下室里的那把真吉他！）",
+      "id": "mel02_kevin_ask_merge_5232e8a2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Yikes! Maybe I'm not quite as ready for the big time as I thought!",
+      "target": "哎呀！看来我这手艺离成名还远着呢！",
+      "id": "mel02_kevin_craft_48471600"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "( With some tools and a little paint, I can make a fake guitar no problem. )",
+      "target": "（有工具，再加一点油漆，我就能轻松做把假吉他。）",
+      "id": "mel02_kevin_craft_planks_b5ae2449"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel03.rpy",
+      "source": "Look at who you're working with here, mister!",
+      "target": "你也不看看跟你们搭档的是谁！",
+      "id": "mel03_music_eea2a369"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel03.rpy",
+      "source": "C'mon guys!",
+      "target": "大伙儿，快来！",
+      "id": "mel03_music_c58a7824"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel03.rpy",
+      "source": "Right behind you.",
+      "target": "我跟着你。",
+      "id": "mel03_music_87985de7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel03.rpy",
+      "source": "Complete and utter devastation!",
+      "target": "一个个全傻眼了！",
+      "id": "mel03_office1_6c25a270"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel03.rpy",
+      "source": "( The trail doesn't lead that way. )",
+      "target": "（脚印不是往那边去的。）",
+      "id": "mel03_office1_rails_02528c14"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "You gotta get us some forties, yo!",
+      "target": "你得给我们搞点大瓶啤酒，哟！",
+      "id": "mel04_eve_1981e643"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "Eh, forties?",
+      "target": "呃，大瓶啤酒？",
+      "id": "mel04_eve_49976a92"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "No forties! I told you cans!",
+      "target": "不要大瓶的！我跟你说过要罐装的！",
+      "id": "mel04_eve_33c01081"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "Yeah, but at least they're easy to manipulate.",
+      "target": "是啊，不过至少他们好打发。",
+      "id": "mel04_eve_79d10582"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel04.rpy",
+      "source": "Lord no! I'm so happy right now, I think a little celebration is just what we need!",
+      "target": "当然不介意！我现在高兴极了，正该好好庆祝一下！",
+      "id": "mel04_gym2_84045efa"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel05.rpy",
+      "source": "It took [saga.cast.tori] twenty minutes to get him sorted out.",
+      "target": "[saga.cast.tori]花了二十分钟才把他的手弄下来。",
+      "id": "mel05_music_74f5ca7a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel05.rpy",
+      "source": "Dude... It's stuck!",
+      "target": "老兄……粘住了！",
+      "id": "mel05_science_fcd579a0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel05.rpy",
+      "source": "Heh, that's kind of the point, dude.",
+      "target": "嘿，要的就是这个效果，老兄。",
+      "id": "mel05_school_bf4bbbf6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel05.rpy",
+      "source": "Nah, not really. I pinched it from Mrs. [saga.cast.ursula.clan]'s desk.",
+      "target": "其实也没什么好说的。我从[saga.cast.ursula.clan]夫人的桌子上顺来的。",
+      "id": "mel05_school_alt_1b4226d0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel05.rpy",
+      "source": "Yeah, I'm right behind you!",
+      "target": "好，我跟着你！",
+      "id": "mel05_office1_f662501d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "I'm stuck!",
+      "target": "我被粘住了！",
+      "id": "mel06_office1_2741ca97"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "I'm stuck!!!",
+      "target": "我被粘住了！！！",
+      "id": "mel06_office1_b7a9ea31"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "I can't, I'm stuck too!",
+      "target": "我动不了，我也被粘住了！",
+      "id": "mel06_office1_3c314348"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "These kids are so talented and I thank my lucky stars every day for the opportunity to teach them!",
+      "target": "这些孩子个个才华出众，能教他们，我每天都觉得自己很幸运！",
+      "id": "mel06_gym_72e1d4b3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "Doesn't [saga.cast.kevin] look dreamy?",
+      "target": "[saga.cast.kevin]看起来是不是很迷人？",
+      "id": "mel06_kevin_d9c9e88e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "We've gotta do something for you...",
+      "target": "也得给你打扮一下……",
+      "id": "mel06_kevin_039c0657"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "You really don't have to do anything, [saga.cast.eve]. I'll be fine without it.",
+      "target": "真不用特意给我打扮，[saga.cast.eve]。我这样就挺好。",
+      "id": "mel06_kevin_f3e90f76"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "Your adoring crowd is waiting!",
+      "target": "喜欢你的观众们还等着呢！",
+      "id": "mel06_kevin_merge1_1da124eb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "source": "... Despite all our rehearsals, we just couldn't bring it all together on the day.",
+      "target": "……尽管排练了那么多次，正式上台时我们还是没能配合好。",
+      "id": "mel06_kevin_fail1_a39e9d4d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia01.rpy",
+      "source": "Here it is!",
+      "target": "铲子带来了！",
+      "id": "dia01_diane_d987a352"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia02.rpy",
+      "source": "I keep a compost heap just over here, behind the house.",
+      "target": "房子后面那儿有个堆肥堆。",
+      "id": "dia02_diane_merge_fda72dfd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia02.rpy",
+      "source": "Compost?",
+      "target": "堆肥？",
+      "id": "dia02_diane_merge_ff47745a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia02.rpy",
+      "source": "Compost is a valuable resource for a gardener, [saga.cast.anon]!",
+      "target": "堆肥可是园丁的宝贝，[saga.cast.anon]！",
+      "id": "dia02_diane_merge_c2473dbb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia02.rpy",
+      "source": "There are guys much bigger than me at school.",
+      "target": "学校里多的是比我壮的家伙。",
+      "id": "dia02_diane_merge_42706eb9"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/dia02.rpy",
+      "source": "Still need help moving that wheelbarrow?",
+      "target": "那辆手推车还需要我帮忙推吗？",
+      "id": "dia02_retry_e22e74db"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/diane_plot.rpy",
+      "source": "Please could I have my wages?",
+      "target": "能把工钱结给我吗？",
+      "id": "diane_plot_diane_33daf976"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/cedric.rpy",
+      "source": "Can you spot me?",
+      "target": "你能帮我护着点儿吗？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/weight.rpy",
+      "source": "Click to lift the weights and complete reps!",
+      "target": "不断点击，完成杠铃举重动作！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bridget.rpy",
+      "source": "I... well, where should I train?",
+      "target": "我……嗯，我该去哪儿训练？",
+      "id": "bridget_school_track_train_9485bb00"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/hana.rpy",
+      "source": "Are you the owner?",
+      "target": "你是这里的老板吗？",
+      "id": "hana_sushi_shop_intro1_fd903a5f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/hana.rpy",
+      "source": "... I did.",
+      "target": "……对，是这个名字。",
+      "id": "hana_sushi_shop_intro1_9495dcf6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "source": "( Uhhh, I really don't want to speak to that other guy again. )",
+      "target": "（呃，我真不想再去跟那个销售员说话了。）",
+      "id": "jos01_yoo_josie_24f707bb"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "source": "The SL-700 Crotch Rocket.",
+      "target": "SL-700胯下火箭。",
+      "id": "jos_trade_scooter1_f0f1b5c4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "source": "So the SL-700 Crotch Rocket?",
+      "target": "所以选SL-700胯下火箭？",
+      "id": "jos_trade_scooter2_8654023d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb05.rpy",
+      "source": "You'd better be careful, cause a girl could get used to this...",
+      "target": "你可得当心，再这样宠下去，我会习惯的……",
+      "id": "deb05_laundry_8caa7d4b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb05.rpy",
+      "source": "One extra special leg massage, coming right up!",
+      "target": "那就给你来套特别的腿部按摩！",
+      "id": "deb05_debbie_c8bc8a8d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb05.rpy",
+      "source": "Oh, I get to experience the extra special version, huh?",
+      "target": "哦，还有特别版让我体验呀？",
+      "id": "deb05_debbie_f7a04251"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb05.rpy",
+      "source": "It's smooth as silk down here.",
+      "target": "你腿上的皮肤滑得像丝绸一样。",
+      "id": "deb05_debbie_1b925061"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb06.rpy",
+      "source": "( Tsk, the smell of her lotion has almost faded and with it, I fear the memories might also. )",
+      "target": "（啧，她润肤乳的味道都快散光了，再这样下去，连那些回忆都要一起淡掉了。）",
+      "id": "deb06_intro_614388e3"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb06.rpy",
+      "source": "I wanted to borrow some of your lotion and then I started feeling lightheaded... so I laid down...",
+      "target": "我本来只是想借点你的润肤乳……后来突然觉得头晕，所以就躺下了……",
+      "id": "deb06_lotion_merge_a17f1958"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb06.rpy",
+      "source": "( Even though I don't think she would mind my borrowing some of her lotion... )",
+      "target": "（虽然我觉得她应该不会介意我借点润肤乳……）",
+      "id": "deb06_lotion_bed1_dcf2faaf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb06.rpy",
+      "source": "( \\\"Hi [saga.cast.debbie], it's only me. I'm just here to smell some of your lotion. Go back to sleep.\\\" )",
+      "target": "（“嗨，[saga.cast.debbie]，是我。我只是来闻闻你的润肤乳。你继续睡吧。”）",
+      "id": "deb06_lotion_bed1_cf219645"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb06.rpy",
+      "source": "( Urgh, I'm still thinking about that massage with [saga.cast.debbie]! )",
+      "target": "（唉，我还是忘不了那次给[saga.cast.debbie]按摩的情景！）",
+      "id": "deb06_reset_63177e46"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb07.rpy",
+      "source": "... Especially when the movie took an erotic turn.",
+      "target": "……尤其是电影里开始出现香艳情节以后。",
+      "id": "deb07_movie_6ef29f52"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb08.rpy",
+      "source": "Definitely!",
+      "target": "当然！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Yes, please.",
+      "target": "想，当然想。",
+      "id": "deb_mall_debbie_merge1_b32a619c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "We're heading to Raven Hill.",
+      "target": "我们去渡鸦山。",
+      "id": "deb_mall_debbie_merge1_419a3af2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Hop on!",
+      "target": "坐上来吧！",
+      "id": "deb_mall_debbie_merge2_4930a389"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "... I'm nearly out of lotion at home and I'd like to get some flowers for the kitchen table.",
+      "target": "……家里的润肤乳快用完了，我还想买点花放在厨房桌上。",
+      "id": "deb_mall_debbie_shop6_5dc78d6f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Bum Bum cream?!",
+      "target": "Bum Bum润肤霜？！",
+      "id": "deb_mall_debbie_shop6_fb83f939"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Heh, how do you know the name of my lotion?",
+      "target": "呵，你怎么知道我那款润肤乳的名字？",
+      "id": "deb_mall_debbie_shop6_600e0943"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "( Although it is now. )",
+      "target": "（不过现在脑子里倒是有画面了。）",
+      "id": "deb_mall_debbie_womb_0002dc28"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Nope. I've got it!",
+      "target": "不用，我能搞定！",
+      "id": "deb13_lobby_45202b46"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "I wasn't expecting you to be on the other end of this line...",
+      "target": "没想到电话那头会是你……",
+      "id": "deb13_retry_friends_86757dce"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb14.rpy",
+      "source": "( [saga.cast.debbie] seemed surprisingly agreeable with everything that went on down there... )",
+      "target": "（没想到[saga.cast.debbie]似乎并不介意刚才发生的那些事……）",
+      "id": "deb14_outro_bath1_6a305926"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb19.rpy",
+      "source": "I thought you'd gone to bed.",
+      "target": "我还以为你已经上床休息了。",
+      "id": "deb19_kitchen_bee225da"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb19.rpy",
+      "source": "Yeah, I had.",
+      "target": "嗯，我是上床了。",
+      "id": "deb19_kitchen_0eec85a1"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "source": "Thick and delicious.",
+      "target": "丰满又诱人",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "source": "( Mmm, but there's no escape. )",
+      "target": "（唔，可是逃不掉了。）",
+      "id": "deb25_bed3_3d18e3dd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "source": "( Not for me. )",
+      "target": "（至少我逃不掉。）",
+      "id": "deb25_bed3_43b6d0fa"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "I am.",
+      "target": "我确定。",
+      "id": "deb26_shop_6bf44e03"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Yeah, sucks-que-rant.",
+      "target": "鲜……鲜美多姿。",
+      "id": "deb26_shop_608b4e6f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Oh, yes please.",
+      "target": "嗯，走吧。",
+      "id": "deb26_shop_merge1_5c2de0f7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Would you like that?",
+      "target": "你愿意吗？",
+      "id": "deb26_kitchen_57ff0936"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_pool.rpy",
+      "source": "Nope!",
+      "target": "不确定！",
+      "id": "deb_pool_45506fc0"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Dreams.",
+      "target": "梦境",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie_bed2.rpy",
+      "source": "( Nothing I know about [saga.cast.jenny] makes me think that trying to loiter in her room is a good idea. )",
+      "target": "（以[saga.cast.jenny]的脾气，我还是别在她房间里闲逛了。）",
+      "id": "debbie_bed2_skip_2510ae72"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie_bed2.rpy",
+      "source": "( So no. No, I don't think I will. )",
+      "target": "（还是算了。不，绝对不行。）",
+      "id": "debbie_bed2_skip_2086a4bf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie_rug.rpy",
+      "source": "Thinking as if to examine it, I lifted the corner,\\nand as I did so something beneath it caught my eye.",
+      "target": "我想仔细看看，便掀起地毯一角，\\n却被底下的东西吸引了目光。",
+      "id": "debbie_rug_once_1d23a887"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie_rug.rpy",
+      "source": "What contrived combination of happenstance had conspired to create this curious aperture...",
+      "target": "究竟得有多少刻意安排般的巧合，才会造就这样一个奇妙的洞口……",
+      "id": "debbie_rug_once_c2d3b10b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie_rug.rpy",
+      "source": "These questions and more were quickly forgotten however, left forever unanswered, as the enormity of my discovery came into focus.",
+      "target": "不过，当我看清这个惊人发现时，这些疑问就全被抛到了脑后，恐怕永远也不会有答案了。",
+      "id": "debbie_rug_once_747a8e46"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie_tv.rpy",
+      "source": "( This'll work, it's a re-run but such a fun match. )",
+      "target": "（先看这个吧。虽然是重播，但这场比赛可有意思了。）",
+      "id": "debbie_tv_play_d08f5efd"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "It's such a silly concept.",
+      "target": "这个剧情设定真傻。",
+      "id": "deb_tv_entry2_be769820"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "You know?",
+      "target": "你懂我的意思吧？",
+      "id": "deb_tv_footjob3_94b7fc5c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "I've got it.",
+      "target": "我来就好。",
+      "id": "deb_tv_footjob4_139cd3b6"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen06.rpy",
+      "source": "I'm not sure about classy but it's definitely sexy.",
+      "target": "有没有格调我不确定，但肯定很性感。",
+      "id": "jen06_snoop_merge_b84dbcba"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Yeah, I guess... if you say please.",
+      "target": "行吧……你求我一声，我就给。",
+      "id": "jen10_lobby_alt_455da9e4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Umm, hello?!",
+      "target": "喂，听见没有？！",
+      "id": "jen10_grace_rails_3fa38835"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "You know what, nevermind...",
+      "target": "算了，当我没问……",
+      "id": "jen10_shop_0cdb9eaf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen12.rpy",
+      "source": "( Eh, I think I've pushed my luck enough for now. )",
+      "target": "（嗯，已经够冒险了，先到此为止吧。）",
+      "id": "jen12_setup_block_20d9fe3e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen12.rpy",
+      "source": "( Ugh, her profile is awful... )",
+      "target": "（呃，她的个人资料写得真烂……）",
+      "id": "jen12_camslut_2f3575b2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Fucking [saga.cast.cedric]!",
+      "target": "该死的[saga.cast.cedric]！",
+      "id": "jen14_dining_70c3242d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "On it.",
+      "target": "马上去办。",
+      "id": "jen14_dining_e8c36381"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "She just needs to find someone else to sink her talons into.",
+      "target": "让她找别人下手去吧。",
+      "id": "jen14_cedric_fa376060"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "That meathead is always at the gym.",
+      "target": "那个肌肉白痴整天泡在健身房。",
+      "id": "jen14_cedric_jenny_2865b715"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "He said, and I quote, \\\"I don't want anything to do with that crazy bitch.\\\"",
+      "target": "他说，原话是：“我可不想跟那个疯婊子有任何瓜葛。”",
+      "id": "jen14_jenny_f0b64003"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "You know, you catch more flies with honey than vinegar.",
+      "target": "求人办事，嘴甜点总比凶巴巴的管用吧？",
+      "id": "jen16_retry_jenny_8e02077e"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "As we made our way into the screen the trailers were already in full swing, and I began to sit down in the first available seats to watch.",
+      "target": "我们走进影厅时，预告片已经播上了。我正打算在最先看到的空位坐下观看。",
+      "id": "jen26_cinema_43f7d116"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "Yeah, exactly like the first one.",
+      "target": "是啊，跟第一部一模一样。",
+      "id": "jen26_cinema_e71bfca4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jenny.rpy",
+      "source": "W-what's up?",
+      "target": "最、最近怎么样？",
+      "id": "jenny_debbie_bed2_intro3_8969e624"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "Trust me.",
+      "target": "信我的。",
+      "id": "jen_gfe_ready_once_bdc1a398"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "It's true.",
+      "target": "就是不喜欢。",
+      "id": "jen_gfe_ready_once_e3e11332"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_sink.rpy",
+      "source": "Angh Eug.",
+      "target": "蟹、蟹。",
+      "id": "deb_sink_merge1_efa404b4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_sink.rpy",
+      "source": "Let's get you up on the sink there.",
+      "target": "来，我抱你坐到洗手台上。",
+      "id": "deb_sink_alt_f19e97b7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_pants.rpy",
+      "source": "... Things are just so... backed up, and I didn't wanna be a bother so-",
+      "target": "……我实在憋得太久了，又不想麻烦你，所以——",
+      "id": "deb_pants_alt_dba8042a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_pants.rpy",
+      "source": "Backed up?",
+      "target": "憋得太久了？",
+      "id": "deb_pants_alt_e5bd9067"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_visit.rpy",
+      "source": "Sorry, I didn't realize that I was-",
+      "target": "抱歉，我没想到自己——",
+      "id": "deb_visit_baby_36e142a9"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "That's a terrible thing to say to your landlady!!",
+      "target": "居然对你的房东太太说这种话，太过分了！！",
+      "id": "deb_shower_blowjob2_828b4bd8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Excuse me.",
+      "target": "不好意思。",
+      "id": "deb_shower_blowjob2_194963f5"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "source": "Umm, do bears shit in the woods?!",
+      "target": "嗯，废话，当然愿意！",
+      "id": "deb_shower_handjob1a_4591b592"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ell01.rpy",
+      "source": "( Oh right, because I'm {i}not{/i} going to try take this opportunity to meet whoever she is. )",
+      "target": "（对哦，这么好的机会，我怎么可能{i}不{/i}去认识一下她？）",
+      "id": "ell01_ella_rails_efd2252d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/pie_stall.rpy",
+      "source": "Be sure to my get abs, eh?",
+      "target": "腹肌也别漏了，听见没？",
+      "id": "pie_stall_44062d94"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Do you realize how much this is going to cost me?",
+      "target": "你知道这会让我损失多少钱吗？",
+      "id": "jen_baby_late_rage_e321ff35"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Please, tell me I didn't just hear that...",
+      "target": "拜托，告诉我刚才是我听错了……",
+      "id": "jen_baby_food_d615d6ba"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "It's a football jersey from college.",
+      "target": "这是大学橄榄球队的球衣。",
+      "id": "jen_baby_food_2e7d92c8"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "I'd better head to the clinic and check on them.",
+      "target": "我得赶紧去诊所看看她和孩子。",
+      "id": "jen_baby_read2_aadfae2a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Aren't I?",
+      "target": "对不对呀？",
+      "id": "jen_baby_meet_b0fa249f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Yes, I am!",
+      "target": "当然要啦！",
+      "id": "jen_baby_meet_25463665"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Are you gonna stay here with them for a while?",
+      "target": "你还要在这里陪她和孩子一会儿吗？",
+      "id": "jen_baby_meet_fb598f59"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "I would literally kill for a bath right now.",
+      "target": "我现在简直想泡澡想疯了。",
+      "id": "jen_baby_home_1bb7075d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Aren't I?",
+      "target": "对不对呀？",
+      "id": "jen_baby_post_care_8a3f16e4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "And why shouldn't I be?",
+      "target": "我当然开心啦！",
+      "id": "deb_baby_late_mood_8bbc6b2b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Want help with that?",
+      "target": "要我搭把手吗？",
+      "id": "deb_baby_bump_help2_0b50304b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Om nom nom.",
+      "target": "嗷呜嗷呜嗷呜。",
+      "id": "deb_baby_belly_food1_52b1f865"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Can't blame a guy for trying, can you?",
+      "target": "我也就试着问问，这总不为过吧？",
+      "id": "deb_baby_belly_pool_2a99945b"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "I'm going to spoil you rotten.",
+      "target": "以后非得宠上天不可。",
+      "id": "deb_baby_meet_525e5ae5"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "Hiiii!!... My name is HOTKITTY and I provide a premium {emoji=star_cluster} cam service!! {emoji=lips}",
+      "target": "嗨——！！……我是HOTKITTY，给你带来超棒的{emoji=star_cluster}直播表演！！{emoji=lips}",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "Here's a list of things I like to do in my live shows:",
+      "target": "直播时我喜欢玩这些：",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "Search for items",
+      "target": "搜索商品",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "75% OFF",
+      "target": "二五折",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "On all\\nsummer items!",
+      "target": "夏季商品\\n全场优惠！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "Your search - {b}[ram.last!q]{/b} - did not match any items.",
+      "target": "没有找到与“{b}[ram.last!q]{/b}”匹配的商品。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "TRASH",
+      "target": "已删除",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "Your earnings will be sent from your CAMslut account to your bank!\\n\\nThank you for using our premium service. If you have any issues with money transfers please contact us at support@camslut.dc. Stay sexy!\\n\\n- CAMslut Team",
+      "target": "你的收入将从CAMslut账户转入你的银行账户！\\n\\n感谢使用我们的高级服务。如有转账问题，请通过support@camslut.dc联系我们。继续展现你的性感魅力吧！\\n\\n- CAMslut团队",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "Thank you for subscribing to our premium satellite service! We offer the best adult content on demand.\\n\\n- The Pink Team",
+      "target": "感谢您订阅我们的高级卫星电视服务！精彩成人节目，随心点播。\\n\\n- Pink频道团队",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "The Deep Blue is part of our new glow in the dark butt plug collection!",
+      "target": "“深蓝”是我们全新夜光肛塞系列中的一款！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "source": "List of Cam {err=18}toyz{/err} to get:",
+      "target": "直播用{err=18}玩具{/err}购物清单：",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/gui/tel.rpy",
+      "source": "Background",
+      "target": "人物背景",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/gui/tel.rpy",
+      "source": "Next",
+      "target": "下一项",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I should check in with [saga.cast.debbie] before I leave.",
+      "target": "出门前，我得先跟[saga.cast.debbie]打声招呼。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Best be on my way, don't want to be late on my first day back.",
+      "target": "得赶紧出发，返校第一天可不能迟到。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Of course [saga.cast.erik] is gaming...",
+      "target": "果然，[saga.cast.erik]又在打游戏……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Visit the school.",
+      "target": "去学校。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "First day back, here we go again.",
+      "target": "返校第一天，又得开始上课了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Visit the track.",
+      "target": "去跑道。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the French class.",
+      "target": "进入法语教室。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak with [saga.cast.tony] about the trial run.",
+      "target": "和[saga.cast.tony]谈谈试送披萨的事。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Time for a trial run. I've seen the movies, I know the tropes, but really, how hard can it be to deliver a few pizzas? I got this.",
+      "target": "该试着送一趟了。电影里那些套路我都见过，不过说真的，送几个披萨能有多难？我能行。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.maria] sounded formidable, I hope she's willing to let me work here.",
+      "target": "[saga.cast.maria]听着可不好惹，希望她肯让我在这里打工。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "That [saga.cast.tony] guy is kinda awesome! I can't believe he gave me a job just like that!",
+      "target": "[saga.cast.tony]这人真够意思！居然就这么给了我一份工作！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Bonding with [saga.cast.tony] sure was fun... probably.",
+      "target": "和[saga.cast.tony]增进感情确实挺有趣的……大概吧。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Purchase a vehicle from the dealership.",
+      "target": "去车行买一辆车。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Fingers crossed the car dealership has something in my price bracket!",
+      "target": "希望车行有我买得起的车！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Visit the pizzeria before evening.",
+      "target": "傍晚前去披萨店。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Never though I'd be helping cook when I signed up as a delivery boy! Hope [saga.cast.maria] is a good teacher. Ready? Steady? Cook!",
+      "target": "应聘送餐员时，可没想到还得帮忙做饭！希望[saga.cast.maria]教得好。各就各位，预备——开火！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "The quicker I find 301 the better, this monstrosity is almost beginning to smell good!",
+      "target": "得赶紧找到301，连这份怪模怪样的披萨都快闻着香了！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I should go find out how [saga.cast.tony] and [saga.cast.maria] got on at the adoption agency.",
+      "target": "我该去问问[saga.cast.tony]和[saga.cast.maria]，领养的事谈得怎么样了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Bonding with [saga.cast.maria] sure was something... probably.",
+      "target": "和[saga.cast.maria]增进感情的经历还真不一般……大概吧。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.tony] should be back from his trip by now. I should head to the pizzeria and see if he got anything useful from Eddie.",
+      "target": "[saga.cast.tony]这会儿应该回来了。我该去披萨店问问，他有没有从埃迪那儿打听到什么有用的消息。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.tony] needs to see me urgently at the pizzeria. I wonder what's the matter!",
+      "target": "[saga.cast.tony]有急事找我，让我去披萨店。不知道出什么事了！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.barb] wants me to recruit [saga.cast.mia] as my partner for art lessons.",
+      "target": "[saga.cast.barb]让我找[saga.cast.mia]一起上美术课，给我当搭档。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "We've got an art session with [saga.cast.barb] this afternoon.",
+      "target": "今天下午要去上[saga.cast.barb]的美术课。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.eve] thinks [saga.cast.chad] might have taken her art pad.",
+      "target": "[saga.cast.eve]觉得可能是[saga.cast.chad]拿走了她的画板。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Finally! Now let's get these magazines back to [saga.cast.barb].",
+      "target": "终于找齐了！现在把这些杂志交给[saga.cast.barb]吧。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I can't believe I have to lug around those magazines {i}again{/i}!!",
+      "target": "不是吧，我竟然{i}又{/i}得搬这些杂志！！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "You know what's remarkable? How my paper-mâché robot looks in no way like a collage.",
+      "target": "说来也怪，我做的纸塑机器人怎么看都不像拼贴画。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I'll bet \\\"prep\\\" is code for more annoying busy work.",
+      "target": "我敢打赌，所谓“准备”就是又要让我干一堆烦人的杂活。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Freaky nuns aside, that went well... Time to report back!",
+      "target": "先不说那些古怪的修女，事情倒挺顺利……该回去报个信了！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder what [saga.cast.barb] will make of these costumes.",
+      "target": "不知道[saga.cast.barb]看到这些服装会怎么想。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "There's really not much to those costumes...",
+      "target": "那些服装还真没几块布料……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Ugh, this is gonna be weird, isn't it?",
+      "target": "呃，总觉得接下来会很尴尬啊。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder if the results are in yet? I should check.",
+      "target": "不知道比赛结果出来没有，去问问吧。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "She seems very focused on that newspaper, I wonder what's up.",
+      "target": "她看那份报纸看得这么入神，不知道有什么事。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Well that was soul-crunchingly awkward... and weird. So weird.",
+      "target": "刚才真是尴尬得要命……还怪怪的。太奇怪了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder if [saga.cast.debbie] needs any help around the house?",
+      "target": "不知道[saga.cast.debbie]有没有什么家务需要我帮忙？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I'll need some gas for the mower if I want to trim the lawn.",
+      "target": "要想修剪草坪，得先给割草机弄点汽油。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "And to think, I thought the crossword incident was awkward! D:",
+      "target": "亏我之前还觉得填字游戏那次已经够尴尬了！D:",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "The quicker I fix that sink, the better. Can't let [saga.cast.debbie] down.",
+      "target": "得赶紧把水槽修好，可不能让[saga.cast.debbie]失望。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "It feels good helping [saga.cast.debbie]. I should do it more often.",
+      "target": "能帮上[saga.cast.debbie]的忙，感觉真好。以后得多帮帮她。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I should bring this lotion back to [saga.cast.debbie].",
+      "target": "该把这瓶乳液拿回去给[saga.cast.debbie]了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Why can't I stop thinking about that delicious lotion smell?",
+      "target": "怎么总忘不了那股好闻的乳液香味？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I'm surprised things haven't been more awkward after what happened.",
+      "target": "出了那种事，相处起来居然没变得更尴尬，真没想到。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "It's really cool how [saga.cast.debbie] isn't making me feel embarrassed about all this.",
+      "target": "[saga.cast.debbie]没有拿这些事让我难堪，真好。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I hope I get more chances to spend time with [saga.cast.debbie].",
+      "target": "希望以后能多和[saga.cast.debbie]待在一起。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.debbie] said to wait for her in the car.",
+      "target": "[saga.cast.debbie]让我在车里等她。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I... I should go out front... Did that really just happen?!",
+      "target": "我……我得回店铺前面去……刚才那不是在做梦吧？！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Great, now [saga.cast.ursula] is invading my dreams.",
+      "target": "这下好了，连做梦都躲不开[saga.cast.ursula]了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I should investigate the noise coming from her room!",
+      "target": "她房间里好像有动静，我得去看看！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Asking [saga.cast.debbie] about these dreams might not be so bad. I just need approach it right.",
+      "target": "跟[saga.cast.debbie]聊聊这些梦，也许没什么不好。只要想好怎么开口就行。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Of course [saga.cast.jenny] would walk in on us. Talk about rotten luck...",
+      "target": "偏偏让[saga.cast.jenny]撞见了。真是倒霉透顶……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Inspect the car to call the dealership.",
+      "target": "查看车子，给车行打电话。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the garage [saga.lang.wait(f)!t] in the [f.when!l].",
+      "target": "[saga.lang.wait(f)!t][f.when!l]进入车库。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the garage in the [f.when!l].",
+      "target": "[f.when!l]进入车库。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "What was I thinking?! Obviously that was a terrible idea...",
+      "target": "我当时脑子进水了吗？！那样做明明就不对……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I probably shouldn't try that again...",
+      "target": "我还是别再那么做了……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Huh, what gives? There's literally a zero percent chance [saga.cast.jenny] is interested in laundry...",
+      "target": "咦，怎么回事？[saga.cast.jenny]怎么可能对洗衣服感兴趣……",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Sleep in your bed.",
+      "target": "回自己的床上睡觉。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I should get out of the house for while and try to get my mind off [saga.cast.debbie].",
+      "target": "我该出门转转，分散一下注意力，别老想着[saga.cast.debbie]。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "A nice glass of warm milk is sure to set the world to rights, then it'll be straight off to dreamland!",
+      "target": "喝杯温牛奶，心里肯定就舒坦了，然后就能美美地睡上一觉！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder if [saga.cast.debbie] will act on what [saga.cast.diane] suggested?",
+      "target": "不知道[saga.cast.debbie]会不会照[saga.cast.diane]说的去做？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I don't envy [saga.cast.debbie] right now. There's no way [saga.cast.jenny] lets her hear the end of this.",
+      "target": "[saga.cast.debbie]这下可不好受了，[saga.cast.jenny]肯定会揪着这件事说个没完。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the backyard at night after waiting in your room.",
+      "target": "先在自己的房间里等一会儿，晚上再去后院。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Return to [saga.cast.debbie].",
+      "target": "回到[saga.cast.debbie]身边。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I can still barely believe that happened.",
+      "target": "到现在我都还不太敢相信，居然真的发生了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "So far, so good! The strategy [saga.cast.diane] suggested really seems to be working!",
+      "target": "目前一切顺利！[saga.cast.diane]出的主意好像还真管用！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "What a night, and now waking up to the smell of her wonderful cooking! Amazing! I'm on top of the world!",
+      "target": "昨晚真美好，醒来又闻到了她做饭的香味！太棒了！简直幸福得要飞起来了！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "This is so much better than I ever could have hoped for! [saga.cast.debbie] is the best! ",
+      "target": "这比我想象中还要美好！[saga.cast.debbie]最棒了！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Enter the backyard in the evening when [saga.cast.debbie] is there.",
+      "target": "傍晚趁[saga.cast.debbie]在后院时过去。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Hmm, [saga.cast.diane] needs a new shovel for her garden... I'm pretty sure I saw one hanging up in the garage back home.",
+      "target": "嗯，[saga.cast.diane]打理花园需要一把新铲子……我记得家里车库墙上就挂着一把。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "She seemed eager to start work on her garden. I should get his shovel over there as soon as possible.",
+      "target": "她好像急着打理花园，我得赶紧把这把铲子送过去。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I should investigate the light coming out from under her bedroom door!",
+      "target": "她卧室门缝底下透着光，我得去看看！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Breakfast seems like the safest time to approach [saga.cast.jenny] now that I've upset her.",
+      "target": "惹了[saga.cast.jenny]生气，还是趁吃早饭时去找她比较安全。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "It's a shame [saga.cast.jenny] caught me... Oh, well.",
+      "target": "偏偏被[saga.cast.jenny]逮到了……唉，算了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I wonder what [saga.cast.jenny] wants with me in her room?",
+      "target": "不知道[saga.cast.jenny]叫我去她房间做什么？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.jenny] actually made good, I can't believe it.",
+      "target": "[saga.cast.jenny]居然说到做到了，真不敢相信。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Speak to [saga.cast.jenny] in the lobby.",
+      "target": "在大厅与[saga.cast.jenny]交谈。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I feel like I've been obsessing over [saga.cast.jenny] recently... I should go touch grass.",
+      "target": "我最近好像满脑子都是[saga.cast.jenny]……该出去走走，清醒一下了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Meet [saga.cast.jenny] in the lobby.",
+      "target": "在大厅见[saga.cast.jenny]。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.jenny] said to meet her in the lobby.",
+      "target": "[saga.cast.jenny]让我在大厅跟她会合。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Travel to the mall.",
+      "target": "前往商场。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Let's go to the mall!",
+      "target": "去商场吧！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Man, what crawled up her butt? I should track her down.",
+      "target": "她这是发什么脾气？我得去找找她。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Access her computer while she's asleep.",
+      "target": "趁她睡着时使用她的电脑。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Sneak 100! I can definitely access her laptop at night without waking her.",
+      "target": "潜行100分！我晚上偷偷用她的笔记本电脑，肯定不会把她吵醒。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Access the CAMSlut videos tab on her laptop at night.",
+      "target": "晚上在她的笔记本电脑上打开CAMSlut视频页。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Access the CAMSlut videos tab.",
+      "target": "打开CAMSlut视频页。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "That Bad Monster isn't going to buy itself. I wonder why it's called that anyway?",
+      "target": "“坏怪物”还得我去买。话说，它为什么叫这个名字？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "It totally worked! She posted a new video.",
+      "target": "果然管用！她发新视频了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "[saga.cast.jenny] isn't going to be happy about this.",
+      "target": "[saga.cast.jenny]听了肯定不高兴。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Talk about shooting the messenger! It's not me who's ignoring her texts.",
+      "target": "我就传个话，怎么还冲我发火！又不是我不回她的短信。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "What is she planning?",
+      "target": "她在打什么主意？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Where am I supposed to get a mask? It's not like we have a costume shop in Summerville.",
+      "target": "我该去哪儿弄个面具？夏日镇又没有卖化装服饰的店。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Woo hoo, free mask! That was oddly convenient.",
+      "target": "好耶，白得一个面具！这也太巧了。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I guess [saga.cast.jenny] is going to stay mad until I apologize. -_-'",
+      "target": "看来我不道歉，[saga.cast.jenny]就不会消气。-_-'",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "I'm surprised things aren't more awkward between us.",
+      "target": "我们相处起来居然没变得更尴尬，真没想到。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "source": "Who's left the television on?",
+      "target": "谁看完电视没关？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/lewd.rpy",
+      "source": "While it may not look too different, the replay system has been overhauled to improve access to variants and provide replays for more content. To help you find {color=ffd700}new content added this update{/color}, we have coloured it {color=ffd700}gold{/color}.\\n\\nWe know some scenes in particular have an unwieldy number of variants and hope to be able to present them in a more digestible way in future.",
+      "target": "虽然界面看起来变化不大，但回放系统已全面改版，方便你选择场景的不同版本，也能回放更多内容。{color=ffd700}本次更新新增的内容{/color}会以{color=ffd700}金色{/color}标出，方便查找。\\n\\n有些场景的版本实在太多，我们也希望今后能让它们的排列和选择更加清晰。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/mode.rpy",
+      "source": "Start with money and stats as there is no way to earn them yet. Extra money can be found in the ATM in the bank. More content will be restored in future releases.",
+      "target": "目前尚无法通过游戏获取金钱和提升属性，因此开局会直接提供金钱和属性。需要更多钱时，可到银行的ATM机领取。后续版本将逐步恢复更多内容。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/mode.rpy",
+      "source": "Money in the bank",
+      "target": "银行有存款",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/mode.rpy",
+      "source": "Play with boosted stats",
+      "target": "以提升后的属性开局",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/mvps.rpy",
+      "source": "Thank you for all your support!",
+      "target": "感谢大家的支持！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Gameplay",
+      "target": "游戏选项",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Font override",
+      "target": "替换字体",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "This will not impact your save data. Turning this option off will revert to showing only those scenes you have unlocked legitimately.",
+      "target": "此选项不会影响存档。关闭后，图鉴将只显示你在正常游戏过程中解锁的场景。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Rollback side",
+      "target": "回退操作区域",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Easy (Skip mini games)",
+      "target": "简单（跳过小游戏）",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Reveal pregnancy",
+      "target": "显示受孕结果",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Enables the wheel of conception, allowing the player to see the result of pregnancy attempts immediately.\\n\\nTurn this off to learn about pregnancies at the same time as the characters.",
+      "target": "开启受孕轮盘，立即显示是否成功受孕。\\n\\n关闭后，你会和角色同时得知怀孕的消息。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Adds various controls to the bottom of the dialogue window that can be useful to those playing on touch screen devices.",
+      "target": "在对话框底部显示操作按钮，方便使用触屏设备的玩家。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Skip after choices",
+      "target": "选项后继续快进",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Text speed",
+      "target": "文字显示速度",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/pref.rpy",
+      "source": "Auto-forward time",
+      "target": "自动播放间隔",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/slot.rpy",
+      "source": "Long press to save with a caption.",
+      "target": "长按可添加备注并保存。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/slot.rpy",
+      "source": "Right-click to save with a caption.",
+      "target": "右键点击可添加备注并保存。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/slot.rpy",
+      "source": "Enter a note to help recognise this save:",
+      "target": "为这份存档添加备注，方便日后查找：",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/team.rpy",
+      "source": "CODE",
+      "target": "程序开发",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/team.rpy",
+      "source": "STORY",
+      "target": "剧情编写",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/team.rpy",
+      "source": "POSING",
+      "target": "姿势设计",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/tech.rpy",
+      "source": "Various fonts and images are also used under license; including commerical, MIT, and OFL. Details can be found in game/third-party.txt.",
+      "target": "游戏中还使用了按商业、MIT、OFL等许可证授权的字体和图像。详情请见game/third-party.txt。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/lewd.rpy",
+      "source": "Welcome to the cookie jar!",
+      "target": "欢迎来到角色图鉴！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/menu/lewd.rpy",
+      "source": "To help identify scenes and variants {color=ffd700}added since the previous update{/color}, we have coloured them {color=ffd700}gold{/color}.",
+      "target": "{color=ffd700}上次更新后新增的场景及其不同版本{/color}均以{color=ffd700}金色{/color}标出，方便查找。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/atm.rpy",
+      "source": "Interest",
+      "target": "利率",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/camera.rpy",
+      "source": "Buffer usage: [game.size:.0%]",
+      "target": "拍摄缓存已用：[game.size:.0%]",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/camera.rpy",
+      "source": "BUFFER EXHAUSTED",
+      "target": "拍摄缓存已满",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/cocktail.rpy",
+      "source": "Pick out the ingredients for a [game.hint!i]!",
+      "target": "选出调制[game.hint!i]所需的原料！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/cocktail.rpy",
+      "source": "Mix it by shaking the container up and down, side to side!",
+      "target": "上下左右摇晃调酒器，把原料摇匀！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/combat.rpy",
+      "source": "Complete the combo before time runs out!",
+      "target": "在规定时间内完成连招！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/courier.rpy",
+      "source": "Click the matching pizza as you pass a house to deliver it!",
+      "target": "经过房屋时，点击对应的披萨送过去！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/french.rpy",
+      "source": "Select the item that matches the word!",
+      "target": "选出单词对应的物品！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/garden.rpy",
+      "source": "Clear [game.hint!it] before the time runs out!",
+      "target": "在规定时间内清理[game.hint!it]！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/hottub.rpy",
+      "source": "Clean the hot tub by dragging the net over the detritus!",
+      "target": "拖动网兜捞走杂物，把按摩浴缸清理干净！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/menu.rpy",
+      "source": "Exquisite plump balls of diced tako, battered and deep friend to perfection. Served with a delectable okonomiyaki sauce, mayonnaise, bonito flakes, and dried aonori.",
+      "target": "章鱼丁裹上面糊，炸成一颗颗饱满诱人的丸子，搭配御好烧酱、蛋黄酱、鲣鱼片和干青海苔。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/menu.rpy",
+      "source": "Blast off into the beef dimension with our hefty gyudon bowl! Thick cut beef slices simmered with onions in a savory-sweet sauce and sesame seeds. Served with rice, soft-boiled eggs, and pickled ginger.",
+      "target": "一大碗分量十足的牛丼，带你冲进牛肉的美味世界！厚切牛肉片与洋葱、芝麻一同放入咸甜酱汁中慢炖，搭配米饭、溏心蛋和腌姜。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/menu.rpy",
+      "source": "A feast for the eyes as well as the palate! Succulent wagyu of the finest quality cooked medium rare in our savory butter sauce. Served with oven roasted veggies and a side salad tossed in a wafu dressing.",
+      "target": "一场视觉与味觉的盛宴！精选鲜嫩多汁的顶级和牛，以香浓黄油酱汁烹至三分熟，搭配烤蔬菜和和风沙拉。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/milk.rpy",
+      "source": "Slowly switch between the pumps to milk [game.hint!i]!",
+      "target": "缓慢交替操作两侧吸乳器，给[game.hint!i]吸奶！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/milk.rpy",
+      "source": "Alternate left and right arrow keys to milk [game.hint!i]!",
+      "target": "交替按下左右方向键，给[game.hint!i]吸奶！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pushup.rpy",
+      "source": "Click to do as many push-ups as possible within the time!",
+      "target": "不断点击，在规定时间内尽量多做几个俯卧撑！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/scuffle.rpy",
+      "source": "Click like your life depends on it!",
+      "target": "拼命点击！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/serum.rpy",
+      "source": "Combine the ingredients for the [game.hint!i] serum!",
+      "target": "混合原料，配制[game.hint!i]血清！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/tv.rpy",
+      "source": "Account input",
+      "target": "输入账号",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/tv.rpy",
+      "source": "PIN input",
+      "target": "输入密码",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/womb.rpy",
+      "source": "Spin the wheel of conception!",
+      "target": "转动受孕轮盘！",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Excellent choice.",
+      "target": "您真会选。",
+      "id": "deb26_shop_9a04016a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Why don't you pick something?",
+      "target": "要不你来点菜？",
+      "id": "deb26_shop_1bd2d4f9"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Font Override",
+      "target": "替换字体",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was.",
+      "target": "本菜单中的选项用于改善无障碍体验，可能不适用于所有游戏，某些选项组合也可能使游戏无法正常游玩。这并非游戏或引擎本身的问题。更换字体时，建议尽量保持原有文字大小，以获得较好的效果。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Save slot %s: [text]",
+      "target": "保存至存档位%s：[text]",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Load slot %s: [text]",
+      "target": "读取存档位%s：[text]",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "File page auto",
+      "target": "自动存档页",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "File page quick",
+      "target": "快速存档页",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Quick load.",
+      "target": "快速读取。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "The interactive director is not enabled here.",
+      "target": "此处未启用交互式导演工具。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Loading will lose unsaved progress.\\nAre you sure you want to do this?",
+      "target": "读取存档将丢失尚未保存的进度。\\n确定要继续吗？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Are you sure you want to continue where you left off?",
+      "target": "确定要从上次离开的地方继续游戏吗？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?",
+      "target": "此存档是在另一台设备上创建的。恶意构造的存档文件可能危害你的计算机。你是否信任存档的创建者，以及所有可能修改过这个文件的人？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user.",
+      "target": "你是否信任创建此存档的设备？只有当你是该设备的唯一使用者时，才应选择“是”。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "text speed",
+      "target": "文字显示速度",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "skip after choices",
+      "target": "选项后继续快进",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "auto-forward time",
+      "target": "自动播放间隔",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "auto-forward",
+      "target": "自动播放",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Auto forward",
+      "target": "自动播放",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "auto-forward after click",
+      "target": "点击后继续自动播放",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "automatic move",
+      "target": "自动移动鼠标",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "rollback side",
+      "target": "回退操作区域",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "mute all",
+      "target": "全部静音",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Clipboard voicing enabled. Press 'shift+C' to disable.",
+      "target": "已启用剪贴板朗读。按Shift+C关闭。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Speech Bubble Editor",
+      "target": "对话气泡编辑器",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Sync downloaded.",
+      "target": "同步存档已下载。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out.",
+      "target": "Ren'Py同步服务器上找不到这份同步存档。同步ID可能无效，也可能已经过期。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "The sync could not be decrypted.",
+      "target": "无法解密同步存档。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "The sync belongs to a different game.",
+      "target": "这份同步存档属于其他游戏。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "The sync contains a file with an invalid name.",
+      "target": "同步存档中含有文件名无效的文件。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "You can use this ID to download your save on another device.\\nThis sync will expire in an hour.\\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}.",
+      "target": "你可以使用此ID，在另一台设备上下载存档。\\n这份同步存档将在一小时后过期。\\nRen'Py同步功能由{a=https://www.renpy.org/sponsors.html}Ren'Py的赞助者{/a}提供支持。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "An error is being simulated.",
+      "target": "正在模拟错误。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Either this project does not support updating, or the update status file was deleted.",
+      "target": "此项目不支持更新，或者更新状态文件已被删除。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "The update file does not have the correct digest - it may have been corrupted.",
+      "target": "更新文件的摘要校验不符，文件可能已损坏。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "[u.version] is available. Do you want to install it?",
+      "target": "发现新版本[u.version]。要安装吗？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Finishing up.",
+      "target": "正在完成收尾工作。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Image [index] of [count] locked.",
+      "target": "第[index]张图片尚未解锁（共[count]张）。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Force GL2 Renderer",
+      "target": "强制使用GL2渲染器",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Force ANGLE2 Renderer",
+      "target": "强制使用ANGLE2渲染器",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Force GLES2 Renderer",
+      "target": "强制使用GLES2渲染器",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "This game requires use of GL2 that can't be initialised.",
+      "target": "此游戏需要使用GL2，但GL2无法初始化。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer.",
+      "target": "{a=edit:1:log.txt}log.txt{/a}文件中可能有帮助你排查计算机问题的信息。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "More details on how to fix this can be found in the {a=[url]}documentation{/a}.",
+      "target": "有关修复方法的更多说明，请参阅{a=[url]}文档{/a}。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Copies the traceback.txt file to the clipboard as Markdown for Discord.",
+      "target": "将traceback.txt文件内容转换为Markdown格式并复制到剪贴板，便于在Discord中使用。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Ignores the exception, allowing you to continue. This often leads to additional errors.",
+      "target": "忽略异常并继续游戏，但这样往往会引发更多错误。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Reloads the game from disk, saving and restoring game state if possible.",
+      "target": "从磁盘重新加载游戏，并在可能的情况下保存和恢复游戏状态。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "source": "Opens a console to allow debugging the problem.",
+      "target": "打开控制台，以便调试问题。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Q.Load",
+      "target": "快速读取",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Load",
+      "target": "读取",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Automatic saves",
+      "target": "自动存档",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Quick saves",
+      "target": "快速存档",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "empty slot",
+      "target": "空存档位",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Text Speed",
+      "target": "文字显示速度",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Auto-Forward Time",
+      "target": "自动播放间隔",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Controls",
+      "target": "操作",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Enter",
+      "target": "回车键",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Advances dialogue and activates the interface.",
+      "target": "推进对话，或确认当前选中的界面按钮。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Navigate the interface.",
+      "target": "切换界面中的选中项。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Escape",
+      "target": "Esc键",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Accesses the game menu.",
+      "target": "打开游戏菜单。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Rolls back to earlier dialogue.",
+      "target": "回退到之前的对话。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Rolls forward to later dialogue.",
+      "target": "向前恢复已回退的对话。",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Mouse Wheel Up\\nClick Rollback Side",
+      "target": "向上滚动鼠标滚轮\\n点击回退区域",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Left Trigger\\nLeft Shoulder",
+      "target": "左扳机\\n左肩键",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Right Shoulder",
+      "target": "右肩键",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "D-Pad, Sticks",
+      "target": "方向键、摇杆",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Start, Guide",
+      "target": "Start键、Guide键",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Menu",
+      "target": "菜单",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Prefs",
+      "target": "设置",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Upload Sync",
+      "target": "上传同步存档",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Download Sync",
+      "target": "下载同步存档",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Rollback Side",
+      "target": "回退操作区域",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Empty Slot",
+      "target": "空存档位",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Guide",
+      "target": "Guide键",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/screens_box.rpy",
+      "source": "Start, Guide, B/Right Button",
+      "target": "Start键、Guide键、B/右侧按钮",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Apartment 102",
+      "target": "102号公寓",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Apartment 103",
+      "target": "103号公寓",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Apartment 104",
+      "target": "104号公寓",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Apartment 201",
+      "target": "201号公寓",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Apartment 202",
+      "target": "202号公寓",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Apartment 203",
+      "target": "203号公寓",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Apartment 303",
+      "target": "303号公寓",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Apartment 304",
+      "target": "304号公寓",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Recovery Room #1",
+      "target": "1号康复室",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Recovery Room #2",
+      "target": "2号康复室",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Recovery Room #3",
+      "target": "3号康复室",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Recovery Room #4",
+      "target": "4号康复室",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Loading Dock",
+      "target": "装卸区",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "[saga.cast.mia]'s House",
+      "target": "[saga.cast.mia]的家",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "[saga.cast.rhonda]'s House",
+      "target": "[saga.cast.rhonda]的家",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Medic Stall",
+      "target": "救护间",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Den",
+      "target": "起居室",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "[saga.cast.viv]'s House",
+      "target": "[saga.cast.viv]的家",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Cabin",
+      "target": "船舱",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Access Road",
+      "target": "进出道路",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/base_box/sets.rpy",
+      "source": "Path",
+      "target": "林间小径",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/cast.rpy",
+      "source": "Mrs. [self.clan]",
+      "target": "[self.clan]太太",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/cast.rpy",
+      "source": "A recent arrival to Summerville, you know little about her, other than she comes from a big city. You've heard it said around school that she's living with an older sibling. She's definitely the introverted type and mostly keeps to herself. She's supposedly quite a gifted artist.\\n\\nShe seems easy to talk with, maybe you should get to know her better?",
+      "target": "她刚搬来夏日镇不久，你对她还不太了解，只知道她来自大城市。听学校里的人说，她是跟哥哥或姐姐一起住的。她性格内向，大多时候都独来独往，听说画画很有天分。\\n\\n不过，她似乎挺好说话。也许你该多了解她一点？",
+      "id": "strings"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/cast.rpy",
+      "source": "Shy, soft-spoken, and a bit of a sad sack, [saga.cast.judith] spends most of her time hiding away from the rest of the world. Suffering from an inferiority complex and an undeniable lack of fashion sense, she often serves as the butt of the joke for her fellow classmates.\\n\\nGetting to know her can prove difficult given her flighty nature but those that make the effort will find her a sweet young girl, endlessly giving, and with a deep yearning for acceptance.",
+      "target": "[saga.cast.judith]害羞，讲话轻声细气，总有些垂头丧气，大部分时间都躲着别人。她本就自卑，穿衣打扮又实在没什么品味，也常常成为同学们取笑的对象。\\n\\n她动不动就往后缩，想走近她并不容易。但只要肯花心思，就会发现她温柔可亲，总愿意为别人付出，也深深渴望有人能接纳自己。",
+      "id": "strings"
     }
   ]
 }

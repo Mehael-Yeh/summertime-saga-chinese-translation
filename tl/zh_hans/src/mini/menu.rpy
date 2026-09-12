@@ -24,7 +24,7 @@ translate zh_hans strings:
 
     # game/src/mini/menu.rpy:57
     old "Exquisite plump balls of diced tako, battered and deep friend to perfection. Served with a delectable okonomiyaki sauce, mayonnaise, bonito flakes, and dried aonori."
-    new "饱满的章鱼块面糊球，油炸至完美。配上美味的御好烧酱、蛋黄酱、鲣鱼片和干青海苔。"
+    new "章鱼丁裹上面糊，炸成一颗颗饱满诱人的丸子，搭配御好烧酱、蛋黄酱、鲣鱼片和干青海苔。"
 
     # game/src/mini/menu.rpy:63
     old "tonkatsu"
@@ -48,7 +48,7 @@ translate zh_hans strings:
 
     # game/src/mini/menu.rpy:95
     old "Blast off into the beef dimension with our hefty gyudon bowl! Thick cut beef slices simmered with onions in a savory-sweet sauce and sesame seeds. Served with rice, soft-boiled eggs, and pickled ginger."
-    new "用我们丰盛的牛丼碗，冲进牛肉的世界！厚切牛肉片与洋葱在咸甜酱汁和芝麻中慢炖。配有米饭、溏心蛋和腌姜。"
+    new "一大碗分量十足的牛丼，带你冲进牛肉的美味世界！厚切牛肉片与洋葱、芝麻一同放入咸甜酱汁中慢炖，搭配米饭、溏心蛋和腌姜。"
 
     # game/src/mini/menu.rpy:102
     old "wagyu"
@@ -60,7 +60,7 @@ translate zh_hans strings:
 
     # game/src/mini/menu.rpy:116
     old "A feast for the eyes as well as the palate! Succulent wagyu of the finest quality cooked medium rare in our savory butter sauce. Served with oven roasted veggies and a side salad tossed in a wafu dressing."
-    new "一场视觉与味觉的盛宴！最优质的多汁和牛，用我们的美味黄油酱汁烹制至五分熟。配上烤箱烤蔬菜和一碗和风酱汁拌的沙拉。"
+    new "一场视觉与味觉的盛宴！精选鲜嫩多汁的顶级和牛，以香浓黄油酱汁烹至三分熟，搭配烤蔬菜和和风沙拉。"
 
     # game/src/mini/menu.rpy:127
     old "Nyotaimori"

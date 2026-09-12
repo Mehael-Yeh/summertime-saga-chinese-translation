@@ -642,7 +642,7 @@ translate zh_hans jen_baby_late_rage_e321ff35:
 
 
     # jenny "Do you realize how much this is going to cost me?"
-    jenny "你知道这会让我花多少钱吗？"
+    jenny "你知道这会让我损失多少钱吗？"
 
 # game/src/plot/jen_baby.rpy:263
 translate zh_hans jen_baby_late_rage_8f934a36:
@@ -2567,7 +2567,7 @@ translate zh_hans jen_baby_food_d615d6ba:
 
 
     # anon f_disgusted "Please, tell me I didn't just hear that..."
-    anon f_disgusted "拜托，告诉我我没听错……"
+    anon f_disgusted "拜托，告诉我刚才是我听错了……"
 
 # game/src/plot/jen_baby.rpy:957
 translate zh_hans jen_baby_food_e85c0c65:
@@ -3416,7 +3416,7 @@ translate zh_hans jen_baby_food_1404d917:
 translate zh_hans jen_baby_food_2e7d92c8:
 
     # jenny a_show c_jersey e_w f_horny o_left "It's a football jersey from college."
-    jenny a_show c_jersey e_w f_horny o_left "这是我大学时穿的橄榄球球衣。"
+    jenny a_show c_jersey e_w f_horny o_left "这是大学橄榄球队的球衣。"
 
 # game/src/plot/jen_baby.rpy:1298
 translate zh_hans jen_baby_food_ac2d6fc8:
@@ -4964,7 +4964,7 @@ translate zh_hans jen_baby_read2_aadfae2a:
 
 
     # anon "I'd better head to the clinic and check on them."
-    anon "我最好赶紧去诊所看看她们。"
+    anon "我得赶紧去诊所看看她和孩子。"
 
 # game/src/plot/jen_baby.rpy:1818
 translate zh_hans jen_baby_read2_rails_898a3093:
@@ -5207,14 +5207,14 @@ translate zh_hans jen_baby_meet_b0fa249f:
 
 
     # debbie @ f_horny "Aren't I?"
-    debbie @ f_horny "不是吗？"
+    debbie @ f_horny "对不对呀？"
 
 # game/src/plot/jen_baby.rpy:1916
 translate zh_hans jen_baby_meet_25463665:
 
 
     # debbie @ e_b f_happy m_laugh "Yes, I am!"
-    debbie @ e_b f_happy m_laugh "是的，我是！"
+    debbie @ e_b f_happy m_laugh "当然要啦！"
 
 # game/src/plot/jen_baby.rpy:1920
 translate zh_hans jen_baby_meet_d497a8cb:
@@ -5494,7 +5494,7 @@ translate zh_hans jen_baby_meet_fb598f59:
 
 
     # anon @ f_confused "Are you gonna stay here with them for a while?"
-    anon @ f_confused "你要在这里陪她们一会儿吗？"
+    anon @ f_confused "你还要在这里陪她和孩子一会儿吗？"
 
 # game/src/plot/jen_baby.rpy:2005
 translate zh_hans jen_baby_meet_825a74e0:
@@ -5952,7 +5952,7 @@ translate zh_hans jen_baby_home_1bb7075d:
 
 
     # jenny "I would literally kill for a bath right now."
-    jenny "我现在为了泡个澡，杀人都愿意。"
+    jenny "我现在简直想泡澡想疯了。"
 
 # game/src/plot/jen_baby.rpy:2193
 translate zh_hans jen_baby_home_c9122af2:
@@ -6135,7 +6135,7 @@ translate zh_hans jen_baby_post_care_92200270:
 translate zh_hans jen_baby_post_care_8a3f16e4:
 
     # jenny e_s f_happy "Aren't I?"
-    jenny e_s f_happy "难道不是吗？"
+    jenny e_s f_happy "对不对呀？"
 
 # game/src/plot/jen_baby.rpy:2253
 translate zh_hans jen_baby_post_care_560c6d98:

@@ -161,7 +161,7 @@ translate zh_hans mel06_office1_4ae38af1:
 # game/src/plot/mel06.rpy:90
 translate zh_hans mel06_office1_2741ca97:
     # annie "I'm stuck!"
-    annie "我被卡住了！"
+    annie "我被粘住了！"
 
 # game/src/plot/mel06.rpy:93
 translate zh_hans mel06_office1_8c0e93f2:
@@ -201,7 +201,7 @@ translate zh_hans mel06_office1_017e8c74:
 # game/src/plot/mel06.rpy:109
 translate zh_hans mel06_office1_b7a9ea31:
     # ursula "I'm stuck!!!"
-    ursula "我卡住了！！！"
+    ursula "我被粘住了！！！"
 
 # game/src/plot/mel06.rpy:110
 translate zh_hans mel06_office1_4d67f63f:
@@ -221,7 +221,7 @@ translate zh_hans mel06_office1_33b451af:
 # game/src/plot/mel06.rpy:113
 translate zh_hans mel06_office1_3c314348:
     # annie "I can't, I'm stuck too!"
-    annie "我也动不了，我被卡住了！"
+    annie "我动不了，我也被粘住了！"
 
 # game/src/plot/mel06.rpy:121
 translate zh_hans mel06_office1_9a0e3d95:
@@ -261,7 +261,7 @@ translate zh_hans mel06_gym_82e82224:
 # game/src/plot/mel06.rpy:147
 translate zh_hans mel06_gym_72e1d4b3:
     # melody "These kids are so talented and I thank my lucky stars every day for the opportunity to teach them!"
-    melody "这些孩子太有才了，我每天都在感谢幸运之星给了我教他们的机会！"
+    melody "这些孩子个个才华出众，能教他们，我每天都觉得自己很幸运！"
 
 # game/src/plot/mel06.rpy:148
 translate zh_hans mel06_gym_582b1454:
@@ -321,7 +321,7 @@ translate zh_hans mel06_kevin_8bbbbb13:
 # game/src/plot/mel06.rpy:190
 translate zh_hans mel06_kevin_d9c9e88e:
     # eve "Doesn't [saga.cast.kevin] look dreamy?"
-    eve "[saga.cast.kevin]看起来是不是很梦幻？"
+    eve "[saga.cast.kevin]看起来是不是很迷人？"
 
 # game/src/plot/mel06.rpy:192
 translate zh_hans mel06_kevin_af4dbfcd:
@@ -341,7 +341,7 @@ translate zh_hans mel06_kevin_8990d249:
 # game/src/plot/mel06.rpy:197
 translate zh_hans mel06_kevin_039c0657:
     # eve "We've gotta do something for you..."
-    eve "我们得为你做点什么……"
+    eve "也得给你打扮一下……"
 
 # game/src/plot/mel06.rpy:199
 translate zh_hans mel06_kevin_08d21892:
@@ -361,7 +361,7 @@ translate zh_hans mel06_kevin_aa5720ff:
 # game/src/plot/mel06.rpy:206
 translate zh_hans mel06_kevin_f3e90f76:
     # anon "You really don't have to do anything, [saga.cast.eve]. I'll be fine without it."
-    anon "你真的不用为我做什么，[saga.cast.eve]。没有也没关系。"
+    anon "真不用特意给我打扮，[saga.cast.eve]。我这样就挺好。"
 
 # game/src/plot/mel06.rpy:208
 translate zh_hans mel06_kevin_7f343b77:
@@ -646,7 +646,7 @@ translate zh_hans mel06_kevin_merge1_1ba759e8:
 # game/src/plot/mel06.rpy:368
 translate zh_hans mel06_kevin_merge1_1da124eb:
     # melody "Your adoring crowd is waiting!"
-    melody "你仰慕的观众们在等着呢！"
+    melody "喜欢你的观众们还等着呢！"
 
 # game/src/plot/mel06.rpy:375
 translate zh_hans mel06_kevin_merge1_bdb6dfef:
@@ -1141,7 +1141,7 @@ translate zh_hans mel06_kevin_fail1_7bcb663e:
 # game/src/plot/mel06.rpy:617
 translate zh_hans mel06_kevin_fail1_a39e9d4d:
     # more "... Despite all our rehearsals, we just couldn't bring it all together on the day."
-    more "……尽管我们排练了那么多次，那天就是没法儿把一切都整合起来。"
+    more "……尽管排练了那么多次，正式上台时我们还是没能配合好。"
 
 # game/src/plot/mel06.rpy:618
 translate zh_hans mel06_kevin_fail1_91e4b06e:

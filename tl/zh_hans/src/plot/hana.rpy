@@ -100,7 +100,7 @@ translate zh_hans hana_sushi_shop_intro1_81ac18b4:
 translate zh_hans hana_sushi_shop_intro1_fd903a5f:
 
     # anon a_point f_confused "Are you the owner?"
-    anon a_point f_confused "你是主人吗？"
+    anon a_point f_confused "你是这里的老板吗？"
 
 # game/src/plot/hana.rpy:55
 translate zh_hans hana_sushi_shop_intro1_6eca6907:
@@ -142,7 +142,7 @@ translate zh_hans hana_sushi_shop_intro1_5416892b:
 translate zh_hans hana_sushi_shop_intro1_9495dcf6:
 
     # hana "... I did."
-    hana "……我确实做了。"
+    hana "……对，是这个名字。"
 
 # game/src/plot/hana.rpy:70
 translate zh_hans hana_sushi_shop_intro1_4a72e944:

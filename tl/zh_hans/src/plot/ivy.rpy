@@ -76,7 +76,7 @@ translate zh_hans ivy_toy_shop_intro2_92f9010b:
 translate zh_hans ivy_toy_shop_outro_6e48366c:
 
     # anon f_shy "I'm fine, thank you."
-    anon f_shy "我很好，谢谢。"
+    anon f_shy "不用了，谢谢。"
 
 # game/src/plot/ivy.rpy:48
 translate zh_hans ivy_toy_shop_outro_0f7ca385:
@@ -88,7 +88,7 @@ translate zh_hans ivy_toy_shop_outro_0f7ca385:
 translate zh_hans ivy_toy_shop_outro_91b37b1a:
 
     # ivy @ e_b f_happy m_laugh "Alright, then! Let me know if you need anything else."
-    ivy @ e_b f_happy m_laugh "好吧，那就这样！如果你还需要别的，告诉我。"
+    ivy @ e_b f_happy m_laugh "好的！有别的需要就告诉我。"
 
 translate zh_hans strings:
 

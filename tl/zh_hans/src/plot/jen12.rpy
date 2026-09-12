@@ -4,7 +4,7 @@
 translate zh_hans jen12_setup_block_20d9fe3e:
 
     # anon @ -m_talk "( Eh, I think I've pushed my luck enough for now. )"
-    anon @ -m_talk "（嗯，今晚冒的险已经够多了。）"
+    anon @ -m_talk "（嗯，已经够冒险了，先到此为止吧。）"
 
 # game/src/plot/jen12.rpy:11
 translate zh_hans jen12_setup_block_74f7e9f6:
@@ -124,7 +124,7 @@ translate zh_hans jen12_camslut_0b603106:
 translate zh_hans jen12_camslut_2f3575b2:
 
     # anon "( Ugh, her profile is awful... )"
-    anon "（呃，她这个人资料写得真烂……）"
+    anon "（呃，她的个人资料写得真烂……）"
 
 # game/src/plot/jen12.rpy:73
 translate zh_hans jen12_camslut_c2efc376:

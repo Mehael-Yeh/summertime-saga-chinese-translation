@@ -52,7 +52,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:158
     old "Hiiii!!... My name is HOTKITTY and I provide a premium {emoji=star_cluster} cam service!! {emoji=lips}"
-    new "嗨！！……我是HOTKITTY，我提供高级{emoji=star_cluster}摄像头服务！！{emoji=lips}"
+    new "嗨——！！……我是HOTKITTY，给你带来超棒的{emoji=star_cluster}直播表演！！{emoji=lips}"
 
     # game/src/mini/pc.rpy:164
     old "I am a beautiful [saga.cast.jenny.age] year old goddess with a killer body, amazing set of {emoji=heart}{emoji=heart}{emoji=heart} and I love to play with my toyzzz!! LOL!"
@@ -60,7 +60,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:171
     old "Here's a list of things I like to do in my live shows:"
-    new "以下是我在直播中喜欢做的事情列表："
+    new "直播时我喜欢玩这些："
 
     # game/src/mini/pc.rpy:173
     old "- Strip\n- Toys\n- Masturbation\n- Requests on donations! {color=fdc016}$$${/color}"
@@ -88,15 +88,15 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:321
     old "Search for items"
-    new "搜索项目"
+    new "搜索商品"
 
     # game/src/mini/pc.rpy:332
     old "75% OFF"
-    new "75% 折扣"
+    new "二五折"
 
     # game/src/mini/pc.rpy:335
     old "On all\nsummer items!"
-    new "全场\n夏季商品！"
+    new "夏季商品\n全场优惠！"
 
     # game/src/mini/pc.rpy:342
     old "The Orcette"
@@ -121,7 +121,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:377
     old "Your search - {b}[ram.last!q]{/b} - did not match any items."
-    new "您的搜索 - {b}[ram.last!q]{/b} - 没有匹配任何商品。"
+    new "没有找到与“{b}[ram.last!q]{/b}”匹配的商品。"
 
     # game/src/mini/pc.rpy:380
     old "Suggestions:"
@@ -189,7 +189,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:631
     old "TRASH"
-    new "垃圾"
+    new "已删除"
 
     # game/src/mini/pc.rpy:653
     old "Anything you type can be used to market against you. You have the right to not use this service."
@@ -225,7 +225,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:727
     old "Your earnings will be sent from your CAMslut account to your bank!\n\nThank you for using our premium service. If you have any issues with money transfers please contact us at support@camslut.dc. Stay sexy!\n\n- CAMslut Team"
-    new "你的收入将从CAMslut账户转入你的银行！\n\n感谢使用我们的高级服务。如果你在转账中遇到任何问题，请通过support@camslut.dc联系我们。保持性感！\n\n- CAMslut团队"
+    new "你的收入将从CAMslut账户转入你的银行账户！\n\n感谢使用我们的高级服务。如有转账问题，请通过support@camslut.dc联系我们。继续展现你的性感魅力吧！\n\n- CAMslut团队"
 
     # game/src/mini/pc.rpy:740
     old "\"Oye mami, I wanted to show you mi Pinga Latina {emoji=wink}\""
@@ -245,7 +245,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:758
     old "Thank you for subscribing to our premium satellite service! We offer the best adult content on demand.\n\n- The Pink Team"
-    new "感谢您订阅我们的高级卫星服务！我们提供按需提供的最佳成人内容。\n\n- 粉红团队"
+    new "感谢您订阅我们的高级卫星电视服务！精彩成人节目，随心点播。\n\n- Pink频道团队"
 
     # game/src/mini/pc.rpy:768
     old "Item: Deep Blue"
@@ -253,7 +253,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:772
     old "The Deep Blue is part of our new glow in the dark butt plug collection!"
-    new "深蓝色是我们新款夜光肛门塞系列的一部分！"
+    new "“深蓝”是我们全新夜光肛塞系列中的一款！"
 
     # game/src/mini/pc.rpy:777
     old "Thank you for your online purchase! All our orders can take up to 4 business days to reach their destination. If you have not received your package, please contact us at support@lewdtoys.dc.\n\n- LewdToys"
@@ -273,7 +273,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:1305
     old "List of Cam {err=18}toyz{/err} to get:"
-    new "获取的摄像头{err=18}玩具{/err}列表："
+    new "直播用{err=18}玩具{/err}购物清单："
 
     # game/src/mini/pc.rpy:1306
     old "- The Dildo \"Fuck-Hammer\""

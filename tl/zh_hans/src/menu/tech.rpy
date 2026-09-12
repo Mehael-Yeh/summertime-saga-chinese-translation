@@ -4,5 +4,5 @@ translate zh_hans strings:
 
     # game/src/menu/tech.rpy:14
     old "Various fonts and images are also used under license; including commerical, MIT, and OFL. Details can be found in game/third-party.txt."
-    new "多种字体和图像也根据许可证使用；包括商业、MIT和OFL许可证。详情请见game/third-party.txt。"
+    new "游戏中还使用了按商业、MIT、OFL等许可证授权的字体和图像。详情请见game/third-party.txt。"
 

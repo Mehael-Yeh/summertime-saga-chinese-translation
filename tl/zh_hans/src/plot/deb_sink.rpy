@@ -190,7 +190,7 @@ translate zh_hans deb_sink_merge1_43823c76:
 translate zh_hans deb_sink_merge1_efa404b4:
 
     # anon "Angh Eug."
-    anon "安格·尤。"
+    anon "蟹、蟹。"
 
 # game/src/plot/deb_sink.rpy:93
 translate zh_hans deb_sink_merge1_3ae4b11a:
@@ -790,7 +790,7 @@ translate zh_hans deb_sink_alt_4d112874:
 translate zh_hans deb_sink_alt_f19e97b7:
 
     # anon e_w "Let's get you up on the sink there."
-    anon e_w "让你到洗手台上去。"
+    anon e_w "来，我抱你坐到洗手台上。"
 
 # game/src/plot/deb_sink.rpy:332
 translate zh_hans deb_sink_alt_99057ee7:

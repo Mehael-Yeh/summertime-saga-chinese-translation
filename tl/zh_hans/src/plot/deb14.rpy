@@ -1096,7 +1096,7 @@ translate zh_hans deb14_reset2_pants_b5818d50:
 translate zh_hans deb14_outro_bath1_6a305926:
 
     # anon @ -m_talk "( [saga.cast.debbie] seemed surprisingly agreeable with everything that went on down there... )"
-    anon @ -m_talk "（[saga.cast.debbie]对刚才发生的那一切，接受得出乎意料……）"
+    anon @ -m_talk "（没想到[saga.cast.debbie]似乎并不介意刚才发生的那些事……）"
 
 # game/src/plot/deb14.rpy:492
 translate zh_hans deb14_outro_bath1_b97b511b:

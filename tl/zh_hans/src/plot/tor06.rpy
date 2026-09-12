@@ -22,7 +22,7 @@ translate zh_hans tor06_setup_tori_c77f7d96:
 translate zh_hans tor06_setup_tori_b8cc17b9:
 
     # tori "... I appreciate you checking in with me though."
-    tori "……不过，感谢您来关心我。"
+    tori "……不过，谢谢你来关心我。"
 
 # game/src/plot/tor06.rpy:13
 translate zh_hans tor06_setup_tori_12ff3a99:
@@ -130,7 +130,7 @@ translate zh_hans tor06_tori_e127423a:
 translate zh_hans tor06_tori_7608ca8f:
 
     # anon "But building is monkey work. I thought you didn't do monkey work?"
-    anon "但建造是猴子干的活。我以为你不干猴子的活呢？"
+    anon "可你不是说，动手组装是猴子干的活，你不干这种活吗？"
 
 # game/src/plot/tor06.rpy:53
 translate zh_hans tor06_tori_7402a553:

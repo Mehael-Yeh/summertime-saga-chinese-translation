@@ -1750,7 +1750,7 @@ translate zh_hans deb_tv_entry2_f10b88e6:
 translate zh_hans deb_tv_entry2_be769820:
 
     # debbie e_e p_sit_turn "It's such a silly concept."
-    debbie e_e p_sit_turn "这个概念真傻。"
+    debbie e_e p_sit_turn "这个剧情设定真傻。"
 
 # game/src/plot/deb_tv.rpy:716
 translate zh_hans deb_tv_entry2_a3df1f9d:
@@ -3274,7 +3274,7 @@ translate zh_hans deb_tv_footjob3_a9aa6ef5:
 translate zh_hans deb_tv_footjob3_94b7fc5c:
 
     # debbie e_iw "You know?"
-    debbie e_iw "你知道吗？"
+    debbie e_iw "你懂我的意思吧？"
 
 # game/src/plot/deb_tv.rpy:1203
 translate zh_hans deb_tv_footjob3_55e7ddbf:
@@ -3610,7 +3610,7 @@ translate zh_hans deb_tv_footjob4_e14d7f63:
 translate zh_hans deb_tv_footjob4_139cd3b6:
 
     # anon e_s p_getup "I've got it."
-    anon e_s p_getup "我知道了。"
+    anon e_s p_getup "我来就好。"
 
 # game/src/plot/deb_tv.rpy:1305
 translate zh_hans deb_tv_footjob4_809ab401:

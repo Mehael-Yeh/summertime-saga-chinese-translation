@@ -142,7 +142,7 @@ translate zh_hans deb_pool_efc664e4:
 translate zh_hans deb_pool_45506fc0:
 
     # anon "Nope!"
-    anon "才不！"
+    anon "不确定！"
 
 # game/src/plot/deb_pool.rpy:50
 translate zh_hans deb_pool_9eb00f36:

@@ -64,13 +64,13 @@ translate zh_hans deb19_kitchen_7d4a1f2a:
 translate zh_hans deb19_kitchen_bee225da:
 
     # debbie f_shy "I thought you'd gone to bed."
-    debbie f_shy "我还以为你已经睡了。"
+    debbie f_shy "我还以为你已经上床休息了。"
 
 # game/src/plot/deb19.rpy:44
 translate zh_hans deb19_kitchen_0eec85a1:
 
     # anon f_worried "Yeah, I had."
-    anon f_worried "嗯，本来是睡了。"
+    anon f_worried "嗯，我是上床了。"
 
 # game/src/plot/deb19.rpy:46
 translate zh_hans deb19_kitchen_1ec3ac02:

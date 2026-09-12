@@ -190,7 +190,7 @@ translate zh_hans tor05_intro_f805485b:
 translate zh_hans tor05_intro_d2a7ee7e:
 
     # anon f_confused "Psychotropic what?"
-    anon f_confused "精神药物什么？"
+    anon f_confused "致幻什么？"
 
 # game/src/plot/tor05.rpy:98
 translate zh_hans tor05_intro_d4fd7be0:
@@ -628,7 +628,7 @@ translate zh_hans tor05_take_tori_ecc1542b:
 translate zh_hans tor05_take_help_de075ee0:
 
     # anon "What was it you said about the mushroom?"
-    anon "你刚才说蘑菇怎么了？"
+    anon "关于那种蘑菇，你之前怎么说的来着？"
 
 # game/src/plot/tor05.rpy:374
 translate zh_hans tor05_take_help_3001501c:
@@ -688,7 +688,7 @@ translate zh_hans tor05_take_help_1402f485:
 translate zh_hans tor05_take_help_aea2a95e:
 
     # tori "The psychotropic euphorbia is a luminescent flower that grows only in dark places."
-    tori "迷幻大戟是一种只生长在黑暗处的发光花朵。"
+    tori "致幻大戟是一种只生长在黑暗处的发光花朵。"
 
 # game/src/plot/tor05.rpy:395
 translate zh_hans tor05_take_help_3a767072:
@@ -826,19 +826,19 @@ translate zh_hans tor05_take_vee_2e2c39a8:
 translate zh_hans tor05_take_vee_276827cf:
 
     # anon a_side e_w f_calm @ -m_talk "( I should buy some and take it to [saga.cast.tori]. )"
-    anon a_side e_w f_calm @ -m_talk "（我得买点然后带到[saga.cast.tori]去。）"
+    anon a_side e_w f_calm @ -m_talk "（我得买点带给[saga.cast.tori]。）"
 
 # game/src/plot/tor05.rpy:465
 translate zh_hans tor05_tori1_4c32c5ae:
 
     # anon "I think I've got everything."
-    anon "我想我买齐了。"
+    anon "我想材料都找齐了。"
 
 # game/src/plot/tor05.rpy:467
 translate zh_hans tor05_tori1_f921b2e7:
 
     # tori "... You think?"
-    tori "……你觉得呢？"
+    tori "……你想？"
 
 # game/src/plot/tor05.rpy:469
 translate zh_hans tor05_tori1_bb86922f:
@@ -856,7 +856,7 @@ translate zh_hans tor05_tori1_41a44f1f:
 translate zh_hans tor05_tori1_1df746b6:
 
     # anon "Yeah. It's all Consum-R had..."
-    anon "是啊。这就是购乐百货所有的库存了……"
+    anon "是啊，购乐百货只剩鸡汤了……"
 
 # game/src/plot/tor05.rpy:477
 translate zh_hans tor05_tori1_7326c7bc:
@@ -886,19 +886,19 @@ translate zh_hans tor05_tori1_09070273:
 translate zh_hans tor05_tori1_2f611d48:
 
     # tori "Meet me in my office this evening, and we'll start mixing."
-    tori "今晚来我办公室见面，我们开始调酒。"
+    tori "今晚来我办公室，我们开始配制血清。"
 
 # game/src/plot/tor05.rpy:488
 translate zh_hans tor05_tori1_07413879:
 
     # tori "Meet me in my office tomorrow evening, and we'll start mixing."
-    tori "明晚来我办公室见面，我们开始调酒。"
+    tori "明晚来我办公室，我们开始配制血清。"
 
 # game/src/plot/tor05.rpy:490
 translate zh_hans tor05_tori1_bbdc6c35:
 
     # tori "Meet me in my office on [saga.time.dow + when] evening, and we'll start mixing."
-    tori "在[saga.time.dow + when]晚上来我办公室见面，我们开始调酒。"
+    tori "[saga.time.dow + when]晚上来我办公室，我们开始配制血清。"
 
 # game/src/plot/tor05.rpy:495
 translate zh_hans tor05_tori1_f877b650:
@@ -2122,7 +2122,7 @@ translate zh_hans tor05_coffee_tori_0f5fa62a:
 translate zh_hans tor05_coffee_tori_5dda1c7b:
 
     # tori "You still haven't dosed [saga.cast.ursula]?!"
-    tori "你还没下药[saga.cast.ursula]？！"
+    tori "你还没给[saga.cast.ursula]下药？！"
 
 # game/src/plot/tor05.rpy:1163
 translate zh_hans tor05_coffee_tori_78d4abb3:
@@ -2308,7 +2308,7 @@ translate zh_hans tor05_tori2_df1e6a86:
 translate zh_hans tor05_tori2_7a294e16:
 
     # ursula "Bawk bawk."
-    ursula "咯咯叫。"
+    ursula "咯咯。"
 
 # game/src/plot/tor05.rpy:1269
 translate zh_hans tor05_tori2_83488b19:
@@ -2488,7 +2488,7 @@ translate zh_hans tor05_tori2_9a3344b2:
 translate zh_hans tor05_tori2_a62cffc4:
 
     # tori "Yeah she is! Hahaha!"
-    tori "是啊，她确实！哈哈哈！"
+    tori "可不是嘛！哈哈哈！"
 
 # game/src/plot/tor05.rpy:1339
 translate zh_hans tor05_tori2_6363968c:
@@ -2680,7 +2680,7 @@ translate zh_hans tor05_tori2_1028927e:
 translate zh_hans tor05_tori2_rails_dd24770b:
 
     # anon @ -m_talk "( I should inform [saga.cast.tori] that I've dosed [saga.cast.ursula]'s afternoon coffee. )"
-    anon @ -m_talk "（我应该通知[saga.cast.tori]我已经在[saga.cast.ursula]的下午茶里下了药。）"
+    anon @ -m_talk "（我应该告诉[saga.cast.tori]，我已经在[saga.cast.ursula]下午喝的咖啡里下了药。）"
 
 # game/src/plot/tor05.rpy:1413
 translate zh_hans tor05_outro_block_6020f108:

@@ -598,7 +598,7 @@ translate zh_hans jos_trade_scooter1_f1b830d1:
 translate zh_hans jos_trade_scooter1_f0f1b5c4:
 
     # josie "The SL-700 Crotch Rocket."
-    josie "SL-700 胯下火箭。"
+    josie "SL-700胯下火箭。"
 
 # game/src/plot/jos_trade.rpy:324
 translate zh_hans jos_trade_scooter1_cd3883bd:
@@ -760,7 +760,7 @@ translate zh_hans jos_trade_scooter2_eac86c05:
 translate zh_hans jos_trade_scooter2_8654023d:
 
     # josie e_w f_confused "So the SL-700 Crotch Rocket?"
-    josie e_w f_confused "所以选SL-700 胯下火箭？"
+    josie e_w f_confused "所以选SL-700胯下火箭？"
 
 # game/src/plot/jos_trade.rpy:403
 translate zh_hans jos_trade_scooter2_69ba1e1e:
@@ -820,7 +820,7 @@ translate zh_hans strings:
 
     # game/src/plot/jos_trade.rpy:260
     old "Pass."
-    new "算了。"
+    new "算了"
 
     # game/src/plot/jos_trade.rpy:362
     old "Deal! [[{usd=$[opts[saga.prop.key_scooter] - cost:,]}]"
@@ -828,5 +828,5 @@ translate zh_hans strings:
 
     # game/src/plot/jos_trade.rpy:365
     old "No deal."
-    new "不买了。"
+    new "不买了"
 

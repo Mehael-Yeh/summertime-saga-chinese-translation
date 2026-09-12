@@ -24,11 +24,11 @@ translate zh_hans strings:
 
     # game/src/gui/tel.rpy:331
     old "Background"
-    new "背景"
+    new "人物背景"
 
     # game/src/gui/tel.rpy:337
     old "Next"
-    new "下一步"
+    new "下一项"
 
     # game/src/gui/tel.rpy:430
     old "No messages."

@@ -106,17 +106,17 @@ translate zh_hans mel04_eve_6a7faf3e:
 # game/src/plot/mel04.rpy:50
 translate zh_hans mel04_eve_1981e643:
     # chad "You gotta get us some forties, yo!"
-    chad "你得给我们搞点四十，哟！"
+    chad "你得给我们搞点大瓶啤酒，哟！"
 
 # game/src/plot/mel04.rpy:51
 translate zh_hans mel04_eve_49976a92:
     # anon "Eh, forties?"
-    anon "呃，四十？"
+    anon "呃，大瓶啤酒？"
 
 # game/src/plot/mel04.rpy:52
 translate zh_hans mel04_eve_33c01081:
     # eve f_angry o_right "No forties! I told you cans!"
-    eve f_angry o_right "不要四十！我跟你说过要罐装的！"
+    eve f_angry o_right "不要大瓶的！我跟你说过要罐装的！"
 
 # game/src/plot/mel04.rpy:53
 translate zh_hans mel04_eve_028954c4:
@@ -256,7 +256,7 @@ translate zh_hans mel04_eve_d16df2fb:
 # game/src/plot/mel04.rpy:97
 translate zh_hans mel04_eve_79d10582:
     # eve a_wtf "Yeah, but at least they're easy to manipulate."
-    eve a_wtf "是啊，不过至少他们很容易被操纵。"
+    eve a_wtf "是啊，不过至少他们好打发。"
 
 # game/src/plot/mel04.rpy:99
 translate zh_hans mel04_eve_d306c843:
@@ -576,7 +576,7 @@ translate zh_hans mel04_gym2_614ba289:
 # game/src/plot/mel04.rpy:341
 translate zh_hans mel04_gym2_84045efa:
     # melody "Lord no! I'm so happy right now, I think a little celebration is just what we need!"
-    melody "天啊不！我现在太高兴了，我觉得来点小庆祝正是我们需要的！"
+    melody "当然不介意！我现在高兴极了，正该好好庆祝一下！"
 
 # game/src/plot/mel04.rpy:343
 translate zh_hans mel04_gym2_a02dd060:

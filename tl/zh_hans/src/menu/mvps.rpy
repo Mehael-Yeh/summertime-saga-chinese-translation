@@ -4,4 +4,4 @@ translate zh_hans strings:
 
     # game/src/menu/mvps.rpy:8
     old "Thank you for all your support!"
-    new "感谢你们所有的支持！"
+    new "感谢大家的支持！"

@@ -34,7 +34,7 @@ translate zh_hans tor03_intro_c9b136ee:
 translate zh_hans tor03_intro_930bc133:
 
     # tori "It's good for a start."
-    tori "一开始不错。"
+    tori "作为开端，还不错。"
 
 # game/src/plot/tor03.rpy:17
 translate zh_hans tor03_intro_1d10b7cd:
@@ -46,7 +46,7 @@ translate zh_hans tor03_intro_1d10b7cd:
 translate zh_hans tor03_intro_583a6700:
 
     # tori "Yesterday's news!"
-    tori "那是昨天的新闻！"
+    tori "早就过时了！"
 
 # game/src/plot/tor03.rpy:20
 translate zh_hans tor03_intro_8bf6a235:
@@ -82,7 +82,7 @@ translate zh_hans tor03_intro_ee31d607:
 translate zh_hans tor03_intro_27077712:
 
     # tori "I call this, the Okitatron Belt."
-    tori "我称之为，奥奇塔特隆腰带。"
+    tori "我把它叫作Okitatron腰带。"
 
 # game/src/plot/tor03.rpy:38
 translate zh_hans tor03_intro_b92624ac:
@@ -112,7 +112,7 @@ translate zh_hans tor03_intro_7c968e37:
 translate zh_hans tor03_intro_29c9efc2:
 
     # tori "The Okitatron Belt is gonna revolutionize the way people keep in shape!"
-    tori "奥奇塔特隆腰带会彻底改变人们保持身材的方式！"
+    tori "Okitatron腰带会彻底改变人们保持身材的方式！"
 
 # game/src/plot/tor03.rpy:52
 translate zh_hans tor03_intro_ee31d607_1:
@@ -580,7 +580,7 @@ translate zh_hans tor03_erik_df04a2db:
 translate zh_hans tor03_erik_d2e221f3:
 
     # erik "Sure, no problem."
-    erik "当然，没问题。"
+    erik "不介意，拿去吧。"
 
 # game/src/plot/tor03.rpy:256
 translate zh_hans tor03_erik_17b6d093:
@@ -730,7 +730,7 @@ translate zh_hans tor03_gamepad_june_fbf15832:
 translate zh_hans tor03_gamepad_june_f3f1e560:
 
     # anon "... And he said we can have it!"
-    anon "……他说我们可以拿到！"
+    anon "……他说可以给我们！"
 
 # game/src/plot/tor03.rpy:348
 translate zh_hans tor03_gamepad_june_af9cd428:
@@ -952,7 +952,7 @@ translate zh_hans tor03_tori1_75c81aa7:
 translate zh_hans tor03_delay_tori_a2ae23bd:
 
     # anon f_confused "Making any progress with the belt?"
-    anon f_confused "腰带解除得怎么样了？"
+    anon f_confused "腰带做得怎么样了？"
 
 # game/src/plot/tor03.rpy:462
 translate zh_hans tor03_delay_tori_72dc7133:
@@ -982,7 +982,7 @@ translate zh_hans tor03_delay_tori_b2aba191:
 translate zh_hans tor03_delay_tori_af4e583f:
 
     # tori "Just make certain you're ready to work once I've ironed out the kinks."
-    tori "等我搞定这些棘手问题后，确保你准备好干活。"
+    tori "等我解决这些问题，你就得准备好开工。"
 
 # game/src/plot/tor03.rpy:470
 translate zh_hans tor03_delay_tori_3bebabcd:
@@ -1090,7 +1090,7 @@ translate zh_hans tor03_tori2_d91a992e:
 translate zh_hans tor03_tori2_f47b325e:
 
     # tori "Very well, you can go ahead and get started on the belt."
-    tori "很好，你可以开始做皮带了。"
+    tori "很好，你可以开始做腰带了。"
 
 # game/src/plot/tor03.rpy:518
 translate zh_hans tor03_tori2_e12a506d:
@@ -1120,7 +1120,7 @@ translate zh_hans tor03_tori2_8e84bd0c:
 translate zh_hans tor03_tori2_acdba04d:
 
     # mono "So it was that I set to work. Fastidiously adhering to the detailed blueprints, brimming with confidence that having already built X-ray goggles there was no way a belt could best me." with fade
-    mono "于是我开始工作。一丝不苟地遵循详细的蓝图，信心满满——既然能造出X射线护目镜，区区一条皮带不可能难倒我。" with fade
+    mono "于是我动起手来，严格照着详细的蓝图操作，信心满满——既然连X光眼镜都做出来了，区区一条腰带还能难倒我？" with fade
 
 # game/src/plot/tor03.rpy:538
 translate zh_hans tor03_tori2_merge_b0998dbe:
@@ -1330,7 +1330,7 @@ translate zh_hans tor03_retry_tori_1d2b2ff8:
 translate zh_hans tor03_office2_aa415121:
 
     # tori "There you are, ready to test this thing?"
-    tori "你准备好了吗，来测试这东西？"
+    tori "你来了，准备好测试这东西了吗？"
 
 # game/src/plot/tor03.rpy:669
 translate zh_hans tor03_office2_1ba15f33:
@@ -1468,7 +1468,7 @@ translate zh_hans tor03_office2_5e4d2d39:
 translate zh_hans tor03_office2_a11fd374:
 
     # anon "Nothing, I built it exactly like the blueprint said!"
-    anon "没有，我完全按照蓝图建的！"
+    anon "我没乱来，完全是照着蓝图做的！"
 
 # game/src/plot/tor03.rpy:744
 translate zh_hans tor03_office2_3eb6f14b:
@@ -1510,7 +1510,7 @@ translate zh_hans tor03_office2_39ecbf0e:
 translate zh_hans tor03_office2_d852e0c3:
 
     # tori "I'm trying to think..."
-    tori "我在试着思考……"
+    tori "别打岔，让我想想……"
 
 # game/src/plot/tor03.rpy:758
 translate zh_hans tor03_office2_d91a992e_3:

@@ -100,7 +100,7 @@ translate zh_hans mel03_music_eea2a369:
 
 
     # melody "Look at who you're working with here, mister!"
-    melody "看看你现在跟谁一起工作，先生！"
+    melody "你也不看看跟你们搭档的是谁！"
 
 # game/src/plot/mel03.rpy:73
 translate zh_hans mel03_music_bd4421ec:
@@ -207,7 +207,7 @@ translate zh_hans mel03_music_c418c430:
 translate zh_hans mel03_music_c58a7824:
 
     # eve a_calm_down f_surprised "C'mon guys!"
-    eve a_calm_down f_surprised "拜托，大伙儿！"
+    eve a_calm_down f_surprised "大伙儿，快来！"
 
 # game/src/plot/mel03.rpy:127
 translate zh_hans mel03_music_9066a513:
@@ -648,7 +648,7 @@ translate zh_hans mel03_music_87985de7:
 
 
     # kevin "Right behind you."
-    kevin "就在你后面。"
+    kevin "我跟着你。"
 
 # game/src/plot/mel03.rpy:326
 translate zh_hans mel03_music_hall1e_9adf7d86:
@@ -695,7 +695,7 @@ translate zh_hans mel03_office1_6c25a270:
 
 
     # ursula "Complete and utter devastation!"
-    ursula "彻底完蛋了！"
+    ursula "一个个全傻眼了！"
 
 # game/src/plot/mel03.rpy:354
 translate zh_hans mel03_office1_33d8e88b:
@@ -914,7 +914,7 @@ translate zh_hans mel03_office1_rails_02528c14:
 
 
     # anon @ -m_talk "( The trail doesn't lead that way. )"
-    anon @ -m_talk "（小路不是往那边走的。）"
+    anon @ -m_talk "（脚印不是往那边去的。）"
 
 # game/src/plot/mel03.rpy:451
 translate zh_hans mel03_office4_5df98f53:

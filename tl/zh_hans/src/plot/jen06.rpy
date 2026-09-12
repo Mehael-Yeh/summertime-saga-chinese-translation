@@ -400,7 +400,7 @@ translate zh_hans jen06_snoop_merge_564ef960:
 translate zh_hans jen06_snoop_merge_b84dbcba:
 
     # anon "I'm not sure about classy but it's definitely sexy."
-    anon "够不够优雅我不确定，但肯定很性感。"
+    anon "有没有格调我不确定，但肯定很性感。"
 
 # game/src/plot/jen06.rpy:189
 translate zh_hans jen06_snoop_merge_69c6ae66:

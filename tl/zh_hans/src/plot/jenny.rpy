@@ -124,7 +124,7 @@ translate zh_hans jenny_debbie_bed2_intro3_17a6bd22:
 translate zh_hans jenny_debbie_bed2_intro3_8969e624:
 
     # anon a_pocket "W-what's up?"
-    anon a_pocket "怎、怎么了？"
+    anon a_pocket "最、最近怎么样？"
 
 # game/src/plot/jenny.rpy:110
 translate zh_hans jenny_debbie_bed2_intro3_73c5c5b4:

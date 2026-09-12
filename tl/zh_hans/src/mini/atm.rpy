@@ -8,7 +8,7 @@ translate zh_hans strings:
 
     # game/src/mini/atm.rpy:25
     old "Interest"
-    new "利息"
+    new "利率"
 
     # game/src/mini/atm.rpy:53
     old "Backspace"

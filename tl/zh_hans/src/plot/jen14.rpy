@@ -40,7 +40,7 @@ translate zh_hans jen14_dining_70c3242d:
 
 
     # jenny "Fucking [saga.cast.cedric]!"
-    jenny "操你的[saga.cast.cedric]！"
+    jenny "该死的[saga.cast.cedric]！"
 
 # game/src/plot/jen14.rpy:22
 translate zh_hans jen14_dining_32b990ba:
@@ -767,7 +767,7 @@ translate zh_hans jen14_dining_8156f531:
 translate zh_hans jen14_dining_e8c36381:
 
     # anon e_b f_happy m_laugh @ -m_talk "On it."
-    anon e_b f_happy m_laugh @ -m_talk "马上。"
+    anon e_b f_happy m_laugh @ -m_talk "马上去办。"
 
 # game/src/plot/jen14.rpy:244
 translate zh_hans jen14_dining_862f3c86:
@@ -1043,7 +1043,7 @@ translate zh_hans jen14_cedric_fa376060:
 
 
     # cedric f_calm "She just needs to find someone else to sink her talons into."
-    cedric f_calm "她只需要找别人去勾搭了。"
+    cedric f_calm "让她找别人下手去吧。"
 
 # game/src/plot/jen14.rpy:333
 translate zh_hans jen14_cedric_97ca021f:
@@ -1120,7 +1120,7 @@ translate zh_hans jen14_cedric_jenny_2865b715:
 
 
     # jenny "That meathead is always at the gym."
-    jenny "那个肌肉男总在学校体育馆。"
+    jenny "那个肌肉白痴整天泡在健身房。"
 
 # game/src/plot/jen14.rpy:357
 translate zh_hans jen14_cedric_jenny_cec2c472:
@@ -1184,7 +1184,7 @@ translate zh_hans jen14_jenny_169c5460:
 translate zh_hans jen14_jenny_f0b64003:
 
     # anon "He said, and I quote, \"I don't want anything to do with that crazy bitch.\""
-    anon "他说，我引用原话：“我不想跟那个疯婆子有任何瓜葛。”"
+    anon "他说，原话是：“我可不想跟那个疯婊子有任何瓜葛。”"
 
 # game/src/plot/jen14.rpy:402
 translate zh_hans jen14_jenny_ae5cb42d:

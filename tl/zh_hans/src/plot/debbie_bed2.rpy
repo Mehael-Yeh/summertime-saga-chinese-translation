@@ -22,13 +22,13 @@ translate zh_hans debbie_bed2_near_30e13c76:
 translate zh_hans debbie_bed2_skip_2510ae72:
 
     # anon @ -m_talk "( Nothing I know about [saga.cast.jenny] makes me think that trying to loiter in her room is a good idea. )"
-    anon @ -m_talk "（据我对[saga.cast.jenny]的了解，试图在她房间里逗留可不是个好主意。）"
+    anon @ -m_talk "（以[saga.cast.jenny]的脾气，我还是别在她房间里闲逛了。）"
 
 # game/src/plot/debbie_bed2.rpy:28
 translate zh_hans debbie_bed2_skip_2086a4bf:
 
     # anon a_pocket f_calm @ -m_talk "( So no. No, I don't think I will. )"
-    anon a_pocket f_calm @ -m_talk "（所以不。不，我不打算这么做。）"
+    anon a_pocket f_calm @ -m_talk "（还是算了。不，绝对不行。）"
 
 # game/src/plot/debbie_bed2.rpy:37
 translate zh_hans debbie_bed2_wait_7a4630e2:
