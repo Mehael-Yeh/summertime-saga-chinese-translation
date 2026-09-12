@@ -274,7 +274,7 @@ translate zh_hans deb05_vacuum_c7ec6185:
 translate zh_hans deb05_vacuum_d6601855:
 
     # anon a_side f_confused "If you say so."
-    anon a_side f_confused "你都这么说了。"
+    anon a_side f_confused "好吧，你都这么说了。"
 
 # game/src/plot/deb05.rpy:131
 translate zh_hans deb05_vacuum_ed8ee80d:

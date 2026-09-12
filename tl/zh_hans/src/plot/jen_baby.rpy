@@ -3113,7 +3113,7 @@ translate zh_hans jen_baby_food_f1c7adf2:
 
 
     # anon "If you say so..."
-    anon "如果你这么说的话……"
+    anon "好吧，你都这么说了……"
 
 # game/src/plot/jen_baby.rpy:1166
 translate zh_hans jen_baby_food_23155572:
@@ -5686,13 +5686,13 @@ translate zh_hans jen_baby_rest_clinic_baby_8df7613d:
 translate zh_hans jen_baby_rest_clinic_baby_96e804e7:
 
     # jenny @ e_r f_annoyed "I mean, I'm exhausted and the food here fucking sucks but..."
-    jenny @ e_r f_annoyed "我的意思是，我累坏了，而且这里的食物真他妈的难吃，不过……"
+    jenny @ e_r f_annoyed "就是累得够呛，这儿的饭也真他妈难吃，不过……"
 
 # game/src/plot/jen_baby.rpy:2095
 translate zh_hans jen_baby_rest_clinic_baby_c9d1ce1c:
 
     # jenny "... Otherwise, we're fine."
-    jenny "……除此之外，我们很好。"
+    jenny "……其他都挺好的。"
 
 # game/src/plot/jen_baby.rpy:2096
 translate zh_hans jen_baby_rest_clinic_baby_29fd6c9c:

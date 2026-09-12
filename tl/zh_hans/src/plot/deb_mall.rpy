@@ -928,7 +928,7 @@ translate zh_hans deb_mall_debbie_merge2_009af25a:
 translate zh_hans deb_mall_debbie_merge2_b090a63d:
 
     # anon "If you say so."
-    anon "如果你这么说的话。"
+    anon "好吧，你都这么说了。"
 
 # game/src/plot/deb_mall.rpy:416
 translate zh_hans deb_mall_debbie_merge2_8407f62d:

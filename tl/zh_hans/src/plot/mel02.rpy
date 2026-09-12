@@ -2559,7 +2559,7 @@ translate zh_hans mel02_kevin_erik_4dfc737f:
 translate zh_hans mel02_kevin_erik_9fdaa05f:
 
     # erik "... If you say so. Just make sure nothing happens to the real guitar!"
-    erik "……如果你这么说的话。只要确保真正的吉他没事就行！"
+    erik "……好吧，就信你一回。可千万别把那把真吉他弄坏了！"
 
 # game/src/plot/mel02.rpy:1223
 translate zh_hans mel02_kevin_erik_8240574c:

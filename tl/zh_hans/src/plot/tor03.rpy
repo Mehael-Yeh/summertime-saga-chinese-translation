@@ -172,7 +172,7 @@ translate zh_hans tor03_intro_dbbd0377:
 translate zh_hans tor03_intro_76657acf:
 
     # anon @ e_b f_happy m_laugh "... Which is where I come in?"
-    anon @ e_b f_happy m_laugh "……这就是我出场的时候？"
+    anon @ e_b f_happy m_laugh "……所以，这就需要我帮忙了？"
 
 # game/src/plot/tor03.rpy:69
 translate zh_hans tor03_intro_9b303042:
@@ -190,7 +190,7 @@ translate zh_hans tor03_intro_6c74343e:
 translate zh_hans tor03_intro_7610e841:
 
     # anon "Okay, so how do we do that."
-    anon "好的，那我们该怎么做。"
+    anon "好，那要怎么调呢？"
 
 # game/src/plot/tor03.rpy:75
 translate zh_hans tor03_intro_d335d0a9:

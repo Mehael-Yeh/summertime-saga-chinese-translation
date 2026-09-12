@@ -700,13 +700,13 @@ translate zh_hans debbie_debbie_yard_intro3_980b9b70:
 translate zh_hans debbie_debbie_yard_intro3_dec6810c:
 
     # debbie e_sw f_calm "It's nice to wind down after a day full of cleaning and cooking."
-    debbie e_sw f_calm "经过一天的清洁和烹饪，放松下来真不错。"
+    debbie e_sw f_calm "忙了一整天，又打扫又做饭，总算能歇口气了。"
 
 # game/src/plot/debbie.rpy:533
 translate zh_hans debbie_debbie_yard_intro3_ce7a0675:
 
     # anon "Yeah, I bet."
-    anon "我猜也是。"
+    anon "是啊，忙了一天，可算能放松了。"
 
 # game/src/plot/debbie.rpy:547
 translate zh_hans debbie_debbie_yard_intro4_3b4f0f07:

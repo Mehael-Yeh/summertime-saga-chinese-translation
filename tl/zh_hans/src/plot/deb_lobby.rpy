@@ -173,7 +173,7 @@ translate zh_hans deb_lobby_5455d022:
 
 
     # debbie "Well, it's just my normal routine... there's nothing special about-"
-    debbie "这就是我平时的日常……没什么特别的——"
+    debbie "我平时不都这么干活嘛……也没什么特别的——"
 
 # game/src/plot/deb_lobby.rpy:95
 translate zh_hans deb_lobby_1fcc1733:

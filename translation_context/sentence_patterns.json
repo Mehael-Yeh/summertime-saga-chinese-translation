@@ -3503,6 +3503,114 @@
       "source": "Oh... that part?",
       "target": "哦……你说那一段啊？",
       "id": "viv03_viv_9a0a8eed"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "You better believe it!",
+      "target": "那还用说！",
+      "id": "mel01_intro_ee3fc343"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "Ancient armies from all over the world used the flute to keep the rhythm in their battle lines.",
+      "target": "古时候，世界各地的军队都用笛声来统一队列的步调。",
+      "id": "mel01_intro_2f743375"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "No, I guess not.",
+      "target": "嗯，好像确实没什么。",
+      "id": "mel01_intro_57945476"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "Excuse me, sugar, but I'd better get this class under control.",
+      "target": "抱歉，甜心，我得先让班里安静下来。",
+      "id": "mel01_intro_3ecf75bc"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "You better believe it!",
+      "target": "那还用说！",
+      "id": "mel01_melody_ee3fc343"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel01.rpy",
+      "source": "It's what I would do.",
+      "target": "换作我，就会直接去问她。",
+      "id": "mel01_judith_melody_12c325e4"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "... Which is where I come in?",
+      "target": "……所以，这就需要我帮忙了？",
+      "id": "tor03_intro_76657acf"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor03.rpy",
+      "source": "Okay, so how do we do that.",
+      "target": "好，那要怎么调呢？",
+      "id": "tor03_intro_7610e841"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "... If you say so. Just make sure nothing happens to the real guitar!",
+      "target": "……好吧，就信你一回。可千万别把那把真吉他弄坏了！",
+      "id": "mel02_kevin_erik_9fdaa05f"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "If you say so.",
+      "target": "好吧，你都这么说了。",
+      "id": "deb_mall_debbie_merge2_b090a63d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "If you say so...",
+      "target": "好吧，你都这么说了……",
+      "id": "jen_baby_food_f1c7adf2"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "I mean, I'm exhausted and the food here fucking sucks but...",
+      "target": "就是累得够呛，这儿的饭也真他妈难吃，不过……",
+      "id": "jen_baby_rest_clinic_baby_96e804e7"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "... Otherwise, we're fine.",
+      "target": "……其他都挺好的。",
+      "id": "jen_baby_rest_clinic_baby_c9d1ce1c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "It's nice to wind down after a day full of cleaning and cooking.",
+      "target": "忙了一整天，又打扫又做饭，总算能歇口气了。",
+      "id": "debbie_debbie_yard_intro3_dec6810c"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/debbie.rpy",
+      "source": "Yeah, I bet.",
+      "target": "是啊，忙了一天，可算能放松了。",
+      "id": "debbie_debbie_yard_intro3_ce7a0675"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "source": "I mean, I'm pretty sure.",
+      "target": "我是说，我还是挺有把握的。",
+      "id": "tor05_tori2_a2f9fd88"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_lobby.rpy",
+      "source": "Well, it's just my normal routine... there's nothing special about-",
+      "target": "我平时不都这么干活嘛……也没什么特别的——",
+      "id": "deb_lobby_5455d022"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb05.rpy",
+      "source": "If you say so.",
+      "target": "好吧，你都这么说了。",
+      "id": "deb05_vacuum_d6601855"
     }
   ]
 }

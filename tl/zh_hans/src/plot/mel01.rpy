@@ -184,13 +184,13 @@ translate zh_hans mel01_intro_5502af91:
 translate zh_hans mel01_intro_ee3fc343:
 
     # melody "You better believe it!"
-    melody "你最好信！"
+    melody "那还用说！"
 
 # game/src/plot/mel01.rpy:89
 translate zh_hans mel01_intro_2f743375:
 
     # melody "Ancient armies from all over the world used the flute to keep the rhythm in their battle lines."
-    melody "世界各地的古代军队都用笛子来保持战线的节奏。"
+    melody "古时候，世界各地的军队都用笛声来统一队列的步调。"
 
 # game/src/plot/mel01.rpy:90
 translate zh_hans mel01_intro_3321b843:
@@ -202,7 +202,7 @@ translate zh_hans mel01_intro_3321b843:
 translate zh_hans mel01_intro_57945476:
 
     # anon "No, I guess not."
-    anon "不，我想也是。"
+    anon "嗯，好像确实没什么。"
 
 # game/src/plot/mel01.rpy:96
 translate zh_hans mel01_intro_04b69748:
@@ -220,7 +220,7 @@ translate zh_hans mel01_intro_368bf9a9:
 translate zh_hans mel01_intro_3ecf75bc:
 
     # melody "Excuse me, sugar, but I'd better get this class under control."
-    melody "抱歉，甜心，但我得先管好这个班。"
+    melody "抱歉，甜心，我得先让班里安静下来。"
 
 # game/src/plot/mel01.rpy:107
 translate zh_hans mel01_intro_8d26dfd3:
@@ -676,7 +676,7 @@ translate zh_hans mel01_melody_069b2bc8:
 translate zh_hans mel01_melody_ee3fc343:
 
     # melody "You better believe it!"
-    melody "你最好相信！"
+    melody "那还用说！"
 
 # game/src/plot/mel01.rpy:319
 translate zh_hans mel01_melody_664afbdc:
@@ -1030,7 +1030,7 @@ translate zh_hans mel01_judith_melody_270ba0d5:
 translate zh_hans mel01_judith_melody_12c325e4:
 
     # melody "It's what I would do."
-    melody "这就是我会做的。"
+    melody "换作我，就会直接去问她。"
 
 # game/src/plot/mel01.rpy:523
 translate zh_hans mel01_judith_melody_62e892df:

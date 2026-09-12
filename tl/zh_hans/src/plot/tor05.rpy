@@ -2518,7 +2518,7 @@ translate zh_hans tor05_tori2_dd2c1fab:
 translate zh_hans tor05_tori2_a2f9fd88:
 
     # tori "I mean, I'm pretty sure."
-    tori "我的意思是，我很确定。"
+    tori "我是说，我还是挺有把握的。"
 
 # game/src/plot/tor05.rpy:1348
 translate zh_hans tor05_tori2_946296ae:
