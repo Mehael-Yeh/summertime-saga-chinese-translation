@@ -574,7 +574,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen08_post; page: 1; row: 10
     old "{pen=purple}{size=-4}More days like this and I'll spring for a{/size} {pen=lime}{size=-5}{b}BAD MONSTER{/b}{/size}{/pen}.{/pen}"
-    new "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}了。{/pen}"
+    new "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物（Bad Monster）{/b}{/size}{/pen}了。{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen08_post; page: 1; row: 11
@@ -624,7 +624,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen13_jenny; page: 1; row: 1
     old "{pen=aqua}Momma got herself a {pen=lime}{size=-5}{b}BAD MONSTER{/b}{/size}{/pen} today!{art}{pen=blue}{size=-3}{b}FUCK YEAH!!!{/b}{/size}{/pen}{/art}{/pen}{space=50}"
-    new "{pen=aqua}老娘今天入手了一个{pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}！{art}{pen=blue}{size=-3}{b}太他妈爽了！！！{/b}{/size}{/pen}{/art}{/pen}{space=50}"
+    new "{pen=aqua}老娘今天入手了一个{pen=lime}{size=-5}{b}坏怪物（Bad Monster）{/b}{/size}{/pen}！{art}{pen=blue}{size=-3}{b}太他妈爽了！！！{/b}{/size}{/pen}{/art}{/pen}{space=50}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen13_jenny; page: 1; row: 2

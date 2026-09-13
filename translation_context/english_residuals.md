@@ -42,7 +42,7 @@
 | `dōitashimashite`、`arigato`、`hai` 等 | 不动 | 日语罗马字；含 Of course 的混合句另行判断 |
 | `mon bel homme`、`Au revoir`、`Oh, oui!` 等 | 不动 | 法语及混合感叹句，不能仅因使用拉丁字母判为英语 |
 | `cosplay` | 保留现状 | 日源借词及既有亚文化术语，不扩大到日语借词统一 |
-| 人物名、品牌、平台和型号 | 保留现状 | 例如 Pink Cyclone、CAMslut、GooTube、UltraVibe；是否意译需要独立语境复核，不计为确定漏译 |
+| 人物名、品牌、平台和型号 | 保留现状 | 例如 Pink Cyclone、CAMslut、GooTube；是否意译需要独立语境复核，不计为确定漏译。`UltraVibe 2000` 已按用户复核改译“超感振动2000”，不再属于保留项 |
 | `DNA`、`USB`、`ATM`、`DKP`、`RPG` 等 | 保留现状 | 通用或领域缩写；是否补中文解释属于另一类判断 |
 | `PC LOAD LETTER`、键位、许可证和路径 | 保留 | 笑点原文、操作标识或技术标识，不可机械替换 |
 | `tin_baby_*` 等旧版开发占位 | 已确认并清理旧块 | 先核实 5 处 TODO 注释误用了新剧情台词，随后按用户要求删除 7944 引擎列为 orphan 的旧版翻译块；新版完整剧情使用其他翻译块，不把新台词填入旧 TODO 块 |

@@ -30,6 +30,15 @@ translate zh_hans strings:
     old "Summertime SAGA"
     new "夏日传说"
 
+    # game/lib/saga/data/anon_pc.py
+    # game/lib/saga/data/jenny_laptop.py
+    old "Photos"
+    new "照片"
+
+    # game/lib/saga/data/anon_pc.py
+    old "Homework"
+    new "家庭作业"
+
     # game/lib/saga/data/jenny_laptop.py
     old "My favorite toy ;)"
     new "我最喜欢的玩具 ;)"

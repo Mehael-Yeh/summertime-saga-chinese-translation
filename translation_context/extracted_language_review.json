@@ -12500,6 +12500,267 @@
       "target": "一个双假阳具型赛马鞍。",
       "note": "道具说明同步“赛马鞍”品牌译名。",
       "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 980,
+      "source": "This is the code to [saga.cast.tori]'s office. 6219.",
+      "before": "这是[saga.cast.tori]办公室的密码。6219。",
+      "target": "这是[saga.cast.tori]办公室的密码：6219。",
+      "note": "外部并发改动用冒号引出密码数字，读起来更顺；按现状保留并刷新台账。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 577,
+      "source": "{pen=purple}{size=-4}More days like this and I'll spring for a{/size} {pen=lime}{size=-5}{b}BAD MONSTER{/b}{/size}{/pen}.{/pen}",
+      "before": "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}了。{/pen}",
+      "target": "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}（Bad monster）了。{/pen}",
+      "note": "密码坚持英文校验；日记保留 BAD MONSTER 的英文括注，方便玩家看到实际密码。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 627,
+      "source": "{pen=aqua}Momma got herself a {pen=lime}{size=-5}{b}BAD MONSTER{/b}{/size}{/pen} today!{art}{pen=blue}{size=-3}{b}FUCK YEAH!!!{/b}{/size}{/pen}{/art}{/pen}{space=50}",
+      "before": "{pen=aqua}老娘今天入手了一个{pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}！{art}{pen=blue}{size=-3}{b}太他妈爽了！！！{/b}{/size}{/pen}{/art}{/pen}{space=50}",
+      "target": "{pen=aqua}老娘今天入手了一个{pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}（Bad monster）！{art}{pen=blue}{size=-3}{b}太他妈爽了！！！{/b}{/size}{/pen}{/art}{/pen}{space=50}",
+      "note": "密码坚持英文校验；日记保留 BAD MONSTER 的英文括注，方便玩家看到实际密码。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 280,
+      "source": "- The Dildo \\\"Fuck-Hammer\\\"",
+      "before": "- 假阳具“操锤”",
+      "target": "- 钻头阳具“操锤”",
+      "note": "背包道具 `The Drilldo \"Fuck-Hammer\"` 是钻头阳具，PC 购物清单统一为“钻头阳具“操锤””。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 292,
+      "source": "- UltraVibrator 2000",
+      "before": "- 超振棒2000",
+      "target": "- UltraVibe 2000",
+      "note": "产品型号按全库规则与任务/对白保持英文 `UltraVibe 2000`，与背包、任务提示一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 300,
+      "source": "- Sex Doll \\\"Dirty Harold\\\"",
+      "before": "性爱娃娃“Dirty Harold”",
+      "target": "- 性爱娃娃“Dirty Harold”",
+      "note": "补回购物清单项目符号“- ”，与同列表其他条目一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 304,
+      "source": "- DarthMoan",
+      "before": "呻吟达斯",
+      "target": "- 呻吟达斯",
+      "note": "补回购物清单项目符号“- ”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 308,
+      "source": "- BAD MONSTER",
+      "before": "坏怪物",
+      "target": "- 坏怪物",
+      "note": "补回购物清单项目符号“- ”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1358,
+      "source": "UltraVibe 2000",
+      "before": "超感振动2000",
+      "target": "UltraVibe 2000",
+      "note": "道具名与任务提示、jen10 对白统一为英文型号 `UltraVibe 2000`，避免背包与 PC 两套名字。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 577,
+      "source": "{pen=purple}{size=-4}More days like this and I'll spring for a{/size} {pen=lime}{size=-5}{b}BAD MONSTER{/b}{/size}{/pen}.{/pen}",
+      "before": "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}（Bad monster）了。{/pen}",
+      "target": "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物（Bad Monster）{/b}{/size}{/pen}了。{/pen}",
+      "note": "外部并发定稿：英文括注统一为加粗标记内的（Bad Monster）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 627,
+      "source": "{pen=aqua}Momma got herself a {pen=lime}{size=-5}{b}BAD MONSTER{/b}{/size}{/pen} today!{art}{pen=blue}{size=-3}{b}FUCK YEAH!!!{/b}{/size}{/pen}{/art}{/pen}{space=50}",
+      "before": "{pen=aqua}老娘今天入手了一个{pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}（Bad monster）！{art}{pen=blue}{size=-3}{b}太他妈爽了！！！{/b}{/size}{/pen}{/art}{/pen}{space=50}",
+      "target": "{pen=aqua}老娘今天入手了一个{pen=lime}{size=-5}{b}坏怪物（Bad Monster）{/b}{/size}{/pen}！{art}{pen=blue}{size=-3}{b}太他妈爽了！！！{/b}{/size}{/pen}{/art}{/pen}{space=50}",
+      "note": "外部并发定稿：英文括注统一为加粗标记内的（Bad Monster）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 111,
+      "source": "Congratulations!",
+      "before": "（缺条目，游戏内显示英文）",
+      "target": "恭喜！",
+      "note": "PC 购物确认页（/confirmation）漏译，补回 strings 条目。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 295,
+      "source": "- UltraVibrator 2000",
+      "before": "- 超振棒2000",
+      "target": "- 超感振动2000",
+      "note": "随用户在 prop.rpy 的 7944 定稿改用中文名，与背包 `UltraVibe 2000` 条目同名。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 319,
+      "source": "- Electro Clit\\n",
+      "before": "（缺条目，游戏内显示英文）",
+      "target": "- 电击阴蒂棒\\n",
+      "note": "愿望单 else 分支（Jenny 尚无轻量版时）漏译，补回 strings 条目并保留项目符号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "line": 1231,
+      "source": "Locate the UltraVibe 2000.",
+      "before": "找到UltraVibe 2000。",
+      "target": "找到超感振动2000。",
+      "note": "任务 todo 与背包、PC 愿望单统一中文名。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "line": 1234,
+      "source": "The UltraVibe 2000 should be here somewhere.",
+      "before": "UltraVibe 2000应该就在附近。",
+      "target": "超感振动2000应该就在附近。",
+      "note": "任务 hint 同上，避免玩家无法把提示与背包道具对应。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1873,
+      "source": "I need the UltraVibe 2000 annnnnd...",
+      "before": "我要一个UltraVibe 2000，然——后……",
+      "target": "我要一个超感振动2000，然——后……",
+      "note": "Jenny 索要玩具，与背包同名。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1939,
+      "source": "Quit being a nosy perv and go find that UltraVibe 2000!",
+      "before": "别再像个变态似的瞎打听，快去找UltraVibe 2000！",
+      "target": "别再像个变态似的瞎打听，快去找超感振动2000！",
+      "note": "同一件道具在 Jenny 口中复述保持一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 2101,
+      "source": "Oh, those UltraVibes are great!",
+      "before": "哦，那些UltraVibes太棒了！",
+      "target": "哦，那些超感振动棒太棒了！",
+      "note": "Ivy 泛指该产品线，复数用“超感振动棒”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 2221,
+      "source": "Oh, umm... an UltraVibe 2000, please.",
+      "before": "哦，呃……我想找UltraVibe 2000。",
+      "target": "哦，呃……我想找超感振动2000。",
+      "note": "Anon 向店员点明型号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 2299,
+      "source": "( ... But which one is the UltraVibe 2000? )",
+      "before": "（……可哪个才是UltraVibe 2000？）",
+      "target": "（……可哪个才是超感振动2000？）",
+      "note": "货架挑选时的内心独白，需与背包名对应。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 2329,
+      "source": "( Let's just grab the UltraVibe and chalk this one up to experience. )",
+      "before": "（拿上UltraVibe赶紧走，就当长个教训。）",
+      "target": "（拿上超感振动2000赶紧走，就当长个教训。）",
+      "note": "同场景收尾，省略 2000 型号时补全以便识别。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 655,
+      "source": "Is this the Saga Car Dealership?",
+      "before": "请问是SAGA汽车经销商吗？",
+      "target": "请问是传说车行吗？",
+      "note": "Saga 品牌统一“传说”（传说金融／传说影院／传说车行），并与 step.rpy 的“车行”一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 293,
+      "source": "Amuse Bouche",
+      "before": "开胃小食",
+      "target": "《前戏》",
+      "note": "用户手改：书名为双关产品，加书名号并译出成人双关。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 431,
+      "source": "A SAGA car dealership vest",
+      "before": "一件SAGA车行的制服背心",
+      "target": "一件传说车行的制服背心",
+      "note": "用户手改：Saga 品牌统一“传说”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1298,
+      "source": "The Doom Dong",
+      "before": "末日巨棒",
+      "target": "末日巨屌",
+      "note": "用户手改：与工具/武器类道具区分，玩具名更露骨。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1328,
+      "source": "Darth Moan",
+      "before": "达斯·呻吟",
+      "target": "呻吟达斯",
+      "note": "用户手改：双关顺序改为中文语序，与 PC 愿望单同名。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 980,
+      "source": "This is the code to [saga.cast.tori]'s office. 6219.",
+      "before": "这是[saga.cast.tori]办公室的密码。6219。",
+      "target": "这是[saga.cast.tori]办公室的密码：6219。",
+      "note": "用户手改：密码提示用冒号，数字更易读。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1139,
+      "source": "Curiously, they explicitly note that the goggles do nothing against tides of sulfuric acid.",
+      "before": "奇特的是，上面明确标注这护目镜对硫酸浪潮毫无作用。",
+      "target": "奇特的是，上面明确标注这护目镜对硫酸飞溅毫无作用。",
+      "note": "用户手改：实验失手语境是喷溅而非潮汐。",
+      "revision": "bilingual-review-2026-09-13"
     }
   ],
   "reading_batches": [
@@ -13729,6 +13990,29 @@
       ],
       "changes": 12,
       "note": "prop 455对与 step 732对完成全文逐条英中对照复审，共修正12处：道具中文引号／句末句号／肛塞术语／冗长定语，任务时间变量顺序、英国口音从句、D: 表情和变鸡效果歧义。台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "pc_prop_item_name_consistency",
+      "status": "corrected",
+      "files": [
+        "tl/zh_hans/res/meta/prop.rpy",
+        "tl/zh_hans/src/mini/pc.rpy"
+      ],
+      "changes": 6,
+      "note": "比对 mini/pc 与 res/meta/prop 全部物品名，统一 Fuck-Hammer→钻头阳具“操锤”、UltraVibe 2000 保持英文，并补回 PC 购物清单三项“- ”项目符号。"
+    },
+    {
+      "id": "pc_prop_item_name_consistency_followup",
+      "status": "corrected",
+      "files": [
+        "tl/zh_hans/src/mini/pc.rpy",
+        "tl/zh_hans/res/meta/prop.rpy",
+        "tl/zh_hans/res/meta/step.rpy",
+        "tl/zh_hans/src/plot/jen10.rpy",
+        "tl/zh_hans/src/plot/deb13.rpy"
+      ],
+      "changes": 18,
+      "note": "背包（prop.rpym）与 PC 愿望单（src/mini/pc.rpy）使用两套英文源键，字符串表不会自动对齐；逐项比对 10 组情趣玩具名确认同名，补 PC 两处漏译（Congratulations!、- Electro Clit\\n），并按用户 7944 定稿把 UltraVibe 2000 由英文型号统一为“超感振动2000”（背包、PC、step 提示、jen10 对白），Saga 品牌对齐为“传说车行”。机器规则新增 9 条 item_* 与 2 条 game_*。"
     }
   ],
   "source_followups": [
@@ -14990,6 +15274,20 @@
         "note": "全部条目已与当前译文哈希核对；完成状态仅表示按要求校对/改写，不代表整份项目译文质量通过。"
       },
       "note": "一次性待办队列已并入proofreading_batches；条目明细不重复保留。"
+    },
+    {
+      "id": "runtime_input_support_removed",
+      "objective": "按用户决定移除翻译侧运行时补丁：密码坚持英文原键校验，不再提供输入别名，也不再覆盖运行时数据文本。",
+      "scope_status": "removed_by_user_decision",
+      "counts": {
+        "removed_files": 3
+      },
+      "removed": [
+        "tl/zh_hans/input_code_aliases.rpy（BAD MONSTER→BADMONSTER 设备别名）",
+        "tl/zh_hans/hint_translations.rpy（anon_pc／jenny_laptop 提示与 app.name 覆盖）",
+        "tools/check_input_code_aliases.py（上述两个脚本的隔离测试）"
+      ],
+      "note": "移除后：Jenny电脑只接受 `badmonster`／`BADMONSTER`，Anon电脑只接受 `cookies`／`COOKIES`；电脑应用名以 `extracted/anon_pc_jenny_laptop.rpy` 的 old/new 登记为准。规则与 7944 复核点见 translation_context/input_codes.md 与 style_guide.md；台账条目已同步删除。"
     }
   ],
   "resolved_findings": [

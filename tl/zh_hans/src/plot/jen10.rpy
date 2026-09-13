@@ -1870,7 +1870,7 @@ translate zh_hans jen10_shop_a1f28e9d:
 translate zh_hans jen10_shop_4cd9e584:
 
     # jenny "I need the UltraVibe 2000 annnnnd..."
-    jenny "我要一个UltraVibe 2000，然——后……"
+    jenny "我要一个超感振动2000，然——后……"
 
 # game/src/plot/jen10.rpy:678
 translate zh_hans jen10_shop_d9834a5e:
@@ -1936,7 +1936,7 @@ translate zh_hans jen10_shop_5ef3a6d8:
 translate zh_hans jen10_shop_88e01cdf:
 
     # jenny "Quit being a nosy perv and go find that UltraVibe 2000!"
-    jenny "别再像个变态似的瞎打听，快去找UltraVibe 2000！"
+    jenny "别再像个变态似的瞎打听，快去找超感振动2000！"
 
 # game/src/plot/jen10.rpy:701
 translate zh_hans jen10_shop_3721d2ee:
@@ -1978,7 +1978,7 @@ translate zh_hans jen10_shop_106c743e:
 translate zh_hans jen10_shop_95ab6713:
 
     # anon a_pocket f_sceptical "It's your toy, why don't you go find it?!"
-    anon a_pocket f_sceptical "那是你的玩具，你干嘛不去找？！"
+    anon a_pocket f_sceptical "那是你要的玩具，你干嘛不去找？！"
 
 # game/src/plot/jen10.rpy:714
 translate zh_hans jen10_shop_20b20a4c:
@@ -2098,7 +2098,7 @@ translate zh_hans jen10_toy_merge_565cfa37:
 translate zh_hans jen10_toy_merge_fde42d8e:
 
     # ivy "Oh, those UltraVibes are great!"
-    ivy "哦，那些UltraVibes太棒了！"
+    ivy "哦，那些超感振动棒太棒了！"
 
 # game/src/plot/jen10.rpy:786
 translate zh_hans jen10_toy_merge_21219200:
@@ -2218,7 +2218,7 @@ translate zh_hans jen10_toy_ivy_d4abd5ea:
 translate zh_hans jen10_toy_ivy_4678f708:
 
     # anon a_uneasy e_w f_shy o_right "Oh, umm... an UltraVibe 2000, please."
-    anon a_uneasy e_w f_shy o_right "哦，呃……我想找UltraVibe 2000。"
+    anon a_uneasy e_w f_shy o_right "哦，呃……我想找超感振动2000。"
 
 # game/src/plot/jen10.rpy:831
 translate zh_hans jen10_toy_ivy_7f2e9419:
@@ -2296,7 +2296,7 @@ translate zh_hans jen10_toy_other_c669cb19:
 translate zh_hans jen10_toy_other_6ffd7627:
 
     # anon a_think e_nw f_pensive o_right @ -m_talk "( ... But which one is the UltraVibe 2000? )"
-    anon a_think e_nw f_pensive o_right @ -m_talk "（……可哪个才是UltraVibe 2000？）"
+    anon a_think e_nw f_pensive o_right @ -m_talk "（……可哪个才是超感振动2000？）"
 
 # game/src/plot/jen10.rpy:868
 translate zh_hans jen10_toy_rails_a36178d0:
@@ -2326,5 +2326,5 @@ translate zh_hans jen10_toy_rails_1a1ae43b:
 translate zh_hans jen10_toy_rails_5d298b03:
 
     # anon @ -m_talk "( Let's just grab the UltraVibe and chalk this one up to experience. )"
-    anon @ -m_talk "（拿上UltraVibe赶紧走，就当长个教训。）"
+    anon @ -m_talk "（拿上超感振动2000赶紧走，就当长个教训。）"
 

@@ -107,13 +107,16 @@ translate zh_hans strings:
     new "免运费！"
 
     # game/src/mini/pc.rpy:353
+    old "Congratulations!"
+    new "恭喜！"
+
     # game/src/mini/pc.rpy:365
     old "Selfie Stick"
     new "自拍杆"
 
     # game/src/mini/pc.rpy:368
     old "Meat Spinner"
-    new "肉旋机"
+    new "指尖陀螺"
 
     # game/src/mini/pc.rpy:371
     old "Hoverboard"
@@ -277,7 +280,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:1306
     old "- The Dildo \"Fuck-Hammer\""
-    new "- 假阳具“操锤”"
+    new "- 钻头阳具“操锤”"
 
     # game/src/mini/pc.rpy:1307
     old "- Glow in the dark Butt plug"
@@ -289,7 +292,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:1310
     old "- UltraVibrator 2000"
-    new "- 超振棒2000"
+    new "- 超感振动2000"
 
     # game/src/mini/pc.rpy:1312
     old "- The Doom Dong"
@@ -297,16 +300,20 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:1313
     old "- Sex Doll \"Dirty Harold\""
-    new "性爱娃娃“Dirty Harold”"
+    new "- 性爱娃娃“Dirty Harold”"
 
     # game/src/mini/pc.rpy:1314
     old "- DarthMoan"
-    new "呻吟达斯"
+    new "- 呻吟达斯"
 
     # game/src/mini/pc.rpy:1315
     old "- BAD MONSTER"
-    new "坏怪物"
+    new "- 坏怪物"
 
     # game/src/mini/pc.rpy:1319
     old "- Electro Clit\n  Lite version weak af :@"
     new "- 电击阴蒂棒\n  轻量版弱爆了 :@"
+
+    # game/src/mini/pc.rpy:1321
+    old "- Electro Clit\n"
+    new "- 电击阴蒂棒\n"

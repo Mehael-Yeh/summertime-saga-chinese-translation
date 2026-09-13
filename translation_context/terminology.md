@@ -16,6 +16,7 @@
 本轮仅处理英文，不改动意大利语、日语等非英语表达及既有括注。普通词句、界面文字和已定译物品应汉化；保留项须有身份、拼写机制或技术用途依据。专项记录见 `english_residuals.md`。
 
 - `Electro Clit`／`ElectroClit` → 电击阴蒂棒；`Lite`／`Light` 版本 → 电击阴蒂棒轻量版，不再使用“电子阴蒂Lite”。
+- `UltraVibe 2000` → 超感振动2000：情趣玩具型号按 7944 定稿改用中文，背包、PC 愿望单、任务提示与 jen10 对白统一；Ivy 复数口吻作“超感振动棒”，不再整库保留英文。
 - `LARPer` → 实景角色扮演玩家；区别于人物姓名或游戏角色名。
 - `mesmerizing` → 令人着迷；不得在中文商品描述中残留英文。
 - 月份全称 January 至 December 保留英文：用户确认 June 与角色名共用字符串，翻译成“六月”会影响角色姓名显示。不得用文件位置或静态校验例外假定运行时翻译隔离；未经验证的全局 June→六月 映射禁止加入。原有月份缩写译法本轮不变。
@@ -83,9 +84,11 @@ Debbie 对 Anon 的句尾 mister 是熟人间的嗔怪、提醒或警告，不�
 ## 道具与物品命名
 道具说明必须核对动作对象：小黑裙备注的shouldn’t指不让主角购买；雕像躯干是主角拿海狸玩偶向Clyde换得。物品Labcoat与任务统一实验服，Debbie的robe为浴袍，游泳用goggles为泳镜，与实验护目镜区分。
 
-道具与对白一致性补充：游戏名World of Orcette按既定规则保留英文，不能在物品栏改称奥赛特的世界；SL-700胯下火箭不插入中英文间空格。Exams作为可携带物品译试卷；法语词典缺页的物品是扫描件，不是原书缺页本身。
+道具与对白一致性补充：游戏名World of Orcette在物品栏（prop.game_woc）与Erik对白保持英文，不能在物品栏改称奥赛特的世界；Melody线mel02按用户复核保留“兽人世界”，June线bar04的Orcette's Dungeon保留“兽娘地下城”，这两种中文写法仅限已登记位置，不得再扩散第三种译名；SL-700胯下火箭不插入中英文间空格。Exams作为可携带物品译试卷；法语词典缺页的物品是扫描件，不是原书缺页本身。
 
 道具命名补充：Pink Cyclone面具保留角色公开艺名，不改成粉色旋风；Fresh milk cartons按送货对象译盒装鲜奶，不写成空奶盒或擅加牛奶来源。物品描述中的ticket习语可以表达为线索，避免把具体物件写成抽象办法。
+
+情趣玩具产品名跨界面统一：背包（`res/meta/prop.rpy`，来自 `prop.rpym` 的 `prop.*.name`）与 PC 直播愿望单（`src/mini/pc.rpy`）使用两套不同英文源键，Ren'Py 字符串表不会自动对齐，必须人工保持一致——`The Drilldo "Fuck-Hammer"`／`- The Dildo "Fuck-Hammer"` → 钻头阳具“操锤”；`Glow-in-the-dark butt plug`／`- Glow in the dark Butt plug` → 夜光肛塞；`Dual Sybian`／`- Dual sybian (multi-controler)` → 双头赛马鞍（PC 保留“（多控制器）”）；`UltraVibe 2000`／`- UltraVibrator 2000` → 超感振动2000；`The Doom Dong`／`- The Doom Dong` → 末日巨屌；`Sex Doll "Dirty Harold"`／`- Sex Doll "Dirty Harold"` → 性爱娃娃“Dirty Harold”；`Darth Moan`／`- DarthMoan` → 呻吟达斯；`Bad Monster`／`- BAD MONSTER` → 坏怪物；`Electro Clit (Sold Out)`／`Electro Clit Lite`／`- Electro Clit` → 电击阴蒂棒／电击阴蒂棒轻量版；`Orcette`／`- The Orcette` → 女兽人。PC 愿望单必须保留源文的“- ”项目符号，`pc_editor` 用 `replace('- ', '{plain}- {/plain}')` 渲染，缺符号会与同列其它行错位。
 
 道具组统一：Pink Cyclone亲笔签名海报；Pom-poms为啦啦队彩球；Leaf skimmer为捞叶网；USB在此专指U盘，不用于替换接口名称。controller按游戏手柄处理；Eve的Partners in Crime是画作，使用画的，不能写所著。
 
@@ -463,7 +466,7 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | `wimp`（`jen05.rpy` 中 Jenny 对 Anon） | 窝囊废 | 同一场景两次出现，后续仍按关系阶段复核；不对其他角色的普通用法做全仓替换 |
 | Bad Monster | 坏怪物 | Pink出售的大型情趣玩具名称；与资源物品、任务提示及Jenny线保持一致 |
 | Pink Cyclone | `Pink Cyclone` | CLT 游戏宣传活动中的角色/品牌专名，保持英文拼写，不译作“粉红旋风/粉色旋风” |
-| World of Orcette / WoO | `World of Orcette` / `WoO` | Erik、Karl、Justin参与的网络游戏及其缩写，保持英文，不使用中文书名 |
+| World of Orcette / WoO | `World of Orcette` / `WoO` | Erik、Karl、Justin参与的网络游戏及其缩写；物品栏与Erik对白保持英文，mel02.rpy按用户复核保留“兽人世界”，不新增“奥赛特的世界”等译名 |
 | Brutalitops | `Brutalitops` | Karl的游戏角色名，保持英文，不音译为“野蛮托普斯/残忍之巅” |
 | WPWF | `WPWF` | Women's Professional Wrestling Federation 的缩写；解释全称时译“女子职业摔角联盟” |
 | no contest（摔角） | 无结果 | 比赛不计胜负，不等同于平局；战绩 `34-0-1` 的最后一项按“1场无结果”处理 |

@@ -266,10 +266,10 @@ translate zh_hans strings:
     new "一本关于如何像公牛般交配的极为“深入”的指南！"
     # game/res/meta/prop.rpym:116
     old "Mon Fromage et Moi!"
-    new "Mon Fromage et Moi!（我的奶酪和我！）"
+    new "Mon Fromage et Moi!（《我的奶酪和我！》）"
     # game/res/meta/prop.rpym:117
     old "A thrilling romp though 101 French cheeses. \"It's easy as one, two, brie!\""
-    new "一场穿越101种法国奶酪的欢乐嬉闹。“简单得就像一、二、布里！”"
+    new "一场穿越101种法国奶酪的欢乐嬉闹。“简单得就像一、二、三！”"
     # game/res/meta/prop.rpym:119
     old "Dictionnaire Français"
     new "Dictionnaire Français（法语词典）"
@@ -290,7 +290,7 @@ translate zh_hans strings:
     new "一本图书馆里的旧书，看起来能破解什么东西。"
     # game/res/meta/prop.rpym:128
     old "Amuse Bouche"
-    new "开胃小食"
+    new "《前戏》"
     # game/res/meta/prop.rpym:129
     old "An extremely graphic depiction about the ways of French love."
     new "一本极其露骨地描写法式情爱的书。"
@@ -428,7 +428,7 @@ translate zh_hans strings:
     new "一条流线型的速比涛泳裤，再配上泳镜，水下也能看得清清楚楚！"
     # game/res/meta/prop.rpym:197
     old "A SAGA car dealership vest"
-    new "一件SAGA车行的制服背心"
+    new "一件传说车行的制服背心"
     # game/res/meta/prop.rpym:198
     old "Ladies love a man in uniform, right? Even if it screams box-store?"
     new "女士们都喜欢穿制服的男人，对吧？即使这衣服看起来像是大卖场的？"
@@ -977,7 +977,7 @@ translate zh_hans strings:
     new "进入[saga.cast.tori]办公室的密码"
     # game/res/meta/prop.rpym:492
     old "This is the code to [saga.cast.tori]'s office. 6219."
-    new "这是[saga.cast.tori]办公室的密码。6219。"
+    new "这是[saga.cast.tori]办公室的密码：6219。"
     # game/res/meta/prop.rpym:494
     old "Yoga instructions"
     new "瑜伽指南"
@@ -1136,7 +1136,7 @@ translate zh_hans strings:
     new "Wolfcastle牌安全护目镜"
     # game/res/meta/prop.rpym:606
     old "Curiously, they explicitly note that the goggles do nothing against tides of sulfuric acid."
-    new "奇特的是，上面明确标注这护目镜对硫酸浪潮毫无作用。"
+    new "奇特的是，上面明确标注这护目镜对硫酸飞溅毫无作用。"
     # game/res/meta/prop.rpym:608
     old "Tattoo design"
     new "纹身设计"
@@ -1295,7 +1295,7 @@ translate zh_hans strings:
     new "坚固的金属手铐。"
     # game/res/meta/prop.rpym:695
     old "The Doom Dong"
-    new "末日巨棒"
+    new "末日巨屌"
     # game/res/meta/prop.rpym:696
     old "A very large, black, dildo."
     new "一个非常大的黑色假阳具。"
@@ -1325,7 +1325,7 @@ translate zh_hans strings:
     new "ZUG！ZUG！这是一个女兽人。"
     # game/res/meta/prop.rpym:710
     old "Darth Moan"
-    new "达斯·呻吟"
+    new "呻吟达斯"
     # game/res/meta/prop.rpym:711
     old "A double bladed dildo, for double the fun!"
     new "双头假阳具，双倍乐趣！"

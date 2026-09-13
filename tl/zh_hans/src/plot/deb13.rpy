@@ -652,7 +652,7 @@ translate zh_hans deb13_car_c2159096:
 translate zh_hans deb13_car_25cbeade:
 
     # anon f_sceptical "Is this the Saga Car Dealership?"
-    anon f_sceptical "请问是SAGA汽车经销商吗？"
+    anon f_sceptical "请问是传说车行吗？"
 
 # game/src/plot/deb13.rpy:202
 translate zh_hans deb13_car_e56a6c1a:

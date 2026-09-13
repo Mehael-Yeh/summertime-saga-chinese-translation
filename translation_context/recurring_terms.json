@@ -1659,6 +1659,129 @@
       "translation": "你真让我骄傲",
       "first_seen": "tl/zh_hans/src/plot/deb03.rpy",
       "note": "按整句译成鼓励，不写成“我的儿子”。"
+    },
+    {
+      "id": "item_ultravibe_2000",
+      "source_regex": "\\bUltraVibe(?:s|rator)?\\b",
+      "target_regexes": [
+        "超感振动"
+      ],
+      "category": "english_residual",
+      "translation": "超感振动2000",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "情趣玩具型号；背包、PC 愿望单、任务提示与 jen10 对白统一用中文名，复数 UltraVibes 作“超感振动棒”。"
+    },
+    {
+      "id": "item_doom_dong",
+      "source_regex": "Doom Dong",
+      "target_regexes": [
+        "末日巨屌"
+      ],
+      "category": "english_residual",
+      "translation": "末日巨屌",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "Pink 情趣玩具名；背包与 PC 愿望单必须同名，旧译“末日巨棒”作废。"
+    },
+    {
+      "id": "item_drilldo_fuck_hammer",
+      "source_regex": "\\bDrilldo\\b",
+      "target_regexes": [
+        "钻头阳具"
+      ],
+      "category": "english_residual",
+      "translation": "钻头阳具“操锤”",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "电钻型假阳具；PC 愿望单源文作 The Dildo \"Fuck-Hammer\"，中文一律“钻头阳具“操锤””。"
+    },
+    {
+      "id": "item_darth_moan",
+      "source_regex": "Darth\\s?Moan",
+      "target_regexes": [
+        "呻吟达斯"
+      ],
+      "category": "english_residual",
+      "translation": "呻吟达斯",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "达斯·摩尔式双关玩具名；背包与 PC 清单统一，不再写“达斯·呻吟”。"
+    },
+    {
+      "id": "item_dirty_harold_doll",
+      "source_regex": "Dirty Harold",
+      "target_regexes": [
+        "性爱娃娃"
+      ],
+      "category": "english_residual",
+      "translation": "性爱娃娃“Dirty Harold”",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "人名 Dirty Harold 保留英文，品类译“性爱娃娃”。"
+    },
+    {
+      "id": "item_dual_sybian",
+      "source_regex": "[Ss]ybian",
+      "target_regexes": [
+        "赛马鞍"
+      ],
+      "category": "english_residual",
+      "translation": "双头赛马鞍",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "骑乘式情趣装置；PC 愿望单带“（多控制器）”说明。"
+    },
+    {
+      "id": "item_flesh_tube",
+      "source_regex": "Flesh Tube",
+      "target_regexes": [
+        "肉管"
+      ],
+      "category": "english_residual",
+      "translation": "肉管",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "橡胶内衬管状玩具，背包名称短译“肉管”。"
+    },
+    {
+      "id": "item_whip_penance",
+      "source_regex": "\\bPenance\\b",
+      "target_regexes": [
+        "苦修"
+      ],
+      "category": "english_residual",
+      "translation": "鞁子“苦修”",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "Whip \"The Penance\" 译“鞁子‘苦修’”，保留宗教惩罚意象。"
+    },
+    {
+      "id": "item_crusader_strapon",
+      "source_regex": "\\bCrusader\\b",
+      "target_regexes": [
+        "十字军"
+      ],
+      "category": "english_residual",
+      "translation": "穿戴式假阳具“十字军”",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "Strap-On \"Crusader\" 的专用名。"
+    },
+    {
+      "id": "game_world_of_orcette",
+      "source_regex": "World of Orcette",
+      "target_regexes": [
+        "World of Orcette",
+        "兽人世界"
+      ],
+      "category": "proper_noun",
+      "translation": "World of Orcette（物品栏与 Erik 对白）／兽人世界（Melody 线对白）",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "两种写法仅限已登记位置：物品栏 prop.game_woc 与 jen17.rpy 保留英文，mel02.rpy 保留“兽人世界”（用户复核回退英文改动）；禁止“奥赛特的世界”等第三种写法。"
+    },
+    {
+      "id": "game_orcettes_dungeon",
+      "source_regex": "Orcette's Dungeon",
+      "target_regexes": [
+        "Orcette's Dungeon",
+        "兽娘地下城"
+      ],
+      "category": "proper_noun",
+      "translation": "兽娘地下城",
+      "first_seen": "tl/zh_hans/src/plot/bar04.rpy",
+      "note": "与 World of Orcette 同属游戏专名；bar04.rpy 保留“兽娘地下城”（用户复核回退英文改动），不得再造第三种译名。"
     }
   ]
 }

@@ -1228,10 +1228,10 @@ translate zh_hans strings:
     new "她这是发什么脾气？我得去找找她。"
     # game/res/meta/step.rpym:997
     old "Locate the UltraVibe 2000."
-    new "找到UltraVibe 2000。"
+    new "找到超感振动2000。"
     # game/res/meta/step.rpym:998
     old "The UltraVibe 2000 should be here somewhere."
-    new "UltraVibe 2000应该就在附近。"
+    new "超感振动2000应该就在附近。"
     # game/res/meta/step.rpym:1001
     old "Well, that was embarrassing."
     new "嗯，这可真让人尴尬。"

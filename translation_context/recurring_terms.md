@@ -204,13 +204,35 @@
 
 | `easel` / `easels` | 美术课绘画设备 | 画架 | `bar04.rpy` 及美术线 | 旧画架与 Anon 制作的新画架统一，不漂移为“支架” |
 
+### 背包与 PC 物品名一致
+
+同一件 Pink 情趣玩具在背包（`res/meta/prop.rpy`，源为 `prop.rpym` 的 `prop.*.name`）与 PC 直播愿望单（`src/mini/pc.rpy`）使用两套不同英文源键；Ren'Py 字符串表按整串精确匹配，不会自动对齐，必须人工保证同名。
+
+| 背包英文源键 | PC 愿望单英文源键 | 统一中文 |
+|---|---|---|
+| `The Drilldo "Fuck-Hammer"` | `- The Dildo "Fuck-Hammer"` | 钻头阳具“操锤” |
+| `Glow-in-the-dark butt plug` | `- Glow in the dark Butt plug` | 夜光肛塞 |
+| `Dual Sybian` | `- Dual sybian (multi-controler)` | 双头赛马鞍（PC 保留“（多控制器）”） |
+| `UltraVibe 2000` | `- UltraVibrator 2000` | 超感振动2000 |
+| `The Doom Dong` | `- The Doom Dong` | 末日巨屌 |
+| `Sex Doll "Dirty Harold"` | `- Sex Doll "Dirty Harold"` | 性爱娃娃“Dirty Harold” |
+| `Darth Moan` | `- DarthMoan` | 呻吟达斯 |
+| `Bad Monster` | `- BAD MONSTER` | 坏怪物 |
+| `Electro Clit (Sold Out)`／`Electro Clit Lite` | `- Electro Clit`／`- Electro Clit\n  Lite version weak af :@` | 电击阴蒂棒／电击阴蒂棒轻量版 |
+| `Orcette` | `- The Orcette` | 女兽人 |
+
+- 愿望单的 `- Sex Doll …`、`- DarthMoan`、`- BAD MONSTER` 在 7944 源文里带 `- ` 项目符号，译文必须保留：`pc_editor` 依赖 `replace('- ', '{plain}- {/plain}')` 渲染，漏符号会与同列其它行错位。
+- 愿望单 `else` 分支的 `- Electro Clit\n`（Jenny 尚无轻量版时只显示产品名）与 `/confirmation` 页的 `Congratulations!` 此前漏译，已补“电击阴蒂棒／恭喜！”。
+- `UltraVibe 2000` 曾在背包、PC 各用一种中文，任务提示与 jen10 对白又保留英文；按用户 7944 定稿统一为“超感振动2000”，Ivy 复数口吻作“超感振动棒”。
+- 机器规则新增 `item_ultravibe_2000`、`item_doom_dong`、`item_drilldo_fuck_hammer`、`item_darth_moan`、`item_dirty_harold_doll`、`item_dual_sybian`、`item_flesh_tube`、`item_whip_penance`、`item_crusader_strapon`；游戏专名另登记 `game_world_of_orcette`、`game_orcettes_dungeon`，只允许已复核的两种写法。
+
 ### 地名与专名
 
 地名无需等待重复两次：首次出现即参照 UI。正式映射及歧义例外见 `terminology.md`；机器规则新增 16 个 `location_*` 条目，沿用已有的夏日学院和 Consum-R 规则。
 
 已修复 Cosmic Cumics、Cupid、Saga Financial、Ara Ara、Sugar Tats、Pink 的英文残留及不同译法，覆盖对话、任务提示、物品说明和字节码提取文本；同时纠正把 Pink 商店后屋称为“粉红酒吧的密室”的地点误认。Raven Hill 的现有 11 处完整名称均为“渡鸦山”，登记规则防止再次出现“鸦山／鸦丘”等漂移。
 
-新增复核：Pink 按用户意见定为“粉色诱惑”；Retro Strike 改为“复古全中”，保留保龄球全中的含义；CineSaga 统一为 UI 的“传说影院”。
+新增复核：Pink 按用户意见定为“粉色诱惑”；Retro Strike 改为“复古全中”，保留保龄球全中的含义；CineSaga 统一为 UI 的“传说影院”。Saga 品牌统一用“传说”：Saga Financial 为“传说金融”；背包源串 `A SAGA car dealership vest` 定稿“传说车行的制服背心”后，`deb13.rpy` 的 `Is this the Saga Car Dealership?` 由“SAGA汽车经销商”改为“传说车行”，与 `step.rpy` 的“车行”对齐。`World of Orcette`／`Orcette's Dungeon` 属游戏专名：物品栏与 jen17 保留英文，mel02 保留“兽人世界”、bar04 保留“兽娘地下城”（用户复核回退英文改动），两种写法以外不再新增译名。
 
 本次以 sets.rpy 所列 18 个地点专名为核对范围；一般房间名、颜色、人物与频道名称不机械套用店名规则。审计通过只说明已登记规则一致，不等同于游戏内逐场景验收。
 

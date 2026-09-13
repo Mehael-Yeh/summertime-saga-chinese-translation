@@ -3412,12 +3412,12 @@
       }
     },
     "tl/zh_hans/res/meta/prop.rpy": {
-      "sha256": "d0f798b4faee3b5d075bb14c67dced3a7c9b43cc0a19727b82f3e5ee55b68828",
+      "sha256": "b57237f243b47fd115b2b246733a6e287395ad1d210c5a1353323c4c85edc4d2",
       "pairs": 455,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "d0f798b4faee3b5d075bb14c67dced3a7c9b43cc0a19727b82f3e5ee55b68828",
+        "translation_sha256": "b57237f243b47fd115b2b246733a6e287395ad1d210c5a1353323c4c85edc4d2",
         "source_sha256": "56d1950d4a448bcbddef020de168ff4d40b221c3344e3b82ea3ce8feed25d2a7",
         "source": "game/res/meta/prop.rpym",
         "source_local": ".codex_tmp/current7944/src/res/meta/prop.rpym",
@@ -3878,12 +3878,12 @@
           {
             "id": "strings",
             "line": 269,
-            "pair_sha256": "30d8a561e550006bebedc4070ceff3ef5d501b9abfcee4bea47161d9896e71b8"
+            "pair_sha256": "bd7b25a824fdc36f78f9be63d0bb294ccdf90162a043312af248256110ada1d1"
           },
           {
             "id": "strings",
             "line": 272,
-            "pair_sha256": "716b54f156402c77d7c3d107b2fabd016c730a093fc4821bc37e6bbe01739c2a"
+            "pair_sha256": "eb38d5e74f420fdb771dfe54e46f0a6ac852d37e73fed1ad1dc399cfde87df57"
           },
           {
             "id": "strings",
@@ -3918,7 +3918,7 @@
           {
             "id": "strings",
             "line": 293,
-            "pair_sha256": "4f375af9c512d657f70aecb7ace0b033e4d35dfa7a7b622035bf0d8688f266ee"
+            "pair_sha256": "3cfe4733bc0045e5cee70a4bea039739f2c20cc8b6cc3abe5b6e5e7995cf0ed8"
           },
           {
             "id": "strings",
@@ -4148,7 +4148,7 @@
           {
             "id": "strings",
             "line": 431,
-            "pair_sha256": "53d2787c7fdf270001f7bb6116ab2700bd25a04c930f0360ecd9c142cda5d860"
+            "pair_sha256": "89f502b0e26f7ec585e589fb92acdcee47b02509bd5a620a541e25e5eb07e87e"
           },
           {
             "id": "strings",
@@ -5063,7 +5063,7 @@
           {
             "id": "strings",
             "line": 980,
-            "pair_sha256": "a2c51a5c25150c0b90093ae80796fb6958d5a094a04479be04e944e39a8c2ec8"
+            "pair_sha256": "05c3240c1ce120653d5ceb7d031ed4e800114f7b1c2e27e5a746cce45c37934e"
           },
           {
             "id": "strings",
@@ -5328,7 +5328,7 @@
           {
             "id": "strings",
             "line": 1139,
-            "pair_sha256": "48406aa64c963e88aab3a71f826a11fbf95256e9c1abdcdd3f99dc232ab58436"
+            "pair_sha256": "ed8e9b4fc86ec3e047ff801e31b517cca33e181d82816f2038420f09bc189e4d"
           },
           {
             "id": "strings",
@@ -5593,7 +5593,7 @@
           {
             "id": "strings",
             "line": 1298,
-            "pair_sha256": "87d8a802b22bcd6d60fee02b1c4ecf123987033e676a07ee35ea5d6d639a3d5a"
+            "pair_sha256": "ecc55f0fabd8aa4ceaf0aa17e433cea95a2f5fa0cb2d7bf4a50962286d25f03d"
           },
           {
             "id": "strings",
@@ -5643,7 +5643,7 @@
           {
             "id": "strings",
             "line": 1328,
-            "pair_sha256": "62d9629f165504192c1e42edcf5734ec7c5f064610b09f8c8eab211e069b9010"
+            "pair_sha256": "241959e20ef4679b1c148e3f44ebab92d969a8a72331beeb01d60477f487f179"
           },
           {
             "id": "strings",
@@ -5711,7 +5711,7 @@
             "pair_sha256": "950ff81e1076a8e1ba1ea9078fc80dd3f595826bad796b3852f78ae3f5fa9b5d"
           }
         ],
-        "note": "全部455条本地文本已读，新增15处修正；Sink归回源34顺序。Pink package颜色与品牌双关、卡牌名称图像含义及此前Rump名称等仍待跨资源确认，不标为全部完成。此前：中文读至Paint物品名、源503；说明504起未读。修正12条，面具使用艺名Pink Cyclone、奶货是盒装鲜奶不是空盒；画板保持既定道具设定。此前：中文与源连续读至372；游戏名回归既定World of Orcette，SL-700名称不加空格，Exams在物品栏指试卷。车名、鱼饵及双关仍待跨任务核对；未把已读等同全部问题结案。此前：中文及元数据源对读至248；修正16条。法语及其他非英语书名保持当前译法；书籍双关和鱼类典故等仍有待结合剧情进一步核实，当前仅记录已读。郁金香251开始待续。 2026-09-13 标点一致性：变量后半角 !!! 或单省略号统一为“！！！”／“……”。 2026-09-13 术语一致性：A couple of cosplay outfits 由“几件角色扮演服装”改为“几件cosplay服装”，与 terminology 中 cosplay 保留 cosplay、只有 LARPer 才写“角色扮演”的规则统一。 2026-09-13 Chola 书名统一：`Chola's Tricks` 由“乔拉的妙招”改为“Chola的招数”，与 storylines.md 及 viv02 的《Chola的招数》一致（chola 是西语俚语，不是人名，Anon 紧接着要问“Chola 到底是什么”）；同一道具说明里的 skank ass hoes 由“贱人”改“骚货”，不净化原文。 2026-09-13 第九十三批：prop 455对完成同源句、英文残留与商品名扫描，无需改动；Orcette→女兽人、Dual Sybian→双重Sybian、World of Orcette 等与术语一致。 2026-09-13 第九十六批：道具／任务文件全文英中对照复审，修正引号、变量顺序、表情与生硬直译。 2026-09-13 Sybian 统一：外部将 mini/pc 改为“双头赛马鞍”，prop 同步并刷新指纹。",
+        "note": "全部455条本地文本已读，新增15处修正；Sink归回源34顺序。Pink package颜色与品牌双关、卡牌名称图像含义及此前Rump名称等仍待跨资源确认，不标为全部完成。此前：中文读至Paint物品名、源503；说明504起未读。修正12条，面具使用艺名Pink Cyclone、奶货是盒装鲜奶不是空盒；画板保持既定道具设定。此前：中文与源连续读至372；游戏名回归既定World of Orcette，SL-700名称不加空格，Exams在物品栏指试卷。车名、鱼饵及双关仍待跨任务核对；未把已读等同全部问题结案。此前：中文及元数据源对读至248；修正16条。法语及其他非英语书名保持当前译法；书籍双关和鱼类典故等仍有待结合剧情进一步核实，当前仅记录已读。郁金香251开始待续。 2026-09-13 标点一致性：变量后半角 !!! 或单省略号统一为“！！！”／“……”。 2026-09-13 术语一致性：A couple of cosplay outfits 由“几件角色扮演服装”改为“几件cosplay服装”，与 terminology 中 cosplay 保留 cosplay、只有 LARPer 才写“角色扮演”的规则统一。 2026-09-13 Chola 书名统一：`Chola's Tricks` 由“乔拉的妙招”改为“Chola的招数”，与 storylines.md 及 viv02 的《Chola的招数》一致（chola 是西语俚语，不是人名，Anon 紧接着要问“Chola 到底是什么”）；同一道具说明里的 skank ass hoes 由“贱人”改“骚货”，不净化原文。 2026-09-13 第九十三批：prop 455对完成同源句、英文残留与商品名扫描，无需改动；Orcette→女兽人、Dual Sybian→双重Sybian、World of Orcette 等与术语一致。 2026-09-13 第九十六批：道具／任务文件全文英中对照复审，修正引号、变量顺序、表情与生硬直译。 2026-09-13 Sybian 统一：外部将 mini/pc 改为“双头赛马鞍”，prop 同步并刷新指纹。 2026-09-13 外部并发改动：Tori 办公室密码提示改用冒号引出数字“6219”，按现状保留并刷新指纹。 2026-09-13 第一百批：排查并统一背包（prop）与 PC（mini/pc）的物品名称与列表格式。 第一百零一批：随用户手改刷新指纹（传说车行制服背心、末日巨屌、呻吟达斯、开胃小食→《前戏》、旧书→书、硫酸飞溅、密码冒号）；UltraVibe 2000 定稿“超感振动2000”，与 PC 愿望单同名。",
         "external_event_followup": true,
         "dependencies": [
           {
@@ -5782,12 +5782,12 @@
       }
     },
     "tl/zh_hans/res/meta/step.rpy": {
-      "sha256": "d5dc13fff634f48b6557c834f018992cd8aeb833e1e7cb9d1d9bcbfe47b16e85",
+      "sha256": "17d4177ffb16232ca1a6b6f16d29397e4e4df3d55e2a72fccf1e98fa7d23482e",
       "pairs": 732,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "d5dc13fff634f48b6557c834f018992cd8aeb833e1e7cb9d1d9bcbfe47b16e85",
+        "translation_sha256": "17d4177ffb16232ca1a6b6f16d29397e4e4df3d55e2a72fccf1e98fa7d23482e",
         "source_sha256": "aed6e86a697ff4bc49fd7f88cf9ab0e386f9c19e56e5cfab855028108c07e216",
         "source": "game/res/meta/step.rpym",
         "source_local": ".codex_tmp/current7944/src/res/meta/step.rpym",
@@ -7874,12 +7874,12 @@
           {
             "id": "strings",
             "line": 1231,
-            "pair_sha256": "f102987354a9f044dd54cb25e09593e9ac482d945ae008ba6525449b8fdcddae"
+            "pair_sha256": "1517abe2299c0c9372c6e473073e5a6d0489dc296791fdbcf8fe687cedec3f83"
           },
           {
             "id": "strings",
             "line": 1234,
-            "pair_sha256": "8de52963a30af2753cf0b328cdc469749f1656f3e8cfc05f47c5d6ba52357e49"
+            "pair_sha256": "159f50831f79e515ae1e5928f77d76aee22fd85629164653897938393e784ffd"
           },
           {
             "id": "strings",
@@ -9487,7 +9487,7 @@
             "pair_sha256": "9e0bb986ed131a53c3d446d29b0821276a582a67edc4fecc2be51d342f263304"
           }
         ],
-        "note": "全部任务提示本地阅读完成，当前732条。补齐Consum-r精确原文键，旧Consum-R保留。未解除已有疑点和外部事件待复核标记。此前记录：源1—1508任务提示已读。本批纠正银行地点、啤酒交换方向、女性代词、实验服、日记口头语。保留既有未结疑点：源1—1178任务提示已连读，本轮3处普通口语修正。1151接受动作误译疑点待纠正；既有疑点保留。1181起继续。 2026-09-13 标点一致性：内心独白括号统一为全角“（！！！）”。 2026-09-13 省略号间距收敛：全库 28 处“…… ”（省略号后多一个空格）统一为“……”，本文件按新写法重算指纹。 2026-09-13 第九十三批：界面／道具／任务大文件差异与残留扫描，修正术语统一与法语括注冗余。 2026-09-13 第九十六批：道具／任务文件全文英中对照复审，修正引号、变量顺序、表情与生硬直译。",
+        "note": "全部任务提示本地阅读完成，当前732条。补齐Consum-r精确原文键，旧Consum-R保留。未解除已有疑点和外部事件待复核标记。此前记录：源1—1508任务提示已读。本批纠正银行地点、啤酒交换方向、女性代词、实验服、日记口头语。保留既有未结疑点：源1—1178任务提示已连读，本轮3处普通口语修正。1151接受动作误译疑点待纠正；既有疑点保留。1181起继续。 2026-09-13 标点一致性：内心独白括号统一为全角“（！！！）”。 2026-09-13 省略号间距收敛：全库 28 处“…… ”（省略号后多一个空格）统一为“……”，本文件按新写法重算指纹。 2026-09-13 第九十三批：界面／道具／任务大文件差异与残留扫描，修正术语统一与法语括注冗余。 2026-09-13 第九十六批：道具／任务文件全文英中对照复审，修正引号、变量顺序、表情与生硬直译。 第一百零一批：UltraVibe 2000 任务提示与背包、PC 愿望单统一为“超感振动2000”。",
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read"
@@ -9595,7 +9595,7 @@
           },
           {
             "path": "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy",
-            "sha256": "f53348b2e4028a983887c5351f66cc1c49fd42ff7895cab6b2ab5bc2ab8cf3c1"
+            "sha256": "66b0d31fa8e255f2dade74f89abbec89bca624bf7615b050c85521f21eca7a33"
           },
           {
             "path": "tl/zh_hans/extracted/ex_tv_television_menu_view_wind.rpy",
@@ -9603,7 +9603,7 @@
           },
           {
             "path": "tl/zh_hans/extracted/jenny_diary.rpy",
-            "sha256": "f36f75c411603722c0601f46403b8d83bfe5446efa929664f4f83246656924e4"
+            "sha256": "0cd609aff3fd0208f465043ad9e1a3fef613228993160f1198288752d19a68db"
           },
           {
             "path": "tl/zh_hans/extracted/lewd.rpy",
@@ -11678,12 +11678,12 @@
       }
     },
     "tl/zh_hans/src/mini/pc.rpy": {
-      "sha256": "eed74aedefaa6cb7ea3f3c05f8f35aa15deaa06a1a473a8c34575477ccfc0c3f",
-      "pairs": 77,
+      "sha256": "607f0ee46da257b59fabbea652d8621e3a0e823ecdece61c016f47fc8f7b4dd0",
+      "pairs": 79,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "eed74aedefaa6cb7ea3f3c05f8f35aa15deaa06a1a473a8c34575477ccfc0c3f",
+        "translation_sha256": "607f0ee46da257b59fabbea652d8621e3a0e823ecdece61c016f47fc8f7b4dd0",
         "source_sha256": "7a4b3227b4e50b6d7a6edcbf1f23278aef0bd77321e7a89ff193ff9b8ba15604",
         "source": "game/src/mini/pc.rpy",
         "source_local": ".codex_tmp/current7944/src/src/mini/pc.rpy",
@@ -11831,261 +11831,271 @@
           },
           {
             "id": "strings",
-            "line": 112,
+            "line": 111,
+            "pair_sha256": "6af74b9a6ca59c09fc307d0d9e4dc7b435c7bfb1beb47fae8fec9def112f0fdc"
+          },
+          {
+            "id": "strings",
+            "line": 115,
             "pair_sha256": "1b63d5adc1b90c6a7a29e8232cabfa0db78a9ab322f54db3207dd69146bad335"
           },
           {
             "id": "strings",
-            "line": 116,
+            "line": 119,
             "pair_sha256": "ba4832d715534cfc74faf1ea8e44fd598f627a2511bfbcd01fc5e79d2adbb5ff"
           },
           {
             "id": "strings",
-            "line": 120,
+            "line": 123,
             "pair_sha256": "904fb0553562be3edeb78dfdd009beb6909a994e3a45ce1181db5a453d448541"
           },
           {
             "id": "strings",
-            "line": 124,
+            "line": 127,
             "pair_sha256": "d3abf1094d0ae34607a6a748bc0a0672590bd2527a74e7ab4fdced16d675f389"
           },
           {
             "id": "strings",
-            "line": 128,
+            "line": 131,
             "pair_sha256": "a8ebfe61d9e48c84fc9f83b1450cfab40e22c728710b621d414dcf19f2f2db1c"
           },
           {
             "id": "strings",
-            "line": 132,
+            "line": 135,
             "pair_sha256": "320397e354671ade157c56bda18f6423d5d7be364b7d7df159934dada1e43950"
           },
           {
             "id": "strings",
-            "line": 136,
+            "line": 139,
             "pair_sha256": "960989bdadffda73c108c6cc1d878529d883443808af8280c8f643557f6795aa"
           },
           {
             "id": "strings",
-            "line": 140,
+            "line": 143,
             "pair_sha256": "53071c9d1b3dcbf145eeb7644c9a4105f4a6083390736ff876af01969cc407c9"
           },
           {
             "id": "strings",
-            "line": 144,
+            "line": 147,
             "pair_sha256": "926a739fe330dea04502d2f994c6bfb725ad6ce0663a6d6b832e0a813e473c44"
           },
           {
             "id": "strings",
-            "line": 148,
+            "line": 151,
             "pair_sha256": "c81b08fcaa4eae353aa7af5ca94bda9fd1947d60a189927ca10ff1472442bbb0"
           },
           {
             "id": "strings",
-            "line": 152,
+            "line": 155,
             "pair_sha256": "3e2beb28f042297b8a956ba73462fb6fa5026917009be8afe55326d32d6a3eb6"
           },
           {
             "id": "strings",
-            "line": 156,
+            "line": 159,
             "pair_sha256": "f62d602919110edaa4a20038f01734af83a71c48d0390b35bf30a4a5a625e8a0"
           },
           {
             "id": "strings",
-            "line": 160,
+            "line": 163,
             "pair_sha256": "3e025cdd957fd22c8d695c2069d187a4acd2af068c2ebedbffb0c579a53bf30e"
           },
           {
             "id": "strings",
-            "line": 164,
+            "line": 167,
             "pair_sha256": "8d1343f0a46f3a6bad53badc9f9d7766a5fa33e46d9b3364a7c4f207245650f5"
           },
           {
             "id": "strings",
-            "line": 168,
+            "line": 171,
             "pair_sha256": "74da14e32369182799a7c5d70800408ea77d92268ca9a20d558c46293412f13c"
           },
           {
             "id": "strings",
-            "line": 172,
+            "line": 175,
             "pair_sha256": "227352af1d21355c12e2ab9b26d3bf4241b07ff4ad2134acb808f60430a3d9a9"
           },
           {
             "id": "strings",
-            "line": 176,
+            "line": 179,
             "pair_sha256": "6d4e5bfd6767ce70dd0c64b5a5dea85c207a630ba5fdcec839c0c1548ae0dc0e"
           },
           {
             "id": "strings",
-            "line": 180,
+            "line": 183,
             "pair_sha256": "e25e6ae0851b7f87d2331f4170ad7809839f463beee99279deb38dce001f7214"
           },
           {
             "id": "strings",
-            "line": 184,
+            "line": 187,
             "pair_sha256": "8d951afe4cadb94af8bd19606b197476fddedd7e9aa60976bf8b2c0fb25359d8"
           },
           {
             "id": "strings",
-            "line": 188,
+            "line": 191,
             "pair_sha256": "ed4a7642a8c1a85b86d20850e025ad22122bfeeda9c89059ab64c2199090e5a6"
           },
           {
             "id": "strings",
-            "line": 192,
+            "line": 195,
             "pair_sha256": "be1cce27fa18533564d50e7a130ac40a01474b30fa3aed710f66ddd8db2e7a08"
           },
           {
             "id": "strings",
-            "line": 196,
+            "line": 199,
             "pair_sha256": "d5b88fcf3a97139c2a2c633bb6cb659a2db7f6385d9fbd30c4586eece27b5191"
           },
           {
             "id": "strings",
-            "line": 200,
+            "line": 203,
             "pair_sha256": "93848864a8328f63cbd809414f59ee4800b7fb807e98f95157d7c56e33fbc095"
           },
           {
             "id": "strings",
-            "line": 204,
+            "line": 207,
             "pair_sha256": "dfdcd6409c8ae594e910273e333d7e8ff469dd169907e57c7e0e3ec4822c5245"
           },
           {
             "id": "strings",
-            "line": 208,
+            "line": 211,
             "pair_sha256": "7d9e2268c973983d083c6217091a737cc4c251a7462ff67c2201241832dc23e4"
           },
           {
             "id": "strings",
-            "line": 212,
+            "line": 215,
             "pair_sha256": "2a7be6dfb1829d8369a14ab1f968c7326516f01cd9416df9d85140c374bec447"
           },
           {
             "id": "strings",
-            "line": 216,
+            "line": 219,
             "pair_sha256": "b9d840bf1ae274006263631c53b5f4bb2358166eabbc59d978952241a5c3fe8c"
           },
           {
             "id": "strings",
-            "line": 220,
+            "line": 223,
             "pair_sha256": "3d02c7e7bdf50f5e59d041fb3a4167ba60a8af09365e952b07732b8a7d447d9b"
           },
           {
             "id": "strings",
-            "line": 224,
+            "line": 227,
             "pair_sha256": "5a4b223d222abf2e0b6fab9144331d12db81f6dc8d4ef2aace452502a4b27ffd"
           },
           {
             "id": "strings",
-            "line": 228,
+            "line": 231,
             "pair_sha256": "1148e623bba05107796b4af922f1ff7279fbbe66255311f8a18b8140a69dafe4"
           },
           {
             "id": "strings",
-            "line": 232,
+            "line": 235,
             "pair_sha256": "830f07f763d9c73d92f78ab3f720de59043a2c0ea20df2092fa159fd3741e3a1"
           },
           {
             "id": "strings",
-            "line": 236,
+            "line": 239,
             "pair_sha256": "50561b9f4ab93e323496250efa98556bfb066431bd9971b22d20424310c5d0c0"
           },
           {
             "id": "strings",
-            "line": 240,
+            "line": 243,
             "pair_sha256": "63caa08b9fc0945f80835a7c2aa0eb80454fff547dd8d5fa87bf1817f5d1a6e7"
           },
           {
             "id": "strings",
-            "line": 244,
+            "line": 247,
             "pair_sha256": "fa884a624204e770245f1945ded031b6975dde1d027368f7a4957bcc051ea44e"
           },
           {
             "id": "strings",
-            "line": 248,
+            "line": 251,
             "pair_sha256": "acf7bd33e697dfe08f5e8abbd4f36f35cb12b266a9838d1093800c2f08e334dd"
           },
           {
             "id": "strings",
-            "line": 252,
+            "line": 255,
             "pair_sha256": "6aacad882a172fd3fa269b11ec5f25d4def4ed7b03832c8f15faa728e32cb7c7"
           },
           {
             "id": "strings",
-            "line": 256,
+            "line": 259,
             "pair_sha256": "b193221056b37e581484c42f6e5699e9133e5c5330ab543c3828ec09ad687ac3"
           },
           {
             "id": "strings",
-            "line": 260,
+            "line": 263,
             "pair_sha256": "6514367a6dc834a0dbf14010ff4395758c8f8e6a22f458d5c14124dfc0c7632a"
           },
           {
             "id": "strings",
-            "line": 264,
+            "line": 267,
             "pair_sha256": "ad2ee1bf07a9ec2fb476cbcdf4dcbfc002a93c3d576c036db9f9a55b1a8de7f2"
           },
           {
             "id": "strings",
-            "line": 268,
+            "line": 271,
             "pair_sha256": "9c06424bc37cc6cc52b8d3a2a1ffd0198ae8b6164616ca2973d856683a905ae1"
           },
           {
             "id": "strings",
-            "line": 272,
+            "line": 275,
             "pair_sha256": "6cf4a7773a3a12a565ae95c4dd64b66e2e4662d433550948592c582dc0400e42"
           },
           {
             "id": "strings",
-            "line": 276,
+            "line": 279,
             "pair_sha256": "60d02070c883261659dd5a1c577e0ff460d6ba90b9e8edfc337ca83dddf61750"
           },
           {
             "id": "strings",
-            "line": 280,
-            "pair_sha256": "61946dd3ced3c60945923191f27e0052e271891270ca8d6e268344120365f4f8"
+            "line": 283,
+            "pair_sha256": "0ea67c651fe5508f9671c2b0d8ad3e979b614711b00e6f14056f338d742d5078"
           },
           {
             "id": "strings",
-            "line": 284,
+            "line": 287,
             "pair_sha256": "a872ea59e2c0aa87242d0f10ef136ac7fff25b8077a3a5ce2a5e314a2a488529"
           },
           {
             "id": "strings",
-            "line": 288,
+            "line": 291,
             "pair_sha256": "5a0d987eec2246a0878df6390f814186f6e00314e51de37e096ec202cc7746ab"
           },
           {
             "id": "strings",
-            "line": 292,
-            "pair_sha256": "e02e5100292e2fbfb010847eddb3ae5a6c4d0b45ffd0c6fff3bf28b157679f34"
+            "line": 295,
+            "pair_sha256": "79e7ccb80ff75ecd92289b3ab1e3e532ca772c43dfbc8dfa65098148ec1d6855"
           },
           {
             "id": "strings",
-            "line": 296,
+            "line": 299,
             "pair_sha256": "f2b13ebf833df58089f208e2d0fa983e78b0043dd1e58f35ab833ef0043d5be2"
           },
           {
             "id": "strings",
-            "line": 300,
-            "pair_sha256": "264df06df4c50428b6aa08099877a007e373d700e9a4153f8e1c054b5634f9a6"
+            "line": 303,
+            "pair_sha256": "a5fe6b63d2a39d3a0d590e41ae3e6c4d8e45455fed958fe4613135d92d6b0979"
           },
           {
             "id": "strings",
-            "line": 304,
-            "pair_sha256": "812942460dd6f406cdb2a062ed9ac8832e0a39baae7b062a2e7b6941c001cdcb"
+            "line": 307,
+            "pair_sha256": "04f15afedbd344fe261bf074bb5ed6645269829ea3325a75e627afbe13b4a173"
           },
           {
             "id": "strings",
-            "line": 308,
-            "pair_sha256": "08532dfc9d3276dae51eebc182126d1226ca40c5664baf0042b4f6603faef3ad"
+            "line": 311,
+            "pair_sha256": "b9982a2499cf7b25942440e16178d259e7bd6bf1829d0c147f938d3fd4b00178"
           },
           {
             "id": "strings",
-            "line": 312,
+            "line": 315,
             "pair_sha256": "fadb7fb6dc4768df1d8a1a503a77c3896bc39b75746a9b5cbc3175902a1df6ad"
+          },
+          {
+            "id": "strings",
+            "line": 319,
+            "pair_sha256": "26c65661c3c9f60eb733271f0919a0a317305c907434d996e7bde925238879db"
           }
         ],
-        "note": "77条本地中文按页面连读，11处普通界面与邮件表达修正。核对简介、商城折扣、邮件正文及愿望清单源代码。未宣称动态邮件标题、所有应用调度及日记文本已完成。 2026-09-13 标点一致性：内心独白括号统一为全角“（！！！）”。 2026-09-13 第九十批：GUI／小游戏界面批次完成逐条英中对照复审。 2026-09-13 第九十三批：界面／道具／任务大文件差异与残留扫描，修正术语统一与法语括注冗余。 2026-09-13 Sybian 统一：外部将 mini/pc 改为“双头赛马鞍”，prop 同步并刷新指纹。",
+        "note": "77条本地中文按页面连读，11处普通界面与邮件表达修正。核对简介、商城折扣、邮件正文及愿望清单源代码。未宣称动态邮件标题、所有应用调度及日记文本已完成。 2026-09-13 标点一致性：内心独白括号统一为全角“（！！！）”。 2026-09-13 第九十批：GUI／小游戏界面批次完成逐条英中对照复审。 2026-09-13 第九十三批：界面／道具／任务大文件差异与残留扫描，修正术语统一与法语括注冗余。 2026-09-13 Sybian 统一：外部将 mini/pc 改为“双头赛马鞍”，prop 同步并刷新指纹。 2026-09-13 第一百批：排查并统一背包（prop）与 PC（mini/pc）的物品名称与列表格式。 第一百零一批：与背包逐项比对情趣玩具名；补漏译 `Congratulations!`→“恭喜！”与愿望单 else 分支 `- Electro Clit\\n`→“- 电击阴蒂棒\\n”；`- UltraVibrator 2000` 随用户定稿改为“- 超感振动2000”。",
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read",
@@ -55563,12 +55573,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb13.rpy": {
-      "sha256": "7524df7dd9f51130a6e5abc30fee3f26b4d4f4bc1f74ce97929f91838bc0a67e",
+      "sha256": "376b8d348a871244ad2d144843e8d4687d81a7bae20ae271b25f88db2dc579fc",
       "pairs": 490,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "7524df7dd9f51130a6e5abc30fee3f26b4d4f4bc1f74ce97929f91838bc0a67e",
+        "translation_sha256": "376b8d348a871244ad2d144843e8d4687d81a7bae20ae271b25f88db2dc579fc",
         "source_sha256": "f277b7f2d3d62dadbadacb601cadb7dc294ec433f6d39ac3dc27f1b136fa7af3",
         "source": "game/src/plot/deb13.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb13.rpy",
@@ -56128,7 +56138,7 @@
           {
             "id": "deb13_car_25cbeade",
             "line": 655,
-            "pair_sha256": "cb0dcae9aa9afb7df9e4b0a3fd7074d4bf9b8a92ac67d76e5a314415cd1c4af9"
+            "pair_sha256": "043f779161e1b4ede3cacbc5617e75eb0e38af9ab2fcdd376ba1d1aae4d3dd6e"
           },
           {
             "id": "deb13_car_e56a6c1a",
@@ -58036,7 +58046,7 @@
             "pair_sha256": "9add4cc9143d2d4fb1c63c655715ed612cf49ce36aed567f43788e2851f29d55"
           }
         ],
-        "note": "全文中文按场景与本地分支连续读完。deb13两处时态和电话施受关系纠错。动态预约日期实际生成、付款逻辑和外部事件触发尚待核实；仅记录本地对白覆盖。 2026-09-13 拟声收敛：`*Gasp*` 按 style_guide 统一为“*倒吸一口气*”（惊讶语境），性爱的“*喘息*”与被呛后的“*大口喘气*”属语境分工，保留不动。 2026-09-13 完成全文双语复审（490 对逐条英中对照，第七十九批）：15 处修正——“我可怜的宝贝”两处统一（原“孩子”）；拖长的 `Yeeeaaah` 改“是啊——”；两处 `Aww` 统一“哎呀”；内心话“才能解决”两处同形；`You know what?` 两处统一“这样吧。”；`Heh, awesome.` 改“呵，漂亮。”；`Are you sure there’s nothing you can do?` 两处同形；`*Muah*` 统一“*啵*”；`Riiight.` 改“哦——是啊。”；`Mhmm.` 改“嗯哼。”；两处独立 `Hehe!` 改“嘿嘿！”。其余核对无误：jump pack→应急启动电源、Saga Car Dealership→SAGA汽车经销商、DTF M0M 车牌保留、刁难式报价“八千美元”、Josie 私自延长保修的整段对话、修车工 Jiang 的口音与黄色双关、曲奇街240号、*Ring*→“*嘟——*”、*Gasp*→*倒吸一口气*、*Ahem*→*咳咳* 等既有规则一致。",
+        "note": "全文中文按场景与本地分支连续读完。deb13两处时态和电话施受关系纠错。动态预约日期实际生成、付款逻辑和外部事件触发尚待核实；仅记录本地对白覆盖。 2026-09-13 拟声收敛：`*Gasp*` 按 style_guide 统一为“*倒吸一口气*”（惊讶语境），性爱的“*喘息*”与被呛后的“*大口喘气*”属语境分工，保留不动。 2026-09-13 完成全文双语复审（490 对逐条英中对照，第七十九批）：15 处修正——“我可怜的宝贝”两处统一（原“孩子”）；拖长的 `Yeeeaaah` 改“是啊——”；两处 `Aww` 统一“哎呀”；内心话“才能解决”两处同形；`You know what?` 两处统一“这样吧。”；`Heh, awesome.` 改“呵，漂亮。”；`Are you sure there’s nothing you can do?` 两处同形；`*Muah*` 统一“*啵*”；`Riiight.` 改“哦——是啊。”；`Mhmm.` 改“嗯哼。”；两处独立 `Hehe!` 改“嘿嘿！”。其余核对无误：jump pack→应急启动电源、Saga Car Dealership→SAGA汽车经销商、DTF M0M 车牌保留、刁难式报价“八千美元”、Josie 私自延长保修的整段对话、修车工 Jiang 的口音与黄色双关、曲奇街240号、*Ring*→“*嘟——*”、*Gasp*→*倒吸一口气*、*Ahem*→*咳咳* 等既有规则一致。 第一百零一批：`Is this the Saga Car Dealership?` 由“SAGA汽车经销商”改为“请问是传说车行吗？”，与“传说金融／传说影院”品牌写法及 step.rpy“车行”一致。",
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read",
@@ -111126,12 +111136,12 @@
       }
     },
     "tl/zh_hans/src/plot/jen10.rpy": {
-      "sha256": "1ecae8058603a11511121b0bc0ca5a5ebf44d8336f1281e5bb55aa8b8cb341b3",
+      "sha256": "c2bdcc864e5961d5a9962c71fb76af8168691476cd34e3a55bb13844616b8889",
       "pairs": 388,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "1ecae8058603a11511121b0bc0ca5a5ebf44d8336f1281e5bb55aa8b8cb341b3",
+        "translation_sha256": "c2bdcc864e5961d5a9962c71fb76af8168691476cd34e3a55bb13844616b8889",
         "source_sha256": "431383373c3416fba3310503c1c24c4a0ae02974f4064188a115cf3aea638ca2",
         "source": "game/src/plot/jen10.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen10.rpy",
@@ -112707,7 +112717,7 @@
           {
             "id": "jen10_shop_4cd9e584",
             "line": 1873,
-            "pair_sha256": "b470a7db46642e91cf5c5963dfe81d1a46d619230a5d9c4056040739af03392d"
+            "pair_sha256": "e9c04da41186150a1596c6aba960f33d864ad53bed30cd3eb9a4a51e886fcb92"
           },
           {
             "id": "jen10_shop_d9834a5e",
@@ -112762,7 +112772,7 @@
           {
             "id": "jen10_shop_88e01cdf",
             "line": 1939,
-            "pair_sha256": "ef44544b307dd8c3f058f65c93ec74f4cbac35b1a30b97a7eef67bcd0b43bb46"
+            "pair_sha256": "b62123239eba36b55fdb03cf476fe190074543ad50aff4108de6e43e6ef36c68"
           },
           {
             "id": "jen10_shop_3721d2ee",
@@ -112797,7 +112807,7 @@
           {
             "id": "jen10_shop_95ab6713",
             "line": 1981,
-            "pair_sha256": "dc2e2ec01d7f27d36cdd82e03e70518066540259977853eeabf316bb1d32c8c2"
+            "pair_sha256": "7a1c6f23d9246a59cc149c329048c11f1c78ffa94797797562fb95914170801e"
           },
           {
             "id": "jen10_shop_20b20a4c",
@@ -112897,7 +112907,7 @@
           {
             "id": "jen10_toy_merge_fde42d8e",
             "line": 2101,
-            "pair_sha256": "08f342c4efdbc809d0a7183e24c669d76f5b097e063a736777a2b881b9631285"
+            "pair_sha256": "c0dfc958ee9e67fdcf631c61b934898c541ccde0bd9d9f6d51a31b0eb440e9e3"
           },
           {
             "id": "jen10_toy_merge_21219200",
@@ -112997,7 +113007,7 @@
           {
             "id": "jen10_toy_ivy_4678f708",
             "line": 2221,
-            "pair_sha256": "2432b3843e51ea9831a12d336abeb02436357765984ee9c0ead968aa89b5b059"
+            "pair_sha256": "80b2ace6f7f8fd483ff913b1e6b1952c9aca1e9d73053d3a7833478ef07ffc0a"
           },
           {
             "id": "jen10_toy_ivy_7f2e9419",
@@ -113062,7 +113072,7 @@
           {
             "id": "jen10_toy_other_6ffd7627",
             "line": 2299,
-            "pair_sha256": "3d9a9070a2e82bfac2970306eaf6d77d968fe56db495d28081db91e5272f5688"
+            "pair_sha256": "95b41f456fde11183ea03a9353a0224d2e7b00a17894f5281908decdcc35c9d0"
           },
           {
             "id": "jen10_toy_rails_a36178d0",
@@ -113087,10 +113097,10 @@
           {
             "id": "jen10_toy_rails_5d298b03",
             "line": 2329,
-            "pair_sha256": "fd037d9ea1864d072717141c2090352b614fa8f3ddc00c0be9c2b397f46fabd7"
+            "pair_sha256": "9259ce7f155f8a8376fc248d6753163fba275c7ef47c60b1ca363bd769c1762b"
           }
         ],
-        "note": "全部本地中文按场景和分支连读；jen10截断440–480补读。jen09录音转写说辞到jen10同行探查已衔接；jen10修正3处普通口头语。外部事件、资金扣除、Eve/Grace其他任务仍待核实。 2026-09-13 标点一致性：单独的 !!! 统一为全角“！！！”。 2026-09-13 完成全文双语复审（388 对逐条英中对照，第七十二批）：25 处修正——玩具欠账句两处统一；`Umm, hello?!` 两处统一“喂？！”；`Yup.` 三处统一“嗯。”；`Well, go and get it!` 两处统一“那就去拿！”；`Here.` 两处统一“给。”；`Ugh` 两处由“唉／啊”改“呃”（全库主流）；`Whatever.` 两处统一“随便吧。”；`I uhh...` 四处统一“我呃……”；`What are you-` 保留截断；`O-oh.` 两处统一“哦……”；`Hehe,` 句首引语按全库位置约定统一“呵呵，”；`Eugh` 与 `Ugh` 区分，统一“呕”；`H-hey` 两处按结巴规则作“嘿、嘿”；`Oh my god` 补逗号；`N-not` 改“才、才”；`Yeah right` 由“是啊”改“得了吧”（反讽）；`Grr!` 由“啊啊”改“哼！”；电动玩具拟声由“*滋~滋~*”改“*嗡嗡嗡——*”。其余核对无误：loser→废柴、Pink→粉色诱惑、UltraVibe 2000 与 UltraVibes 保留英文、*Gasp*→*倒吸一口气*、*Sigh*→*叹气*、“他们说要找个大的”指直播观众、Grace 的两段平行退出对白与 Jenny 的刻薄口吻均与原文一致。",
+        "note": "全部本地中文按场景和分支连读；jen10截断440–480补读。jen09录音转写说辞到jen10同行探查已衔接；jen10修正3处普通口头语。外部事件、资金扣除、Eve/Grace其他任务仍待核实。 2026-09-13 标点一致性：单独的 !!! 统一为全角“！！！”。 2026-09-13 完成全文双语复审（388 对逐条英中对照，第七十二批）：25 处修正——玩具欠账句两处统一；`Umm, hello?!` 两处统一“喂？！”；`Yup.` 三处统一“嗯。”；`Well, go and get it!` 两处统一“那就去拿！”；`Here.` 两处统一“给。”；`Ugh` 两处由“唉／啊”改“呃”（全库主流）；`Whatever.` 两处统一“随便吧。”；`I uhh...` 四处统一“我呃……”；`What are you-` 保留截断；`O-oh.` 两处统一“哦……”；`Hehe,` 句首引语按全库位置约定统一“呵呵，”；`Eugh` 与 `Ugh` 区分，统一“呕”；`H-hey` 两处按结巴规则作“嘿、嘿”；`Oh my god` 补逗号；`N-not` 改“才、才”；`Yeah right` 由“是啊”改“得了吧”（反讽）；`Grr!` 由“啊啊”改“哼！”；电动玩具拟声由“*滋~滋~*”改“*嗡嗡嗡——*”。其余核对无误：loser→废柴、Pink→粉色诱惑、UltraVibe 2000 与 UltraVibes 保留英文、*Gasp*→*倒吸一口气*、*Sigh*→*叹气*、“他们说要找个大的”指直播观众、Grace 的两段平行退出对白与 Jenny 的刻薄口吻均与原文一致。 第一百零一批：UltraVibe 2000 对白与背包、PC 愿望单统一为“超感振动2000”，Ivy 复数口吻作“超感振动棒”。",
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read",
@@ -205814,12 +205824,12 @@
       }
     },
     "tl/zh_hans/extracted/jenny_diary.rpy": {
-      "sha256": "f36f75c411603722c0601f46403b8d83bfe5446efa929664f4f83246656924e4",
+      "sha256": "0cd609aff3fd0208f465043ad9e1a3fef613228993160f1198288752d19a68db",
       "pairs": 294,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "f36f75c411603722c0601f46403b8d83bfe5446efa929664f4f83246656924e4",
+        "translation_sha256": "0cd609aff3fd0208f465043ad9e1a3fef613228993160f1198288752d19a68db",
         "source_sha256": "9acd12077e7e4fa2df3b20b0648748e5075881ce4acf3d490ed98fc184c81d23",
         "source": "game/lib/saga/data/jenny_diary.py",
         "source_local": ".codex_tmp/current7944/lib/saga/data/jenny_diary.pyc",
@@ -206407,7 +206417,7 @@
           {
             "id": "strings",
             "line": 577,
-            "pair_sha256": "5c7e01f44ad53e4de1046966ba4054e1d6a484f44bbf07c5a71916b82750f592"
+            "pair_sha256": "4ea32456b7193dcb6136f484848c6969c08fbdded2e7ed3c79d51d286e259618"
           },
           {
             "id": "strings",
@@ -206457,7 +206467,7 @@
           {
             "id": "strings",
             "line": 627,
-            "pair_sha256": "0d7ca3e89438ebb3035cdc7b50ad71ffb7cffdaedcb1fc1fefd9b2e7cd37350d"
+            "pair_sha256": "a16522fed8310f631c07895b9f818152be8dda7176ffc9d789bf52678d32b6ca"
           },
           {
             "id": "strings",
@@ -207305,7 +207315,7 @@
             "pair_sha256": "4b355d4c312ba0c5b576f1756b170ef21f82bbf28aaf09a2c4861b2f6cd63b8a"
           }
         ],
-        "note": "仅审校新增五种日期片段，原有627条未计覆盖。通过marshal/dis静态核对，不执行游戏。 复核五条日期文本内容未变，仅因文件前部变动各上移两行；按原条目指纹重定位，不计额外覆盖。 当前文件删除了未审条目Miss Dewitt并改动Miss DeWitt译名，保留现状待该段专审；未审条目现为626条。 Existing five reviewed date entries verified unchanged after concurrent edits elsewhere; no additional credit. 本批核对glaze蓝莓甜甜圈配料、Outlood Express以mail/pc_mail/inbox注册、angle speed为namedtuple字段。后者不属于玩家文案；保留源键，不进行程序字段替换。 当前631条均有人工作为文本阅读记录；其中图鉴条件实际触发、短信前后事件和全部外部路径仍未证明完成，不将本地覆盖率用作全目标完成依据。 已静态核实Book索引追加/读取和翻页调用；未把write无去重推断为实际重复页面。jen16双入口及延迟写入需继续核实调度层。 按源码首次出现顺序重排，键和值保持原样；自由文本历史笔记的旧行号不作为当前定位，结构化items/diary_pages/message_events已迁移。 2026-09-13 省略号间距收敛：全库 28 处“…… ”（省略号后多一个空格）统一为“……”，本文件按新写法重算指纹。 2026-09-13 第九十四批：全文294/225对逐条英中对照通读，修正日记2处、图鉴9处。",
+        "note": "仅审校新增五种日期片段，原有627条未计覆盖。通过marshal/dis静态核对，不执行游戏。 复核五条日期文本内容未变，仅因文件前部变动各上移两行；按原条目指纹重定位，不计额外覆盖。 当前文件删除了未审条目Miss Dewitt并改动Miss DeWitt译名，保留现状待该段专审；未审条目现为626条。 Existing five reviewed date entries verified unchanged after concurrent edits elsewhere; no additional credit. 本批核对glaze蓝莓甜甜圈配料、Outlood Express以mail/pc_mail/inbox注册、angle speed为namedtuple字段。后者不属于玩家文案；保留源键，不进行程序字段替换。 当前631条均有人工作为文本阅读记录；其中图鉴条件实际触发、短信前后事件和全部外部路径仍未证明完成，不将本地覆盖率用作全目标完成依据。 已静态核实Book索引追加/读取和翻页调用；未把write无去重推断为实际重复页面。jen16双入口及延迟写入需继续核实调度层。 按源码首次出现顺序重排，键和值保持原样；自由文本历史笔记的旧行号不作为当前定位，结构化items/diary_pages/message_events已迁移。 2026-09-13 省略号间距收敛：全库 28 处“…… ”（省略号后多一个空格）统一为“……”，本文件按新写法重算指纹。 2026-09-13 第九十四批：全文294/225对逐条英中对照通读，修正日记2处、图鉴9处。 2026-09-13 第九十九批：按用户确认，密码坚持英文校验；日记两处 BAD MONSTER 增加（Bad monster）英文括注，中文译名不再作为密码。 2026-09-13 外部并发定稿：日记 BAD MONSTER 英文括注改为加粗标记内的（Bad Monster），按现状刷新指纹。",
         "external_event_followup": true,
         "dependencies": [
           {
@@ -213647,12 +213657,12 @@
       }
     },
     "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy": {
-      "sha256": "f53348b2e4028a983887c5351f66cc1c49fd42ff7895cab6b2ab5bc2ab8cf3c1",
-      "pairs": 21,
+      "sha256": "66b0d31fa8e255f2dade74f89abbec89bca624bf7615b050c85521f21eca7a33",
+      "pairs": 23,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "f53348b2e4028a983887c5351f66cc1c49fd42ff7895cab6b2ab5bc2ab8cf3c1",
+        "translation_sha256": "66b0d31fa8e255f2dade74f89abbec89bca624bf7615b050c85521f21eca7a33",
         "source_sha256": "7e62755a7e0fb06272232003460c82ca4ed386eb8ed1fc1a6ee688571d5b92da",
         "source": "game/lib/saga/data/anon_pc.py",
         "source_local": ".codex_tmp/current7944/lib/saga/data/anon_pc.pyc",
@@ -213704,76 +213714,86 @@
           },
           {
             "id": "strings",
-            "line": 35,
+            "line": 36,
+            "pair_sha256": "8f4283f916fd03985ad182437e54e9f3550a736b62b669f415a1cfdbeab91249"
+          },
+          {
+            "id": "strings",
+            "line": 40,
+            "pair_sha256": "2a76ae6c346f34b22300f2f08579484fddbfd9a7e765c7feb473d8d95bd386ce"
+          },
+          {
+            "id": "strings",
+            "line": 44,
             "pair_sha256": "8565d3914a8809b60d34d5b57d385a0f411e6469989dc6d8bf717cc8ef5f0c43"
           },
           {
             "id": "strings",
-            "line": 39,
+            "line": 48,
             "pair_sha256": "bd52b22827c1582712a1125cf0583ed050814e10a925e2bb8aaaaff820850c9f"
           },
           {
             "id": "strings",
-            "line": 43,
+            "line": 52,
             "pair_sha256": "51607ae1dcb576986cf2d012f43c08368b48d36c2170889069ce41eff5e43e9a"
           },
           {
             "id": "strings",
-            "line": 47,
+            "line": 56,
             "pair_sha256": "49091a39e4e4029e9c1e41477092df339b1b2835fdc16e4aaf7cf10b92bb7a52"
           },
           {
             "id": "strings",
-            "line": 51,
+            "line": 60,
             "pair_sha256": "342ed345da8ea1f4db696cf1b90611f1e012308ce1263919dda4e2b37bcaefdf"
           },
           {
             "id": "strings",
-            "line": 55,
+            "line": 64,
             "pair_sha256": "ebfe42fe6f0714057f5bae3fef30ab43fa67b27dd543947952dce9bd3a8f32c4"
           },
           {
             "id": "strings",
-            "line": 59,
+            "line": 68,
             "pair_sha256": "712cef4128a691635413ecf5b6387304ef8a14bf69f61b8aebf34e0217fb9620"
           },
           {
             "id": "strings",
-            "line": 63,
+            "line": 72,
             "pair_sha256": "96e7c4f15545d6de8ff5703e8cb26f2d6089e6f55c3bc5f5bd13d2511bab1b54"
           },
           {
             "id": "strings",
-            "line": 67,
+            "line": 76,
             "pair_sha256": "1bb8eceba2b1ff5adc76b03da4b1d85fe93cae3afff24e94e8edf75b46fd77ea"
           },
           {
             "id": "strings",
-            "line": 71,
+            "line": 80,
             "pair_sha256": "370f35315d593f1dfcdf52cd2f258d57128df21405d62b6fa84274abbe533d00"
           },
           {
             "id": "strings",
-            "line": 75,
+            "line": 84,
             "pair_sha256": "bcefb6adc2eaa4f92855d50aee22e4b5bb9cd03d44eb32007e722a845be16d19"
           },
           {
             "id": "strings",
-            "line": 79,
+            "line": 88,
             "pair_sha256": "4d743a439f860997de4d1059523b4652ab1d83b8846edde6dd5b82727f3fe76d"
           },
           {
             "id": "strings",
-            "line": 83,
+            "line": 92,
             "pair_sha256": "b8e0a4c5a4a6f4cc35f5f8fcba4723c9da8bff8e4f965fc2671c92c07bbfe38d"
           },
           {
             "id": "strings",
-            "line": 87,
+            "line": 96,
             "pair_sha256": "8293927dc673466dbab4caeff345f0e4d54f958eaf6018ceed3eb2def89d46a3"
           }
         ],
-        "note": "仅审校新增五种日期片段，原有627条未计覆盖。通过marshal/dis静态核对，不执行游戏。 复核五条日期文本内容未变，仅因文件前部变动各上移两行；按原条目指纹重定位，不计额外覆盖。 当前文件删除了未审条目Miss Dewitt并改动Miss DeWitt译名，保留现状待该段专审；未审条目现为626条。 Existing five reviewed date entries verified unchanged after concurrent edits elsewhere; no additional credit. 本批核对glaze蓝莓甜甜圈配料、Outlood Express以mail/pc_mail/inbox注册、angle speed为namedtuple字段。后者不属于玩家文案；保留源键，不进行程序字段替换。 当前631条均有人工作为文本阅读记录；其中图鉴条件实际触发、短信前后事件和全部外部路径仍未证明完成，不将本地覆盖率用作全目标完成依据。 已静态核实Book索引追加/读取和翻页调用；未把write无去重推断为实际重复页面。jen16双入口及延迟写入需继续核实调度层。 2026-09-13复核并保留工作期间用户新改的Never-Life 3→没有命3；仅更新这一条哈希，不变更其他文字。 2026-09-13复核并保留工作期间用户新改的Failout 3→衰变3；仅更新这一条哈希，不变更其他文字。 保留随后用户修改的游戏标题：没条命3、妇射3；对应条目哈希已核对更新。 按源码首次出现顺序重排，键和值保持原样；自由文本历史笔记的旧行号不作为当前定位，结构化items/diary_pages/message_events已迁移。 2026-09-13 第九十二批：extracted 动态片段小文件逐条英中对照复审。",
+        "note": "仅审校新增五种日期片段，原有627条未计覆盖。通过marshal/dis静态核对，不执行游戏。 复核五条日期文本内容未变，仅因文件前部变动各上移两行；按原条目指纹重定位，不计额外覆盖。 当前文件删除了未审条目Miss Dewitt并改动Miss DeWitt译名，保留现状待该段专审；未审条目现为626条。 Existing five reviewed date entries verified unchanged after concurrent edits elsewhere; no additional credit. 本批核对glaze蓝莓甜甜圈配料、Outlood Express以mail/pc_mail/inbox注册、angle speed为namedtuple字段。后者不属于玩家文案；保留源键，不进行程序字段替换。 当前631条均有人工作为文本阅读记录；其中图鉴条件实际触发、短信前后事件和全部外部路径仍未证明完成，不将本地覆盖率用作全目标完成依据。 已静态核实Book索引追加/读取和翻页调用；未把write无去重推断为实际重复页面。jen16双入口及延迟写入需继续核实调度层。 2026-09-13复核并保留工作期间用户新改的Never-Life 3→没有命3；仅更新这一条哈希，不变更其他文字。 2026-09-13复核并保留工作期间用户新改的Failout 3→衰变3；仅更新这一条哈希，不变更其他文字。 保留随后用户修改的游戏标题：没条命3、妇射3；对应条目哈希已核对更新。 按源码首次出现顺序重排，键和值保持原样；自由文本历史笔记的旧行号不作为当前定位，结构化items/diary_pages/message_events已迁移。 2026-09-13 第九十二批：extracted 动态片段小文件逐条英中对照复审。 2026-09-13 第九十八批：补入 Homework→家庭作业、Photos→照片 两条 strings 条目，并新增运行时 app.name／提示覆盖的交叉验证。",
         "external_event_followup": true,
         "dependencies": [
           {
@@ -214285,13 +214305,6 @@
         },
         "ordering": "source_module_then_first_occurrence; diary uses event registration and page/row order"
       }
-    },
-    "tl/zh_hans/input_code_aliases.rpy": {
-      "sha256": "00e9a071163650e1fd862716e1f2d21693b1add6a4e07e07a32c9b8b1b4465ad",
-      "pairs": 0,
-      "status": "non_translation_support_file",
-      "review": null,
-      "note": "输入代码别名兼容脚本，无翻译条目；校验逻辑见tools/check_input_code_aliases.py与translation_context/input_codes.md。"
     }
   },
   "review_methods": {

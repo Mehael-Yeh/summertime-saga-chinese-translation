@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Read-only checks for Ren'Py Chinese translation files.
 
 The checker never rewrites files. It validates source/translation string pairs and,
@@ -275,15 +275,20 @@ def validate_file(root: Path, path: Path, ref: str, compare: bool) -> list[str]:
                         f'{path}: newline style changed from {base_newline} to {current_newline}'
                     )
                 base_lines = base_text.splitlines()
-                if len(lines) != len(base_lines):
-                    issues.append(
-                        f'{path}: line count changed from {len(base_lines)} to {len(lines)}'
-                    )
                 base_labels = LABEL_RE.findall(base_text)
-                if labels != base_labels:
-                    issues.append(f'{path}: translation label sequence changed')
-                if normalize_structure(text) != normalize_structure(base_text):
-                    issues.append(f'{path}: non-translation structure changed relative to {ref}')
+                # Files without translation blocks are support scripts (language
+                # hooks, startup language defaults). Their code may evolve;
+                # BOM/newline checks above still apply, but line-count/label/structure
+                # comparison only makes sense when translation blocks exist.
+                if labels or base_labels:
+                    if len(lines) != len(base_lines):
+                        issues.append(
+                            f'{path}: line count changed from {len(base_lines)} to {len(lines)}'
+                        )
+                    if labels != base_labels:
+                        issues.append(f'{path}: translation label sequence changed')
+                    if normalize_structure(text) != normalize_structure(base_text):
+                        issues.append(f'{path}: non-translation structure changed relative to {ref}')
     return issues
 
 

@@ -8644,7 +8644,7 @@
     {
       "file": "tl/zh_hans/res/meta/prop.rpy",
       "source": "A SAGA car dealership vest",
-      "target": "一件SAGA车行的制服背心",
+      "target": "一件传说车行的制服背心",
       "id": "strings"
     },
     {
@@ -9519,7 +9519,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=purple}{size=-4}More days like this and I'll spring for a{/size} {pen=lime}{size=-5}{b}BAD MONSTER{/b}{/size}{/pen}.{/pen}",
-      "target": "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}了。{/pen}"
+      "target": "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物（Bad Monster）{/b}{/size}{/pen}了。{/pen}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
