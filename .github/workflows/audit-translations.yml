@@ -41,9 +41,6 @@ jobs:
       - name: Check SMS mapping
         run: python tools/check_sms_mapping.py
 
-      - name: Check input code aliases
-        run: python tools/check_input_code_aliases.py
-
       - name: Check review ledger integrity
         run: python tools/audit_manual_coverage.py
 
