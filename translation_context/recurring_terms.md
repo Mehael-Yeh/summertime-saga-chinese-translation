@@ -1,16 +1,8 @@
 # 重复称呼、口癖与专名复查记录
 
-更新时间：2026-09-12
+更新时间：2026-09-13
 
 用途与维护方式见[index.md](index.md)。
-
-## 非地名英文残留专项
-
-新增电击阴蒂棒、轻量版、LARPer、mesmerizing共4条审计规则；10条目标字符串的修复、外语排除项与开发占位待查见 `english_residuals.md`。
-
-## Debbie 的 mister 称呼
-
-该条目的完整规则见[terminology.md](terminology.md)；本文件只保留复查记录与回归项。
 
 ## 触发规则
 
@@ -27,15 +19,7 @@
 
 > `recurring_terms.json` 是机器可读的审计规则；`tools/audit_recurring_terms.py` 只检查和报告，不自动改写译文。
 
-## 2026-09-12 地名专项复查
-
-地名无需等待重复两次：首次出现即参照 UI。正式映射及歧义例外见 `terminology.md`；机器规则新增 16 个 `location_*` 条目，沿用已有的夏日学院和 Consum-R 规则。
-
-已修复 Cosmic Cumics、Cupid、Saga Financial、Ara Ara、Sugar Tats、Pink 的英文残留及不同译法，覆盖对话、任务提示、物品说明和字节码提取文本；同时纠正把 Pink 商店后屋称为“粉红酒吧的密室”的地点误认。Raven Hill 的现有 11 处完整名称均为“渡鸦山”，登记规则防止再次出现“鸦山／鸦丘”等漂移。
-
-新增复核：Pink 按用户意见定为“粉色诱惑”；Retro Strike 改为“复古全中”，保留保龄球全中的含义；CineSaga 统一为 UI 的“传说影院”。
-
-本次以 sets.rpy 所列 18 个地点专名为核对范围；一般房间名、颜色、人物与频道名称不机械套用店名规则。审计通过只说明已登记规则一致，不等同于游戏内逐场景验收。
+地名不受“短距离重复 2 次”限制：首次出现即参照 UI 定名，正式映射与歧义例外见[terminology.md](terminology.md)。审计通过只说明已登记规则一致，不等同于游戏内逐场景验收。
 
 ## 已确认条目
 
@@ -166,40 +150,34 @@
 
 | Anon 父亲的 `Dad's old drill` / `old drill of Dad's` | 剧情道具／父亲遗物 | 旧电钻 | 6 处 / 3 个文件 | `tool_drill.rpy` 已统一；`bar04.rpy`、`mel01.rpy` 待随完整文件复核，完整工具不得误译成“钻头” |
 
-## 当前跨文件复查队列
+### 全仓审计项
 
-- `Dad's old drill` / `old drill of Dad's`：`tool_drill.rpy` 已统一为“旧电钻”；`bar04.rpy`、`mel01.rpy` 中相关旧译待随完整剧情复核，禁止把完整电钻写成“钻头”。
+| ID | 英文匹配 | 统一中文 | 适用范围与备注 |
+|---|---|---|---|
+| cuntech_name | Cuntech | Cuntech | 虚构公司专名保持英文原状，不音译、不汉化。 |
+| talent_show | talent show | 才艺表演 | 学校活动名称全仓统一。 |
+| jenny_boyfriend | boyfriend；成对语境中的 boyfriend and girlfriend | 男朋友；男女朋友 | 单独关系标签使用“男朋友”；成对表达允许自然译为“男女朋友”，避免破坏中文成对称谓。 |
+| jenny_cheer_uniform | cheer uniform / cheerleading uniform | 啦啦队制服 | 资源名和剧情道具统一使用“啦啦队制服”。 |
+| vehicle_mini_vulva | Mini Vulva key | 迷你外阴钥匙 | 保留道具的“钥匙”功能，不简化为仅“迷你外阴”。 |
+| vehicle_crotch_rocket | SL-700 Crotch Rocket key | SL-700 胯下火箭钥匙 | 保留车型编号和钥匙功能，统一双关译法。 |
 
-- `champ`：`ano15.rpy`、`ano16.rpy`、`mar02.rpy`、`mar_baby.rpy`、`mar_dark.rpy`、`pizza_boxes.rpy`、`ton_baby.rpy` 与 `tony.rpy` 已统一；当前已复核文件中无旧译残留。
-- `babyface`：已处理的 `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 统一为“小帅哥”；其余 Tina 剧情文件中的旧译待逐文件复核。非称呼用法按具体指代自然翻译，不机械使用“娃娃脸”。
-- `protégé`：`ano11.rpy` 已统一为“徒弟”；`tin_vault.rpy` 仍有 1 处旧译待复核。
-- `cannoli`：`ano10.rpy`、`mar_cook.rpy`、`mar_baby.rpy`、`mar_dark.rpy` 已统一为“意式奶油甜馅卷”；`Holy cannoli` 属感叹语，不机械替换。
-- `little bunny`：`deb18.rpy` 3 处待在完整剧情中复核，核心译法保持“小兔子”。
-- `godfather`：`ano16.rpy` 与 `mar_baby.rpy` 已统一为“教父”，并保留与 Tony 黑帮背景相关的《教父》笑点。
-- `bowl cut`：Josie 对 Anon 的固定挖苦称呼统一为“锅盖头”，截断形式译为“锅盖——”；`jos01.rpy`、`jos_trade.rpy`、`josie.rpy` 与 `deb13.rpy` 的当前命中均已按完整场景复核。
-- `perv/pervert`：Jenny 对 Anon 的固定辱称核心译为“变态”；`jen01.rpy`、`jen04.rpy` 至 `jen08.rpy` 已随完整剧情统一，后续文件继续按关系阶段复核整句语气。
-- `Wanna fool around? / You wanna fool around?`：核心性邀约译法为“亲热一下”；Jenny 线、`deb_sink.rpy` 与 `jud_stall.rpy` 已按完整场景统一，后续仍按关系阶段复核整句。
-- `white boy`：Val/Camila 对 Anon 的种族化辱称统一译为“白人小子”；`jud02.rpy` 与 `viv02.rpy` 已完成复核。
-- `sugar`（Melody）：核心译法定为“甜心”；`mel_office.rpy` 已统一，`mel01-06.rpy` 与 `melody.rpy` 的旧译待随完整剧情逐文件复核。
-- `finale`（Melody线）：核心使用“压轴”；`mel03.rpy` 的旧译“终曲”待完整通读时统一。
-- `pom-poms`：核心译法定为“啦啦球”；`roxxy.rpy` 已修复，`viv04.rpy`、`res/meta/prop.rpy`、`res/meta/step.rpy` 中的“啦啦队彩球／彩球／拉拉球／绒球”等旧译待逐文件完整复核。
-- 上述条目只登记，不在未通读完整文件前批量替换；进入对应文件时结合关系阶段完成统一。
+### 补充字符串统一项
 
-## 审计命令
+| ?? | 类别 | 统一中文 | 适用范围与备注 |
+|---|---|---|---|
+| camming career | 成人直播 | 直播事业 | Jenny 直播副业相关内心独白。 |
+| camshow / camshows | 成人直播 | 成人直播 | 任务名和直播场景统一；不使用“摄像头表演”。 |
+| on stream | 成人直播 | 在直播中 | 直播进行时的固定表达。 |
+| chat（直播语境） | 成人直播 | 直播间观众 | 不直译为“聊天”。 |
+| deprive ... of attention | 任务条件 | 冷落…… | 表示暂时不理会角色。 |
+| foul play | 调查 | 人为犯罪／他杀迹象 | 调查死亡原因时使用。 |
+| Outlood Express | 专名 | Outlood快递 | 保留恶搞专名的英文部分。 |
+| cookie jar | UI | 角色图鉴 | 解锁角色变体或场景。 |
+| Third Quarter | 月相 | 下弦月 | 与 `First Quarter`“上弦月”配对。 |
+| Waning Crescent / Waxing Crescent | 月相 | 残月／娥眉月 | 月相 UI 固定译法。 |
 
-```powershell
-# 检查全部已登记条目，只显示不一致项
-python -X utf8 tools/audit_recurring_terms.py
+### 条目补录
 
-# 查看某个条目的全部英文—中文对应
-python -X utf8 tools/audit_recurring_terms.py --term vehicle_blue_falcon --show-all
-
-# 临时搜索刚发现的重复短语
-python -X utf8 tools/audit_recurring_terms.py --query "Blue Falcon"
-
-# 每批必须运行：只检查本批修改过的 Ren'Py 文件，并在不一致时返回失败
-python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
-```
 - `TPS report(s)`：Yoshi 与 Josie 关于车行文书工作的重复笑点统一为“TPS报告”，与后面的普通费用报表区分。
 - `T-straps`：Josie 在半价促销中反复寻找的露趾鞋款统一为“T字带凉鞋”。
 - `Hattori Hanzō`：人物姓名保持英文原状，不翻译为“服部半藏”。
@@ -225,76 +203,52 @@ python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
 
 | `easel` / `easels` | 美术课绘画设备 | 画架 | `bar04.rpy` 及美术线 | 旧画架与 Anon 制作的新画架统一，不漂移为“支架” |
 
-## 本轮新增全仓审计项
+### 地名与专名
 
-| ID | 英文匹配 | 统一中文 | 适用范围与备注 |
-|---|---|---|---|
-| cuntech_name | Cuntech | Cuntech | 虚构公司专名保持英文原状，不音译、不汉化。 |
-| talent_show | talent show | 才艺表演 | 学校活动名称全仓统一。 |
-| jenny_boyfriend | boyfriend；成对语境中的 boyfriend and girlfriend | 男朋友；男女朋友 | 单独关系标签使用“男朋友”；成对表达允许自然译为“男女朋友”，避免破坏中文成对称谓。 |
-| jenny_cheer_uniform | cheer uniform / cheerleading uniform | 啦啦队制服 | 资源名和剧情道具统一使用“啦啦队制服”。 |
-| vehicle_mini_vulva | Mini Vulva key | 迷你外阴钥匙 | 保留道具的“钥匙”功能，不简化为仅“迷你外阴”。 |
-| vehicle_crotch_rocket | SL-700 Crotch Rocket key | SL-700 胯下火箭钥匙 | 保留车型编号和钥匙功能，统一双关译法。 |
+地名无需等待重复两次：首次出现即参照 UI。正式映射及歧义例外见 `terminology.md`；机器规则新增 16 个 `location_*` 条目，沿用已有的夏日学院和 Consum-R 规则。
 
-## 补充字符串统一项
+已修复 Cosmic Cumics、Cupid、Saga Financial、Ara Ara、Sugar Tats、Pink 的英文残留及不同译法，覆盖对话、任务提示、物品说明和字节码提取文本；同时纠正把 Pink 商店后屋称为“粉红酒吧的密室”的地点误认。Raven Hill 的现有 11 处完整名称均为“渡鸦山”，登记规则防止再次出现“鸦山／鸦丘”等漂移。
 
-| ?? | 类别 | 统一中文 | 适用范围与备注 |
-|---|---|---|---|
-| camming career | 成人直播 | 直播事业 | Jenny 直播副业相关内心独白。 |
-| camshow / camshows | 成人直播 | 成人直播 | 任务名和直播场景统一；不使用“摄像头表演”。 |
-| on stream | 成人直播 | 在直播中 | 直播进行时的固定表达。 |
-| chat（直播语境） | 成人直播 | 直播间观众 | 不直译为“聊天”。 |
-| deprive ... of attention | 任务条件 | 冷落…… | 表示暂时不理会角色。 |
-| foul play | 调查 | 人为犯罪／他杀迹象 | 调查死亡原因时使用。 |
-| Outlood Express | 专名 | Outlood快递 | 保留恶搞专名的英文部分。 |
-| cookie jar | UI | 角色图鉴 | 解锁角色变体或场景。 |
-| Third Quarter | 月相 | 下弦月 | 与 `First Quarter`“上弦月”配对。 |
-| Waning Crescent / Waxing Crescent | 月相 | 残月／娥眉月 | 月相 UI 固定译法。 |
+新增复核：Pink 按用户意见定为“粉色诱惑”；Retro Strike 改为“复古全中”，保留保龄球全中的含义；CineSaga 统一为 UI 的“传说影院”。
 
+本次以 sets.rpy 所列 18 个地点专名为核对范围；一般房间名、颜色、人物与频道名称不机械套用店名规则。审计通过只说明已登记规则一致，不等同于游戏内逐场景验收。
 
-## 2026-09-12 重复与高相似句式
-
-- 全仓分组扫描发现 1,421 组有多种译文的重复候选、461 对高相似候选。它们是检查线索，不是错误数；短感叹句、姓名或单复数变化及合理语境差异不要求字面相同。
-- 本轮统一任务提醒、真人模特邀约、纹身草图说明、住院寻人提示、育儿替代分支、关闭场所提示和辅助朗读名称；新增122处修改，涉及23个文件。上一轮修订保留。
-- UI与任务提示采用稳定句架；同一类“Speak with…about…”提示以“和…谈谈…”为主，保留主题和地点信息。任务剧情推进使用“剧情”。
-- `sentence_patterns.json` 保存113条经本轮确认的文件／原文／译文基准，限定到具体文件，不作为全局自动替换表。后续有意调整译法时同步更新基准。
-- 检查基准：`python -X utf8 tools/audit_sentence_consistency.py --check-approved translation_context/sentence_patterns.json`。
-- 重新生成候选：`python -X utf8 tools/audit_sentence_consistency.py --output .codex_tmp/sentence_consistency.json`。工具只读翻译文件，候选输出放临时目录。
-- 相似检索以不少于5个词的原文、稀有词索引和0.90字符相似度筛选；要求存在相同说话人类型。它是启发式检索，不保证找到所有同义改写。标点归一化仅用于分组，不能用来覆盖原有疑问、否定或强调。
-- “Yes/No”“can you spot me”等依前文决定实际含义；普通近义口语无需为减少候选数而强制重写。外语、月份、人名和程序占位符继续遵守既定规则。
-
-### 源文对应异常的核实结果
-
-`mel03_music_d1806a7d`、`mel03_outro_444d4056`、`mar_baby_post_intro_c838cfce`、`mar_baby_post_intro_62a8e3f7`已核实为英文注释错位，原中文符合各自场景，保留译文并恢复正确注释。扩大核对共恢复64处有唯一语句摘要证据的注释，并修复51处译文／显示控制内容，其中包括此前受错误注释误导而统一错的两处独白。旧版翻译块即使被7944列为orphan也不直接删除。
-
-源文核对后曾有115条基准；随后按用户要求清理7944引擎确认的旧块，移除1条无剩余原文的基准，现有114条。区分“时间充足再翻找”和“小心但值得试试”，以及“给她空间”和“她会振作起来”，禁止再次仅因旧注释相同而合并。
-
-后续Lint清理已按用户要求移除171个当前引擎不使用的旧版翻译块，替代上一阶段“保留orphan以兼容旧版”的处理方式。删除依据为实际引擎清单，不能仅凭文件名、译文重复或模糊相似度判断。
-
-## 2026-09-12 任务模板语境回归
-
-新增27条文件与完整原文绑定的句式基准，总计141条，覆盖8处剧情阶段提示、14处住宅客厅提示、3处直播表达及2处日记歧义。前期／中段／后期采用同一模板，保留again、动作及时间条件；规则不外推到普通讲故事、酒吧或教师休息室。
-
-## ano10连续感叹句
+### 连续感叹句
 
 7944的ano10_kitchen_retry2中，39869a88的Oh.与741a8ce2的My.、be8e9e9f的God.构成连续的extend表达，固定衔接为“我。”→“的。”→“天哪。”；第一段不能孤立改为“哦。”。旧dc2d0643已失效，修正须落在当前39869a88中。
 
-## 2026-09-12 非露骨前后对白回归
+## 句式回归与语境边界
 
-句式基准从141条增至204条，新增63条源文件绑定的原文／译文基准。相同原文在同一已核对语境中统一，例如deb_lobby两处分支的I needed that.为“这下可舒坦了。”，deb_mall两处Thanks again for today.为“今天真是谢谢你了。”。不同人物、阶段或含义不作全局替换。
+### 扫描与判定方式
 
-tin_dusk的Cool.与Cool, cool, cool.是确认约定后的回应与紧张重复，分别用“好。”和“好，好，好。”；保留重复次数。still on for tonight保留“今晚的约定还算数”这一确认意味。
+- 全仓分组扫描发现 1,421 组有多种译文的重复候选、461 对高相似候选。它们是检查线索，不是错误数；短感叹句、姓名或单复数变化及合理语境差异不要求字面相同。
+- UI 与任务提示采用稳定句架；同一类“Speak with…about…”提示以“和…谈谈…”为主，保留主题和地点信息，任务剧情推进使用“剧情”。
+- 相似检索以不少于 5 个词的原文、稀有词索引和 0.90 字符相似度筛选，并要求存在相同说话人类型。它是启发式检索，不保证找到所有同义改写；标点归一化只用于分组，不能覆盖原有疑问、否定或强调。
+- “Yes/No”“can you spot me”等依前文决定实际含义；普通近义口语无需为减少候选数而强制重写。外语、月份、人名和程序占位符继续遵守既定规则。
 
-## 2026-09-12 全角色前后对白重复句复核
+### 基准演进
 
-句式基准由204条增至433条，新增229条文件与完整原文绑定的基准。同一人物同一语境的重复提醒、邀约、问候和收尾收敛；时间变量、男女婴／双胞胎、初次／再次等差异保留。
+句式基准保存在 `sentence_patterns.json`，按文件、源句及必要时的 ID 限定适用范围，不是全局替换表。随批次扩展为：113 条（首次建立）→ 114 条（源文注释核对后）→ 141 条（任务模板回归）→ 204 条（非露骨前后对白）→ 433 条（全角色复核）→ 545 条（成人语境补充）→ 638 条（筛查复核）→ 827 条（连续审读补充）。
 
-- Jenny催主角去健身房的同义分支统一挖苦口吻；早餐两个炒蛋、三片培根统一句架。
-- Tina两次感谢关心的相同英文沿用同一译文；银行预约、金库里的业务保持前后连贯。
-- Debbie的my pleasure在回应感谢时用“不客气”；淋浴预约、蒸汽遮挡、做饭和睡前收尾按情境统一。
-- 语境例外：`tin02`的“No, no, that's okay.”既可婉拒柜员帮助，也可回应对方道歉，分别用“不，不用了，谢谢。”和“不，不，没关系。”，不建立覆盖整文件的单一译法。
-- `deb_lobby`的NO回应是否太用力，按“没有”修正；这属于问答极性校正，不据此全局替换所有NO。
-# 2026-09-12 连续句组补充
+后续有意调整译法时同步更新基准；检查命令见下方“维护命令”。
+
+### 同语境统一示例
+
+- 相同原文在同一已核对语境中统一，例如 `deb_lobby` 两处分支的 I needed that. 用“这下可舒坦了。”，`deb_mall` 两处 Thanks again for today. 用“今天真是谢谢你了。”。不同人物、阶段或含义不作全局替换。
+- `tin_dusk` 的 Cool. 与 Cool, cool, cool. 分别是确认约定后的回应与紧张重复，用“好。”和“好，好，好。”，保留重复次数；still on for tonight 保留“今晚的约定还算数”的确认意味。
+- Jenny 催主角去健身房的同义分支统一挖苦口吻；早餐两个炒蛋、三片培根统一句架。Tina 两次感谢关心沿用同一译文，银行预约与金库业务保持前后连贯。Debbie 的 my pleasure 在回应感谢时用“不客气”，淋浴预约、蒸汽遮挡、做饭和睡前收尾按情境统一。
+- 告别句同角色同语境统一：`tin_baby` 的 all／both 分别为“大家／你们俩回头见”，不擅自加“再来看”。Tony 的 visualization 统一为“想象法”，与 `ano15` 教学及 `mar_dark` 提醒一致。
+- 道具名称中的 Dillon、Harold 保留英文，Dirty Harold 与商店商品名一致。月份及 June 姓名规则不变。
+
+### 语境例外
+
+- `tin02` 的“No, no, that's okay.”既可婉拒柜员帮助，也可回应对方道歉，分别用“不，不用了，谢谢。”和“不，不，没关系。”，不建立覆盖整文件的单一译法。
+- `deb_lobby` 的 NO 回应是否太用力，按“没有”修正；这属于问答极性校正，不据此全局替换所有 NO。
+- 相同英语在不同角色或动作中仍可采用不同译法。Diane 开工的 Dig in、Tina 的换位命令 Now、Erik 寒暄选项 Not much，以及 Jenny 事后抱怨的近似分支已登记，不把基准当全局替换表。
+
+### 连续句组定译
+
+以下按整组理解，不把各片段当成独立词典条目：
 
 以下按整组理解，不把各片段当成独立词典条目：
 
@@ -307,7 +261,7 @@ tin_dusk的Cool.与Cool, cool, cool.是确认约定后的回应与紧张重复�
 
 本轮定译纳入sentence_patterns.json。具体ID限定只适用于该语境，不要求同英文的其他独立台词照搬。
 
-## 2026-09-12 露骨对白语义与同源句补充
+### 成人语境边界
 
 - bar06_office3_reuse_c1fe43f7：Give it to me发生在过程催促中，后续才谈不适和是否停下；改为催促继续，不提前写成射精请求。deb_tv_boobjob4_119f0064的射精位置留给后续明确的Let it out all over me，不提前添加。
 - mel06_kevin_merge1_a65d97f3：take it all由Anon对Melody说，改正“全都给我”的方向错误。mel06_office4_a2237138恢复cum的高潮含义，删除误译的“塞满”。
@@ -318,13 +272,59 @@ tin_dusk的Cool.与Cool, cool, cool.是确认约定后的回应与紧张重复�
 
 新增51条具体语境回归，sentence_patterns.json累计545条。仍按文件、源句及必要时的ID限定适用范围。
 
-## 2026-09-12 筛查复核补充
+### 源文注释与旧块清理
 
-- 同角色同语境告别统一：tin_baby的all/both分别为“大家／你们俩回头见”，不擅加“再来看”。
-- Tony的visualization统一为“想象法”，与ano15教学及mar_dark提醒一致；教父关系和赶到披萨店的电话提醒按同源句统一。
-- 道具名称中的Dillon、Harold保留英文；Dirty Harold与商店商品名一致。月份及June姓名规则不变。
-- 句式回归累计638条，约束具体语境，不是全局替换表。Tina获用户认可的原译保留，Melody同类pound表达也恢复原有粗口力度。
+`mel03_music_d1806a7d`、`mel03_outro_444d4056`、`mar_baby_post_intro_c838cfce`、`mar_baby_post_intro_62a8e3f7`已核实为英文注释错位，原中文符合各自场景，保留译文并恢复正确注释。扩大核对共恢复64处有唯一语句摘要证据的注释，并修复51处译文／显示控制内容，其中包括此前受错误注释误导而统一错的两处独白。旧版翻译块即使被7944列为orphan也不直接删除。
 
-## 2026-09-13 连续审读后的回归补充
+源文核对后曾有115条基准；随后按用户要求清理7944引擎确认的旧块，移除1条无剩余原文的基准，现有114条。区分“时间充足再翻找”和“小心但值得试试”，以及“给她空间”和“她会振作起来”，禁止再次仅因旧注释相同而合并。
 
-句式基准累计827条，新增／更新记录按具体文件与ID限制语境。Diane开工的Dig in、Tina的换位命令Now、Erik寒暄选项Not much，以及Jenny事后抱怨的近似分支已登记。相同英语在不同角色或动作中仍可采用不同译法，不将基准作为全局替换表。
+后续Lint清理已按用户要求移除171个当前引擎不使用的旧版翻译块，替代上一阶段“保留orphan以兼容旧版”的处理方式。删除依据为实际引擎清单，不能仅凭文件名、译文重复或模糊相似度判断。
+
+## 当前跨文件复查队列
+
+- `Dad's old drill` / `old drill of Dad's`：`tool_drill.rpy` 已统一为“旧电钻”；`bar04.rpy`、`mel01.rpy` 中相关旧译待随完整剧情复核，禁止把完整电钻写成“钻头”。
+
+- `champ`：`ano15.rpy`、`ano16.rpy`、`mar02.rpy`、`mar_baby.rpy`、`mar_dark.rpy`、`pizza_boxes.rpy`、`ton_baby.rpy` 与 `tony.rpy` 已统一；当前已复核文件中无旧译残留。
+- `babyface`：已处理的 `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 统一为“小帅哥”；其余 Tina 剧情文件中的旧译待逐文件复核。非称呼用法按具体指代自然翻译，不机械使用“娃娃脸”。
+- `protégé`：`ano11.rpy` 已统一为“徒弟”；`tin_vault.rpy` 仍有 1 处旧译待复核。
+- `cannoli`：`ano10.rpy`、`mar_cook.rpy`、`mar_baby.rpy`、`mar_dark.rpy` 已统一为“意式奶油甜馅卷”；`Holy cannoli` 属感叹语，不机械替换。
+- `little bunny`：`deb18.rpy` 3 处待在完整剧情中复核，核心译法保持“小兔子”。
+- `godfather`：`ano16.rpy` 与 `mar_baby.rpy` 已统一为“教父”，并保留与 Tony 黑帮背景相关的《教父》笑点。
+- `bowl cut`：Josie 对 Anon 的固定挖苦称呼统一为“锅盖头”，截断形式译为“锅盖——”；`jos01.rpy`、`jos_trade.rpy`、`josie.rpy` 与 `deb13.rpy` 的当前命中均已按完整场景复核。
+- `perv/pervert`：Jenny 对 Anon 的固定辱称核心译为“变态”；`jen01.rpy`、`jen04.rpy` 至 `jen08.rpy` 已随完整剧情统一，后续文件继续按关系阶段复核整句语气。
+- `Wanna fool around? / You wanna fool around?`：核心性邀约译法为“亲热一下”；Jenny 线、`deb_sink.rpy` 与 `jud_stall.rpy` 已按完整场景统一，后续仍按关系阶段复核整句。
+- `white boy`：Val/Camila 对 Anon 的种族化辱称统一译为“白人小子”；`jud02.rpy` 与 `viv02.rpy` 已完成复核。
+- `sugar`（Melody）：核心译法定为“甜心”；`mel_office.rpy` 已统一，`mel01-06.rpy` 与 `melody.rpy` 的旧译待随完整剧情逐文件复核。
+- `finale`（Melody线）：核心使用“压轴”；`mel03.rpy` 的旧译“终曲”待完整通读时统一。
+- `pom-poms`：核心译法定为“啦啦球”；`roxxy.rpy` 已修复，`viv04.rpy`、`res/meta/prop.rpy`、`res/meta/step.rpy` 中的“啦啦队彩球／彩球／拉拉球／绒球”等旧译待逐文件完整复核。
+- 上述条目只登记，不在未通读完整文件前批量替换；进入对应文件时结合关系阶段完成统一。
+
+## 维护命令
+
+```powershell
+# 检查全部已登记条目，只显示不一致项
+python -X utf8 tools/audit_recurring_terms.py
+
+# 查看某个条目的全部英文—中文对应
+python -X utf8 tools/audit_recurring_terms.py --term vehicle_blue_falcon --show-all
+
+# 临时搜索刚发现的重复短语
+python -X utf8 tools/audit_recurring_terms.py --query "Blue Falcon"
+
+# 每批必须运行：只检查本批修改过的 Ren'Py 文件，并在不一致时返回失败
+python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
+
+# 句式基准回归
+python -X utf8 tools/audit_sentence_consistency.py --check-approved translation_context/sentence_patterns.json
+
+# 重新生成候选（只读翻译文件，输出放临时目录）
+python -X utf8 tools/audit_sentence_consistency.py --output .codex_tmp/sentence_consistency.json
+```
+
+## 相关文件
+
+- 术语、称谓与地名正式映射：[terminology.md](terminology.md)
+- 英文残留与语言例外：[english_residuals.md](english_residuals.md)
+- 角色语气档案：[characters.md](characters.md)
+- 句式基准（机器）：`sentence_patterns.json`
+- 术语规则（机器）：`recurring_terms.json`

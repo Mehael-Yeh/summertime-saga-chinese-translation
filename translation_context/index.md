@@ -43,6 +43,10 @@ python tools/audit_manual_coverage.py
 
 “已阅读”“已校对”“已改写”“质量通过”是四种不同结论。阅读批次只说明该范围被连续读过；校对说明已按上下文检查语义与语气；改写说明译文已更新并需要重新记录指纹；质量通过需要对应条目在当前版本上给出明确结论。露骨段落只做语义准确性与语句通顺度校对，不扩展原文没有的描写。
 
+## 日期与主题的组织方式
+
+除 `progress.md` 的“进度摘要”和“批次记录（按日期）”外，本目录文档不按日期分章。规范类文件（`style_guide.md`、`terminology.md`、`characters.md`、`recurring_terms.md`、`english_residuals.md`、`input_codes.md`）按主题组织；剧情与文件类文件（`storylines.md`、`file_inventory.md`）按线路或批次范围归组，把历次按日期堆积的记录并入对应主题。需要追溯某一批改了什么，查 `progress.md` 的批次记录和 `extracted_language_review.json` 的 `proofreading_batches`；需要查当前结论，查对应规范文件。
+
 ## 清理规则
 
 一次性任务的范围清单、待办队列和中间产物不长期存放在本目录：结论并入 `progress.md`、`extracted_language_review.json` 或对应规范文件后即删除，避免与本目录的长期记录重复。判断某文件是否可删，先确认没有工具或文档引用它。
