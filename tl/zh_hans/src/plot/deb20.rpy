@@ -136,13 +136,13 @@ translate zh_hans deb20_kitchen_f58afbe0:
 translate zh_hans deb20_kitchen_7cfffa40:
 
     # debbie f_worried_surprised "I get the feeling he's after something more..."
-    debbie f_worried_surprised "我总觉得他还想跟我有些更……"
+    debbie f_worried_surprised "我总觉得他想要的不止这些……"
 
 # game/src/plot/deb20.rpy:44
 translate zh_hans deb20_kitchen_f5fc80b6:
 
     # debbie e_s f_shy of_blush "... Sensual."
-    debbie e_s f_shy of_blush "……亲密的身体接触。"
+    debbie e_s f_shy of_blush "……还想要肉体上的。"
 
 # game/src/plot/deb20.rpy:46
 translate zh_hans deb20_kitchen_ccdc285e:
@@ -232,7 +232,7 @@ translate zh_hans deb20_kitchen_aa535c03:
 translate zh_hans deb20_kitchen_08ceb5e6:
 
     # debbie f_worried_surprised "And the other day, I found him playing with himself; in my bed!"
-    debbie f_worried_surprised "前几天，我还撞见他在自己解决……而且就在我的床上！"
+    debbie f_worried_surprised "前几天，我还撞见他在自慰……而且就在我的床上！"
 
 # game/src/plot/deb20.rpy:65
 translate zh_hans deb20_kitchen_77d4ea88:
@@ -736,7 +736,7 @@ translate zh_hans deb20_kitchen_89f278a1:
 translate zh_hans deb20_kitchen_fa30908a:
 
     # diane "I know you've got your panties in a bunch about it being immoral and all..."
-    diane "我知道你正为道德不道德的事急得团团转……"
+    diane "我知道你为这事该不该做纠结得不行……"
 
 # game/src/plot/deb20.rpy:176
 translate zh_hans deb20_kitchen_8ce23f1a:

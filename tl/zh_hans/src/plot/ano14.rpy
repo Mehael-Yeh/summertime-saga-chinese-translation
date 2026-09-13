@@ -124,7 +124,7 @@ translate zh_hans ano14_setup_tony_78638209:
 translate zh_hans ano14_setup_tony_1d71eec8:
 
     # tony a_point_under f_sceptical "Just don't tell [saga.cast.maria], capiche?"
-    tony a_point_under f_sceptical "不过别告诉[saga.cast.maria]，懂了没？"
+    tony a_point_under f_sceptical "不过别告诉[saga.cast.maria]，capiche?（懂了没？）"
 
 # game/src/plot/ano14.rpy:46
 translate zh_hans ano14_setup_tony_03c0e212:

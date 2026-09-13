@@ -250,7 +250,7 @@ translate zh_hans tor03_intro_dbf16f24:
 translate zh_hans tor03_intro_c6526f02:
 
     # tori "Poor kid is dumber than a box of rocks..."
-    tori "可怜的孩子比一箱石头还笨……"
+    tori "可怜的孩子，笨得跟块石头似的……"
 
 # game/src/plot/tor03.rpy:100
 translate zh_hans tor03_june1_cc5438af:
@@ -388,7 +388,7 @@ translate zh_hans tor03_june1_81ac95c2:
 translate zh_hans tor03_june1_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/tor03.rpy:163
 translate zh_hans tor03_june1_36038aca:
@@ -412,7 +412,7 @@ translate zh_hans tor03_june1_68052d17:
 translate zh_hans tor03_june1_4ed11e45:
 
     # anon "Well shoot! What am I gonna tell [saga.cast.tori]?"
-    anon "操，那我该怎么跟[saga.cast.tori]说？"
+    anon "哎呀，糟了！那我该怎么跟[saga.cast.tori]说？"
 
 # game/src/plot/tor03.rpy:174
 translate zh_hans tor03_june1_d405cbf4:
@@ -904,7 +904,7 @@ translate zh_hans tor03_tori1_5a02132d:
 translate zh_hans tor03_tori1_5ac40366:
 
     # anon f_calm "You should probably know that it's not an authentic-"
-    anon f_calm "你大概应该知道，这不是真正的——"
+    anon f_calm "你大概应该知道，这不是正品——"
 
 # game/src/plot/tor03.rpy:438
 translate zh_hans tor03_tori1_85ae8d45:
@@ -1180,13 +1180,13 @@ translate zh_hans tor03_tori2_fail_a6d7ed3c:
 translate zh_hans tor03_tori2_fail_505a164d:
 
     # anon "I-I'm sorry, I dunno what-"
-    anon "对-对不起，我不知道——"
+    anon "对、对不起，我不知道——"
 
 # game/src/plot/tor03.rpy:584
 translate zh_hans tor03_tori2_fail_76288e31:
 
     # tori "Grr... Well, you had better figure it out!"
-    tori "呃…… 那你最好给我搞定！"
+    tori "哼……那你最好给我搞定！"
 
 # game/src/plot/tor03.rpy:585
 translate zh_hans tor03_tori2_fail_a8c7f849:
@@ -1474,7 +1474,7 @@ translate zh_hans tor03_office2_a11fd374:
 translate zh_hans tor03_office2_3eb6f14b:
 
     # tori "Grr, let me see!"
-    tori "啧，让我看看！"
+    tori "哼，让我看看！"
 
 # game/src/plot/tor03.rpy:746
 translate zh_hans tor03_office2_d91a992e_2:
@@ -1498,7 +1498,7 @@ translate zh_hans tor03_office2_d39d9f55:
 translate zh_hans tor03_office2_df6f635b:
 
     # anon "... [saga.cast.tori], this isn't really-"
-    anon "……[saga.cast.tori]，这不太-"
+    anon "……[saga.cast.tori]，这不太——"
 
 # game/src/plot/tor03.rpy:753
 translate zh_hans tor03_office2_39ecbf0e:

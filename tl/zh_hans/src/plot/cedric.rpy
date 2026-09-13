@@ -154,7 +154,7 @@ translate zh_hans cedric_gym_workout_spot_de79b97a:
 translate zh_hans cedric_gym_workout_spot_49689caa:
 
     # cedric "I'm getting pretty ripped, huh?"
-    cedric "我身材越来越好了，对吧？"
+    cedric "我练得越来越精壮了吧？"
 
 # game/src/plot/cedric.rpy:82
 translate zh_hans cedric_gym_workout_spot_1f123071:
@@ -184,7 +184,7 @@ translate zh_hans cedric_gym_workout_what_9a99067f:
 translate zh_hans cedric_gym_workout_what_4262fe51:
 
     # cedric "Since I finally got that harpy roommate of yours off my back, I can finally focus on my workouts."
-    cedric "多亏我终于甩掉了你那个烦人的室友，我现在终于能专心锻炼了。"
+    cedric "多亏我终于甩掉了你那个泼妇室友，现在总算能专心锻炼了。"
 
 # game/src/plot/cedric.rpy:92
 translate zh_hans cedric_gym_workout_what_099e3cd6:

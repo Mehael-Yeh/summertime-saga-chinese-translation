@@ -10,7 +10,7 @@ translate zh_hans jen07_intro_bed2_30ecdd03:
 translate zh_hans jen07_intro_bed2_8e4f0e27:
 
     # anon a_pocket e_w f_tired o_left @ -m_talk "( That'll be a hard no. )"
-    anon a_pocket e_w f_tired o_left @ -m_talk "（那当然不行。）"
+    anon a_pocket e_w f_tired o_left @ -m_talk "（绝对不行。）"
 
 # game/src/plot/jen07.rpy:24
 translate zh_hans jen07_dining_1136102f:
@@ -100,7 +100,7 @@ translate zh_hans jen07_dining_b36ce385:
 translate zh_hans jen07_dining_b129926a:
 
     # jenny e_r "Umm, I dunno... How about because I'm hot and those porno skanks aren't?!"
-    jenny e_r "呃，我哪知道……因为我够性感，那些拍色情片的骚货根本没法跟我比？！"
+    jenny e_r "呃，我哪知道……那还不是因为我够性感，那些拍色情片的骚货根本没法跟我比？！"
 
 # game/src/plot/jen07.rpy:49
 translate zh_hans jen07_dining_fea5f849:

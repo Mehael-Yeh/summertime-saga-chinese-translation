@@ -56,7 +56,7 @@ translate zh_hans strings:
 
     # game/src/menu/pref.rpy:86
     old "Self-voicing volume drop"
-    new "朗读时背景音量降低"
+    new "自动朗读时背景音量降低"
 
     # game/src/menu/pref.rpy:91
     old "Restore defaults"

@@ -46,7 +46,7 @@ translate zh_hans mel06_hall1_0aa1b5b4:
 # game/src/plot/mel06.rpy:30
 translate zh_hans mel06_hall1_88348bf3:
     # kevin "You think they're really stuck up in her office?!"
-    kevin "你觉得他们真的被困在她的办公室里了？！"
+    kevin "你觉得她们真的被困在她的办公室里了？！"
 
 # game/src/plot/mel06.rpy:33
 translate zh_hans mel06_hall1_50e54e3b:
@@ -191,7 +191,7 @@ translate zh_hans mel06_office1_7d924757:
 # game/src/plot/mel06.rpy:107
 translate zh_hans mel06_office1_da63cff5:
     # ursula "( !!! )" with hpunch
-    ursula "( !!! )" with hpunch
+    ursula "（！！！）" with hpunch
 
 # game/src/plot/mel06.rpy:108
 translate zh_hans mel06_office1_017e8c74:
@@ -231,12 +231,12 @@ translate zh_hans mel06_office1_9a0e3d95:
 # game/src/plot/mel06.rpy:122
 translate zh_hans mel06_office1_040fee0a:
     # anon e_w -m_laugh @ -m_talk "( There's no way they can interfere with the talent show now! )"
-    anon e_w -m_laugh @ -m_talk "（这下他们没法干扰才艺表演了！）"
+    anon e_w -m_laugh @ -m_talk "（这下她们没法干扰才艺表演了！）"
 
 # game/src/plot/mel06.rpy:123
 translate zh_hans mel06_office1_38f40a6f:
     # anon a_side @ -m_talk "( They'll be stuck there arguing until somebody finds them. )"
-    anon a_side @ -m_talk "（他们会一直困在那里争吵，直到有人发现他们。）"
+    anon a_side @ -m_talk "（她们会一直困在那里争吵，直到有人发现她们。）"
 
 # game/src/plot/mel06.rpy:124
 translate zh_hans mel06_office1_67494c8f:
@@ -286,12 +286,12 @@ translate zh_hans mel06_gym_rails_bfd194b5:
 # game/src/plot/mel06.rpy:174
 translate zh_hans mel06_kevin_5e45968e:
     # kevin "Hey, so were they really stuck?!"
-    kevin "嘿，他们真的被困住了？！"
+    kevin "嘿，她们真的被困住了？！"
 
 # game/src/plot/mel06.rpy:177
 translate zh_hans mel06_kevin_609845c4:
     # anon "Yeah, man. They're gonna be there for a long time..."
-    anon "是啊，老兄。他们得在那儿待上好一阵子了……"
+    anon "是啊，老兄。她们得在那儿待上好一阵子了……"
 
 # game/src/plot/mel06.rpy:180
 translate zh_hans mel06_kevin_04ce37ef:
@@ -326,7 +326,7 @@ translate zh_hans mel06_kevin_d9c9e88e:
 # game/src/plot/mel06.rpy:192
 translate zh_hans mel06_kevin_af4dbfcd:
     # anon "Err... Yeah, I guess?"
-    anon "呃…… 嗯，我想是吧？"
+    anon "呃……嗯，我想是吧？"
 
 # game/src/plot/mel06.rpy:194
 translate zh_hans mel06_kevin_82efafaa:
@@ -411,12 +411,12 @@ translate zh_hans mel06_kevin_d30bd1ff:
 # game/src/plot/mel06.rpy:235
 translate zh_hans mel06_kevin_a2bcb068:
     # melody "... Allow me to introduce..."
-    melody "…… 请允许我介绍……"
+    melody "……请允许我介绍……"
 
 # game/src/plot/mel06.rpy:238
 translate zh_hans mel06_kevin_f508c1bf:
     # melody "... Angelic [saga.cast.eve] and the Cookie Monsters!!!"
-    melody "…… 天使般的[saga.cast.eve]和饼干怪兽！！！"
+    melody "……天使般的[saga.cast.eve]和饼干怪兽！！！"
 
 # game/src/plot/mel06.rpy:241
 translate zh_hans mel06_kevin_794ad668:
@@ -431,7 +431,7 @@ translate zh_hans mel06_kevin_e2824731:
 # game/src/plot/mel06.rpy:243
 translate zh_hans mel06_kevin_b65346e3:
     # more "... And now the time had come for our big finale!"
-    more "…… 而现在，我们盛大的压轴戏的时刻到了！"
+    more "……而现在，我们盛大的压轴戏的时刻到了！"
 
 # game/src/plot/mel06.rpy:244
 translate zh_hans mel06_kevin_987d424a:
@@ -801,7 +801,7 @@ translate zh_hans mel06_kevin_merge1_5ec45ca9:
 # game/src/plot/mel06.rpy:413
 translate zh_hans mel06_kevin_merge1_a5860291:
     # melody "{i}*Slurp*{/i}"
-    melody "{i}*咕嘟*{/i}"
+    melody "{i}*吸溜*{/i}"
 
 # game/src/plot/mel06.rpy:414
 translate zh_hans mel06_kevin_merge1_d4990d97:
@@ -851,7 +851,7 @@ translate zh_hans mel06_kevin_merge1_699768a0:
 # game/src/plot/mel06.rpy:440
 translate zh_hans mel06_kevin_merge1_f5508c63:
     # melody "Muah!"
-    melody "木啊！"
+    melody "啵！"
 
 # game/src/plot/mel06.rpy:448
 translate zh_hans mel06_kevin_merge1_0541ab14:
@@ -906,12 +906,12 @@ translate zh_hans mel06_kevin_merge2_ee63c9af:
 # game/src/plot/mel06.rpy:469
 translate zh_hans mel06_kevin_merge2_5db15e78:
     # mono "Judging by the state of them though, it hadn't been easy!"
-    mono "不过看他们的样子，这过程可不轻松！"
+    mono "不过看她们的样子，这过程可不轻松！"
 
 # game/src/plot/mel06.rpy:470
 translate zh_hans mel06_kevin_merge2_7fc693f8:
     # more "They didn't stay long... turning to leave the instant they realized they'd been beaten."
-    more "他们没有久留……一意识到自己输掉了，转身就走。"
+    more "她们没有久留……一意识到自己输掉了，转身就走。"
 
 # game/src/plot/mel06.rpy:477
 translate zh_hans mel06_kevin_merge2_a64b0643:
@@ -931,12 +931,12 @@ translate zh_hans mel06_kevin_merge2_698277e5:
 # game/src/plot/mel06.rpy:481
 translate zh_hans mel06_kevin_merge2_77532a1e:
     # kevin "They really wanted to stop this show, huh?"
-    kevin "他们真的很想阻止这场演出，是吧？"
+    kevin "她们真的很想阻止这场演出，是吧？"
 
 # game/src/plot/mel06.rpy:484
 translate zh_hans mel06_kevin_merge2_4374833b:
     # anon "Heh, yeah. I can't believe they managed to get loose on their own!"
-    anon "嘿，是啊。难以置信他们竟然能自己挣脱！"
+    anon "嘿，是啊。难以置信她们竟然能自己挣脱！"
 
 # game/src/plot/mel06.rpy:490
 translate zh_hans mel06_kevin_merge2_a427ff17:

@@ -94,7 +94,7 @@ translate zh_hans school_office1_deny_dfab12d6:
 translate zh_hans school_office1_deny_7e696988:
 
     # ursula "Now, get out of my office!" with hpunch
-    ursula "现在就滚出我的办公室！" with hpunch
+    ursula "现在，从我办公室出去！" with hpunch
 
 # game/src/plot/school_office1.rpy:48
 translate zh_hans school_office1_deny_e969125c:

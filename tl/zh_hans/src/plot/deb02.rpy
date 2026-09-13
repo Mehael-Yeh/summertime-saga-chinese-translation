@@ -100,7 +100,7 @@ translate zh_hans deb02_debbie_choice_e014da31:
 translate zh_hans deb02_debbie_choice_8c1c4bf1:
 
     # debbie e_se f_annoyed "[saga.cast.anon], language!!"
-    debbie e_se f_annoyed "[saga.cast.anon]，不许说脏话！！"
+    debbie e_se f_annoyed "[saga.cast.anon]，注意言辞！！"
 
 # game/src/plot/deb02.rpy:46
 translate zh_hans deb02_debbie_choice_9d30058f:
@@ -262,7 +262,7 @@ translate zh_hans deb02_debbie_choice_2add17a6:
 translate zh_hans deb02_debbie_choice_aa8637aa_1:
 
     # debbie "Better?"
-    debbie "好些了吗？"
+    debbie "好点了吗？"
 
 # game/src/plot/deb02.rpy:107
 translate zh_hans deb02_debbie_choice_72b062b5:

@@ -334,7 +334,7 @@ translate zh_hans jen12_watch_vid2_d11465f5:
 translate zh_hans jen12_watch_vid2_88022648:
 
     # anon "( ... Also, \"a real penis\"? )"
-    anon "（……还有，“真鸡巴”？）"
+    anon "（……还有，“真正的鸡巴”？）"
 
 # game/src/plot/jen12.rpy:207
 translate zh_hans jen12_watch_vid2_157a3196:

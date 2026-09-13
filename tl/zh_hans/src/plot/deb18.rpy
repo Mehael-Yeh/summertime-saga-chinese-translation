@@ -754,7 +754,7 @@ translate zh_hans deb18_lobby_e4b1e5f6:
 translate zh_hans deb18_lobby_eff78209:
 
     # debbie e_wsw "Heh, when did my boy get so tough, huh?"
-    debbie e_wsw "呵，我的好孩子什么时候变得这么勇敢了，嗯？"
+    debbie e_wsw "呵，你什么时候变得这么勇敢了，嗯？"
 
 # game/src/plot/deb18.rpy:332
 translate zh_hans deb18_lobby_f94ab59e:
@@ -820,7 +820,7 @@ translate zh_hans deb18_lobby_1887dda4:
 translate zh_hans deb18_lobby_47fb60d4:
 
     # debbie "Mm, my big strong boy."
-    debbie "唔，我的好孩子……又大又硬。"
+    debbie "唔，我的大块头猛男……"
 
 # game/src/plot/deb18.rpy:348
 translate zh_hans deb18_lobby_705c309c:
@@ -1030,7 +1030,7 @@ translate zh_hans deb18_lobby_eb07c533:
 translate zh_hans deb18_lobby_42f1b51a:
 
     # debbie f_calm "That's my boy."
-    debbie f_calm "这才乖嘛。"
+    debbie f_calm "这才对嘛。"
 
 # game/src/plot/deb18.rpy:420
 translate zh_hans deb18_lobby_07f6cecd:

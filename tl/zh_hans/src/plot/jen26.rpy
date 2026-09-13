@@ -1936,7 +1936,7 @@ translate zh_hans jen26_outro_096ab6fc:
 translate zh_hans jen26_outro_adf7f762:
 
     # anon e_ne f_surprised "Damn it, [saga.cast.jenny]..."
-    anon e_ne f_surprised "妈的，[saga.cast.jenny]……"
+    anon e_ne f_surprised "该死，[saga.cast.jenny]……"
 
 # game/src/plot/jen26.rpy:699
 translate zh_hans jen26_outro_dbbc5563:

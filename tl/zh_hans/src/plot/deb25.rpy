@@ -88,7 +88,7 @@ translate zh_hans deb25_intro_fba371b3:
 translate zh_hans deb25_intro_3d4e094a:
 
     # debbie "{i}*Sigh*{/i}"
-    debbie "{i}*叹息*{/i}"
+    debbie "{i}*叹气*{/i}"
 
 # game/src/plot/deb25.rpy:37
 translate zh_hans deb25_intro_12539037:
@@ -1168,7 +1168,7 @@ translate zh_hans deb25_bed3_222ef453:
 translate zh_hans deb25_bed3_13975983:
 
     # debbie "... You're a good boy."
-    debbie "……你真乖。"
+    debbie "……你是个好孩子。"
 
 # game/src/plot/deb25.rpy:364
 translate zh_hans deb25_bed3_559ece68_3:

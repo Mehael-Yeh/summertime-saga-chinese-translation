@@ -478,7 +478,7 @@ translate zh_hans deb_baby_tell_merge1_aa43b579:
 translate zh_hans deb_baby_tell_merge1_b8b425d8:
 
     # debbie a_side e_w of_none "{i}*Sniff*{/i} Yes!"
-    debbie a_side e_w of_none "{i}*吸鼻子*{/i} 嗯！"
+    debbie a_side e_w of_none "{i}*抽泣*{/i} 嗯！"
 
 # game/src/plot/deb_baby.rpy:198
 translate zh_hans deb_baby_tell_merge1_36eaef88:
@@ -3316,7 +3316,7 @@ translate zh_hans deb_baby_meet_525e5ae5:
 translate zh_hans deb_baby_meet_ea70a514:
 
     # debbie "{i}*Sniff*{/i} Oh, I love you so much."
-    debbie "{i}*吸鼻子*{/i} 哦，我真的好爱你。"
+    debbie "{i}*抽泣*{/i} 哦，我真的好爱你。"
 
 # game/src/plot/deb_baby.rpy:1503
 translate zh_hans deb_baby_meet_e1e2e7ca:

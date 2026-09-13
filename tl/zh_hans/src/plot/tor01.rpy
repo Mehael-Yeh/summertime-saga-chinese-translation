@@ -298,7 +298,7 @@ translate zh_hans tor01_intro_94fcb15c:
 translate zh_hans tor01_intro_03c0a751:
 
     # mono "She seemed pretty adamant about the no extra credit."
-    mono "她对不给额外学分这件事似乎很坚决。"
+    mono "她对不给额外加分这件事似乎很坚决。"
 
 # game/src/plot/tor01.rpy:128
 translate zh_hans tor01_intro_3a7130c7:
@@ -322,7 +322,7 @@ translate zh_hans tor01_intro_57275167:
 translate zh_hans tor01_intro_7e158dbe:
 
     # mono "!!!" with vpunch
-    mono "!!!" with vpunch
+    mono "！！！" with vpunch
 
 # game/src/plot/tor01.rpy:143
 translate zh_hans tor01_intro_b1ff08bd:
@@ -1294,7 +1294,7 @@ translate zh_hans tor01_office2_b66a87f2:
 translate zh_hans tor01_office2_2f712608:
 
     # konty "They are... Muy agradable!"
-    konty "它们……非常棒！"
+    konty "它们……Muy agradable（非常棒）！"
 
 # game/src/plot/tor01.rpy:558
 translate zh_hans tor01_office2_bc851fbd:
@@ -1324,7 +1324,7 @@ translate zh_hans tor01_office2_2f94d0f1_1:
 translate zh_hans tor01_office2_f8d791c9:
 
     # konty "[saga.cast.tori.clan]-san's blueprints can be found on the floor behind you."
-    konty "[saga.cast.tori.clan]桑的蓝图可以在你身后的地板上找到。"
+    konty "[saga.cast.tori.clan]-san的蓝图可以在你身后的地板上找到。"
 
 # game/src/plot/tor01.rpy:570
 translate zh_hans tor01_office2_90f0ff4e:
@@ -1738,13 +1738,13 @@ translate zh_hans tor01_take_labcoat_23b89011:
 translate zh_hans tor01_take_plans_2e66ff0c:
 
     # anon "These must be her blueprints."
-    anon "这些一定是她的设计图。"
+    anon "这些一定是她的蓝图。"
 
 # game/src/plot/tor01.rpy:788
 translate zh_hans tor01_take_rails_f8aa9ded:
 
     # anon @ -m_talk "( I can't leave yet. [saga.cast.tori] said I needed a lab coat, safety glasses, and her blueprints. )"
-    anon @ -m_talk "（我还不能离开。[saga.cast.tori]说我需要实验服、护目镜和她的设计图。）"
+    anon @ -m_talk "（我还不能离开。[saga.cast.tori]说我需要实验服、护目镜和她的蓝图。）"
 
 # game/src/plot/tor01.rpy:800
 translate zh_hans tor01_take_specs_bcf6a146:
@@ -1918,7 +1918,7 @@ translate zh_hans tor01_science_83488b19_2:
 translate zh_hans tor01_science_1d8547cc:
 
     # tori "( !!! )" with hpunch
-    tori "( !!! )" with hpunch
+    tori "（！！！）" with hpunch
 
 # game/src/plot/tor01.rpy:925
 translate zh_hans tor01_science_2e0d7e9e:
@@ -1978,7 +1978,7 @@ translate zh_hans tor01_science_b7f06360:
 translate zh_hans tor01_science_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "( !!! )" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/tor01.rpy:948
 translate zh_hans tor01_science_e73432a9:

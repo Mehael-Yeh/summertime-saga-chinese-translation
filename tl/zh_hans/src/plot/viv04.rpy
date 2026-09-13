@@ -934,7 +934,7 @@ translate zh_hans viv04_pompoms_122e28a3:
 translate zh_hans viv04_pompoms_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/viv04.rpy:485
 translate zh_hans viv04_pompoms_cef6a558:
@@ -2968,7 +2968,7 @@ translate zh_hans viv04_bed2_0e1bd417:
 translate zh_hans viv04_bed2_d3a0e3ec:
 
     # roxxy "!!!" with hpunch
-    roxxy "!!!" with hpunch
+    roxxy "！！！" with hpunch
 
 # game/src/plot/viv04.rpy:1547
 translate zh_hans viv04_bed2_363baa43:
@@ -3034,7 +3034,7 @@ translate zh_hans viv04_bed2_4f7e9b78:
 translate zh_hans viv04_bed2_d3a0e3ec_1:
 
     # roxxy "!!!" with hpunch
-    roxxy "!!!" with hpunch
+    roxxy "！！！" with hpunch
 
 # game/src/plot/viv04.rpy:1562
 translate zh_hans viv04_bed2_435314bf:
@@ -3700,7 +3700,7 @@ translate zh_hans viv04_viv_434cad5f:
 translate zh_hans viv04_viv_6f5bab2d:
 
     # viv "Très bien! Soon we will have the test."
-    viv "很好！考试马上就到了。"
+    viv "Très bien!（很好！）考试马上就到了。"
 
 # game/src/plot/viv04.rpy:1808
 translate zh_hans viv04_viv_af0a95e3:

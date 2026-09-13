@@ -1,7 +1,7 @@
 # game/src/plot/tym_stall.rpy:8
 translate zh_hans tym_stall_e36fde41:
     # anon "Oh sorry, I didn't-"
-    anon "哦，抱歉，我不知道这里有人——"
+    anon "哦，抱歉，我没注意——"
 
 # game/src/plot/tym_stall.rpy:13
 translate zh_hans tym_stall_0cfd3458:

@@ -94,7 +94,7 @@ translate zh_hans mar02_tony_63f037ba:
 translate zh_hans mar02_tony_d71682e0:
 
     # tony "That's the kinda stuff that knocks women off their rockers."
-    tony "那种滋味能把女人迷得神魂颠倒。"
+    tony "这种事可是会把女人逼疯的。"
 
 # game/src/plot/mar02.rpy:26
 translate zh_hans mar02_tony_64a1ca0f:
@@ -118,7 +118,7 @@ translate zh_hans mar02_tony_45cb625e:
 translate zh_hans mar02_tony_ad43dc9a:
 
     # tony "Heh, I should hope not."
-    tony "呵，我可希望你别这么干。"
+    tony "呵，但愿不会。"
 
 # game/src/plot/mar02.rpy:31
 translate zh_hans mar02_tony_125a10e2:

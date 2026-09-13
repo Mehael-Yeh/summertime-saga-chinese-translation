@@ -928,7 +928,7 @@ translate zh_hans ano11_flour_merge_9a3ab97b:
 
 
     # "*Crash*" with hpunch
-    "哐当！！" with hpunch
+    "*哐当*" with hpunch
 
 # game/src/plot/ano11.rpy:273
 translate zh_hans ano11_flour_merge_1823b346:
@@ -1733,7 +1733,7 @@ translate zh_hans ano11_flour_merge_d11b6081:
 
 
     # anon "Why do they call him Four-Fingers?"
-    anon "为什么大家叫他Four-Fingers？"
+    anon "为什么大家叫他四指？"
 
 # game/src/plot/ano11.rpy:491
 translate zh_hans ano11_flour_merge_40ccd466:
@@ -2104,7 +2104,7 @@ translate zh_hans ano11_flour_fail_d17bed01:
 
 
     # anon @ -m_talk "!!!" with hpunch
-    anon @ -m_talk "!!!" with hpunch
+    anon @ -m_talk "！！！" with hpunch
 
 # game/src/plot/ano11.rpy:577
 translate zh_hans ano11_flour_fail_2dcff938:

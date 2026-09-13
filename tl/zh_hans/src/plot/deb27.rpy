@@ -490,7 +490,7 @@ translate zh_hans deb27_yard_58819a12:
 translate zh_hans deb27_yard_9b9d832f:
 
     # debbie "The neighbors will hear you!"
-    debbie "邻居会听见你的！"
+    debbie "邻居会听见的！"
 
 # game/src/plot/deb27.rpy:148
 translate zh_hans deb27_yard_a912e8f2:

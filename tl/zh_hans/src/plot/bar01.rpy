@@ -232,7 +232,7 @@ translate zh_hans bar01_clay_b5e6eece:
 translate zh_hans bar01_clay_5efd1ca9:
 
     # ursula "[saga.cast.barb.clan]!!!" with hpunch
-    ursula "[saga.cast.barb.clan]!!!" with hpunch
+    ursula "[saga.cast.barb.clan]！！！" with hpunch
 
 # game/src/plot/bar01.rpy:112
 translate zh_hans bar01_clay_3b9cb69e:

@@ -172,7 +172,7 @@ translate zh_hans deb04_landing_c9387cb6:
 translate zh_hans deb04_landing_38c70d98:
 
     # debbie "[saga.cast.jenny], language!!"
-    debbie "[saga.cast.jenny]，不许说脏话！！"
+    debbie "[saga.cast.jenny]，注意言辞！！"
 
 # game/src/plot/deb04.rpy:81
 translate zh_hans deb04_landing_30fd3c8a:

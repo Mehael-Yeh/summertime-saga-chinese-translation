@@ -1060,7 +1060,7 @@ translate zh_hans ano09_shop_quick_ab873206:
 translate zh_hans ano09_vehicle_fc1d5018:
 
     # anon @ -m_talk "( Holy crap, I did it! )"
-    anon @ -m_talk "（好家伙，我做到了！）"
+    anon @ -m_talk "（我靠，我做到了！）"
 
 # game/src/plot/ano09.rpy:324
 translate zh_hans ano09_vehicle_bc206166:

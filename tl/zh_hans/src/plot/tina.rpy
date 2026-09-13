@@ -61,7 +61,7 @@ translate zh_hans tina_bank_lobby_intro1a_40d72c32:
 
 
     # anon e_wsw f_horny_smug @ -m_talk "( Now {i}that's{/i} a woman. )"
-    anon e_wsw f_horny_smug @ -m_talk "（这{i}才{/i}叫有女人味。）"
+    anon e_wsw f_horny_smug @ -m_talk "（这{i}才{/i}叫女人。）"
 
 # game/src/plot/tina.rpy:55
 translate zh_hans tina_bank_lobby_intro1a_42b27dc1:

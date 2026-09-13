@@ -131,7 +131,7 @@ translate zh_hans pie_stall_d165fd93:
 # game/src/plot/pie_stall.rpy:52
 translate zh_hans pie_stall_08d9a74e:
     # anon @ -m_talk "( Geez, that was a close one! )"
-    anon @ -m_talk "（真是的，差点儿！）"
+    anon @ -m_talk "（天哪，好险！）"
 
 # game/src/plot/pie_stall.rpy:54
 translate zh_hans pie_stall_303b702f:

@@ -145,7 +145,7 @@ translate zh_hans mar_baby_tell_5f715f5b:
 
 
     # anon "What the-"
-    anon "什么——"
+    anon "搞什么——"
 
 # game/src/plot/mar_baby.rpy:58
 translate zh_hans mar_baby_tell_7ab1993f:

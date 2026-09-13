@@ -34,7 +34,7 @@ translate zh_hans erik_school_science_outro_93058bbb:
 translate zh_hans erik_school_science_outro_b8ea3f03:
 
     # anon "Err... I'll see you later!"
-    anon "呃……那我先走了！"
+    anon "呃……那回头见！"
 
 # game/src/plot/erik.rpy:109
 translate zh_hans erik_tammy_bed2_intro_56cfb8a0:

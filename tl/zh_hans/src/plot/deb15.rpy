@@ -28,7 +28,7 @@ translate zh_hans deb15_bath_26473f4a:
 translate zh_hans deb15_bath_2db17454:
 
     # anon "( I can't quite make out- )"
-    anon "（根本看不清里面——）"
+    anon "（我看不太清——）"
 
 # game/src/plot/deb15.rpy:19
 translate zh_hans deb15_bath_c2e06af5:

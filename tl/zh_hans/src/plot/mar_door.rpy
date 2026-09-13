@@ -1,7 +1,7 @@
 # game/src/plot/mar_door.rpy:5
 translate zh_hans mar_door_knock_bca3ac64:
     # "*Knock* *Knock*"
-    "*咚咚*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/mar_door.rpy:8
 translate zh_hans mar_door_knock_62dafed8:
@@ -11,7 +11,7 @@ translate zh_hans mar_door_knock_62dafed8:
 # game/src/plot/mar_door.rpy:10
 translate zh_hans mar_door_knock_bca3ac64_1:
     # "*Knock* *Knock*"
-    "*咚咚*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/mar_door.rpy:13
 translate zh_hans mar_door_knock_54c757bc:
@@ -21,7 +21,7 @@ translate zh_hans mar_door_knock_54c757bc:
 # game/src/plot/mar_door.rpy:15
 translate zh_hans mar_door_knock_bca3ac64_2:
     # "*Knock* *Knock*"
-    "*咚咚*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/mar_door.rpy:17
 translate zh_hans mar_door_knock_c99284cf:

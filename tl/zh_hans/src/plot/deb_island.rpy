@@ -190,7 +190,7 @@ translate zh_hans deb_island_1c894d42:
 translate zh_hans deb_island_17acbe9b:
 
     # anon "Mm, I can do that."
-    anon "嗯，这我知道。"
+    anon "嗯，没问题。"
 
 # game/src/plot/deb_island.rpy:128
 translate zh_hans deb_island_933dce8f:
@@ -526,7 +526,7 @@ translate zh_hans deb_island_merge1_98b95890:
 translate zh_hans deb_island_merge1_1130ff8e:
 
     # debbie "You're such a good boy!"
-    debbie "你真是个乖孩子！"
+    debbie "你真是个好孩子！"
 
 # game/src/plot/deb_island.rpy:257
 translate zh_hans deb_island_merge1_d6e4fe26:

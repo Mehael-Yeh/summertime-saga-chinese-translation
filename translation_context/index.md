@@ -18,6 +18,7 @@
 | `recurring_terms.md` | 记录 | 重复称呼、口癖、专名复查 | 与 `recurring_terms.json` 配套 |
 | `english_residuals.md` | 记录 | 英文残留与非英语例外判定 | 出现新例外时更新 |
 | `input_codes.md` | 规范 | 游戏内可输入代码与翻译兼容 | 新增密码类文本时更新 |
+| `release.md` | 规范 | 版本兼容矩阵、发版检查清单、上游更新流程 | 版本或发布流程变化时更新 |
 | `manual_review.json` | 记录（机器） | 每文件人工审校台账，含逐条指纹 | 由审校脚本读写，勿手工改行号 |
 | `extracted_language_review.json` | 记录（机器） | 提取文本的修改日志、阅读批次、收敛项 | 改动后同步指纹与结论 |
 | `sentence_patterns.json` | 记录（机器） | 已确认句式基准，用于一致性回归 | 改动句式后同步目标串 |

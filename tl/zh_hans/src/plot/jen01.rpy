@@ -10,7 +10,7 @@ translate zh_hans jen01_bath_26473f4a:
 translate zh_hans jen01_bath_7be1819f:
 
     # anon "( ... I can't quite make out- )"
-    anon "（……我有点看不清——）"
+    anon "（……我看不太清——）"
 
 # game/src/plot/jen01.rpy:8
 translate zh_hans jen01_bath_f1fb1e39:
@@ -46,13 +46,13 @@ translate zh_hans jen01_bath_d03ff969:
 translate zh_hans jen01_bath_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "(！！！)" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/jen01.rpy:17
 translate zh_hans jen01_bath_40400226:
 
     # jenny "What the fuck, [saga.cast.anon]!!!"
-    jenny "你他妈在干什么，[saga.cast.anon]！！！"
+    jenny "搞什么鬼，[saga.cast.anon]！！！"
 
 # game/src/plot/jen01.rpy:19
 translate zh_hans jen01_bath_8135ed09:

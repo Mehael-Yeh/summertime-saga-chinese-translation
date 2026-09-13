@@ -286,13 +286,13 @@ translate zh_hans hana_sushi_shop_outro1_05184d2f:
 translate zh_hans hana_sushi_shop_outro1_5c889825:
 
     # anon a_hips f_smug "Hopefully with a date."
-    anon a_hips f_smug "希望是约会。"
+    anon a_hips f_smug "希望是带着约会对象来。"
 
 # game/src/plot/hana.rpy:155
 translate zh_hans hana_sushi_shop_outro1_43401772:
 
     # anon a_hips f_smug "Hopefully with a another date."
-    anon a_hips f_smug "希望是另一次约会。"
+    anon a_hips f_smug "希望是带着另一个约会对象来。"
 
 # game/src/plot/hana.rpy:158
 translate zh_hans hana_sushi_shop_outro1_4e0770c6:
@@ -322,7 +322,7 @@ translate zh_hans hana_sushi_shop_outro1_124c5984:
 translate zh_hans hana_sushi_shop_outro1_38568fd2:
 
     # anon "Oh, I'm sure."
-    anon "哦，我确信。"
+    anon "哦，那是当然。"
 
 # game/src/plot/hana.rpy:164
 translate zh_hans hana_sushi_shop_outro1_86e5cbf5:

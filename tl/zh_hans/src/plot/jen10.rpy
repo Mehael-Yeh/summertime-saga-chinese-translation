@@ -2032,7 +2032,7 @@ translate zh_hans jen10_toy_merge_dc657c88:
 translate zh_hans jen10_toy_merge_752d8cad:
 
     # anon @ f_shocked m_open "!!!" with hpunch
-    anon @ f_shocked m_open "!!!" with hpunch
+    anon @ f_shocked m_open "！！！" with hpunch
 
 # game/src/plot/jen10.rpy:749
 translate zh_hans jen10_toy_merge_778b8330:

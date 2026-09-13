@@ -202,7 +202,7 @@ translate zh_hans deb_sink_merge1_3ae4b11a:
 translate zh_hans deb_sink_merge1_f618288e:
 
     # anon "{i}*Sluuuuuuurp*{/i}"
-    anon "{i}*嘶溜~~~~~*{/i}"
+    anon "{i}*吸溜~~~~~*{/i}"
 
 # game/src/plot/deb_sink.rpy:95
 translate zh_hans deb_sink_merge1_ff2ba8eb:
@@ -766,7 +766,7 @@ translate zh_hans deb_sink_alt_849a6787:
 translate zh_hans deb_sink_alt_6e934c23:
 
     # debbie f_horny "Tsk, you're such a naughty boy."
-    debbie f_horny "啧，你这坏小子。"
+    debbie f_horny "啧，你这个小坏蛋。"
 
 # game/src/plot/deb_sink.rpy:315
 translate zh_hans deb_sink_alt_00db40f4:

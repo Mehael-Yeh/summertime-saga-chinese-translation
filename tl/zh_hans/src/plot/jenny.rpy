@@ -364,7 +364,7 @@ translate zh_hans jenny_debbie_bed2_outro4_6bc9073e:
 translate zh_hans jenny_debbie_bed2_outro4_77d2ce03:
 
     # jenny f_annoyed "Ugh, what the fuck, [saga.cast.anon]?!"
-    jenny f_annoyed "操，搞什么啊，[saga.cast.anon]？！"
+    jenny f_annoyed "操，搞什么鬼，[saga.cast.anon]？！"
 
 # game/src/plot/jenny.rpy:206
 translate zh_hans jenny_debbie_bed2_outro4_47ef91c3:

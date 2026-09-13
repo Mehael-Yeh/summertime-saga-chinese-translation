@@ -130,7 +130,7 @@ translate zh_hans deb16_lounge_rails_a27780a8:
 translate zh_hans deb16_tv_cdf14ae8:
 
     # anon f_surprised @ -m_talk "( What the- )"
-    anon f_surprised @ -m_talk "（这什么——）"
+    anon f_surprised @ -m_talk "（搞什么——）"
 
 # game/src/plot/deb16.rpy:65
 translate zh_hans deb16_tv_332b77ff:
@@ -904,7 +904,7 @@ translate zh_hans deb16_tv_656c10f0:
 translate zh_hans deb16_tv_37b6c6ea:
 
     # debbie a_rub_11 e_w f_sad p_couch_rub_turn "Language!"
-    debbie a_rub_11 e_w f_sad p_couch_rub_turn "不许说脏话！"
+    debbie a_rub_11 e_w f_sad p_couch_rub_turn "注意言辞！"
 
 # game/src/plot/deb16.rpy:307
 translate zh_hans deb16_tv_4c605fe0:

@@ -64,7 +64,7 @@ translate zh_hans deb_visit_4980be46:
 translate zh_hans deb_visit_7bc7ec58:
 
     # debbie "Mm, my wonderful boy."
-    debbie "嗯，我的好男孩。"
+    debbie "嗯，我的好孩子。"
 
 # game/src/plot/deb_visit.rpy:48
 translate zh_hans deb_visit_9a6b5d7e:
@@ -88,7 +88,7 @@ translate zh_hans deb_visit_1bf4db74:
 translate zh_hans deb_visit_04950900:
 
     # debbie a_up f_surprised m_idle "{i}*Gasp*{/i}"
-    debbie a_up f_surprised m_idle "{i}*倒吸一口凉气*{/i}"
+    debbie a_up f_surprised m_idle "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/deb_visit.rpy:73
 translate zh_hans deb_visit_559ece68:
@@ -148,13 +148,13 @@ translate zh_hans deb_visit_4c8e8774:
 translate zh_hans deb_visit_2d1eb199:
 
     # debbie "{i}*Sluuuuuuuurp*{/i}"
-    debbie "{i}*吸溜————*{/i}"
+    debbie "{i}*吸溜——*{/i}"
 
 # game/src/plot/deb_visit.rpy:102
 translate zh_hans deb_visit_ba5396b3:
 
     # anon f_happy "O-oh, wow!"
-    anon f_happy "哦——哦，哇！"
+    anon f_happy "哦、哦，哇！"
 
 # game/src/plot/deb_visit.rpy:107
 translate zh_hans deb_visit_0ec8a9e2:
@@ -346,7 +346,7 @@ translate zh_hans deb_visit_451ac667:
 translate zh_hans deb_visit_eba9d847:
 
     # debbie "So very {i}very{/i} wrong!"
-    debbie "太、太{i}太{/i}不对了！"
+    debbie "太、{i}太{/i}不对了！"
 
 # game/src/plot/deb_visit.rpy:195
 translate zh_hans deb_visit_0eff2beb:
@@ -646,7 +646,7 @@ translate zh_hans deb_visit_0cf4d269:
 translate zh_hans deb_visit_ef854eb2:
 
     # debbie d_cumshot_after p_debbie_bed3_under_fall "NGGHHH!!!"
-    debbie d_cumshot_after p_debbie_bed3_under_fall "恩啊啊！！！"
+    debbie d_cumshot_after p_debbie_bed3_under_fall "嗯啊啊！！！"
 
 # game/src/plot/deb_visit.rpy:276
 translate zh_hans deb_visit_d165fd93:
@@ -718,7 +718,7 @@ translate zh_hans deb_visit_merge_1f2b08a1:
 translate zh_hans deb_visit_merge_11fd3931:
 
     # debbie @ -m_talk "... Zzz."
-    debbie @ -m_talk "…… 呼。"
+    debbie @ -m_talk "……呼。"
 
 # game/src/plot/deb_visit.rpy:317
 translate zh_hans deb_visit_merge_b2e4e8a5:
@@ -844,7 +844,7 @@ translate zh_hans deb_visit_merge_0e5adf0b:
 translate zh_hans deb_visit_merge_f62eaeae:
 
     # debbie p_lay_edge_kiss "Mm-uah!"
-    debbie p_lay_edge_kiss "嗯嘛！"
+    debbie p_lay_edge_kiss "啵！"
 
 # game/src/plot/deb_visit.rpy:347
 translate zh_hans deb_visit_merge_10766a0a:
@@ -874,7 +874,7 @@ translate zh_hans deb_visit_merge_244739f4:
 translate zh_hans deb_visit_alt_02012ea3:
 
     # "*Crash*" with vpunch
-    "*砰！*" with vpunch
+    "*砰*" with vpunch
 
 # game/src/plot/deb_visit.rpy:377
 translate zh_hans deb_visit_alt_2064f972:
@@ -904,7 +904,7 @@ translate zh_hans deb_visit_alt_4cf5ab1c:
 translate zh_hans deb_visit_alt_aedbb228:
 
     # debbie e_sw @ -m_talk "{i}*Sigh*{/i}"
-    debbie e_sw @ -m_talk "{i}*叹息*{/i}"
+    debbie e_sw @ -m_talk "{i}*叹气*{/i}"
 
 # game/src/plot/deb_visit.rpy:383
 translate zh_hans deb_visit_alt_78404027:
@@ -934,7 +934,7 @@ translate zh_hans deb_visit_alt_b2e4e8a5:
 translate zh_hans deb_visit_alt_4d94346f:
 
     # anon a_side e_se f_tired p_bed3_visit_sit "{i}*Yawn*{/i} Morni-!"
-    anon a_side e_se f_tired p_bed3_visit_sit "{i}*哈欠*{/i} 早——！"
+    anon a_side e_se f_tired p_bed3_visit_sit "{i}*哈欠*{/i}早——！"
 
 # game/src/plot/deb_visit.rpy:395
 translate zh_hans deb_visit_alt_75b45423:
@@ -1030,7 +1030,7 @@ translate zh_hans deb_visit_baby_77fb8f17:
 translate zh_hans deb_visit_baby_01715acc:
 
     # anon e_ne f_curious "Whatsit?"
-    anon e_ne f_curious "怎么了？"
+    anon e_ne f_curious "什么？"
 
 # game/src/plot/deb_visit.rpy:440
 translate zh_hans deb_visit_baby_2d9be937:
@@ -1450,7 +1450,7 @@ translate zh_hans deb_visit_baby_af79010c:
 translate zh_hans deb_visit_baby_e6eea80f:
 
     # debbie @ p_debbie_bed3_edge_cum_02 "Haah... Haah..."
-    debbie @ p_debbie_bed3_edge_cum_02 "哈啊…… 哈啊……"
+    debbie @ p_debbie_bed3_edge_cum_02 "哈啊……哈啊……"
 
 # game/src/plot/deb_visit.rpy:557
 translate zh_hans deb_visit_baby_3559a1b0:
@@ -1552,7 +1552,7 @@ translate zh_hans deb_visit_bail_dd73cf9c:
 translate zh_hans deb_visit_bail_e484359b:
 
     # anon f_shy "... {i}*Ahem*{/i} C-could we... maybe-"
-    anon f_shy "…… {i}*咳*{/i}能、能不能……也许——"
+    anon f_shy "……{i}*咳咳*{/i}能、能不能……也许——"
 
 # game/src/plot/deb_visit.rpy:610
 translate zh_hans deb_visit_bail_7294729d:
@@ -1576,7 +1576,7 @@ translate zh_hans deb_visit_bail_e9b72e1c:
 translate zh_hans deb_visit_bail_6ebff723:
 
     # debbie a_nervous "O-oh?"
-    debbie a_nervous "哦——哦？"
+    debbie a_nervous "哦、哦？"
 
 # game/src/plot/deb_visit.rpy:614
 translate zh_hans deb_visit_bail_5ce8df19:
@@ -1600,7 +1600,7 @@ translate zh_hans deb_visit_bail_de9977e6:
 translate zh_hans deb_visit_bail_d90695b4:
 
     # debbie "Y-yeah, sure."
-    debbie "好——好吧，当然。"
+    debbie "好、好吧，当然。"
 
 # game/src/plot/deb_visit.rpy:620
 translate zh_hans deb_visit_bail_e842e961:
@@ -1690,7 +1690,7 @@ translate zh_hans deb_visit_bail_d1d46409:
 translate zh_hans deb_visit_bail_a178c079:
 
     # debbie "S-sorry!"
-    debbie "对对对不起！"
+    debbie "对、对不起！"
 
 # game/src/plot/deb_visit.rpy:636
 translate zh_hans deb_visit_bail_5613a6f1:

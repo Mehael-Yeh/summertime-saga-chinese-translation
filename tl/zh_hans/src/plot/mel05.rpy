@@ -86,12 +86,12 @@ translate zh_hans mel05_music_e26c697a:
 # game/src/plot/mel05.rpy:59
 translate zh_hans mel05_music_05f68e2e:
     # kevin "They're bound to have something up their sleeve!"
-    kevin "他们肯定在耍什么花招！"
+    kevin "她们肯定在耍什么花招！"
 
 # game/src/plot/mel05.rpy:61
 translate zh_hans mel05_music_08bac7bb:
     # eve f_sad "... Shouldn't we tell [saga.cast.melody]?"
-    eve f_sad "…… 我们不应该告诉[saga.cast.melody]吗？"
+    eve f_sad "……我们不应该告诉[saga.cast.melody]吗？"
 
 # game/src/plot/mel05.rpy:63
 translate zh_hans mel05_music_a6e20a02:
@@ -191,7 +191,7 @@ translate zh_hans mel05_music_7f289477:
 # game/src/plot/mel05.rpy:107
 translate zh_hans mel05_music_921feb41:
     # eve f_confused "You mean, like trapping them somewhere?"
-    eve f_confused "你是说，比如把他们困在什么地方？"
+    eve f_confused "你是说，比如把她们困在什么地方？"
 
 # game/src/plot/mel05.rpy:109
 translate zh_hans mel05_music_44746db4:
@@ -251,7 +251,7 @@ translate zh_hans mel05_music_10e43ccd:
 # game/src/plot/mel05.rpy:138
 translate zh_hans mel05_music_ff2ea469:
     # anon "So we need to incapacitate them somehow..."
-    anon "那我们得想法子让他们失去行动能力……"
+    anon "那我们得想法子让她们失去行动能力……"
 
 # game/src/plot/mel05.rpy:142
 translate zh_hans mel05_music_7f289477_1:
@@ -261,7 +261,7 @@ translate zh_hans mel05_music_7f289477_1:
 # game/src/plot/mel05.rpy:143
 translate zh_hans mel05_music_8e1a1606:
     # eve "My sister has a taser at the shop... We could zap them?"
-    eve "我姐姐在店里有个电击器……我们可以电他们？"
+    eve "我姐姐在店里有个电击器……我们可以电她们？"
 
 # game/src/plot/mel05.rpy:145
 translate zh_hans mel05_music_13db017f:
@@ -386,12 +386,12 @@ translate zh_hans mel05_music_68c010c9:
 # game/src/plot/mel05.rpy:204
 translate zh_hans mel05_music_31976a57:
     # kevin "We also apply some to the cushions and presto! They'll be stuck there until someone finds them."
-    kevin "我们还在坐垫上也涂一些，嗖的一下！他们就会被粘住，直到有人发现他们。"
+    kevin "我们还在坐垫上也涂一些，嗖的一下！她们就会被粘住，直到有人发现她们。"
 
 # game/src/plot/mel05.rpy:205
 translate zh_hans mel05_music_e2d8dd33:
     # kevin "Even then... They'll need the solvent to get free!"
-    kevin "就算那样……他们也得用溶剂才能脱身！"
+    kevin "就算那样……她们也得用溶剂才能脱身！"
 
 # game/src/plot/mel05.rpy:207
 translate zh_hans mel05_music_bb61b79d:
@@ -496,7 +496,7 @@ translate zh_hans mel05_science_80f5980a:
 # game/src/plot/mel05.rpy:278
 translate zh_hans mel05_science_ac5f9504:
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/mel05.rpy:282
 translate zh_hans mel05_science_325ed29a:
@@ -606,7 +606,7 @@ translate zh_hans mel05_science_7d9964b2:
 # game/src/plot/mel05.rpy:357
 translate zh_hans mel05_science_c8c6d18e:
     # eve a_wtf f_sad "!!!" with hpunch
-    eve a_wtf f_sad "!!!" with hpunch
+    eve a_wtf f_sad "！！！" with hpunch
 
 # game/src/plot/mel05.rpy:359
 translate zh_hans mel05_science_a97ff9a1:
@@ -881,7 +881,7 @@ translate zh_hans mel05_erik_823af4a9:
 # game/src/plot/mel05.rpy:510
 translate zh_hans mel05_erik_11f47b77:
     # anon "Yes! Thank you, [saga.cast.erik]!"
-    anon "是的！谢谢你，[saga.cast.erik]！"
+    anon "太好了！谢谢你，[saga.cast.erik]！"
 
 # game/src/plot/mel05.rpy:512
 translate zh_hans mel05_erik_6909ba5d:
@@ -911,12 +911,12 @@ translate zh_hans mel05_delay_b973c1a3:
 # game/src/plot/mel05.rpy:541
 translate zh_hans mel05_delay_810488d6:
     # anon @ -m_talk "( Operation Gluteous Maximum is a go! )"
-    anon @ -m_talk "（屁股最大行动开始！）"
+    anon @ -m_talk "（臀大肌行动开始！）"
 
 # game/src/plot/mel05.rpy:543
 translate zh_hans mel05_delay_2f94cb20:
     # anon @ -m_talk "( Operation Sticky Chicken is a go! )"
-    anon @ -m_talk "（黏糊糊烤鸡行动开始！）"
+    anon @ -m_talk "（黏糊鸡行动开始！）"
 
 # game/src/plot/mel05.rpy:553
 translate zh_hans mel05_school_1f4edfb7:
@@ -951,7 +951,7 @@ translate zh_hans mel05_school_33ebfa1d:
 # game/src/plot/mel05.rpy:569
 translate zh_hans mel05_school_98d1ae45:
     # anon "... Huh?"
-    anon "…… 哈？"
+    anon "……哈？"
 
 # game/src/plot/mel05.rpy:570
 translate zh_hans mel05_school_b7d3a4f6:
@@ -961,7 +961,7 @@ translate zh_hans mel05_school_b7d3a4f6:
 # game/src/plot/mel05.rpy:573
 translate zh_hans mel05_school_9ea4ff8d:
     # erik "... Yeah."
-    erik "…… 是啊。"
+    erik "……是啊。"
 
 # game/src/plot/mel05.rpy:577
 translate zh_hans mel05_school_d91a992e:
@@ -1311,7 +1311,7 @@ translate zh_hans mel05_office1_f4a6f2e6:
 # game/src/plot/mel05.rpy:803
 translate zh_hans mel05_office1_28a5c13c:
     # anon "I disconnected her phone from the outlet too so there's no way they can call for help!"
-    anon "我还把她的电话从插座上拔了，这样他们就无法打电话求助了！"
+    anon "我还把她的电话从插座上拔了，这样她就无法打电话求助了！"
 
 # game/src/plot/mel05.rpy:806
 translate zh_hans mel05_office1_1bf2c9b4:

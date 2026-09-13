@@ -328,7 +328,7 @@ translate zh_hans deb08_retry_0acd763f:
 translate zh_hans deb08_car_f764414f:
 
     # mono "So we hopped in the car and made our way to the mall." with fade
-    mono "我们上车，一路去了商场。" with fade
+    mono "我们上了车，一路开去商场。" with fade
 
 # game/src/plot/deb08.rpy:142
 translate zh_hans deb08_car_cd170260:
@@ -724,7 +724,7 @@ translate zh_hans deb08_shop1_e5cc6a09:
 translate zh_hans deb08_shop1_e94dded9:
 
     # anon a_rub f_surprised "Sheesh, that's a lot of stuff!"
-    anon a_rub f_surprised "好家伙，东西还真不少！"
+    anon a_rub f_surprised "天啊，东西还真不少！"
 
 # game/src/plot/deb08.rpy:272
 translate zh_hans deb08_shop1_1f9d29b8:
@@ -1462,7 +1462,7 @@ translate zh_hans deb08_stall1_merge1_a0bf6a7f:
 translate zh_hans deb08_stall1_merge1_84c2e8f2:
 
     # debbie "... We can't afford that kind of money on a silly dress."
-    debbie "……我们不能花这么多钱买一条没必要的连衣裙。"
+    debbie "……咱们可不能为了一条连衣裙花这么多钱。"
 
 # game/src/plot/deb08.rpy:595
 translate zh_hans deb08_stall1_merge1_f68abec0:
@@ -1678,7 +1678,7 @@ translate zh_hans deb08_stall1_merge2_b0d736ac:
 translate zh_hans deb08_stall1_merge2_aab49861:
 
     # anon "He helped the girl out with her dress, and then he-"
-    anon "男主帮那个女孩把裙子脱下来，然后——"
+    anon "男主帮那个女孩脱下裙子，然后——"
 
 # game/src/plot/deb08.rpy:658
 translate zh_hans deb08_stall1_merge2_9ca3f152:
@@ -1954,7 +1954,7 @@ translate zh_hans deb08_stall1_merge2_a1e20087:
 translate zh_hans deb08_stall1_merge2_a18d2645:
 
     # anon a_pocket f_happy @ -m_talk "( Maybe she is capable of seeing me as something other than an my father's awkward kid? )"
-    anon a_pocket f_happy @ -m_talk "（也许在她眼里，我不再只是我爸身边那个笨拙的小鬼了？）"
+    anon a_pocket f_happy @ -m_talk "（也许在她眼里，我不再只是我爸那个笨手笨脚的孩子了？）"
 
 # game/src/plot/deb08.rpy:774
 translate zh_hans deb08_stall1_merge2_ba3940dd:

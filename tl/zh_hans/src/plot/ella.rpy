@@ -4,7 +4,7 @@
 translate zh_hans ella_forest_woods1_d7b93f02:
 
     # anon "H-hey-"
-    anon "嘿——嘿——"
+    anon "嘿、嘿——"
 
 # game/src/plot/ella.rpy:9
 translate zh_hans ella_forest_woods1_66c5a419:

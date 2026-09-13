@@ -148,7 +148,7 @@ translate zh_hans deb_tv_35464c24:
 translate zh_hans deb_tv_9ded72e7:
 
     # debbie "{i}*Sluuuuuuurp*{/i}"
-    debbie "{i}*嘶溜嘶溜嘶溜*{/i}"
+    debbie "{i}*吸溜吸溜吸溜*{/i}"
 
 # game/src/plot/deb_tv.rpy:68
 translate zh_hans deb_tv_a0ac237c:
@@ -964,7 +964,7 @@ translate zh_hans deb_tv_boobjob3_19ab2bdc:
 translate zh_hans deb_tv_boobjob3_5fc919b3:
 
     # debbie e_w -m_laugh "That's my good boy."
-    debbie e_w -m_laugh "这才是我的好男孩。"
+    debbie e_w -m_laugh "这才乖嘛。"
 
 # game/src/plot/deb_tv.rpy:402
 translate zh_hans deb_tv_boobjob4_35c86b9b:
@@ -1060,7 +1060,7 @@ translate zh_hans deb_tv_boobjob4_5865c66e:
 translate zh_hans deb_tv_boobjob4_03987d55:
 
     # anon "{i}*Sluuuuuuuuuurp*{/i}"
-    anon "{i}*嘶溜嘶溜嘶溜*{/i}"
+    anon "{i}*吸溜吸溜吸溜*{/i}"
 
 # game/src/plot/deb_tv.rpy:440
 translate zh_hans deb_tv_boobjob4_492dd8e3:
@@ -1084,7 +1084,7 @@ translate zh_hans deb_tv_boobjob4_30ae2bbc:
 translate zh_hans deb_tv_boobjob4_4f5f66cc:
 
     # debbie "That's my good boy!"
-    debbie "这才是我的好男孩！"
+    debbie "这才乖嘛！"
 
 # game/src/plot/deb_tv.rpy:445
 translate zh_hans deb_tv_boobjob4_118ff402:
@@ -1408,7 +1408,7 @@ translate zh_hans deb_tv_boobjob4_023542b2:
 translate zh_hans deb_tv_boobjob4_44507540:
 
     # debbie f_happy "That's my good boy."
-    debbie f_happy "这才是我的好男孩。"
+    debbie f_happy "这才乖嘛。"
 
 # game/src/plot/deb_tv.rpy:535
 translate zh_hans deb_tv_boobjob4_88894e4c:
@@ -3802,7 +3802,7 @@ translate zh_hans deb_tv_merge4a_343f0d4b:
 translate zh_hans deb_tv_merge4a_233aa11b:
 
     # debbie f_horny "That's my good boy."
-    debbie f_horny "这才是我的好男孩。"
+    debbie f_horny "这才乖嘛。"
 
 # game/src/plot/deb_tv.rpy:1370
 translate zh_hans deb_tv_merge4a_244739f4:
@@ -4222,7 +4222,7 @@ translate zh_hans deb_tv_play3_56d0d031:
 translate zh_hans deb_tv_play3_0686f373:
 
     # debbie "That's my good boy."
-    debbie "这才是我的好男孩！"
+    debbie "这才乖嘛！"
 
 # game/src/plot/deb_tv.rpy:1521
 translate zh_hans deb_tv_play4_21a91124:
@@ -4558,7 +4558,7 @@ translate zh_hans deb_tv_play4_a1f61959:
 translate zh_hans deb_tv_play4_0686f373:
 
     # debbie "That's my good boy."
-    debbie "这才是我的好男孩！"
+    debbie "这才乖嘛！"
 
 translate zh_hans strings:
 

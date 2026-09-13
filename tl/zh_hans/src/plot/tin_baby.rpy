@@ -226,7 +226,7 @@ translate zh_hans tin_baby_wait_once_32ae9879:
 translate zh_hans tin_baby_wait_once_0bec65f3:
 
     # anon f_shy "N-no, not at all!"
-    anon f_shy "不-不，一点也不！"
+    anon f_shy "不、不，一点也不！"
 
 # game/src/plot/tin_baby.rpy:80
 translate zh_hans tin_baby_wait_once_67a8589d:
@@ -496,7 +496,7 @@ translate zh_hans tin_baby_late_misc1_f01b5912:
 translate zh_hans tin_baby_late_misc2_823e5694:
 
     # anon f_curious "Can I get you anything?"
-    anon f_curious "需要我帮你拿点什么吗？"
+    anon f_curious "要我给你拿点什么吗？"
 
 # game/src/plot/tin_baby.rpy:177
 translate zh_hans tin_baby_late_misc2_9d32cf29:
@@ -532,7 +532,7 @@ translate zh_hans tin_baby_late_misc2_3f3c9c6e:
 translate zh_hans tin_baby_late_misc2_5fa55c4c:
 
     # tina "Like I said, it's important to do everything I can to help ensure the baby is born happy and healthy."
-    tina "就像我说的，尽我所能确保宝宝健康快乐地出生很重要。"
+    tina "就像我说的，重要的是尽我所能确保宝宝出生时健康快乐。"
 
 # game/src/plot/tin_baby.rpy:185
 translate zh_hans tin_baby_late_misc2_59391b4f:
@@ -640,7 +640,7 @@ translate zh_hans tin_baby_bump_misc1_8a9678e5:
 translate zh_hans tin_baby_bump_misc2_823e5694:
 
     # anon f_curious "Can I get you anything?"
-    anon f_curious "需要我给你拿点什么吗？"
+    anon f_curious "要我给你拿点什么吗？"
 
 # game/src/plot/tin_baby.rpy:262
 translate zh_hans tin_baby_bump_misc2_10e55009:
@@ -700,7 +700,7 @@ translate zh_hans tin_baby_bump_tina_lounge_64f1bab2:
 translate zh_hans tin_baby_warm_bca3ac64:
 
     # "*Knock* *Knock*"
-    "*咚* *咚*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/tin_baby.rpy:298
 translate zh_hans tin_baby_warm_86e0833a:
@@ -1024,7 +1024,7 @@ translate zh_hans tin_baby_cool_block_5abcb90d:
 translate zh_hans tin_baby_cool_block_1fd39456:
 
     # anon @ -m_talk "( ... And [saga.cast.becca] was already on edge. )"
-    anon @ -m_talk "（…… 而且[saga.cast.becca]之前就已经很紧张了。）"
+    anon @ -m_talk "（……而且[saga.cast.becca]之前就已经很紧张了。）"
 
 # game/src/plot/tin_baby.rpy:429
 translate zh_hans tin_baby_cool_block_a9c60c31:
@@ -1036,7 +1036,7 @@ translate zh_hans tin_baby_cool_block_a9c60c31:
 translate zh_hans tin_baby_belly_a1967dee:
 
     # "*Ding*"
-    "叮"
+    "*叮*"
 
 # game/src/plot/tin_baby.rpy:439
 translate zh_hans tin_baby_belly_a1f0b75a:
@@ -1127,7 +1127,7 @@ translate zh_hans tin_baby_belly_misc1_d70fc680:
 translate zh_hans tin_baby_belly_misc2_823e5694:
 
     # anon f_curious "Can I get you anything?"
-    anon f_curious "需要我帮你做点什么吗？"
+    anon f_curious "要我给你拿点什么吗？"
 
 # game/src/plot/tin_baby.rpy:494
 translate zh_hans tin_baby_belly_misc2_ac40beb3:
@@ -1420,7 +1420,7 @@ translate zh_hans tin_baby_meet_8e725e8e:
 translate zh_hans tin_baby_meet_823e5694:
 
     # anon f_curious "Can I get you anything?"
-    anon f_curious "我能给你拿点什么吗？"
+    anon f_curious "要我给你拿点什么吗？"
 
 # game/src/plot/tin_baby.rpy:621
 translate zh_hans tin_baby_meet_e62041d1:
@@ -1591,7 +1591,7 @@ translate zh_hans tin_baby_rest_micoe_37aed4bb:
 translate zh_hans tin_baby_rest_micoe_ad12889b:
 
     # micoe "She wouldn't even let me give her tips on breast feeding!"
-    micoe "她甚至不让我给她哺乳的建议！"
+    micoe "她连哺乳的建议都不让我提！"
 
 # game/src/plot/tin_baby.rpy:710
 translate zh_hans tin_baby_rest_micoe_bc0fc0e8:
@@ -1663,7 +1663,7 @@ translate zh_hans tin_baby_rest_misc1_8dd6c718:
 translate zh_hans tin_baby_rest_misc2_6935bc5b:
 
     # anon a_point_self f_confused "Is there anything I can do?"
-    anon a_point_self f_confused "有什么我能做的吗？"
+    anon a_point_self f_confused "有什么我能帮忙的吗？"
 
 # game/src/plot/tin_baby.rpy:740
 translate zh_hans tin_baby_rest_misc2_5595a5ac:
@@ -1755,7 +1755,7 @@ translate zh_hans tin_baby_post_intro_c8186a9a:
 translate zh_hans tin_baby_post_misc1_f7e6bfdd:
 
     # anon f_curious "How's everything going?"
-    anon f_curious "一切都还好吗？"
+    anon f_curious "一切顺利吗？"
 
 # game/src/plot/tin_baby.rpy:805
 translate zh_hans tin_baby_post_misc1_f0ea29fe:

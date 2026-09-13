@@ -2182,7 +2182,7 @@ translate zh_hans deb13_outro_1ac68e27:
 translate zh_hans deb13_outro_4c9624db:
 
     # debbie e_osw f_surprised "{i}*Gasp*{/i}"
-    debbie e_osw f_surprised "{i}*倒吸一口凉气*{/i}"
+    debbie e_osw f_surprised "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/deb13.rpy:1005
 translate zh_hans deb13_outro_b54b598e:

@@ -537,7 +537,7 @@ translate zh_hans jen_baby_late_okay_e8eb7dc7:
 
 
     # jenny f_annoyed "My mom might hear you, moron!"
-    jenny f_annoyed "我妈可能会听见你，白痴！"
+    jenny f_annoyed "我妈可能会听见的，白痴！"
 
 # game/src/plot/jen_baby.rpy:219
 translate zh_hans jen_baby_late_okay_5823b7dd:
@@ -621,7 +621,7 @@ translate zh_hans jen_baby_late_outro_ce0e62b2:
 
 
     # anon e_osw f_sad "{i}*Sigh*{/i}"
-    anon e_osw f_sad "{i}*叹息*{/i}"
+    anon e_osw f_sad "{i}*叹气*{/i}"
 
 # game/src/plot/jen_baby.rpy:260
 translate zh_hans jen_baby_late_rage_24957169:
@@ -824,7 +824,7 @@ translate zh_hans jen_baby_debbie_694e8863:
 
 
     # debbie @ f_worried_surprised "{i}*Gasp*{/i}"
-    debbie @ f_worried_surprised "{i}*倒抽一口冷气*{/i}"
+    debbie @ f_worried_surprised "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/jen_baby.rpy:364
 translate zh_hans jen_baby_debbie_767c6cd3:
@@ -3297,7 +3297,7 @@ translate zh_hans jen_baby_food_3c273679:
 translate zh_hans jen_baby_food_75eb0fa0:
 
     # anon a_side "Don't you wanna, like... shower first?"
-    anon a_side "你不想，呃…… 先洗个澡吗？"
+    anon a_side "你不想，呃……先洗个澡吗？"
 
 # game/src/plot/jen_baby.rpy:1261
 translate zh_hans jen_baby_food_802eaa51:
@@ -4803,7 +4803,7 @@ translate zh_hans jen_baby_food_merge_72c0b288:
 translate zh_hans jen_baby_food_merge_56902f90:
 
     # anon f_happy "... How ya doing?"
-    anon f_happy "…… 你还好吗？"
+    anon f_happy "……你还好吗？"
 
 # game/src/plot/jen_baby.rpy:1740
 translate zh_hans jen_baby_food_merge_9562e4bc_3:

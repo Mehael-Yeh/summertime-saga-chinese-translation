@@ -12,7 +12,7 @@ translate zh_hans ano10_shop1_b51d4b3c:
 
 
     # tony "Boy, am I glad to see you."
-    tony "好小子，见到你可太好了。"
+    tony "哎呀，见到你可太好了。"
 
 # game/src/plot/ano10.rpy:8
 translate zh_hans ano10_shop1_d4fecfb0:
@@ -1068,7 +1068,7 @@ translate zh_hans ano10_kitchen_retry2_c83937f0:
 translate zh_hans ano10_kitchen_retry2_2f52c417:
 
     # anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "!!!" with hpunch
-    anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "!!!" with hpunch
+    anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "！！！" with hpunch
 
 # game/src/plot/ano10.rpy:299
 translate zh_hans ano10_kitchen_retry2_39869a88:

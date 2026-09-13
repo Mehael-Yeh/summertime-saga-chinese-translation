@@ -22,7 +22,7 @@ translate zh_hans deb_shower_8a08dbda:
 translate zh_hans deb_shower_6c6e3467:
 
     # anon "( I hope she's feeling naughty. )"
-    anon "（希望她今天兴致不错。）"
+    anon "（希望她今天也想要。）"
 
 # game/src/plot/deb_shower.rpy:12
 translate zh_hans deb_shower_a021d2e1:
@@ -154,7 +154,7 @@ translate zh_hans deb_shower_merge3_f44e2c05:
 translate zh_hans deb_shower_merge3_2d25708b:
 
     # debbie p_debbie_bath_glass_behind_anim s_10 "You just... caught me... off guard."
-    debbie p_debbie_bath_glass_behind_anim s_10 "你只是……让我……没准备好。"
+    debbie p_debbie_bath_glass_behind_anim s_10 "你只是……让我……有点措手不及。"
 
 # game/src/plot/deb_shower.rpy:123
 translate zh_hans deb_shower_merge3_46d25997:
@@ -556,7 +556,7 @@ translate zh_hans deb_shower_anal_436c9c4c:
 translate zh_hans deb_shower_anal_2a973903:
 
     # anon "We're in the shower, it's nice and clean."
-    anon "我们在淋浴间，又干净又舒服。"
+    anon "我们在洗澡，干干净净的。"
 
 # game/src/plot/deb_shower.rpy:271
 translate zh_hans deb_shower_anal_61a1751a:
@@ -868,7 +868,7 @@ translate zh_hans deb_shower_bail_d5450e75:
 translate zh_hans deb_shower_blowjob1_0b1e2647:
 
     # anon "I don't suppose you'd wanna... y'know... use your mouth?"
-    anon "我想你应该不会介意……呃，你懂的……用嘴帮我吧？"
+    anon "不知道你愿不愿意……呃，你懂的……用嘴帮我？"
 
 # game/src/plot/deb_shower.rpy:370
 translate zh_hans deb_shower_blowjob1_b4903153:
@@ -898,7 +898,7 @@ translate zh_hans deb_shower_blowjob1a_a83b723d:
 translate zh_hans deb_shower_blowjob1a_1c636b33:
 
     # debbie "Anything for my boy!"
-    debbie "为了我的好男孩，什么都行！"
+    debbie "为了你，什么都行！"
 
 # game/src/plot/deb_shower.rpy:385
 translate zh_hans deb_shower_blowjob1a_530678f8:
@@ -1222,7 +1222,7 @@ translate zh_hans deb_shower_blowjob2_39ee5207:
 translate zh_hans deb_shower_blowjob2_1c636b33:
 
     # debbie "Anything for my boy!"
-    debbie "为了我的好男孩，什么都行！"
+    debbie "为了你，什么都行！"
 
 # game/src/plot/deb_shower.rpy:503
 translate zh_hans deb_shower_blowjob2_530678f8:
@@ -1378,7 +1378,7 @@ translate zh_hans deb_shower_blowjob2_178fcc3b:
 translate zh_hans deb_shower_blowjob2_b4ac0757:
 
     # debbie a_shy e_e "I just took a gallon off you!"
-    debbie a_shy e_e "我刚刚替你解决了足足一加仑的量！"
+    debbie a_shy e_e "我可是刚从你那儿收走了足足一加仑呢！"
 
 # game/src/plot/deb_shower.rpy:552
 translate zh_hans deb_shower_blowjob2_3ed33e1b:
@@ -1528,7 +1528,7 @@ translate zh_hans deb_shower_deny1_863ba297:
 translate zh_hans deb_shower_deny1_11863914:
 
     # anon "I just got carried away."
-    anon "我一时失控了。"
+    anon "我一激动没忍住。"
 
 # game/src/plot/deb_shower.rpy:620
 translate zh_hans deb_shower_deny1_2470c145:
@@ -1546,7 +1546,7 @@ translate zh_hans deb_shower_deny2_da62d961:
 translate zh_hans deb_shower_deny2_2a13de96:
 
     # anon "!!!" with vpunch
-    anon "!!!" with vpunch
+    anon "！！！" with vpunch
 
 # game/src/plot/deb_shower.rpy:639
 translate zh_hans deb_shower_deny2_aae6463f:
@@ -1852,7 +1852,7 @@ translate zh_hans deb_shower_foreplay_a529fedd:
 translate zh_hans deb_shower_foreplay_d3a63a37:
 
     # debbie "Y-you do?"
-    debbie "你……你确定？"
+    debbie "你……你真这么觉得？"
 
 # game/src/plot/deb_shower.rpy:745
 translate zh_hans deb_shower_foreplay_a8f3c1dd:
@@ -1960,7 +1960,7 @@ translate zh_hans deb_shower_handjob1_614e7aef:
 translate zh_hans deb_shower_handjob1_738bb569:
 
     # debbie "I enjoy taking care of my boy."
-    debbie "我就喜欢照顾我的好男孩。"
+    debbie "我就喜欢照顾你。"
 
 # game/src/plot/deb_shower.rpy:787
 translate zh_hans deb_shower_handjob1_015ab450:
@@ -2026,7 +2026,7 @@ translate zh_hans deb_shower_handjob1_8ea7403f:
 translate zh_hans deb_shower_handjob1_78e85f9f:
 
     # debbie "I just can't get over how big you are..."
-    debbie "我简直无法想象你居然这么大……"
+    debbie "我到现在都还没法相信你居然这么大……"
 
 # game/src/plot/deb_shower.rpy:812
 translate zh_hans deb_shower_handjob1_f84072bf:
@@ -2134,7 +2134,7 @@ translate zh_hans deb_shower_handjob1_60af49fc:
 translate zh_hans deb_shower_handjob1_abd21d0c:
 
     # debbie e_ne od_cum p_lean_hj_cum_02 "Good boy!"
-    debbie e_ne od_cum p_lean_hj_cum_02 "好男孩！"
+    debbie e_ne od_cum p_lean_hj_cum_02 "真乖！"
 
 # game/src/plot/deb_shower.rpy:863
 translate zh_hans deb_shower_handjob1_2c892a1b:
@@ -2152,7 +2152,7 @@ translate zh_hans deb_shower_handjob1_5b1bc33b:
 translate zh_hans deb_shower_handjob1_ec0dfc79:
 
     # debbie "I take good care of my boy, don't I?"
-    debbie "我很会照顾我的好男孩，对吧？"
+    debbie "我把你照顾得不错吧？"
 
 # game/src/plot/deb_shower.rpy:871
 translate zh_hans deb_shower_handjob1_e7559492:
@@ -2566,7 +2566,7 @@ translate zh_hans deb_shower_peek3_cae54f2f:
 translate zh_hans deb_shower_peek3_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "( !!! )" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/deb_shower.rpy:1026
 translate zh_hans deb_shower_peek3_f37d1792:
@@ -2602,7 +2602,7 @@ translate zh_hans deb_shower_peek4_2db17454:
 translate zh_hans deb_shower_peek4_5081afcc:
 
     # anon "( Oh, momma! )"
-    anon "（哦，妈妈！）"
+    anon "（哦，天哪！）"
 
 # game/src/plot/deb_shower.rpy:1042
 translate zh_hans deb_shower_peek4_031ffa0a:
@@ -2614,7 +2614,7 @@ translate zh_hans deb_shower_peek4_031ffa0a:
 translate zh_hans deb_shower_peek4_dbdd5dfd:
 
     # anon "( Oh, it looks like someone is feeling naughty! )"
-    anon "（哦，看来有人兴致很高嘛！）"
+    anon "（哦，看来某人已经想要了！）"
 
 # game/src/plot/deb_shower.rpy:1071
 translate zh_hans deb_shower_peek4_4fdb44af:
@@ -2974,7 +2974,7 @@ translate zh_hans deb_shower_peek4_7f7d0e3e:
 translate zh_hans deb_shower_peek4_c526fcf8:
 
     # debbie "{i}*Gasp*{/i}"
-    debbie "{i}*吸气*{/i}"
+    debbie "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/deb_shower.rpy:1237
 translate zh_hans deb_shower_peek4_218a7799:
@@ -3130,7 +3130,7 @@ translate zh_hans deb_shower_peek4_0865c7f2:
 translate zh_hans deb_shower_peek4_6b715ceb:
 
     # anon f_sad "Sorry, I got carried away."
-    anon f_sad "抱歉，我有点激动了。"
+    anon f_sad "抱歉，我一激动没忍住。"
 
 # game/src/plot/deb_shower.rpy:1294
 translate zh_hans deb_shower_peek4_c73e51fe:

@@ -358,7 +358,7 @@ translate zh_hans jen13_jenny_2e095d4c:
 translate zh_hans jen13_jenny_40441912:
 
     # jenny e_r "Uhh, no?"
-    jenny e_r "呃，不然呢？"
+    jenny e_r "呃，不见得吧。"
 
 # game/src/plot/jen13.rpy:134
 translate zh_hans jen13_jenny_f5568b59:

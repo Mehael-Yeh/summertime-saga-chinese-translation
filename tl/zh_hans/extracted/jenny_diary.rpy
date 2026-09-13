@@ -564,7 +564,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen08_post; page: 1; row: 8
     old "{pen=purple}{size=-2}My regulars keep begging me to do anal stuff too... {pen=navy}{size=-6}{b}GROSS!{/b}{/pen}{/size}{/pen}"
-    new "{pen=purple}{size=-2}我的常客们也一直求我走后门…… {pen=navy}{size=-6}{b}真恶心！{/b}{/pen}{/size}{/pen}"
+    new "{pen=purple}{size=-2}我的常客们也一直求我走后门……{pen=navy}{size=-6}{b}真恶心！{/b}{/pen}{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen08_post; page: 1; row: 9
@@ -1364,7 +1364,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: deb12_debbie; page: 1; row: 3
     old "{rt}{pen=purple}{size=-1}Like seriously... {pen=red}{b}WTF?!{/b}{/pen} {pen=maroon}{b}BARF!{/b}{/pen}{/size}{/pen}{/rt}{space=200}"
-    new "{rt}{pen=purple}{size=-1}说真的…… {pen=red}{b}搞什么鬼？！{/b}{/pen} {pen=maroon}{b}呕！{/b}{/pen}{/size}{/pen}{/rt}{space=200}"
+    new "{rt}{pen=purple}{size=-1}说真的……{pen=red}{b}搞什么鬼？！{/b}{/pen} {pen=maroon}{b}呕！{/b}{/pen}{/size}{/pen}{/rt}{space=200}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: deb12_debbie; page: 1; row: 5

@@ -355,7 +355,7 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | pirozhki | 俄式馅饼 | 结合场景作可理解的食品译名，不音译 |
 | little bunny | 小兔子 | Dimitri 对 Anon 的戏谑性固定称呼 |
 | The Plumber | `The Plumber` | Tony 的旧黑帮绰号，属于人物专名，保持英文原状 |
-| Eddie Four-Fingers / Four-Fingers | `Eddie Four-Fingers`／`Four-Fingers` | 旧黑帮关系的姓名/绰号，保持英文拼写与原文形式 |
+| Eddie Four-Fingers / Four-Fingers | `四指Eddie`／`四指` | 旧黑帮关系的姓名与绰号：保留英文名 `Eddie`，同时保留“四指”这一特征，按中文语序写成“四指Eddie”；单独出现 `Four-Fingers` 时用“四指” |
 | pair of ducks | 一对二 | 骰子/牌桌式比喻，指 Maria 一人对付两名闯入者 |
 | has balls | 有种 | 本义为有胆量；Igor 随后按“蛋蛋”误解，必须保留双层笑点 |
 | Get. / The fuck. / Out of my shop! | 给。／老娘。／滚出我的店！ | 保持三条 Ren’Py 台词，中文连读为“给老娘滚出我的店！” |
@@ -373,7 +373,7 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | dirty Russkies | 俄国杂种 | Tony 的粗俗敌对称呼；按原文保留攻击性，不推广成中性族群称谓 |
 | extra sausage on the side | 另外还加一根“香肠”吗？ | Tina 借披萨配料影射 Anon 的阴茎；用弯引号点明双关，同时保留 Anon 一时没听懂的笑点 |
 
-- `Eddie Four-Fingers` 在本文件恢复为英文原名；不得写作“Eddie·四指”等混合形式。
+- `Eddie Four-Fingers` 按“四指Eddie”处理：英文名保留，绰号特征意译；不得整段保留英文，也不得丢掉“四指”这一特征。
 - `babyface`、`dollface`、`champ` 继续分别固定为“小帅哥”“美人儿”“冠军”。
 - 动态日期 `[saga.time.dow + when]`、`[saga.time.dow + when + 3]` 必须原样保留，只调整外围中文语序。
 
@@ -470,12 +470,12 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | Cosmic Cumics | 宇宙漫画 | 漫画及游戏商店；保留宇宙／科幻风格，与 UI 一致，可称“宇宙漫画店”。原拼写有成人谐趣，不为硬凑双关损害店名自然度 |
 | GooTube | `GooTube` | 视频平台专名，保持英文拼写和大小写，不译作普通“视频网站”或仿照现实平台改名 |
 | VirginLily69 | `VirginLily69` | Lily 的网络主播名，保持英文拼写、数字和大小写 |
-| cosplay / costumes（`lily.rpy`） | cosplay／cosplay服 | 指 Lily 的亚文化爱好及店内新款服装，避免“戏服”造成舞台演出误解；其他剧情中的普通角色扮演仍按场景处理 |
+| cosplay / cosplayer / cosplay community | cosplay／cosplay服／cosplay圈 | Lily 的亚文化爱好、店内新款服装与同好圈子一律保留 cosplay，不写“角色扮演”或“戏服”；`LARPer` 才用“实景角色扮演玩家”，二者不混用 |
 | `huge... fan base`（Lily） | 巨大的……粉丝群 | 保留停顿形成的胸部双关，不把 `fan base` 错译成身体部位，也不能抹掉暧昧 |
 | `forms`（Lily 的身材语境） | 丰满的身材 | 指她难塞进紧身 cosplay 服的丰满曲线，不译成抽象的“形式”或笼统的“身体” |
 | camshow / camshows | 成人直播 | Jenny 线涉及色情表演时明确成人性质，不泛化成普通视频直播 |
 | `fool around`（私人性邀约） | 亲热一下 | 在卧室等明确成人语境中指发生亲密性行为，不译为含混的“玩玩／搞点事情”；任务提示等其他句法仍须按场景处理 |
-| Judith 食物式感叹：`wowie waffles` / `Magnificent muffins` / `Holy honey buns` | 哇哦，华夫饼！／妙极了，松饼！／老天，蜂蜜面包！ | 保留 Judith 幼稚、押头韵又古怪的感叹模式，不统一抹平成普通“太棒了／天哪” |
+| Judith 食物式感叹：`wowie waffles` / `Magnificent muffins` / `Holy honey buns` | 我的华夫饼呀／我的松饼呀／我的蜂蜜面包啊 | 保留 Judith 幼稚、押头韵又古怪的感叹模式与食物意象，不统一抹平成普通“太棒了／天哪” |
 | `Specs.` / `spectacles`（Judith 线） | 眼镜 | `judith.rpy` 的任务菜单指向 `specs_judith.rpy` 眼镜事件；储物柜锁定提示中的 `spectacles` 是 Judith 的私人备用眼镜，不得误作“规格”或“护目镜” |
 | `Bathroom fun.`（Judith 线菜单） | 浴室亲热 | 通过 `choice='stall'` 指向 `jud_stall.rpy` 的私下亲热事件；保留菜单式简短表达，不译成含混的“浴室趣事” |
 | `faptic engine` / `Faptic Engine` | 触觉引擎 | Tori／June 相关任务中的虚构振动部件，可提供皮肤触觉反馈；保持既有译法与大小写变体对应，不拆成普通“发动机” |
@@ -503,7 +503,7 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | footjob / jerk off with feet | 足交／用脚打手枪 | Jenny线按句法处理；动作和射精结果必须明确，不弱化为普通按摩 |
 | lick my toes | 舔我的脚趾 | Jenny 对 Anon 的支配式成人挑逗，不泛化成“舔脚”而丢失具体动作 |
 | boy toy（Jenny） | 小男宠 | Jenny 在成人直播支配 Anon 时使用的性称谓，不译为普通“小玩具” |
-| Princess Jenny | 公主Jenny／公主[saga.cast.jenny] | 支配角色称谓；姓名或变量保持英文原状，内部复述使用中文双引号 |
+| Princess Jenny | [saga.cast.jenny]公主 | 支配角色称谓；按中文语序把姓名或变量放在“公主”前，内部复述使用中文双引号 |
 | cheerleader | 啦啦队员 | 与 `head cheerleader` 区分；泛指啦啦队成员 |
 | head cheerleader | 啦啦队长 | Jenny 过去在大学啦啦队中的身份 |
 | cheerleading uniform / cheer uniform | 啦啦队制服 | Jenny 的大学旧制服；两种英文说法统一 |
@@ -532,7 +532,7 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | `criminal harassment` | 刑事骚扰 | Anon 对 Zana 跟踪、偷窥行为的法律性质描述 |
 | `autograph` | 签名 | Zana 作为 CAMslut 粉丝索要的亲笔签名；与 Jenny “在你脸上签名”的挥拳双关保持一致 |
 | `chick flick` | 女性向电影 | Anon 对 Jenny 所选影片类型的口语评价，不译成贬损女性观众的生硬直译 |
-| `lovey-dovey bullshit` | 卿卿我我的屁话 | Jenny 对恋爱式亲密行为的粗俗贬称；`jen27.rpy` 为拒绝 Anon 的正式约会诉求，`jen_gfe.rpy` 后续复述时保持同一核心语气 |
+| `lovey-dovey bullshit` | 卿卿我我的屁话（说辞）／卿卿我我的破玩意儿（安排、活动） | Jenny 对恋爱式亲密的粗俗贬称；按指代对象区分：`jen27.rpy` 指对方的说辞用“屁话”，`jen_gfe.rpy` 指具体的恋爱式安排或活动用“破玩意儿”，不为字面统一互相替换 |
 | `girlfriend experience` / `girlfriend thing`（Jenny 线） | 女友体验 | Jenny 在第三次拒绝真实恋爱后提出的一晚五百美元假女朋友服务；不能译成“女朋友游戏”，也不能暗示两人已建立正式关系 |
 | `the real thing`（`jen28.rpy`） | 真正的女朋友／真正的恋爱关系 | Anon 拒绝付费假扮安排时提出的关系诉求，不是“真家伙”或性器官 |
 | `girlfriend the shit out of you` | 按语境译为“把女朋友演得极好／提供极好的女友体验” | `girlfriend` 在此被临时动词化，是演技和角色扮演笑点，绝不能误译成性交 |
@@ -792,10 +792,20 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 | `Pas plus!` | 别再打了！ | Vivienne 请求 Ursula 停手；带 `show_lang` 时主对白只显示中文。 |
 | `Connasse!` | 你个贱货！ | Vivienne 对 Ursula 的失控辱骂；带 `show_lang` 时主对白只显示中文。 |
 | `mon bel homme` / `jeune homme` | 我的帅哥／小伙子 | Vivienne 对 Anon 的法语亲昵称呼，按关系阶段保留暧昧程度。 |
+| `Impressionnant!` | 真了不起！ | Vivienne 对第一个来问辅导的学生表示刮目相看；保留法语并加全角括号释义。 |
+| `Ah, quel charmeur!` | 哎呀，真会哄人！ | 被学生夸奖后的调侃；同样保留法语原文并加释义。 |
+| `Ohh, tu me flattes...` | 哦，你真会夸人…… | 同上，保留犹豫、受用的语气。 |
+| `Parlez-vous français?` | 你会说法语吗？ | 上课前用法语发问；保留原文并补中文释义，方便不识法语的玩家。 |
+| `Ça m'excite!` | 这让我兴奋！ | Viv 上完第一堂课后自语；保留法语并补释义，不能整句汉化。 |
+| `Tellement mignon` | 真可爱 | Viv 被 Anon 的紧张逗到时的法语感叹；保留原文并补括注，不能只留中文。 |
 
 ## 第三语言呈现规则与术语
 - 无 `show_lang`：保留第三语言原文，并在后面用全角括号补充中文释义。
 - 有 `show_lang`：主对白只保留自然中文；第三语言文本保留在 `show_lang` 中。
+- 排查第三语言漏译时不能只按重音符号筛选：`quel charmeur`、`tu me flattes`、`parlez-vous`、`oui` 这类没有重音的短语同样必须还原原文并加中文括注（viv01 曾漏掉三处）。
+- 按英语借词处理、不还原法语的情形（不算漏译）：`en Français` 在作业布置里译“用法语”；`Déjà vu`／`protégé` 等早已进入英语；Anon 展示物品的 `Voila!` 译“瞧！”；对 Ursula 的 `Madame` 统一译“夫人”（viv02–viv03 共 5 处）。
+- `Magnifico!`／`Bravo!` 这类单句感叹词早已进入英语口语，按英文处理汉化（ano07“妙极了”、tin_vault／mar_couch“真棒”）；只有 Tony 的 `capisce／capiche` 作为固定口癖保留意大利语并加中文括注，两者不要互相套用。
+- 西班牙语辱骂保留原文并加中文括注：`culo` 作“culo（屁眼）”（viv02 中 Val 两次），`PUTA!` 作“PUTA!（婊子！）”（jud02）。书名 `Chola's Tricks` 统一作《Chola的招数》，不音译成“乔拉”，因为 Anon 紧接着要问“Chola 到底是什么”。
 
 ### 通用第三语言词汇
 

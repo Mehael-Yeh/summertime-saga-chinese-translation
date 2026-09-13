@@ -1150,7 +1150,7 @@ translate zh_hans jen_shower_blowjob_ac5f9504:
 translate zh_hans jen_shower_blowjob_ca4ffe97:
 
     # anon "{i}*Gasp*{/i}"
-    anon "{i}*倒吸一口凉气*{/i}"
+    anon "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/jen_shower.rpy:505
 translate zh_hans jen_shower_blowjob_e449e949:
@@ -1396,7 +1396,7 @@ translate zh_hans jen_shower_blowjob_afaf8fde:
 translate zh_hans jen_shower_blowjob_5107d275:
 
     # jenny "{i}*Sluuuuurp*{/i}"
-    jenny "{i}*吸溜*{/i}"
+    jenny "{i}*吸溜——*{/i}"
 
 # game/src/plot/jen_shower.rpy:576
 translate zh_hans jen_shower_blowjob_e1d3678b:

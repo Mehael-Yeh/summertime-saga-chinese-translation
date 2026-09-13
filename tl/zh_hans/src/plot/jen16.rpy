@@ -232,7 +232,7 @@ translate zh_hans jen16_scope_b8e310ed:
 translate zh_hans jen16_scope_53c03479:
 
     # jenny a_up e_b f_calm m_laugh @ -m_talk "It's like a little league baseball bat!"
-    jenny a_up e_b f_calm m_laugh @ -m_talk "简直跟根少年棒球棒一样！"
+    jenny a_up e_b f_calm m_laugh @ -m_talk "简直就像根少年棒球棒！"
 
 # game/src/plot/jen16.rpy:99
 translate zh_hans jen16_scope_659ffbfd:
@@ -472,7 +472,7 @@ translate zh_hans jen16_scope_alt_b8e310ed:
 translate zh_hans jen16_scope_alt_53c03479:
 
     # jenny a_up e_b f_calm m_laugh @ -m_talk "It's like a little league baseball bat!"
-    jenny a_up e_b f_calm m_laugh @ -m_talk "简直跟根少年棒球棒一样！"
+    jenny a_up e_b f_calm m_laugh @ -m_talk "简直就像根少年棒球棒！"
 
 # game/src/plot/jen16.rpy:184
 translate zh_hans jen16_scope_alt_294b1764:
@@ -1228,7 +1228,7 @@ translate zh_hans jen16_jenny_alt_5d43a75c:
 translate zh_hans jen16_jenny_alt_ac169fe2:
 
     # anon f_worried @ f_sceptical "If you're gonna act like a bitch, then you can forget my help."
-    anon f_worried @ f_sceptical "你要是还这么刻薄，就别想让我帮忙。"
+    anon f_worried @ f_sceptical "你要是还这么撒泼，就别想让我帮忙。"
 
 # game/src/plot/jen16.rpy:410
 translate zh_hans jen16_jenny_alt_a0c4573f:
@@ -1456,7 +1456,7 @@ translate zh_hans jen16_jenny_alt_19e8c45a:
 translate zh_hans jen16_jenny_alt_a8f87274:
 
     # jenny a_facepalm "{i}*Sigh*{/i} Just go to the mall and find a mask!"
-    jenny a_facepalm "{i}*唉*{/i} 去商场找个面具就行了！"
+    jenny a_facepalm "{i}*叹气*{/i} 去商场找个面具就行了！"
 
 # game/src/plot/jen16.rpy:454
 translate zh_hans jen16_jenny_alt_dbabca09:

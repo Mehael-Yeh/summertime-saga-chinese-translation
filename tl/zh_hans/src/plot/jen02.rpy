@@ -202,7 +202,7 @@ translate zh_hans jen02_lobby_ecd73b44:
 translate zh_hans jen02_lobby_47550adf:
 
     # debbie "Do you always have to turn everything into a big drama?!"
-    debbie "你非得什么事都闹得跟天塌了一样吗？！"
+    debbie "你非得什么事都闹成这样吗？！"
 
 # game/src/plot/jen02.rpy:64
 translate zh_hans jen02_lobby_2060eb9d:
@@ -292,7 +292,7 @@ translate zh_hans jen02_lobby_8106d343:
 translate zh_hans jen02_lobby_76afd1ab:
 
     # debbie "You're such a good boy."
-    debbie "你真是个好男孩。"
+    debbie "你真是个好孩子。"
 
 # game/src/plot/jen02.rpy:92
 translate zh_hans jen02_lobby_b0b7ad4f:

@@ -22,7 +22,7 @@ translate zh_hans mia_school_science_intro_0c66d934:
 translate zh_hans mia_school_science_intro_df80294f:
 
     # mia "Not really looking forward to my next class."
-    mia "就是不太期待下一节课。"
+    mia "就是不太想上下一节课。"
 
 # game/src/plot/mia.rpy:43
 translate zh_hans mia_school_science_intro_4d534a85:

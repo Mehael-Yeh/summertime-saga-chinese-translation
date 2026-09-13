@@ -148,7 +148,7 @@ translate zh_hans tin_dusk_delay_tina_51b913fc:
 translate zh_hans tin_dusk_lounge_bca3ac64:
 
     # "*Knock* *Knock*"
-    "*敲* *敲*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/tin_dusk.rpy:98
 translate zh_hans tin_dusk_lounge_66661339:

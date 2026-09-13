@@ -16,7 +16,7 @@ translate zh_hans june_school_tech_intro1_ed05768b:
 translate zh_hans june_school_tech_intro1_a8916491:
 
     # june "What's up?"
-    june "有什么事吗？"
+    june "怎么啦？"
 
 # game/src/plot/june.rpy:48
 translate zh_hans june_school_tech_intro2_63c15357:

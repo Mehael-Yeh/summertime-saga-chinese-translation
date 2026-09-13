@@ -436,7 +436,7 @@ translate zh_hans ano06_debbies_67c488a7:
 translate zh_hans ano06_debbies_merge_bf80d5ab:
 
     # anon e_w f_surprised @ -m_talk "!!!" with hpunch
-    anon e_w f_surprised @ -m_talk "!!!" with hpunch
+    anon e_w f_surprised @ -m_talk "！！！" with hpunch
 
 # game/src/plot/ano06.rpy:162
 translate zh_hans ano06_debbies_merge_2e5510a7:
@@ -1000,7 +1000,7 @@ translate zh_hans ano06_debbies_merge_bd8c3e83:
 translate zh_hans ano06_debbies_merge_ff1a09d7:
 
     # tony "{i}*Sigh*{/i} Christ... that's rough."
-    tony "{i}*叹气*{/i} 妈的……这可真够惨的。"
+    tony "{i}*叹气*{/i} 老天……这可真够惨的。"
 
 # game/src/plot/ano06.rpy:309
 translate zh_hans ano06_debbies_merge_f24e65bc:
@@ -1360,7 +1360,7 @@ translate zh_hans ano06_debbies_merge_15d8b19f:
 translate zh_hans ano06_debbies_merge_578d8a64:
 
     # anon @ e_b f_happy m_laugh "It was amazing!!"
-    anon @ e_b f_happy m_laugh "简直太厉害了！"
+    anon @ e_b f_happy m_laugh "简直太厉害了！！"
 
 # game/src/plot/ano06.rpy:423
 translate zh_hans ano06_debbies_merge_791d349e:
@@ -1570,7 +1570,7 @@ translate zh_hans ano06_debbies_merge_8482650d:
 translate zh_hans ano06_debbies_merge_1dd1f7ca:
 
     # anon f_shocked m_open @ -m_talk "!!!" with hpunch
-    anon f_shocked m_open @ -m_talk "!!!" with hpunch
+    anon f_shocked m_open @ -m_talk "！！！" with hpunch
 
 # game/src/plot/ano06.rpy:470
 translate zh_hans ano06_debbies_merge_b72039d1:
@@ -1732,7 +1732,7 @@ translate zh_hans ano06_debbies_merge_0caf6151:
 translate zh_hans ano06_debbies_merge_dc66e225:
 
     # jenny f_angry m_teeth "Yes, it is!!"
-    jenny f_angry m_teeth "就是会！"
+    jenny f_angry m_teeth "就是会！！"
 
 # game/src/plot/ano06.rpy:511
 translate zh_hans ano06_debbies_merge_77ce9344:

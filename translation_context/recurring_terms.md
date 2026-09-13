@@ -28,17 +28,18 @@
 | Tony 的 `champ` | 人物专属称呼 | 冠军 | 173 处 / 13 个文件 | `ano09.rpy`、`pizza_boxes.rpy`、`ton_baby.rpy` 与 `tony.rpy` 已统一；当前已复核文件中无旧译残留 |
 | Tina 的 `babyface` | 人物专属称呼 | 小帅哥 | 42 处 / 10 个文件 | `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 的称呼已统一；非称呼用法按具体指代自然翻译，不机械使用“娃娃脸” |
 | Maria/Tony 的 `dollface` | 老派亲昵称呼 | 美人儿 | 3 处 / 3 个文件 | `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 已全部统一 |
+| `good boy` 家族 | 夸奖／支配式亲昵 | `That's my good boy`→这才乖嘛；`That's my boy`→这才对嘛；`You're such a good boy`→你真是个好孩子；短夸奖 `Good boy`→真乖 | 19 处 / 12 个文件 | 2026-09-13 全库收敛并通过审计；`jen_shower` 的狗化玩笑、条件句和第三人称句由 `source_exceptions` 保留原译 |
 | `The Blue Falcon` | 车辆专名 | 蓝色猎鹰号 | 6 处 / 1 个文件 | `ano09.rpy` 全部一致 |
 | `The Sapphire Stallion` | 车辆候选名 | 蓝宝石种马号 | 2 处 / 1 个文件 | `ano09.rpy` 全部一致 |
 | `The Overcompensator` | 车辆专名/笑点 | 过度补偿者 | 4 处 / 2 个文件 | `ano09.rpy`、`jos_trade.rpy` 当前核心译名一致 |
 | `Mini Vulva` | 车辆专名/色情双关 | 迷你外阴 | `jos_trade.rpy` 3 处 | 车型名三处统一；不漂移为“迷你小穴／迷你小阴唇” |
-| `SL-700 Crotch Rocket` | 车辆专名/色情双关 | SL-700 胯下火箭 | `jos_trade.rpy` 2 处 | 纯电动踏板车车型名；保留胯下／高速摩托双关 |
+| `SL-700 Crotch Rocket` | 车辆专名/色情双关 | SL-700胯下火箭 | `jos_trade.rpy` 2 处 | 纯电动踏板车车型名；编号与中文之间不加空格，保留胯下／高速摩托双关 |
 | Tony 的 `capisce` | 人物口癖 | 懂了没？／明白吗？ | 25 处 / 10 个文件 | 允许按威胁、催促、确认语气微调，但必须保留 Tony 的固定语用功能 |
 | Tony 对 Anon 的 `protégé` | 关系定位 | 徒弟 | 5 处 / 3 个文件 | `ano10.rpy`、`ano11.rpy` 已统一；只剩 `tin_vault.rpy` 待随完整场景复核 |
 | `cannoli`（食品） | 食品术语 | 意式奶油甜馅卷 | 4 处食品用法 / 4 个文件 | `ano10.rpy`、`mar_cook.rpy`、`mar_baby.rpy`、`mar_dark.rpy` 已复核；`Holy cannoli` 感叹语排除 |
 | `mustache ride` | 成人双关 | 骑胡子 | 4 处 / 2 个文件 | `ano10.rpy`、`ano15.rpy` 已全部复核并统一，保留早期 Anon 不懂含义的笑点 |
 | Tony 的 `The Plumber` | 人物旧绰号 | 保持 `The Plumber` | 1 处 / 1 个文件 | `ano11.rpy` 已确认是旧黑帮专名，不翻译、不音译 |
-| `Eddie Four-Fingers` / `Four-Fingers` | 人物姓名/绰号 | 保持英文原形 | 3 处 / 2 个文件 | `ano11.rpy`、`ano13.rpy` 已统一，中文音译/混合写法已清除 |
+| `Eddie Four-Fingers` / `Four-Fingers` | 人物姓名/绰号 | 四指Eddie／四指 | 3 处 / 2 个文件 | `ano11.rpy`、`ano13.rpy` 已统一为“四指Eddie”，保留英文名与绰号特征 |
 | Dimitri 的 `little bunny` | 戏谑性固定称呼 | 小兔子 | 11 处 / 4 个文件 | `ano03.rpy`、`ano06.rpy`、`ano11.rpy` 已确认；`deb18.rpy` 3 处列入后续队列 |
 | `borscht` | 俄式食品 | 罗宋汤 | 2 处 / 1 个文件 | `ano11.rpy` 两处已统一，并登记防止后续漂移 |
 | `prosciutto` | 食品术语 | 意式风干火腿 | 4 处 / 1 个文件 | `ano13.rpy` 四处连续配料台词已统一 |
@@ -96,7 +97,7 @@
 | `stalker` | 人物定性 | 跟踪狂 | `jen25.rpy`、`jen26.rpy` 及后续相关文件 | 指反复尾随、躲在树篱中用望远镜偷窥 Jenny 的人；与动作 `stalking`“跟踪”区分 |
 
 | `gummy worms` | 重复零食名称 | 虫形软糖 | `jen26.rpy` | 邀约、确认约会和电影院购买时多次出现，保持同一名称 |
-| `lovey-dovey bullshit` | Jenny 线恋爱排斥口吻 | 卿卿我我的屁话 | `jen27.rpy`、`jen_gfe.rpy` | Jenny 用粗俗语气贬低恋爱式亲密；两处已按关系阶段统一 |
+| `lovey-dovey bullshit` | Jenny 线恋爱排斥口吻 | 卿卿我我的屁话（说辞）／卿卿我我的破玩意儿（安排、活动） | `jen27.rpy`、`jen_gfe.rpy` | 按指代对象区分：骂对方的说法用“屁话”，指具体恋爱式安排或活动用“破玩意儿”，不为字面统一互相替换 |
 | `girlfriend experience` | Jenny 线付费关系安排 | 女友体验 | `jen_gfe.rpy`（概念始于 `jen28.rpy`） | `jen28.rpy` 建立一晚五百美元的假女朋友服务，`jen_gfe.rpy` 正式命名；不得写成真实女友身份 |
 | `Pals` | 虚构电视节目专名 | 《好友》 | `jen_gfe.rpy` | Jenny 与 Debbie 童年常看的老情景喜剧；两次提及保持一致，Matt、Courtney 等剧中人物姓名保持英文 |
 | `gawked at` | Jenny 成人直播边界 | 被人围观 | `jen_cam.rpy` | Jenny 拒绝的是面对观众表演；与仍愿意私下让 Anon 舔屄形成对比 |
@@ -108,7 +109,7 @@
 | `skinny dipping` | 裸泳活动 | 裸泳 | `deb23.rpy`、`jen_pool.rpy` | 指不穿泳衣游泳，两条剧情线保持同一核心译法 |
 
 | `Wanna fool around?` / `You wanna fool around?` | 私人性邀约 | 亲热一下 | 8 处 / 5 个文件 | Jenny 线、`deb_sink.rpy` 与 `jud_stall.rpy` 已按完整场景统一；按句法使用“想不想／还想不想亲热一下” |
-| `wowie waffles` / `Magnificent muffins` / `Holy honey buns` | Judith 的食物式感叹 | 哇哦，华夫饼！／妙极了，松饼！／老天，蜂蜜面包！ | `jud02.rpy`、`jud_stall.rpy` | 保留幼稚、押头韵又古怪的角色口癖，不抹平成普通感叹 |
+| `wowie waffles` / `Magnificent muffins` / `Holy honey buns` | Judith 的食物式感叹 | 我的华夫饼呀／我的松饼呀／我的蜂蜜面包啊 | `jud02.rpy`、`jud_stall.rpy` | 保留幼稚、押头韵又古怪的角色口癖与食物意象，不抹平成普通感叹 |
 | `Specs.` / `spectacles` | Judith 眼镜任务入口与物品称呼 | 眼镜 | `judith.rpy`、`specs_judith.rpy` | 菜单 `Specs.` 与储物柜中的私人备用眼镜均译“眼镜”，不按“规格”或“护目镜”处理 |
 | `Bathroom fun.` | Judith 私下亲热任务入口 | 浴室亲热 | `judith.rpy`、`jud_stall.rpy` | `choice='stall'` 指向更衣室隔间亲热事件；菜单保持简短明确 |
 | `faptic engine` / `Faptic Engine` | Tori／June 任务中的虚构触觉振动部件 | 触觉引擎 | `june.rpy`、`tori.rpy`、`tor03.rpy` | 菜单、询问、拆取和交付场景统一；后续完整通读相关文件时复核句法 |
@@ -127,7 +128,7 @@
 | `BEEP BOOP!` | Konty 机器人提示音 | 哔——啵！ | `konty.rpy`、`tor01.rpy` | 与 Anon 反向回应的 `BOOP BEEP!` 区分并保持顺序 |
 | `BOOP BEEP!` | Anon 模仿机器人语的反向回应 | 啵——哔！ | `konty.rpy` | 必须与前一句 `BEEP BOOP!` 形成音节倒序 |
 
-| `Princess [saga.cast.jenny]` | Jenny 支配角色称谓 | 公主[saga.cast.jenny] | 9 处 / 5 个文件 | `jen21.rpy`、`jen24.rpy`、`jen_pool.rpy`、`jen_shower.rpy`、`jen_tv.rpy` 已统一；姓名变量保持原样，内部复述使用中文双引号 |
+| `Princess [saga.cast.jenny]` | Jenny 支配角色称谓 | [saga.cast.jenny]公主 | 9 处 / 5 个文件 | `jen21.rpy`、`jen24.rpy`、`jen_pool.rpy`、`jen_shower.rpy`、`jen_tv.rpy` 已统一；按中文语序把变量放在“公主”前，内部复述使用中文双引号 |
 
 | `sex goddess` | Jenny 成人角色称谓 | 性爱女神 | `jenny_laptop.rpy`、`jen20.rpy`、`jen26.rpy`、`jen_cam.rpy`、`jen_baby.rpy` 等 | 从早期个人成人直播到后续共同直播、性交自夸和孕期表演均保持同一角色称谓 |
 | `camgirl` | 成人直播从业者 | 成人女主播 | `jen15.rpy`、`jenny.rpy` | 指女性成人直播从业者；与平台专名 `CAMslut` 及泛称 `camslut` 区分 |
@@ -159,7 +160,7 @@
 | jenny_boyfriend | boyfriend；成对语境中的 boyfriend and girlfriend | 男朋友；男女朋友 | 单独关系标签使用“男朋友”；成对表达允许自然译为“男女朋友”，避免破坏中文成对称谓。 |
 | jenny_cheer_uniform | cheer uniform / cheerleading uniform | 啦啦队制服 | 资源名和剧情道具统一使用“啦啦队制服”。 |
 | vehicle_mini_vulva | Mini Vulva key | 迷你外阴钥匙 | 保留道具的“钥匙”功能，不简化为仅“迷你外阴”。 |
-| vehicle_crotch_rocket | SL-700 Crotch Rocket key | SL-700 胯下火箭钥匙 | 保留车型编号和钥匙功能，统一双关译法。 |
+| vehicle_crotch_rocket | SL-700 Crotch Rocket key | SL-700胯下火箭钥匙 | 保留车型编号和钥匙功能，统一双关译法；编号与中文之间不加空格。 |
 
 ### 补充字符串统一项
 
@@ -182,7 +183,7 @@
 - `T-straps`：Josie 在半价促销中反复寻找的露趾鞋款统一为“T字带凉鞋”。
 - `Hattori Hanzō`：人物姓名保持英文原状，不翻译为“服部半藏”。
 - `Mini Vulva`：小型汽车的色情双关车型名统一为“迷你外阴”，三处保持一致。
-- `SL-700 Crotch Rocket`：纯电动踏板车车型名统一为“SL-700 胯下火箭”，保留 `crotch rocket` 的双关。
+- `SL-700 Crotch Rocket`：纯电动踏板车车型名统一为“SL-700胯下火箭”，保留 `crotch rocket` 的双关。
 - `poor boy`：Yoo 针对 Anon 贫穷身份的固定辱称统一为“穷小子”，不写成表示同情的“可怜的小子”。
 - `Employee of the month`／`Emproyee of month`：统一为“月度最佳员工”；原文拼写差异只体现 Yoo 的破碎英语，不另造中文错字。
 | `Brazilian Bum Bum` / `Brazilian Bum Bum Cream` | Debbie 线润肤露产品名 | 巴西Bum Bum／巴西Bum Bum润肤霜 | `deb06.rpy`、`deb07.rpy`、`deb_mall.rpy`、`misc_lotion.rpy` | 保留产品名中的英文 `Bum Bum`；省略 `Cream` 时不擅自补产品类型，也不得直译成“巴西翘臀” |

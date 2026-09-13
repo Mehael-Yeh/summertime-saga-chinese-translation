@@ -28,7 +28,7 @@ translate zh_hans debbie_rug_alt_d027802f:
 translate zh_hans debbie_rug_alt_49e95aae:
 
     # jenny "... Amethyst encrusted..."
-    jenny "……紫晶盖着……"
+    jenny "……镶满紫水晶……"
 
 # game/src/plot/debbie_rug.rpy:13
 translate zh_hans debbie_rug_alt_e35dcf86:
@@ -70,7 +70,7 @@ translate zh_hans debbie_rug_alt_696feccd:
 translate zh_hans debbie_rug_alt_185bce82:
 
     # jenny "... Fill me up!"
-    jenny "…… 填满我吧！"
+    jenny "……填满我吧！"
 
 # game/src/plot/debbie_rug.rpy:22
 translate zh_hans debbie_rug_alt_abca737e:
@@ -202,7 +202,7 @@ translate zh_hans debbie_rug_play_6eea506d:
 translate zh_hans debbie_rug_play_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "( !!! )" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/debbie_rug.rpy:107
 translate zh_hans debbie_rug_play_0b49ff75:
@@ -400,5 +400,5 @@ translate zh_hans debbie_rug_sleep_df92c5c0:
 translate zh_hans debbie_rug_sleep_0f9f4bc5:
 
     # anon "( ... Not at all like the bitchzilla she really is! )"
-    anon "（……一点也不像她真正的泼妇样！）"
+    anon "（……完全不像她平时那副母夜叉样！）"
 

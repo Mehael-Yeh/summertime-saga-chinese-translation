@@ -10,7 +10,7 @@ translate zh_hans dexter_court_main_intro_2768b93b:
 translate zh_hans dexter_court_main_intro_a2cd2128:
 
     # dexter "What do you want, twerp?"
-    dexter "你想要什么，小屁孩？"
+    dexter "你想干什么，小屁孩？"
 
 # game/src/plot/dexter.rpy:36
 translate zh_hans dexter_court_main_outro_8faeb359:

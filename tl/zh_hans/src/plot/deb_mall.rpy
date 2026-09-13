@@ -1336,7 +1336,7 @@ translate zh_hans deb_mall_debbie_blowjob_a7a6e118:
 translate zh_hans deb_mall_debbie_blowjob_72c8bf8d:
 
     # anon @ m_pant "Hooo, boy!"
-    anon @ m_pant "呼，好家伙！"
+    anon @ m_pant "呼，天哪！"
 
 # game/src/plot/deb_mall.rpy:572
 translate zh_hans deb_mall_debbie_blowjob_d4a62ad4:
@@ -1810,7 +1810,7 @@ translate zh_hans deb_mall_debbie_deny2_2db705c8:
 translate zh_hans deb_mall_debbie_deny2_0686f373:
 
     # debbie "That's my good boy."
-    debbie "这才是我的乖孩子。"
+    debbie "这才乖嘛。"
 
 # game/src/plot/deb_mall.rpy:737
 translate zh_hans deb_mall_debbie_deny2_847b84df:
@@ -2182,7 +2182,7 @@ translate zh_hans deb_mall_debbie_garage_dd99cfc8:
 translate zh_hans deb_mall_debbie_garage_3f17bc5e:
 
     # debbie a_cum e_s f_shy p_car_turn -m_lip "Oh, good boy!"
-    debbie a_cum e_s f_shy p_car_turn -m_lip "哦，乖孩子！"
+    debbie a_cum e_s f_shy p_car_turn -m_lip "哦，真乖！"
 
 # game/src/plot/deb_mall.rpy:902
 translate zh_hans deb_mall_debbie_garage_aa33b431:
@@ -3286,7 +3286,7 @@ translate zh_hans deb_mall_garage_b0e92327:
 translate zh_hans deb_mall_garage_1130ff8e:
 
     # debbie "You're such a good boy!"
-    debbie "你真是个好男孩！"
+    debbie "你真是个好孩子！"
 
 # game/src/plot/deb_mall.rpy:1302
 translate zh_hans deb_mall_garage_a68c3d22:

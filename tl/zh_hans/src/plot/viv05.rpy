@@ -262,7 +262,7 @@ translate zh_hans viv05_office5_ca182b59:
 translate zh_hans viv05_office5_83b6ae8b:
 
     # viv "Ça me saoûle."
-    viv "真烦人。"
+    viv "Ça me saoûle（这酒可真上头）。"
 
 # game/src/plot/viv05.rpy:153
 translate zh_hans viv05_office5_c2aad71d:
@@ -406,7 +406,7 @@ translate zh_hans viv05_office5_reuse_513445c5:
 translate zh_hans viv05_office5_reuse_d77543e9:
 
     # viv "Oh mon dieu! C'est beau..."
-    viv "Oh mon dieu!（天哪！）C'est beau…（真漂亮……）"
+    viv "Oh mon dieu!（天哪！）C'est beau……（真漂亮……）"
 
 # game/src/plot/viv05.rpy:232
 translate zh_hans viv05_office5_reuse_b48e4f27:
@@ -424,7 +424,7 @@ translate zh_hans viv05_office5_reuse_44724074:
 translate zh_hans viv05_office5_reuse_5a29586c:
 
     # viv "S'il te plaît!"
-    viv "求你了！"
+    viv "S'il te plaît!（求你了！）"
 
 # game/src/plot/viv05.rpy:241
 translate zh_hans viv05_office5_reuse_f55e2e73:
@@ -472,7 +472,7 @@ translate zh_hans viv05_office5_reuse_b446636c:
 translate zh_hans viv05_office5_reuse_18cd361a:
 
     # viv "Ah, ma chatte toute serrée a envie de ta grosse bite bien juteuse."
-    viv "啊，我紧窄的骚屄正渴望你那根又粗又多汁的大鸡巴。"
+    viv "Ah, ma chatte toute serrée a envie de ta grosse bite bien juteuse.（啊，我紧窄的骚屄正渴望你那根又粗又多汁的大鸡巴。）"
 
 # game/src/plot/viv05.rpy:283
 translate zh_hans viv05_office5_reuse_e642de50:
@@ -496,7 +496,7 @@ translate zh_hans viv05_office5_reuse_4bed42ad:
 translate zh_hans viv05_office5_reuse_54476d25:
 
     # viv "Ohh, elle est si grosse!"
-    viv "哦，它太粗大了！"
+    viv "Ohh, elle est si grosse!（哦，它太粗大了！）"
 
 # game/src/plot/viv05.rpy:295
 translate zh_hans viv05_office5_reuse_5d4cba15:
@@ -556,7 +556,7 @@ translate zh_hans viv05_office5_reuse_a24f0080:
 translate zh_hans viv05_office5_reuse_59d303f5:
 
     # viv "Ohh, elle est toujours aussi grosse!"
-    viv "哦，它还是这么粗大！"
+    viv "Ohh, elle est toujours aussi grosse!（哦，它还是这么粗大！）"
 
 # game/src/plot/viv05.rpy:321
 translate zh_hans viv05_office5_reuse_c59fb785:

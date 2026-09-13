@@ -225,7 +225,7 @@
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
       "source": "Self-Voicing Volume Drop",
-      "target": "朗读时背景音量降低"
+      "target": "自动朗读时背景音量降低"
     },
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
@@ -245,7 +245,7 @@
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
       "source": "self voicing volume drop",
-      "target": "朗读时背景音量降低"
+      "target": "自动朗读时背景音量降低"
     },
     {
       "file": "tl/zh_hans/base_box/common_box.rpy",
@@ -525,7 +525,7 @@
     {
       "file": "tl/zh_hans/src/menu/pref.rpy",
       "source": "Self-voicing volume drop",
-      "target": "朗读时背景音量降低"
+      "target": "自动朗读时背景音量降低"
     },
     {
       "file": "tl/zh_hans/src/plot/gym_workout.rpy",
@@ -1830,7 +1830,7 @@
     {
       "file": "tl/zh_hans/src/plot/mar_couch.rpy",
       "source": "{i}*Sigh*{/i} You and your baseball.",
-      "target": "{i}*叹息*{/i} 你呀，满脑子都是棒球。"
+      "target": "{i}*叹气*{/i} 你呀，满脑子都是棒球。"
     },
     {
       "file": "tl/zh_hans/src/plot/mar_couch.rpy",
@@ -3669,13 +3669,13 @@
     {
       "file": "tl/zh_hans/src/plot/diane_plot.rpy",
       "source": "( Trying to garden in this failing light doesn't seem like a good idea. )",
-      "target": "（天都快黑了，这会儿下地干活可不合适。）",
+      "target": "（天都快黑了，这会儿打理花园可不合适。）",
       "id": "diane_plot_late_9da76eed"
     },
     {
       "file": "tl/zh_hans/src/plot/diane_plot.rpy",
       "source": "( Trying to garden in the dark really doesn't seem like a good idea. )",
-      "target": "（黑灯瞎火的，还是别下地干活了。）",
+      "target": "（黑灯瞎火的，还是别打理花园了。）",
       "id": "diane_plot_late_ce703898"
     },
     {
@@ -3770,7 +3770,7 @@
     {
       "file": "tl/zh_hans/src/plot/tina.rpy",
       "source": "( Now {i}that's{/i} a woman. )",
-      "target": "（这{i}才{/i}叫有女人味。）",
+      "target": "（这{i}才{/i}叫女人。）",
       "id": "tina_bank_lobby_intro1a_40d72c32"
     },
     {
@@ -4178,7 +4178,7 @@
     {
       "file": "tl/zh_hans/src/plot/dia01.rpy",
       "source": "Well, don't be timid, [saga.cast.anon].",
-      "target": "别拘束，[saga.cast.anon]。",
+      "target": "别害羞，[saga.cast.anon]。",
       "id": "dia01_outro_diane_b30e33e1"
     },
     {
@@ -5066,7 +5066,7 @@
     {
       "file": "tl/zh_hans/src/plot/ano03.rpy",
       "source": "I guess apple can fall far from tree.",
-      "target": "看来儿子，也不一定像老子。",
+      "target": "看来儿子也不一定像老子。",
       "id": "ano03_dimitri_73ce88fc"
     },
     {
@@ -5324,7 +5324,7 @@
     {
       "file": "tl/zh_hans/src/plot/tin_baby.rpy",
       "source": "Can I get you anything?",
-      "target": "需要我帮你做点什么吗？",
+      "target": "要我给你拿点什么吗？",
       "id": "tin_baby_belly_misc2_823e5694"
     },
     {
@@ -5694,7 +5694,7 @@
     {
       "file": "tl/zh_hans/src/plot/tor04.rpy",
       "source": "Yess!! YessSssss!!!",
-      "target": "是！！是——！！！",
+      "target": "对！！对——！！！",
       "id": "tor04_tori_6cc7b6e7"
     },
     {
@@ -5748,7 +5748,7 @@
     {
       "file": "tl/zh_hans/src/plot/tor05.rpy",
       "source": "... You think?",
-      "target": "……你想？",
+      "target": "……你确定？",
       "id": "tor05_tori1_f921b2e7"
     },
     {
@@ -5878,7 +5878,7 @@
     {
       "file": "tl/zh_hans/src/plot/mel01.rpy",
       "source": "T-there you are. It's open...",
-      "target": "好——好了，打开了……",
+      "target": "好、好了，打开了……",
       "id": "mel01_hall1w_f29af223"
     },
     {
@@ -6340,7 +6340,7 @@
     {
       "file": "tl/zh_hans/src/plot/deb14.rpy",
       "source": "( [saga.cast.debbie] seemed surprisingly agreeable with everything that went on down there... )",
-      "target": "（没想到[saga.cast.debbie]似乎并不介意刚才发生的那些事……）",
+      "target": "（没想到[saga.cast.debbie]对刚才那些事居然还挺配合……）",
       "id": "deb14_outro_bath1_6a305926"
     },
     {
@@ -8794,7 +8794,7 @@
     {
       "file": "tl/zh_hans/res/meta/prop.rpy",
       "source": "This is just the ticket to help unmask [saga.cast.jenny]'s stalker.",
-      "target": "这正是查清跟踪[saga.cast.jenny]那家伙身份的好线索。",
+      "target": "有了这个，就能查出[saga.cast.jenny]的跟踪狂到底是谁。",
       "id": "strings"
     },
     {
@@ -9829,7 +9829,7 @@
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
       "source": "If you're gonna act like a bitch, then you can forget my help.",
-      "target": "你要是还这么刻薄，就别想让我帮忙。"
+      "target": "你要是还这么撒泼，就别想让我帮忙。"
     },
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
@@ -9904,7 +9904,7 @@
     {
       "file": "tl/zh_hans/src/plot/jen17.rpy",
       "source": "These replica masks are going to be a huge hit with our cosplay community!",
-      "target": "这些同款面具，玩角色扮演的肯定都喜欢！"
+      "target": "这些同款面具肯定会在cosplay圈大受欢迎！"
     },
     {
       "file": "tl/zh_hans/src/plot/jen17.rpy",

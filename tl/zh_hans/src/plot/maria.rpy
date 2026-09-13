@@ -343,4 +343,4 @@ translate zh_hans strings:
 
     # game/src/plot/maria.rpy:73
     old "Just saying hi."
-    new "只是来打招呼。"
+    new "只是来打招呼"

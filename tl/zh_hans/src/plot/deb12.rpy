@@ -256,7 +256,7 @@ translate zh_hans deb12_debbie_ce92124d:
 translate zh_hans deb12_debbie_7653a3a9:
 
     # anon "... You're so good at kissing and I imagine you could teach me a lot about what women like, ya know?"
-    anon "……你太会接吻了。我想你一定能教我很多，比如女人都喜欢怎样的吻，对吧？"
+    anon "……你太会接吻了。我想你一定有很多能教我的，比如女人都喜欢什么，对吧？"
 
 # game/src/plot/deb12.rpy:116
 translate zh_hans deb12_debbie_995df9b3:
@@ -286,7 +286,7 @@ translate zh_hans deb12_debbie_merge_d9e201d3:
 translate zh_hans deb12_debbie_merge_15073246:
 
     # anon "It would definitely help if I knew how to kiss a girl properly, wouldn't it?"
-    anon "要是连怎么好好吻一个女孩都不知道，约会也不会顺利吧？"
+    anon "要是我能学会怎么好好吻女孩，肯定会对我有帮助吧？"
 
 # game/src/plot/deb12.rpy:135
 translate zh_hans deb12_debbie_merge_374dfb92:

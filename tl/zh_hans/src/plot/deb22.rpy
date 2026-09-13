@@ -178,7 +178,7 @@ translate zh_hans deb22_visit_2456a20c:
 translate zh_hans deb22_visit_d3a9231e:
 
     # debbie @ -m_talk "( This... {i}*thing*{/i}... )"
-    debbie @ -m_talk "（这根……{i}大家伙{/i}……）"
+    debbie @ -m_talk "（这根……{i}*大家伙*{/i}……）"
 
 # game/src/plot/deb22.rpy:67
 translate zh_hans deb22_visit_7204a83b:
@@ -610,7 +610,7 @@ translate zh_hans deb22_bed1_552e7de9:
 translate zh_hans deb22_bed1_8957d5ee:
 
     # anon f_shy_surprised "Scouts honor."
-    anon f_shy_surprised "童子军发誓。"
+    anon f_shy_surprised "我拿童子军的名誉保证。"
 
 # game/src/plot/deb22.rpy:210
 translate zh_hans deb22_bed1_32050bb1:

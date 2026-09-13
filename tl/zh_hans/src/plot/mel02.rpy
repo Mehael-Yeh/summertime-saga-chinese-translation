@@ -1538,7 +1538,7 @@ translate zh_hans mel02_eve_delay_erik_a0b87385:
 
 
     # erik "!!!" with hpunch
-    erik "!!!" with hpunch
+    erik "！！！" with hpunch
 
 # game/src/plot/mel02.rpy:656
 translate zh_hans mel02_eve_delay_erik_dc5532e5:
@@ -2272,7 +2272,7 @@ translate zh_hans mel02_eve_den_rails_e67a13ef:
 
 
     # anon a_uneasy e_e f_nervous m_teeth @ -m_talk "( ... Especially since I practically sprang it on him! )"
-    anon a_uneasy e_e f_nervous m_teeth @ -m_talk "（…… 尤其是因为我几乎是临时通知他的！）"
+    anon a_uneasy e_e f_nervous m_teeth @ -m_talk "（……尤其是因为我几乎是临时通知他的！）"
 
 # game/src/plot/mel02.rpy:1047
 translate zh_hans mel02_kevin_ask_1339220e:
@@ -2326,7 +2326,7 @@ translate zh_hans mel02_kevin_ask_5556f346:
 
 
     # kevin "... Yeah, {i}she{/i} smashed it to pieces."
-    kevin "…… 是的，{i}她{/i} 把它砸成了碎片。"
+    kevin "……是的，{i}她{/i} 把它砸成了碎片。"
 
 # game/src/plot/mel02.rpy:1097
 translate zh_hans mel02_kevin_ask_a0c43da9:
@@ -2783,7 +2783,7 @@ translate zh_hans mel02_kevin_guitar_ac5f9504:
 
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/mel02.rpy:1380
 translate zh_hans mel02_kevin_guitar_56732888:
@@ -3182,7 +3182,7 @@ translate zh_hans mel02_outro_ac5f9504:
 
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/mel02.rpy:1554
 translate zh_hans mel02_outro_faf09318:

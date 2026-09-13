@@ -232,7 +232,7 @@ translate zh_hans jen_cam_fast_9c6f71ac:
 translate zh_hans jen_cam_fast_81f51ed2:
 
     # jenny "You boys seeing this?!"
-    jenny "各位，看见了吗？！"
+    jenny "小伙子们，看见了吗？！"
 
 # game/src/plot/jen_cam.rpy:124
 translate zh_hans jen_cam_fast_46e88331:
@@ -550,7 +550,7 @@ translate zh_hans jen_cam_blowjob_63505ab5:
 translate zh_hans jen_cam_blowjob_d7fb1176:
 
     # jenny "You boys ready to have some fun?"
-    jenny "各位，准备好找点乐子了吗？"
+    jenny "小伙子们，准备好找点乐子了吗？"
 
 # game/src/plot/jen_cam.rpy:292
 translate zh_hans jen_cam_blowjob_94017e53:
@@ -670,7 +670,7 @@ translate zh_hans jen_cam_blowjob_dac764c8:
 translate zh_hans jen_cam_blowjob_aed9a87a:
 
     # anon "Damn it, [saga.cast.jenny]!"
-    anon "搞什么啊，[saga.cast.jenny]！"
+    anon "该死，[saga.cast.jenny]！"
 
 # game/src/plot/jen_cam.rpy:328
 translate zh_hans jen_cam_blowjob_1a046482:
@@ -748,7 +748,7 @@ translate zh_hans jen_cam_blowjob_f5f6954d:
 translate zh_hans jen_cam_blowjob_6ee5eb9d:
 
     # jenny e_e "You're about to get your cock sucked again."
-    jenny e_e "又有人要给你吹箫了。"
+    jenny e_e "又要给你吹箫了。"
 
 # game/src/plot/jen_cam.rpy:350
 translate zh_hans jen_cam_blowjob_35e12bf6:

@@ -274,7 +274,7 @@ translate zh_hans deb01_debbie_0496031c:
 translate zh_hans deb01_debbie_beefa445:
 
     # debbie "... You're such a wonderful boy!"
-    debbie "……你真是个懂事的好孩子！"
+    debbie "……你真是越来越懂事了！"
 
 # game/src/plot/deb01.rpy:129
 translate zh_hans deb01_debbie_e86194e3:

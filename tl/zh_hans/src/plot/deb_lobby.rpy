@@ -252,7 +252,7 @@ translate zh_hans deb_lobby_d2f874df:
 translate zh_hans deb_lobby_0e230840:
 
     # anon "[saga.cast.jenny] might hear you."
-    anon "[saga.cast.jenny]可能会听见你。"
+    anon "会被[saga.cast.jenny]听见。"
 
 # game/src/plot/deb_lobby.rpy:117
 translate zh_hans deb_lobby_2a0b3ff4:
@@ -600,7 +600,7 @@ translate zh_hans deb_lobby_busy_a9ecfd71:
 
 
     # debbie "You're such a wonderful boy."
-    debbie "你真是个贴心的好小伙。"
+    debbie "你真是个好孩子。"
 
 # game/src/plot/deb_lobby.rpy:248
 translate zh_hans deb_lobby_creampie_87c69c69:

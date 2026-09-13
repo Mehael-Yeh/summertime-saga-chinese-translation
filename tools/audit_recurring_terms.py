@@ -62,12 +62,16 @@ def load_registry(path: Path) -> list[dict[str, object]]:
 
 
 def scan(pattern: re.Pattern[str], target_patterns: list[re.Pattern[str]] | None,
-         files: Iterable[Path]) -> list[Hit]:
+         files: Iterable[Path],
+         source_exceptions: list[re.Pattern[str]] | None = None) -> list[Hit]:
     hits: list[Hit] = []
     for path in files:
         text, _ = decode(path.read_bytes(), path)
         for pair in iter_pairs(text.splitlines()):
             if not pattern.search(pair.source):
+                continue
+            if source_exceptions and any(exc.search(pair.source)
+                                         for exc in source_exceptions):
                 continue
             valid = None if target_patterns is None else any(
                 expected.search(pair.target) for expected in target_patterns
@@ -133,7 +137,10 @@ def main() -> int:
         source_pattern = re.compile(str(term["source_regex"]), re.IGNORECASE)
         raw_targets = term.get("target_regexes", [])
         target_patterns = [re.compile(str(value)) for value in raw_targets]
-        hits = scan(source_pattern, target_patterns, files)
+        raw_exceptions = term.get("source_exceptions", [])
+        source_exceptions = [re.compile(str(value), re.IGNORECASE)
+                             for value in raw_exceptions]
+        hits = scan(source_pattern, target_patterns, files, source_exceptions)
         mismatch_count += print_hits(term_id, hits, args.show_all)
 
     for query in args.query:

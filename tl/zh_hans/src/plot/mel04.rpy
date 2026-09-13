@@ -761,7 +761,7 @@ translate zh_hans mel04_office4b_418cc080:
 # game/src/plot/mel04.rpy:472
 translate zh_hans mel04_office4b_f9600499:
     # tyrone "You gotta catch me first, wonderbread!"
-    tyrone "你得先抓住我，小白脸！"
+    tyrone "你得先抓住我，白佬！"
 
 # game/src/plot/mel04.rpy:473
 translate zh_hans mel04_office4b_43e027ca:

@@ -316,7 +316,7 @@ translate zh_hans jen_sleep_0cf4d269:
 translate zh_hans jen_sleep_1fedcf6f:
 
     # jenny e_nw f_angry "Oh, what the fuck, [saga.cast.anon]!"
-    jenny e_nw f_angry "搞什么啊，[saga.cast.anon]！"
+    jenny e_nw f_angry "搞什么鬼，[saga.cast.anon]！"
 
 # game/src/plot/jen_sleep.rpy:192
 translate zh_hans jen_sleep_a1f0b75a_1:

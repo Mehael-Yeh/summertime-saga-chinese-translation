@@ -688,7 +688,7 @@ translate zh_hans ano01_erik_bdd94abd:
 translate zh_hans ano01_erik_ba5d3fbf:
 
     # erik a_game_pocket f_surprised @ -m_talk "( !!! )" with hpunch
-    erik a_game_pocket f_surprised @ -m_talk "( !!! )" with hpunch
+    erik a_game_pocket f_surprised @ -m_talk "（！！！）" with hpunch
 
 # game/src/plot/ano01.rpy:266
 translate zh_hans ano01_erik_80f8007e:
@@ -1456,7 +1456,7 @@ translate zh_hans ano01_roxxy_1d93fe58:
 translate zh_hans ano01_roxxy_54e818fe:
 
     # roxxy f_surprised "!!!" with hpunch
-    roxxy f_surprised "!!!" with hpunch
+    roxxy f_surprised "！！！" with hpunch
 
 # game/src/plot/ano01.rpy:552
 translate zh_hans ano01_roxxy_8b0fb580:
@@ -2038,7 +2038,7 @@ translate zh_hans ano01_ursula_7e7004da:
 translate zh_hans ano01_ursula_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "( !!! )" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/ano01.rpy:727
 translate zh_hans ano01_ursula_a3a8c7ea:

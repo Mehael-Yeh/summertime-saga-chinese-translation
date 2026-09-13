@@ -4,7 +4,7 @@
 translate zh_hans jen17_intro_d4f0d89d:
 
     # anon @ -m_talk "( What the- )"
-    anon @ -m_talk "（什么情况——）"
+    anon @ -m_talk "（搞什么——）"
 
 # game/src/plot/jen17.rpy:5
 translate zh_hans jen17_intro_e89d9f2b:
@@ -152,7 +152,7 @@ translate zh_hans jen17_shop_ccebdfac:
 translate zh_hans jen17_shop_33e1d196:
 
     # karl f_angry "Psh, who is this joker?"
-    karl f_angry "切，这个逗比是谁？"
+    karl f_angry "切，这活宝是谁？"
 
 # game/src/plot/jen17.rpy:60
 translate zh_hans jen17_shop_acf70bdd:
@@ -502,14 +502,14 @@ translate zh_hans jen17_shop_1138d828:
 
 
     # erik "She's still 34-0."
-    erik "可她的战绩仍然是 34 胜 0 负。"
+    erik "可她的战绩仍然是34胜0负。"
 
 # game/src/plot/jen17.rpy:139
 translate zh_hans jen17_shop_36d9121d:
 
 
     # karl f_nervous "You mean, 34-0-1."
-    karl f_nervous "应该是 34 胜 0 负 1 场无结果。"
+    karl f_nervous "应该是34胜0负1场无结果。"
 
 # game/src/plot/jen17.rpy:140
 translate zh_hans jen17_shop_223f2033:
@@ -1210,7 +1210,7 @@ translate zh_hans jen17_shop_7e6743dd:
 
 
     # lily a_lucha_point "These replica masks are going to be a huge hit with our cosplay community!"
-    lily a_lucha_point "这些同款面具，玩角色扮演的肯定都喜欢！"
+    lily a_lucha_point "这些同款面具肯定会在cosplay圈大受欢迎！"
 
 # game/src/plot/jen17.rpy:356
 translate zh_hans jen17_shop_eaec3981:
@@ -1518,7 +1518,7 @@ translate zh_hans jen17_shop_8ce361e5:
 translate zh_hans jen17_shop_31d8fbe5:
 
     # erik "Muahahaah!"
-    erik "哈哈哈！"
+    erik "哇哈哈哈！"
 
 # game/src/plot/jen17.rpy:441
 translate zh_hans jen17_shop_9d781b7d:

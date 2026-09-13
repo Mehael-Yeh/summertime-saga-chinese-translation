@@ -766,7 +766,7 @@ translate zh_hans jen28_give_ea65ed36:
 translate zh_hans jen28_give_3201f2fd:
 
     # jenny f_annoyed @ e_r "Oh, please... It's chump change."
-    jenny f_annoyed @ e_r "哦，拜托……不过是点零花钱。"
+    jenny f_annoyed @ e_r "哦，拜托……不过是点小钱罢了。"
 
 # game/src/plot/jen28.rpy:281
 translate zh_hans jen28_give_c849fb7e:

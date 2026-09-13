@@ -16,7 +16,7 @@ translate zh_hans debbie_garage_1deb2a32:
 translate zh_hans debbie_garage_area_fa66ed6c:
 
     # anon @ -m_talk "( Hmm, looks like I'll need to open this from the inside. )"
-    anon @ -m_talk "（嗯，看来我得从里面打开这个。）"
+    anon @ -m_talk "（嗯，看来我得从里面把它打开。）"
 
 # game/src/plot/debbie_garage.rpy:17
 translate zh_hans debbie_garage_area_b36af35b:

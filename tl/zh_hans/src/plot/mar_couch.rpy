@@ -2223,7 +2223,7 @@ translate zh_hans mar_couch_noon1_d17f928c:
 translate zh_hans mar_couch_noon1_94f1da7e:
 
     # anon "[saga.cast.maria]... I'm-"
-    anon "[saga.cast.maria]…… 我——"
+    anon "[saga.cast.maria]……我——"
 
 # game/src/plot/mar_couch.rpy:842
 translate zh_hans mar_couch_noon1_93ba6934:
@@ -2235,7 +2235,7 @@ translate zh_hans mar_couch_noon1_93ba6934:
 translate zh_hans mar_couch_noon1_90887343:
 
     # maria "... There!!"
-    maria "…… 到了！！"
+    maria "……到了！！"
 
 # game/src/plot/mar_couch.rpy:844
 translate zh_hans mar_couch_noon1_1ebd5772:
@@ -2343,7 +2343,7 @@ translate zh_hans mar_couch_merge6_d9356f66:
 translate zh_hans mar_couch_merge6_bf85cef1:
 
     # maria e_b "{i}*Sigh*{/i} You and your baseball."
-    maria e_b "{i}*叹息*{/i} 你呀，满脑子都是棒球。"
+    maria e_b "{i}*叹气*{/i} 你呀，满脑子都是棒球。"
 
 # game/src/plot/mar_couch.rpy:879
 translate zh_hans mar_couch_merge6_442bfb9e:
@@ -2577,7 +2577,7 @@ translate zh_hans mar_couch_noon1a_73cf822e:
 translate zh_hans mar_couch_noon1a_0c5f7177:
 
     # tony p_getup "I just got caught up in the moment, is all."
-    tony p_getup "我就是一时上头了，没别的。"
+    tony p_getup "我就是一时冲动，没别的。"
 
 # game/src/plot/mar_couch.rpy:957
 translate zh_hans mar_couch_noon1a_53c4bbfc:
@@ -3501,7 +3501,7 @@ translate zh_hans mar_couch_noon2_7fd5d419:
 translate zh_hans mar_couch_merge7_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊…… 哈啊……"
+    anon "哈啊……哈啊……"
 
 # game/src/plot/mar_couch.rpy:1251
 translate zh_hans mar_couch_merge7_3b147ccc:
@@ -3693,7 +3693,7 @@ translate zh_hans mar_couch_merge7_2c4a5eb2:
 translate zh_hans mar_couch_noon2a_57dfd8b0:
 
     # maria "[saga.cast.tony]... sandwich."
-    maria "[saga.cast.tony]…… 三明治。"
+    maria "[saga.cast.tony]……三明治。"
 
 # game/src/plot/mar_couch.rpy:1313
 translate zh_hans mar_couch_noon2a_8cb4c6b8:
@@ -3741,7 +3741,7 @@ translate zh_hans mar_couch_noon2a_8be8cdf6:
 translate zh_hans mar_couch_noon2a_9e3f36f1:
 
     # tony "R-right, yeah... okay."
-    tony "对、对，嗯…… 好。"
+    tony "对、对，嗯……好。"
 
 # game/src/plot/mar_couch.rpy:1335
 translate zh_hans mar_couch_noon2a_0c2749a2:

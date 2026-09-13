@@ -46,7 +46,7 @@ translate zh_hans bridget_school_office6_outro_0b62b9e6:
 translate zh_hans bridget_school_office6_outro_0a4bf590:
 
     # bridget f_angry "Forgot? Boy you are the saddest piece of meat I've ever seen!"
-    bridget f_angry "忘了？天呐，你是我见过最没用的废物！"
+    bridget f_angry "忘了？小子，你是我见过最可悲的一坨肉！"
 
 # game/src/plot/bridget.rpy:29
 translate zh_hans bridget_school_office6_outro_f2fb4d6a:

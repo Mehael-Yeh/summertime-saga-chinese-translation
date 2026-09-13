@@ -364,7 +364,7 @@ translate zh_hans ano05_dimitri_e4ca7725:
 translate zh_hans ano05_dimitri_1130ff8e:
 
     # debbie "You're such a good boy!"
-    debbie "你真懂事！"
+    debbie "你真是个好孩子！"
 
 # game/src/plot/ano05.rpy:117
 translate zh_hans ano05_dimitri_9ac76797:

@@ -250,7 +250,7 @@ translate zh_hans ano07_shop_4b54cf59:
 translate zh_hans ano07_shop_005b1419:
 
     # tony "Oh hey, speak of the devil!"
-    tony "嘿，说人就到！"
+    tony "嘿，说曹操曹操到！"
 
 # game/src/plot/ano07.rpy:86
 translate zh_hans ano07_shop_2a55240f:
@@ -1060,7 +1060,7 @@ translate zh_hans ano07_maria_37c9d945:
 translate zh_hans ano07_maria_8d9ae2e8:
 
     # maria a_gross e_w f_surprised "!!!" with hpunch
-    maria a_gross e_w f_surprised "!!!" with hpunch
+    maria a_gross e_w f_surprised "！！！" with hpunch
 
 # game/src/plot/ano07.rpy:426
 translate zh_hans ano07_maria_d59e05cd:
@@ -1491,7 +1491,7 @@ translate zh_hans ano07_maria_tony_9dd72d55:
 translate zh_hans strings:
     # game/src/plot/ano07.rpy:115
     old "No."
-    new "否"
+    new "没有"
     # game/src/plot/ano07.rpy:113
     old "Yes."
-    new "是"
+    new "有"

@@ -106,7 +106,7 @@ translate zh_hans mar_cook_retry_f76dbb2e:
 # game/src/plot/mar_cook.rpy:68
 translate zh_hans mar_cook_retry_2f52c417:
     # anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "!!!" with hpunch
-    anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "!!!" with hpunch
+    anon a_cannoli_eaten v_chew -m_bite @ e_o f_surprised -m_talk "！！！" with hpunch
 
 # game/src/plot/mar_cook.rpy:70
 translate zh_hans mar_cook_retry_c46c6b88:
@@ -296,7 +296,7 @@ translate zh_hans mar_cook_deny_4c681b07:
 # game/src/plot/mar_cook.rpy:169
 translate zh_hans mar_cook_deny_0324e206:
     # maria "Good boy."
-    maria "这才乖。"
+    maria "真乖。"
 
 # game/src/plot/mar_cook.rpy:187
 translate zh_hans mar_cook_fail_d801e3e9:

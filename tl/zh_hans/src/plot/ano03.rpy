@@ -514,7 +514,7 @@ translate zh_hans ano03_dimitri_92b353cb:
 translate zh_hans ano03_dimitri_73ce88fc:
 
     # dimitri "I guess apple can fall far from tree."
-    dimitri "看来儿子，也不一定像老子。"
+    dimitri "看来儿子也不一定像老子。"
 
 # game/src/plot/ano03.rpy:148
 translate zh_hans ano03_dimitri_4df519e1:
@@ -1126,7 +1126,7 @@ translate zh_hans ano03_dimitri_52391532:
 translate zh_hans ano03_dimitri_15c52a2a:
 
     # yumi "I'm going to personally be monitoring your neighborhood while my partner [saga.cast.harold] gets to the bottom of all this, okay?"
-    yumi "[saga.cast.harold]查清这件事期间，我会亲自在你们这一带巡逻，好吗？"
+    yumi "在我的搭档[saga.cast.harold]查清这件事期间，我会亲自在你们这一带巡逻，好吗？"
 
 # game/src/plot/ano03.rpy:319
 translate zh_hans ano03_dimitri_1cee7a41_1:
@@ -1462,7 +1462,7 @@ translate zh_hans ano03_outro_jenny_2e04d020:
 translate zh_hans ano03_outro_jenny_a7f32372:
 
     # jenny a_fold f_annoyed "Ugh, great."
-    jenny a_fold f_annoyed "哈，真是太好了。"
+    jenny a_fold f_annoyed "啧，可真好。"
 
 # game/src/plot/ano03.rpy:428
 translate zh_hans ano03_outro_jenny_c2dcae79:

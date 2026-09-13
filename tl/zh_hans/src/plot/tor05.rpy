@@ -154,7 +154,7 @@ translate zh_hans tor05_intro_b744800f:
 translate zh_hans tor05_intro_15f86623:
 
     # anon "Falicum mushroom, horny toad extract, psychotropic euphorbia, base liquid..."
-    anon "法利库姆蘑菇、发情蟾蜍提取物、致幻大戟、基液……"
+    anon "法利库姆蘑菇、发情蟾蜍提取物、致幻大戟、基础液体……"
 
 # game/src/plot/tor05.rpy:83
 translate zh_hans tor05_intro_27b377b9:
@@ -196,7 +196,7 @@ translate zh_hans tor05_intro_d2a7ee7e:
 translate zh_hans tor05_intro_d4fd7be0:
 
     # tori "It's a luminescent flower... You might know it as the \"forget-me-not\" blossom."
-    tori "这是一种发光的花……你可能知道它叫‘勿忘我’。"
+    tori "这是一种发光的花……你可能知道它叫“勿忘我”。"
 
 # game/src/plot/tor05.rpy:100
 translate zh_hans tor05_intro_1e8be0f3:
@@ -328,7 +328,7 @@ translate zh_hans tor05_intro_801aed2e:
 translate zh_hans tor05_intro_56d8d4b2:
 
     # tori "... And hurry up! We gotta get this done before [saga.cast.ursula] changes the code to my office again!"
-    tori "…… 快点！我们得在[saga.cast.ursula]再次更改我办公室密码前搞定！"
+    tori "……快点！我们得在[saga.cast.ursula]再次更改我办公室密码前搞定！"
 
 # game/src/plot/tor05.rpy:152
 translate zh_hans tor05_take_annie1_6da62707:
@@ -346,7 +346,7 @@ translate zh_hans tor05_take_annie1_38d340d3:
 translate zh_hans tor05_take_annie1_12d7f54e:
 
     # anon "... Why?"
-    anon "…… 为什么？"
+    anon "……为什么？"
 
 # game/src/plot/tor05.rpy:161
 translate zh_hans tor05_take_annie1_e70b8551:
@@ -610,7 +610,7 @@ translate zh_hans tor05_take_tissue_8112727c:
 translate zh_hans tor05_take_toad_7eed512b:
 
     # anon "Yup, I was right."
-    anon "（没错，我猜对了。）"
+    anon "没错，我猜对了。"
 
 # game/src/plot/tor05.rpy:361
 translate zh_hans tor05_take_toad_388ac5b4:
@@ -838,7 +838,7 @@ translate zh_hans tor05_tori1_4c32c5ae:
 translate zh_hans tor05_tori1_f921b2e7:
 
     # tori "... You think?"
-    tori "……你想？"
+    tori "……你确定？"
 
 # game/src/plot/tor05.rpy:469
 translate zh_hans tor05_tori1_bb86922f:
@@ -1156,7 +1156,7 @@ translate zh_hans tor05_office2_d81c54e3:
 translate zh_hans tor05_office2_6a2b40dd:
 
     # anon "... Oh. S-sorry."
-    anon "……哦。对-对不起。"
+    anon "……哦。对、对不起。"
 
 # game/src/plot/tor05.rpy:641
 translate zh_hans tor05_office2_4e75b08f:
@@ -1432,7 +1432,7 @@ translate zh_hans tor05_office2_0cd5b5e6:
 translate zh_hans tor05_office2_55e0c71c:
 
     # anon "Y-yeah..."
-    anon "嗯——嗯……"
+    anon "嗯、嗯……"
 
 # game/src/plot/tor05.rpy:762
 translate zh_hans tor05_office2_f9bd200c:
@@ -1456,7 +1456,7 @@ translate zh_hans tor05_office2_94338c54:
 translate zh_hans tor05_office2_589e95fa:
 
     # anon "Uhh."
-    anon "额。"
+    anon "呃。"
 
 # game/src/plot/tor05.rpy:767
 translate zh_hans tor05_office2_676885e5:
@@ -1534,7 +1534,7 @@ translate zh_hans tor05_office2_3eb12c33:
 translate zh_hans tor05_office2_a8946f52:
 
     # anon "HNNGGG!!" with hpunch
-    anon "哼嗯——！！" with hpunch
+    anon "哼嗯嗯！！" with hpunch
 
 # game/src/plot/tor05.rpy:794
 translate zh_hans tor05_office2_527bb63a:
@@ -1696,7 +1696,7 @@ translate zh_hans tor05_office2_merge_cb4f383a:
 translate zh_hans tor05_office2_merge_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "( !!! )" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/tor05.rpy:873
 translate zh_hans tor05_office2_merge_9d31d333:
@@ -1720,7 +1720,7 @@ translate zh_hans tor05_office2_merge_21a40f38:
 translate zh_hans tor05_office2_merge_5cb1b4df:
 
     # anon "... That had my..."
-    anon "……那东西曾经是我的……"
+    anon "……那里面有我的……"
 
 # game/src/plot/tor05.rpy:882
 translate zh_hans tor05_office2_merge_d91a992e_1:
@@ -2038,7 +2038,7 @@ translate zh_hans tor05_coffee_busy_3a364ad9:
 translate zh_hans tor05_coffee_busy_3287d6ac:
 
     # anon a_surprised_shrug e_w f_surprised m_teeth @ -m_talk "( Shit! Shit! They know! )" with hpunch
-    anon a_surprised_shrug e_w f_surprised m_teeth @ -m_talk "(该死！该死！他们知道了！)" with hpunch
+    anon a_surprised_shrug e_w f_surprised m_teeth @ -m_talk "（该死！该死！他们知道了！）" with hpunch
 
 # game/src/plot/tor05.rpy:1092
 translate zh_hans tor05_coffee_busy_d002b532:
@@ -2176,7 +2176,7 @@ translate zh_hans tor05_reset_coffee_4d7c83fb:
 translate zh_hans tor05_reset_coffee_26bbbf5d:
 
     # anon a_surprised_shrug e_w f_surprised @ m_teeth "!!!" with hpunch
-    anon a_surprised_shrug e_w f_surprised @ m_teeth "!!!" with hpunch
+    anon a_surprised_shrug e_w f_surprised @ m_teeth "！！！" with hpunch
 
 # game/src/plot/tor05.rpy:1200
 translate zh_hans tor05_reset_coffee_889e8638:
@@ -2356,7 +2356,7 @@ translate zh_hans tor05_tori2_8752a5cb:
 translate zh_hans tor05_tori2_a5a35c84:
 
     # ursula "BAWK!!! Bawk bawk bawk..."
-    ursula "咯咯！！！ 咯咯咯咯咯……"
+    ursula "咯咯！！！咯咯咯咯咯……"
 
 # game/src/plot/tor05.rpy:1287
 translate zh_hans tor05_tori2_d39d9f55:
@@ -2416,13 +2416,13 @@ translate zh_hans tor05_tori2_3dbb19bb:
 translate zh_hans tor05_tori2_e11c505d:
 
     # ursula "Bawk bawk BAWK!!"
-    ursula "咯咯咯——咕咕咕！！"
+    ursula "咯咯咯——咯咯咯！！"
 
 # game/src/plot/tor05.rpy:1308
 translate zh_hans tor05_tori2_26164179:
 
     # tori "I'll have to bring it by your office sometime. It's really fascinating!"
-    tori "改天我得带去你办公室给你看看。真的超有趣！"
+    tori "改天我得拿到你办公室去给你看看。真的超有趣！"
 
 # game/src/plot/tor05.rpy:1311
 translate zh_hans tor05_tori2_3990ebf3:
@@ -2506,7 +2506,7 @@ translate zh_hans tor05_tori2_6f3030a2:
 translate zh_hans tor05_tori2_afdb8a74:
 
     # tori "... I think."
-    tori "…… 大概吧。"
+    tori "……大概吧。"
 
 # game/src/plot/tor05.rpy:1344
 translate zh_hans tor05_tori2_dd2c1fab:
@@ -2710,7 +2710,7 @@ translate zh_hans strings:
 
     # game/src/plot/tor05.rpy:400
     old "Base liquid."
-    new "基础液"
+    new "基础液体"
 
     # game/src/plot/tor05.rpy:409
     old "[saga.cast.ursula]'s DNA."

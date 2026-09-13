@@ -4,7 +4,7 @@
 translate zh_hans debbie_pants_next_c7d5e70a:
 
     # anon "( I've been thinking about these ever since she joined me in the shower... )"
-    anon "（自从她和我一起淋浴以来，我就一直在想这些……）"
+    anon "（自从她跟我一起洗澡之后，我就老是想着这些……）"
 
 # game/src/plot/debbie_pants.rpy:8
 translate zh_hans debbie_pants_next_0d6b368f:
@@ -22,7 +22,7 @@ translate zh_hans debbie_pants_self_ff38e2a4:
 translate zh_hans debbie_pants_self_93493a8f:
 
     # anon "( ... Try and have a bit of self-control, will ya?! )"
-    anon "（……试着有点自制力，行吗？！）"
+    anon "（……有点自制力行不行？！）"
 
 # game/src/plot/debbie_pants.rpy:21
 translate zh_hans debbie_pants_wait_fb259f3f:
@@ -34,10 +34,10 @@ translate zh_hans debbie_pants_wait_fb259f3f:
 translate zh_hans debbie_pants_wait_79850482:
 
     # anon "( The queen of feminine undergarments. )"
-    anon "（女性内衣女王。）"
+    anon "（女性内裤中的女王。）"
 
 # game/src/plot/debbie_pants.rpy:23
 translate zh_hans debbie_pants_wait_a80fc0d3:
 
     # anon "( Long may they reign! )"
-    anon "（愿她们永远统治！）"
+    anon "（愿女王永远统治！）"

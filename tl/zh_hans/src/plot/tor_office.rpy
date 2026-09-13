@@ -118,7 +118,7 @@ translate zh_hans tor_office_d6f6d0d3:
 translate zh_hans tor_office_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "( !!! )" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/tor_office.rpy:81
 translate zh_hans tor_office_2ae7b50e:
@@ -322,7 +322,7 @@ translate zh_hans tor_office_area_5359384b:
 translate zh_hans tor_office_area_e0f640e7:
 
     # tori "Yes, yes, YES!!!"
-    tori "是的，是的，是的！！！"
+    tori "对，对，对！！！"
 
 # game/src/plot/tor_office.rpy:167
 translate zh_hans tor_office_busy_d3501819:

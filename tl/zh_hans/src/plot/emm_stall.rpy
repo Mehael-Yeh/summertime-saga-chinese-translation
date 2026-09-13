@@ -21,7 +21,7 @@ translate zh_hans emm_stall_6ac2b7e7:
 # game/src/plot/emm_stall.rpy:11
 translate zh_hans emm_stall_7c9a738e:
     # anon "I mean... this isn't a-"
-    anon "我是说……这不是一个——"
+    anon "我是说……这不是——"
 
 # game/src/plot/emm_stall.rpy:13
 translate zh_hans emm_stall_5ff212fd:

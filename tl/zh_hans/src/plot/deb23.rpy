@@ -1216,7 +1216,7 @@ translate zh_hans deb23_car_1d0fdb39:
 translate zh_hans deb23_car_0610aaf5:
 
     # debbie f_curious p_car_wheel_up "{i}*Sniff*{/i} W-what?"
-    debbie f_curious p_car_wheel_up "{i}*抽鼻子*{/i} 什、什么？"
+    debbie f_curious p_car_wheel_up "{i}*抽泣*{/i} 什、什么？"
 
 # game/src/plot/deb23.rpy:549
 translate zh_hans deb23_car_51550836:
@@ -1378,7 +1378,7 @@ translate zh_hans deb23_car_d4100a0d:
 translate zh_hans deb23_car_b515a3a5:
 
     # debbie a_wipe_tear f_worried p_car "{i}*Sniff*{/i} You really believe that?"
-    debbie a_wipe_tear f_worried p_car "{i}*抽鼻子*{/i} 你真的这么想？"
+    debbie a_wipe_tear f_worried p_car "{i}*抽泣*{/i} 你真的这么想？"
 
 # game/src/plot/deb23.rpy:586
 translate zh_hans deb23_car_1fbc093a:
@@ -1432,7 +1432,7 @@ translate zh_hans deb23_car_58e72b5a:
 translate zh_hans deb23_car_8a9cb62a:
 
     # debbie f_curious "{i}*Sniff*{/i} Y-you have?"
-    debbie f_curious "{i}*抽鼻子*{/i} 你、你做过这种梦？"
+    debbie f_curious "{i}*抽泣*{/i} 你、你做过这种梦？"
 
 # game/src/plot/deb23.rpy:601
 translate zh_hans deb23_car_62104018:
@@ -2026,7 +2026,7 @@ translate zh_hans deb23_car_bf804cb7:
 translate zh_hans deb23_car_54294cdd:
 
     # debbie "Heh, that's my boy!"
-    debbie "呵，这才是我的好孩子！"
+    debbie "呵，这才对嘛！"
 
 # game/src/plot/deb23.rpy:767
 translate zh_hans deb23_car_d273a451:

@@ -280,7 +280,7 @@ translate zh_hans dia01_diane_784e2536:
 translate zh_hans dia01_diane_b30e33e1:
 
     # diane "Well, don't be timid, [saga.cast.anon]."
-    diane "喂，别害羞，[saga.cast.anon]。"
+    diane "别害羞，[saga.cast.anon]。"
 
 # game/src/plot/dia01.rpy:95
 translate zh_hans dia01_diane_415468fe:
@@ -508,7 +508,7 @@ translate zh_hans dia01_outro_6d132dc6:
 translate zh_hans dia01_outro_diane_b30e33e1:
 
     # diane "Well, don't be timid, [saga.cast.anon]."
-    diane "别拘束，[saga.cast.anon]。"
+    diane "别害羞，[saga.cast.anon]。"
 
 # game/src/plot/dia01.rpy:170
 translate zh_hans dia01_outro_diane_415468fe:
@@ -520,13 +520,13 @@ translate zh_hans dia01_outro_diane_415468fe:
 translate zh_hans dia01_outro_diane_945d18b2:
 
     # anon a_shovel "R-right."
-    anon a_shovel "好……好吧。"
+    anon a_shovel "好……好的。"
 
 # game/src/plot/dia01.rpy:173
 translate zh_hans dia01_outro_diane_f1c4038c:
 
     # anon @ -m_talk "( I can do this! )"
-    anon @ -m_talk "（我能做到！）"
+    anon @ -m_talk "（我能行的！）"
 
 # game/src/plot/dia01.rpy:184
 translate zh_hans dia01_outro_fail_2976c44c:

@@ -328,7 +328,7 @@ translate zh_hans jen03_kitchen_9563f6d1:
 translate zh_hans jen03_kitchen_1cf5ced1:
 
     # anon "She's being a bitch."
-    anon "她现在就是在犯贱。"
+    anon "她就是在无理取闹。"
 
 # game/src/plot/jen03.rpy:104
 translate zh_hans jen03_kitchen_2f22031e:

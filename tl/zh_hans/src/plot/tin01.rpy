@@ -4,7 +4,7 @@
 translate zh_hans tin01_lounge_bca3ac64:
 
     # "*Knock* *Knock*"
-    "*敲门声* *敲门声*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/tin01.rpy:17
 translate zh_hans tin01_lounge_31fff5e3:

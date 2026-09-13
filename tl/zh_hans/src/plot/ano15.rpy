@@ -467,7 +467,7 @@ translate zh_hans ano15_shop1_95d7c8ad:
 
 
     # anon a_surprised f_shocked m_open @ -m_talk "!!!" with hpunch
-    anon a_surprised f_shocked m_open @ -m_talk "!!!" with hpunch
+    anon a_surprised f_shocked m_open @ -m_talk "！！！" with hpunch
 
 # game/src/plot/ano15.rpy:124
 translate zh_hans ano15_shop1_ad6a6f39:
@@ -1083,7 +1083,7 @@ translate zh_hans ano15_shop1_lounge1_bca3ac64:
 
 
     # "*Knock* *Knock*"
-    "*咚* *咚*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/ano15.rpy:312
 translate zh_hans ano15_shop1_lounge1_62c3574b:
@@ -1097,7 +1097,7 @@ translate zh_hans ano15_shop1_lounge1_bca3ac64_1:
 
 
     # "*Knock* *Knock*"
-    "*咚* *咚*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/ano15.rpy:317
 translate zh_hans ano15_shop1_lounge1_0f6451d0:
@@ -1111,7 +1111,7 @@ translate zh_hans ano15_shop1_lounge1_bca3ac64_2:
 
 
     # "*Knock* *Knock*"
-    "*咚* *咚*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/ano15.rpy:321
 translate zh_hans ano15_shop1_lounge1_6eee105a:
@@ -2854,7 +2854,7 @@ translate zh_hans ano15_pantry_ac5f9504:
 
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/ano15.rpy:926
 translate zh_hans ano15_pantry_b5a3f676:

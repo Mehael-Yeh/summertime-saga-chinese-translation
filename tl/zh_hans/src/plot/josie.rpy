@@ -4,7 +4,7 @@
 translate zh_hans josie_car_shop_intro1_11889179:
 
     # anon "Excuse me?"
-    anon "请问？"
+    anon "打扰一下？"
 
 # game/src/plot/josie.rpy:29
 translate zh_hans josie_car_shop_intro1_cbe42cda:

@@ -28,13 +28,13 @@ translate zh_hans bank_lobby_skip_a3956a93:
 translate zh_hans bank_lobby_sun_a69e6098:
 
     # anon @ -m_talk "( Oh no! It's Sunday! )"
-    anon @ -m_talk "（糟了！今天是星期天！）"
+    anon @ -m_talk "（糟了！今天是周日！）"
 
 # game/src/plot/bank_lobby.rpy:39
 translate zh_hans bank_lobby_sun_658f8e17:
 
     # more @ e_se f_surprised -m_talk "{size=*.5}( What a lazy cat! ){/size}{nw=2}"
-    more @ e_se f_surprised -m_talk "{size=*.5}(真是只懒猫！){/size}{nw=2}"
+    more @ e_se f_surprised -m_talk "{size=*.5}（真是只懒猫！）{/size}{nw=2}"
 
 # game/src/plot/bank_lobby.rpy:41
 translate zh_hans bank_lobby_sun_5904cc83:

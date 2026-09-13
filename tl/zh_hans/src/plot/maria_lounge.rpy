@@ -4,7 +4,7 @@
 translate zh_hans maria_lounge_becca_11b03188:
 
     # TODO "maria_lounge.becca"
-    TODO "（有点晚了，我不该打扰他们。）"
+    TODO "maria_lounge.becca"
 
 # game/src/plot/maria_lounge.rpy:14
 translate zh_hans maria_lounge_dark_9f25bbc1:

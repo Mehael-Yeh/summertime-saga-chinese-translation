@@ -46,7 +46,7 @@ translate zh_hans tor04_tori_7c926853:
 translate zh_hans tor04_tori_e8d16f7d:
 
     # ursula "[saga.cast.tori.name]!!!" with hpunch
-    ursula "[saga.cast.tori.name]!!!" with hpunch
+    ursula "[saga.cast.tori.name]！！！" with hpunch
 
 # game/src/plot/tor04.rpy:37
 translate zh_hans tor04_tori_c282731c:
@@ -142,7 +142,7 @@ translate zh_hans tor04_tori_70f5a510:
 translate zh_hans tor04_tori_eda04080:
 
     # tori "{i}*Gasp*{/i}" with hpunch
-    tori "{i}*倒吸一口凉气*{/i}" with hpunch
+    tori "{i}*倒吸一口气*{/i}" with hpunch
 
 # game/src/plot/tor04.rpy:80
 translate zh_hans tor04_tori_168d6b9b:
@@ -274,7 +274,7 @@ translate zh_hans tor04_tori_4b591d44:
 translate zh_hans tor04_tori_6cc7b6e7:
 
     # tori "Yess!! YessSssss!!!"
-    tori "是！！是——！！！"
+    tori "对！！对——！！！"
 
 # game/src/plot/tor04.rpy:123
 translate zh_hans tor04_tori_8ba53f07:
@@ -286,7 +286,7 @@ translate zh_hans tor04_tori_8ba53f07:
 translate zh_hans tor04_tori_2c3336e0:
 
     # tori "YESSSSSSS!!!!"
-    tori "是！！！！"
+    tori "对！！！！"
 
 # game/src/plot/tor04.rpy:126
 translate zh_hans tor04_tori_eb1b4bf9:
@@ -298,7 +298,7 @@ translate zh_hans tor04_tori_eb1b4bf9:
 translate zh_hans tor04_tori_da63cff5:
 
     # ursula "( !!! )" with hpunch
-    ursula "( !!! )" with hpunch
+    ursula "（！！！）" with hpunch
 
 # game/src/plot/tor04.rpy:131
 translate zh_hans tor04_tori_a26f7b72:
@@ -406,7 +406,7 @@ translate zh_hans tor04_tori_c71ad42b:
 translate zh_hans tor04_tori_1a82a21e:
 
     # tori "Haaah!!! Yess!!"
-    tori "哈啊！！！是的！！"
+    tori "哈啊！！！对！！"
 
 # game/src/plot/tor04.rpy:176
 translate zh_hans tor04_tori_9611211d:
@@ -466,7 +466,7 @@ translate zh_hans tor04_tori_9f2b5d9e:
 translate zh_hans tor04_tori_020f8668:
 
     # tori "YES! SHUT IT OFF! PLEASE!!!"
-    tori "是的！关掉它！求求你了！！！"
+    tori "对！关掉它！求求你了！！！"
 
 # game/src/plot/tor04.rpy:202
 translate zh_hans tor04_tori_d0c4afcd:
@@ -574,7 +574,7 @@ translate zh_hans tor04_tori_173f3edb:
 translate zh_hans tor04_tori_faebb70a_2:
 
     # tori "Haaah... Haaah..."
-    tori "哈啊…哈啊…"
+    tori "哈啊……哈啊……"
 
 # game/src/plot/tor04.rpy:241
 translate zh_hans tor04_tori_ed09926f:
@@ -604,7 +604,7 @@ translate zh_hans tor04_tori_9ac34bd5:
 translate zh_hans tor04_tori_a0d0366b:
 
     # tori "I'm good. {i}really{/i} good..."
-    tori "我没事。{i}真的{/i}没事…"
+    tori "我没事。{i}真的{/i}没事……"
 
 # game/src/plot/tor04.rpy:255
 translate zh_hans tor04_tori_0c02154c:

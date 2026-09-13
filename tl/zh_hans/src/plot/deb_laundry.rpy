@@ -76,13 +76,13 @@ translate zh_hans deb_laundry_reuse_2a260640:
 translate zh_hans deb_laundry_reuse_65896c96:
 
     # debbie f_shy of_blush @ -m_talk "{i}*Gulp*{/i}"
-    debbie f_shy of_blush @ -m_talk "{i}*咕噜*{/i}"
+    debbie f_shy of_blush @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/deb_laundry.rpy:50
 translate zh_hans deb_laundry_reuse_2bd6189d:
 
     # debbie "Goodness, I-"
-    debbie "天哪，你——"
+    debbie "天哪，我——"
 
 # game/src/plot/deb_laundry.rpy:52
 translate zh_hans deb_laundry_reuse_2815667e:
@@ -796,7 +796,7 @@ translate zh_hans deb_laundry_reuse_696379e0:
 translate zh_hans deb_laundry_reuse_b1eaf91b:
 
     # debbie f_worried "Tsk, sweetie... language!"
-    debbie f_worried "啧，亲爱的……注意用词！"
+    debbie f_worried "啧，亲爱的……注意言辞！"
 
 # game/src/plot/deb_laundry.rpy:328
 translate zh_hans deb_laundry_reuse_8fd09821:
@@ -952,7 +952,7 @@ translate zh_hans deb_laundry_reuse_aaaca12f:
 translate zh_hans deb_laundry_reuse_dc6540f2:
 
     # anon "Naughty landlady!"
-    anon "真是个坏坏的房东太太！"
+    anon "真是个不安分的房东太太！"
 
 # game/src/plot/deb_laundry.rpy:372
 translate zh_hans deb_laundry_reuse_88cc7ee3:
@@ -1678,7 +1678,7 @@ translate zh_hans deb_laundry_merge_3248c5d4:
 translate zh_hans deb_laundry_merge_0686f373:
 
     # debbie "That's my good boy."
-    debbie "这才是我的乖孩子。"
+    debbie "这才乖嘛。"
 
 # game/src/plot/deb_laundry.rpy:590
 translate zh_hans deb_laundry_merge_8d4f68cf:

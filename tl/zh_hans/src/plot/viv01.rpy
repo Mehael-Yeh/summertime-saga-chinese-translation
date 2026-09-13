@@ -76,7 +76,7 @@ translate zh_hans viv01_intro_b0e4a2b8:
 translate zh_hans viv01_intro_d6785f5f:
 
     # viv "Très bien!"
-    viv "太好了！"
+    viv "Très bien!（太好了！）"
 
 # game/src/plot/viv01.rpy:42
 translate zh_hans viv01_intro_359144ed:
@@ -910,7 +910,7 @@ translate zh_hans viv01_outro_57cd7545:
 translate zh_hans viv01_outro_7bb06c9e:
 
     # viv "Génial!"
-    viv "太棒了！"
+    viv "Génial!（太棒了！）"
 
 # game/src/plot/viv01.rpy:511
 translate zh_hans viv01_outro_7f91a82e:
@@ -964,7 +964,7 @@ translate zh_hans viv01_outro_13c3e20d:
 translate zh_hans viv01_outro_95c3ea20:
 
     # viv "Ah ah ah, parlez-vous Français?"
-    viv "啊、啊、啊，parlez-vous Français？"
+    viv "啊、啊、啊，parlez-vous Français？（你会说法语吗？）"
 
 # game/src/plot/viv01.rpy:540
 translate zh_hans viv01_outro_0b5e8054:
@@ -976,7 +976,7 @@ translate zh_hans viv01_outro_0b5e8054:
 translate zh_hans viv01_outro_d6785f5f:
 
     # viv "Très bien!"
-    viv "太好了！"
+    viv "Très bien!（太好了！）"
 
 # game/src/plot/viv01.rpy:544
 translate zh_hans viv01_outro_e82b036e:
@@ -1090,7 +1090,7 @@ translate zh_hans viv01_outro_60dc9474:
 translate zh_hans viv01_outro_13d5c6ae:
 
     # viv "Ah, quel charmeur!"
-    viv "哎呀，真会哄人！"
+    viv "Ah, quel charmeur!（哎呀，真会哄人！）"
 
 # game/src/plot/viv01.rpy:587
 translate zh_hans viv01_outro_e87ba70e:
@@ -1168,7 +1168,7 @@ translate zh_hans viv01_outro_a176a206:
 translate zh_hans viv01_outro_6230ba2d:
 
     # viv "Ohh, tu me flattes..."
-    viv "哦，你真会夸人……"
+    viv "Ohh, tu me flattes...（哦，你真会夸人……）"
 
 # game/src/plot/viv01.rpy:620
 translate zh_hans viv01_outro_692e981d:

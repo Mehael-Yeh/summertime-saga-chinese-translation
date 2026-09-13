@@ -166,7 +166,7 @@ translate zh_hans jen09_kitchen_7c309774:
 translate zh_hans jen09_kitchen_112640ec:
 
     # debbie b_anon e_sw p_hug_lean "Aww, you're such a good boy!"
-    debbie b_anon e_sw p_hug_lean "哎呀，你真是个好男孩！"
+    debbie b_anon e_sw p_hug_lean "哎呀，你真是个好孩子！"
 
 # game/src/plot/jen09.rpy:46
 translate zh_hans jen09_kitchen_81e96e4b:
@@ -424,7 +424,7 @@ translate zh_hans jen09_debbie_2946e0ce:
 translate zh_hans jen09_debbie_979b4852:
 
     # debbie "My pleasure, sweetie."
-    debbie "你喜欢就好，亲爱的。"
+    debbie "不客气，亲爱的。"
 
 # game/src/plot/jen09.rpy:138
 translate zh_hans jen09_debbie_3731849f:

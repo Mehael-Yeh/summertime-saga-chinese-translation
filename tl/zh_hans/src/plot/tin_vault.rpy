@@ -424,7 +424,7 @@ translate zh_hans tin_vault_vault_0aade49f:
 translate zh_hans tin_vault_vault_cb00c159:
 
     # anon @ e_osw f_sad "{i}*Sigh*{/i}"
-    anon @ e_osw f_sad "{i}*叹息*{/i}"
+    anon @ e_osw f_sad "{i}*叹气*{/i}"
 
 # game/src/plot/tin_vault.rpy:175
 translate zh_hans tin_vault_vault_30f1cad3:
@@ -490,7 +490,7 @@ translate zh_hans tin_vault_vault_3ad8ceae:
 translate zh_hans tin_vault_vault_615e8c0d:
 
     # anon @ -m_talk "Just shut up and squat on this dick."
-    anon @ -m_talk "少废话，快蹲下来吃这根鸡巴。"
+    anon @ -m_talk "少废话，快坐上来。"
 
 # game/src/plot/tin_vault.rpy:210
 translate zh_hans tin_vault_vault_bb93dcfd:
@@ -526,7 +526,7 @@ translate zh_hans tin_vault_vault_merge1_dcbc1a8f:
 translate zh_hans tin_vault_vault_merge1_b0cd22a2:
 
     # tina p_sex s_15 "Big... boy."
-    tina p_sex s_15 "大…家伙。"
+    tina p_sex s_15 "大……家伙。"
 
 # game/src/plot/tin_vault.rpy:219
 translate zh_hans tin_vault_vault_merge1_c815f0b4:
@@ -694,7 +694,7 @@ translate zh_hans tin_vault_vault_merge1_c8c7dc91:
 translate zh_hans tin_vault_vault_merge1_cad171cf:
 
     # anon "Not yet."
-    anon "还没呢。"
+    anon "还不行。"
 
 # game/src/plot/tin_vault.rpy:257
 translate zh_hans tin_vault_vault_merge1_bc893211:
@@ -964,7 +964,7 @@ translate zh_hans tin_vault_vault_merge2_2530d955:
 translate zh_hans tin_vault_vault_merge2_aab17d3f:
 
     # tina @ a_kiss_blow e_b f_calm m_kiss "Mwah."
-    tina @ a_kiss_blow e_b f_calm m_kiss "么啊。"
+    tina @ a_kiss_blow e_b f_calm m_kiss "啵。"
 
 # game/src/plot/tin_vault.rpy:361
 translate zh_hans tin_vault_vault_merge2_78f672f9:
@@ -1096,7 +1096,7 @@ translate zh_hans tin_vault_vault_alt_4d273af6:
 translate zh_hans tin_vault_vault_alt_15b4db3b:
 
     # anon @ -m_talk "Not really."
-    anon @ -m_talk "不太确定。"
+    anon @ -m_talk "不太舒服。"
 
 # game/src/plot/tin_vault.rpy:421
 translate zh_hans tin_vault_vault_alt_b82d8421:

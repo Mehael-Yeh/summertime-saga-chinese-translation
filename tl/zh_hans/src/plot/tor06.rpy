@@ -274,7 +274,7 @@ translate zh_hans tor06_office2_ff332520:
 translate zh_hans tor06_office2_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "( !!! )" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/tor06.rpy:118
 translate zh_hans tor06_office2_d9fe215f:
@@ -352,7 +352,7 @@ translate zh_hans tor06_office2_4ba08199:
 translate zh_hans tor06_office2_66f4e5a8_1:
 
     # anon "( !!! )" with hpunch
-    anon "( !!! )" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/tor06.rpy:164
 translate zh_hans tor06_office2_301329d3:
@@ -856,13 +856,13 @@ translate zh_hans tor06_office2_reuse_3cfeaca2:
 translate zh_hans tor06_office2_reuse_84c70139:
 
     # tori "YEESSSSSS!!!" with flash
-    tori "是啊啊啊啊！！！" with flash
+    tori "对啊啊啊啊！！！" with flash
 
 # game/src/plot/tor06.rpy:358
 translate zh_hans tor06_office2_reuse_72e66f43:
 
     # tori "Aaaah, I can't feel my legs!"
-    tori "啊——，我的腿没知觉了！"
+    tori "啊——我的腿没知觉了！"
 
 # game/src/plot/tor06.rpy:362
 translate zh_hans tor06_office2_reuse_244739f4:

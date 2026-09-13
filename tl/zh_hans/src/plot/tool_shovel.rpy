@@ -34,7 +34,7 @@ translate zh_hans tool_shovel_fe81fc84:
 translate zh_hans tool_shovel_846244a8:
 
     # anon e_w f_surprised m_teeth @ -m_talk "!!!" with hpunch
-    anon e_w f_surprised m_teeth @ -m_talk "!!!" with hpunch
+    anon e_w f_surprised m_teeth @ -m_talk "！！！" with hpunch
 
 # game/src/plot/tool_shovel.rpy:22
 translate zh_hans tool_shovel_7ce4ccac:

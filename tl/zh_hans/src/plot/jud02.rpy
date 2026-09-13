@@ -68,7 +68,7 @@ translate zh_hans jud02_hall1w_eb15e21f:
 
 
     # camila a_sign "PUTA! Did you just hear? This is our turf, so get out!"
-    camila a_sign "婊子！你听见没？这是我们的地盘，快滚！"
+    camila a_sign "PUTA!（婊子！）你听见没？这是我们的地盘，快滚！"
 
 # game/src/plot/jud02.rpy:22
 translate zh_hans jud02_hall1w_2070252d:

@@ -10,7 +10,7 @@ translate zh_hans deb21_landing1_2887d2d3:
 translate zh_hans deb21_landing1_8f5b72a2:
 
     # jenny "Mom, seriously... I'm busy and you're causing a huge scene!!"
-    jenny "妈，拜托……我正忙着呢，你别在这儿大吵大闹的！！"
+    jenny "妈，拜托……我正忙着呢，你闹得也太大了吧！！"
 
 # game/src/plot/deb21.rpy:8
 translate zh_hans deb21_landing1_c52eced9:
@@ -46,7 +46,7 @@ translate zh_hans deb21_landing1_24fb5d66:
 translate zh_hans deb21_landing1_5cb18d57:
 
     # debbie @ -m_talk "{i}*Sniff*{/i}"
-    debbie @ -m_talk "{i}*吸鼻子*{/i}"
+    debbie @ -m_talk "{i}*抽泣*{/i}"
 
 # game/src/plot/deb21.rpy:26
 translate zh_hans deb21_landing1_ec5eac2e:
@@ -148,7 +148,7 @@ translate zh_hans deb21_landing1_c13628e7:
 translate zh_hans deb21_landing1_a789f22c:
 
     # debbie e_w "... But apparently she's too busy with some work meeting or whatever."
-    debbie e_w "……可她显然忙着开什么工作会议之类的。"
+    debbie e_w "……可她倒好，忙着开什么工作会议之类的。"
 
 # game/src/plot/deb21.rpy:56
 translate zh_hans deb21_landing1_b0512275:
@@ -286,7 +286,7 @@ translate zh_hans deb21_landing1_e0181a6d:
 translate zh_hans deb21_landing1_62e42c3e:
 
     # anon "[saga.cast.jenny]'s just being a bitch."
-    anon "[saga.cast.jenny]就是在犯贱。"
+    anon "[saga.cast.jenny]就是嘴太毒了。"
 
 # game/src/plot/deb21.rpy:95
 translate zh_hans deb21_landing1_2d9b75aa:

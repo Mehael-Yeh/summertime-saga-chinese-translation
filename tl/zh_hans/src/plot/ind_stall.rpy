@@ -6,7 +6,7 @@ translate zh_hans ind_stall_50c35c1f:
 # game/src/plot/ind_stall.rpy:6
 translate zh_hans ind_stall_ab2ec3db:
     # indira f_surprised_angry p_side_turn "{i}*Gasp*{/i}"
-    indira f_surprised_angry p_side_turn "{i}*倒抽气*{/i}"
+    indira f_surprised_angry p_side_turn "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/ind_stall.rpy:7
 translate zh_hans ind_stall_487268a0:

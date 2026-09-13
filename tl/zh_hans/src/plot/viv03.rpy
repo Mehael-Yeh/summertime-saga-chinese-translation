@@ -16,7 +16,7 @@ translate zh_hans viv03_french_04d166c5:
 translate zh_hans viv03_french_8628cc5b:
 
     # viv "Comment allez-vous?"
-    viv "你好吗？"
+    viv "Comment allez-vous（你好吗）？"
 
 # game/src/plot/viv03.rpy:22
 translate zh_hans viv03_french_69150d6d:
@@ -70,7 +70,7 @@ translate zh_hans viv03_french_fe5e4125:
 translate zh_hans viv03_french_6196c951:
 
     # viv "Oui, beaucoup..."
-    viv "Oui（是的），很多……"
+    viv "Oui（是的），beaucoup（很多）……"
 
 # game/src/plot/viv03.rpy:46
 translate zh_hans viv03_french_a6cf358a:
@@ -88,7 +88,7 @@ translate zh_hans viv03_french_3f123b2f:
 translate zh_hans viv03_french_99fad19d:
 
     # viv "On apprend alors!"
-    viv "那我们来学吧！"
+    viv "On apprend alors（那我们来学吧）！"
 
 # game/src/plot/viv03.rpy:54
 translate zh_hans viv03_french_9674c02b:
@@ -130,7 +130,7 @@ translate zh_hans viv03_french_682aa08d:
 translate zh_hans viv03_french_960e2df0:
 
     # viv "Ridicule!"
-    viv "胡说！"
+    viv "Ridicule（胡说）！"
 
 # game/src/plot/viv03.rpy:71
 translate zh_hans viv03_french_d3274e94:
@@ -184,7 +184,7 @@ translate zh_hans viv03_french_0c6c1ccc:
 translate zh_hans viv03_french_cfdf51e9:
 
     # viv "Ça m'excite!"
-    viv "这让我兴奋！"
+    viv "Ça m'excite!（这让我兴奋！）"
 
 # game/src/plot/viv03.rpy:93
 translate zh_hans viv03_french_bf1b4bb0:
@@ -316,7 +316,7 @@ translate zh_hans viv03_library_viv_a112f03c:
 translate zh_hans viv03_library_viv_16183746:
 
     # viv "Lequel? Tu as déjà oublié?"
-    viv "哪一个？你已经忘了吗？"
+    viv "Lequel?（哪一个？）Tu as déjà oublié?（你已经忘了吗？）"
 
 # game/src/plot/viv03.rpy:156
 translate zh_hans viv03_library_viv_66928d46:
@@ -604,7 +604,7 @@ translate zh_hans viv03_book_23acdb53:
 translate zh_hans viv03_book_00c0cde2:
 
     # anon a_surprised_shrug f_shocked m_open @ -m_talk "!!!" with hpunch
-    anon a_surprised_shrug f_shocked m_open @ -m_talk "!!!" with hpunch
+    anon a_surprised_shrug f_shocked m_open @ -m_talk "！！！" with hpunch
 
 # game/src/plot/viv03.rpy:314
 translate zh_hans viv03_book_778b8330:
@@ -880,7 +880,7 @@ translate zh_hans viv03_viv_9f7cbadc:
 translate zh_hans viv03_viv_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/viv03.rpy:492
 translate zh_hans viv03_viv_75585c14:
@@ -946,7 +946,7 @@ translate zh_hans viv03_viv_a401c18a:
 translate zh_hans viv03_viv_d6e8808b:
 
     # viv "Fille paresseuse! Wake up, I said!"
-    viv "懒丫头！我叫你醒醒！"
+    viv "Fille paresseuse（懒丫头）！我叫你醒醒！"
 
 # game/src/plot/viv03.rpy:520
 translate zh_hans viv03_viv_b4ef745a:
@@ -1000,7 +1000,7 @@ translate zh_hans viv03_viv_0d7f89c8:
 translate zh_hans viv03_viv_9ad4b2f9:
 
     # viv "Comprenez vous?!"
-    viv "明白了吗？！"
+    viv "Comprenez vous（明白了吗）？！"
 
 # game/src/plot/viv03.rpy:547
 translate zh_hans viv03_viv_080e21e5:
@@ -1060,7 +1060,7 @@ translate zh_hans viv03_viv_3c049e76:
 translate zh_hans viv03_viv_d46280bd:
 
     # anon "{i}*Sigh*{/i}"
-    anon "{i}*叹口气*{/i}"
+    anon "{i}*叹气*{/i}"
 
 # game/src/plot/viv03.rpy:576
 translate zh_hans viv03_viv_ade1dd92:
@@ -1072,7 +1072,7 @@ translate zh_hans viv03_viv_ade1dd92:
 translate zh_hans viv03_viv_d6785f5f:
 
     # viv "Très bien!"
-    viv "太好了！"
+    viv "Très bien!（太好了！）"
 
 # game/src/plot/viv03.rpy:580
 translate zh_hans viv03_viv_3cca3572:
@@ -1120,7 +1120,7 @@ translate zh_hans viv03_viv_ad55f9a3:
 translate zh_hans viv03_viv_d6785f5f_1:
 
     # viv "Très bien!"
-    viv "很好！"
+    viv "Très bien!（很好！）"
 
 # game/src/plot/viv03.rpy:605
 translate zh_hans viv03_viv_ca2ef28e:
@@ -1258,7 +1258,7 @@ translate zh_hans viv03_viv_34e154c1:
 translate zh_hans viv03_viv_3d6f4ef8:
 
     # viv "Que se passe t-il?"
-    viv "发生了什么事？"
+    viv "Que se passe t-il（发生了什么事）？"
 
 # game/src/plot/viv03.rpy:665
 translate zh_hans viv03_viv_b93f6b09:
@@ -1318,7 +1318,7 @@ translate zh_hans viv03_viv_8333b83d:
 translate zh_hans viv03_viv_ae5f4dfc:
 
     # viv "Shush toi!!"
-    viv "闭嘴！！"
+    viv "Shush toi（闭嘴）！！"
 
 # game/src/plot/viv03.rpy:696
 translate zh_hans viv03_viv_358ef8f4:
@@ -1414,7 +1414,7 @@ translate zh_hans viv03_viv_0c6c1ccc:
 translate zh_hans viv03_viv_1744d21f:
 
     # viv "Très bien! Come and sit with me!"
-    viv "很好！过来坐到我身边！"
+    viv "Très bien!（很好！）过来坐到我身边！"
 
 # game/src/plot/viv03.rpy:751
 translate zh_hans viv03_viv_244739f4:
@@ -1540,7 +1540,7 @@ translate zh_hans viv03_viv_68d90ec1:
 translate zh_hans viv03_viv_688ddb53:
 
     # viv "Oh, je dois t'apprendre!"
-    viv "哦，我得教教你！"
+    viv "Oh, je dois t'apprendre（我得教教你）！"
 
 # game/src/plot/viv03.rpy:797
 translate zh_hans viv03_viv_6ca68a60:
@@ -1558,7 +1558,7 @@ translate zh_hans viv03_viv_97845b18:
 translate zh_hans viv03_viv_6ab148da:
 
     # viv "Oh vraiment?"
-    viv "哦，真的吗？"
+    viv "Oh vraiment（真的吗）？"
 
 # game/src/plot/viv03.rpy:803
 translate zh_hans viv03_viv_91b5eafa:
@@ -1582,7 +1582,7 @@ translate zh_hans viv03_viv_2c62fd0b:
 translate zh_hans viv03_viv_91bcbada:
 
     # viv "Très bien, [saga.cast.anon]..."
-    viv "很好，[saga.cast.anon]……"
+    viv "Très bien（很好），[saga.cast.anon]……"
 
 # game/src/plot/viv03.rpy:819
 translate zh_hans viv03_viv_f7fb25d7:
@@ -1702,7 +1702,7 @@ translate zh_hans viv03_viv_b15ea5be_1:
 translate zh_hans viv03_viv_84b5a11f:
 
     # viv "Sacrebleu! What does she want now?!"
-    viv "见鬼！她这会儿又想干什么？！"
+    viv "Sacrebleu（见鬼）！她这会儿又想干什么？！"
 
 # game/src/plot/viv03.rpy:857
 translate zh_hans viv03_viv_d5e76918:
@@ -2122,7 +2122,7 @@ translate zh_hans viv03_outro_office1_980c8dd5:
 translate zh_hans strings:
 
     old "{i}*Sigh*{/i} C'est ridicule."
-    new "{i}*Sigh*{/i} C'est ridicule.（*叹气* 真是荒谬。）"
+    new "{i}*叹气*{/i} C'est ridicule.（真是荒谬。）"
 
     old "Connasse!"
     new "Connasse!（贱货！）"

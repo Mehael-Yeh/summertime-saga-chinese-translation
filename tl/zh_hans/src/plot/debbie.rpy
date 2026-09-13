@@ -838,7 +838,7 @@ translate zh_hans debbie_debbie_yard_intro4b_bb893119:
 translate zh_hans debbie_debbie_yard_intro4b_f9376301:
 
     # debbie @ -m_talk "Grrrrr!"
-    debbie @ -m_talk "咕噜噜！"
+    debbie @ -m_talk "哼——！"
 
 # game/src/plot/debbie.rpy:610
 translate zh_hans debbie_debbie_yard_intro4b_a09ac346_2:
@@ -1078,7 +1078,7 @@ translate zh_hans debbie_debbie_yard_swim2_5ea84e4c:
 translate zh_hans debbie_debbie_yard_swim2_e5aea99b:
 
     # debbie a_down f_calm "Heh, when did you turn in to such a naughty boy?"
-    debbie a_down f_calm "嘿，你什么时候变得这么坏了？"
+    debbie a_down f_calm "嘿，你什么时候变得这么不老实了？"
 
 # game/src/plot/debbie.rpy:716
 translate zh_hans debbie_debbie_yard_swim2_7fc38d25:

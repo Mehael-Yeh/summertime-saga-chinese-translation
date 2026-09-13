@@ -88,7 +88,7 @@ translate zh_hans deb_sleep_0cf2bb33:
 translate zh_hans deb_sleep_8c2eda87:
 
     # debbie "Aww, you're such a wonderful boy..."
-    debbie "哎呀，你真是个贴心的好男孩……"
+    debbie "哎呀，你真是个贴心的好孩子……"
 
 # game/src/plot/deb_sleep.rpy:58
 translate zh_hans deb_sleep_bail_2dd328b8:
@@ -214,7 +214,7 @@ translate zh_hans deb_sleep_wake1_1d2b2ff8:
 translate zh_hans deb_sleep_wake1_c3793835:
 
     # debbie "Heh, that's my good boy."
-    debbie "嘿，这才是我的好男孩。"
+    debbie "嘿，这才乖嘛。"
 
 # game/src/plot/deb_sleep.rpy:126
 translate zh_hans deb_sleep_wake1_31ef741b:

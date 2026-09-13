@@ -2176,7 +2176,7 @@ translate zh_hans bar05_art2_retry_92f9b1ea:
 translate zh_hans bar05_art2_retry_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "（!!!）" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/bar05.rpy:981
 translate zh_hans bar05_art2_retry_67b59487:
@@ -2224,7 +2224,7 @@ translate zh_hans bar05_art2_retry_92321f0c:
 translate zh_hans bar05_art2_retry_66f4e5a8_1:
 
     # anon "( !!! )" with hpunch
-    anon "（!!!）" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/bar05.rpy:1012
 translate zh_hans bar05_art2_retry_86a680ae:

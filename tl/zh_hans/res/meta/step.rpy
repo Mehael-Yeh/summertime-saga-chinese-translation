@@ -628,7 +628,7 @@ translate zh_hans strings:
     new "关闭总水阀。"
     # game/res/meta/step.rpym:492
     old "I should look for a valve. (They call them stopcocks in Britain... crazy Brits!)"
-    new "我需要找一个阀门。(英国人称它们为旋塞阀……疯狂的英国人！)"
+    new "我需要找一个阀门。（英国人称它们为旋塞阀……疯狂的英国人！）"
     # game/res/meta/step.rpym:494
     old "Re-enter the bathroom."
     new "重新进入浴室。"
@@ -793,7 +793,7 @@ translate zh_hans strings:
     new "我真希望[saga.cast.jenny]不要拿这件事来威胁我。D:"
     # game/res/meta/step.rpym:633
     old "My dreams are getting really intense! ... And hot!"
-    new "我的梦变得越来越强烈了！…… 而且还很火辣！"
+    new "我的梦变得越来越强烈了！……而且还很火辣！"
     # game/res/meta/step.rpym:635
     old "Speak with [saga.cast.debbie] about dreams."
     new "和[saga.cast.debbie]谈谈梦境。"

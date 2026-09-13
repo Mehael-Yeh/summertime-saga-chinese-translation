@@ -487,7 +487,7 @@ translate zh_hans tin02_cubicle_9bce1948:
 translate zh_hans tin02_cubicle_86ce9f25:
 
     # tina e_wnw f_horny "Oh, you naughty boy..."
-    tina e_wnw f_horny "哦，你这个坏小子……"
+    tina e_wnw f_horny "哦，你这个小坏蛋……"
 
 # game/src/plot/tin02.rpy:186
 translate zh_hans tin02_cubicle_20059117:

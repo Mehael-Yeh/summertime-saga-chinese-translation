@@ -1534,7 +1534,7 @@ translate zh_hans jos01_yoshi_b295d050:
 translate zh_hans jos01_yoshi_d17bed01:
 
     # anon @ -m_talk "!!!" with hpunch
-    anon @ -m_talk "!!!" with hpunch
+    anon @ -m_talk "！！！" with hpunch
 
 # game/src/plot/jos01.rpy:506
 translate zh_hans jos01_yoshi_ad95439d:
@@ -2044,7 +2044,7 @@ translate zh_hans jos01_josie2_3908b8b7:
 translate zh_hans jos01_josie2_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/jos01.rpy:738
 translate zh_hans jos01_josie2_d9b119e3:

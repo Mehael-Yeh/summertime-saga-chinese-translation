@@ -70,7 +70,7 @@ translate zh_hans debbie_tv_play_cab9b61e:
 translate zh_hans debbie_tv_play_2582a868:
 
     # anon "( Nice! Chicas Luchadoras Televisión! )"
-    anon "（好极了！女子摔角电视！）"
+    anon "（好极了！Chicas Luchadoras Televisión！）"
 
 # game/src/plot/debbie_tv.rpy:69
 translate zh_hans debbie_tv_play_d08f5efd:
@@ -82,7 +82,7 @@ translate zh_hans debbie_tv_play_d08f5efd:
 translate zh_hans debbie_tv_play_e52e2812:
 
     # anon "( But I always feel a little bad for Toxic Terror... )"
-    anon "（但我总有点为毒液恐怖感到遗憾……）"
+    anon "（但我总有点为Toxic Terror感到遗憾……）"
 
 # game/src/plot/debbie_tv.rpy:75
 translate zh_hans debbie_tv_play_244739f4:
@@ -100,7 +100,7 @@ translate zh_hans debbie_tv_play_28a4e5d2:
 translate zh_hans debbie_tv_play_1d9941df:
 
     # anon "{i}Zzzzz...{/i}"
-    anon "{i} 呼噜噜…… {/i}"
+    anon "{i}呼噜噜……{/i}"
 
 # game/src/plot/debbie_tv.rpy:80
 translate zh_hans debbie_tv_play_5524dbef:
@@ -118,7 +118,7 @@ translate zh_hans debbie_tv_play_244739f4_1:
 translate zh_hans debbie_tv_play_ddbaf030:
 
     # anon "{i}*Yawn*{/i}"
-    anon "{i} *哈欠* {/i}"
+    anon "{i}*哈欠*{/i}"
 
 # game/src/plot/debbie_tv.rpy:87
 translate zh_hans debbie_tv_play_b681bcc8:
@@ -130,7 +130,7 @@ translate zh_hans debbie_tv_play_b681bcc8:
 translate zh_hans debbie_tv_play_484b6a18:
 
     # anon "( It's crazy how one-sided this match is. Cyclone is merciless! )"
-    anon "（这场比赛一边倒得离谱。旋风真是毫不留情！）"
+    anon "（这场比赛一边倒得离谱。Cyclone真是毫不留情！）"
 
 # game/src/plot/debbie_tv.rpy:93
 translate zh_hans debbie_tv_play_244739f4_2:
@@ -220,7 +220,7 @@ translate zh_hans debbie_tv_solo_d52f9606:
 translate zh_hans debbie_tv_solo_feab0e91:
 
     # anon e_s f_shy p_sit @ -m_talk "( I guess I'd better go and get cleaned up. )"
-    anon e_s f_shy p_sit @ -m_talk "（呼，还是先去清理一下吧。）"
+    anon e_s f_shy p_sit @ -m_talk "（我还是先去清理一下吧。）"
 
 # game/src/plot/debbie_tv.rpy:146
 translate zh_hans debbie_tv_soon_616665cb:

@@ -425,7 +425,7 @@ translate zh_hans jen14_dining_aafbf860:
 
 
     # jenny "{i}*Sigh*{/i} I suppose..."
-    jenny "{i}唉{/i}我想可以……"
+    jenny "{i}*叹气*{/i}我想可以……"
 
 # game/src/plot/jen14.rpy:112
 translate zh_hans jen14_dining_041a51ad:
@@ -684,7 +684,7 @@ translate zh_hans jen14_dining_29cb1f41:
 translate zh_hans jen14_dining_926f7258:
 
     # jenny a_clench e_ssw f_worried_surprised m_talk p_grope_suck "!!!" with hpunch
-    jenny a_clench e_ssw f_worried_surprised m_talk p_grope_suck "!!!" with hpunch
+    jenny a_clench e_ssw f_worried_surprised m_talk p_grope_suck "！！！" with hpunch
 
 # game/src/plot/jen14.rpy:221
 translate zh_hans jen14_dining_9381ba5c:
@@ -788,7 +788,7 @@ translate zh_hans jen14_dining_alt_8952b582:
 
 
     # jenny a_clench b_anon e_ssw f_worried_surprised m_talk p_grope_suck "!!!" with hpunch
-    jenny a_clench b_anon e_ssw f_worried_surprised m_talk p_grope_suck "!!!" with hpunch
+    jenny a_clench b_anon e_ssw f_worried_surprised m_talk p_grope_suck "！！！" with hpunch
 
 # game/src/plot/jen14.rpy:254
 translate zh_hans jen14_dining_alt_d3e73031:
@@ -1088,7 +1088,7 @@ translate zh_hans jen14_cedric_f6bf172e:
 translate zh_hans jen14_cedric_4c772c3c:
 
     # anon a_facepalm e_osw f_sad "{i}*Sigh*{/i} Crap."
-    anon a_facepalm e_osw f_sad "{i}*唉*{/i} 糟了。"
+    anon a_facepalm e_osw f_sad "{i}*叹气*{/i} 糟了。"
 # game/src/plot/jen14.rpy:345
 translate zh_hans jen14_cedric_1c2e5cb2:
 

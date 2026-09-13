@@ -103,7 +103,7 @@ translate zh_hans ano13_delay1_maria_ae670be0:
 
 
     # maria a_fold_whatever e_b f_calm "No, I'm not stressin' over anything else..."
-    maria a_fold_whatever e_b f_calm "不，别再为别的事操心了……"
+    maria a_fold_whatever e_b f_calm "不，我没在为别的事发愁……"
 
 # game/src/plot/ano13.rpy:54
 translate zh_hans ano13_delay1_maria_36632f2e:
@@ -166,7 +166,7 @@ translate zh_hans ano13_shop1_3747e427:
 
 
     # tony "You want me to wear a tie?"
-    tony "你想让我戴领带？"
+    tony "你想让我系领带？"
 
 # game/src/plot/ano13.rpy:74
 translate zh_hans ano13_shop1_aece7794:
@@ -901,7 +901,7 @@ translate zh_hans ano13_shop1_25e51078:
 
 
     # tony "Hah, put the screws to 'em!"
-    tony "哈，给他们点颜色瞧瞧！"
+    tony "哈，给对方上点手段！"
 
 # game/src/plot/ano13.rpy:234
 translate zh_hans ano13_shop1_c7bcd0af:
@@ -1167,7 +1167,7 @@ translate zh_hans ano13_lounge_bca3ac64:
 
 
     # "*Knock* *Knock*"
-    "*咚咚*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/ano13.rpy:348
 translate zh_hans ano13_lounge_e35d5eae:
@@ -1188,7 +1188,7 @@ translate zh_hans ano13_lounge_bca3ac64_1:
 
 
     # "*Knock* *Knock*"
-    "*咚咚*"
+    "*咚咚* *咚咚*"
 
 # game/src/plot/ano13.rpy:353
 translate zh_hans ano13_lounge_27a27cc1:
@@ -1216,7 +1216,7 @@ translate zh_hans ano13_lounge_ac5f9504:
 
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/ano13.rpy:364
 translate zh_hans ano13_lounge_de5caaa3:
@@ -1838,7 +1838,7 @@ translate zh_hans ano13_lounge_cbbe947b:
 
 
     # anon f_horny "Just, wow!"
-    anon f_horny "我——天啊，太美了！"
+    anon f_horny "只能说是……哇！"
 
 # game/src/plot/ano13.rpy:546
 translate zh_hans ano13_lounge_ee6b7da5:
@@ -1957,7 +1957,7 @@ translate zh_hans ano13_lounge_3c70d389:
 
 
     # tina "Not {i}everything{/i} is smaller in the sticks."
-    tina "乡下的东西{i}并不都{/i}小。"
+    tina "看来乡下也不是{i}什么都{/i}小一号。"
 
 # game/src/plot/ano13.rpy:585
 translate zh_hans ano13_lounge_960ed261:
@@ -2608,7 +2608,7 @@ translate zh_hans ano13_lounge_merge_98e5e07f:
 
 
     # missy e_e "Dude, I think [saga.cast.anon] is boning your mom."
-    missy e_e "喂，我觉得[saga.cast.anon]在上你妈。"
+    missy e_e "喂，我看[saga.cast.anon]是跟你妈搞上了。"
 
 # game/src/plot/ano13.rpy:797
 translate zh_hans ano13_lounge_merge_1252ce95:

@@ -550,7 +550,7 @@ translate zh_hans bar02_delay_eve_2dae6896:
 translate zh_hans bar02_delay_eve_d11ef2dc:
 
     # eve f_happy "Awesome, [saga.cast.anon]... thank you so much!"
-    eve f_happy "太棒了，[saga.cast.anon]…… 非常感谢！"
+    eve f_happy "太棒了，[saga.cast.anon]……非常感谢！"
 
 # game/src/plot/bar02.rpy:248
 translate zh_hans bar02_delay_eve_a62f6382:

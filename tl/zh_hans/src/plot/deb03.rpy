@@ -376,7 +376,7 @@ translate zh_hans deb03_gas_8b6a8a89:
 translate zh_hans deb03_gas_take_f42c0d0d:
 
     # anon "( Careful, we wouldn't want to do anything fuelish here. )"
-    anon "（小心点，汽油可不是闹着玩的。）"
+    anon "（小心点，可别在这儿闹出什么“油”漏。）"
 
 # game/src/plot/deb03.rpy:184
 translate zh_hans deb03_hall_233afe42:
@@ -592,7 +592,7 @@ translate zh_hans deb03_outro_a7f5a34f:
 translate zh_hans deb03_outro_e5007edf:
 
     # anon a_hips e_sw f_nervous m_teeth @ -m_talk "( Embrace the chaos, I suppose. )"
-    anon a_hips e_sw f_nervous m_teeth @ -m_talk "（算了，豁出去了。）"
+    anon a_hips e_sw f_nervous m_teeth @ -m_talk "（算了，乱就乱吧。）"
 
 # game/src/plot/deb03.rpy:287
 translate zh_hans deb03_outro_578fc4a4:

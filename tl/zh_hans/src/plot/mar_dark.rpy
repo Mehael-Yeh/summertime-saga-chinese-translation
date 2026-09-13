@@ -1355,14 +1355,14 @@ translate zh_hans mar_dark_maria_merge4_0f5236a0:
 
 
     # tony "Man, she's so aggressive these days..."
-    tony "好家伙，她最近可真够生猛的……"
+    tony "天啊，她最近可真够生猛的……"
 
 # game/src/plot/mar_dark.rpy:629
 translate zh_hans mar_dark_maria_merge4_416708dc:
 
 
     # tony "Man, I have never seen her so aggressive before..."
-    tony "好家伙，我以前可从没见她这么生猛过……"
+    tony "天啊，我以前可从没见她这么生猛过……"
 
 # game/src/plot/mar_dark.rpy:634
 translate zh_hans mar_dark_maria_merge4_745ae2d2:
@@ -1376,7 +1376,7 @@ translate zh_hans mar_dark_maria_ogle2_73741803:
 
 
     # tony "Boy, you really did a number on her, didn't ya, champ?"
-    tony "好家伙，你还真把她折腾得不轻，是吧，冠军？"
+    tony "天啊，你还真把她折腾得不轻，是吧，冠军？"
 
 # game/src/plot/mar_dark.rpy:656
 translate zh_hans mar_dark_maria_ogle2_8ea3167f:
@@ -1957,7 +1957,7 @@ translate zh_hans mar_dark_maria_trio1_c55ca375:
 
 
     # tony "Man, this brings back a lot of memories..."
-    tony "好家伙，这可勾起不少往事……"
+    tony "唉，这可勾起不少往事……"
 
 # game/src/plot/mar_dark.rpy:862
 translate zh_hans mar_dark_maria_trio1_fe4bc3b2:

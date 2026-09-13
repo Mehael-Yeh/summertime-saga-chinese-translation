@@ -100,7 +100,7 @@ translate zh_hans deb24_yard_43183a2a:
 translate zh_hans deb24_yard_7e993433:
 
     # diane "Why else do you think your teenage tenant is so keen on starting up a sordid love affair with you?"
-    diane "不然你以为，你那个十几岁的房客为什么一门心思想跟你搞一场见不得人的艳遇？"
+    diane "不然你以为，你那个年轻房客为什么一门心思想跟你搞一场见不得人的艳遇？"
 
 # game/src/plot/deb24.rpy:25
 translate zh_hans deb24_yard_f5305dff:
@@ -634,7 +634,7 @@ translate zh_hans deb24_yard_d0032c8e:
 translate zh_hans deb24_yard_c7fe8880:
 
     # debbie e_b f_distressed -m_lip "I let him cum between my tits."
-    debbie e_b f_distressed -m_lip "我让他夹在我胸中间射了。"
+    debbie e_b f_distressed -m_lip "我让他射在我胸中间了。"
 
 # game/src/plot/deb24.rpy:132
 translate zh_hans deb24_yard_245edd2a:
@@ -688,13 +688,13 @@ translate zh_hans deb24_yard_3722d7bf:
 translate zh_hans deb24_yard_08c0626a:
 
     # debbie e_se f_shy "... N-not my pussy."
-    debbie e_se f_shy "……不、不是舔我的屄。"
+    debbie e_se f_shy "……不、不是我的屄。"
 
 # game/src/plot/deb24.rpy:152
 translate zh_hans deb24_yard_5900fe65:
 
     # debbie e_se f_shy "... N-not just my pussy."
-    debbie e_se f_shy "……不、不只是舔我的屄。"
+    debbie e_se f_shy "……不、不只是我的屄。"
 
 # game/src/plot/deb24.rpy:154
 translate zh_hans deb24_yard_c23035bc:
@@ -892,7 +892,7 @@ translate zh_hans deb24_yard_merge_06fafad9:
 translate zh_hans deb24_yard_merge_75732269:
 
     # debbie e_wsw f_sad "... A real bitch..."
-    debbie e_wsw f_sad "……可真像个……"
+    debbie e_wsw f_sad "……可真是个……"
 
 # game/src/plot/deb24.rpy:203
 translate zh_hans deb24_yard_merge_23bb6ebd:
@@ -1030,7 +1030,7 @@ translate zh_hans deb24_yard_merge_fcd49fce:
 translate zh_hans deb24_yard_merge_cf5f7ce1:
 
     # debbie "What the heck, [saga.cast.diane]!!"
-    debbie "搞什么啊，[saga.cast.diane]！！"
+    debbie "搞什么鬼，[saga.cast.diane]！！"
 
 # game/src/plot/deb24.rpy:241
 translate zh_hans deb24_yard_merge_dbfc7e6a:
@@ -1570,7 +1570,7 @@ translate zh_hans deb24_robe_a5bd614c:
 translate zh_hans deb24_robe_d4f0d89d:
 
     # anon @ -m_talk "( What the- )"
-    anon @ -m_talk "（什么鬼——）"
+    anon @ -m_talk "（搞什么——）"
 
 # game/src/plot/deb24.rpy:565
 translate zh_hans deb24_robe_6a8c6652:

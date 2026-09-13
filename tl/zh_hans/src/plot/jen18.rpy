@@ -172,7 +172,7 @@ translate zh_hans jen18_jenny_merge_f21b92fd:
 translate zh_hans jen18_jenny_merge_1580d09b:
 
     # jenny p_bed_prone "Hi there, boys!"
-    jenny p_bed_prone "嗨，宝贝们！"
+    jenny p_bed_prone "嗨，小伙子们！"
 
 # game/src/plot/jen18.rpy:82
 translate zh_hans jen18_jenny_merge_b2e1a933:

@@ -58,7 +58,7 @@ translate zh_hans deb19_kitchen_ce204545:
 translate zh_hans deb19_kitchen_7d4a1f2a:
 
     # debbie a_clasp e_w f_worried_surprised "{i}*Ahem*{/i}"
-    debbie a_clasp e_w f_worried_surprised "{i}*清嗓子*{/i}"
+    debbie a_clasp e_w f_worried_surprised "{i}*咳咳*{/i}"
 
 # game/src/plot/deb19.rpy:43
 translate zh_hans deb19_kitchen_bee225da:
@@ -454,7 +454,7 @@ translate zh_hans deb19_kitchen_reuse_2ab0bebd:
 translate zh_hans deb19_kitchen_reuse_c1c6699c:
 
     # debbie "{i}*Ahem*{/i} Well, goodnight."
-    debbie "{i}*清嗓子*{/i} 嗯，晚安。"
+    debbie "{i}*咳咳*{/i} 嗯，晚安。"
 
 # game/src/plot/deb19.rpy:153
 translate zh_hans deb19_kitchen_reuse_486120be:
@@ -604,7 +604,7 @@ translate zh_hans deb19_kitchen_reuse_25fa9c40:
 translate zh_hans deb19_kitchen_reuse_f618288e:
 
     # anon "{i}*Sluuuuuuurp*{/i}"
-    anon "{i}*用力吸吮*{/i}"
+    anon "{i}*吸溜——*{/i}"
 
 # game/src/plot/deb19.rpy:270
 translate zh_hans deb19_kitchen_reuse_ba800636:
@@ -784,7 +784,7 @@ translate zh_hans deb19_kitchen_reuse_bc7d5bbc:
 translate zh_hans deb19_kitchen_reuse_f618288e_1:
 
     # anon "{i}*Sluuuuuuurp*{/i}"
-    anon "{i}*用力吸吮*{/i}"
+    anon "{i}*吸溜——*{/i}"
 
 # game/src/plot/deb19.rpy:359
 translate zh_hans deb19_kitchen_reuse_d595ae7d:
@@ -874,13 +874,13 @@ translate zh_hans deb19_kitchen_reuse_2ab0bebd_1:
 translate zh_hans deb19_kitchen_reuse_0a9cb1d0:
 
     # debbie e_b "Fffffaaaa..."
-    debbie e_b "嘶……啊……"
+    debbie e_b "呼啊啊……"
 
 # game/src/plot/deb19.rpy:414
 translate zh_hans deb19_kitchen_reuse_f618288e_2:
 
     # anon "{i}*Sluuuuuuurp*{/i}"
-    anon "{i}*用力吸吮*{/i}"
+    anon "{i}*吸溜——*{/i}"
 
 # game/src/plot/deb19.rpy:416
 translate zh_hans deb19_kitchen_reuse_5ade5767:
@@ -1174,7 +1174,7 @@ translate zh_hans deb19_kitchen_merge_bdd13ee2:
 translate zh_hans deb19_kitchen_bail1_1941e1df:
 
     # anon "{i}*Ahem*{/i} R-right, well..."
-    anon "{i}*清嗓子*{/i} 那、那就……"
+    anon "{i}*咳咳*{/i} 那、那就……"
 
 # game/src/plot/deb19.rpy:525
 translate zh_hans deb19_kitchen_bail1_49164688:
@@ -1780,7 +1780,7 @@ translate zh_hans deb19_wake_3f059666:
 translate zh_hans deb19_wake_701cb583:
 
     # debbie "That's my boy."
-    debbie "这才是我的好孩子。"
+    debbie "这才对嘛。"
 
 # game/src/plot/deb19.rpy:733
 translate zh_hans deb19_wake_84bf3bd5:

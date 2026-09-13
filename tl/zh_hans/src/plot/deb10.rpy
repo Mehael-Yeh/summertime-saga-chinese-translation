@@ -298,7 +298,7 @@ translate zh_hans deb10_bed1_603f5696:
 translate zh_hans deb10_bed1_68d1ef63:
 
     # jenny p_bend_away "Who flicks their bean in the middle of the day with their kid in the house?!"
-    jenny p_bend_away "谁会大白天的、家里还有孩子就摸自己下面啊？！"
+    jenny p_bend_away "谁会大白天的、家里还有孩子就自慰啊？！"
 
 # game/src/plot/deb10.rpy:86
 translate zh_hans deb10_bed1_1d0a55af:

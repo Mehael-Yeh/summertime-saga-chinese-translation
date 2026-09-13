@@ -11,7 +11,7 @@ translate zh_hans ari_stall_25d0a9c4:
 # game/src/plot/ari_stall.rpy:11
 translate zh_hans ari_stall_77f2b199:
     # ariane a_cover_boobs oa_none "{i}*Gasp*{/i}"
-    ariane a_cover_boobs oa_none "{i}*倒抽一口气*{/i}"
+    ariane a_cover_boobs oa_none "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/ari_stall.rpy:13
 translate zh_hans ari_stall_6562ae38:

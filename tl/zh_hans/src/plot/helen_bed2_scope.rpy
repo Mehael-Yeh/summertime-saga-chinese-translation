@@ -76,7 +76,7 @@ translate zh_hans helen_bed2_scope_teddy_4179efce:
 translate zh_hans helen_bed2_scope_teddy_ece9f807:
 
     # anon "( That's really hot- )"
-    anon "（真性感……）"
+    anon "（真性感——）"
 
 # game/src/plot/helen_bed2_scope.rpy:81
 translate zh_hans helen_bed2_scope_teddy_44746db4:

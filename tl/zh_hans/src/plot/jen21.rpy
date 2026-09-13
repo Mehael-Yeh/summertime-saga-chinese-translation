@@ -532,7 +532,7 @@ translate zh_hans jen21_jenny_merge_e7775703:
 translate zh_hans jen21_jenny_merge_a17c551f:
 
     # jenny e_wsw f_horny -m_laugh "So boys, how was the show?"
-    jenny e_wsw f_horny -m_laugh "怎么样，宝贝们，这场直播好看吗？"
+    jenny e_wsw f_horny -m_laugh "怎么样，小伙子们，这场直播好看吗？"
 
 # game/src/plot/jen21.rpy:188
 translate zh_hans jen21_jenny_merge_6e2bd495:
@@ -586,7 +586,7 @@ translate zh_hans jen21_jenny_merge_12260c90:
 translate zh_hans jen21_jenny_merge_73c6379e:
 
     # "*PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*{w=.03} *PING*"
-    "*叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮* {w=.03} *叮*"
+    "*叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*{w=.03} *叮*"
 
 # game/src/plot/jen21.rpy:204
 translate zh_hans jen21_jenny_merge_5961256b:
@@ -898,7 +898,7 @@ translate zh_hans jen21_jenny_reuse_4d58a59d:
 translate zh_hans jen21_jenny_reuse_e545eb5a:
 
     # jenny a_down e_sw f_horny p_bed_sit_side_turn -m_full "Show's over boys!"
-    jenny a_down e_sw f_horny p_bed_sit_side_turn -m_full "直播结束了，宝贝们！"
+    jenny a_down e_sw f_horny p_bed_sit_side_turn -m_full "直播结束了，小伙子们！"
 
 # game/src/plot/jen21.rpy:314
 translate zh_hans jen21_jenny_reuse_88dfe80b:

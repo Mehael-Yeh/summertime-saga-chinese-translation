@@ -928,7 +928,7 @@ translate zh_hans jen_gfe_jenny_7d8b5fa7:
 translate zh_hans jen_gfe_jenny_a5849f77:
 
     # jenny a_push "Good boy!"
-    jenny a_push "乖男孩！"
+    jenny a_push "真乖！"
 
 # game/src/plot/jen_gfe.rpy:351
 translate zh_hans jen_gfe_jenny_b431a19b:

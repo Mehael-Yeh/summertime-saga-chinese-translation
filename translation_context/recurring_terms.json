@@ -52,7 +52,10 @@
       "addressee": "Anon",
       "translation": "亲爱的；歌曲/明确母性语境可译“宝贝”",
       "first_seen": "tl/zh_hans/src/plot/deb01.rpy",
-      "note": "Debbie 的高频照顾型称呼；普通对话保持“亲爱的”，不用“亲亲”“甜心”等漂移译法。关系阶段差异应通过整句语气体现。"
+      "note": "Debbie 的高频照顾型称呼；普通对话保持“亲爱的”，歌曲或明确母性语境可用“宝贝”。固定习语 That’s why you’re my sweetie 按“所以我才这么疼你”处理，属已确认例外。",
+      "source_exceptions": [
+        "That's why you're my sweetie"
+      ]
     },
     {
       "id": "vehicle_blue_falcon",
@@ -153,12 +156,13 @@
       "id": "eddie_four_fingers",
       "source_regex": "\\b(?:Eddie\\s+)?Four-Fingers\\b",
       "target_regexes": [
-        "(?:Eddie\\s+)?Four-Fingers"
+        "四指\\s*Eddie",
+        "四指"
       ],
       "category": "proper_name",
-      "translation": "Eddie Four-Fingers / Four-Fingers",
+      "translation": "四指Eddie／四指",
       "first_seen": "tl/zh_hans/src/plot/ano11.rpy",
-      "note": "旧黑帮人物的姓名与绰号；按原文出现形式保持英文。"
+      "note": "旧黑帮人物的姓名与绰号：保留英文名 Eddie，同时保留 Four-Fingers 的“四指”特征，按中文语序写成“四指Eddie”；单独出现 Four-Fingers 时用“四指”。"
     },
     {
       "id": "dimitri_little_bunny",
@@ -519,13 +523,14 @@
       "id": "jenny_lovey_dovey_bullshit",
       "source_regex": "\\blovey-dovey bullshit\\b",
       "target_regexes": [
-        "卿卿我我的屁话"
+        "卿卿我我的屁话",
+        "卿卿我我的破玩意儿"
       ],
       "category": "relationship_language",
       "speaker": "Jenny",
-      "translation": "卿卿我我的屁话",
+      "translation": "卿卿我我的屁话（指说辞）／卿卿我我的破玩意儿（指恋爱式安排、活动）",
       "first_seen": "tl/zh_hans/src/plot/jen27.rpy",
-      "note": "Jenny 用于贬低恋爱式亲密和约会诉求的粗俗表达；jen27.rpy 与 jen_gfe.rpy 已按关系阶段统一。"
+      "note": "Jenny 用于贬低恋爱式亲密的粗俗表达；必须按指代对象区分：骂对方的说法、话头用“屁话”（jen27），指具体的恋爱式安排或活动用“破玩意儿”（jen_gfe）。不得为求字面统一而互相替换。"
     },
     {
       "id": "jenny_girlfriend_experience",
@@ -627,13 +632,13 @@
       "id": "jenny_princess_title",
       "source_regex": "\\bPrincess\\s+\\[saga\\.cast\\.jenny\\]",
       "target_regexes": [
-        "公主\\[saga\\.cast\\.jenny\\]"
+        "\\[saga\\.cast\\.jenny\\]公主"
       ],
       "category": "adult_role_title",
       "speaker": "Jenny / Anon",
-      "translation": "公主[saga.cast.jenny]",
+      "translation": "[saga.cast.jenny]公主",
       "first_seen": "tl/zh_hans/src/plot/jen21.rpy",
-      "note": "Jenny 线支配角色称谓；变量保持原样，中文统一为“公主[saga.cast.jenny]”，内部复述使用中文双引号。"
+      "note": "Jenny 线支配角色称谓；按中文语序把姓名变量放在“公主”前，变量保持原样，内部复述使用中文双引号。"
     },
     {
       "id": "jenny_sex_goddess",
@@ -711,13 +716,13 @@
       "id": "vehicle_crotch_rocket",
       "source_regex": "\\bSL-700 Crotch Rocket\\b",
       "target_regexes": [
-        "SL-700 胯下火箭"
+        "SL-700胯下火箭"
       ],
       "category": "vehicle_name_double_entendre",
       "speaker": "Josie",
-      "translation": "SL-700 胯下火箭",
+      "translation": "SL-700胯下火箭",
       "first_seen": "tl/zh_hans/src/plot/jos_trade.rpy",
-      "note": "纯电动踏板车车型名；保留 crotch rocket 的胯下／高速摩托双关，不译成“肌肉摩托”。"
+      "note": "纯电动踏板车车型名；车型编号与中文之间不加空格，保留 crotch rocket 的胯下／高速摩托双关。"
     },
     {
       "id": "yoo_poor_boy",
@@ -786,15 +791,15 @@
       "id": "judith_food_exclamations",
       "source_regex": "(?:wowie waffles|Magnificent muffins|Holy honey buns)",
       "target_regexes": [
-        "哇哦，华夫饼！",
-        "妙极了，松饼！",
-        "老天，蜂蜜面包！"
+        "我的华夫饼呀",
+        "我的松饼呀",
+        "我的蜂蜜面包啊"
       ],
       "category": "character_catchphrase",
       "speaker": "Judith",
-      "translation": "按原句分别译为“哇哦，华夫饼！”／“妙极了，松饼！”／“老天，蜂蜜面包！”",
+      "translation": "按原句分别译为“我的华夫饼呀”／“我的松饼呀”／“我的蜂蜜面包啊”",
       "first_seen": "tl/zh_hans/src/plot/jud02.rpy",
-      "note": "Judith幼稚、押头韵又古怪的食物式感叹；保留具体食物意象，不抹平成普通“太棒了／天哪”。"
+      "note": "Judith 幼稚、押头韵又古怪的食物式感叹；保留具体食物意象和角色口吻，不抹平成普通“天哪”。"
     },
     {
       "id": "judith_specs",
@@ -1080,7 +1085,10 @@
       "category": "location_term",
       "translation": "校务办公室",
       "first_seen": "tl/zh_hans/src/plot/school_pa.rpy",
-      "note": "学校处理紧急情况和失物的校务地点；与Ursula的私人校长办公室区分。"
+      "note": "学校处理紧急情况和失物的校务地点；与 Ursula 的私人校长办公室区分。银行办公区语境（如 Tina 所在隔间）不适用本规则。",
+      "source_exceptions": [
+        "cubicle in the main office"
+      ]
     },
     {
       "id": "tammy_exercise_ball",
@@ -1575,6 +1583,82 @@
       "category": "ui",
       "translation": "自动朗读",
       "note": "设置项、辅助功能说明与启停提示统一；音量降低仍保留其附加含义。"
+    },
+    {
+      "id": "debbie_that_is_my_good_boy",
+      "source_regex": "That[’']s my good boy",
+      "target_regexes": [
+        "这才乖嘛"
+      ],
+      "category": "praise",
+      "speaker": "Debbie",
+      "addressee": "Anon",
+      "translation": "这才乖嘛",
+      "first_seen": "tl/zh_hans/src/plot/deb06.rpy",
+      "note": "Debbie 的支配式亲昵夸奖；句末标点随原文，不写成“这才是我的好男孩／乖孩子”。"
+    },
+    {
+      "id": "debbie_that_is_my_boy",
+      "source_regex": "That[’']s my boy",
+      "target_regexes": [
+        "这才对嘛"
+      ],
+      "category": "praise",
+      "speaker": "Debbie",
+      "addressee": "Anon",
+      "translation": "这才对嘛",
+      "first_seen": "tl/zh_hans/src/plot/deb12.rpy",
+      "note": "与 That's my good boy 区分；照顾语境里表示认可，不写成“好孩子”。"
+    },
+    {
+      "id": "caregiver_good_boy_praise",
+      "source_regex": "(?<!my )\\bgood boy[.!]?\\s*$",
+      "target_regexes": [
+        "真乖"
+      ],
+      "source_exceptions": [
+        "Who[’']s a good boy",
+        "good boys get treats",
+        "If you[’']re a good boy",
+        "He[’']s such a good boy",
+        "You[’']re (such )?a good boy"
+      ],
+      "category": "praise",
+      "speaker": "Debbie / Melody / Tina / Maria / Jenny",
+      "addressee": "Anon",
+      "translation": "真乖",
+      "first_seen": "tl/zh_hans/src/plot/deb18.rpy",
+      "note": "支配式或照顾式短夸奖统一“真乖”；jen_shower 的狗化玩笑、条件句和第三人称句按例外单独处理。"
+    },
+    {
+      "id": "caregiver_you_are_a_good_boy",
+      "source_regex": "You[’']re (such )?a good boy",
+      "target_regexes": [
+        "你真是个好孩子",
+        "你是个好孩子"
+      ],
+      "category": "praise",
+      "speaker": "Debbie",
+      "addressee": "Anon",
+      "translation": "你真是个好孩子／你是个好孩子",
+      "first_seen": "tl/zh_hans/src/plot/deb19.rpy",
+      "note": "Debbie 的照顾式夸奖统一“好孩子”，不用“好男孩／乖孩子”；不据此写成母子关系。",
+      "source_exceptions": [
+        "If you[’']re a good boy"
+      ]
+    },
+    {
+      "id": "debbie_proud_of_my_boy",
+      "source_regex": "proud of my boy",
+      "target_regexes": [
+        "你真让我骄傲"
+      ],
+      "category": "praise",
+      "speaker": "Debbie",
+      "addressee": "Anon",
+      "translation": "你真让我骄傲",
+      "first_seen": "tl/zh_hans/src/plot/deb03.rpy",
+      "note": "按整句译成鼓励，不写成“我的儿子”。"
     }
   ]
 }

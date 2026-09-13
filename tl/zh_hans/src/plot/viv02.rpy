@@ -10,7 +10,7 @@ translate zh_hans viv02_setup_viv_d03760e5:
 translate zh_hans viv02_setup_viv_d4fa1d6d:
 
     # viv "Non, [saga.cast.anon]... there is simply too much to be doing, I'm afraid."
-    viv "不，[saga.cast.anon]……恐怕有太多事要做了。"
+    viv "Non（不），[saga.cast.anon]……恐怕有太多事要做了。"
 
 # game/src/plot/viv02.rpy:9
 translate zh_hans viv02_setup_viv_41a633bc:
@@ -34,7 +34,7 @@ translate zh_hans viv02_french_28d86114:
 translate zh_hans viv02_french_0fec3b60:
 
     # viv "Je suis désolée! It completely slipped my mind!"
-    viv "抱歉！我完全忘了！"
+    viv "Je suis désolée!（抱歉！）我完全忘了！"
 
 # game/src/plot/viv02.rpy:27
 translate zh_hans viv02_french_d8f18dda:
@@ -220,7 +220,7 @@ translate zh_hans viv02_french_845650ea:
 translate zh_hans viv02_french_06731ee9:
 
     # viv "Très bien! You had best be getting started then."
-    viv "很好！那你最好现在就开始吧。"
+    viv "Très bien!（很好！）那你最好现在就开始吧。"
 
 # game/src/plot/viv02.rpy:112
 translate zh_hans viv02_french_d2832fab:
@@ -813,7 +813,7 @@ translate zh_hans viv02_books_hall1w_895edfd3:
 translate zh_hans viv02_books_hall1w_3a402e8b:
 
     # camila "... What do you want, culo?"
-    camila "……你想干嘛，臭小子？"
+    camila "……你想干嘛，culo（屁眼）？"
 
 # game/src/plot/viv02.rpy:433
 translate zh_hans viv02_books_hall1w_a0ee774d:
@@ -879,7 +879,7 @@ translate zh_hans viv02_books_hall1w_adf1976c:
 translate zh_hans viv02_books_hall1w_fdc2e6a5:
 
     # val f_annoyed "Later, culo!"
-    val f_annoyed "回头见，臭小子！"
+    val f_annoyed "回头见，culo（屁眼）！"
 
 # game/src/plot/viv02.rpy:454
 translate zh_hans viv02_books_hall1w_61959239:
@@ -1329,7 +1329,7 @@ translate zh_hans viv02_viv_3fe0545f:
 translate zh_hans viv02_viv_f7c6f409:
 
     # viv "Aww, tellement mignon..."
-    viv "啊，真可爱……"
+    viv "Aww, tellement mignon（真可爱）……"
 
 # game/src/plot/viv02.rpy:670
 translate zh_hans viv02_viv_34e49591:

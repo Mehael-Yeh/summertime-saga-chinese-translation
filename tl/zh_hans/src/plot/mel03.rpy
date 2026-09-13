@@ -175,7 +175,7 @@ translate zh_hans mel03_music_7a2ac6d7:
 
 
     # eve "Guys, come quick! You're not going to believe this!"
-    eve "兄弟们，快来看！你们绝对不敢相信！"
+    eve "大家，快来看！你们绝对不敢相信！"
 
 # game/src/plot/mel03.rpy:105
 translate zh_hans mel03_music_4673f064:
@@ -583,7 +583,7 @@ translate zh_hans mel03_music_07dc7cf3:
 
 
     # anon "O-okay?"
-    anon "好…好吧？"
+    anon "好……好吧？"
 
 # game/src/plot/mel03.rpy:287
 translate zh_hans mel03_music_83c6c53d:
@@ -803,7 +803,7 @@ translate zh_hans mel03_office1_eaf5ae3f:
 
 
     # kevin "Bro, Mrs. [saga.cast.ursula.clan] {i}was{/i} behind it!"
-    kevin "哥们，[saga.cast.ursula.clan]夫人 {i}就是{/i}幕后黑手！"
+    kevin "哥们，[saga.cast.ursula.clan]夫人{i}就是{/i}幕后黑手！"
 
 # game/src/plot/mel03.rpy:395
 translate zh_hans mel03_office1_d91a992e:
@@ -882,7 +882,7 @@ translate zh_hans mel03_office1_22f6967a:
 
 
     # kevin "Mrs. [saga.cast.ursula.clan] is the devil man, I bet her coochie smells like brimstone and sulfur!"
-    kevin "[saga.cast.ursula.clan]夫人就是恶魔，我打赌她的骚屄闻起来像硫磺和硝石！"
+    kevin "[saga.cast.ursula.clan]夫人就是恶魔，我打赌她的骚屄闻起来像硫磺和硫磺石！"
 
 # game/src/plot/mel03.rpy:425
 translate zh_hans mel03_office1_356f2ab5:

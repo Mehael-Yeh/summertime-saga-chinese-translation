@@ -285,7 +285,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:1309
     old "- Dual sybian (multi-{err=18}controler{/err})"
-    new "- 双人震荡机(多{err=18}控制器{/err})"
+    new "- 双人震荡机（多{err=18}控制器{/err}）"
 
     # game/src/mini/pc.rpy:1310
     old "- UltraVibrator 2000"

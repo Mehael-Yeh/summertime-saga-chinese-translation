@@ -166,7 +166,7 @@ translate zh_hans deb17_visit_3e700ad1:
 translate zh_hans deb17_visit_cf6241ba:
 
     # debbie a_rub_dick_01 e_se f_shy m_lip p_sit_edge_lean @ -m_talk "{i}*Gasp*{/i} ( Oh, my boy... my big, beautiful boy! )"
-    debbie a_rub_dick_01 e_se f_shy m_lip p_sit_edge_lean @ -m_talk "{i}*倒吸一口气*{/i}（哦，我的好孩子……你怎么会长得这么大、这么漂亮！）"
+    debbie a_rub_dick_01 e_se f_shy m_lip p_sit_edge_lean @ -m_talk "{i}*倒吸一口气*{/i}（哦，我的大宝贝……又大又漂亮的大宝贝！）"
 
 # game/src/plot/deb17.rpy:63
 translate zh_hans deb17_visit_c8cfd920:
@@ -202,7 +202,7 @@ translate zh_hans deb17_visit_5f50df20:
 translate zh_hans deb17_visit_110967c2:
 
     # debbie a_up f_shy @ -m_talk "( Ngh, it's just been so long since I've held one and... )"
-    debbie a_up f_shy @ -m_talk "（唔，我已经太久没握过男人的鸡巴了，而且……）"
+    debbie a_up f_shy @ -m_talk "（唔，我已经太久没握过这东西了，而且……）"
 
 # game/src/plot/deb17.rpy:70
 translate zh_hans deb17_visit_fd4f66e7:

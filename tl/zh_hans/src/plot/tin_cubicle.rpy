@@ -4,4 +4,4 @@
 translate zh_hans tin_cubicle_f84c712f:
 
     # anon a_point_down f_horny "Feel like bending over your desk again?"
-    anon a_point_down f_horny "又想趴在你的办公桌上了吗？"
+    anon a_point_down f_horny "又想被按在自己办公桌上了？"

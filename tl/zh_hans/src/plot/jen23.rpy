@@ -280,7 +280,7 @@ translate zh_hans jen23_scope_30a3584f:
 translate zh_hans jen23_scope_6cc24925:
 
     # jenny "I have to give it to you, [saga.cast.anon]."
-    jenny "不得不说，[saga.cast.anon]。"
+    jenny "我不得不服你，[saga.cast.anon]。"
 
 # game/src/plot/jen23.rpy:131
 translate zh_hans jen23_scope_b3be25a9:
@@ -478,7 +478,7 @@ translate zh_hans jen23_scope_reuse_354158c5:
 translate zh_hans jen23_scope_reuse_01cfc3da:
 
     # anon "Damnit, [saga.cast.jenny]!"
-    anon "妈的，[saga.cast.jenny]！"
+    anon "该死，[saga.cast.jenny]！"
 
 # game/src/plot/jen23.rpy:215
 translate zh_hans jen23_scope_reuse_990c13f9:
@@ -580,7 +580,7 @@ translate zh_hans jen23_scope_reuse_38b0db7a:
 translate zh_hans jen23_scope_reuse_a1e66d5a:
 
     # anon "Urfs ma uhnny!"
-    anon "这唔好笑！"
+    anon "这……不……好……笑！"
 
 # game/src/plot/jen23.rpy:258
 translate zh_hans jen23_scope_reuse_c8f77ef4:
@@ -1168,7 +1168,7 @@ translate zh_hans jen23_scope_alt_34f7aec2:
 translate zh_hans jen23_scope_alt_3016270d:
 
     # anon "Sheesh, you soaked me."
-    anon "天，你把我全身都弄湿了。"
+    anon "天啊，你把我全身都弄湿了。"
 
 # game/src/plot/jen23.rpy:475
 translate zh_hans jen23_scope_alt_a6db3842:

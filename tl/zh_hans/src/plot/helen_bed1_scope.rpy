@@ -34,7 +34,7 @@ translate zh_hans helen_bed1_scope_row_d91a992e:
 translate zh_hans helen_bed1_scope_row_8a07d9f3:
 
     # anon "( [saga.cast.harold] always looks so sad... )"
-    anon "（[saga.cast.harold]总是看起来那么悲伤……）"
+    anon "（[saga.cast.harold]看起来总是那么悲伤……）"
 
 # game/src/plot/helen_bed1_scope.rpy:48
 translate zh_hans helen_bed1_scope_sleep_88ffad9c:

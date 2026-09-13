@@ -88,7 +88,7 @@ translate zh_hans deb14_pants_a4fd0987:
 translate zh_hans deb14_pants_1db3b4fb:
 
     # anon a_debbie_pants_smell e_b f_happy m_laugh @ -m_talk "{i}*SNIIIIIIIIIIIIIIIIIIIIFFF*{/i}"
-    anon a_debbie_pants_smell e_b f_happy m_laugh @ -m_talk "{i}*用力吸——*{/i}"
+    anon a_debbie_pants_smell e_b f_happy m_laugh @ -m_talk "{i}*深深吸气*{/i}"
 
 # game/src/plot/deb14.rpy:29
 translate zh_hans deb14_pants_e9dd4475:
@@ -106,7 +106,7 @@ translate zh_hans deb14_pants_33d2478f:
 translate zh_hans deb14_pants_bf56001d:
 
     # anon a_pants_smell @ e_b -m_talk "{i}*SNIIIIIIIIIIIIIIIIIIIIFFF*{/i}"
-    anon a_pants_smell @ e_b -m_talk "{i}*用力吸——*{/i}"
+    anon a_pants_smell @ e_b -m_talk "{i}*深深吸气*{/i}"
 
 # game/src/plot/deb14.rpy:50
 translate zh_hans deb14_pants_bd1e18ca:
@@ -394,7 +394,7 @@ translate zh_hans deb14_pants_0f0bddfc:
 translate zh_hans deb14_pants_c40988ed:
 
     # debbie a_worried e_e p_sit_edge "Sweetie, language!"
-    debbie a_worried e_e p_sit_edge "亲爱的，不许说脏话！"
+    debbie a_worried e_e p_sit_edge "亲爱的，注意言辞！"
 
 # game/src/plot/deb14.rpy:194
 translate zh_hans deb14_pants_93370f6e:
@@ -682,7 +682,7 @@ translate zh_hans deb14_pants_95394da4:
 translate zh_hans deb14_pants_5b8cc29f:
 
     # debbie f_sad "Sweetie, language."
-    debbie f_sad "亲爱的，注意用词。"
+    debbie f_sad "亲爱的，注意言辞。"
 
 # game/src/plot/deb14.rpy:302
 translate zh_hans deb14_pants_feeb2acd:
@@ -886,7 +886,7 @@ translate zh_hans deb14_pants_fail1_b9927932:
 translate zh_hans deb14_pants_fail1_c39819d8:
 
     # debbie "Just please, try and do it elsewhere from now on."
-    debbie "以后换个地方做，别再来我房间了，好吗？"
+    debbie "以后换个地方做，别再来我房间了。"
 
 # game/src/plot/deb14.rpy:381
 translate zh_hans deb14_pants_fail1_bd4a0a9a:
@@ -904,7 +904,7 @@ translate zh_hans deb14_pants_fail1_c8e5c5a9:
 translate zh_hans deb14_pants_fail2_349eacdd:
 
     # anon f_worried "Girls my age are... I dunno, difficult."
-    anon f_worried "我这个年纪的女生……怎么说呢，挺难懂的。"
+    anon f_worried "我这个年纪的女生……怎么说呢，挺难相处的。"
 
 # game/src/plot/deb14.rpy:390
 translate zh_hans deb14_pants_fail2_87b1f2cf:
@@ -1096,7 +1096,7 @@ translate zh_hans deb14_reset2_pants_b5818d50:
 translate zh_hans deb14_outro_bath1_6a305926:
 
     # anon @ -m_talk "( [saga.cast.debbie] seemed surprisingly agreeable with everything that went on down there... )"
-    anon @ -m_talk "（没想到[saga.cast.debbie]似乎并不介意刚才发生的那些事……）"
+    anon @ -m_talk "（没想到[saga.cast.debbie]对刚才那些事居然还挺配合……）"
 
 # game/src/plot/deb14.rpy:492
 translate zh_hans deb14_outro_bath1_b97b511b:

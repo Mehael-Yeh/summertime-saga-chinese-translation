@@ -112,7 +112,7 @@ translate zh_hans dia02_diane_merge_bcd41142:
 translate zh_hans dia02_diane_merge_8711fe5e:
 
     # diane e_b f_shy m_laugh of_blush @ -m_talk "!!!" with hpunch
-    diane e_b f_shy m_laugh of_blush @ -m_talk "!!!" with hpunch
+    diane e_b f_shy m_laugh of_blush @ -m_talk "！！！" with hpunch
 
 # game/src/plot/dia02.rpy:38
 translate zh_hans dia02_diane_merge_60bcb0a1:
@@ -436,7 +436,7 @@ translate zh_hans dia02_diane_merge_20c89c33:
 translate zh_hans dia02_diane_merge_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/dia02.rpy:143
 translate zh_hans dia02_diane_merge_f5d50a11:
@@ -586,7 +586,7 @@ translate zh_hans dia02_diane_merge_5bd7337c:
 translate zh_hans dia02_diane_merge_ac5f9504_1:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/dia02.rpy:200
 translate zh_hans dia02_diane_merge_11d10ded:
@@ -730,7 +730,7 @@ translate zh_hans dia02_diane_fail_403b64bc:
 translate zh_hans dia02_diane_fail_c466557c:
 
     # anon "Ghhh..."
-    anon "咳……"
+    anon "呃……"
 
 # game/src/plot/dia02.rpy:258
 translate zh_hans dia02_diane_fail_6ab9833b:

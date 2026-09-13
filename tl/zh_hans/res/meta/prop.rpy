@@ -314,10 +314,10 @@ translate zh_hans strings:
     new "一本关于性爱艺术的书。"
     # game/res/meta/prop.rpym:140
     old "Chola's Tricks"
-    new "乔拉的妙招"
+    new "Chola的招数"
     # game/res/meta/prop.rpym:141
     old "A comprehensive guide to eyebrow makeovers, bandanas, piercings, and putting down skank ass hoes."
-    new "一本关于眉毛改造、头巾、穿孔以及收拾贱人的全面指南"
+    new "一本关于眉毛改造、头巾、穿孔以及收拾骚货的全面指南"
     # game/res/meta/prop.rpym:143
     old "Bug Annihilator"
     new "灭虫歼灭者"
@@ -410,7 +410,7 @@ translate zh_hans strings:
     new "用敌人伤痕累累的皮肤制成的兽人女王专属装束。"
     # game/res/meta/prop.rpym:188
     old "A couple of cosplay outfits"
-    new "几件角色扮演服装"
+    new "几件cosplay服装"
     # game/res/meta/prop.rpym:189
     old "Seems to be a bunch of thin white satin and colorful costume jewelry. I wonder what kind of costume it is..."
     new "看起来是一堆薄薄的白色缎子和五颜六色的服装首饰。不知道是什么样的服装……"
@@ -587,7 +587,7 @@ translate zh_hans strings:
     new "GoldSchwagger伏特加"
     # game/res/meta/prop.rpym:288
     old "[saga.cast.becca] seems to be very fond of that stuff, it has little golden flakes in it..."
-    new "[saga.cast.becca]似乎很喜欢那东西，里面有金色的薄片…"
+    new "[saga.cast.becca]似乎很喜欢那东西，里面有金色的薄片……"
     # game/res/meta/prop.rpym:290
     old "A glass of water"
     new "一杯水"
@@ -923,7 +923,7 @@ translate zh_hans strings:
     new "一些传说影院的宣传材料"
     # game/res/meta/prop.rpym:462
     old "This is just the ticket to help unmask [saga.cast.jenny]'s stalker."
-    new "这正是查清跟踪[saga.cast.jenny]那家伙身份的好线索。"
+    new "有了这个，就能查出[saga.cast.jenny]的跟踪狂到底是谁。"
     # game/res/meta/prop.rpym:464
     old "A pair of CineSaga movie tickets"
     new "两张传说影院电影票"

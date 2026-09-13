@@ -36,7 +36,7 @@ translate zh_hans sam_stall_732b4031:
 # game/src/plot/sam_stall.rpy:21
 translate zh_hans sam_stall_2ba2250e:
     # sammy "UMMM, HELLO?!" with hpunch
-    sammy "喂——你看够了没有？！" with hpunch
+    sammy "喂——？！" with hpunch
 
 # game/src/plot/sam_stall.rpy:22
 translate zh_hans sam_stall_016fbd8e:
@@ -51,7 +51,7 @@ translate zh_hans sam_stall_53458dd2:
 # game/src/plot/sam_stall.rpy:27
 translate zh_hans sam_stall_54ff4cb6:
     # sammy @ e_r "Ugh, fucking teenagers!"
-    sammy @ e_r "呃，真他妈受不了这些小屁孩！"
+    sammy @ e_r "呃，这帮该死的小屁孩！"
 
 # game/src/plot/sam_stall.rpy:28
 translate zh_hans sam_stall_c5a22b57:

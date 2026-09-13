@@ -412,7 +412,7 @@ translate zh_hans mel01_office_70870aa2:
 translate zh_hans mel01_office_91218105:
 
     # melody "Grrr..."
-    melody "唔……"
+    melody "哼……"
 
 # game/src/plot/mel01.rpy:192
 translate zh_hans mel01_office_b86acc84:
@@ -502,7 +502,7 @@ translate zh_hans mel01_melody_bd390d83:
 translate zh_hans mel01_melody_72aaaa55:
 
     # melody "[saga.cast.tyrone]."
-    melody "[saga.cast.tyrone]."
+    melody "[saga.cast.tyrone]。"
 
 # game/src/plot/mel01.rpy:239
 translate zh_hans mel01_melody_83244204:
@@ -1096,7 +1096,7 @@ translate zh_hans mel01_retry_busy_9e3d46b6:
 translate zh_hans mel01_retry_busy_0d76b540:
 
     # judith "I- I'll remember it next time, I promise."
-    judith "我——我下次一定记住，我保证。"
+    judith "我、我下次一定记住，我保证。"
 
 # game/src/plot/mel01.rpy:571
 translate zh_hans mel01_retry_busy_502acb5b:
@@ -1132,7 +1132,7 @@ translate zh_hans mel01_retry_busy_2c20ae74:
 translate zh_hans mel01_hall1w_dd6b361b:
 
     # judith "H-hi."
-    judith "你——你好。"
+    judith "你、你好。"
 
 # game/src/plot/mel01.rpy:588
 translate zh_hans mel01_hall1w_ee31d607:
@@ -1150,13 +1150,13 @@ translate zh_hans mel01_hall1w_4a9a5c3e:
 translate zh_hans mel01_hall1w_f29af223:
 
     # judith "T-there you are. It's open..."
-    judith "好——好了，打开了……"
+    judith "好、好了，打开了……"
 
 # game/src/plot/mel01.rpy:595
 translate zh_hans mel01_hall1w_8e3fbe32:
 
     # judith "... T-take whatever you want."
-    judith "……随——随便拿你想要的东西。"
+    judith "……随、随便拿你想要的东西。"
 
 # game/src/plot/mel01.rpy:598
 translate zh_hans mel01_hall1w_15c522fc:
@@ -1216,7 +1216,7 @@ translate zh_hans mel01_flute_3c7067f0:
 translate zh_hans mel01_flute_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/mel01.rpy:638
 translate zh_hans mel01_flute_9e691b4b:
@@ -1246,7 +1246,7 @@ translate zh_hans mel01_flute_df3c6a8d:
 translate zh_hans mel01_flute_270304a0:
 
     # anon "Y-yeah. Well, it used to be anyways."
-    anon "是……是的。好吧，至少它曾经是。"
+    anon "是、是的。好吧，至少它曾经是。"
 
 # game/src/plot/mel01.rpy:652
 translate zh_hans mel01_flute_9cd1ae88:
@@ -1450,7 +1450,7 @@ translate zh_hans mel01_craft_erik_0995b891:
 translate zh_hans mel01_craft_erik_2f228f49:
 
     # anon "Errr... right... but I actually meant the part about how to make one."
-    anon "呃…对…但我其实说的是怎么制作笛子的部分。"
+    anon "呃……对……但我其实说的是怎么制作笛子的部分。"
 
 # game/src/plot/mel01.rpy:762
 translate zh_hans mel01_craft_erik_fcaf6688:

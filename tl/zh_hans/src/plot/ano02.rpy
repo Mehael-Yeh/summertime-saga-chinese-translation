@@ -400,7 +400,7 @@ translate zh_hans ano02_harold_a9c39fb9:
 translate zh_hans ano02_harold_d61dd8e2:
 
     # anon a_surprised_up_both e_w f_surprised m_teeth o_left @ -m_talk "!!!" with hpunch
-    anon a_surprised_up_both e_w f_surprised m_teeth o_left @ -m_talk "!!!" with hpunch
+    anon a_surprised_up_both e_w f_surprised m_teeth o_left @ -m_talk "！！！" with hpunch
 
 # game/src/plot/ano02.rpy:103
 translate zh_hans ano02_harold_eb62d30e:
@@ -520,7 +520,7 @@ translate zh_hans ano02_harold_cb7bd29c:
 translate zh_hans ano02_harold_435f373a:
 
     # debbie "{i}*Sniff*{/i} Yeah, okay."
-    debbie "{i}*抽鼻子*{/i} 嗯，好。"
+    debbie "{i}*抽泣*{/i} 嗯，好。"
 
 # game/src/plot/ano02.rpy:150
 translate zh_hans ano02_harold_2abf6ca6:
@@ -586,7 +586,7 @@ translate zh_hans ano02_harold_0b6d7aa6:
 translate zh_hans ano02_harold_212ba9af:
 
     # debbie "{i}*Sniff*{/i} How much of that did you overhear?"
-    debbie "{i}*抽鼻子*{/i} 你刚才听到了多少？"
+    debbie "{i}*抽泣*{/i} 你刚才听到了多少？"
 
 # game/src/plot/ano02.rpy:166
 translate zh_hans ano02_harold_d5aa6e80:
@@ -688,7 +688,7 @@ translate zh_hans ano02_harold_9cef8598:
 translate zh_hans ano02_harold_12bcb0ac:
 
     # debbie "{i}*Sniff*{/i} Everything is going to be alright."
-    debbie "{i}*抽鼻子*{/i} 一切都会好起来的。"
+    debbie "{i}*抽泣*{/i} 一切都会好起来的。"
 
 # game/src/plot/ano02.rpy:188
 translate zh_hans ano02_harold_808b01db:

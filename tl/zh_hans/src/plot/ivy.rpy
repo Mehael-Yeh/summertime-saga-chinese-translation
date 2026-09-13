@@ -4,13 +4,13 @@
 translate zh_hans ivy_toy_shop_intro1_3a811524:
 
     # ivy "Hi!"
-    ivy "你好！"
+    ivy "嗨！"
 
 # game/src/plot/ivy.rpy:25
 translate zh_hans ivy_toy_shop_intro1_92f9010b:
 
     # ivy "Can I help you with something?"
-    ivy "有什么需要帮忙的吗？"
+    ivy "需要帮忙吗？"
 
 # game/src/plot/ivy.rpy:26
 translate zh_hans ivy_toy_shop_intro1_c13ff846:

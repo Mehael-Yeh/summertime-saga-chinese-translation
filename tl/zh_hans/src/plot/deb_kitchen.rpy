@@ -970,7 +970,7 @@ translate zh_hans deb_kitchen_f2bb06b8:
 translate zh_hans deb_kitchen_7ec08726:
 
     # anon a_finger f_horny_smug "Naughty landlady."
-    anon a_finger f_horny_smug "真是个坏坏的房东太太。"
+    anon a_finger f_horny_smug "真是个不安分的房东太太。"
 
 # game/src/plot/deb_kitchen.rpy:309
 translate zh_hans deb_kitchen_7e9695f2:

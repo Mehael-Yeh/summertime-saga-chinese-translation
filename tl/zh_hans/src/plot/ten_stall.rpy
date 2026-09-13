@@ -81,7 +81,7 @@ translate zh_hans ten_stall_83c59d35:
 # game/src/plot/ten_stall.rpy:27
 translate zh_hans ten_stall_009620ad:
     # anon a_wtf "... You know, for changing!"
-    anon a_wtf "……顾名思义，是用来换衣服的！"
+    anon a_wtf "……就是用来换衣服的！"
 
 # game/src/plot/ten_stall.rpy:29
 translate zh_hans ten_stall_32083177:

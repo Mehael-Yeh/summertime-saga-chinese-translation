@@ -358,7 +358,7 @@ translate zh_hans tor02_judith1_5edd77a7:
 translate zh_hans tor02_judith1_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/tor02.rpy:165
 translate zh_hans tor02_judith1_8a113460:
@@ -1078,7 +1078,7 @@ translate zh_hans tor02_judith2_64739640:
 translate zh_hans tor02_judith2_0837b35e:
 
     # judith "... Just, come sit next to me."
-    judith "…… 就，过来坐我旁边。"
+    judith "……就，过来坐我旁边。"
 
 # game/src/plot/tor02.rpy:506
 translate zh_hans tor02_judith2_c6e322d8:
@@ -1120,7 +1120,7 @@ translate zh_hans tor02_judith2_474a579d:
 translate zh_hans tor02_judith2_f4932d60:
 
     # mono "... But it seemed like a small price to pay for the lenses [saga.cast.tori] wanted, though."
-    mono "…… 不过，为了[saga.cast.tori]想要的镜片，这似乎只是小小的代价。"
+    mono "……不过，为了[saga.cast.tori]想要的镜片，这似乎只是小小的代价。"
 
 # game/src/plot/tor02.rpy:530
 translate zh_hans tor02_judith2_210b3479:
@@ -1516,7 +1516,7 @@ translate zh_hans tor02_locker_item_d10f466a:
 translate zh_hans tor02_locker_item_ca3e8a62:
 
     # anon a_think e_nw f_pensive @ -m_talk "( ... {i}Or{/i} maybe I could look into the master key that [saga.cast.annie] mentioned. )"
-    anon a_think e_nw f_pensive @ -m_talk "（…… {i}或者{/i}我可以去查查[saga.cast.annie]提到的那把万能钥匙。）"
+    anon a_think e_nw f_pensive @ -m_talk "（……{i}或者{/i}我可以去查查[saga.cast.annie]提到的那把万能钥匙。）"
 
 # game/src/plot/tor02.rpy:701
 translate zh_hans tor02_locker_judith_2df56097:
@@ -1876,7 +1876,7 @@ translate zh_hans tor02_tori_merge_aceae2bb:
 translate zh_hans tor02_tori_merge_5f715f5b:
 
     # anon "What the-"
-    anon "什么——"
+    anon "搞什么——"
 
 # game/src/plot/tor02.rpy:908
 translate zh_hans tor02_tori_merge_eceb24ff:
@@ -1906,7 +1906,7 @@ translate zh_hans tor02_tori_merge_9489415d:
 translate zh_hans tor02_tori_merge_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/tor02.rpy:942
 translate zh_hans tor02_tori_merge_778b8330:
@@ -1990,7 +1990,7 @@ translate zh_hans tor02_tori_merge_18e313fe:
 translate zh_hans tor02_tori_merge_c5d0b2f6:
 
     # anon "Y-yeah?"
-    anon "呃…嗯？"
+    anon "呃……嗯？"
 
 # game/src/plot/tor02.rpy:991
 translate zh_hans tor02_tori_merge_e4e6a313:
@@ -2524,7 +2524,7 @@ translate zh_hans tor02_office2_827ff6b5:
 translate zh_hans tor02_office2_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "( !!! )" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/tor02.rpy:1287
 translate zh_hans tor02_office2_fd2ecf18:
@@ -2596,7 +2596,7 @@ translate zh_hans tor02_office2_fb186ebe:
 translate zh_hans tor02_office2_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/tor02.rpy:1323
 translate zh_hans tor02_office2_41f44d41:

@@ -424,7 +424,7 @@ translate zh_hans bar06_office3_58ee4c24:
 translate zh_hans bar06_office3_66f4e5a8:
 
     # anon "( !!! )" with hpunch
-    anon "（!!!）" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/bar06.rpy:212
 translate zh_hans bar06_office3_95ffcf57:
@@ -610,7 +610,7 @@ translate zh_hans bar06_office3_b4433feb:
 translate zh_hans bar06_office3_66f4e5a8_1:
 
     # anon "( !!! )" with hpunch
-    anon "（!!!）" with hpunch
+    anon "（！！！）" with hpunch
 
 # game/src/plot/bar06.rpy:309
 translate zh_hans bar06_office3_ba382acd:

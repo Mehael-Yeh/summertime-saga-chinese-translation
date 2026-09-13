@@ -580,7 +580,7 @@ translate zh_hans jen06_snoop_alt_baf9a9ef:
 translate zh_hans jen06_snoop_alt_151c6bbc:
 
     # anon @ -m_talk "( Damn, I really wanted to see those pictures but not so much that I'll let her walk all over me. )"
-    anon @ -m_talk "（该死，我是真的很想看那些照片，但还不至于任她这么拿捏。）"
+    anon @ -m_talk "（该死，我是真的很想看那些照片，但还不至于任她这么摆布。）"
 
 # game/src/plot/jen06.rpy:261
 translate zh_hans jen06_snoop_alt_c7dc7288:

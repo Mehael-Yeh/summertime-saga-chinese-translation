@@ -52,7 +52,7 @@ translate zh_hans konty_school_office2_misc2_daf72a44:
 translate zh_hans konty_school_office2_misc2_606ecad4:
 
     # konty "Llena mis partes traviesas con emocion!"
-    konty "用激情填满我的调皮部位！"
+    konty "Llena mis partes traviesas con emocion（用激情填满我调皮的部位）！"
 
 # game/src/plot/konty.rpy:43
 translate zh_hans konty_school_office2_misc3_028b2fb2:

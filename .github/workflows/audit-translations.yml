@@ -1,0 +1,54 @@
+name: Audit translations
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PYTHONIOENCODING: utf-8
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Validate translation structure
+        run: python tools/validate_translations.py --no-compare
+
+      - name: Check sentence baseline
+        run: python tools/audit_sentence_consistency.py --check-approved translation_context/sentence_patterns.json
+
+      - name: Check recurring terms
+        run: python tools/audit_recurring_terms.py --fail-on-mismatch
+
+      - name: Check mixed spacing
+        run: python tools/audit_mixed_spacing.py
+
+      - name: Check SMS mapping
+        run: python tools/check_sms_mapping.py
+
+      - name: Check input code aliases
+        run: python tools/check_input_code_aliases.py
+
+      - name: Check review ledger integrity
+        run: python tools/audit_manual_coverage.py
+
+      - name: Run audit tool tests
+        run: python tools/test_translation_audits.py
+
+      - name: Check whitespace errors
+        run: git diff --check

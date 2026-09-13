@@ -28,7 +28,7 @@ translate zh_hans jen_table_f6a1e6b6:
 translate zh_hans jen_table_bd93f130:
 
     # anon f_surprised @ e_sse -m_talk "!!!" with hpunch
-    anon f_surprised @ e_sse -m_talk "!!!" with hpunch
+    anon f_surprised @ e_sse -m_talk "！！！" with hpunch
 
 # game/src/plot/jen_table.rpy:9
 translate zh_hans jen_table_8e29cd9a:
@@ -136,7 +136,7 @@ translate zh_hans jen_table_7b46709d:
 translate zh_hans jen_table_a097460d:
 
     # anon e_e f_confused -m_drink "Could you not-"
-    anon e_e f_confused -m_drink "你能别喊她吗——"
+    anon e_e f_confused -m_drink "你能不能别——"
 
 # game/src/plot/jen_table.rpy:42
 translate zh_hans jen_table_37438f38:
@@ -424,7 +424,7 @@ translate zh_hans jen_table_f5bea6e5:
 translate zh_hans jen_table_ac5f9504:
 
     # anon "!!!" with hpunch
-    anon "!!!" with hpunch
+    anon "！！！" with hpunch
 
 # game/src/plot/jen_table.rpy:163
 translate zh_hans jen_table_3bce5153_1:
@@ -520,7 +520,7 @@ translate zh_hans jen_table_be616534:
 translate zh_hans jen_table_0cbde454:
 
     # jenny "What the fuck, [saga.cast.anon]?!"
-    jenny "搞什么啊，[saga.cast.anon]？！"
+    jenny "搞什么鬼，[saga.cast.anon]？！"
 
 # game/src/plot/jen_table.rpy:209
 translate zh_hans jen_table_b973262e:
@@ -580,7 +580,7 @@ translate zh_hans jen_table_f6133b09:
 translate zh_hans jen_table_fe7a721d:
 
     # jenny f_surprised -m_teeth @ -m_talk "!!!" with hpunch
-    jenny f_surprised -m_teeth @ -m_talk "!!!" with hpunch
+    jenny f_surprised -m_teeth @ -m_talk "！！！" with hpunch
 
 # game/src/plot/jen_table.rpy:250
 translate zh_hans jen_table_6e1c9982:
@@ -838,7 +838,7 @@ translate zh_hans jen_table_creampie_f6133b09:
 translate zh_hans jen_table_creampie_3e16918d:
 
     # jenny e_w f_surprised "!!!" with hpunch
-    jenny e_w f_surprised "!!!" with hpunch
+    jenny e_w f_surprised "！！！" with hpunch
 
 # game/src/plot/jen_table.rpy:358
 translate zh_hans jen_table_creampie_6e1c9982:
