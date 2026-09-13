@@ -826,7 +826,7 @@ translate zh_hans jen18_jenny_rage_9febe608:
 translate zh_hans jen18_jenny_rage_c586bc43:
 
     # anon -m_teeth "C'mon, don't I at least get points for telling you-"
-    anon -m_teeth "拜托，我至少提前告诉你了，就不能算我——"
+    anon -m_teeth "拜托，好歹看在我来告诉你的份上——"
 
 # game/src/plot/jen18.rpy:299
 translate zh_hans jen18_jenny_rage_86b7f301:
@@ -1006,7 +1006,7 @@ translate zh_hans jen18_retry_jenny_3738d9d4:
 translate zh_hans jen18_retry_jenny_ca66840c:
 
     # jenny "... I can't stand looking at your stupid, bowl-cutty face."
-    jenny "……我看见你那张蠢兮兮的锅盖头脸就烦。"
+    jenny "……看见你顶着个锅盖头的那张蠢脸，我就受不了。"
 
 # game/src/plot/jen18.rpy:407
 translate zh_hans jen18_retry_merge_adc700f1:
@@ -1030,7 +1030,7 @@ translate zh_hans jen18_retry_plan_8f934a36:
 translate zh_hans jen18_retry_plan_df2802b3:
 
     # jenny a_fold "I had to push back the show because of you!"
-    jenny a_fold "都怪你，我只能把直播往后推！"
+    jenny a_fold "都是因为你，我才不得不把直播推迟了！"
 
 # game/src/plot/jen18.rpy:424
 translate zh_hans jen18_retry_plan_fb3ee273:

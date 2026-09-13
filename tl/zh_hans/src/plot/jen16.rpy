@@ -16,7 +16,7 @@ translate zh_hans jen16_intro_7f7ee1e8:
 translate zh_hans jen16_scope_04255add:
 
     # anon "She's probably just getting ready for-"
-    anon "她大概正在准备出门——"
+    anon "她大概正准备——"
 
 # game/src/plot/jen16.rpy:17
 translate zh_hans jen16_scope_ac5f9504:
@@ -70,7 +70,7 @@ translate zh_hans jen16_scope_ca850f34:
 translate zh_hans jen16_scope_2f19dbce:
 
     # jenny "Are you perving on the neighbors?"
-    jenny "你又在偷窥邻居？"
+    jenny "你在偷窥邻居？"
 
 # game/src/plot/jen16.rpy:49
 translate zh_hans jen16_scope_a526b269:
@@ -100,7 +100,7 @@ translate zh_hans jen16_scope_1a540cb8:
 translate zh_hans jen16_scope_b1ed34b7:
 
     # jenny a_down e_b f_calm m_laugh p_spy_away_turn @ -m_talk "Heh, isn't that the super religious girl you're always hanging around with?"
-    jenny a_down e_b f_calm m_laugh p_spy_away_turn @ -m_talk "呵，那不是你整天跟着的那个虔诚乖乖女吗？"
+    jenny a_down e_b f_calm m_laugh p_spy_away_turn @ -m_talk "呵，那不是经常跟你待在一起、特别虔诚的那个女孩吗？"
 
 # game/src/plot/jen16.rpy:60
 translate zh_hans jen16_scope_aa7b7507:
@@ -124,7 +124,7 @@ translate zh_hans jen16_scope_23277e88:
 translate zh_hans jen16_scope_ce19ee58:
 
     # jenny "I guess she isn't so goodie-goodie after all..."
-    jenny "看来她终究不是什么乖乖女啊……"
+    jenny "看来她也没那么乖嘛……"
 
 # game/src/plot/jen16.rpy:67
 translate zh_hans jen16_scope_eb780b0f:
@@ -784,7 +784,7 @@ translate zh_hans jen16_jenny_673df9cb:
 translate zh_hans jen16_jenny_f2f54742:
 
     # anon "I came right-"
-    anon "我一听你说就——"
+    anon "我可是马上就赶来——"
 
 # game/src/plot/jen16.rpy:305
 translate zh_hans jen16_jenny_c8f77ef4:
@@ -922,7 +922,7 @@ translate zh_hans jen16_jenny_045b7d6b:
 translate zh_hans jen16_jenny_29a03f2e:
 
     # jenny "In fact, you're going to help me."
-    jenny "事实上，你得帮我个忙。"
+    jenny "而且，你还得帮我。"
 
 # game/src/plot/jen16.rpy:335
 translate zh_hans jen16_jenny_87cd3968:
@@ -1036,7 +1036,7 @@ translate zh_hans jen16_jenny_ede87c81:
 translate zh_hans jen16_jenny_9592c72b:
 
     # jenny "Not right now, moron!"
-    jenny "现在不行，白痴！"
+    jenny "不是让你现在就坐，白痴！"
 
 # game/src/plot/jen16.rpy:359
 translate zh_hans jen16_jenny_bd40225f:
@@ -1228,13 +1228,13 @@ translate zh_hans jen16_jenny_alt_5d43a75c:
 translate zh_hans jen16_jenny_alt_ac169fe2:
 
     # anon f_worried @ f_sceptical "If you're gonna act like a bitch, then you can forget my help."
-    anon f_worried @ f_sceptical "如果你要像个婊子一样，那就别想让我帮忙了。"
+    anon f_worried @ f_sceptical "你要是还这么刻薄，就别想让我帮忙。"
 
 # game/src/plot/jen16.rpy:410
 translate zh_hans jen16_jenny_alt_a0c4573f:
 
     # jenny f_annoyed "Grr, fine!"
-    jenny f_annoyed "唔，好吧！"
+    jenny f_annoyed "哼，行吧！"
 
 # game/src/plot/jen16.rpy:411
 translate zh_hans jen16_jenny_alt_a16893a8:
@@ -1276,7 +1276,7 @@ translate zh_hans jen16_jenny_alt_b2f54230:
 translate zh_hans jen16_jenny_alt_1cde839c:
 
     # anon f_calm "Heh, yeah... It wasn't exactly hard to piece together, [saga.cast.jenny]."
-    anon f_calm "呵，是啊……这还不难猜，[saga.cast.jenny]。"
+    anon f_calm "呵，是啊……这又不难猜，[saga.cast.jenny]。"
 
 # game/src/plot/jen16.rpy:422
 translate zh_hans jen16_jenny_alt_16643918:
@@ -1450,7 +1450,7 @@ translate zh_hans jen16_jenny_alt_6a69e372:
 translate zh_hans jen16_jenny_alt_19e8c45a:
 
     # jenny "It doesn't have to be a ski mask, just-"
-    jenny "不一定非是滑雪面罩，只要——"
+    jenny "不一定非得是滑雪面罩，只要——"
 
 # game/src/plot/jen16.rpy:453
 translate zh_hans jen16_jenny_alt_a8f87274:
@@ -1594,7 +1594,7 @@ translate zh_hans jen16_retry_jenny_bcd84384:
 translate zh_hans jen16_retry_jenny_90467e59:
 
     # jenny @ f_angry "I'm not interested in your excuses, [saga.cast.anon]!"
-    jenny @ f_angry "我对你的借口不感兴趣，[saga.cast.anon]！"
+    jenny @ f_angry "[saga.cast.anon]，我不想听你找借口！"
 
 # game/src/plot/jen16.rpy:509
 translate zh_hans jen16_retry_jenny_db2522b2:
@@ -1642,7 +1642,7 @@ translate zh_hans jen16_retry_jenny_a53aa572:
 translate zh_hans jen16_retry_jenny_8c2430ca:
 
     # jenny "You had better."
-    jenny "你最好这样。"
+    jenny "你最好说到做到。"
 
 # game/src/plot/jen16.rpy:551
 translate zh_hans jen16_retry_jenny_d21784a4:

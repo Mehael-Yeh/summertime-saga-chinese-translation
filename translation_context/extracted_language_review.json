@@ -526,6 +526,1063 @@
       "before": "在浴室里让[saga.cast.judith]快点。",
       "target": "在洗手间里让[saga.cast.judith]快点。",
       "line": 636
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{pen=neonpink}Sluttygram{/pen} sounded like such a perfect gig... :'({/pen}",
+      "before": "{pen=orange}{pen=neonpink}Sluttygram{/pen}听起来是个超棒的差事……:'({/pen}",
+      "target": "{pen=orange}{pen=neonpink}Sluttygram{/pen}本来听着是个再合适不过的赚钱门路……:'({/pen}",
+      "line": 307
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}While I was in the shower no less. Such an idiot.{/pen}{space=40}",
+      "before": "{pen=indigo}偏偏还是在我洗澡的时候。真是个白痴。{/pen}{space=40}",
+      "target": "{pen=indigo}居然还趁我洗澡的时候。真是个白痴。{/pen}{space=40}",
+      "line": 317
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=70}{pen=blue}if things get {pen=navy}{u}desperate{/u}{/pen} enough.{/pen}",
+      "before": "{space=70}{pen=blue}如果事情到了{pen=navy}{u}万不得已{/u}{/pen}的地步。{/pen}",
+      "target": "{space=70}{pen=blue}要是真到了{pen=navy}{u}走投无路{/u}{/pen}的时候。{/pen}",
+      "line": 357
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}I spoke with {pen=indigo}{b}[saga.cast.jane]{/b}{/pen} again today.{/pen}",
+      "before": "{pen=pink}我今天又和{pen=indigo}{b}[saga.cast.jane]{/b}{/pen}说话了。{/pen}",
+      "target": "{pen=pink}今天又跟{pen=indigo}{b}[saga.cast.jane]{/b}{/pen}聊了聊。{/pen}",
+      "line": 407
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}It got me thinking...{/pen}{space=250}",
+      "before": "{pen=orange}这让我开始思考……{/pen}{space=250}",
+      "target": "{pen=orange}听她这么一说，我就想……{/pen}{space=250}",
+      "line": 427
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}This could be a {pen=red}{i}game changer{/i}{/pen} for me!{/pen}{space=30}",
+      "before": "{pen=orange}这对我来说可能是个{pen=red}{i}转折点{/i}{/pen}！{/pen}{space=30}",
+      "target": "{pen=orange}说不定我就能靠这个{pen=red}{i}翻身{/i}{/pen}！{/pen}{space=30}",
+      "line": 447
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}{size=-7}{b}OMG!{/b}{/size} I totally did it!!!{/pen}{space=200}",
+      "before": "{pen=indigo}{size=-7}{b}天啊！{/b}{/size}我完全做到了！！！{/pen}{space=200}",
+      "target": "{pen=indigo}{size=-7}{b}天啊！{/b}{/size}我真的做到了！！！{/pen}{space=200}",
+      "line": 452
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}I signed up on {pen=neonpink}CAMslut{/pen} and did an actual show today.{/pen}",
+      "before": "{pen=purple}我在{pen=neonpink}CAMslut{/pen}上注册了，今天做了一场真正的表演。{/pen}",
+      "target": "{pen=purple}我注册了{pen=neonpink}CAMslut{/pen}，今天还真开了一场直播。{/pen}",
+      "line": 457
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}The {pen=lime}FREAKS{/pen} absolutely ate it up!{/pen}{space=100}",
+      "before": "{pen=aqua}那些{pen=lime}变态{/pen}完全被迷住了！{/pen}{space=100}",
+      "target": "{pen=aqua}那些{pen=lime}变态{/pen}可喜欢了！{/pen}{space=100}",
+      "line": 467
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}{size=-3}I made almost {pen=yellow}{size=-4}{b}THREE HUNDRED DOLLARS{/b}{/size}{/pen} in twenty minutes!!!{/size}{/pen}",
+      "before": "{pen=aqua}{size=-3}我在二十分钟内赚了将近{pen=yellow}{size=-4}{b}三百美元{/b}{/size}{/pen}！！！{/size}{/pen}",
+      "target": "{pen=aqua}{size=-3}才二十分钟，我就赚了将近{pen=yellow}{size=-4}{b}三百美元{/b}{/size}{/pen}！！！{/size}{/pen}",
+      "line": 472
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}This is exactly what I've been looking for!{/pen}{space=100}",
+      "before": "{pen=aqua}这正是我一直在找的！{/pen}{space=100}",
+      "target": "{pen=aqua}这不就是我一直想找的赚钱门路嘛！{/pen}{space=100}",
+      "line": 477
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}{size=-2}I asked the chat what they wanted to see me do next time{/size}{/pen}",
+      "before": "{pen=maroon}{size=-2}我问直播间观众下次想看我做什么{/size}{/pen}",
+      "target": "{pen=maroon}{size=-2}我问直播间观众下次想看我做什么，{/size}{/pen}",
+      "line": 482
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}Thank God I'm a such an {pen=purple}{b}amazing{/b}{/pen} actress!!{/pen}{space=30}",
+      "before": "{pen=pink}谢天谢地，我真是个{pen=purple}{b}出色的{/b}{/pen}演员！！{/pen}{space=30}",
+      "target": "{pen=pink}幸亏我的演技{pen=purple}{b}够好{/b}{/pen}！！{/pen}{space=30}",
+      "line": 512
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}Oh well, at least I got another {pen=aqua}hundred bucks{/pen} out of him.{/pen}",
+      "before": "{pen=indigo}哦，好吧，至少我从他那里又弄到了{pen=aqua}一百块{/pen}。{/pen}",
+      "target": "{pen=indigo}算了，至少又从他那儿弄到了{pen=aqua}一百块{/pen}。{/pen}",
+      "line": 537
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=red}{size=-3}The viewer count {pen=pink}is growing everyday{/pen} and I need {/size}{pen=pink}more{/pen}{/pen}",
+      "before": "{pen=red}{size=-3}观众数{pen=pink}每天在增长{/pen}，我需要{/size}{pen=pink}更多{/pen}{/pen}",
+      "target": "{pen=red}{size=-3}观众{pen=pink}一天比一天多{/pen}，我得准备{/size}{pen=pink}更多{/pen}{/pen}",
+      "line": 557
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}And you know the best part about all of this?{/pen}",
+      "before": "{pen=blue}你知道这一切最棒的部分是什么吗？{/pen}",
+      "target": "{pen=blue}你知道最棒的是什么吗？{/pen}",
+      "line": 617
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}{size=-3}I didn't even ask him to, which... ngl, is {pen=navy}definitely a little weird{/pen}...{/size}{/pen}",
+      "before": "{pen=aqua}{size=-3}我甚至没让他这么做，这……说实话，{pen=navy}绝对有点奇怪{/pen}……{/size}{/pen}",
+      "target": "{pen=aqua}{size=-3}我都没开口，他就给买了，这……说真的，{pen=navy}确实有点奇怪{/pen}……{/size}{/pen}",
+      "line": 637
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{size=-2}But {pen=red}screw it{/pen}, I don't care. I'm just happy I finally got one!{/size}{/pen}",
+      "before": "{pen=orange}{size=-2}不过{pen=red}管他呢{/pen}，我不在乎。我就高兴终于也搞到了一个！{/size}{/pen}",
+      "target": "{pen=orange}{size=-2}不过{pen=red}管他呢{/pen}，我才不在乎。反正终于到手了，我高兴就行！{/size}{/pen}",
+      "line": 642
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}{size=-3}So I can't believe I'm saying this but,{/size}{/pen} {pen=neonpink}I love being a mom!{/pen}",
+      "before": "{pen=indigo}{size=-3}真不敢相信我会这么说，但是，{/size}{/pen} {pen=neonpink}我超爱当妈妈！{/pen}",
+      "target": "{pen=indigo}{size=-3}连我自己都不敢相信，不过……{/size}{/pen} {pen=neonpink}我超爱当妈妈！{/pen}",
+      "line": 1322
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}It's so hard to describe how {pen=red}{size=+2}good{/size}{/pen} it makes me feel...{/pen}",
+      "before": "{pen=orange}真是难以形容这让我感觉有多{pen=red}{size=+2}棒{/size}{/pen}……{/pen}",
+      "target": "{pen=orange}这种感觉有多{pen=red}{size=+2}美好{/size}{/pen}，真的说不出来……{/pen}",
+      "line": 1327
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=30}{pen=orange}I mean, my child really {pen=yellow}{size=+3}{i}{u}needs{/u}{/i}{/size}{/pen} me, you know?{/pen}",
+      "before": "{space=30}{pen=orange}我的意思是，我的孩子真的{pen=yellow}{size=+3}{i}{u}需要{/u}{/i}{/size}{/pen}我，你明白吗？{/pen}",
+      "target": "{space=30}{pen=orange}就是那种……我的孩子真的{pen=yellow}{size=+3}{i}{u}需要{/u}{/i}{/size}{/pen}我，你明白吗？{/pen}",
+      "line": 1332
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}{size=-1}This adorable {pen=yellow}little creature{/pen} that's part {pen=neonpink}{size=+4}me{/size}{/pen} and part {pen=purple}{b}[saga.cast.anon]{/b}{/pen}.{/size}{/pen}",
+      "before": "{pen=aqua}{size=-1}这个可爱的{pen=yellow}小生物{/pen}，一部分是{pen=neonpink}{size=+4}我{/size}{/pen}，另一部分是{pen=purple}{b}[saga.cast.anon]{/b}{/pen}。{/size}{/pen}",
+      "target": "{pen=aqua}{size=-1}这个可爱的{pen=yellow}小家伙{/pen}，一半来自{pen=neonpink}{size=+4}我{/size}{/pen}，一半来自{pen=purple}{b}[saga.cast.anon]{/b}{/pen}。{/size}{/pen}",
+      "line": 1337
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}{b}{size=-6}FUCK{pen=purple}{b}ME{pen=indigo}{b}HOLY{pen=navy}{b}SHIT!{/b}{/pen}!{/b}{/pen}!{/b}{/pen}!{/b}{/size}{/pen}{space=100}",
+      "before": "{pen=blue}{b}{size=-6}操{pen=purple}{b}我{pen=indigo}{b}天{pen=navy}{b}呐！{/b}{/pen}！{/b}{/pen}！{/b}{/pen}！{/b}{/size}{/pen}{space=100}",
+      "target": "{pen=blue}{b}{size=-6}我{pen=purple}{b}操！{pen=indigo}{b}天{pen=navy}{b}呐！{/b}{/pen}！{/b}{/pen}！{/b}{/pen}！{/b}{/size}{/pen}{space=100}",
+      "line": 587
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}So I used the {pen=navy}buttplug{/pen} today on stream for the first time.{/pen}",
+      "before": "{pen=blue}所以我今天第一次在{pen=navy}直播中使用肛塞{/pen}。{/pen}",
+      "target": "{pen=blue}今天直播，我第一次用了{pen=navy}肛塞{/pen}。{/pen}",
+      "line": 592
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}Turns out, {pen=navy}ANAL is fucking {pen=neonpink}AWESOME!{/pen}!{/pen}!{/pen}",
+      "before": "{pen=blue}事实证明，{pen=navy}肛交真他妈{pen=neonpink}爽！{/pen}！{/pen}！{/pen}",
+      "target": "{pen=blue}原来{pen=navy}玩后庭真他妈{pen=neonpink}爽！{/pen}！{/pen}！{/pen}",
+      "line": 597
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=black}{size=-9}{b}{pen=navy}VIBRATOR{/pen} + {pen=indigo}BUTTPLUG{/pen} = {pen=neonpink}MIND SHATTERING ORGASM!!!{/pen}{/b}{/size}{/pen}",
+      "before": "{pen=black}{size=-9}{b}{pen=navy}震动棒{/pen} + {pen=indigo}肛塞{/pen} = {pen=neonpink}高潮爽翻天！！！{/pen}{/b}{/size}{/pen}",
+      "target": "{pen=black}{size=-9}{b}{pen=navy}振动棒{/pen} + {pen=indigo}肛塞{/pen} = {pen=neonpink}高潮爽翻天！！！{/pen}{/b}{/size}{/pen}",
+      "line": 607
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}I'm {pen=aqua}getting paid{/pen} to do it!!! {pen=yellow}{size=-5}LOLOLOLOL{/size}{/pen}{/pen}{space=80}",
+      "before": "{pen=blue}我 {pen=aqua}拿钱{/pen} 做这事！！！ {pen=yellow}{size=-5}哈哈哈哈{/size}{/pen}{/pen}{space=80}",
+      "target": "{pen=blue}做这事居然还有{pen=aqua}钱拿{/pen}！！！{pen=yellow}{size=-5}哈哈哈哈{/size}{/pen}{/pen}{space=80}",
+      "line": 622
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{size=-2}But {pen=red}screw it{/pen}, I don't care. I'm just happy I finally got one!{/size}{/pen}",
+      "before": "{pen=orange}{size=-2}不过{pen=red}管他呢{/pen}，我才不在乎。反正终于到手了，我高兴就行！{/size}{/pen}",
+      "target": "{pen=orange}{size=-2}不过{pen=red}管他呢{/pen}，我才不在乎。终于有一个了，光是这点就够我高兴了！{/size}{/pen}",
+      "line": 642
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}I'm {pen=maroon}super excited{/pen} but it's {pen=red}so big{/pen}...{rb}{space=20}{/rb}{rt}{pen=pink}{size=-3}hope it {size=+5}fits{/size}!!{/size}{/pen}{/rt}{/pen}",
+      "before": "{pen=orange}我{pen=maroon}超级兴奋{/pen} 但是它{pen=red}好大{/pen}……{rb}{space=20}{/rb}{rt}{pen=pink}{size=-3}希望它{size=+5}塞得进去{/size}！！{/size}{/pen}{/rt}{/pen}",
+      "target": "{pen=orange}我{pen=maroon}超级兴奋{/pen}，但是它{pen=red}好大{/pen}……{rb}{space=20}{/rb}{rt}{pen=pink}{size=-3}希望它{size=+5}塞得进去{/size}！！{/size}{/pen}{/rt}{/pen}",
+      "line": 652
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=+10}URGH!!!{/size}{/pen}{space=100}",
+      "before": "{pen=pink}{size=+10}呃！！！{/size}{/pen}{space=100}",
+      "target": "{pen=pink}{size=+10}烦死了！！！{/size}{/pen}{space=100}",
+      "line": 122
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}I should {pen=navy}NEVER{/pen} have broken up with {pen=black}{b}[saga.cast.cedric]{/b}{/pen}!{/pen}{space=40}",
+      "before": "{pen=purple}我{pen=navy}绝对{/pen}不应该和{pen=black}{b}[saga.cast.cedric]{/b}{/pen}分手{/pen}{space=40}！",
+      "target": "{pen=purple}我{pen=navy}就不该{/pen}和{pen=black}{b}[saga.cast.cedric]{/b}{/pen}分手！{/pen}{space=40}",
+      "line": 127
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=+2}I had him so well trained too... he totally knew how to{/size}{/pen}",
+      "before": "{pen=pink}{size=+2}我把他训练得那么好……他完全知道怎么{/size}{/pen}",
+      "target": "{pen=pink}{size=+2}他都被我管得那么听话了……最知道怎么{/size}{/pen}",
+      "line": 142
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}she probably found it looking for hook-{rb}ups.{space=75}{/rb}{rt}{pen=neonpink}{size=-5}she's always been a {b}SLUT{/b}!{/size}{/pen}{/rt}{/pen}",
+      "before": "{pen=purple}她可能是在找炮{rb}友的时候发现这个的。{space=75}{/rb}{rt}{pen=neonpink}{size=-5}她一直是个{b}荡妇{/b}！{/size}{/pen}{/rt}{/pen}",
+      "target": "{pen=purple}她可能是在{rb}找炮友的时候发现这个的。{space=75}{/rb}{rt}{pen=neonpink}{size=-5}她一直是个{b}荡妇{/b}！{/size}{/pen}{/rt}{/pen}",
+      "line": 187
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-2}I could have crashed at his place until I found a {rb}way to make{/rb}{art}{pen=indigo}{size=+0}{b}BIG BUCKS!{/b}{/size}{/pen}{/art}{/size}{/pen}",
+      "before": "{pen=purple}{size=-2}我本可以住在他那儿，直到我找到{rb}一个赚{/rb}{art}{pen=indigo}{size=+0}{b}大钱的方法！{/b}{/size}{/pen}{/art}{/size}{/pen}",
+      "target": "{pen=purple}{size=-2}我本可以先住在他那儿，等找到{rb}门路赚{/rb}{art}{pen=indigo}{size=+0}{b}大钱！{/b}{/size}{/pen}{/art}{/size}{/pen}",
+      "line": 137
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}toys{/pen} {pen=red}{size=-2}to play with for them. One with {pen=maroon}{b}{u}POWER{/u}{/b}{/pen} would be nice...{/size}{/pen}",
+      "before": "{pen=pink}玩具{/pen}{pen=red}{size=-2}玩给他们看。要是{pen=maroon}{b}{u}够强力{/u}{/b}{/pen}就更好了……{/size}{/pen}",
+      "target": "{pen=pink}玩具{/pen}{pen=red}{size=-2}，用来给他们表演。要是{pen=maroon}{b}{u}够强力{/u}{/b}{/pen}就更好了……{/size}{/pen}",
+      "line": 562
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-4}More days like this and I'll spring for a{/size} {pen=lime}{size=-5}{b}BAD MONSTER{/b}{/size}{/pen}.{/pen}",
+      "before": "{pen=purple}{size=-4}再这样过几天，我就要买那个{/size} {pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}了。{/pen}",
+      "target": "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}了。{/pen}",
+      "line": 577
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{rb}{pen=purple}I've {pen=neonpink}{u}ALWAYS{/u}{/pen} wanted to try one!{/pen}{/rb}{art}{size=-4}{pen=neonpink}Mmmmm! I'm like, actually panting with excitement rn... {pen=red}fuuuuck!{/pen}{/pen}{/size{{/art}{space=80}",
+      "before": "{rb}{pen=purple}我{pen=neonpink}{u}一直{/u}{/pen}想试一个！{/pen}{/rb}{art}{size=-4}{pen=neonpink}嗯～！我现在简直兴奋得要喘不过气来……{pen=red}操！{/pen}{/pen}{/size{{/art}{space=80}",
+      "target": "{rb}{pen=purple}我{pen=neonpink}{u}一直{/u}{/pen}想试一个！{/pen}{/rb}{art}{size=-4}{pen=neonpink}嗯～！我现在简直兴奋得要喘不过气来……{pen=red}操！{/pen}{/pen}{/size}{/art}{space=80}",
+      "line": 582
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=-1}students {pen=neonpink}{size=+4}fucking{/size}{/pen} in the library and posting it online!{/size}{/pen}",
+      "before": "{pen=pink}{size=-1}学生{pen=neonpink}{size=+4}在图书馆里乱搞{/size}{/pen}还发到了网上{/size}{/pen}！",
+      "target": "{pen=pink}{size=-1}学生{pen=neonpink}{size=+4}在图书馆里乱搞{/size}{/pen}的画面，还把视频发到了网上{/size}{/pen}！",
+      "line": 417
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}If people will pay good money to watch random {pen=maroon}{size=-6}UGLY{/size}{/pen}{/pen}{space=20}",
+      "before": "{pen=orange}随便找几个{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}",
+      "target": "{pen=orange}就连些不知名的{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}",
+      "line": 432
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}If people will pay good money to watch random {pen=maroon}{size=-6}UGLY{/size}{/pen}{/pen}{space=20}",
+      "before": "{pen=orange}就连些不知名的{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}",
+      "target": "{pen=orange}就连那些不知名的{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}",
+      "line": 432
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}My subs {pen=purple}{b}{u}TRIPLED{/u}{/b}{/pen} almost overnight, but it isn't enough.{/pen}",
+      "before": "{pen=aqua}我的订阅量{pen=purple}{b}{u}几乎一夜之间涨到了原来的三倍{/u}{/b}{/pen}，但还不够。{/pen}",
+      "target": "{pen=aqua}我的订阅量几乎一夜之间涨到了原来的{pen=purple}{b}{u}三倍{/u}{/b}{/pen}，但还不够。{/pen}",
+      "line": 292
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=silver}{size=-4}It's not even just about him!{/size} I don't want a {pen=blue}boyfriend{/pen}, {pen=navy}{size=-5}{b}PERIOD!{/b}{/size}{/pen}{/pen}",
+      "before": "{pen=silver}{size=-4}这又不只是他的问题！{/size} 我压根就不想交{pen=blue}男朋友{/pen}，{pen=navy}{size=-5}{b}就这么简单！{/b}{/size}{/pen}{/pen}",
+      "target": "{pen=silver}{size=-4}也不光是因为他！{/size} 我压根就不想交{pen=blue}男朋友{/pen}，{pen=navy}{size=-5}{b}就这么简单！{/b}{/size}{/pen}{/pen}",
+      "line": 1217
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=silver}I mean, what good would it do me?{/pen}{space=100}",
+      "before": "{pen=silver}我是说，这对我有什么好处呢？{/pen}{space=100}",
+      "target": "{pen=silver}再说了，交男朋友对我有什么好处呢？{/pen}{space=100}",
+      "line": 1222
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}Errmm... {pen=purple}{b}{u}OBVIOUSLY{/u}{i}!!!{/i}{/b}{/pen} That part's great!{/pen}",
+      "before": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}这些当然好了！{/pen}",
+      "target": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}这点当然好了！{/pen}",
+      "line": 1232
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}Ugh, {pen=lime}{b}[saga.cast.anon]{/b}{/pen} is relentless about this whole wanting me{/pen}",
+      "before": "{pen=aqua}啊，{pen=lime}{b}[saga.cast.anon]{/b}{/pen}一直缠着我不放，非要我{/pen}",
+      "target": "{pen=aqua}烦死了，{pen=lime}{b}[saga.cast.anon]{/b}{/pen}一直缠着我不放，非要我{/pen}",
+      "line": 1207
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=-3}Do I miss going out? Or having someone buy me nice things?{/size}{/pen}",
+      "before": "{pen=pink}{size=-3}我想不想出去约会？想不想有人给我买好东西？{/size}{/pen}",
+      "target": "{pen=pink}{size=-3}我怀不怀念出去约会、有人给我买好东西的日子？{/size}{/pen}",
+      "line": 1227
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}Errmm... {pen=purple}{b}{u}OBVIOUSLY{/u}{i}!!!{/i}{/b}{/pen} That part's great!{/pen}",
+      "before": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}这点当然好了！{/pen}",
+      "target": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}有人这样待我当然好啊！{/pen}",
+      "line": 1232
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=+1}Okay so, I had the best idea, like {pen=pink}{b}EVER!!!!{/b}{/pen}!!!!{/size}{/pen}",
+      "before": "{pen=purple}{size=+1}嗯，我有个超棒的主意，简直是{pen=pink}{b}有史以来最棒的！！！{/b}{/pen}！！！！{/size}{/pen}",
+      "target": "{pen=purple}{size=+1}好啦，我想到一个绝妙的主意，简直是{pen=pink}{b}有史以来最棒的！！！{/b}{/pen}！！！！{/size}{/pen}",
+      "line": 1247
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}tell him I'm closing down shop for a while.{/pen}{space=75}{art}{pen=neonpink}How brilliant is that?!!{/pen}{/art}",
+      "before": "{pen=pink}告诉他我要暂时关店了。{/pen}{space=75}{art}{pen=neonpink}多棒的主意啊？！{/pen}{/art}",
+      "target": "{pen=pink}跟他说我要暂停营业一阵子。{/pen}{space=75}{art}{pen=neonpink}多棒的主意啊？！{/pen}{/art}",
+      "line": 1277
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=-3}How could I be so {pen=indigo}{size=-7}{b}FUCKING{/b}{/size}{/pen} {pen=purple}{size=+7}stupid{/size}{/pen}?!{/size}{/pen}{space=140}",
+      "before": "{pen=pink}{size=-3}我怎么会这么{pen=indigo}{size=-7}{b}他妈{/b}{/size}{/pen} {pen=purple}{size=+7}蠢{/size}{/pen}？！{/size}{/pen}{space=140}",
+      "target": "{pen=pink}{size=-3}我怎么他妈的{pen=indigo}{size=-7}{b}这么{/b}{/size}{/pen}{pen=purple}{size=+7}蠢{/size}{/pen}？！{/size}{/pen}{space=140}",
+      "line": 1287
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=75}{pen=pink}{pen=silver}{b}[saga.cast.debbie]{/b}{/pen} is going to kill me...{/pen}{space=75}{rt}{pen=blue}{size=-2}What do I {i}even{/i} {u}tell{/u} her?!{/size}{/pen}{/rt}",
+      "before": "{space=75}{pen=pink}{pen=silver}{b}[saga.cast.debbie]{/b}{/pen}会杀了我……{/pen}{space=75}{rt}{pen=blue}{size=-2}我到底要怎么{i}跟{/i} {u}她说{/u}？！{/size}{/pen}{/rt}",
+      "target": "{space=75}{pen=pink}{pen=silver}{b}[saga.cast.debbie]{/b}{/pen}会杀了我……{/pen}{space=75}{rt}{pen=blue}{size=-2}这{i}到底{/i}让我怎么{u}跟她解释{/u}？！{/size}{/pen}{/rt}",
+      "line": 1292
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}It's not like my dating life has been {pen=purple}blowing up{/pen} lately...{/pen}",
+      "before": "{pen=pink}也不是说我最近的{pen=purple}感情生活有多火热{/pen}……{/pen}",
+      "target": "{pen=pink}毕竟我最近又没{pen=purple}频繁跟人约会{/pen}……{/pen}",
+      "line": 1297
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-1}Even worse, I'm going to blow up like a {pen=blue}fucking whale{/pen} now!{/size}{/pen}",
+      "before": "{pen=purple}{size=-1}更糟的是，我现在要像{pen=blue}该死的鲸鱼{/pen}一样膨胀起来了！{/size}{/pen}",
+      "target": "{pen=purple}{size=-1}更糟的是，这下我要胖得像头{pen=blue}他妈的鲸鱼{/pen}了！{/size}{/pen}",
+      "line": 1302
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-2}Ugh, I hope this doesn't{/size} {size=-6}{pen=black}{b}kill{/b}{/pen} my camming {rb}career{/rb}{rt}{pen=pink}{size=-2}this {u}blows{/u} on so many levels{i}!{/i}{/size}{/pen}{/rt}{/size}..{/pen}{space=30}{art}{pen=indigo}{size=+4}wait...{/size}{/pen}{/art}",
+      "before": "{pen=purple}{size=-2}呃，我希望这不会{/size} {size=-6}{pen=black}{b}毁掉{/b}{/pen}我的直播{rb}事业{/rb}{rt}{pen=pink}{size=-2}这可真是{u}糟透了{/u}{i}！{/i}{/size}{/pen}{/rt}{/size}……{/pen}{space=30}{art}{pen=indigo}{size=+4}等等……{/size}{/pen}{/art}",
+      "target": "{pen=purple}{size=-2}唉，但愿这别{/size} {size=-6}{pen=black}{b}毁掉{/b}{/pen}我的直播{rb}事业{/rb}{rt}{pen=pink}{size=-2}这可真是{u}糟透了{/u}{i}！{/i}{/size}{/pen}{/rt}{/size}……{/pen}{space=30}{art}{pen=indigo}{size=+4}等等……{/size}{/pen}{/art}",
+      "line": 1307
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}I mean... {pen=blue}{size=-2}{b}perverts{/b}{/size}{/pen} are into {pen=neonpink}{size=+2}pregnant chicks{/size}{/pen}... right?!{/pen}",
+      "before": "{pen=indigo}我的意思是……{pen=blue}{size=-2}{b}变态{/b}{/size}{/pen}喜欢{pen=neonpink}{size=+2}孕妇{/size}{/pen}……对吧？！{/pen}",
+      "target": "{pen=indigo}我是说……{pen=blue}{size=-2}{b}变态{/b}{/size}{/pen}喜欢{pen=neonpink}{size=+2}孕妇{/size}{/pen}……对吧？！{/pen}",
+      "line": 1312
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=45}{pen=indigo}Maybe this could be {pen=aqua}a whole {i}new{/i} angle{/pen} for me?{/pen}",
+      "before": "{space=45}{pen=indigo}也许这可以成为{pen=aqua}我的全新{i}卖点{/i}{/pen}？{/pen}",
+      "target": "{space=45}{pen=indigo}说不定这能成为我的{pen=aqua}一个{i}全新{/i}卖点{/pen}？{/pen}",
+      "line": 1317
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=-3}How could I be so {pen=indigo}{size=-7}{b}FUCKING{/b}{/size}{/pen} {pen=purple}{size=+7}stupid{/size}{/pen}?!{/size}{/pen}{space=140}",
+      "before": "{pen=pink}{size=-3}我怎么他妈的{pen=indigo}{size=-7}{b}这么{/b}{/size}{/pen}{pen=purple}{size=+7}蠢{/size}{/pen}？！{/size}{/pen}{space=140}",
+      "target": "{pen=pink}{size=-3}我怎么会{pen=indigo}{size=-7}{b}他妈的{/b}{/size}{/pen}这么{pen=purple}{size=+7}蠢{/size}{/pen}？！{/size}{/pen}{space=140}",
+      "line": 1287
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}Errmm... {pen=purple}{b}{u}OBVIOUSLY{/u}{i}!!!{/i}{/b}{/pen} That part's great!{/pen}",
+      "before": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}有人这样待我当然好啊！{/pen}",
+      "target": "{pen=pink}呃……{pen=purple}{b}{u}当然怀念{/u}{i}！！！{/i}{/b}{/pen}有人这样待我当然好啊！{/pen}",
+      "line": 1232
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-1}Even worse, I'm going to blow up like a {pen=blue}fucking whale{/pen} now!{/size}{/pen}",
+      "before": "{pen=purple}{size=-1}更糟的是，这下我要胖得像头{pen=blue}他妈的鲸鱼{/pen}了！{/size}{/pen}",
+      "target": "{pen=purple}{size=-1}更糟的是，这下我他妈的要胖得像头{pen=blue}鲸鱼{/pen}了！{/size}{/pen}",
+      "line": 1302
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}First, I catch {pen=navy}{b}[saga.cast.anon]{/b}{/pen} spying on me in the shower...{/pen}",
+      "before": "{pen=purple}首先，我抓到{pen=navy}{b}[saga.cast.anon]{/b}{/pen}在偷看我洗澡……{/pen}",
+      "target": "{pen=purple}先是{pen=navy}{b}[saga.cast.anon]{/b}{/pen}偷看我洗澡，被我逮了个正着……{/pen}",
+      "line": 217
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}And now, he's even peeping on me {i}in my room!{/i}{/pen}",
+      "before": "{pen=purple}现在，他甚至在我房间里偷看我{i}！{/i}{/pen}",
+      "target": "{pen=purple}现在，连我{i}待在自己房间里{/i}他都要偷看！{/pen}",
+      "line": 222
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}I did manage to blackmail some money out of him though,{/pen}",
+      "before": "{pen=blue}不过我确实从他那里勒索到了一些钱，{/pen}",
+      "target": "{pen=blue}不过，我倒是趁机敲了他一笔，{/pen}",
+      "line": 237
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}{size=+2}pretty {pen=aqua}flush with {size=+5}cash{/size}{/pen} recently...{/size}{/pen}{space=100}",
+      "before": "{pen=blue}{size=+2}手头倒挺{pen=aqua}宽{size=+5}裕{/size}{/pen}……{/size}{/pen}{space=100}",
+      "target": "{pen=blue}{size=+2}手头倒有{pen=aqua}不少{size=+5}钱{/size}{/pen}……{/size}{/pen}{space=100}",
+      "line": 347
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}I bet I could find ways to get more out of him...{/pen}{space=40}",
+      "before": "{pen=blue}我肯定能想办法再从他身上榨些钱……{/pen}{space=40}",
+      "target": "{pen=blue}我肯定还能想办法从他那儿多榨点钱……{/pen}{space=40}",
+      "line": 352
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}That's more than I make in a week on {pen=orange}stupid{/pen} {pen=neonpink}Sluttygram{/pen}.{/pen}",
+      "before": "{pen=blue}这比我一周在{pen=orange}那个破{/pen}{pen=neonpink}Sluttygram{/pen}上赚的钱还多。{/pen}",
+      "target": "{pen=blue}这比我在{pen=orange}那个破{/pen}{pen=neonpink}Sluttygram{/pen}上赚一周的钱还多。{/pen}",
+      "line": 377
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}He apparently {pen=silver}has feelings for me...{/pen}{rt}{pen=orange}what a {pen=neonpink}little girl!{/pen}{/pen}{/rt}{/pen}{space=100}",
+      "before": "{pen=orange}他显然{pen=silver}对我有感觉……{/pen}{rt}{pen=orange}真是个{pen=neonpink}小丫头！{/pen}{/pen}{/rt}{/pen}{space=100}",
+      "target": "{pen=orange}看来他{pen=silver}对我动了真感情……{/pen}{rt}{pen=orange}真像个{pen=neonpink}小姑娘！{/pen}{/pen}{/rt}{/pen}{space=100}",
+      "line": 1177
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}Ugh, it's {pen=orange}{size=+10}sooo weird{/size}{/pen} though!!!{/pen}",
+      "before": "{pen=maroon}呃，不过这{pen=orange}{size=+10}实在太奇怪了{/size}{/pen}！！！{/pen}",
+      "target": "{pen=maroon}唉，可这也{pen=orange}{size=+10}太奇怪了{/size}{/pen}！！！{/pen}",
+      "line": 1197
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}{pen=aqua}{b}[saga.cast.anon]{/b}{/pen} tracked down that creepy stalker for me.{/pen}",
+      "before": "{pen=blue}{pen=aqua}{b}[saga.cast.anon]{/b}{/pen}帮我追踪到了那个诡异的跟踪狂。{/pen}",
+      "target": "{pen=blue}{pen=aqua}{b}[saga.cast.anon]{/b}{/pen}帮我找到了那个恶心的跟踪狂。{/pen}",
+      "line": 1142
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}It turns out he's some peon at the local movie theater.{/pen}{rt}{pen=purple}eww!{/pen}{/rt}",
+      "before": "{pen=blue}原来他只是本地电影院的一个小职员。{/pen}{rt}{pen=purple}呃！{/pen}{/rt}",
+      "target": "{pen=blue}原来那家伙只是本地电影院的一个小喽啰。{/pen}{rt}{pen=purple}恶心！{/pen}{/rt}",
+      "line": 1147
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}{pen=yellow}{b}[saga.cast.anon]{/b}{/pen} managed to get free tickets off the guy{/pen}",
+      "before": "{pen=aqua}{pen=yellow}{b}[saga.cast.anon]{/b}{/pen}设法从那人那里搞到了免费票{/pen}",
+      "target": "{pen=aqua}{pen=yellow}{b}[saga.cast.anon]{/b}{/pen}还从那家伙手里弄到了免费电影票，{/pen}",
+      "line": 1152
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}and then {pen=lime}I punched him{/pen} right in his stupid face!{/pen}",
+      "before": "{pen=aqua}然后{pen=lime}我一拳打{/pen}在他那张蠢脸上！{/pen}",
+      "target": "{pen=aqua}然后{pen=lime}我给了那家伙一拳{/pen}，正中他那张蠢脸！{/pen}",
+      "line": 1157
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=85}{pen=aqua}It was {pen=blue}{u}perfect{/u}{/pen}!{/pen}",
+      "before": "{space=85}{pen=aqua}这真是{pen=blue}{u}完美{/u}{/pen}！{/pen}",
+      "target": "{space=85}{pen=aqua}简直{pen=blue}{u}完美{/u}{/pen}！{/pen}",
+      "line": 1162
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}Ugh, {pen=black}{b}[saga.cast.anon]{/b}{/pen} is such an{/pen} {pen=navy}{size=-6}{b}{i}IDIOT!{/i}{/b}{/size}{/pen}{space=150}",
+      "before": "{pen=indigo}呃，{pen=black}{b}[saga.cast.anon]{/b}{/pen}真是个{/pen}{pen=navy}{size=-6}{b}{i}白痴！{/i}{/b}{/size}{/pen}{space=150}",
+      "target": "{pen=indigo}烦死了，{pen=black}{b}[saga.cast.anon]{/b}{/pen}真是个{/pen}{pen=navy}{size=-6}{b}{i}白痴！{/i}{/b}{/size}{/pen}{space=150}",
+      "line": 497
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}He should be {pen=indigo}on his knees{/pen} thanking me ffs.{/pen}",
+      "before": "{pen=pink}他应该{pen=indigo}跪下来{/pen}感谢我，我靠。{/pen}",
+      "target": "{pen=pink}他真他妈该{pen=indigo}跪下来{/pen}谢我。{/pen}",
+      "line": 702
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}Ugh, whatever. {pen=maroon}{size=-6}{b}SCREW HIM!{/b}{/size}{/pen} I'll find someone else.{/pen}",
+      "before": "{pen=aqua}呃，管他呢。{pen=maroon}{size=-6}{b}去他的！{/b}{/size}{/pen}我再找别人。{/pen}",
+      "target": "{pen=aqua}算了，管他呢。{pen=maroon}{size=-6}{b}去他的！{/b}{/size}{/pen}我再找别人。{/pen}",
+      "line": 707
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}{size=-2}This is {pen=red}crazy{/pen}! Everybody is {pen=indigo}too chicken shit{/pen} to stream with me!{/size}{/pen}",
+      "before": "{pen=maroon}{size=-2}这太{pen=red}疯狂了{/pen}！所有人都{pen=indigo}怂得要命{/pen}，不敢跟我一起直播！{/size}{/pen}",
+      "target": "{pen=maroon}{size=-2}这也太{pen=red}离谱了{/pen}！一个个都{pen=indigo}怂得要命{/pen}，不敢跟我一起直播！{/size}{/pen}",
+      "line": 712
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}{size=-4}Ugh, I've been {pen=red}{size=-2}wracking my brain{/size}{/pen} for days!{/size}{/pen}{space=80}",
+      "before": "{pen=maroon}{size=-4}呃，我已经{pen=red}{size=-2}绞尽脑汁{/size}{/pen}好几天了！{/size}{/pen}{space=80}",
+      "target": "{pen=maroon}{size=-4}烦死了，我都{pen=red}{size=-2}绞尽脑汁{/size}{/pen}想了好几天了！{/size}{/pen}{space=80}",
+      "line": 727
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}I did finally come up with a {pen=maroon}last resort{/pen} though...{/pen}",
+      "before": "{pen=pink}不过我终于想出了一个{pen=maroon}最后的办法{/pen}……{/pen}",
+      "target": "{pen=pink}不过，总算想到一个{pen=maroon}实在不行还能用的办法{/pen}……{/pen}",
+      "line": 732
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "... You know she's been trying to get a hold of you, right?",
+      "before": "……你知道她一直在试图联系你，对吧？",
+      "target": "……她一直在找你，这你知道吧？",
+      "line": 968
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Now she's trying to sweet talk me into doing it too!",
+      "before": "现在她还想来甜言蜜语哄我也去干这个！",
+      "target": "现在她还想用甜言蜜语哄我也去干这个！",
+      "line": 1007
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Err, I dunno... Kinda?",
+      "before": "呃，我不知道……有一点吧？",
+      "target": "呃，不好说……有点像？",
+      "line": 1032
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Yeah, well... I ain't!",
+      "before": "是啊，好吧……我才不干！",
+      "target": "行了……反正我不干！",
+      "line": 1039
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Will you at least call and tell her that?",
+      "before": "你至少能打个电话告诉她这些吗？",
+      "target": "那你至少给她打个电话，说清楚吧？",
+      "line": 1065
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Where did you say I could find [saga.cast.cedric]?",
+      "before": "你说我在哪里可以找到[saga.cast.cedric]？",
+      "target": "你刚才说，去哪儿能找到[saga.cast.cedric]来着？",
+      "line": 1110
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Why the fuck hasn't he called me back yet?!",
+      "before": "他妈的为什么还没给我回电话？！",
+      "target": "他他妈的怎么还没给我回电话？！",
+      "line": 1169
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Mmmhmm.",
+      "before": "嗯哼。",
+      "target": "嗯。",
+      "line": 1200
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Grr!!!",
+      "before": "呃！！！",
+      "target": "哼！！！",
+      "line": 1232
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "What's going on in here?",
+      "before": "这里发生了什么？",
+      "target": "这里怎么回事？",
+      "line": 99
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I heard yelling.",
+      "before": "我听到喊叫声了。",
+      "target": "我听见有人在嚷嚷。",
+      "line": 120
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Why are you yelling at your phone, [saga.cast.jenny]?",
+      "before": "你为什么对着手机大喊大叫，[saga.cast.jenny]？",
+      "target": "[saga.cast.jenny]，你冲着手机嚷什么呢？",
+      "line": 162
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "... Just, stupid [saga.cast.cedric] is refusing to answer my texts.",
+      "before": "……只是，那个笨蛋[saga.cast.cedric]不肯回我消息。",
+      "target": "……就是[saga.cast.cedric]那个蠢货不肯回我消息。",
+      "line": 176
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "[saga.cast.anon]!",
+      "before": "[saga.cast.anon]？",
+      "target": "[saga.cast.anon]！",
+      "line": 190
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I thought you broke up with [saga.cast.cedric]?",
+      "before": "我以为你和[saga.cast.cedric]分手了？",
+      "target": "你不是已经跟[saga.cast.cedric]分手了吗？",
+      "line": 204
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "That's what you said you're doing, right?",
+      "before": "这就是你说的在做的事，对吧？",
+      "target": "你不是说你在做这个吗？",
+      "line": 253
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I forgot about breakfast!",
+      "before": "我忘了早餐！",
+      "target": "我把锅里的早餐给忘了！",
+      "line": 302
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Sounds like you're getting burnt bacon today, loser.",
+      "before": "听起来你今天只能吃烧焦的培根了，废物。",
+      "target": "看来你今天得吃焦培根了，废物。",
+      "line": 309
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Are you kids going somewhere?",
+      "before": "孩子们，你们要去哪儿吗？",
+      "target": "孩子们，你们这是要出门？",
+      "line": 525
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "It's nice to see you two finally getting along!",
+      "before": "很高兴看到你们两个终于相处融洽了！",
+      "target": "你们俩终于能好好相处了，真好！",
+      "line": 560
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I knew they'd bond eventually.",
+      "before": "我就知道他们最终会亲近起来。",
+      "target": "我就知道他们迟早会亲近起来的。",
+      "line": 574
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen15.rpy",
+      "source": "Unbelievable!",
+      "before": "难以置信！",
+      "target": "真是够了！",
+      "line": 175
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen15.rpy",
+      "source": "Ugh, absolutely not!",
+      "before": "恶，想都别想！",
+      "target": "呃，绝对不行！",
+      "line": 205
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "She's probably just getting ready for-",
+      "before": "她大概正在准备出门——",
+      "target": "她大概正准备——",
+      "line": 19
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Are you perving on the neighbors?",
+      "before": "你又在偷窥邻居？",
+      "target": "你在偷窥邻居？",
+      "line": 73
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Heh, isn't that the super religious girl you're always hanging around with?",
+      "before": "呵，那不是你整天跟着的那个虔诚乖乖女吗？",
+      "target": "呵，那不是经常跟你待在一起、特别虔诚的那个女孩吗？",
+      "line": 103
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "I guess she isn't so goodie-goodie after all...",
+      "before": "看来她终究不是什么乖乖女啊……",
+      "target": "看来她也没那么乖嘛……",
+      "line": 127
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "I came right-",
+      "before": "我一听你说就——",
+      "target": "我马上就过——",
+      "line": 787
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "In fact, you're going to help me.",
+      "before": "事实上，你得帮我个忙。",
+      "target": "而且，你还得帮我。",
+      "line": 925
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Not right now, moron!",
+      "before": "现在不行，白痴！",
+      "target": "不是让你现在就坐，白痴！",
+      "line": 1039
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "If you're gonna act like a bitch, then you can forget my help.",
+      "before": "如果你要像个婊子一样，那就别想让我帮忙了。",
+      "target": "你要是还这么刻薄，就别想让我帮忙。",
+      "line": 1231
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Grr, fine!",
+      "before": "唔，好吧！",
+      "target": "哼，行吧！",
+      "line": 1237
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Heh, yeah... It wasn't exactly hard to piece together, [saga.cast.jenny].",
+      "before": "呵，是啊……这还不难猜，[saga.cast.jenny]。",
+      "target": "呵，是啊……这又不难猜，[saga.cast.jenny]。",
+      "line": 1279
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "It doesn't have to be a ski mask, just-",
+      "before": "不一定非是滑雪面罩，只要——",
+      "target": "不一定非得是滑雪面罩，只要——",
+      "line": 1453
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "I came right-",
+      "before": "我马上就过——",
+      "target": "我可是马上就赶来——",
+      "line": 787
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "I'm not interested in your excuses, [saga.cast.anon]!",
+      "before": "我对你的借口不感兴趣，[saga.cast.anon]！",
+      "target": "[saga.cast.anon]，我不想听你找借口！",
+      "line": 1597
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "You had better.",
+      "before": "你最好这样。",
+      "target": "你最好说到做到。",
+      "line": 1645
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "That would suit our party's needs perfectly.",
+      "before": "那正好满足我们队伍的需求。",
+      "target": "我们队伍正好缺这么个角色。",
+      "line": 224
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Oh, please... he's exaggerating.",
+      "before": "哦，拜托……他夸大其词了。",
+      "target": "哎，别这么说……他太夸张了。",
+      "line": 321
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "So all these people are here to buy a wrestling game?",
+      "before": "所以这些人都是来买摔跤游戏的吗？",
+      "target": "所以这些人都是来买摔角游戏的吗？",
+      "line": 391
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "She hasn't wrestled since, man... and that was three years ago!",
+      "before": "从那以后她就没再摔跤了，老兄……那已经是三年前的事了！",
+      "target": "从那以后她就没再打过摔角比赛了，老兄……那已经是三年前的事了！",
+      "line": 525
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Eh, sure... I guess.",
+      "before": "呃，行吧……大概。",
+      "target": "呃……那就一起去吧。",
+      "line": 550
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Eh, I'm not sure I would fit in with those guys.",
+      "before": "呃，我不确定我能融入那帮家伙。",
+      "target": "呃，我不知道能不能跟他们合得来。",
+      "line": 676
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Before he got within two steps, she lashed out and put him in a headlock!",
+      "before": "他还没走近两步，她就突然出手，把他锁喉了！",
+      "target": "他还没走近两步，她就突然出手，锁住了他的头！",
+      "line": 770
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "I would have stayed in that headlock all day if they had let me.",
+      "before": "要不是他们拦着，我能在那个头锁里待上一整天。",
+      "target": "只要他们肯，我能让她这样锁着我的头一整天。",
+      "line": 819
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Good, my time is almost up here.",
+      "before": "好，我在这儿的时间也快到了。",
+      "target": "好，我这边的活动也快结束了。",
+      "line": 952
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "'Cause I'm not laughing!",
+      "before": "因为我可没觉得好笑！",
+      "target": "我可不觉得这有什么好笑的！",
+      "line": 989
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "These replica masks are going to be a huge hit with our cosplay community!",
+      "before": "这些仿制面具将在我们的角色扮演社群中大受欢迎！",
+      "target": "这些同款面具，玩角色扮演的肯定都喜欢！",
+      "line": 1213
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Oh, you'll have to e-mail me a picture of that.",
+      "before": "哦，做好以后一定要发照片给我看。",
+      "target": "哦，做好以后一定要用电子邮件发张照片给我看。",
+      "line": 1227
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "A-are you selling those?",
+      "before": "你、你在卖那些东西吗？",
+      "target": "那、那些面具卖吗？",
+      "line": 1245
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "It's a promotional item that comes with each copy of the game.",
+      "before": "这是游戏附赠的宣传品，每份游戏只有一个。",
+      "target": "这是随每份游戏附赠的宣传品。",
+      "line": 1259
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "I'll see you two at schoo-",
+      "before": "咱们学、学校见——",
+      "target": "咱们到学——",
+      "line": 1278
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}Somebody has been spying on me out by our pool!{/pen}",
+      "before": "{pen=blue}有人一直在我们的游泳池旁偷窥我！{/pen}",
+      "target": "{pen=blue}有人一直在我家泳池边偷窥我！{/pen}",
+      "line": 832
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}I mean, I don't blame him. I'm like {pen=neonpink}{i}crazy{/i} {u}hot{/u}{/pen}...{/pen}",
+      "before": "{pen=purple}我是说，我也不怪他。谁让我{pen=neonpink}{i}性感{/i}{u}得要命{/u}{/pen}呢……{/pen}",
+      "target": "{pen=purple}说真的，我也不怪他。谁让我{pen=neonpink}{i}性感{/i}{u}得要命{/u}{/pen}呢……{/pen}",
+      "line": 842
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=silver}{size=+6}Still, it totally {pen=black}{size=-9}{b}CREEPED{/b}{/size}{/pen} me out!{/size}{/pen}",
+      "before": "{pen=silver}{size=+6}不过，那可真{pen=black}{size=-9}{b}吓死{/b}{/size}{/pen}我了！{/size}{/pen}",
+      "target": "{pen=silver}{size=+6}不过，这事真让我{pen=black}{size=-9}{b}毛骨悚然{/b}{/size}{/pen}！{/size}{/pen}",
+      "line": 852
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}Not some {pen=maroon}chubby, neckbearded, stoner...{/pen} {pen=red}>:'({/pen}{/pen}",
+      "before": "{pen=pink}不是某个{pen=maroon}胖乎乎、留络腮胡、抽大麻的……{/pen} {pen=red}>:'({/pen}{/pen}",
+      "target": "{pen=pink}才不是个{pen=maroon}胖乎乎、脖子上长满胡茬、整天抽大麻的家伙……{/pen} {pen=red}>:'({/pen}{/pen}",
+      "line": 867
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{size=+5}{pen=aqua}{b}The money{/b}{/pen} is really rolling in now!{/size}{/pen}",
+      "before": "{pen=orange}{size=+5}{pen=aqua}{b}钱{/b}{/pen}现在真的滚滚而来！{/size}{/pen}",
+      "target": "{pen=orange}{size=+5}现在{pen=aqua}{b}钱{/b}{/pen}真是越赚越多了！{/size}{/pen}",
+      "line": 872
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}If this keeps up, I might actually be able to {pen=pink}buy{/pen}{/pen}{space=30}",
+      "before": "{pen=orange}照这么赚下去，再过几个月我就{pen=pink}能{/pen}{/pen}{space=30}",
+      "target": "{pen=orange}照这么赚下去，再过几个月，我说不定真能{pen=pink}买{/pen}{/pen}{space=30}",
+      "line": 877
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{pen=pink}my own place{/pen} in a few months!{/pen}{space=130}",
+      "before": "{pen=orange}{pen=pink}买套自己的房子了{/pen}！{/pen}{space=130}",
+      "target": "{pen=orange}{pen=pink}套自己的房子{/pen}！{/pen}{space=130}",
+      "line": 882
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}I'm{/pen} {pen=indigo}thinking{/pen} {pen=purple}something{/pen} {pen=red}by{/pen} {pen=orange}the{/pen} {pen=yellow}{size=+12}beach!{/size}{/pen}",
+      "before": "{pen=blue}我{/pen}{pen=indigo}想{/pen}{pen=purple}找套{/pen}{pen=red}海{/pen}{pen=orange}边{/pen}{pen=yellow}{size=+12}的！{/size}{/pen}",
+      "target": "{pen=blue}我{/pen}{pen=indigo}想{/pen}{pen=purple}买套{/pen}{pen=red}房子{/pen}{pen=orange}，就选{/pen}{pen=yellow}{size=+12}海边的！{/size}{/pen}",
+      "line": 887
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "It's pink.",
+      "before": "怎么是粉色的。",
+      "target": "怎么是粉色的？",
+      "line": 1587
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Come back on [saga.time.dow + when] afternoon, alright?",
+      "before": "[saga.time.dow + when]下午再来，知道吗？",
+      "target": "[saga.time.dow + when]下午再来，好吗？",
+      "line": 1642
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "I've got a lot riding on this!",
+      "before": "这次直播成不成全看你了！",
+      "target": "这次直播对我可太重要了！",
+      "line": 1663
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "C'mon, don't I at least get points for telling you-",
+      "before": "拜托，我至少提前告诉你了，就不能算我——",
+      "target": "拜托，好歹看在我来告诉你的份上——",
+      "line": 829
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "... I can't stand looking at your stupid, bowl-cutty face.",
+      "before": "……我看见你那张蠢兮兮的锅盖头脸就烦。",
+      "target": "……看见你顶着个锅盖头的那张蠢脸，我就受不了。",
+      "line": 1009
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "I had to push back the show because of you!",
+      "before": "都怪你，我只能把直播往后推！",
+      "target": "都是因为你，我才不得不把直播推迟了！",
+      "line": 1033
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "source": "It warms my heart, you two spending time together.",
+      "before": "看到你们俩愿意一起相处，我心里真高兴。",
+      "target": "看到你们俩能待在一起，我心里真高兴。",
+      "line": 325
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "source": "Mhmm.",
+      "before": "嗯哼。",
+      "target": "嗯。",
+      "line": 337
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Ugh, fine... Just go away!",
+      "before": "恶，行了……快走开！",
+      "target": "唉，好吧……快走开！",
+      "line": 55
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Don't worry about it.",
+      "before": "你别管。",
+      "target": "不用担心。",
+      "line": 109
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "The fact that you won't tell me what you're planning just reinforces the feeling that I should be worried.",
+      "before": "你越是不肯说计划，我就越觉得自己该担心。",
+      "target": "你越不肯告诉我打算做什么，我就越不放心。",
+      "line": 121
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "source": "It's nice you're sharing with [saga.cast.anon].",
+      "before": "你还知道跟[saga.cast.anon]分享，真好。",
+      "target": "你能跟[saga.cast.anon]分享，真好。",
+      "line": 319
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "source": "One day, you kids are going to realize how fortunate you are to have one another.",
+      "before": "总有一天，你们俩会明白，能拥有彼此有多幸运。",
+      "target": "总有一天，你们俩会明白，有彼此陪伴是多么幸运。",
+      "line": 325
     }
   ],
   "reading_batches": [
@@ -629,6 +1686,643 @@
         636
       ],
       "note": "Checked bathroom against jud_stall_event scene school_stall and res/meta/sets.rpym Toilet Stall with escape to school_girls. Two location errors corrected. Full dialogue branches not newly certified."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen05_jenny",
+        "jen06_snoop",
+        "jen07_post",
+        "jen08_prep",
+        "jen08_outro",
+        "jen08_post",
+        "jen10_outro",
+        "jen13_jenny"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        307,
+        317,
+        357,
+        407,
+        427,
+        447,
+        452,
+        457,
+        467,
+        472,
+        477,
+        482,
+        512,
+        537,
+        557,
+        617,
+        637,
+        642
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen_baby_post"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        1322,
+        1327,
+        1332,
+        1337
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen10_outro"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        587,
+        592,
+        597,
+        607,
+        622
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen13_jenny"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        642,
+        652
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen03_intro pages 1-2"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        122,
+        127,
+        142,
+        187
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen03_intro page 1 row 4"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        137
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen08_post"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        562,
+        577
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen08_post row 11 target tag repair"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        582
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "event": "jen07_post",
+      "event_page": 1,
+      "status": "read_complete_not_passed",
+      "note": "All nine translated rows read in source order; two subject/scope issues remain. No new readability passes granted."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen07_post"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        417,
+        432
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen07_post"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        432
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen05_jenny"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        292
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen28_jenny"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        1217,
+        1222,
+        1232
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen28_jenny",
+        "jen28_give",
+        "jen_baby_late"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        1207,
+        1227,
+        1232,
+        1247,
+        1277,
+        1287,
+        1292,
+        1297,
+        1302,
+        1307,
+        1312,
+        1317
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen_baby_late"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        1287
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen28_jenny",
+        "jen_baby_late"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        1232,
+        1302
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen28_jenny",
+        "jen28_give",
+        "jen_baby_late"
+      ],
+      "status": "text_readability_passed",
+      "reviewed_target_lines": [
+        1207,
+        1212,
+        1217,
+        1222,
+        1227,
+        1232,
+        1237,
+        1242,
+        1247,
+        1252,
+        1257,
+        1262,
+        1267,
+        1272,
+        1277,
+        1282,
+        1287,
+        1292,
+        1297,
+        1302,
+        1307,
+        1312,
+        1317
+      ],
+      "note": "23 entries reread as three complete pages; text only, whole diary remains not_passed."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen04_outro"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        217,
+        222,
+        237
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen06_snoop",
+        "jen07_jenny"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        347,
+        352,
+        377
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen06_snoop"
+      ],
+      "status": "partial_page_text_reread",
+      "reviewed_target_lines": [
+        342,
+        347,
+        352,
+        357
+      ],
+      "note": "Only rows 9-12 credited after connected rereading. Conditional afterthought retained; no full-page approval."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen27_kitchen"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        1177,
+        1197
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen26_cinema"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        1142,
+        1147,
+        1152,
+        1157,
+        1162
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen26_cinema"
+      ],
+      "status": "partial_page_text_reread",
+      "reviewed_target_lines": [
+        1142,
+        1147,
+        1152,
+        1157,
+        1162
+      ],
+      "source_evidence": {
+        "path": ".codex_tmp/current7944/src/src/plot/jen26.rpy",
+        "sha256": "f431b8042337e7a037008206e515ab941e0ac9b1742b4bc22f2707a0188e9098",
+        "read_lines": [
+          418,
+          471
+        ]
+      },
+      "note": "Punch recipient confirmed by zana p_punched and following exchange. Five non-graphic narrative entries credited; no full-page approval."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen08_outro",
+        "jen14_jenny",
+        "jen15_bed2"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        497,
+        702,
+        707,
+        712,
+        727,
+        732
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen15_bed2"
+      ],
+      "status": "partial_page_text_reread",
+      "reviewed_target_lines": [
+        712,
+        717,
+        722,
+        727,
+        732
+      ],
+      "note": "Opening recruitment paragraph and fallback transition reread; remaining page not credited."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "events": [
+        "jen14_cedric",
+        "jen14_cedric.jenny",
+        "jen14_jenny"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        968,
+        1007,
+        1032,
+        1039,
+        1065,
+        1110,
+        1169,
+        1200,
+        1232
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "events": [
+        "jen14_dining"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        99,
+        120,
+        162,
+        176,
+        190,
+        204,
+        253,
+        302,
+        309
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "events": [
+        "jen14_dining"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        525,
+        560,
+        574
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen15.rpy",
+      "events": [
+        "jen15_bed2"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        175,
+        205
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "events": [
+        "jen16_intro",
+        "jen16_scope"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        19,
+        73,
+        103,
+        127
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "events": [
+        "jen16_jenny",
+        "jen16_jenny.alt"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        787,
+        925,
+        1039,
+        1231,
+        1237,
+        1279,
+        1453
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "events": [
+        "jen16_jenny",
+        "jen16_jenny.alt"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        787
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "events": [
+        "jen16_retry.jenny"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        1597,
+        1645
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "events": [
+        "jen17_shop"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        224,
+        321,
+        391,
+        525,
+        550,
+        676
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "events": [
+        "jen17_shop"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        770,
+        819
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "events": [
+        "jen17_shop"
+      ],
+      "status": "partial",
+      "reviewed_target_lines": [
+        952,
+        989,
+        1213,
+        1227,
+        1245,
+        1259,
+        1278
+      ],
+      "note": "Targeted literalism and sentence-continuity corrections after reading event/page groups. Other entries are not newly credited as approved."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen18_post",
+        "jen19_post"
+      ],
+      "status": "targeted_corrections_context_reread",
+      "reviewed_target_lines": [
+        832,
+        842,
+        852,
+        867,
+        872,
+        877,
+        882,
+        887
+      ],
+      "note": "Reread jen18_post in full and jen19_post rows 1-5 after eight corrections. Preserve might, connected buy/my-own-place phrase and enlarged beach emphasis. Other rows and whole diary remain pending."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "events": [
+        "jen17_jenny"
+      ],
+      "status": "targeted_corrections_context_reread",
+      "reviewed_target_lines": [
+        1587,
+        1642,
+        1663
+      ],
+      "note": "All 18 mask return/scheduling entries reread after corrections; both when branches covered against source 459-501. Not diary entries; not global dispatch validation."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "events": [
+        "jen18_jenny.plan",
+        "jen18_retry.jenny",
+        "jen18_retry.plan"
+      ],
+      "status": "targeted_corrections_context_reread",
+      "reviewed_target_lines": [
+        829,
+        1009,
+        1033
+      ],
+      "note": "Three non-graphic cancellation/apology corrections reread with source and all target dialogue from source lines 286-429. Interrupted plea remains unfinished, haircut is distinct from face, postponement stays an already completed action. Other findings remain open."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "events": [
+        "jen19_jenny"
+      ],
+      "status": "targeted_corrections_context_reread",
+      "reviewed_target_lines": [
+        325,
+        337
+      ],
+      "note": "Breakfast closing reread against source: remove awkward together/get-along collocation and unsupported willingness; affirmative Mhmm remains a simple warm acknowledgment after thanks. Entire current file reread; only two issues closed, no whole-file quality approval."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "events": [
+        "jen21_intro",
+        "jen21_delay.jenny"
+      ],
+      "status": "targeted_corrections_context_reread",
+      "reviewed_target_lines": [
+        55,
+        109,
+        121
+      ],
+      "note": "Three opening corrections reread against source and adjacent replies. Read scope source 1-95, 41 targets; remaining file pending."
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "events": [
+        "jen22_jenny"
+      ],
+      "status": "targeted_corrections_context_reread",
+      "reviewed_target_lines": [
+        319,
+        325
+      ],
+      "note": "Two non-graphic closing remarks corrected and reread with skeptical replies and bacon transition; praise no longer adds reproach, mutual companionship avoids literal ownership phrasing. Other findings remain unresolved."
     }
   ],
   "source_followups": [
@@ -652,6 +2346,732 @@
       ],
       "finding": "Only registration references located. Full moon reminder and missed-meeting variants read together; timing of initial reminder is not proven.",
       "next_check": "Locate dynamic message selection or unavailable source before certifying initial reminder timing. Do not infer unused strings from absence of direct references."
+    },
+    {
+      "id": "jen04_diary_cash_branch_consistency",
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "event": "jen04_outro",
+      "status": "source_local_branch_inconsistency_verified",
+      "source_evidence": {
+        "path": ".codex_tmp/current7944/src/src/plot/jen04.rpy",
+        "sha256": "46e00c2382af49cc0019acba869341805230b23a0c61c707e1a77e68a482a4c1",
+        "branches": [
+          "anon.cash > 99: pays 100",
+          "anon.cash positive but <=99: pays remaining cash",
+          "anon.cash == 0: pays nothing"
+        ]
+      },
+      "note": "The local event chain records the same diary entry after full, partial or zero payment. Preserve the source statement about camera money; this is a source-side branch inconsistency, not a Chinese-only mistranslation. This does not certify all global scheduler reachability or diary page readability.",
+      "logic_evidence": {
+        "path": ".codex_tmp/current7944/lib/saga/logic/jen04.pyc",
+        "sha256": "ee3783639055708909c4904187a75f12ee4e002caa050a4ce2abb2493a68562f",
+        "read_scope": "Entire module and direct function bodies statically disassembled, no game code executed.",
+        "bed2": "After dialogue, cost=min(100,anon.cash); subtract from anon and add to jenny; return abort,step.jen04_outro without cash guard.",
+        "outro": "At dawn, writes jenny_diary.write(\"jen04_outro\") unconditionally; next step jen05_setup.",
+        "setup_and_landing": "Local requirements cover time and character/location availability; no explicit cash check."
+      }
+    },
+    {
+      "id": "jen14_jen15_recruitment_continuity",
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "events": [
+        "jen14_jenny",
+        "jen15_bed2"
+      ],
+      "status": "local_dialogue_continuity_verified",
+      "source_evidence": {
+        "path": ".codex_tmp/current7944/src/src/plot/jen14.rpy",
+        "sha256": "925de2f3b37b354bfe49311452ac157cc1dccac692e7ffcde5e2ccc3660145a7",
+        "read_ranges": [
+          [
+            1,
+            120
+          ],
+          [
+            310,
+            412
+          ]
+        ]
+      },
+      "findings": [
+        "Cedric explicitly refuses participating and refuses calling Jenny; anon is told to relay the refusal.",
+        "jen14_jenny has dining, yard and bedroom staging branches before the same report of refusal. Only dining adds a greeting before the common exchange.",
+        "Diary intention to find somebody else and subsequent recollection that Cedric would have been suitable are consistent with this refusal."
+      ],
+      "limits": "Source dialogue evidence only; not full jen14 dialogue translation or scheduler review. No additional diary readability credit."
+    },
+    {
+      "id": "jen14_current_batch_coverage_reconciliation",
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "status": "local_text_reading_complete_quality_partial",
+      "translation_sha256": "e9aaddaeeab60f326479a51631f2f72a5462bc122a093b8aeb91b163a8958d2a",
+      "verified_event_check_ids": [
+        "jen14_breakfast_opening_read",
+        "jen14_kitchen_breakfast_greeting",
+        "jen14_refusal_report_connected_reread"
+      ],
+      "covered_target_lines": [
+        8,
+        15,
+        22,
+        29,
+        36,
+        43,
+        50,
+        57,
+        64,
+        71,
+        78,
+        85,
+        92,
+        99,
+        106,
+        113,
+        120,
+        127,
+        134,
+        141,
+        148,
+        155,
+        162,
+        169,
+        176,
+        183,
+        190,
+        197,
+        204,
+        211,
+        218,
+        225,
+        232,
+        239,
+        246,
+        253,
+        260,
+        267,
+        274,
+        281,
+        288,
+        295,
+        302,
+        309,
+        316,
+        323,
+        330,
+        337,
+        344,
+        351,
+        358,
+        365,
+        372,
+        379,
+        386,
+        393,
+        935,
+        942,
+        949,
+        955,
+        961,
+        968,
+        975,
+        982,
+        988,
+        994,
+        1000,
+        1007,
+        1013,
+        1020,
+        1026,
+        1032,
+        1039,
+        1046,
+        1053,
+        1059,
+        1065,
+        1072,
+        1078,
+        1085,
+        1091,
+        1097,
+        1104,
+        1110,
+        1116,
+        1123,
+        1130,
+        1137,
+        1144,
+        1151,
+        1157,
+        1163,
+        1169,
+        1175,
+        1181,
+        1187,
+        1194,
+        1200,
+        1206,
+        1212,
+        1218,
+        1225,
+        1232,
+        1239,
+        1246
+      ],
+      "remaining_target_lines": [
+        400,
+        407,
+        414,
+        421,
+        428,
+        435,
+        442,
+        449,
+        456,
+        463,
+        470,
+        477,
+        484,
+        491,
+        497,
+        504,
+        511,
+        518,
+        525,
+        532,
+        539,
+        546,
+        553,
+        560,
+        567,
+        574,
+        581,
+        588,
+        594,
+        601,
+        608,
+        615,
+        621,
+        628,
+        634,
+        641,
+        648,
+        654,
+        661,
+        668,
+        674,
+        681,
+        687,
+        693,
+        700,
+        707,
+        714,
+        721,
+        728,
+        734,
+        740,
+        746,
+        752,
+        758,
+        764,
+        770,
+        777,
+        784,
+        791,
+        798,
+        804,
+        811,
+        818,
+        825,
+        832,
+        839,
+        846,
+        852,
+        858,
+        865,
+        872,
+        879,
+        885,
+        891,
+        897,
+        903,
+        909,
+        915,
+        921,
+        928
+      ],
+      "note": "105 entries locally reread after corrections plus 80 remaining entries read with branch source. All 185 locally read, but the additional 80 are not quality-approved. Previous remaining_target_lines is retained as the earlier checkpoint, not current unread count. Global dispatch still not certified.",
+      "read_only_target_lines": [
+        400,
+        407,
+        414,
+        421,
+        428,
+        435,
+        442,
+        449,
+        456,
+        463,
+        470,
+        477,
+        484,
+        491,
+        497,
+        504,
+        511,
+        518,
+        525,
+        532,
+        539,
+        546,
+        553,
+        560,
+        567,
+        574,
+        581,
+        588,
+        594,
+        601,
+        608,
+        615,
+        621,
+        628,
+        634,
+        641,
+        648,
+        654,
+        661,
+        668,
+        674,
+        681,
+        687,
+        693,
+        700,
+        707,
+        714,
+        721,
+        728,
+        734,
+        740,
+        746,
+        752,
+        758,
+        764,
+        770,
+        777,
+        784,
+        791,
+        798,
+        804,
+        811,
+        818,
+        825,
+        832,
+        839,
+        846,
+        852,
+        858,
+        865,
+        872,
+        879,
+        885,
+        891,
+        897,
+        903,
+        909,
+        915,
+        921,
+        928
+      ],
+      "remaining_unread_target_lines": []
+    },
+    {
+      "id": "jen15_logic_diary_write_sequence",
+      "file": "tl/zh_hans/src/plot/jen15.rpy",
+      "status": "local_function_flow_verified",
+      "source_evidence": {
+        "path": ".codex_tmp/current7944/lib/saga/logic/jen15.pyc",
+        "sha256": "4e13dbb0a690e0e2610bbcaf7e3961e94bd70688af143604ff95f2e68a1f6e35",
+        "read_scope": "Entire module registration and all direct function bodies statically disassembled without execution."
+      },
+      "findings": [
+        "landing explicitly requires time.dark and req availability, calls jen15_landing, opens laptop then returns abort and jen15_bed2.",
+        "landing_miss clears bedroom busy state and returns jen15_redux.",
+        "bed2 calls scene then sets anon.where to debbie_bed3, puts job flag on Jenny, writes jen15_bed2 diary, returns abort and jen15_outro.",
+        "outro sets sleep, closes laptop, clears bedroom busy, releases reservation and returns jen16_intro."
+      ],
+      "limits": "Registration constants now verified. Exact global scheduler arbitration and rails/block invocation machinery remain unverified; this records local registration, not a runtime playthrough.",
+      "registration": {
+        "setup_default": "time.dark",
+        "landing_defaults": [
+          "sets.debbie_landing",
+          "cast.anon"
+        ],
+        "bed2_default": "sets.debbie_bed2",
+        "bed2_rails": "sets.debbie_bed2",
+        "outro_default": "time.dawn",
+        "outro_block": "sets.debbie_bed2",
+        "outro_weight": "PASS",
+        "redux": "setup copied with landing configuration, name redux"
+      }
+    },
+    {
+      "id": "jen16_sign_local_dispatch",
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "status": "local_function_flow_verified",
+      "source_evidence": {
+        "path": ".codex_tmp/current7944/lib/saga/logic/jen16.pyc",
+        "sha256": "70b35084d544d09d3edd06f5eca9945433378709f0586b8e90abca57424bb52e",
+        "functions": [
+          "sign_once",
+          "sign_redo",
+          "sign_lily"
+        ]
+      },
+      "findings": [
+        "sign_once checks req(lily,comic_shop); failure calls busy and returns abort without advancing step.",
+        "Successful sign_once calls sign then returns abort,step.jen16_sign_redo.",
+        "sign_redo calls redo; thus its recollection of Lily follows the successful explanation in this local transition.",
+        "sign_lily calls supplementary dialogue then emits choice=None with same who and returns abort."
+      ],
+      "limits": "Function bodies only; registration defaults, req internals and global arbitration not certified. Busy is availability failure, not necessarily physical absence."
+    },
+    {
+      "id": "jen16_current_reading_reconciliation",
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "status": "local_text_reading_complete_quality_partial",
+      "translation_sha256": "b3e057ed1de8612133936f635675260576146059380dc754a1961b1cf8f390f9",
+      "verified_event_check_ids": [
+        "jen16_afternoon_both_paths_read",
+        "jen16_opening_context_read",
+        "jen16_promotional_sign_read",
+        "jen16_retry_paths_read",
+        "jen16_scope_both_paths_read"
+      ],
+      "covered_target_lines": [
+        7,
+        13,
+        19,
+        25,
+        31,
+        37,
+        43,
+        49,
+        55,
+        61,
+        67,
+        73,
+        79,
+        85,
+        91,
+        97,
+        103,
+        109,
+        115,
+        121,
+        127,
+        133,
+        139,
+        145,
+        151,
+        157,
+        163,
+        169,
+        175,
+        181,
+        187,
+        193,
+        199,
+        205,
+        211,
+        217,
+        223,
+        229,
+        235,
+        241,
+        247,
+        253,
+        259,
+        265,
+        271,
+        277,
+        283,
+        289,
+        295,
+        301,
+        307,
+        313,
+        319,
+        325,
+        331,
+        337,
+        343,
+        349,
+        355,
+        361,
+        367,
+        373,
+        379,
+        385,
+        391,
+        397,
+        403,
+        409,
+        415,
+        421,
+        427,
+        433,
+        439,
+        445,
+        451,
+        457,
+        463,
+        469,
+        475,
+        481,
+        487,
+        493,
+        499,
+        505,
+        511,
+        517,
+        523,
+        529,
+        535,
+        541,
+        547,
+        553,
+        559,
+        565,
+        571,
+        577,
+        583,
+        589,
+        595,
+        601,
+        607,
+        613,
+        619,
+        625,
+        631,
+        637,
+        643,
+        649,
+        655,
+        661,
+        667,
+        673,
+        679,
+        685,
+        691,
+        697,
+        703,
+        709,
+        715,
+        721,
+        727,
+        733,
+        739,
+        745,
+        751,
+        757,
+        763,
+        769,
+        775,
+        781,
+        787,
+        793,
+        799,
+        805,
+        811,
+        817,
+        823,
+        829,
+        835,
+        841,
+        847,
+        853,
+        859,
+        865,
+        871,
+        877,
+        883,
+        889,
+        895,
+        901,
+        907,
+        913,
+        919,
+        925,
+        931,
+        937,
+        943,
+        949,
+        955,
+        961,
+        967,
+        973,
+        979,
+        985,
+        991,
+        997,
+        1003,
+        1009,
+        1015,
+        1021,
+        1027,
+        1033,
+        1039,
+        1045,
+        1051,
+        1057,
+        1063,
+        1069,
+        1075,
+        1081,
+        1087,
+        1093,
+        1099,
+        1105,
+        1111,
+        1117,
+        1123,
+        1129,
+        1135,
+        1141,
+        1147,
+        1153,
+        1159,
+        1165,
+        1171,
+        1177,
+        1183,
+        1189,
+        1195,
+        1201,
+        1207,
+        1213,
+        1219,
+        1225,
+        1231,
+        1237,
+        1243,
+        1249,
+        1255,
+        1261,
+        1267,
+        1273,
+        1279,
+        1285,
+        1291,
+        1297,
+        1303,
+        1309,
+        1315,
+        1321,
+        1327,
+        1333,
+        1339,
+        1345,
+        1351,
+        1357,
+        1363,
+        1369,
+        1375,
+        1381,
+        1387,
+        1393,
+        1399,
+        1405,
+        1411,
+        1417,
+        1423,
+        1429,
+        1435,
+        1441,
+        1447,
+        1453,
+        1459,
+        1465,
+        1471,
+        1477,
+        1483,
+        1489,
+        1495,
+        1501,
+        1507,
+        1513,
+        1519,
+        1525,
+        1531,
+        1537,
+        1543,
+        1549,
+        1555,
+        1561,
+        1567,
+        1573,
+        1579,
+        1585,
+        1591,
+        1597,
+        1603,
+        1609,
+        1615,
+        1621,
+        1627,
+        1633,
+        1639,
+        1645,
+        1651,
+        1657
+      ],
+      "remaining_unread_target_lines": [],
+      "note": "All current local reading batches reconciled to individual source/target hashes. Unresolved language findings and external dispatch remain; this is not whole-file quality approval."
+    },
+    {
+      "id": "jen18_current_local_reading_reconciliation",
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "status": "local_read_complete_quality_partial",
+      "translation_sha256": "f2199090d07bb5ff51d70d738d3376e6ce88749a1d4b1da1021671fc81abb9ce",
+      "pair_count": 180,
+      "remaining_unread_target_lines": [],
+      "note": "All source script lines and current target pairs read in five connected branch groups. Evidence is local source flow and item hashes, not global scheduler or visual/gameplay validation."
+    },
+    {
+      "id": "jen19_local_read_reconciliation",
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "status": "local_read_complete_quality_partial",
+      "pair_count": 57,
+      "translation_sha256": "f37e088642f20a3d93be5d18f01e4875a31edf0867c53cb9a73ebbcb27921061",
+      "remaining_unread_target_lines": [],
+      "note": "Both complete local scenes read with all 57 entries including empty mono. External scheduler and diary write remain unverified; no gameplay."
+    },
+    {
+      "id": "jen20_local_read_reconciliation",
+      "file": "tl/zh_hans/src/plot/jen20.rpy",
+      "status": "local_read_complete_quality_partial",
+      "pair_count": 73,
+      "translation_sha256": "ad9a1ed59464e26d1935bd0e478cad0bf58f6ead4dd888484018b66850fba4db",
+      "remaining_unread_target_lines": [],
+      "note": "All local branches read. Repeated-path tongue question merges into do-not-ask-stupid-questions response inherited from first-path where-are-you-going; preserve source pending global caller review. Diary jen20_post corresponds broadly to first path; exact write trigger unverified."
+    },
+    {
+      "id": "jen21_current_local_read_reconciliation",
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "status": "local_read_complete_quality_partial",
+      "pair_count": 172,
+      "translation_sha256": "f8184ddee029f6ab9f1ca7aceb416337afcd536050a768c69dc9b08dd56a8ce7",
+      "remaining_unread_target_lines": [],
+      "note": "Opening and remainder records reconcile every current target. First event postpones asking for payment until tomorrow; repeat gives cut. Diary jen21_jenny mirrors first event broadly but precise write scheduling remains unverified."
+    },
+    {
+      "id": "jen22_current_local_read_reconciliation",
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "status": "local_read_complete_quality_partial",
+      "pair_count": 59,
+      "translation_sha256": "b00456282bc2f04b3b068beb9e0abb979a47544c4e6ce486b4d3075c408909d5",
+      "remaining_unread_target_lines": [],
+      "note": "Read whole current source with both dom/sub branch points and previously read redirect destinations. Payment dialogue explicitly follows jen21 first-path unpaid departure. This supports local narrative sequence, not global dispatch completion."
     }
   ],
   "unresolved_findings": [
@@ -666,6 +3086,284 @@
       "source": "Warm [saga.cast.debbie] up in the shower post-boobjob.",
       "issue": "Prior-event condition was incorrectly converted into an additional present action.",
       "status": "unresolved_content_boundary"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "event": "jen08_post",
+      "event_page": 1,
+      "row": 11,
+      "line": 582,
+      "issue": "Both source key and target contain malformed closing sequence {/size{{/art}; preserve source key. Target-only repair requires checking renderer behavior and tag-validation exception policy.",
+      "status": "target_tag_repaired_static_verified",
+      "resolution": "Only target closing size tag repaired; exact source SHA256 and translation path guard added to validator. Corrected target passes; original broken target and unrelated spacing-tag mutation fail. No gameplay or rendered-layout check."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "event": "jen07_post",
+      "rows": [
+        2,
+        3
+      ],
+      "issue": "Cross-row Chinese lacks a clear object boundary and can attach uploading to the filmed people. Source keeps filming and uploading under Jane as subject.",
+      "status": "resolved_text_reread",
+      "resolution": "Clarified filmed material as object and removed invented arranging action; page reread in order."
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "event": "jen07_post",
+      "rows": [
+        7,
+        8,
+        9
+      ],
+      "issue": "Chinese adds an arranging/recruiting action in the phrase meaning casually find several people. Source only describes unspecified people; added action is not established.",
+      "status": "resolved_text_reread",
+      "resolution": "Clarified filmed material as object and removed invented arranging action; page reread in order."
+    },
+    {
+      "id": "jen14_remaining_language_followup",
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "status": "requires_followup",
+      "target_lines": [
+        601,
+        634,
+        654,
+        681,
+        707,
+        714,
+        928
+      ],
+      "note": "Remaining review includes literal formal wording in kitchen exchange, interrupted phrase linkage, context-dependent pronouns and literal final thought. Read coverage does not certify these translations; explicit family-role wording remains unedited.",
+      "resolved_target_lines": [
+        525,
+        560,
+        574
+      ]
+    },
+    {
+      "id": "jen15_local_read_followup",
+      "file": "tl/zh_hans/src/plot/jen15.rpy",
+      "status": "resolved_targeted_context_reread",
+      "sources": [
+        "Unbelievable!",
+        "Ugh, absolutely not!"
+      ],
+      "note": "Two flagged exclamations corrected and reread with surrounding dialogue; source key unchanged. Whole scene quality and event dispatch not certified.",
+      "corrected_target_lines": [
+        175,
+        205
+      ]
+    },
+    {
+      "id": "jen16_scope_branch_language",
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "status": "requires_followup",
+      "target_lines": [
+        391,
+        499,
+        517,
+        625
+      ],
+      "note": "Alt opening expands a backward reference into a more specific request, although the immediately preceding shared question differs. Other candidates include literal reaction and weakened proposition wording. Preserve reading vs approval distinction; explicit family-role content not rewritten."
+    },
+    {
+      "id": "jen16_afternoon_language",
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "status": "partial_resolved",
+      "target_lines": [
+        979
+      ],
+      "note": "Candidates: completed timing inference in interrupted reply, formal transition, awkward exclamation, current-action correction phrased as prohibition, literal insult construction and cumbersome mask qualification. Both branches read; no approval inferred.",
+      "corrected_pending_reread_lines": [],
+      "resolved_target_lines": [
+        787,
+        925,
+        1039,
+        1231,
+        1237,
+        1279,
+        1453
+      ]
+    },
+    {
+      "id": "jen17_queue_language",
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "status": "resolved_targeted_context_reread",
+      "source_lines": [
+        73,
+        100,
+        116,
+        141,
+        147,
+        189
+      ],
+      "note": "Candidates: formal party-needs statement, literal modesty, inconsistent wrestling term, hesitant acceptance and social fit phrasing. No changes this batch. Fictional titles/proper names require terminology review before replacement.",
+      "corrected_target_lines": [
+        224,
+        321,
+        391,
+        525,
+        550,
+        676
+      ]
+    },
+    {
+      "id": "jen17_headlock_wording",
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "status": "resolved_targeted_context_reread",
+      "target_lines": [
+        770,
+        819
+      ],
+      "note": "Headlock alternates between throat lock and literal inside-a-headlock wording. Conditional if they had let me shifts to an explicit prevention in Chinese; review without adding an unseen event."
+    },
+    {
+      "id": "jen17_store_language",
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "status": "resolved_targeted_context_reread",
+      "target_lines": [
+        952,
+        989,
+        1213,
+        1227,
+        1245,
+        1259,
+        1278
+      ],
+      "note": "Source email method omitted; target adds only one per game; formal event timing/community phrase and completed school slip need revision against source. Read coverage not quality pass.",
+      "corrected_target_lines": [
+        952,
+        989,
+        1213,
+        1227,
+        1245,
+        1259,
+        1278
+      ]
+    },
+    {
+      "id": "diary_jen21_jen24_expression_followup",
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "status": "unresolved",
+      "target_lines": [
+        957,
+        992,
+        1027,
+        1092,
+        1102,
+        1107
+      ],
+      "note": "Connected four-page reading found incomplete predicate reuse, literal self-question response, added functional evaluation, nested indirect phrasing, formal modal phrasing and an English period. Explicit family-role sexual context unchanged; reading must not count as language approval."
+    },
+    {
+      "id": "jen18_connected_language_followup",
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "status": "partial_resolved",
+      "target_lines": [
+        283,
+        583,
+        769,
+        829,
+        1009,
+        1033
+      ],
+      "note": "Source/target full local reading: think becomes guarantee and pleasant nuance lost; literal Ugh; formal worth-it exclamation; interrupted merit appeal unnatural; bowl-cutty face literal compound; postponed-show past action becomes present necessity. Explicit scene material remains unchanged and not approved.",
+      "resolved_target_lines": [
+        829,
+        1009,
+        1033
+      ],
+      "remaining_target_lines": [
+        283,
+        583,
+        769
+      ]
+    },
+    {
+      "id": "jen19_breakfast_language_followup",
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "status": "partial_resolved",
+      "target_lines": [
+        145,
+        181,
+        187,
+        211,
+        325,
+        337
+      ],
+      "note": "Read complete local scene: laundry timing needs past-action check; rebuke strength and Ugh reaction differ; next-time responsibility uses awkward self wording; spending-time-together collocation and affirmative response need voice consistency. Explicit scene content unchanged.",
+      "resolved_target_lines": [
+        325,
+        337
+      ],
+      "remaining_target_lines": [
+        145,
+        181,
+        187,
+        211
+      ]
+    },
+    {
+      "id": "jen20_local_language_followup",
+      "file": "tl/zh_hans/src/plot/jen20.rpy",
+      "status": "unresolved",
+      "target_lines": [
+        301,
+        319,
+        439
+      ],
+      "note": "Full connected read found I-know-right agreement translated as prior assertion; extra of-course in wash response; literal I-mean in self-reassurance. Explicit scene content unchanged; no blanket language approval."
+    },
+    {
+      "id": "jen21_delay_reaction_remaining",
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "status": "unresolved",
+      "target_lines": [
+        151
+      ],
+      "note": "Ugh rendered as literal 恶 in later exchange; unchanged. Opening corrections do not approve other scene content."
+    },
+    {
+      "id": "jen21_remainder_language_followup",
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "status": "unresolved",
+      "target_lines": [
+        625,
+        703,
+        715,
+        721,
+        775,
+        781,
+        817,
+        829,
+        835,
+        853,
+        967,
+        1015
+      ],
+      "note": "Local reading found recurring literal Ugh/Eugh/Urg; default-name muffled calls lose name; muffled warning interpretation needs source context, not guessed fluent words; tried-to-warn becomes completed warning; Unbelievable literal. Explicit/coercive scene text unchanged."
+    },
+    {
+      "id": "jen22_breakfast_expression_followup",
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "status": "partial_resolved",
+      "target_lines": [
+        139,
+        265,
+        271,
+        319,
+        325
+      ],
+      "note": "Full connected reading: earned-it wording stiff; past eating becomes current eating; love peaches becomes unsupported favorite; sharing praise adds reproach with 还知道; have-one-another literal ownership phrasing. No edits in this batch; preserve scope distinctions.",
+      "resolved_target_lines": [
+        319,
+        325
+      ],
+      "remaining_target_lines": [
+        139,
+        265,
+        271
+      ]
     }
   ],
   "whole_lewd_review": "not_complete; known semantic errors remain; renaming is not translation approval"

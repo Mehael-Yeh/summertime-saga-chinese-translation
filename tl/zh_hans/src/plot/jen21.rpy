@@ -52,7 +52,7 @@ translate zh_hans jen21_intro_c847f387:
 translate zh_hans jen21_intro_bd133fa4:
 
     # anon "Ugh, fine... Just go away!"
-    anon "恶，行了……快走开！"
+    anon "唉，好吧……快走开！"
 
 # game/src/plot/jen21.rpy:18
 translate zh_hans jen21_intro_1e597601:
@@ -106,7 +106,7 @@ translate zh_hans jen21_delay_jenny_58fa9ff3:
 translate zh_hans jen21_delay_jenny_b6eba238:
 
     # jenny f_calm "Don't worry about it."
-    jenny f_calm "你别管。"
+    jenny f_calm "不用担心。"
 
 # game/src/plot/jen21.rpy:50
 translate zh_hans jen21_delay_jenny_4809ac68:
@@ -118,7 +118,7 @@ translate zh_hans jen21_delay_jenny_4809ac68:
 translate zh_hans jen21_delay_jenny_3877cd0f:
 
     # anon "The fact that you won't tell me what you're planning just reinforces the feeling that I should be worried."
-    anon "你越是不肯说计划，我就越觉得自己该担心。"
+    anon "你越不肯告诉我打算做什么，我就越不放心。"
 
 # game/src/plot/jen21.rpy:52
 translate zh_hans jen21_delay_jenny_1e55975c:

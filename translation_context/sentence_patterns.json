@@ -1465,7 +1465,7 @@
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
       "source": "Heh, yeah... It wasn't exactly hard to piece together, [saga.cast.jenny].",
-      "target": "呵，是啊……这还不难猜，[saga.cast.jenny]。"
+      "target": "呵，是啊……这又不难猜，[saga.cast.jenny]。"
     },
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
@@ -2903,12 +2903,12 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=blue}{size=+2}pretty {pen=aqua}flush with {size=+5}cash{/size}{/pen} recently...{/size}{/pen}{space=100}",
-      "target": "{pen=blue}{size=+2}手头倒挺{pen=aqua}宽{size=+5}裕{/size}{/pen}……{/size}{/pen}{space=100}"
+      "target": "{pen=blue}{size=+2}手头倒有{pen=aqua}不少{size=+5}钱{/size}{/pen}……{/size}{/pen}{space=100}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=blue}I bet I could find ways to get more out of him...{/pen}{space=40}",
-      "target": "{pen=blue}我肯定能想办法再从他身上榨些钱……{/pen}{space=40}"
+      "target": "{pen=blue}我肯定还能想办法从他那儿多榨点钱……{/pen}{space=40}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3003,17 +3003,17 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=orange}If this keeps up, I might actually be able to {pen=pink}buy{/pen}{/pen}{space=30}",
-      "target": "{pen=orange}照这么赚下去，再过几个月我就{pen=pink}能{/pen}{/pen}{space=30}"
+      "target": "{pen=orange}照这么赚下去，再过几个月，我说不定真能{pen=pink}买{/pen}{/pen}{space=30}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=orange}{pen=pink}my own place{/pen} in a few months!{/pen}{space=130}",
-      "target": "{pen=orange}{pen=pink}买套自己的房子了{/pen}！{/pen}{space=130}"
+      "target": "{pen=orange}{pen=pink}套自己的房子{/pen}！{/pen}{space=130}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=blue}I'm{/pen} {pen=indigo}thinking{/pen} {pen=purple}something{/pen} {pen=red}by{/pen} {pen=orange}the{/pen} {pen=yellow}{size=+12}beach!{/size}{/pen}",
-      "target": "{pen=blue}我{/pen}{pen=indigo}想{/pen}{pen=purple}找套{/pen}{pen=red}海{/pen}{pen=orange}边{/pen}{pen=yellow}{size=+12}的！{/size}{/pen}"
+      "target": "{pen=blue}我{/pen}{pen=indigo}想{/pen}{pen=purple}买套{/pen}{pen=red}房子{/pen}{pen=orange}，就选{/pen}{pen=yellow}{size=+12}海边的！{/size}{/pen}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3108,7 +3108,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=aqua}Ugh, {pen=lime}{b}[saga.cast.anon]{/b}{/pen} is relentless about this whole wanting me{/pen}",
-      "target": "{pen=aqua}啊，{pen=lime}{b}[saga.cast.anon]{/b}{/pen}一直缠着我不放，非要我{/pen}"
+      "target": "{pen=aqua}烦死了，{pen=lime}{b}[saga.cast.anon]{/b}{/pen}一直缠着我不放，非要我{/pen}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3256,7 +3256,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=pink}Errmm... {pen=purple}{b}{u}OBVIOUSLY{/u}{i}!!!{/i}{/b}{/pen} That part's great!{/pen}",
-      "target": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}这些当然好了！{/pen}"
+      "target": "{pen=pink}呃……{pen=purple}{b}{u}当然怀念{/u}{i}！！！{/i}{/b}{/pen}有人这样待我当然好啊！{/pen}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3266,12 +3266,12 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=pink}{size=-3}Do I miss going out? Or having someone buy me nice things?{/size}{/pen}",
-      "target": "{pen=pink}{size=-3}我想不想出去约会？想不想有人给我买好东西？{/size}{/pen}"
+      "target": "{pen=pink}{size=-3}我怀不怀念出去约会、有人给我买好东西的日子？{/size}{/pen}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=aqua}The {pen=lime}FREAKS{/pen} absolutely ate it up!{/pen}{space=100}",
-      "target": "{pen=aqua}那些{pen=lime}变态{/pen}完全被迷住了！{/pen}{space=100}"
+      "target": "{pen=aqua}那些{pen=lime}变态{/pen}可喜欢了！{/pen}{space=100}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3286,7 +3286,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=orange}If people will pay good money to watch random {pen=maroon}{size=-6}UGLY{/size}{/pen}{/pen}{space=20}",
-      "target": "{pen=orange}随便找几个{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}"
+      "target": "{pen=orange}就连那些不知名的{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3301,7 +3301,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=purple}I mean, I don't blame him. I'm like {pen=neonpink}{i}crazy{/i} {u}hot{/u}{/pen}...{/pen}",
-      "target": "{pen=purple}我是说，我也不怪他。谁让我{pen=neonpink}{i}性感{/i}{u}得要命{/u}{/pen}呢……{/pen}"
+      "target": "{pen=purple}说真的，我也不怪他。谁让我{pen=neonpink}{i}性感{/i}{u}得要命{/u}{/pen}呢……{/pen}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -9350,6 +9350,666 @@
       "file": "tl/zh_hans/extracted/lewd.rpy",
       "source": "Ask [saga.cast.judith] to go faster in the bathroom.",
       "target": "在洗手间里让[saga.cast.judith]快点。"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{pen=neonpink}Sluttygram{/pen} sounded like such a perfect gig... :'({/pen}",
+      "target": "{pen=orange}{pen=neonpink}Sluttygram{/pen}本来听着是个再合适不过的赚钱门路……:'({/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}While I was in the shower no less. Such an idiot.{/pen}{space=40}",
+      "target": "{pen=indigo}居然还趁我洗澡的时候。真是个白痴。{/pen}{space=40}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=70}{pen=blue}if things get {pen=navy}{u}desperate{/u}{/pen} enough.{/pen}",
+      "target": "{space=70}{pen=blue}要是真到了{pen=navy}{u}走投无路{/u}{/pen}的时候。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}I spoke with {pen=indigo}{b}[saga.cast.jane]{/b}{/pen} again today.{/pen}",
+      "target": "{pen=pink}今天又跟{pen=indigo}{b}[saga.cast.jane]{/b}{/pen}聊了聊。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}It got me thinking...{/pen}{space=250}",
+      "target": "{pen=orange}听她这么一说，我就想……{/pen}{space=250}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}This could be a {pen=red}{i}game changer{/i}{/pen} for me!{/pen}{space=30}",
+      "target": "{pen=orange}说不定我就能靠这个{pen=red}{i}翻身{/i}{/pen}！{/pen}{space=30}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}{size=-7}{b}OMG!{/b}{/size} I totally did it!!!{/pen}{space=200}",
+      "target": "{pen=indigo}{size=-7}{b}天啊！{/b}{/size}我真的做到了！！！{/pen}{space=200}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}I signed up on {pen=neonpink}CAMslut{/pen} and did an actual show today.{/pen}",
+      "target": "{pen=purple}我注册了{pen=neonpink}CAMslut{/pen}，今天还真开了一场直播。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}{size=-3}I made almost {pen=yellow}{size=-4}{b}THREE HUNDRED DOLLARS{/b}{/size}{/pen} in twenty minutes!!!{/size}{/pen}",
+      "target": "{pen=aqua}{size=-3}才二十分钟，我就赚了将近{pen=yellow}{size=-4}{b}三百美元{/b}{/size}{/pen}！！！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}This is exactly what I've been looking for!{/pen}{space=100}",
+      "target": "{pen=aqua}这不就是我一直想找的赚钱门路嘛！{/pen}{space=100}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}{size=-2}I asked the chat what they wanted to see me do next time{/size}{/pen}",
+      "target": "{pen=maroon}{size=-2}我问直播间观众下次想看我做什么，{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}Thank God I'm a such an {pen=purple}{b}amazing{/b}{/pen} actress!!{/pen}{space=30}",
+      "target": "{pen=pink}幸亏我的演技{pen=purple}{b}够好{/b}{/pen}！！{/pen}{space=30}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}Oh well, at least I got another {pen=aqua}hundred bucks{/pen} out of him.{/pen}",
+      "target": "{pen=indigo}算了，至少又从他那儿弄到了{pen=aqua}一百块{/pen}。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=red}{size=-3}The viewer count {pen=pink}is growing everyday{/pen} and I need {/size}{pen=pink}more{/pen}{/pen}",
+      "target": "{pen=red}{size=-3}观众{pen=pink}一天比一天多{/pen}，我得准备{/size}{pen=pink}更多{/pen}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}And you know the best part about all of this?{/pen}",
+      "target": "{pen=blue}你知道最棒的是什么吗？{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}{size=-3}I didn't even ask him to, which... ngl, is {pen=navy}definitely a little weird{/pen}...{/size}{/pen}",
+      "target": "{pen=aqua}{size=-3}我都没开口，他就给买了，这……说真的，{pen=navy}确实有点奇怪{/pen}……{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{size=-2}But {pen=red}screw it{/pen}, I don't care. I'm just happy I finally got one!{/size}{/pen}",
+      "target": "{pen=orange}{size=-2}不过{pen=red}管他呢{/pen}，我才不在乎。终于有一个了，光是这点就够我高兴了！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}{size=-3}So I can't believe I'm saying this but,{/size}{/pen} {pen=neonpink}I love being a mom!{/pen}",
+      "target": "{pen=indigo}{size=-3}连我自己都不敢相信，不过……{/size}{/pen} {pen=neonpink}我超爱当妈妈！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}It's so hard to describe how {pen=red}{size=+2}good{/size}{/pen} it makes me feel...{/pen}",
+      "target": "{pen=orange}这种感觉有多{pen=red}{size=+2}美好{/size}{/pen}，真的说不出来……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=30}{pen=orange}I mean, my child really {pen=yellow}{size=+3}{i}{u}needs{/u}{/i}{/size}{/pen} me, you know?{/pen}",
+      "target": "{space=30}{pen=orange}就是那种……我的孩子真的{pen=yellow}{size=+3}{i}{u}需要{/u}{/i}{/size}{/pen}我，你明白吗？{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}{size=-1}This adorable {pen=yellow}little creature{/pen} that's part {pen=neonpink}{size=+4}me{/size}{/pen} and part {pen=purple}{b}[saga.cast.anon]{/b}{/pen}.{/size}{/pen}",
+      "target": "{pen=aqua}{size=-1}这个可爱的{pen=yellow}小家伙{/pen}，一半来自{pen=neonpink}{size=+4}我{/size}{/pen}，一半来自{pen=purple}{b}[saga.cast.anon]{/b}{/pen}。{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}{b}{size=-6}FUCK{pen=purple}{b}ME{pen=indigo}{b}HOLY{pen=navy}{b}SHIT!{/b}{/pen}!{/b}{/pen}!{/b}{/pen}!{/b}{/size}{/pen}{space=100}",
+      "target": "{pen=blue}{b}{size=-6}我{pen=purple}{b}操！{pen=indigo}{b}天{pen=navy}{b}呐！{/b}{/pen}！{/b}{/pen}！{/b}{/pen}！{/b}{/size}{/pen}{space=100}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}So I used the {pen=navy}buttplug{/pen} today on stream for the first time.{/pen}",
+      "target": "{pen=blue}今天直播，我第一次用了{pen=navy}肛塞{/pen}。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}Turns out, {pen=navy}ANAL is fucking {pen=neonpink}AWESOME!{/pen}!{/pen}!{/pen}",
+      "target": "{pen=blue}原来{pen=navy}玩后庭真他妈{pen=neonpink}爽！{/pen}！{/pen}！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=black}{size=-9}{b}{pen=navy}VIBRATOR{/pen} + {pen=indigo}BUTTPLUG{/pen} = {pen=neonpink}MIND SHATTERING ORGASM!!!{/pen}{/b}{/size}{/pen}",
+      "target": "{pen=black}{size=-9}{b}{pen=navy}振动棒{/pen} + {pen=indigo}肛塞{/pen} = {pen=neonpink}高潮爽翻天！！！{/pen}{/b}{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}I'm {pen=aqua}getting paid{/pen} to do it!!! {pen=yellow}{size=-5}LOLOLOLOL{/size}{/pen}{/pen}{space=80}",
+      "target": "{pen=blue}做这事居然还有{pen=aqua}钱拿{/pen}！！！{pen=yellow}{size=-5}哈哈哈哈{/size}{/pen}{/pen}{space=80}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}I'm {pen=maroon}super excited{/pen} but it's {pen=red}so big{/pen}...{rb}{space=20}{/rb}{rt}{pen=pink}{size=-3}hope it {size=+5}fits{/size}!!{/size}{/pen}{/rt}{/pen}",
+      "target": "{pen=orange}我{pen=maroon}超级兴奋{/pen}，但是它{pen=red}好大{/pen}……{rb}{space=20}{/rb}{rt}{pen=pink}{size=-3}希望它{size=+5}塞得进去{/size}！！{/size}{/pen}{/rt}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=+10}URGH!!!{/size}{/pen}{space=100}",
+      "target": "{pen=pink}{size=+10}烦死了！！！{/size}{/pen}{space=100}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}I should {pen=navy}NEVER{/pen} have broken up with {pen=black}{b}[saga.cast.cedric]{/b}{/pen}!{/pen}{space=40}",
+      "target": "{pen=purple}我{pen=navy}就不该{/pen}和{pen=black}{b}[saga.cast.cedric]{/b}{/pen}分手！{/pen}{space=40}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=+2}I had him so well trained too... he totally knew how to{/size}{/pen}",
+      "target": "{pen=pink}{size=+2}他都被我管得那么听话了……最知道怎么{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}she probably found it looking for hook-{rb}ups.{space=75}{/rb}{rt}{pen=neonpink}{size=-5}she's always been a {b}SLUT{/b}!{/size}{/pen}{/rt}{/pen}",
+      "target": "{pen=purple}她可能是在{rb}找炮友的时候发现这个的。{space=75}{/rb}{rt}{pen=neonpink}{size=-5}她一直是个{b}荡妇{/b}！{/size}{/pen}{/rt}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-2}I could have crashed at his place until I found a {rb}way to make{/rb}{art}{pen=indigo}{size=+0}{b}BIG BUCKS!{/b}{/size}{/pen}{/art}{/size}{/pen}",
+      "target": "{pen=purple}{size=-2}我本可以先住在他那儿，等找到{rb}门路赚{/rb}{art}{pen=indigo}{size=+0}{b}大钱！{/b}{/size}{/pen}{/art}{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}toys{/pen} {pen=red}{size=-2}to play with for them. One with {pen=maroon}{b}{u}POWER{/u}{/b}{/pen} would be nice...{/size}{/pen}",
+      "target": "{pen=pink}玩具{/pen}{pen=red}{size=-2}，用来给他们表演。要是{pen=maroon}{b}{u}够强力{/u}{/b}{/pen}就更好了……{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-4}More days like this and I'll spring for a{/size} {pen=lime}{size=-5}{b}BAD MONSTER{/b}{/size}{/pen}.{/pen}",
+      "target": "{pen=purple}{size=-4}再照这样赚几天，我就舍得买那个{/size} {pen=lime}{size=-5}{b}坏怪物{/b}{/size}{/pen}了。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{rb}{pen=purple}I've {pen=neonpink}{u}ALWAYS{/u}{/pen} wanted to try one!{/pen}{/rb}{art}{size=-4}{pen=neonpink}Mmmmm! I'm like, actually panting with excitement rn... {pen=red}fuuuuck!{/pen}{/pen}{/size{{/art}{space=80}",
+      "target": "{rb}{pen=purple}我{pen=neonpink}{u}一直{/u}{/pen}想试一个！{/pen}{/rb}{art}{size=-4}{pen=neonpink}嗯～！我现在简直兴奋得要喘不过气来……{pen=red}操！{/pen}{/pen}{/size}{/art}{space=80}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=-1}students {pen=neonpink}{size=+4}fucking{/size}{/pen} in the library and posting it online!{/size}{/pen}",
+      "target": "{pen=pink}{size=-1}学生{pen=neonpink}{size=+4}在图书馆里乱搞{/size}{/pen}的画面，还把视频发到了网上{/size}{/pen}！"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}My subs {pen=purple}{b}{u}TRIPLED{/u}{/b}{/pen} almost overnight, but it isn't enough.{/pen}",
+      "target": "{pen=aqua}我的订阅量几乎一夜之间涨到了原来的{pen=purple}{b}{u}三倍{/u}{/b}{/pen}，但还不够。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=silver}{size=-4}It's not even just about him!{/size} I don't want a {pen=blue}boyfriend{/pen}, {pen=navy}{size=-5}{b}PERIOD!{/b}{/size}{/pen}{/pen}",
+      "target": "{pen=silver}{size=-4}也不光是因为他！{/size} 我压根就不想交{pen=blue}男朋友{/pen}，{pen=navy}{size=-5}{b}就这么简单！{/b}{/size}{/pen}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=silver}I mean, what good would it do me?{/pen}{space=100}",
+      "target": "{pen=silver}再说了，交男朋友对我有什么好处呢？{/pen}{space=100}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=+1}Okay so, I had the best idea, like {pen=pink}{b}EVER!!!!{/b}{/pen}!!!!{/size}{/pen}",
+      "target": "{pen=purple}{size=+1}好啦，我想到一个绝妙的主意，简直是{pen=pink}{b}有史以来最棒的！！！{/b}{/pen}！！！！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}tell him I'm closing down shop for a while.{/pen}{space=75}{art}{pen=neonpink}How brilliant is that?!!{/pen}{/art}",
+      "target": "{pen=pink}跟他说我要暂停营业一阵子。{/pen}{space=75}{art}{pen=neonpink}多棒的主意啊？！{/pen}{/art}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}{size=-3}How could I be so {pen=indigo}{size=-7}{b}FUCKING{/b}{/size}{/pen} {pen=purple}{size=+7}stupid{/size}{/pen}?!{/size}{/pen}{space=140}",
+      "target": "{pen=pink}{size=-3}我怎么会{pen=indigo}{size=-7}{b}他妈的{/b}{/size}{/pen}这么{pen=purple}{size=+7}蠢{/size}{/pen}？！{/size}{/pen}{space=140}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=75}{pen=pink}{pen=silver}{b}[saga.cast.debbie]{/b}{/pen} is going to kill me...{/pen}{space=75}{rt}{pen=blue}{size=-2}What do I {i}even{/i} {u}tell{/u} her?!{/size}{/pen}{/rt}",
+      "target": "{space=75}{pen=pink}{pen=silver}{b}[saga.cast.debbie]{/b}{/pen}会杀了我……{/pen}{space=75}{rt}{pen=blue}{size=-2}这{i}到底{/i}让我怎么{u}跟她解释{/u}？！{/size}{/pen}{/rt}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}It's not like my dating life has been {pen=purple}blowing up{/pen} lately...{/pen}",
+      "target": "{pen=pink}毕竟我最近又没{pen=purple}频繁跟人约会{/pen}……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-1}Even worse, I'm going to blow up like a {pen=blue}fucking whale{/pen} now!{/size}{/pen}",
+      "target": "{pen=purple}{size=-1}更糟的是，这下我他妈的要胖得像头{pen=blue}鲸鱼{/pen}了！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=-2}Ugh, I hope this doesn't{/size} {size=-6}{pen=black}{b}kill{/b}{/pen} my camming {rb}career{/rb}{rt}{pen=pink}{size=-2}this {u}blows{/u} on so many levels{i}!{/i}{/size}{/pen}{/rt}{/size}..{/pen}{space=30}{art}{pen=indigo}{size=+4}wait...{/size}{/pen}{/art}",
+      "target": "{pen=purple}{size=-2}唉，但愿这别{/size} {size=-6}{pen=black}{b}毁掉{/b}{/pen}我的直播{rb}事业{/rb}{rt}{pen=pink}{size=-2}这可真是{u}糟透了{/u}{i}！{/i}{/size}{/pen}{/rt}{/size}……{/pen}{space=30}{art}{pen=indigo}{size=+4}等等……{/size}{/pen}{/art}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}I mean... {pen=blue}{size=-2}{b}perverts{/b}{/size}{/pen} are into {pen=neonpink}{size=+2}pregnant chicks{/size}{/pen}... right?!{/pen}",
+      "target": "{pen=indigo}我是说……{pen=blue}{size=-2}{b}变态{/b}{/size}{/pen}喜欢{pen=neonpink}{size=+2}孕妇{/size}{/pen}……对吧？！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=45}{pen=indigo}Maybe this could be {pen=aqua}a whole {i}new{/i} angle{/pen} for me?{/pen}",
+      "target": "{space=45}{pen=indigo}说不定这能成为我的{pen=aqua}一个{i}全新{/i}卖点{/pen}？{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}First, I catch {pen=navy}{b}[saga.cast.anon]{/b}{/pen} spying on me in the shower...{/pen}",
+      "target": "{pen=purple}先是{pen=navy}{b}[saga.cast.anon]{/b}{/pen}偷看我洗澡，被我逮了个正着……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}And now, he's even peeping on me {i}in my room!{/i}{/pen}",
+      "target": "{pen=purple}现在，连我{i}待在自己房间里{/i}他都要偷看！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}I did manage to blackmail some money out of him though,{/pen}",
+      "target": "{pen=blue}不过，我倒是趁机敲了他一笔，{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}That's more than I make in a week on {pen=orange}stupid{/pen} {pen=neonpink}Sluttygram{/pen}.{/pen}",
+      "target": "{pen=blue}这比我在{pen=orange}那个破{/pen}{pen=neonpink}Sluttygram{/pen}上赚一周的钱还多。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}He apparently {pen=silver}has feelings for me...{/pen}{rt}{pen=orange}what a {pen=neonpink}little girl!{/pen}{/pen}{/rt}{/pen}{space=100}",
+      "target": "{pen=orange}看来他{pen=silver}对我动了真感情……{/pen}{rt}{pen=orange}真像个{pen=neonpink}小姑娘！{/pen}{/pen}{/rt}{/pen}{space=100}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}Ugh, it's {pen=orange}{size=+10}sooo weird{/size}{/pen} though!!!{/pen}",
+      "target": "{pen=maroon}唉，可这也{pen=orange}{size=+10}太奇怪了{/size}{/pen}！！！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}{pen=aqua}{b}[saga.cast.anon]{/b}{/pen} tracked down that creepy stalker for me.{/pen}",
+      "target": "{pen=blue}{pen=aqua}{b}[saga.cast.anon]{/b}{/pen}帮我找到了那个恶心的跟踪狂。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}It turns out he's some peon at the local movie theater.{/pen}{rt}{pen=purple}eww!{/pen}{/rt}",
+      "target": "{pen=blue}原来那家伙只是本地电影院的一个小喽啰。{/pen}{rt}{pen=purple}恶心！{/pen}{/rt}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}{pen=yellow}{b}[saga.cast.anon]{/b}{/pen} managed to get free tickets off the guy{/pen}",
+      "target": "{pen=aqua}{pen=yellow}{b}[saga.cast.anon]{/b}{/pen}还从那家伙手里弄到了免费电影票，{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}and then {pen=lime}I punched him{/pen} right in his stupid face!{/pen}",
+      "target": "{pen=aqua}然后{pen=lime}我给了那家伙一拳{/pen}，正中他那张蠢脸！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=85}{pen=aqua}It was {pen=blue}{u}perfect{/u}{/pen}!{/pen}",
+      "target": "{space=85}{pen=aqua}简直{pen=blue}{u}完美{/u}{/pen}！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}Ugh, {pen=black}{b}[saga.cast.anon]{/b}{/pen} is such an{/pen} {pen=navy}{size=-6}{b}{i}IDIOT!{/i}{/b}{/size}{/pen}{space=150}",
+      "target": "{pen=indigo}烦死了，{pen=black}{b}[saga.cast.anon]{/b}{/pen}真是个{/pen}{pen=navy}{size=-6}{b}{i}白痴！{/i}{/b}{/size}{/pen}{space=150}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}He should be {pen=indigo}on his knees{/pen} thanking me ffs.{/pen}",
+      "target": "{pen=pink}他真他妈该{pen=indigo}跪下来{/pen}谢我。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=aqua}Ugh, whatever. {pen=maroon}{size=-6}{b}SCREW HIM!{/b}{/size}{/pen} I'll find someone else.{/pen}",
+      "target": "{pen=aqua}算了，管他呢。{pen=maroon}{size=-6}{b}去他的！{/b}{/size}{/pen}我再找别人。{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}{size=-2}This is {pen=red}crazy{/pen}! Everybody is {pen=indigo}too chicken shit{/pen} to stream with me!{/size}{/pen}",
+      "target": "{pen=maroon}{size=-2}这也太{pen=red}离谱了{/pen}！一个个都{pen=indigo}怂得要命{/pen}，不敢跟我一起直播！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}{size=-4}Ugh, I've been {pen=red}{size=-2}wracking my brain{/size}{/pen} for days!{/size}{/pen}{space=80}",
+      "target": "{pen=maroon}{size=-4}烦死了，我都{pen=red}{size=-2}绞尽脑汁{/size}{/pen}想了好几天了！{/size}{/pen}{space=80}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}I did finally come up with a {pen=maroon}last resort{/pen} though...{/pen}",
+      "target": "{pen=pink}不过，总算想到一个{pen=maroon}实在不行还能用的办法{/pen}……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "... You know she's been trying to get a hold of you, right?",
+      "target": "……她一直在找你，这你知道吧？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Now she's trying to sweet talk me into doing it too!",
+      "target": "现在她还想用甜言蜜语哄我也去干这个！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Err, I dunno... Kinda?",
+      "target": "呃，不好说……有点像？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Yeah, well... I ain't!",
+      "target": "行了……反正我不干！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Will you at least call and tell her that?",
+      "target": "那你至少给她打个电话，说清楚吧？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Where did you say I could find [saga.cast.cedric]?",
+      "target": "你刚才说，去哪儿能找到[saga.cast.cedric]来着？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Why the fuck hasn't he called me back yet?!",
+      "target": "他他妈的怎么还没给我回电话？！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Mmmhmm.",
+      "target": "嗯。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Grr!!!",
+      "target": "哼！！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "What's going on in here?",
+      "target": "这里怎么回事？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I heard yelling.",
+      "target": "我听见有人在嚷嚷。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Why are you yelling at your phone, [saga.cast.jenny]?",
+      "target": "[saga.cast.jenny]，你冲着手机嚷什么呢？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "... Just, stupid [saga.cast.cedric] is refusing to answer my texts.",
+      "target": "……就是[saga.cast.cedric]那个蠢货不肯回我消息。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "[saga.cast.anon]!",
+      "target": "[saga.cast.anon]！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I thought you broke up with [saga.cast.cedric]?",
+      "target": "你不是已经跟[saga.cast.cedric]分手了吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "That's what you said you're doing, right?",
+      "target": "你不是说你在做这个吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I forgot about breakfast!",
+      "target": "我把锅里的早餐给忘了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Sounds like you're getting burnt bacon today, loser.",
+      "target": "看来你今天得吃焦培根了，废物。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Are you kids going somewhere?",
+      "target": "孩子们，你们这是要出门？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "It's nice to see you two finally getting along!",
+      "target": "你们俩终于能好好相处了，真好！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I knew they'd bond eventually.",
+      "target": "我就知道他们迟早会亲近起来的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen15.rpy",
+      "source": "Unbelievable!",
+      "target": "真是够了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen15.rpy",
+      "source": "Ugh, absolutely not!",
+      "target": "呃，绝对不行！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "She's probably just getting ready for-",
+      "target": "她大概正准备——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Are you perving on the neighbors?",
+      "target": "你在偷窥邻居？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Heh, isn't that the super religious girl you're always hanging around with?",
+      "target": "呵，那不是经常跟你待在一起、特别虔诚的那个女孩吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "I guess she isn't so goodie-goodie after all...",
+      "target": "看来她也没那么乖嘛……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "I came right-",
+      "target": "我可是马上就赶来——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "In fact, you're going to help me.",
+      "target": "而且，你还得帮我。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Not right now, moron!",
+      "target": "不是让你现在就坐，白痴！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "If you're gonna act like a bitch, then you can forget my help.",
+      "target": "你要是还这么刻薄，就别想让我帮忙。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Grr, fine!",
+      "target": "哼，行吧！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "It doesn't have to be a ski mask, just-",
+      "target": "不一定非得是滑雪面罩，只要——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "I'm not interested in your excuses, [saga.cast.anon]!",
+      "target": "[saga.cast.anon]，我不想听你找借口！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "You had better.",
+      "target": "你最好说到做到。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "That would suit our party's needs perfectly.",
+      "target": "我们队伍正好缺这么个角色。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Oh, please... he's exaggerating.",
+      "target": "哎，别这么说……他太夸张了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "So all these people are here to buy a wrestling game?",
+      "target": "所以这些人都是来买摔角游戏的吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "She hasn't wrestled since, man... and that was three years ago!",
+      "target": "从那以后她就没再打过摔角比赛了，老兄……那已经是三年前的事了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Eh, sure... I guess.",
+      "target": "呃……那就一起去吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Eh, I'm not sure I would fit in with those guys.",
+      "target": "呃，我不知道能不能跟他们合得来。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Before he got within two steps, she lashed out and put him in a headlock!",
+      "target": "他还没走近两步，她就突然出手，锁住了他的头！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "I would have stayed in that headlock all day if they had let me.",
+      "target": "只要他们肯，我能让她这样锁着我的头一整天。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Good, my time is almost up here.",
+      "target": "好，我这边的活动也快结束了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "'Cause I'm not laughing!",
+      "target": "我可不觉得这有什么好笑的！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "These replica masks are going to be a huge hit with our cosplay community!",
+      "target": "这些同款面具，玩角色扮演的肯定都喜欢！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Oh, you'll have to e-mail me a picture of that.",
+      "target": "哦，做好以后一定要用电子邮件发张照片给我看。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "A-are you selling those?",
+      "target": "那、那些面具卖吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "It's a promotional item that comes with each copy of the game.",
+      "target": "这是随每份游戏附赠的宣传品。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "I'll see you two at schoo-",
+      "target": "咱们到学——"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=blue}Somebody has been spying on me out by our pool!{/pen}",
+      "target": "{pen=blue}有人一直在我家泳池边偷窥我！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=silver}{size=+6}Still, it totally {pen=black}{size=-9}{b}CREEPED{/b}{/size}{/pen} me out!{/size}{/pen}",
+      "target": "{pen=silver}{size=+6}不过，这事真让我{pen=black}{size=-9}{b}毛骨悚然{/b}{/size}{/pen}！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=pink}Not some {pen=maroon}chubby, neckbearded, stoner...{/pen} {pen=red}>:'({/pen}{/pen}",
+      "target": "{pen=pink}才不是个{pen=maroon}胖乎乎、脖子上长满胡茬、整天抽大麻的家伙……{/pen} {pen=red}>:'({/pen}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{size=+5}{pen=aqua}{b}The money{/b}{/pen} is really rolling in now!{/size}{/pen}",
+      "target": "{pen=orange}{size=+5}现在{pen=aqua}{b}钱{/b}{/pen}真是越赚越多了！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "It's pink.",
+      "target": "怎么是粉色的？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "Come back on [saga.time.dow + when] afternoon, alright?",
+      "target": "[saga.time.dow + when]下午再来，好吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen17.rpy",
+      "source": "I've got a lot riding on this!",
+      "target": "这次直播对我可太重要了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "C'mon, don't I at least get points for telling you-",
+      "target": "拜托，好歹看在我来告诉你的份上——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "... I can't stand looking at your stupid, bowl-cutty face.",
+      "target": "……看见你顶着个锅盖头的那张蠢脸，我就受不了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "I had to push back the show because of you!",
+      "target": "都是因为你，我才不得不把直播推迟了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "source": "It warms my heart, you two spending time together.",
+      "target": "看到你们俩能待在一起，我心里真高兴。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "source": "Mhmm.",
+      "target": "嗯。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Ugh, fine... Just go away!",
+      "target": "唉，好吧……快走开！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Don't worry about it.",
+      "target": "不用担心。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "The fact that you won't tell me what you're planning just reinforces the feeling that I should be worried.",
+      "target": "你越不肯告诉我打算做什么，我就越不放心。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "source": "It's nice you're sharing with [saga.cast.anon].",
+      "target": "你能跟[saga.cast.anon]分享，真好。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "source": "One day, you kids are going to realize how fortunate you are to have one another.",
+      "target": "总有一天，你们俩会明白，有彼此陪伴是多么幸运。"
     }
   ]
 }

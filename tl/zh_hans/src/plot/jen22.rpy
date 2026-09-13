@@ -316,13 +316,13 @@ translate zh_hans jen22_jenny_f1704526:
 translate zh_hans jen22_jenny_0d81019d:
 
     # debbie "It's nice you're sharing with [saga.cast.anon]."
-    debbie "你还知道跟[saga.cast.anon]分享，真好。"
+    debbie "你能跟[saga.cast.anon]分享，真好。"
 
 # game/src/plot/jen22.rpy:110
 translate zh_hans jen22_jenny_c011d6aa:
 
     # debbie "One day, you kids are going to realize how fortunate you are to have one another."
-    debbie "总有一天，你们俩会明白，能拥有彼此有多幸运。"
+    debbie "总有一天，你们俩会明白，有彼此陪伴是多么幸运。"
 
 # game/src/plot/jen22.rpy:111
 translate zh_hans jen22_jenny_8411f557:

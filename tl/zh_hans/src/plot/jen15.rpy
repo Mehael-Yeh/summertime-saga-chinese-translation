@@ -172,7 +172,7 @@ translate zh_hans jen15_bed2_0f46ec3a:
 translate zh_hans jen15_bed2_7e4a4809:
 
     # jenny a_hips "Unbelievable!"
-    jenny a_hips "难以置信！"
+    jenny a_hips "真是够了！"
 
 # game/src/plot/jen15.rpy:69
 translate zh_hans jen15_bed2_d392472d:
@@ -202,7 +202,7 @@ translate zh_hans jen15_bed2_517a56e7:
 translate zh_hans jen15_bed2_3016e0ae:
 
     # jenny "Ugh, absolutely not!"
-    jenny "恶，想都别想！"
+    jenny "呃，绝对不行！"
 
 # game/src/plot/jen15.rpy:78
 translate zh_hans jen15_bed2_171ba8e4:

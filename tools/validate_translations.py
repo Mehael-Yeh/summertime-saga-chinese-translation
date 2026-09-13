@@ -9,6 +9,7 @@ endings stayed intact.
 from __future__ import annotations
 
 import argparse
+import hashlib
 from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
@@ -204,6 +205,12 @@ def validate_file(root: Path, path: Path, ref: str, compare: bool) -> list[str]:
 
     for pair in iter_pairs(lines):
         source_tokens = tokens(pair.source)
+        # Original jen08_post row 11 has a malformed size closing tag.
+        # Keep its lookup key intact; require the corrected target token set.
+        if (path.relative_to(root).as_posix() == 'tl/zh_hans/extracted/jenny_diary.rpy'
+                and hashlib.sha256(pair.source.encode('utf-8')).hexdigest()
+                == '92d6020103a0e0d1a71a6c666c8d3295c46dd740be8cd95c680c4a28cd066f68'):
+            source_tokens = tokens(pair.source.replace('{/size{{/art}', '{/size}{/art}'))
         target_tokens = tokens(pair.target)
         if source_tokens != target_tokens:
             issues.append(

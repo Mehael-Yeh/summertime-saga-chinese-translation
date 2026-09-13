@@ -96,7 +96,7 @@ translate zh_hans jen14_dining_54634785:
 
 
     # debbie "What's going on in here?" with hpunch
-    debbie "这里发生了什么？" with hpunch
+    debbie "这里怎么回事？" with hpunch
 
 # game/src/plot/jen14.rpy:37
 translate zh_hans jen14_dining_3028ace3:
@@ -117,7 +117,7 @@ translate zh_hans jen14_dining_966facee:
 
 
     # debbie "I heard yelling."
-    debbie "我听到喊叫声了。"
+    debbie "我听见有人在嚷嚷。"
 
 # game/src/plot/jen14.rpy:40
 translate zh_hans jen14_dining_337dff80:
@@ -159,7 +159,7 @@ translate zh_hans jen14_dining_14cd23e9:
 
 
     # debbie "Why are you yelling at your phone, [saga.cast.jenny]?"
-    debbie "你为什么对着手机大喊大叫，[saga.cast.jenny]？"
+    debbie "[saga.cast.jenny]，你冲着手机嚷什么呢？"
 
 # game/src/plot/jen14.rpy:47
 translate zh_hans jen14_dining_3fa903ab:
@@ -173,7 +173,7 @@ translate zh_hans jen14_dining_ad23b52c:
 
 
     # jenny "... Just, stupid [saga.cast.cedric] is refusing to answer my texts."
-    jenny "……只是，那个笨蛋[saga.cast.cedric]不肯回我消息。"
+    jenny "……就是[saga.cast.cedric]那个蠢货不肯回我消息。"
 
 # game/src/plot/jen14.rpy:49
 translate zh_hans jen14_dining_09946f7b:
@@ -187,7 +187,7 @@ translate zh_hans jen14_dining_38635429:
 
 
     # debbie "[saga.cast.anon]!"
-    debbie "[saga.cast.anon]？"
+    debbie "[saga.cast.anon]！"
 
 # game/src/plot/jen14.rpy:52
 translate zh_hans jen14_dining_edea0fe7:
@@ -201,7 +201,7 @@ translate zh_hans jen14_dining_e0c418c6:
 
 
     # debbie "I thought you broke up with [saga.cast.cedric]?"
-    debbie "我以为你和[saga.cast.cedric]分手了？"
+    debbie "你不是已经跟[saga.cast.cedric]分手了吗？"
 
 # game/src/plot/jen14.rpy:55
 translate zh_hans jen14_dining_2467a83a:
@@ -250,7 +250,7 @@ translate zh_hans jen14_dining_9226057b:
 
 
     # anon "That's what you said you're doing, right?"
-    anon "这就是你说的在做的事，对吧？"
+    anon "你不是说你在做这个吗？"
 
 # game/src/plot/jen14.rpy:70
 translate zh_hans jen14_dining_7d5ac8bd_2:
@@ -299,14 +299,14 @@ translate zh_hans jen14_dining_a5629abb:
 
 
     # debbie "I forgot about breakfast!"
-    debbie "我忘了早餐！"
+    debbie "我把锅里的早餐给忘了！"
 
 # game/src/plot/jen14.rpy:88
 translate zh_hans jen14_dining_de4a3ae7:
 
 
     # jenny "Sounds like you're getting burnt bacon today, loser."
-    jenny "听起来你今天只能吃烧焦的培根了，废物。"
+    jenny "看来你今天得吃焦培根了，废物。"
 
 # game/src/plot/jen14.rpy:89
 translate zh_hans jen14_dining_54ab391d:
@@ -522,7 +522,7 @@ translate zh_hans jen14_dining_5b0e218f:
 
 
     # debbie f_calm "Are you kids going somewhere?"
-    debbie f_calm "孩子们，你们要去哪儿吗？"
+    debbie f_calm "孩子们，你们这是要出门？"
 
 # game/src/plot/jen14.rpy:155
 translate zh_hans jen14_dining_315f755e:
@@ -557,7 +557,7 @@ translate zh_hans jen14_dining_34a0d11e:
 
 
     # debbie e_b f_happy m_laugh @ -m_talk "It's nice to see you two finally getting along!"
-    debbie e_b f_happy m_laugh @ -m_talk "很高兴看到你们两个终于相处融洽了！"
+    debbie e_b f_happy m_laugh @ -m_talk "你们俩终于能好好相处了，真好！"
 
 # game/src/plot/jen14.rpy:165
 translate zh_hans jen14_dining_4ab7609f:
@@ -571,7 +571,7 @@ translate zh_hans jen14_dining_a0964e51:
 
 
     # debbie "I knew they'd bond eventually."
-    debbie "我就知道他们最终会亲近起来。"
+    debbie "我就知道他们迟早会亲近起来的。"
 
 # game/src/plot/jen14.rpy:177
 translate zh_hans jen14_dining_d3f9edba:
@@ -965,7 +965,7 @@ translate zh_hans jen14_cedric_d1ba7890:
 
 
     # anon "... You know she's been trying to get a hold of you, right?"
-    anon "……你知道她一直在试图联系你，对吧？"
+    anon "……她一直在找你，这你知道吧？"
 
 # game/src/plot/jen14.rpy:313
 translate zh_hans jen14_cedric_1d0efb35:
@@ -1004,7 +1004,7 @@ translate zh_hans jen14_cedric_ae127184:
 
 
     # cedric "Now she's trying to sweet talk me into doing it too!"
-    cedric "现在她还想来甜言蜜语哄我也去干这个！"
+    cedric "现在她还想用甜言蜜语哄我也去干这个！"
 
 # game/src/plot/jen14.rpy:320
 translate zh_hans jen14_cedric_307d2fad:
@@ -1029,14 +1029,14 @@ translate zh_hans jen14_cedric_c3b6f2a6:
 translate zh_hans jen14_cedric_ffc500a3:
 
     # anon a_uneasy e_w f_shy "Err, I dunno... Kinda?"
-    anon a_uneasy e_w f_shy "呃，我不知道……有一点吧？"
+    anon a_uneasy e_w f_shy "呃，不好说……有点像？"
 
 # game/src/plot/jen14.rpy:330
 translate zh_hans jen14_cedric_a6de112c:
 
 
     # cedric a_hips "Yeah, well... I ain't!"
-    cedric a_hips "是啊，好吧……我才不干！"
+    cedric a_hips "行了……反正我不干！"
 
 # game/src/plot/jen14.rpy:332
 translate zh_hans jen14_cedric_fa376060:
@@ -1062,7 +1062,7 @@ translate zh_hans jen14_cedric_eb780b0f:
 translate zh_hans jen14_cedric_187d02a6:
 
     # anon a_finger f_shy "Will you at least call and tell her that?"
-    anon a_finger f_shy "你至少能打个电话告诉她这些吗？"
+    anon a_finger f_shy "那你至少给她打个电话，说清楚吧？"
 
 # game/src/plot/jen14.rpy:336
 translate zh_hans jen14_cedric_d091a9a2:
@@ -1107,7 +1107,7 @@ translate zh_hans jen14_cedric_45ce8991:
 translate zh_hans jen14_cedric_jenny_87233043:
 
     # anon f_worried "Where did you say I could find [saga.cast.cedric]?"
-    anon f_worried "你说我在哪里可以找到[saga.cast.cedric]？"
+    anon f_worried "你刚才说，去哪儿能找到[saga.cast.cedric]来着？"
 
 # game/src/plot/jen14.rpy:355
 translate zh_hans jen14_cedric_jenny_14d9be89:
@@ -1166,7 +1166,7 @@ translate zh_hans jen14_jenny_83622f6f:
 translate zh_hans jen14_jenny_f7ad2b07:
 
     # jenny "Why the fuck hasn't he called me back yet?!"
-    jenny "他妈的为什么还没给我回电话？！"
+    jenny "他他妈的怎么还没给我回电话？！"
 
 # game/src/plot/jen14.rpy:399
 translate zh_hans jen14_jenny_db0672f6:
@@ -1197,7 +1197,7 @@ translate zh_hans jen14_jenny_ae5cb42d:
 translate zh_hans jen14_jenny_71824d9d:
 
     # anon @ -m_talk "Mmmhmm."
-    anon @ -m_talk "嗯哼。"
+    anon @ -m_talk "嗯。"
 
 # game/src/plot/jen14.rpy:405
 translate zh_hans jen14_jenny_9ac806c2:
@@ -1229,7 +1229,7 @@ translate zh_hans jen14_jenny_00172bd4:
 
 
     # jenny @ -m_talk "Grr!!!"
-    jenny @ -m_talk "呃！！！"
+    jenny @ -m_talk "哼！！！"
 
 # game/src/plot/jen14.rpy:424
 translate zh_hans jen14_jenny_db37b5f1:

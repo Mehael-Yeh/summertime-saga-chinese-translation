@@ -322,7 +322,7 @@ translate zh_hans jen19_jenny_2022469c:
 translate zh_hans jen19_jenny_aafa27b1:
 
     # debbie "It warms my heart, you two spending time together."
-    debbie "看到你们俩愿意一起相处，我心里真高兴。"
+    debbie "看到你们俩能待在一起，我心里真高兴。"
 
 # game/src/plot/jen19.rpy:143
 translate zh_hans jen19_jenny_7d634071:
@@ -334,7 +334,7 @@ translate zh_hans jen19_jenny_7d634071:
 translate zh_hans jen19_jenny_7d98dede:
 
     # debbie @ -m_talk "Mhmm."
-    debbie @ -m_talk "嗯哼。"
+    debbie @ -m_talk "嗯。"
 
 # game/src/plot/jen19.rpy:153
 translate zh_hans jen19_jenny_244739f4:

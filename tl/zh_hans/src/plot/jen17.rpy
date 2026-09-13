@@ -221,7 +221,7 @@ translate zh_hans jen17_shop_03eea5d2:
 translate zh_hans jen17_shop_f579fbe1:
 
     # justin "That would suit our party's needs perfectly."
-    justin "那正好满足我们队伍的需求。"
+    justin "我们队伍正好缺这么个角色。"
 
 # game/src/plot/jen17.rpy:74
 translate zh_hans jen17_shop_87654f38:
@@ -318,7 +318,7 @@ translate zh_hans jen17_shop_1d78d6e1:
 
 
     # justin "Oh, please... he's exaggerating."
-    justin "哦，拜托……他夸大其词了。"
+    justin "哎，别这么说……他太夸张了。"
 
 # game/src/plot/jen17.rpy:101
 translate zh_hans jen17_shop_242140e0:
@@ -388,7 +388,7 @@ translate zh_hans jen17_shop_9d6b06f9:
 translate zh_hans jen17_shop_0ecf4832:
 
     # anon f_confused "So all these people are here to buy a wrestling game?"
-    anon f_confused "所以这些人都是来买摔跤游戏的吗？"
+    anon f_confused "所以这些人都是来买摔角游戏的吗？"
 
 # game/src/plot/jen17.rpy:117
 translate zh_hans jen17_shop_d542575b:
@@ -522,7 +522,7 @@ translate zh_hans jen17_shop_74807ca6:
 
 
     # karl "She hasn't wrestled since, man... and that was three years ago!"
-    karl "从那以后她就没再摔跤了，老兄……那已经是三年前的事了！"
+    karl "从那以后她就没再打过摔角比赛了，老兄……那已经是三年前的事了！"
 
 # game/src/plot/jen17.rpy:142
 translate zh_hans jen17_shop_75c714f1:
@@ -547,7 +547,7 @@ translate zh_hans jen17_shop_3bce327e:
 translate zh_hans jen17_shop_b5e16ec2:
 
     # anon "Eh, sure... I guess."
-    anon "呃，行吧……大概。"
+    anon "呃……那就一起去吧。"
 
 # game/src/plot/jen17.rpy:148
 translate zh_hans jen17_shop_f9ea7bec:
@@ -673,7 +673,7 @@ translate zh_hans jen17_shop_a9267fec:
 translate zh_hans jen17_shop_2d959d30:
 
     # anon "Eh, I'm not sure I would fit in with those guys."
-    anon "呃，我不确定我能融入那帮家伙。"
+    anon "呃，我不知道能不能跟他们合得来。"
 
 # game/src/plot/jen17.rpy:191
 translate zh_hans jen17_shop_169b49f5:
@@ -767,7 +767,7 @@ translate zh_hans jen17_shop_9cccc16e:
 translate zh_hans jen17_shop_8e63bb9f:
 
     # karl "Before he got within two steps, she lashed out and put him in a headlock!"
-    karl "他还没走近两步，她就突然出手，把他锁喉了！"
+    karl "他还没走近两步，她就突然出手，锁住了他的头！"
 
 # game/src/plot/jen17.rpy:217
 translate zh_hans jen17_shop_b3e7174b:
@@ -816,7 +816,7 @@ translate zh_hans jen17_shop_b9fcc613:
 translate zh_hans jen17_shop_5ba43acb:
 
     # justin "I would have stayed in that headlock all day if they had let me."
-    justin "要不是他们拦着，我能在那个头锁里待上一整天。"
+    justin "只要他们肯，我能让她这样锁着我的头一整天。"
 
 # game/src/plot/jen17.rpy:227
 translate zh_hans jen17_shop_4d4ae043:
@@ -949,7 +949,7 @@ translate zh_hans jen17_shop_c93cad0f:
 
 
     # pink "Good, my time is almost up here."
-    pink "好，我在这儿的时间也快到了。"
+    pink "好，我这边的活动也快结束了。"
 
 # game/src/plot/jen17.rpy:268
 translate zh_hans jen17_shop_7856ba76:
@@ -986,7 +986,7 @@ translate zh_hans jen17_shop_cf6083fd:
 
 
     # pink "'Cause I'm not laughing!"
-    pink "因为我可没觉得好笑！"
+    pink "我可不觉得这有什么好笑的！"
 
 # game/src/plot/jen17.rpy:279
 translate zh_hans jen17_shop_2042ca1b:
@@ -1210,7 +1210,7 @@ translate zh_hans jen17_shop_7e6743dd:
 
 
     # lily a_lucha_point "These replica masks are going to be a huge hit with our cosplay community!"
-    lily a_lucha_point "这些仿制面具将在我们的角色扮演社群中大受欢迎！"
+    lily a_lucha_point "这些同款面具，玩角色扮演的肯定都喜欢！"
 
 # game/src/plot/jen17.rpy:356
 translate zh_hans jen17_shop_eaec3981:
@@ -1224,7 +1224,7 @@ translate zh_hans jen17_shop_3c4c2be2:
 
 
     # pink "Oh, you'll have to e-mail me a picture of that."
-    pink "哦，做好以后一定要发照片给我看。"
+    pink "哦，做好以后一定要用电子邮件发张照片给我看。"
 
 # game/src/plot/jen17.rpy:359
 translate zh_hans jen17_shop_004aa47f:
@@ -1242,7 +1242,7 @@ translate zh_hans jen17_shop_0b7f7892:
 translate zh_hans jen17_shop_f4664546:
 
     # anon a_point "A-are you selling those?"
-    anon a_point "你、你在卖那些东西吗？"
+    anon a_point "那、那些面具卖吗？"
 
 # game/src/plot/jen17.rpy:364
 translate zh_hans jen17_shop_36acebdf:
@@ -1256,7 +1256,7 @@ translate zh_hans jen17_shop_78a2b6ba:
 
 
     # lily "It's a promotional item that comes with each copy of the game."
-    lily "这是游戏附赠的宣传品，每份游戏只有一个。"
+    lily "这是随每份游戏附赠的宣传品。"
 
 # game/src/plot/jen17.rpy:369
 translate zh_hans jen17_shop_81562721:
@@ -1275,7 +1275,7 @@ translate zh_hans jen17_shop_50157aaf:
 translate zh_hans jen17_shop_b113c0b0:
 
     # pink "I'll see you two at schoo-"
-    pink "咱们学、学校见——"
+    pink "咱们到学——"
 
 # game/src/plot/jen17.rpy:376
 translate zh_hans jen17_shop_f79c204b:
@@ -1584,7 +1584,7 @@ translate zh_hans jen17_jenny_c1e31ff9:
 
 
     # jenny a_lucha e_wsw f_disgusted "It's pink."
-    jenny a_lucha e_wsw f_disgusted "怎么是粉色的。"
+    jenny a_lucha e_wsw f_disgusted "怎么是粉色的？"
 
 # game/src/plot/jen17.rpy:471
 translate zh_hans jen17_jenny_a96639b2:
@@ -1639,7 +1639,7 @@ translate zh_hans jen17_jenny_b146f912:
 
 
     # jenny "Come back on [saga.time.dow + when] afternoon, alright?"
-    jenny "[saga.time.dow + when]下午再来，知道吗？"
+    jenny "[saga.time.dow + when]下午再来，好吗？"
 
 # game/src/plot/jen17.rpy:484
 translate zh_hans jen17_jenny_6c0859f4:
@@ -1660,7 +1660,7 @@ translate zh_hans jen17_jenny_bd159d50:
 
 
     # jenny "I've got a lot riding on this!"
-    jenny "这次直播成不成全看你了！"
+    jenny "这次直播对我可太重要了！"
 
 # game/src/plot/jen17.rpy:487
 translate zh_hans jen17_jenny_b84cc617:
