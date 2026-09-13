@@ -1782,6 +1782,32 @@
       "translation": "兽娘地下城",
       "first_seen": "tl/zh_hans/src/plot/bar04.rpy",
       "note": "与 World of Orcette 同属游戏专名；bar04.rpy 保留“兽娘地下城”（用户复核回退英文改动），不得再造第三种译名。"
+    },
+    {
+      "id": "race_orcette",
+      "source_regex": "\\bOrcette\\b",
+      "target_regexes": [
+        "女兽人"
+      ],
+      "category": "proper_noun",
+      "translation": "女兽人",
+      "first_seen": "tl/zh_hans/res/meta/prop.rpy",
+      "note": "种族／道具用“女兽人”（含 Orcette Queen、Orcette village）；游戏名 World of Orcette、Orcette's Dungeon 走已登记的两种写法，不受本条约束。",
+      "source_exceptions": [
+        "World of Orcette",
+        "Orcette's Dungeon"
+      ]
+    },
+    {
+      "id": "english_outlood",
+      "source_regex": "Outlood",
+      "target_regexes": [
+        "Outlood邮箱"
+      ],
+      "category": "proper_noun",
+      "translation": "Outlood邮箱",
+      "first_seen": "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy",
+      "note": "邮件应用专名；保留 Outlood，不得译成快递。"
     }
   ]
 }

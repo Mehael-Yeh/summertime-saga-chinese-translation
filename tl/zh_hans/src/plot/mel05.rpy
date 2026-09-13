@@ -946,7 +946,7 @@ translate zh_hans mel05_school_fb3fd450:
 # game/src/plot/mel05.rpy:566
 translate zh_hans mel05_school_33ebfa1d:
     # erik "Sorry, dude! I was pillaging an Orcette village and I kinda lost track of time..."
-    erik "抱歉，伙计！我刚才在洗劫一个兽人村庄，有点忘了时间……"
+    erik "抱歉，伙计！我刚才在洗劫一个女兽人村庄，有点忘了时间……"
 
 # game/src/plot/mel05.rpy:569
 translate zh_hans mel05_school_98d1ae45:

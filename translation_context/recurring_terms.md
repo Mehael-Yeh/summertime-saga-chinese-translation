@@ -172,7 +172,7 @@
 | chat（直播语境） | 成人直播 | 直播间观众 | 不直译为“聊天”。 |
 | deprive ... of attention | 任务条件 | 冷落…… | 表示暂时不理会角色。 |
 | foul play | 调查 | 人为犯罪／他杀迹象 | 调查死亡原因时使用。 |
-| Outlood Express | 专名 | Outlood快递 | 保留恶搞专名的英文部分。 |
+| Outlood Express | 专名 | Outlood邮箱 | 邮件应用专名，保留 `Outlood`；不得译成快递。 |
 | cookie jar | UI | 角色图鉴 | 解锁角色变体或场景。 |
 | Third Quarter | 月相 | 下弦月 | 与 `First Quarter`“上弦月”配对。 |
 | Waning Crescent / Waxing Crescent | 月相 | 残月／娥眉月 | 月相 UI 固定译法。 |

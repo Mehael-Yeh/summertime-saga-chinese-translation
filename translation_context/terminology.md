@@ -560,7 +560,7 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | `Freetwood Panhandrer` / `Fleetwood Panhandler` | 分别保持英文拼写 | 前者是 Yoo 的误读，后者是 Anon 的纠正；不得统一拼写而破坏笑点 |
 | `J-Ro` / `J-Lo` | 分别保持英文拼写 | Yoo 的误称与原名形成笑点；不得擅自统一 |
 | `Mini Vulva` | 迷你外阴 | 小型汽车的色情双关车型名；`jos_trade.rpy` 三处统一，不漂移为“迷你小穴／迷你小阴唇” |
-| `SL-700 Crotch Rocket` | SL-700 胯下火箭 | 纯电动踏板车车型名；保留 `crotch rocket` 的胯下／高速摩托双关，不译成“肌肉摩托” |
+| `SL-700 Crotch Rocket` | SL-700胯下火箭 | 纯电动踏板车车型名；保留 `crotch rocket` 的胯下／高速摩托双关，不译成“肌肉摩托” |
 | `Cotton`（`That’s a bold strategy, Cotton.`） | 保持 `Cotton` | 《躲避球》式文化引用中的人物姓名，按英文姓名规则保留，不泛化成“老兄” |
 | `poor boy` | 穷小子 | Yoo 对 Anon 贫穷身份的固定羞辱称呼；不得漂移为“可怜的小子／可怜的孩子” |
 | `Employee of the month` / `Emproyee of month` | 月度最佳员工 | Yoo 炫耀连续五个月获奖的头衔；后者是原文故意拼错，中文仍统一同一头衔 |
@@ -779,7 +779,7 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 | Bad Monster | 坏怪物 | Pink 出售的大型情趣玩具名称。 |
 | cookie jar | 角色图鉴 | 解锁角色图鉴变体或场景。 |
 | Half wind-relieving pose | 半排气式 | 瑜伽姿势名称。 |
-| Outlood Express | Outlood快递 | 游戏中的恶搞专名，保留 `Outlood`。 |
+| Outlood Express | Outlood邮箱 | 游戏中的恶搞专名，保留 `Outlood`；它是邮件应用（`pc_mail`／inbox），不得译成快递。 |
 | Waning Crescent / Waxing Crescent / Third Quarter | 残月／娥眉月／下弦月 | 月相 UI 统一译法。 |
 | Gym. | 体育馆 | 本项目中学校场景既有译法；不机械改为“健身房”。 |
 

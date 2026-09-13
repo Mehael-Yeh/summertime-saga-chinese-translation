@@ -404,10 +404,10 @@ translate zh_hans strings:
     new "兰普庄园的员工制服。希望这能为[saga.cast.iwanka]提供不错的伪装。"
     # game/res/meta/prop.rpym:185
     old "Orcette Queen garments"
-    new "兽人女王装束"
+    new "女兽人女王装束"
     # game/res/meta/prop.rpym:186
     old "The outfit fit for an Orcette Queen made from the battle scarred skin of her enemies."
-    new "用敌人伤痕累累的皮肤制成的兽人女王专属装束。"
+    new "用敌人伤痕累累的皮肤制成的女兽人女王专属装束。"
     # game/res/meta/prop.rpym:188
     old "A couple of cosplay outfits"
     new "几件cosplay服装"

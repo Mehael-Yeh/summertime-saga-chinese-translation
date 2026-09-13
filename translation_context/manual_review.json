@@ -3412,12 +3412,12 @@
       }
     },
     "tl/zh_hans/res/meta/prop.rpy": {
-      "sha256": "b57237f243b47fd115b2b246733a6e287395ad1d210c5a1353323c4c85edc4d2",
+      "sha256": "9553a3e23c7c7ecaf0fd5820567d1727bd7b33b7a4f7e2b287c546af975749b5",
       "pairs": 455,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "b57237f243b47fd115b2b246733a6e287395ad1d210c5a1353323c4c85edc4d2",
+        "translation_sha256": "9553a3e23c7c7ecaf0fd5820567d1727bd7b33b7a4f7e2b287c546af975749b5",
         "source_sha256": "56d1950d4a448bcbddef020de168ff4d40b221c3344e3b82ea3ce8feed25d2a7",
         "source": "game/res/meta/prop.rpym",
         "source_local": ".codex_tmp/current7944/src/res/meta/prop.rpym",
@@ -4108,12 +4108,12 @@
           {
             "id": "strings",
             "line": 407,
-            "pair_sha256": "005e445f6b452db05947449be66bf715ac3fea7000e751a88f65f2160a9dc232"
+            "pair_sha256": "0c2237afceb60f7e0739eb10aceba992505bb99188f46bc2b6de1451c7f2eb4c"
           },
           {
             "id": "strings",
             "line": 410,
-            "pair_sha256": "d380048fa93874e66c5d3dc4c46b9bb2f5868a802f07a9dea5e7947c5c2c7625"
+            "pair_sha256": "18b4e759ed14d4e810c37a6235b9e380b9e06a692064950e783046927966f6f3"
           },
           {
             "id": "strings",
@@ -11678,12 +11678,12 @@
       }
     },
     "tl/zh_hans/src/mini/pc.rpy": {
-      "sha256": "607f0ee46da257b59fabbea652d8621e3a0e823ecdece61c016f47fc8f7b4dd0",
+      "sha256": "b32e99b069ff3cc00672573a7252816c71559fd6e79af821f83d28f94544df27",
       "pairs": 79,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "607f0ee46da257b59fabbea652d8621e3a0e823ecdece61c016f47fc8f7b4dd0",
+        "translation_sha256": "b32e99b069ff3cc00672573a7252816c71559fd6e79af821f83d28f94544df27",
         "source_sha256": "7a4b3227b4e50b6d7a6edcbf1f23278aef0bd77321e7a89ff193ff9b8ba15604",
         "source": "game/src/mini/pc.rpy",
         "source_local": ".codex_tmp/current7944/src/src/mini/pc.rpy",
@@ -11842,7 +11842,7 @@
           {
             "id": "strings",
             "line": 119,
-            "pair_sha256": "ba4832d715534cfc74faf1ea8e44fd598f627a2511bfbcd01fc5e79d2adbb5ff"
+            "pair_sha256": "68804fcbd1cb165ed87081e3d70dcf802ba782146588abf8c8dcb5f3c52a26cd"
           },
           {
             "id": "strings",
@@ -171922,12 +171922,12 @@
       }
     },
     "tl/zh_hans/src/plot/mel05.rpy": {
-      "sha256": "f4798664103698c840d6ca73e4407a0f1cd4fa181aa31f6c84814e6a87ba7322",
+      "sha256": "eaf4eea46ab40f9f2db0170fb4165601dd07f5b232807e527ba9d16980e855c3",
       "pairs": 277,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "f4798664103698c840d6ca73e4407a0f1cd4fa181aa31f6c84814e6a87ba7322",
+        "translation_sha256": "eaf4eea46ab40f9f2db0170fb4165601dd07f5b232807e527ba9d16980e855c3",
         "source_sha256": "9f29b45d6b2dacc032605d854100bed16346a44adfdaeffc1e5a4251a4b5b2f3",
         "source": "game/src/plot/mel05.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/mel05.rpy",
@@ -172893,7 +172893,7 @@
           {
             "id": "mel05_school_33ebfa1d",
             "line": 949,
-            "pair_sha256": "886ba2b8f9f44907d8657541cf1222ab019f893d0a515cc553235363b99f91b3"
+            "pair_sha256": "93ef50e7508ce7447092c90e928cc0bc31caf631d3c070ae5d236fceddd8c297"
           },
           {
             "id": "mel05_school_98d1ae45",
