@@ -19,7 +19,7 @@
 | `english_residuals.md` | 记录 | 英文残留与非英语例外判定 | 出现新例外时更新 |
 | `input_codes.md` | 规范 | 游戏内可输入代码与翻译兼容 | 新增密码类文本时更新 |
 | `release.md` | 规范 | 版本兼容矩阵、发版检查清单、上游更新流程 | 版本或发布流程变化时更新 |
-| `manual_review.json` | 记录（机器） | 每文件人工审校台账，含逐条指纹 | 由审校脚本读写，勿手工改行号 |
+| `manual_review.json` | 记录（机器） | 每文件人工审校台账：逐条指纹、当前覆盖状态与未结项，不写批次历史 | 由审校脚本读写，勿手工改行号 |
 | `extracted_language_review.json` | 记录（机器） | 提取文本的修改日志、阅读批次、收敛项 | 改动后同步指纹与结论 |
 | `sentence_patterns.json` | 记录（机器） | 已确认句式基准，用于一致性回归 | 改动句式后同步目标串 |
 | `recurring_terms.json` | 记录（机器） | 术语回归规则，供审计脚本读取 | 通过脚本校验 |
@@ -27,7 +27,7 @@
 
 ## 记录分工
 
-`manual_review.json` 回答“哪些条目被人工看过”，用行号和原文／译文指纹锁定版本，不代表译文质量通过。`extracted_language_review.json` 回答“改了什么、为什么改”，保存修改前后对照、阅读批次和已收敛的问题。`sentence_patterns.json` 与 `recurring_terms.json` 是回归基线，供 `tools/` 下的审计脚本比对当前译文，用于发现文风漂移和术语不一致。
+`manual_review.json` 回答“哪些条目被人工看过，当前还缺什么”，用行号和原文／译文指纹锁定版本，`note` 只写当前覆盖状态与未结项，历次改了什么查 `progress.md` 批次记录与 `extracted_language_review.json` 的 `changes`；台账不代表译文质量通过。`extracted_language_review.json` 回答“改了什么、为什么改”，保存修改前后对照、阅读批次和已收敛的问题。`sentence_patterns.json` 与 `recurring_terms.json` 是回归基线，供 `tools/` 下的审计脚本比对当前译文，用于发现文风漂移和术语不一致。
 
 三份机器记录都由脚本生成或更新，手工编辑容易造成指纹失效。改动译文后应运行：
 

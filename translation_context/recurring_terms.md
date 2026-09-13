@@ -28,7 +28,7 @@
 | Tony 的 `champ` | 人物专属称呼 | 冠军 | 173 处 / 13 个文件 | `ano09.rpy`、`pizza_boxes.rpy`、`ton_baby.rpy` 与 `tony.rpy` 已统一；当前已复核文件中无旧译残留 |
 | Tina 的 `babyface` | 人物专属称呼 | 小帅哥 | 42 处 / 10 个文件 | `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 的称呼已统一；非称呼用法按具体指代自然翻译，不机械使用“娃娃脸” |
 | Maria/Tony 的 `dollface` | 老派亲昵称呼 | 美人儿 | 3 处 / 3 个文件 | `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 已全部统一 |
-| `good boy` 家族 | 夸奖／支配式亲昵 | `That's my good boy`→这才乖嘛；`That's my boy`→这才对嘛；`You're such a good boy`→你真是个好孩子；短夸奖 `Good boy`→真乖 | 19 处 / 12 个文件 | 2026-09-13 全库收敛并通过审计；`jen_shower` 的狗化玩笑、条件句和第三人称句由 `source_exceptions` 保留原译 |
+| `good boy` 家族 | 夸奖／支配式亲昵 | `That's my good boy`→这才乖嘛；`That's my boy`→这才对嘛；`You're such a good boy`→你真是个好孩子；短夸奖 `Good boy`→真乖 | 19 处 / 12 个文件 | 全库收敛并通过审计；`jen_shower` 的狗化玩笑、条件句和第三人称句由 `source_exceptions` 保留原译 |
 | `The Blue Falcon` | 车辆专名 | 蓝色猎鹰号 | 6 处 / 1 个文件 | `ano09.rpy` 全部一致 |
 | `The Sapphire Stallion` | 车辆候选名 | 蓝宝石种马号 | 2 处 / 1 个文件 | `ano09.rpy` 全部一致 |
 | `The Overcompensator` | 车辆专名/笑点 | 过度补偿者 | 4 处 / 2 个文件 | `ano09.rpy`、`jos_trade.rpy` 当前核心译名一致 |
