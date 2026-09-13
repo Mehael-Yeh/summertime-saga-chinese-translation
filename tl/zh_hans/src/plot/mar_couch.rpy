@@ -1617,7 +1617,7 @@ translate zh_hans mar_couch_noon1_0fbd9c67:
 translate zh_hans mar_couch_noon1_4e13bae5:
 
     # maria e_se p_sit "Suppose I could do with a quickie."
-    maria e_se p_sit "来个快的也不错。"
+    maria e_se p_sit "速战速决来一次也不错。"
 
 # game/src/plot/mar_couch.rpy:639
 translate zh_hans mar_couch_noon1_b898f941:

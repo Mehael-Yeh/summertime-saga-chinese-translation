@@ -430,7 +430,7 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | `primed pussy` | 水润润、正等着开干的骚屄 | 保留 Tony 的露骨起哄 |
 | `tap that` | 好好肏她一顿 | 明确性行为动作 |
 | `work that big cock` | 好好使唤那根大鸡巴 | Tony 的粗俗起哄 |
-| `lampredotto` | 灯笼牛肚 | 意大利食物比喻 |
+| `lampredotto` | 保留 `lampredotto` | 意大利食品名，按第三语言规则不译，也不写“灯笼牛肚”；`mar_couch.rpy` 下文老家的三明治说明保留 |
 | `Devil's Threeway` | 恶魔三人行 | Tony 为三人性交提出的夸张招式名 |
 | `The Kidney Shifter` | 移肾术 | Tony 为性交动作提出的夸张招式名 |
 | `batter` | 面糊 | 造人语境下指精液，延续披萨店食物双关 |

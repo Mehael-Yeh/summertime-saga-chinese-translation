@@ -1808,6 +1808,29 @@
       "translation": "Outlood邮箱",
       "first_seen": "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy",
       "note": "邮件应用专名；保留 Outlood，不得译成快递。"
+    },
+    {
+      "id": "food_lampredotto",
+      "source_regex": "lampredotto",
+      "target_regexes": [
+        "lampredotto"
+      ],
+      "category": "third_language_term",
+      "translation": "lampredotto",
+      "first_seen": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "note": "意大利食品名，按第三语言规则保留原文，不写“灯笼牛肚”；Tony 下文说明是老家的三明治。"
+    },
+    {
+      "id": "adult_quickie",
+      "source_regex": "\\bquickie\\b",
+      "target_regexes": [
+        "速战速决"
+      ],
+      "category": "adult_invitation",
+      "speaker": "Maria / Tony 沙发场景",
+      "translation": "速战速决来一次",
+      "first_seen": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "note": "口语意为“速战速决的一次”，成人语境默认指快速性爱，不译“快餐”（那是 fast food）；mar_couch 沙发场景作“速战速决来一次也不错”，不再弱化为笼统的“来个快的”。"
     }
   ]
 }

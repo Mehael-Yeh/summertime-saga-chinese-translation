@@ -159049,12 +159049,12 @@
       }
     },
     "tl/zh_hans/src/plot/mar_couch.rpy": {
-      "sha256": "93bbf8c7d1c83c1e67a2fcd7ad00adedf3981755fc5196ad8ef2e978792d0466",
+      "sha256": "172bf56efa74eb4758829fe68cceab49c30fa9e8d060714ca6d938ec630b2440",
       "pairs": 636,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "93bbf8c7d1c83c1e67a2fcd7ad00adedf3981755fc5196ad8ef2e978792d0466",
+        "translation_sha256": "172bf56efa74eb4758829fe68cceab49c30fa9e8d060714ca6d938ec630b2440",
         "source_sha256": "6016608dd8ec6b00e55434b0196ec5c576a59664ce03e15e2539dfe38d984001",
         "source": "game/src/plot/mar_couch.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/mar_couch.rpy",
@@ -160325,7 +160325,7 @@
           {
             "id": "mar_couch_noon1_4e13bae5",
             "line": 1620,
-            "pair_sha256": "fa2766b13c53ea8dede83212caf594fb3dcb5cdda3028d876ec0424c7cb17b74"
+            "pair_sha256": "74a352ab6b7c9e226ea9245a1014464711da40ea493092762b2814e700002e45"
           },
           {
             "id": "mar_couch_noon1_b898f941",

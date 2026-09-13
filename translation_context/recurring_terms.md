@@ -56,7 +56,7 @@
 | `workplace seminar` / `the seminar` | 连续笑点 | 职场性骚扰培训／培训 | 2 处 / 1 个文件 | `ano15.rpy` 已结合员工场景复核；不是 Tony/Maria 性行为暗语 |
 | `The Falsettos` | 电视节目名 | 《假声》 | `mar_couch.rpy` | 保持节目标题格式，不按普通复数名词直译 |
 | `horizontal pizzica` | 成人双关 | 横着做披萨 | `mar_couch.rpy` | 保留披萨店人物的性行为双关 |
-| `lampredotto` | 意大利食品 | 灯笼牛肚 | `mar_couch.rpy` | Tony 的食物比喻，保持食品指代 |
+| `lampredotto` | 意大利食品名 | 保留 `lampredotto` | `mar_couch.rpy` | 按第三语言规则保留意大利原文，不写“灯笼牛肚”；下文 Tony 说明是“老家的三明治”，Anon 先追问的节奏保留 |
 | `primed pussy` | 成人起哄 | 水润润、正等着开干的骚屄 | `mar_couch.rpy` | 保留 Tony 粗俗起哄；不得误写为“骚屌” |
 | `tap that` | 性行为动作 | 肏她一顿 | `mar_couch.rpy` | 明确动作含义，不弱化成普通“碰她” |
 | `work that big cock` | 成人起哄 | 好好使唤那根大鸡巴 | `mar_couch.rpy` | 保留 Tony 粗俗、鼓动式口吻 |
@@ -138,6 +138,7 @@
 
 | `sugar`（Melody 对 Anon） | Melody 专属亲昵称呼 | 甜心 | `mel01-06.rpy`、`mel_office.rpy`、`melody.rpy` | `mel_office.rpy` 已统一；旧文件中的“亲爱的”等译法待随完整剧情逐文件统一，不在未通读前批量替换 |
 | `skin flute` | Melody 的长笛／口交双关 | 肉箫 | `mel_office.rpy` | 与 `play/blow/master an instrument/private performance` 连续成组处理 |
+| `quickie` | 成人语境口语 | 速战速决来一次 | `mar_couch.rpy` | 口语意为“速战速决的一次”，成人场景默认指快速性爱；不译“快餐”（fast food），也不弱化成笼统的“来个快的” |
 | `finale`（Melody 线） | 才艺表演或私人舞蹈的最后环节 | 压轴（按句法扩展） | `mel02.rpy`、`mel03.rpy`、`mel06.rpy`、`mel_office.rpy` | 使用“压轴环节／压轴戏／压轴好戏”等自然句法；不译成普通“结局” |
 | `pom-pom` / `pom-poms` | 啦啦队手持道具 | 啦啦球 | `roxxy.rpy`、`viv04.rpy`、`res/meta/prop.rpy`、`res/meta/step.rpy` | `roxxy.rpy` 与 `viv04.rpy` 已按完整场景统一；资源文件待完整通读时复核，不漂移为“拉拉球／绒球／彩球” |
 
