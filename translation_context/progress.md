@@ -1,5 +1,20 @@
 # 翻译精修进度
 
+最近整理：2026-09-13
+
+用途与维护方式见[index.md](index.md)。
+
+## 2026-09-13 目录规范化与一次性清单归档
+
+- 新增 `index.md`，登记目录内每个文件的分工、机器记录与人工记录的边界、四个校验入口及清理规则。
+- 固定清单65条（原17条登记问题加53条日记待核，去重后65条）逐条按上下文复核：39条改写并复读，其余26条确认无需改动；lewd两条 `post-boobjob` 按“乳交之后”修正。
+- 一次性范围文件 `proofreading_remaining_65.json`、`remaining_review.json` 的结论并入 `extracted_language_review.json` 的 `proofreading_batches` 与 `closed_task_scopes` 后删除，未决问题转为 `resolved_findings`。
+- 日记294条按页段连同正文、旁注、跨行残句与指代复核，`readability_review` 记为 `passed`，范围为文本级；此项不含游戏内渲染与逐场景游玩验证。
+- `manual_review.json`、`sentence_patterns.json`、`recurring_terms.json`、`extracted_routes.json` 统一补记更新时间；改动文件的台账指纹与依赖哈希同步刷新。
+- 文案边界：露骨段落只做语义准确性与语句通顺度校对，不扩展原文没有的描写。
+- 内容级去重：跨文件重复的 Debbie 称呼段、lang.wait 说明、src/menu 批次说明及三段批次记录改为单一出处，其他文件保留指向链接，避免同一规则两处漂移。
+- 台账收敛：三个无翻译条目的语言入口／样式文件从 `pending` 改为 `non_translation_support_file`；`extracted_language_review.json` 为同一行的多次修订补记 `revision` 与 `is_latest`，无编号的扫描证据补 `id`，已收敛文件的 `*_partial` 状态改为 `closed_after_batch_65`。
+
 ## 2026-09-12 剩余语义问题修复（当前源码）
 
 - 修正2个翻译文件共27处：8处剧情阶段提示、14处住宅客厅提示、3处直播表达及2处日记歧义。原文、变量、格式标签与脚本结构不变。
@@ -293,9 +308,9 @@
 | `tl/zh_hans/src/plot/ano01.rpy` | 将 12 处英文纯省略号误写的 `??` 全部恢复为中文省略号 `……` | 已随完整文件精修复核 |
 | `tl/zh_hans/src/plot/tor05.rpy` | 定向统一7处血清材料`horny toad`／`horny toad extract`为“发情蟾蜍”／“发情蟾蜍提取物”，补修`boys' locker room`为“男生更衣室”、`Consum-R`英文店名及相关中文省略号 | 后续仍须按文件名顺序完整通读全文件，本次仅完成与`misc_toad.rpy`直接相关的连续性修复 |
 
-## 全仓校验待修复队列
+## 全仓校验历史队列（已清零）
 
-运行 `python tools/validate_translations.py --no-compare` 后，当前报告 **26 个既有问题**。这些问题先登记，按完整场景阅读结果逐项修复；明显程序格式错误可作为独立安全批次处理，但不得据此将剧情文件标记为完成。
+以下26项在后续批次中逐项修复。2026-09-13 运行 `python tools/validate_translations.py --no-compare` 报告 0 问题，队列已清零；清单保留作为历史记录，不再作为待办依据。
 
 ### 变量、标签或占位符不一致
 

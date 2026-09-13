@@ -3140,14 +3140,16 @@
     "tl/zh_hans/base_box/style_box.rpy": {
       "sha256": "23bfc9622bcb15f6cd46814a2101d85fa93c2a4a67d8de9d6538e6374b75e258",
       "pairs": 0,
-      "status": "pending",
-      "review": null
+      "status": "non_translation_support_file",
+      "review": null,
+      "note": "无翻译条目：该文件仅包含语言入口或样式框架，不产生可核对的对白文本。"
     },
     "tl/zh_hans/hook_add_change_language_entrance.rpy": {
       "sha256": "daa7fb03fff1e84d904b9e49beab8a65027352a2fd42b60c917a9292477ce45b",
       "pairs": 0,
-      "status": "pending",
-      "review": null
+      "status": "non_translation_support_file",
+      "review": null,
+      "note": "无翻译条目：该文件仅包含语言入口或样式框架，不产生可核对的对白文本。"
     },
     "tl/zh_hans/res/meta/cast.rpy": {
       "sha256": "08db5d0590d387350147e8b4a5dfbe45e68b8e9216fcd76dc01afeae72d7865b",
@@ -9494,8 +9496,9 @@
     "tl/zh_hans/set_default_language_at_startup.rpy": {
       "sha256": "e7e977cad5ff6b3eea4fd3eefb7b3a201ff95ca71c4b28bca3c4f1d03ed56700",
       "pairs": 0,
-      "status": "pending",
-      "review": null
+      "status": "non_translation_support_file",
+      "review": null,
+      "note": "无翻译条目：该文件仅包含语言入口或样式框架，不产生可核对的对白文本。"
     },
     "tl/zh_hans/sex_speed_control.rpy": {
       "sha256": "ad3694888b37330c531bb9c025639d1cbf6db6763917723b1624f13d23d3993d",
@@ -214281,5 +214284,6 @@
   "review_methods": {
     "bilingual_scene_read": "按场景和分支双语连读；外部触发是否完成仍以各文件note/status为准",
     "chinese_scene_read": "按场景和分支先连读中文；原文复核只针对明确记录的疑点，不表示全条原文均重新核对"
-  }
+  },
+  "updated": "2026-09-13"
 }

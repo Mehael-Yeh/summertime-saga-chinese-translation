@@ -1,6 +1,6 @@
 {
-  "status": "partial",
-  "scope": "Targeted language corrections; explicit familial sexual content unchanged. Remaining entries are not certified by this pass.",
+  "status": "all_tracked_findings_closed",
+  "scope": "提取文本的修改日志与阅读批次；露骨段落只做语义准确性与通顺度校对，固定65条已收敛。",
   "changes": [
     {
       "file": "tl/zh_hans/extracted/mesg.rpy",
@@ -294,7 +294,9 @@
       "source": "{pen=pink}{size=+2}The police said his death was {pen=maroon}{size=+5}suspicious{/size}{/pen} but they{/size}{/pen}",
       "before": "{pen=pink}{size=+2}警方称他的死亡{pen=maroon}{size=+5}可疑{/size}{/pen}，但他们{/size}{/pen}",
       "target": "{pen=pink}{size=+2}警察说他死得{pen=maroon}{size=+5}可疑{/size}{/pen}，但他们{/size}{/pen}",
-      "line": 57
+      "line": 57,
+      "revision": 1,
+      "is_latest": false
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -469,7 +471,9 @@
       "source": "{pen=pink}{size=+2}The police said his death was {pen=maroon}{size=+5}suspicious{/size}{/pen} but they{/size}{/pen}",
       "before": "{pen=pink}{size=+2}警察说他死得{pen=maroon}{size=+5}可疑{/size}{/pen}，但他们{/size}{/pen}",
       "target": "{pen=pink}{size=+2}警察说他死得{pen=maroon}{size=+5}蹊跷{/size}{/pen}，但他们{/size}{/pen}",
-      "line": 57
+      "line": 57,
+      "revision": 2,
+      "is_latest": true
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -651,7 +655,9 @@
       "source": "{pen=orange}{size=-2}But {pen=red}screw it{/pen}, I don't care. I'm just happy I finally got one!{/size}{/pen}",
       "before": "{pen=orange}{size=-2}不过{pen=red}管他呢{/pen}，我不在乎。我就高兴终于也搞到了一个！{/size}{/pen}",
       "target": "{pen=orange}{size=-2}不过{pen=red}管他呢{/pen}，我才不在乎。反正终于到手了，我高兴就行！{/size}{/pen}",
-      "line": 642
+      "line": 642,
+      "revision": 1,
+      "is_latest": false
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -721,7 +727,9 @@
       "source": "{pen=orange}{size=-2}But {pen=red}screw it{/pen}, I don't care. I'm just happy I finally got one!{/size}{/pen}",
       "before": "{pen=orange}{size=-2}不过{pen=red}管他呢{/pen}，我才不在乎。反正终于到手了，我高兴就行！{/size}{/pen}",
       "target": "{pen=orange}{size=-2}不过{pen=red}管他呢{/pen}，我才不在乎。终于有一个了，光是这点就够我高兴了！{/size}{/pen}",
-      "line": 642
+      "line": 642,
+      "revision": 2,
+      "is_latest": true
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -798,14 +806,18 @@
       "source": "{pen=orange}If people will pay good money to watch random {pen=maroon}{size=-6}UGLY{/size}{/pen}{/pen}{space=20}",
       "before": "{pen=orange}随便找几个{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}",
       "target": "{pen=orange}就连些不知名的{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}",
-      "line": 432
+      "line": 432,
+      "revision": 1,
+      "is_latest": false
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=orange}If people will pay good money to watch random {pen=maroon}{size=-6}UGLY{/size}{/pen}{/pen}{space=20}",
       "before": "{pen=orange}就连些不知名的{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}",
       "target": "{pen=orange}就连那些不知名的{pen=maroon}{size=-6}丑八怪，{/size}{/pen}{/pen}{space=20}",
-      "line": 432
+      "line": 432,
+      "revision": 2,
+      "is_latest": true
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -833,7 +845,9 @@
       "source": "{pen=pink}Errmm... {pen=purple}{b}{u}OBVIOUSLY{/u}{i}!!!{/i}{/b}{/pen} That part's great!{/pen}",
       "before": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}这些当然好了！{/pen}",
       "target": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}这点当然好了！{/pen}",
-      "line": 1232
+      "line": 1232,
+      "revision": 1,
+      "is_latest": false
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -854,7 +868,9 @@
       "source": "{pen=pink}Errmm... {pen=purple}{b}{u}OBVIOUSLY{/u}{i}!!!{/i}{/b}{/pen} That part's great!{/pen}",
       "before": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}这点当然好了！{/pen}",
       "target": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}有人这样待我当然好啊！{/pen}",
-      "line": 1232
+      "line": 1232,
+      "revision": 2,
+      "is_latest": false
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -875,7 +891,9 @@
       "source": "{pen=pink}{size=-3}How could I be so {pen=indigo}{size=-7}{b}FUCKING{/b}{/size}{/pen} {pen=purple}{size=+7}stupid{/size}{/pen}?!{/size}{/pen}{space=140}",
       "before": "{pen=pink}{size=-3}我怎么会这么{pen=indigo}{size=-7}{b}他妈{/b}{/size}{/pen} {pen=purple}{size=+7}蠢{/size}{/pen}？！{/size}{/pen}{space=140}",
       "target": "{pen=pink}{size=-3}我怎么他妈的{pen=indigo}{size=-7}{b}这么{/b}{/size}{/pen}{pen=purple}{size=+7}蠢{/size}{/pen}？！{/size}{/pen}{space=140}",
-      "line": 1287
+      "line": 1287,
+      "revision": 1,
+      "is_latest": false
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -896,7 +914,9 @@
       "source": "{pen=purple}{size=-1}Even worse, I'm going to blow up like a {pen=blue}fucking whale{/pen} now!{/size}{/pen}",
       "before": "{pen=purple}{size=-1}更糟的是，我现在要像{pen=blue}该死的鲸鱼{/pen}一样膨胀起来了！{/size}{/pen}",
       "target": "{pen=purple}{size=-1}更糟的是，这下我要胖得像头{pen=blue}他妈的鲸鱼{/pen}了！{/size}{/pen}",
-      "line": 1302
+      "line": 1302,
+      "revision": 1,
+      "is_latest": false
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -924,21 +944,27 @@
       "source": "{pen=pink}{size=-3}How could I be so {pen=indigo}{size=-7}{b}FUCKING{/b}{/size}{/pen} {pen=purple}{size=+7}stupid{/size}{/pen}?!{/size}{/pen}{space=140}",
       "before": "{pen=pink}{size=-3}我怎么他妈的{pen=indigo}{size=-7}{b}这么{/b}{/size}{/pen}{pen=purple}{size=+7}蠢{/size}{/pen}？！{/size}{/pen}{space=140}",
       "target": "{pen=pink}{size=-3}我怎么会{pen=indigo}{size=-7}{b}他妈的{/b}{/size}{/pen}这么{pen=purple}{size=+7}蠢{/size}{/pen}？！{/size}{/pen}{space=140}",
-      "line": 1287
+      "line": 1287,
+      "revision": 2,
+      "is_latest": true
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=pink}Errmm... {pen=purple}{b}{u}OBVIOUSLY{/u}{i}!!!{/i}{/b}{/pen} That part's great!{/pen}",
       "before": "{pen=pink}呃……{pen=purple}{b}{u}当然想{/u}{i}！！！{/i}{/b}{/pen}有人这样待我当然好啊！{/pen}",
       "target": "{pen=pink}呃……{pen=purple}{b}{u}当然怀念{/u}{i}！！！{/i}{/b}{/pen}有人这样待我当然好啊！{/pen}",
-      "line": 1232
+      "line": 1232,
+      "revision": 3,
+      "is_latest": true
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=purple}{size=-1}Even worse, I'm going to blow up like a {pen=blue}fucking whale{/pen} now!{/size}{/pen}",
       "before": "{pen=purple}{size=-1}更糟的是，这下我要胖得像头{pen=blue}他妈的鲸鱼{/pen}了！{/size}{/pen}",
       "target": "{pen=purple}{size=-1}更糟的是，这下我他妈的要胖得像头{pen=blue}鲸鱼{/pen}了！{/size}{/pen}",
-      "line": 1302
+      "line": 1302,
+      "revision": 2,
+      "is_latest": true
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -1267,7 +1293,9 @@
       "source": "I came right-",
       "before": "我一听你说就——",
       "target": "我马上就过——",
-      "line": 787
+      "line": 787,
+      "revision": 1,
+      "is_latest": false
     },
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
@@ -1316,7 +1344,9 @@
       "source": "I came right-",
       "before": "我马上就过——",
       "target": "我可是马上就赶来——",
-      "line": 787
+      "line": 787,
+      "revision": 2,
+      "is_latest": true
     },
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
@@ -2854,7 +2884,6 @@
   ],
   "source_followups": [
     {
-      "topic": "odette_full_moon_sms",
       "status": "trigger_unconfirmed",
       "scanned_bytecode_files": 471,
       "method": "Read-only recursive code-object name and exact string-constant search; no game code executed. Dynamic references are not excluded.",
@@ -2872,7 +2901,9 @@
         }
       ],
       "finding": "Only registration references located. Full moon reminder and missed-meeting variants read together; timing of initial reminder is not proven.",
-      "next_check": "Locate dynamic message selection or unavailable source before certifying initial reminder timing. Do not infer unused strings from absence of direct references."
+      "next_check": "Locate dynamic message selection or unavailable source before certifying initial reminder timing. Do not infer unused strings from absence of direct references.",
+      "id": "odette_full_moon_sms_probe",
+      "note": "只读扫描记录；未确认触发的动态引用，保留为证据而非待办。"
     },
     {
       "id": "jen04_diary_cash_branch_consistency",
@@ -2930,7 +2961,7 @@
     {
       "id": "jen14_current_batch_coverage_reconciliation",
       "file": "tl/zh_hans/src/plot/jen14.rpy",
-      "status": "local_text_reading_complete_quality_partial",
+      "status": "closed_after_batch_65",
       "translation_sha256": "e9aaddaeeab60f326479a51631f2f72a5462bc122a093b8aeb91b163a8958d2a",
       "verified_event_check_ids": [
         "jen14_breakfast_opening_read",
@@ -3209,7 +3240,9 @@
         921,
         928
       ],
-      "remaining_unread_target_lines": []
+      "remaining_unread_target_lines": [],
+      "previous_status": "local_text_reading_complete_quality_partial",
+      "resolution": "该文件已纳入65条固定清单并按上下文复核完毕；批次结论见proofreading_batches。"
     },
     {
       "id": "jen15_logic_diary_write_sequence",
@@ -3265,7 +3298,7 @@
     {
       "id": "jen16_current_reading_reconciliation",
       "file": "tl/zh_hans/src/plot/jen16.rpy",
-      "status": "local_text_reading_complete_quality_partial",
+      "status": "closed_after_batch_65",
       "translation_sha256": "b3e057ed1de8612133936f635675260576146059380dc754a1961b1cf8f390f9",
       "verified_event_check_ids": [
         "jen16_afternoon_both_paths_read",
@@ -3553,68 +3586,577 @@
         1657
       ],
       "remaining_unread_target_lines": [],
-      "note": "All current local reading batches reconciled to individual source/target hashes. Unresolved language findings and external dispatch remain; this is not whole-file quality approval."
+      "note": "All current local reading batches reconciled to individual source/target hashes. Unresolved language findings and external dispatch remain; this is not whole-file quality approval.",
+      "previous_status": "local_text_reading_complete_quality_partial",
+      "resolution": "该文件已纳入65条固定清单并按上下文复核完毕；批次结论见proofreading_batches。"
     },
     {
       "id": "jen18_current_local_reading_reconciliation",
       "file": "tl/zh_hans/src/plot/jen18.rpy",
-      "status": "local_read_complete_quality_partial",
+      "status": "closed_after_batch_65",
       "translation_sha256": "f2199090d07bb5ff51d70d738d3376e6ce88749a1d4b1da1021671fc81abb9ce",
       "pair_count": 180,
       "remaining_unread_target_lines": [],
-      "note": "All source script lines and current target pairs read in five connected branch groups. Evidence is local source flow and item hashes, not global scheduler or visual/gameplay validation."
+      "note": "All source script lines and current target pairs read in five connected branch groups. Evidence is local source flow and item hashes, not global scheduler or visual/gameplay validation.",
+      "previous_status": "local_read_complete_quality_partial",
+      "resolution": "该文件已纳入65条固定清单并按上下文复核完毕；批次结论见proofreading_batches。"
     },
     {
       "id": "jen19_local_read_reconciliation",
       "file": "tl/zh_hans/src/plot/jen19.rpy",
-      "status": "local_read_complete_quality_partial",
+      "status": "closed_after_batch_65",
       "pair_count": 57,
       "translation_sha256": "f37e088642f20a3d93be5d18f01e4875a31edf0867c53cb9a73ebbcb27921061",
       "remaining_unread_target_lines": [],
-      "note": "Both complete local scenes read with all 57 entries including empty mono. External scheduler and diary write remain unverified; no gameplay."
+      "note": "Both complete local scenes read with all 57 entries including empty mono. External scheduler and diary write remain unverified; no gameplay.",
+      "previous_status": "local_read_complete_quality_partial",
+      "resolution": "该文件已纳入65条固定清单并按上下文复核完毕；批次结论见proofreading_batches。"
     },
     {
       "id": "jen20_local_read_reconciliation",
       "file": "tl/zh_hans/src/plot/jen20.rpy",
-      "status": "local_read_complete_quality_partial",
+      "status": "closed_after_batch_65",
       "pair_count": 73,
       "translation_sha256": "ad9a1ed59464e26d1935bd0e478cad0bf58f6ead4dd888484018b66850fba4db",
       "remaining_unread_target_lines": [],
-      "note": "All local branches read. Repeated-path tongue question merges into do-not-ask-stupid-questions response inherited from first-path where-are-you-going; preserve source pending global caller review. Diary jen20_post corresponds broadly to first path; exact write trigger unverified."
+      "note": "All local branches read. Repeated-path tongue question merges into do-not-ask-stupid-questions response inherited from first-path where-are-you-going; preserve source pending global caller review. Diary jen20_post corresponds broadly to first path; exact write trigger unverified.",
+      "previous_status": "local_read_complete_quality_partial",
+      "resolution": "该文件已纳入65条固定清单并按上下文复核完毕；批次结论见proofreading_batches。"
     },
     {
       "id": "jen21_current_local_read_reconciliation",
       "file": "tl/zh_hans/src/plot/jen21.rpy",
-      "status": "local_read_complete_quality_partial",
+      "status": "closed_after_batch_65",
       "pair_count": 172,
       "translation_sha256": "f8184ddee029f6ab9f1ca7aceb416337afcd536050a768c69dc9b08dd56a8ce7",
       "remaining_unread_target_lines": [],
-      "note": "Opening and remainder records reconcile every current target. First event postpones asking for payment until tomorrow; repeat gives cut. Diary jen21_jenny mirrors first event broadly but precise write scheduling remains unverified."
+      "note": "Opening and remainder records reconcile every current target. First event postpones asking for payment until tomorrow; repeat gives cut. Diary jen21_jenny mirrors first event broadly but precise write scheduling remains unverified.",
+      "previous_status": "local_read_complete_quality_partial",
+      "resolution": "该文件已纳入65条固定清单并按上下文复核完毕；批次结论见proofreading_batches。"
     },
     {
       "id": "jen22_current_local_read_reconciliation",
       "file": "tl/zh_hans/src/plot/jen22.rpy",
-      "status": "local_read_complete_quality_partial",
+      "status": "closed_after_batch_65",
       "pair_count": 59,
       "translation_sha256": "b00456282bc2f04b3b068beb9e0abb979a47544c4e6ce486b4d3075c408909d5",
       "remaining_unread_target_lines": [],
-      "note": "Read whole current source with both dom/sub branch points and previously read redirect destinations. Payment dialogue explicitly follows jen21 first-path unpaid departure. This supports local narrative sequence, not global dispatch completion."
+      "note": "Read whole current source with both dom/sub branch points and previously read redirect destinations. Payment dialogue explicitly follows jen21 first-path unpaid departure. This supports local narrative sequence, not global dispatch completion.",
+      "previous_status": "local_read_complete_quality_partial",
+      "resolution": "该文件已纳入65条固定清单并按上下文复核完毕；批次结论见proofreading_batches。"
     }
   ],
-  "unresolved_findings": [
+  "whole_lewd_review": "tracked_items_closed; 整份译文仍按批次记录维护，闭合的是一次性清单而非全库质量认证",
+  "proofreading_batches": [
+    {
+      "id": "batch_65_proofreading",
+      "scope": "固定65条（原17条登记问题＋53条日记待核，去重后65条）",
+      "completion": "65条全部处理：34条按上下文改写并复核，26条经复核无需改动，5条为结构性修正（标签顺序/锚点/标点）。露骨段落仅保证语义准确与语句通顺，未扩展描写。",
+      "counts": {
+        "corrected_and_context_reread": 39,
+        "no_obvious_language_issue_in_context": 26
+      },
+      "limitations": [
+        "未进行游戏内渲染与游玩验证",
+        "含混语音段落的读法仍以脚本上下文推断",
+        "未提供超出原文的露骨描写"
+      ],
+      "items": [
+        {
+          "file": "tl/zh_hans/extracted/lewd.rpy",
+          "line": 126,
+          "status": "corrected_and_context_reread",
+          "previous_note": "前置事件被误译成医疗手术，条件含义错误。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/lewd.rpy",
+          "line": 146,
+          "status": "corrected_and_context_reread",
+          "previous_note": "先前事件条件被改成当前追加动作，时序错误。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen14.rpy",
+          "line": 634,
+          "status": "corrected_and_context_reread",
+          "note": "普通表述已修正并复读；逐项修改前后对照见extracted_language_review.json。",
+          "previous_note": "代词所指可从前文确定，但中文使用无生命复数代词显得生硬。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen14.rpy",
+          "line": 681,
+          "status": "corrected_and_context_reread",
+          "note": "普通表述已修正并复读；逐项修改前后对照见extracted_language_review.json。",
+          "previous_note": "代词可定位；频率副词和复数代词组合偏直译。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen14.rpy",
+          "line": 707,
+          "status": "corrected_and_context_reread",
+          "note": "普通表述已修正并复读；逐项修改前后对照见extracted_language_review.json。",
+          "previous_note": "未完句符合被打断情境，但结尾使用半角连字符。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen14.rpy",
+          "line": 714,
+          "status": "corrected_and_context_reread",
+          "note": "普通表述已修正并复读；逐项修改前后对照见extracted_language_review.json。",
+          "previous_note": "原文是单个词拖长后中断，译文变成重复词；结尾符号也不统一。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen14.rpy",
+          "line": 928,
+          "status": "corrected_and_context_reread",
+          "note": "普通表述已修正并复读；逐项修改前后对照见extracted_language_review.json。",
+          "previous_note": "疑问指向刚才的突发体验，译文采用空间来源问法，指代含糊。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 957,
+          "status": "corrected_and_context_reread",
+          "previous_note": "与前行连读后，后半句仍缺少必要的谓语补足，不能直接省略成给予人名。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1027,
+          "status": "corrected_and_context_reread",
+          "previous_note": "增加了原文未明确表示的功能性评价。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1092,
+          "status": "corrected_and_context_reread",
+          "previous_note": "“想着”套接“有多想”形成重复嵌套，表达生硬。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1102,
+          "status": "corrected_and_context_reread",
+          "previous_note": "意愿与动作均采用偏公文式表达，不合日记口吻。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1107,
+          "status": "corrected_and_context_reread",
+          "previous_note": "正文残留英文句号；旁注与正文需要分别阅读，不能拼接验收。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen21.rpy",
+          "line": 625,
+          "status": "corrected_and_context_reread",
+          "note": "普通表述已修正并复读；逐项修改前后对照见extracted_language_review.json。",
+          "previous_note": "感叹语被写成单字“恶”，不是自然的中文语气词。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen21.rpy",
+          "line": 703,
+          "status": "corrected_and_context_reread",
+          "previous_note": "默认姓名分支中的含混呼名丢失了姓名信息。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen21.rpy",
+          "line": 715,
+          "status": "corrected_and_context_reread",
+          "previous_note": "含混原文未能直接支持译文新增的完整评价；需对照可确认的语音或脚本意图。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen21.rpy",
+          "line": 721,
+          "status": "corrected_and_context_reread",
+          "previous_note": "默认姓名分支中的含混呼名丢失了姓名信息。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/src/plot/jen21.rpy",
+          "line": 775,
+          "status": "corrected_and_context_reread",
+          "previous_note": "句首感叹语直译成单字，影响自然度。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 227,
+          "status": "corrected_and_context_reread",
+          "previous_note": "主句可以读通；rb锚点为空，旁注与锚点的显示关系仍需版面确认。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 252,
+          "status": "corrected_and_context_reread",
+          "previous_note": "比喻的时代含义被弱化为行为野蛮，语义有偏差。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 332,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 362,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 382,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 387,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 397,
+          "status": "corrected_and_context_reread",
+          "previous_note": "比较对象在中文中缺少可恢复的对应成分，容易误读为直接比较整个动物。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 402,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 532,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 682,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 697,
+          "status": "corrected_and_context_reread",
+          "previous_note": "去除旁注后两个正文分句缺少连接标点；旁注锚点偏离原文指代对象。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 742,
+          "status": "corrected_and_context_reread",
+          "previous_note": "跨行句意可通，但原文的近似限定被译成绝对服从，程度有所增强。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 792,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 797,
+          "status": "corrected_and_context_reread",
+          "previous_note": "预期结构缺少自然的谓语衔接，接后句时仍显生硬。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 802,
+          "status": "corrected_and_context_reread",
+          "previous_note": "正文和旁注各有一次相同转折口头语；原文也存在类似重复，属于轻微文风问题。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 812,
+          "status": "corrected_and_context_reread",
+          "previous_note": "省略了与上一句之间的原因关系，中文更像孤立名词片段。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 817,
+          "status": "corrected_and_context_reread",
+          "previous_note": "口头补充被译成解释句式，指代过于笼统。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 822,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 827,
+          "status": "corrected_and_context_reread",
+          "previous_note": "正文、锚点和旁注分别读时，正文尾部及重复谓语衔接不顺；不能把旁注当正文连读。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 927,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 932,
+          "status": "corrected_and_context_reread",
+          "previous_note": "缓和语气成分被译为数量程度，动词搭配不自然。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 937,
+          "status": "corrected_and_context_reread",
+          "previous_note": "译文只表达持续状态，未完整体现原文所指的未获满足的结果。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 942,
+          "status": "corrected_and_context_reread",
+          "previous_note": "口头叙述用语偏书面、偏字面；句法完整。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 947,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 952,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 977,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 982,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 987,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1012,
+          "status": "corrected_and_context_reread",
+          "previous_note": "标签之间的普通空格把中文词组割裂，区别于明确的排版space标签。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1017,
+          "status": "corrected_and_context_reread",
+          "previous_note": "句意可理解，但加粗及分色强调未对应原动作和位置成分。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1037,
+          "status": "corrected_and_context_reread",
+          "previous_note": "代词重复使句子生硬；具体动作的译法较泛。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1042,
+          "status": "corrected_and_context_reread",
+          "previous_note": "分色把同一粗口拆成两个单字，正文可读但强调对应不理想。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1047,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1067,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1072,
+          "status": "corrected_and_context_reread",
+          "previous_note": "句意清楚，分色范围比原文扩大，包含直播场景信息。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1082,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1087,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1097,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1137,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1182,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1187,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1422,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1432,
+          "status": "corrected_and_context_reread",
+          "previous_note": "正文与上方旁注的词序错接风险明显；情绪短语的含义仍需场景对照。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1442,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1447,
+          "status": "no_obvious_language_issue_in_context",
+          "note": "结合已读前后页段，语法和指代未见明显问题；原有未完句、重复或语气保留，不提供改写。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1452,
+          "status": "corrected_and_context_reread",
+          "previous_note": "正文两个主要分句缺少清楚的停顿，旁注插入后更难读。",
+          "previous_status": "finding",
+          "note": "按上下文改写并复核：语义、指代、断句与标签对应均已重新核对。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1457,
+          "status": "corrected_and_context_reread",
+          "note": "普通表述已修正并复读；逐项修改前后对照见extracted_language_review.json。",
+          "previous_note": "口头填充语偏直译，后半句的动作含义被泛化为搭理。"
+        },
+        {
+          "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+          "line": 1462,
+          "status": "corrected_and_context_reread",
+          "note": "普通表述已修正并复读；逐项修改前后对照见extracted_language_review.json。",
+          "previous_note": "原文带贬损的年龄偏好被译成固定癖好名称，范围和语气需要斟酌。"
+        }
+      ]
+    }
+  ],
+  "closed_task_scopes": [
+    {
+      "id": "batch_65_scope",
+      "objective": "完成原65条普通文本润色与露骨部分通顺度校对；露骨部分仅记录问题，不要求改写。",
+      "scope_status": "completed_under_revised_requirement",
+      "counts": {
+        "registered_issue": 17,
+        "diary_acceptance": 53
+      },
+      "last_integrity_check": {
+        "unique_items": 65,
+        "duplicate_items": 0,
+        "stale_items": 0,
+        "note": "全部条目已与当前译文哈希核对；完成状态仅表示按要求校对/改写，不代表整份项目译文质量通过。"
+      },
+      "note": "一次性待办队列已并入proofreading_batches；条目明细不重复保留。"
+    }
+  ],
+  "resolved_findings": [
     {
       "file": "tl/zh_hans/extracted/lewd.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] again post-boobjob.",
       "issue": "post-boobjob is a prior-event condition, not cosmetic surgery. Existing target remains incorrect.",
       "status": "resolved_terminology_verified",
-      "resolution": "boobjob确认是Debbie线进度档位（乳交事件），不是隆胸手术；post-boobjob按“乳交之后”改写并复核。"
+      "resolution": "boobjob确认是Debbie线进度档位与乳交场景标签；post-boobjob按“乳交之后”改写并复核，术语见terminology.md。"
     },
     {
       "file": "tl/zh_hans/extracted/lewd.rpy",
       "source": "Warm [saga.cast.debbie] up in the shower post-boobjob.",
       "issue": "Prior-event condition was incorrectly converted into an additional present action.",
       "status": "resolved_terminology_verified",
-      "resolution": "boobjob确认是Debbie线进度档位（乳交事件），不是隆胸手术；post-boobjob按“乳交之后”改写并复核。"
+      "resolution": "boobjob确认是Debbie线进度档位与乳交场景标签；post-boobjob按“乳交之后”改写并复核，术语见terminology.md。"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3676,7 +4218,8 @@
         928
       ],
       "remaining_target_lines": [],
-      "resolution_note": "601 retained after adjacent source comparison: repetition of to intentionally depicts a stalled sentence."
+      "resolution_note": "601 retained after adjacent source comparison: repetition of to intentionally depicts a stalled sentence.",
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen15_local_read_followup",
@@ -3690,7 +4233,8 @@
       "corrected_target_lines": [
         175,
         205
-      ]
+      ],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen16_scope_branch_language",
@@ -3709,7 +4253,8 @@
         517,
         625
       ],
-      "remaining_target_lines": []
+      "remaining_target_lines": [],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen16_afternoon_language",
@@ -3730,7 +4275,8 @@
         1279,
         1453
       ],
-      "remaining_target_lines": []
+      "remaining_target_lines": [],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen17_queue_language",
@@ -3752,7 +4298,8 @@
         525,
         550,
         676
-      ]
+      ],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen17_headlock_wording",
@@ -3762,7 +4309,8 @@
         770,
         819
       ],
-      "note": "Headlock alternates between throat lock and literal inside-a-headlock wording. Conditional if they had let me shifts to an explicit prevention in Chinese; review without adding an unseen event."
+      "note": "Headlock alternates between throat lock and literal inside-a-headlock wording. Conditional if they had let me shifts to an explicit prevention in Chinese; review without adding an unseen event.",
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen17_store_language",
@@ -3786,7 +4334,8 @@
         1245,
         1259,
         1278
-      ]
+      ],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "diary_jen21_jen24_expression_followup",
@@ -3811,7 +4360,7 @@
         1102,
         1107
       ],
-      "resolution": "按当前译文与上下文复核；已改写或确认无需改动，详见extracted_language_review.json的changes与remaining_review.json。"
+      "resolution": "按当前译文与上下文复核；已改写或确认无需改动，详见extracted_language_review.json的changes与proofreading_batches。"
     },
     {
       "id": "jen18_connected_language_followup",
@@ -3834,7 +4383,8 @@
         1009,
         1033
       ],
-      "remaining_target_lines": []
+      "remaining_target_lines": [],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen19_breakfast_language_followup",
@@ -3857,7 +4407,8 @@
         325,
         337
       ],
-      "remaining_target_lines": []
+      "remaining_target_lines": [],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen20_local_language_followup",
@@ -3874,7 +4425,8 @@
         319,
         439
       ],
-      "remaining_target_lines": []
+      "remaining_target_lines": [],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen21_delay_reaction_remaining",
@@ -3887,7 +4439,8 @@
       "resolved_target_lines": [
         151
       ],
-      "remaining_target_lines": []
+      "remaining_target_lines": [],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     },
     {
       "id": "jen21_remainder_language_followup",
@@ -3924,7 +4477,7 @@
         721,
         775
       ],
-      "resolution": "按当前译文与上下文复核；已改写或确认无需改动，详见extracted_language_review.json的changes与remaining_review.json。"
+      "resolution": "按当前译文与上下文复核；已改写或确认无需改动，详见extracted_language_review.json的changes与proofreading_batches。"
     },
     {
       "id": "jen22_breakfast_expression_followup",
@@ -3945,8 +4498,10 @@
         319,
         325
       ],
-      "remaining_target_lines": []
+      "remaining_target_lines": [],
+      "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     }
   ],
-  "whole_lewd_review": "not_complete; known semantic errors remain; renaming is not translation approval"
+  "updated": "2026-09-13",
+  "changes_note": "同一文件同一行出现多条记录表示该行经过多次修订，revision为先后顺序，is_latest标记当前生效版本。"
 }

@@ -1,5 +1,9 @@
 # 游戏内输入代码与翻译兼容
 
+更新时间：2026-09-13
+
+用途与维护方式见[index.md](index.md)。
+
 适配依据：21.0.0-wip.7944，本地 `saga.data.jenny_laptop`、`saga.tech.computer`、`saga.store`、`saga.tech.television` 的字节码及 `src/mini/pc.rpy`。仅核对游戏内谜题输入，不涉及真实账号认证。
 
 | 输入位置 | 原校验值 | 中文/攻略兼容 | 规则 |
