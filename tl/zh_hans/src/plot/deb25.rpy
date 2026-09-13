@@ -1942,7 +1942,7 @@ translate zh_hans deb25_bed3_lounge_5378f5c1:
 translate zh_hans deb25_bed3_lounge_144745e0:
 
     # debbie @ -m_talk "{i}*Gulp*{/i}"
-    debbie @ -m_talk "{i}*咕噜*{/i}"
+    debbie @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/deb25.rpy:778
 translate zh_hans deb25_bed3_lounge_2034e970:

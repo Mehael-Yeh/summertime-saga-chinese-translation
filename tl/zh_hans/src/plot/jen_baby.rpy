@@ -6172,7 +6172,7 @@ translate zh_hans jen_baby_post_intro_66c5a6e0:
 translate zh_hans jen_baby_post_intro_725d0c63:
 
     # jenny @ e_b f_calm m_laugh "Hahahaah!"
-    jenny @ e_b f_calm m_laugh "哈哈哈啊哈！"
+    jenny @ e_b f_calm m_laugh "哈哈哈！"
 
 # game/src/plot/jen_baby.rpy:2291
 translate zh_hans jen_baby_post_outro_d844a61f:

@@ -1378,13 +1378,13 @@ translate zh_hans jen24_jenny_alt_df639532:
 translate zh_hans jen24_jenny_alt_c0afa0e3:
 
     # jenny "FUUUUCK..."
-    jenny "操——……"
+    jenny "操你——……"
 
 # game/src/plot/jen24.rpy:575
 translate zh_hans jen24_jenny_alt_7d700a05:
 
     # jenny "... YYOOOUUUU!!"
-    jenny "……你！！"
+    jenny "……妈的！！"
 
 # game/src/plot/jen24.rpy:576
 translate zh_hans jen24_jenny_alt_dad62e05:

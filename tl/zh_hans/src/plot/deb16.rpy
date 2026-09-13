@@ -634,7 +634,7 @@ translate zh_hans deb16_tv_169d9523:
 translate zh_hans deb16_tv_1cf033e5:
 
     # hym "Ahh, {i}landlady{/i}!"
-    hym "啊哈，{i}房东太太{/i}！"
+    hym "啊，{i}房东太太{/i}！"
 
 # game/src/plot/deb16.rpy:209
 translate zh_hans deb16_tv_5431e55a:

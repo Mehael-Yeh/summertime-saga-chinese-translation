@@ -1714,7 +1714,7 @@ translate zh_hans jen26_cinema_039be16f:
 translate zh_hans jen26_cinema_3514873a_1:
 
     # jenny e_b f_calm m_laugh @ -m_talk "Hahahaah!"
-    jenny e_b f_calm m_laugh @ -m_talk "哈哈哈啊！"
+    jenny e_b f_calm m_laugh @ -m_talk "哈哈哈！"
 
 # game/src/plot/jen26.rpy:621
 translate zh_hans jen26_cinema_19cf88f2:

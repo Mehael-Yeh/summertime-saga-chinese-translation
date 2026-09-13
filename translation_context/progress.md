@@ -438,6 +438,11 @@
 ## 批次记录（按日期）
 
 ### 2026-09-13
+- **366 对档双语复审与感叹词／拟声统一（第六十九批）**：完成 jen_gfe（366 对逐条英中对照）复审，8 处修正：`Ahh` 误作“啊哈”（`Ahh, fuck!`／`Ahh, that's it!`）改“啊，操！”“啊，就是这样！”；`{i}*Gulp*{/i}` 由“*咕噜*”改“*咽口水*”；`{i}*Snort*{/i} Zzz.`（熟睡）由“*哼鼻*”改“*鼾声*”；同源句漂移收敛——`Hehehe!` 嘻嘻嘻→嘿嘿嘿、`Okay, okay...` 好吧，好吧→好好好、`Yeah, me too.` 是啊，我也是→嗯，我也是（与该文件 merge2 同形）、`Heh, whatever.` 哼，随便吧→嘿，随你怎么说（与该文件 dawn_once 同形）。Cedric 相关 `lovey-dovey bullshit` 按用户指示保留原判。
+- **感叹词词形分流（全库 15 处）**：`Aha!` 才是发现义的“啊哈！”（全库 5 处，保留）；`Ah／Ahh／Aah` 是呻吟、呼唤或感叹，此前 14 处被并入“啊哈”（ano15 三处、deb08、deb16、deb_tv、jos01 两处、jen_gfe 两处），统一改“啊”；deb_shower 被喘断的 `aahh` 作“啊啊”。规则同时写入 style_guide.md 与 terminology.md。
+- **笑声写法收敛（全库 5 处）**：`Hahahaah!` 系列此前 4 处夹入“啊／啊哈”（jen_baby、jen_pool、jen10、jen26），统一为纯“哈”重复（与全库 140 余处同源写法一致）；ton_baby 的 `Aaahhh!`（`m_laugh` 大笑）由“啊哈！”改“哈哈哈哈！”；tor05 的“啊哈哈哈哈！”同步去掉“啊”。
+- **`*Gulp*` 两分法（全库 30 处）**：按语境区分——紧张、迟疑的吞咽一律“*咽口水*”（把“*咕噜*”9 处、“*吞咽*”8 处、“*咕嘟*”5 处、“*咽了口唾沫*”2 处、语境误用的“*咕咚*”3 处收敛，含 jen_gfe）；真实吞咽声（口交吞精、带 `-m_drink` 的饮水）统一“*咕咚*”（deb_mall 三处、deb_shower 五处）；bar03 整口吞下的“*一口吞下*”与 deb23／mar_cook 既有的“*咕咚*”保留。全库不再出现“*咕噜*／*吞咽*／*咕嘟*／*咽了口唾沫*”四种写法。
+- **遗留补记与台账修复**：jen24 上一批的跨行拆字玩笑未入账（`FUUUUCK...`／`... YYOOOUUUU!!`：“操——……”→“操你——……”、“……你！！”→“……妈的！！”），本批补记台账、`extracted_language_review.json`，并在 `sentence_patterns.json` 同步 2 条已登记写法；另修复 `sms_fix.rpy` 指向 `jenny_diary.rpy` 的过期依赖指纹。全套校验通过：台账 37954 条 0 过期／0 失效，间距 0，句式 1842 条 0 偏差，术语 0 mismatch，SMS 与输入代码校验通过，6 项测试通过。
 - **360 对档双语复审与法语补漏（第六十八批）**：完成 viv03（358）逐条英中对照复审，13 处修正：Comment allez-vous／beaucoup／On apprend alors／Ridicule／Fille paresseuse／Comprenez vous／Que se passe t-il／Shush toi／je dois t'apprendre／Oh vraiment／Très bien（1585 行）／Sacrebleu 共 12 处原被整句汉化，按“保留原文＋全角括号释义”还原；另修正一行标签错误：`{i}*Sigh*{/i} C'est ridicule.` 原把 *Sigh* 留在英文并塞进括注，改为“{i}*叹气*{/i} C'est ridicule.（真是荒谬。）”。其余核对无误：`en Français` 按既定规则译“用法语”、Madame→“夫人”、`mon bel homme`／`bouche`／`Oui`／`Quoi`／`Au revoir`／`Connasse` 等括注、`*Bzzt*`／`*Riiiiiip*`／`*Whap*` 拟声、Roxxy 被逼朗诵与 Ursula 打屁股整段都保留原味。台账 viv03 升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 13 条记录。
 - **360 对档双语复审（第六十七批）**：完成 tor01（358）逐条英中对照复审，5 处修正：`extra credit` 一处由“额外学分”改回“额外加分”（与同文件另 3 处一致）；Konty 的西班牙语 `Muy agradable` 由纯中文改回“原文＋括注”；`[saga.cast.tori.clan]-san` 按 terminology 恢复原文后缀（不写“桑”）；两处 `blueprints` 的“设计图”改“蓝图”，与同文件其余 6 处统一。其余核对无误：K-bot／Friend-Uhh／`BEEP BOOP!`／`Ack ack ack!`／`Processing laughter...` 等 Konty 专名与拟声全部符合 recurring_terms，Tori 的“低能之地／被列入黑名单／3720 比 1”长台词、门禁密码与 6219、酵母炸锅与 Mia 被扣分、护目镜与实验服等道具名都保留原味。台账 tor01 升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 5 条记录。
 - **330 对档双语复审（第六十六批）**：完成 mel06（336）逐条英中对照复审，10 处修正：指代 Ursula 与 Annie 的“他们”统一为“她们”（9 行、其中一行两处，覆盖“被困在办公室”“没法干扰演出”“自己挣脱”等前后呼应）；`*Slurp*` 的“*咕嘟*”按新规则改用统一起头“*吸溜*”。其余核对无误：highfalutin／high flutin' 的双关（“唱高调”／“上台吹长笛”）、Cookie Monsters 的乐队名、MC Tyrone 的主持词、胶水计划与事后“看她们的样子”的收尾、在台上被口交时的断续致辞（“她总能……从学生身上榨出……每一滴……才华”）、`Language!`→“注意言辞！”以及菜单字符串都保留原味。台账 mel06 升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 10 条记录。
@@ -517,7 +522,7 @@
 - **复审判定说明**：对久未改动文件仍坚持按场景与分支理解，不做字面统一替换；用户确认过的译法（如 Yumi 的“等、等一下！”）保留原译。
 
 - **双语复审第三批**：`tor05.rpy`（456对，修正19处：把“那东西曾经是我的”改为“那里面有我的”、you think 反问、括号与省略号格式、口吃符号、鸡叫拟声、基础液体术语统一）与 `ano03.rpy`（253对，修正4处：Dimitri 谚语断句、Yumi 打断句、漏译 my partner、Jenny 反讽）完成全文双语复审。
-- **露骨度校准**：按用户反馈，`feeling naughty` 不再译作“使坏”，改为性意味明确的“想浪一浪”；同批复核 `naughty` 在项目内的既有层级（艳照／刺激的／色情杂志／不安分的），确认按语境取词。
+- **露骨度校准**：按用户反馈，`feeling naughty` 不再译作“使坏”，改为性意味明确的“想浪一浪”；同批复核 `naughty` 在项目内的既有层级（艳照／刺激的／色情杂志／不安分的），确认按语境取词。（注：“想浪一浪”当轮即被用户否决，终稿见下一条“露骨度校准（终稿）”，现行为“想要”，全库已无“想浪一浪”写法。）
 - **露骨度校准（终稿）**：用户再次指出“想浪一浪”偏网络口语，`feeling naughty` 最终定为“想要”，并按中文连读把两处心里话补顺：deb_shower_6c6e3467 改为“希望她今天也想要”，deb_shower_peek4_dbdd5dfd 改为“看来某人已经想要了”，deb_island 的 `Feeling a little naughty?` 保留“是不是有点想要了？”。`naughty` 的语境取词（含 `naughty boy` 分调情用“小坏蛋”、训斥用“坏小子”）统一写进 `style_guide.md`，避免同一词反复摇摆；本轮只改译文载荷，`manual_review.json` 与 `extracted_language_review.json` 指纹同步刷新。
 - **用户确认保留**：`ano03.rpy` 中 Yumi 的 `E-excuse me?` 译“等、等一下！”符合她打断对方、要求对方停下的场景，已恢复原译，不再按“打扰一下”处理。
 

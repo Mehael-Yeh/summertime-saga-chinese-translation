@@ -1522,7 +1522,7 @@ translate zh_hans bar05_barb3_1203a635:
 translate zh_hans bar05_barb3_ec815df9:
 
     # anon f_worried_surprised "{i}*Gulp*{/i} Uh huh."
-    anon f_worried_surprised "{i}*吞咽*{/i}嗯哼。"
+    anon f_worried_surprised "{i}*咽口水*{/i}嗯哼。"
 
 # game/src/plot/bar05.rpy:618
 translate zh_hans bar05_barb3_5e6925ba:

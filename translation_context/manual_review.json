@@ -9602,7 +9602,7 @@
           },
           {
             "path": "tl/zh_hans/extracted/jenny_diary.rpy",
-            "sha256": "744087cc83421051937e2d587464c92d1fb9c80031b97e9979509152eead15ac"
+            "sha256": "39d49a0adfa36033b8e4bbea9ebecf39e4fda68ff5639357cc64c05a5e99df87"
           },
           {
             "path": "tl/zh_hans/extracted/lewd.rpy",
@@ -30417,12 +30417,12 @@
       }
     },
     "tl/zh_hans/src/plot/ano15.rpy": {
-      "sha256": "cb0a7c780142cf4b286f77fd1b5c2cf30a8bc69be6f3a17f8ba5bd1716920ded",
+      "sha256": "7f286fbf257be6d57797f270defe788af844d6ff985640a6c4f27e00295dcad5",
       "pairs": 756,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "cb0a7c780142cf4b286f77fd1b5c2cf30a8bc69be6f3a17f8ba5bd1716920ded",
+        "translation_sha256": "7f286fbf257be6d57797f270defe788af844d6ff985640a6c4f27e00295dcad5",
         "source_sha256": "37a9ab6ba4e799afd4599ca7bbd2d21b077bb325ff9db0dab9001a4acef41122",
         "source": "game/src/plot/ano15.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/ano15.rpy",
@@ -31340,7 +31340,7 @@
           {
             "id": "ano15_shop1_lounge1_bc54bd98",
             "line": 1261,
-            "pair_sha256": "7b4d6ea9e10ec97e29e464845def0a789b6b52f8e7cee99173ae6ec50364ee04"
+            "pair_sha256": "f3b9e691d3bc779c8ce8503bdc1d9f4cc6328bb4a22fd5ae28713c01dc1cac3d"
           },
           {
             "id": "ano15_shop1_lounge1_dff29544",
@@ -31450,7 +31450,7 @@
           {
             "id": "ano15_pause_maria_64da70c1",
             "line": 1415,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "ano15_pause_maria_8ea0b1c2",
@@ -32445,7 +32445,7 @@
           {
             "id": "ano15_kitchen_bca9bb63",
             "line": 2808,
-            "pair_sha256": "9133b86bbbe76fb6ebecae189aa141c4adb3284fc947d690a62f350c33cf9ea8"
+            "pair_sha256": "2eab406a7d6581747438c5a8864b00e932a8a7d16ce2f1351ee5e87c814e9efe"
           },
           {
             "id": "ano15_kitchen_c1236585",
@@ -33635,7 +33635,7 @@
           {
             "id": "ano15_pantry_merge3_81402a65",
             "line": 4468,
-            "pair_sha256": "969cb0e46a62d93537e5c62dc15569d25192ae8c0eba7b1c477ddaddb220adb9"
+            "pair_sha256": "c377a6219f8a877208b6b0efd107837c23124c6fa59f2be0721ac9a4ab3fbb6a"
           },
           {
             "id": "ano15_pantry_merge3_30d681ce",
@@ -42051,12 +42051,12 @@
       }
     },
     "tl/zh_hans/src/plot/bar05.rpy": {
-      "sha256": "117b47b15f0a87dbfc26fd07678ce4539b98be772eb3bcd819a07e52eb9e3eb3",
+      "sha256": "e40a1089774b27e222f38772eda6cac20e89f4e78f21d659c9b512794c60ca50",
       "pairs": 469,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "117b47b15f0a87dbfc26fd07678ce4539b98be772eb3bcd819a07e52eb9e3eb3",
+        "translation_sha256": "e40a1089774b27e222f38772eda6cac20e89f4e78f21d659c9b512794c60ca50",
         "source_sha256": "0c925951b8a183359427684511130523d6c5bbaec8e30891a13de0223307ccc0",
         "source": "game/src/plot/bar05.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/bar05.rpy",
@@ -43347,7 +43347,7 @@
           {
             "id": "bar05_barb3_ec815df9",
             "line": 1525,
-            "pair_sha256": "eb0b7ac518afeaae0d973912eb099bfe0bff620bc7374854b32fc8fe7b16fd35"
+            "pair_sha256": "588d78c65692bbf5b7c9097caf105d53a7ffdcf52582db38bcf0c7d54cab93f8"
           },
           {
             "id": "bar05_barb3_5e6925ba",
@@ -51753,12 +51753,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb08.rpy": {
-      "sha256": "abcc48fe3c9950f2d37e286895086cd7253e189330713fa4162f02f23056575e",
+      "sha256": "4652dbc7cb8df8fc060e01688aa94d8e6475600c6d9b668c1293cd771614e779",
       "pairs": 381,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "abcc48fe3c9950f2d37e286895086cd7253e189330713fa4162f02f23056575e",
+        "translation_sha256": "4652dbc7cb8df8fc060e01688aa94d8e6475600c6d9b668c1293cd771614e779",
         "source_sha256": "ade5f56a84a159b93915847ad68451064683f1a460127b95d0ac3ebb286a2275",
         "source": "game/src/plot/deb08.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb08.rpy",
@@ -51839,7 +51839,7 @@
           {
             "id": "deb08_lobby_merge_3ec35101",
             "line": 79,
-            "pair_sha256": "6dffdd637afd5d46c518098a02bc7778b2cafd9739e634dbd80f4015f9c2ee43"
+            "pair_sha256": "dea3623be9814016c1de0a885a57dc66427893ba33bbba22f411d6a6c92f0d37"
           },
           {
             "id": "deb08_lobby_merge_0b3042d7",
@@ -59327,12 +59327,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb16.rpy": {
-      "sha256": "89a81d3601251af4bf1cb23bac4da8c3de2a90abcd40e5f7b0a4d85135897453",
+      "sha256": "243bfb8fbcd416f0e8c51b71c16576c11867ee2ad1fb5d1af2bfeeb618ce43c4",
       "pairs": 281,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "89a81d3601251af4bf1cb23bac4da8c3de2a90abcd40e5f7b0a4d85135897453",
+        "translation_sha256": "243bfb8fbcd416f0e8c51b71c16576c11867ee2ad1fb5d1af2bfeeb618ce43c4",
         "source_sha256": "d107e48464b33a2399fed8b64835de9c3432f77a601a89b6919be6c552f0f2bd",
         "source": "game/src/plot/deb16.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb16.rpy",
@@ -59877,7 +59877,7 @@
           {
             "id": "deb16_tv_1cf033e5",
             "line": 637,
-            "pair_sha256": "df0e2046595d33405341cc935941db4a6ea4d9adfc0fc525f61e8744e204b774"
+            "pair_sha256": "a83554377ca98167364f49759bdf049ec2ad6d8f3caf339c31819a035edc94ba"
           },
           {
             "id": "deb16_tv_5431e55a",
@@ -71795,12 +71795,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb25.rpy": {
-      "sha256": "a78684ea222224fa95bfd0a97117e1e297cf7955491357a25e4b86aa4da02084",
+      "sha256": "3c45345213f798de962e1c14222ccc51a3e0378635250fa08a6395bd4eda89b5",
       "pairs": 428,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "a78684ea222224fa95bfd0a97117e1e297cf7955491357a25e4b86aa4da02084",
+        "translation_sha256": "3c45345213f798de962e1c14222ccc51a3e0378635250fa08a6395bd4eda89b5",
         "source_sha256": "4b7f948d40c083640a73d8e78021bb4e1493510ca661e47840a0f9a702a0912e",
         "source": "game/src/plot/deb25.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb25.rpy",
@@ -73436,7 +73436,7 @@
           {
             "id": "deb25_bed3_lounge_144745e0",
             "line": 1945,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "deb25_bed3_lounge_2034e970",
@@ -73989,12 +73989,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb26.rpy": {
-      "sha256": "2d4dd6baf2adc9edc217ce8e2731bf4f0ccb983058e99a931e4398ac6777d632",
+      "sha256": "72e7143cb9c3e503d4104fc50787f6e9c50f897677b0e64f193ae02dccf83d9a",
       "pairs": 858,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "2d4dd6baf2adc9edc217ce8e2731bf4f0ccb983058e99a931e4398ac6777d632",
+        "translation_sha256": "72e7143cb9c3e503d4104fc50787f6e9c50f897677b0e64f193ae02dccf83d9a",
         "source_sha256": "ffe50daa9dcb3f50cb448250941ee98fb5ebce9fbef59745d61703126e7c55ed",
         "source": "game/src/plot/deb26.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb26.rpy",
@@ -77094,7 +77094,7 @@
           {
             "id": "deb26_shop_merge1_ec7aab19",
             "line": 4180,
-            "pair_sha256": "593034a51687a94d4e04e3799cd8c77d08a7cb173521e89c2eabc623527881d7"
+            "pair_sha256": "644c3b021fb972ccaaf4e7cb1de9a5e257d71d02571852042fa58f8efbfe82fe"
           },
           {
             "id": "deb26_shop_merge1_b27e67db",
@@ -83030,12 +83030,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb_island.rpy": {
-      "sha256": "c32825002eb65d91133f71e9d06bba843dba34fda1d51351fd9fd5d3541bdcec",
+      "sha256": "efd2e2e8d5c9a0c4d6b7918c38a58e18cb54187b68ad8ec920cdd56d16dac0c5",
       "pairs": 154,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "c32825002eb65d91133f71e9d06bba843dba34fda1d51351fd9fd5d3541bdcec",
+        "translation_sha256": "efd2e2e8d5c9a0c4d6b7918c38a58e18cb54187b68ad8ec920cdd56d16dac0c5",
         "source_sha256": "3f00a10671b887a8c18bdb5798998d774923ef281f6201fdf902aef79d1108a0",
         "source": "game/src/plot/deb_island.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb_island.rpy",
@@ -83084,7 +83084,7 @@
           {
             "id": "deb_island_a31b57bb",
             "line": 43,
-            "pair_sha256": "348a88a19d1e3f96bb8751a043af9dd6a9eaff59fdf5946e38f4b1def8beb26f"
+            "pair_sha256": "be03f627945db017b51c391d08c72db96d85a15ef7027504240299ad7bbb71b4"
           },
           {
             "id": "deb_island_c00b0a49",
@@ -83169,7 +83169,7 @@
           {
             "id": "deb_island_144745e0",
             "line": 145,
-            "pair_sha256": "a7f69fad5a728b0502cb78d464443bdb1a97c8c8effefd2faeb7700824d6ea64"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "deb_island_0da539d2",
@@ -83264,7 +83264,7 @@
           {
             "id": "deb_island_3817ca57",
             "line": 259,
-            "pair_sha256": "c49f9cb98a14932d1b2e3f121b8b11dadae51e642ce8d52aa7daa9fdb4c5365d"
+            "pair_sha256": "e4bb5d9ba2ac2472ac05cee3ed6f65a88eeb2e9e044a87563764544b598264aa"
           },
           {
             "id": "deb_island_caf97c59",
@@ -87141,12 +87141,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb_mall.rpy": {
-      "sha256": "e978d46a09132e7e070d13019358740895811475e2167c786d6ae40c3ec7ce82",
+      "sha256": "793e9696fe3eac8d1fd8c44c0604cc38c5dd0978c4f85b983221da2eec4d8bdc",
       "pairs": 559,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "e978d46a09132e7e070d13019358740895811475e2167c786d6ae40c3ec7ce82",
+        "translation_sha256": "793e9696fe3eac8d1fd8c44c0604cc38c5dd0978c4f85b983221da2eec4d8bdc",
         "source_sha256": "476bc54ddaea7630371b2864600e8433931395e63f857299f61b280b58571b60",
         "source": "game/src/plot/deb_mall.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb_mall.rpy",
@@ -88363,7 +88363,7 @@
           {
             "id": "deb_mall_debbie_blowjob_373feb61",
             "line": 1441,
-            "pair_sha256": "95beae02aaf38575fec9f0c1af1fe303625dc19ced414f24c446e750c7c5c1f1"
+            "pair_sha256": "d4c5f0b6340ce6c541dc209fef6dc8140b7682f2b4e9b7817a1b545440d242b8"
           },
           {
             "id": "deb_mall_debbie_blowjob_91207b03_1",
@@ -88373,7 +88373,7 @@
           {
             "id": "deb_mall_debbie_blowjob_c8fc2a17",
             "line": 1453,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "a46953e2871fe8a668741c493bc5276e15a0ad52d8476c0e54fb3fa17bff6262"
           },
           {
             "id": "deb_mall_debbie_blowjob_49f7297d",
@@ -88388,7 +88388,7 @@
           {
             "id": "deb_mall_debbie_blowjob_f1325d93",
             "line": 1471,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "a46953e2871fe8a668741c493bc5276e15a0ad52d8476c0e54fb3fa17bff6262"
           },
           {
             "id": "deb_mall_debbie_blowjob_67415dde",
@@ -90012,12 +90012,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb_pants.rpy": {
-      "sha256": "0cc3e341fdf4e84c50725f753a41c996719b73bbead0ff19788f74a52246bb9f",
+      "sha256": "52840f0cbdf816ccc1f62c8342c9d621623d8d84b051ea1441d8cc0ad97334f2",
       "pairs": 87,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "0cc3e341fdf4e84c50725f753a41c996719b73bbead0ff19788f74a52246bb9f",
+        "translation_sha256": "52840f0cbdf816ccc1f62c8342c9d621623d8d84b051ea1441d8cc0ad97334f2",
         "source_sha256": "109bcbf77bd5f0074ee599e5ac4dd82e3592fcf0cd04a983b95125ffaa33aed5",
         "source": "game/src/plot/deb_pants.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb_pants.rpy",
@@ -90271,7 +90271,7 @@
           {
             "id": "deb_pants_merge_2be88870",
             "line": 289,
-            "pair_sha256": "3fa5d30e96312ac02a868bd9fb8e93a005e8eda3dfbcf7efd4bfa1d851cab2c4"
+            "pair_sha256": "49df93aff5d833bc7ed35dbc95d8db3c15a6e25ea07f2b5e2a8a6af4a5295800"
           },
           {
             "id": "deb_pants_merge_05ec2bdb",
@@ -90803,12 +90803,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb_shower.rpy": {
-      "sha256": "db653b05dfb4385e6cdd2ab50e96b80a238dae368f3acd3468896ae1530f3e6f",
+      "sha256": "d39f550a615bf168c6cd7c279a709d5e864b9d48a428aeb9e9be8730126689e4",
       "pairs": 527,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "db653b05dfb4385e6cdd2ab50e96b80a238dae368f3acd3468896ae1530f3e6f",
+        "translation_sha256": "d39f550a615bf168c6cd7c279a709d5e864b9d48a428aeb9e9be8730126689e4",
         "source_sha256": "13dbaf8a26b68e1823245e33cd207ba36b38b550ad9daad9180304527f0aa199",
         "source": "game/src/plot/deb_shower.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb_shower.rpy",
@@ -91699,12 +91699,12 @@
           {
             "id": "deb_shower_blowjob1b_99d1bda2",
             "line": 1051,
-            "pair_sha256": "95beae02aaf38575fec9f0c1af1fe303625dc19ced414f24c446e750c7c5c1f1"
+            "pair_sha256": "d4c5f0b6340ce6c541dc209fef6dc8140b7682f2b4e9b7817a1b545440d242b8"
           },
           {
             "id": "deb_shower_blowjob1b_e77192aa",
             "line": 1057,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "a46953e2871fe8a668741c493bc5276e15a0ad52d8476c0e54fb3fa17bff6262"
           },
           {
             "id": "deb_shower_blowjob1b_b9b6a499",
@@ -91889,12 +91889,12 @@
           {
             "id": "deb_shower_blowjob2_99d1bda2",
             "line": 1279,
-            "pair_sha256": "d202d4e6ffca03586178e1fb9184074c4cea57c6b22881b09fef01a4b9cb4e86"
+            "pair_sha256": "d4c5f0b6340ce6c541dc209fef6dc8140b7682f2b4e9b7817a1b545440d242b8"
           },
           {
             "id": "deb_shower_blowjob2_e77192aa",
             "line": 1285,
-            "pair_sha256": "a7f69fad5a728b0502cb78d464443bdb1a97c8c8effefd2faeb7700824d6ea64"
+            "pair_sha256": "a46953e2871fe8a668741c493bc5276e15a0ad52d8476c0e54fb3fa17bff6262"
           },
           {
             "id": "deb_shower_blowjob2_543cd4a5",
@@ -92134,7 +92134,7 @@
           {
             "id": "deb_shower_deny2_a341a9ef",
             "line": 1573,
-            "pair_sha256": "2d1e3a9a8d198ed0e22b2938c4837d1cb33d5384faad62936c61f41e327d5d9b"
+            "pair_sha256": "0bb9927dd59c96e38522fc856d4d913da9a6eddcd59c56ff655a7dfe8b861d62"
           },
           {
             "id": "deb_shower_deny2_56d0d031",
@@ -92214,7 +92214,7 @@
           {
             "id": "deb_shower_foreplay_3c030a1d",
             "line": 1669,
-            "pair_sha256": "e8ff3ba902179b9e77ff741b42423918253d7c6fa89fde52f0507bcc964ef209"
+            "pair_sha256": "3424829dbd5151afbb6e1677065f70374040a1550c4089ade163f4d60dd09142"
           },
           {
             "id": "deb_shower_foreplay_f09bdb2d",
@@ -92829,7 +92829,7 @@
           {
             "id": "deb_shower_handjob2_b50ba2ad",
             "line": 2407,
-            "pair_sha256": "e069dea9488b58709d0d47fdb182f729b5d5a98862a44608ccbb7591ff82f308"
+            "pair_sha256": "d77a29871fb21d1df3c7f919d1a995b3be31d08619dca4e5878acf3db33cc508"
           },
           {
             "id": "deb_shower_handjob2_ac4caad7",
@@ -93324,7 +93324,7 @@
           {
             "id": "deb_shower_peek4_1795bab6",
             "line": 3001,
-            "pair_sha256": "85fe6e7cb4113cdfbdb33fad2bb2bdb7b511636dc47b044d25aaea68cba614c9"
+            "pair_sha256": "952d8a8a530b74be8ffa3a0ebaadd99e0de9fc4103a32134e9c93e54d8799cd7"
           },
           {
             "id": "deb_shower_peek4_6c7ac28e",
@@ -93444,7 +93444,7 @@
           {
             "id": "deb_shower_merge1_12f204d9",
             "line": 3145,
-            "pair_sha256": "c2fe3b68b5ee8ceb1533da2be176effcea3c0fdb8af542a71581bc7e31010bb8"
+            "pair_sha256": "aa6ee337a42dd104adc8b4f437112960d4c1a2e5b1d0da4366b9eca3377c7b8a"
           },
           {
             "id": "deb_shower_merge1_bfdc8475",
@@ -94746,12 +94746,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb_tv.rpy": {
-      "sha256": "35f648cdb1c22f30bd1396b2f4b911bbeef356830225a9eeb294ead569777860",
+      "sha256": "c0d6080e613fd6cccb48454dcd42d86e7b6deed66e5824603ca78a6247c82242",
       "pairs": 765,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "35f648cdb1c22f30bd1396b2f4b911bbeef356830225a9eeb294ead569777860",
+        "translation_sha256": "c0d6080e613fd6cccb48454dcd42d86e7b6deed66e5824603ca78a6247c82242",
         "source_sha256": "30cb06155d069506cd889e019692670b9b0317c6a78b8852aff81f287e8e4d2a",
         "source": "game/src/plot/deb_tv.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb_tv.rpy",
@@ -95293,7 +95293,7 @@
           {
             "id": "deb_tv_boobjob3_144745e0",
             "line": 631,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "deb_tv_boobjob3_cba8e61a",
@@ -96373,7 +96373,7 @@
           {
             "id": "deb_tv_entry2_1d162b20",
             "line": 1927,
-            "pair_sha256": "639c309edf37643f224642c345435e4bd3c4ecca9a14e74a8316ddea66560dc1"
+            "pair_sha256": "5330408869e985026e7d6ad0fe2f3834ed2247e8b0caf4b888d14897a609b3b9"
           },
           {
             "id": "deb_tv_entry2_32c9ed15",
@@ -96763,7 +96763,7 @@
           {
             "id": "deb_tv_entry3_db0c8030",
             "line": 2395,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "deb_tv_entry3_18c47445",
@@ -98103,7 +98103,7 @@
           {
             "id": "deb_tv_play3_30cb5357",
             "line": 4003,
-            "pair_sha256": "48e2381001d2bdc0f09b35aaa25874c7b05556a03f1b4100acc9d03e679560ce"
+            "pair_sha256": "5263ffd748f0826c899b46d454204d3926d20136af42e6add27fbc016e32b19c"
           },
           {
             "id": "deb_tv_play3_ef7149e2",
@@ -98143,7 +98143,7 @@
           {
             "id": "deb_tv_play3_1a0012a1",
             "line": 4051,
-            "pair_sha256": "e279b27529775823bceebd212b3148e74eaa57b35101aea113ad63d7a3fb1b07"
+            "pair_sha256": "80b4d6d2bca279b1eae0bc6e92953744f7ca1c529aadc36c6415d677e8e1dde7"
           },
           {
             "id": "deb_tv_play3_3606523b",
@@ -98727,12 +98727,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb_visit.rpy": {
-      "sha256": "9d919baaf80339d7bd31dc1b456ea4efcd2aceb28dd28d77b78f325585291fa9",
+      "sha256": "ff0d4b225f2d1285298d67df57ab542b41ba7c7b0e2cc07d307fc9dd6eb8356b",
       "pairs": 296,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "9d919baaf80339d7bd31dc1b456ea4efcd2aceb28dd28d77b78f325585291fa9",
+        "translation_sha256": "ff0d4b225f2d1285298d67df57ab542b41ba7c7b0e2cc07d307fc9dd6eb8356b",
         "source_sha256": "b8f96a64b6b8fda71664527955290b0bab1a8b4fee4080456ca1e7c280929780",
         "source": "game/src/plot/deb_visit.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb_visit.rpy",
@@ -98912,7 +98912,7 @@
           {
             "id": "deb_visit_d7e844c1",
             "line": 199,
-            "pair_sha256": "a46953e2871fe8a668741c493bc5276e15a0ad52d8476c0e54fb3fa17bff6262"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "deb_visit_2e1bc54b",
@@ -111118,12 +111118,12 @@
       }
     },
     "tl/zh_hans/src/plot/jen10.rpy": {
-      "sha256": "2556947c0f311bb8eb3cb1a6275828caf90a912b1c9b4045e79edd2ef96ba7c6",
+      "sha256": "22f4f513d6ad9c1499d279d7d3b8ff999d87be77c53ab058dd92c13980fa0a7d",
       "pairs": 388,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "2556947c0f311bb8eb3cb1a6275828caf90a912b1c9b4045e79edd2ef96ba7c6",
+        "translation_sha256": "22f4f513d6ad9c1499d279d7d3b8ff999d87be77c53ab058dd92c13980fa0a7d",
         "source_sha256": "431383373c3416fba3310503c1c24c4a0ae02974f4064188a115cf3aea638ca2",
         "source": "game/src/plot/jen10.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen10.rpy",
@@ -112949,7 +112949,7 @@
           {
             "id": "jen10_toy_merge_7b0afb49",
             "line": 2173,
-            "pair_sha256": "881f0eb355b32fe17eb8596eb87ff82edd8c58ee2d5ab817a08a10420de578f0"
+            "pair_sha256": "f6b2f3db564fe757a6d0beea298ee8339bdf651cc3643c9225f005b9732df087"
           },
           {
             "id": "jen10_toy_merge_8f6826c5",
@@ -125804,12 +125804,12 @@
       }
     },
     "tl/zh_hans/src/plot/jen21.rpy": {
-      "sha256": "a7ee4bfe0821e57a3f962ed4e691c68734f70c07af6cdb545e9097d79e35428a",
+      "sha256": "ff8ee764909ce08e4320fea1d886dce8ff3031465eaf20ddf5315f26d8a31df0",
       "pairs": 172,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "a7ee4bfe0821e57a3f962ed4e691c68734f70c07af6cdb545e9097d79e35428a",
+        "translation_sha256": "ff8ee764909ce08e4320fea1d886dce8ff3031465eaf20ddf5315f26d8a31df0",
         "source_sha256": "811a1069a95820724790e3809c3f5fc7d502b5049e87a341441d727213444fec",
         "source": "game/src/plot/jen21.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen21.rpy",
@@ -126450,7 +126450,7 @@
           {
             "id": "jen21_jenny_reuse_3fd068df",
             "line": 751,
-            "pair_sha256": "a46953e2871fe8a668741c493bc5276e15a0ad52d8476c0e54fb3fa17bff6262"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "jen21_jenny_reuse_61f041b9",
@@ -129312,12 +129312,12 @@
       }
     },
     "tl/zh_hans/src/plot/jen24.rpy": {
-      "sha256": "bd37df85dcc72f165e77cf609ee9d4979b2608b4842cf38675770da5842d329d",
+      "sha256": "6dc17a912a151d04a91518ef38894ec1068afa93fadbbdd16685e6626623c081",
       "pairs": 334,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "bd37df85dcc72f165e77cf609ee9d4979b2608b4842cf38675770da5842d329d",
+        "translation_sha256": "6dc17a912a151d04a91518ef38894ec1068afa93fadbbdd16685e6626623c081",
         "source_sha256": "c2fc4d04186a1378caa0476712c07092a8f2cb32e24f2af609e6827d9c411e1e",
         "source": "game/src/plot/jen24.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen24.rpy",
@@ -130484,12 +130484,12 @@
           {
             "id": "jen24_jenny_alt_c0afa0e3",
             "line": 1381,
-            "pair_sha256": "477283b2b7fa9e8d4ab2b969a9b2444bf3a94492158eaf672fd3406873239220"
+            "pair_sha256": "d597147aea1a9e34b22a7e3f6531c0fa2560deeae9668af7c9f3894e7898207b"
           },
           {
             "id": "jen24_jenny_alt_7d700a05",
             "line": 1387,
-            "pair_sha256": "0ed37e80e69f2d18226c9452964532f56c155edda6a8d267ca9291f672288144"
+            "pair_sha256": "1cf19a605ba85399e2e4e70b5423946d93fbffae43f63f5beaa09a189ff889a8"
           },
           {
             "id": "jen24_jenny_alt_dad62e05",
@@ -131364,12 +131364,12 @@
       }
     },
     "tl/zh_hans/src/plot/jen26.rpy": {
-      "sha256": "89b4acdf63f0c031ebdf2e0c703f2c8d4b433b4d4cc3848d2f0cc34a52b04484",
+      "sha256": "c99dc0c3642d1db8992f15586e37cff860b0dba8036d8d9094e2d425aee95b2b",
       "pairs": 449,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "89b4acdf63f0c031ebdf2e0c703f2c8d4b433b4d4cc3848d2f0cc34a52b04484",
+        "translation_sha256": "c99dc0c3642d1db8992f15586e37cff860b0dba8036d8d9094e2d425aee95b2b",
         "source_sha256": "f431b8042337e7a037008206e515ab941e0ac9b1742b4bc22f2707a0188e9098",
         "source": "game/src/plot/jen26.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen26.rpy",
@@ -132815,7 +132815,7 @@
           {
             "id": "jen26_cinema_3514873a_1",
             "line": 1717,
-            "pair_sha256": "f26fba7b4abfa5ca6287592fcc82cfd3e813807d2895cd37bd253f02cf7a44ef"
+            "pair_sha256": "5207e319bb06039af7bba9246db4704c3ac288eb6d184ae4aa3328fb5f17a5c3"
           },
           {
             "id": "jen26_cinema_19cf88f2",
@@ -134848,12 +134848,12 @@
       }
     },
     "tl/zh_hans/src/plot/jen_baby.rpy": {
-      "sha256": "1cc84917ea97cecc419484b19b9d9a12799f543af3475f517f410052854d2a24",
+      "sha256": "209fa9a10be56be2db3d5bf549b0bd9636a1aeddc3f3e9411d41a5d5b80d4262",
       "pairs": 929,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "1cc84917ea97cecc419484b19b9d9a12799f543af3475f517f410052854d2a24",
+        "translation_sha256": "209fa9a10be56be2db3d5bf549b0bd9636a1aeddc3f3e9411d41a5d5b80d4262",
         "source_sha256": "b9e6bb35e1cd9c2edb01dd89627a7f52e08b8ff43cef86017606ab5bad06e2a1",
         "source": "game/src/plot/jen_baby.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen_baby.rpy",
@@ -139425,7 +139425,7 @@
           {
             "id": "jen_baby_post_intro_725d0c63",
             "line": 6175,
-            "pair_sha256": "b22a4cd7559ebe29a980ab73108ca0d933adc4e058cbe01dda63d6509274139e"
+            "pair_sha256": "5207e319bb06039af7bba9246db4704c3ac288eb6d184ae4aa3328fb5f17a5c3"
           },
           {
             "id": "jen_baby_post_outro_d844a61f",
@@ -141182,12 +141182,12 @@
       }
     },
     "tl/zh_hans/src/plot/jen_gfe.rpy": {
-      "sha256": "2fa01671d4aff81a054c0fd95220e99915badf4e56db04c9f1cdbfc850f53547",
+      "sha256": "c89a8ba2ec2630cd532a903c25073cca249790c922aab843008815649865b496",
       "pairs": 366,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "2fa01671d4aff81a054c0fd95220e99915badf4e56db04c9f1cdbfc850f53547",
+        "translation_sha256": "c89a8ba2ec2630cd532a903c25073cca249790c922aab843008815649865b496",
         "source_sha256": "45c3600eab81f23f3fa9ba472a20a97b4cc8d2edd57d48a45ffddc03d878c53b",
         "source": "game/src/plot/jen_gfe.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen_gfe.rpy",
@@ -141787,12 +141787,12 @@
           {
             "id": "jen_gfe_ready_once_98c926eb",
             "line": 703,
-            "pair_sha256": "36b05253e182fa1b9f0d7022dcc6898786558597d3d8b487ebce85bf412187f6"
+            "pair_sha256": "effabe896cf4895c90449b78e01eea47840f1280d6daae8ac0c7f0881e3d10a0"
           },
           {
             "id": "jen_gfe_ready_once_77254050",
             "line": 709,
-            "pair_sha256": "a537ab7d9bbef1a462df3c3f70300dae87b7eb4810dd316faed2443dd105ec86"
+            "pair_sha256": "00e64bfb58fbae83cfcc42e01bb7cc2218d4e343d2cab7c0b31125129ffc5b2d"
           },
           {
             "id": "jen_gfe_ready_once_1990aa1b",
@@ -142197,7 +142197,7 @@
           {
             "id": "jen_gfe_jenny_merge1_b1ddd1b1",
             "line": 1195,
-            "pair_sha256": "d4146f0a1ea209b11ff2643bc140603e18bc08047b0ddd64daeb4d6d3c216d1e"
+            "pair_sha256": "3e512c0d16ad2a719ef8fb60ea540afa4ea6579a2635851ae1b5d94a0487f9be"
           },
           {
             "id": "jen_gfe_jenny_merge1_48e3df4b",
@@ -142372,7 +142372,7 @@
           {
             "id": "jen_gfe_jenny_alt_57c23cb7",
             "line": 1405,
-            "pair_sha256": "6f71f71dd3648c4af531d6920d6d0799850d519bf458b50fb4daa4e9c3ec4a22"
+            "pair_sha256": "ae5e1a7506d611bc32d207b55c973ccbdef990c4e9720014f60f7157260ecfd2"
           },
           {
             "id": "jen_gfe_jenny_alt_f803d751",
@@ -142397,7 +142397,7 @@
           {
             "id": "jen_gfe_jenny_alt_2f289343",
             "line": 1435,
-            "pair_sha256": "b7a15c070717c75426206a921f682ba5b4c7f9c2d56f49301c45a2cc47838cb2"
+            "pair_sha256": "ec038b03d730ae713de3863a0027d97ddf4efa9556dc5a7a93a4e01a18589c0f"
           },
           {
             "id": "jen_gfe_jenny_alt_7c572a49",
@@ -142482,7 +142482,7 @@
           {
             "id": "jen_gfe_jenny_alt_ec387a34",
             "line": 1537,
-            "pair_sha256": "5c1467684d0661d2c72205d23300670472c672dc6313d8b908167a3d63b23d92"
+            "pair_sha256": "c7a414d95b283611f92b91ae501d4ecaa72fffd067f0bc9f190c8d484c6d5845"
           },
           {
             "id": "jen_gfe_jenny_alt_d5d56026",
@@ -142702,7 +142702,7 @@
           {
             "id": "jen_gfe_jenny_merge2_aa5d20c8",
             "line": 1801,
-            "pair_sha256": "6fc2e3b27ab7d663c53731a4db676dbf8049a95196cb18d8a43d38a1452445f4"
+            "pair_sha256": "b8b0813d5875063dc347be8d87af7edc2087c6deecc7780f6344fef9c08435bd"
           },
           {
             "id": "jen_gfe_jenny_merge2_ec9440b8",
@@ -142872,7 +142872,7 @@
           {
             "id": "jen_gfe_jenny_creampie2_cfd69aab",
             "line": 2005,
-            "pair_sha256": "372cc90a7fa46ac91e2bc22ea6722f462e6327b1c9188023c479fbe6d9d98349"
+            "pair_sha256": "5225f4e0c28799e3dc18215c9ee4e0f029c322ced5d906a055e63f05b0aaf8fe"
           },
           {
             "id": "jen_gfe_jenny_rails_e138a60b",
@@ -143035,10 +143035,10 @@
             "pair_sha256": "f54b217392a012eccc7f758a4fc8b1e34c29270d12e899453225faae179e59d8"
           }
         ],
-        "note": "全文中文按实际场景及本地分支连续阅读，修正寒暄和功夫片争论衔接共3条。外部事件调度、动态入口与时间逻辑仍待核实。 2026-09-13 good boy 家族收敛：That's my good boy→这才乖嘛、That's my boy→这才对嘛、You're such a good boy→你真是个好孩子、短夸奖 Good boy→真乖；规则入 recurring_terms.json。 2026-09-13 标点一致性：单独的 !!! 统一为全角“！！！”。",
+        "note": "全文中文按实际场景及本地分支连续阅读，修正寒暄和功夫片争论衔接共3条。外部事件调度、动态入口与时间逻辑仍待核实。 2026-09-13 good boy 家族收敛：That's my good boy→这才乖嘛、That's my boy→这才对嘛、You're such a good boy→你真是个好孩子、短夸奖 Good boy→真乖；规则入 recurring_terms.json。 2026-09-13 标点一致性：单独的 !!! 统一为全角“！！！”。 2026-09-13 完成全文双语复审（366对逐条对照英文，第六十九批）：修正8处——Ahh 误作“啊哈”（Ahh, fuck!／Ahh, that\\u2019s it!）改为“啊，操！”“啊，就是这样！”；*Gulp* 由“*咕噜*”改“*咽口水*”；*Snort* Zzz（熟睡鼾声）由“*哼鼻*”改“*鼾声*”；Hehehe! 由“嘻嘻嘻”改“嘿嘿嘿”；Okay, okay... 由“好吧，好吧”改“好好好”；Yeah, me too. 由“是啊，我也是”改“嗯，我也是”（与该文件 merge2 同源句统一）；Heh, whatever. 由“哼，随便吧”改“嘿，随你怎么说”（与该文件 dawn_once 同源句统一）。Cedric 相关 lovey-dovey bullshit 一译按用户指示保留原判。",
         "external_event_followup": true,
         "dependencies": [],
-        "method": "chinese_scene_read",
+        "method": "bilingual_scene_read",
         "source_checks": [
           {
             "source_range": [
@@ -143086,12 +143086,12 @@
       }
     },
     "tl/zh_hans/src/plot/jen_pool.rpy": {
-      "sha256": "793eae96c4a852995740005f243a95e12269706211e3733414dac31e024ad670",
+      "sha256": "1b049f9245e3942ee1c242dd58b75ad5b8ce6d801911cf366da47d02bc9a4c4f",
       "pairs": 156,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "793eae96c4a852995740005f243a95e12269706211e3733414dac31e024ad670",
+        "translation_sha256": "1b049f9245e3942ee1c242dd58b75ad5b8ce6d801911cf366da47d02bc9a4c4f",
         "source_sha256": "1eada760f499754a60865311a26e9fab48ab7fd770b186d8a3312cca8c14a5df",
         "source": "game/src/plot/jen_pool.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen_pool.rpy",
@@ -143721,7 +143721,7 @@
           {
             "id": "jen_pool_once_a25c96eb",
             "line": 739,
-            "pair_sha256": "267b50307245943b0b0d0601b0b429f584a6864cfb417c7a310c5b840cac2413"
+            "pair_sha256": "f6b2f3db564fe757a6d0beea298ee8339bdf651cc3643c9225f005b9732df087"
           },
           {
             "id": "jen_pool_once_bb56697e",
@@ -149686,12 +149686,12 @@
       }
     },
     "tl/zh_hans/src/plot/jos01.rpy": {
-      "sha256": "8d084c4a67ef9292cb95d9ce4e00c7a4a6ab24cd1eb710ee6521b2a457f6d83a",
+      "sha256": "b49082bce07d93deadb7f4ced5d611a314732f66d6e5cd8b8ab494dd8d73db6d",
       "pairs": 393,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "8d084c4a67ef9292cb95d9ce4e00c7a4a6ab24cd1eb710ee6521b2a457f6d83a",
+        "translation_sha256": "b49082bce07d93deadb7f4ced5d611a314732f66d6e5cd8b8ab494dd8d73db6d",
         "source_sha256": "f583b62b42ebd05588c98cd4ac32899544458d2f786beef9e4fb6fbda07c5fd1",
         "source": "game/src/plot/jos01.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jos01.rpy",
@@ -149777,7 +149777,7 @@
           {
             "id": "jos01_yoo_1e4ad65a",
             "line": 85,
-            "pair_sha256": "dc4f2634ef423c86229d13084e9fd508878ddfe727cefd13aaf6901ed999d5f8"
+            "pair_sha256": "dcae11c69bd139feb19ce2d3d382dd22dd832ac646e8f7aa862c44b73e0bffd9"
           },
           {
             "id": "jos01_yoo_b699e742",
@@ -149812,7 +149812,7 @@
           {
             "id": "jos01_yoo_b4a83e59",
             "line": 127,
-            "pair_sha256": "dc4f2634ef423c86229d13084e9fd508878ddfe727cefd13aaf6901ed999d5f8"
+            "pair_sha256": "dcae11c69bd139feb19ce2d3d382dd22dd832ac646e8f7aa862c44b73e0bffd9"
           },
           {
             "id": "jos01_yoo_5496a781",
@@ -155572,12 +155572,12 @@
       }
     },
     "tl/zh_hans/src/plot/mar01.rpy": {
-      "sha256": "0980ea3a34486fe580955b6365c7ae3fc23e92f569a4a39bc21b480b3d111b35",
+      "sha256": "765b00b09023cc0ad83fddb121c78f18fcee7c4cc852a840a6a6cc1743fb05a2",
       "pairs": 167,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "0980ea3a34486fe580955b6365c7ae3fc23e92f569a4a39bc21b480b3d111b35",
+        "translation_sha256": "765b00b09023cc0ad83fddb121c78f18fcee7c4cc852a840a6a6cc1743fb05a2",
         "source_sha256": "08e96217862aa697741804ceadbd12868ddfc498af051fe69cba7d49c1bfb7ee",
         "source": "game/src/plot/mar01.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/mar01.rpy",
@@ -155700,7 +155700,7 @@
           {
             "id": "mar01_maria_64da70c1",
             "line": 155,
-            "pair_sha256": "7a45f0411c6764b4f40d23dc0eb08de1f3c535474a889965d5cffc87f0055942"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "mar01_maria_cd5f63ac",
@@ -156604,12 +156604,12 @@
       }
     },
     "tl/zh_hans/src/plot/mar_baby.rpy": {
-      "sha256": "8704f243c727c6c12f0347df00028f5d75e0c6c9e10dc7224c0e85a8fea80803",
+      "sha256": "1d7bee2c18923cd52d891f55e0ff7de0c404a64e01a4a320cf6c238b937bf7df",
       "pairs": 395,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "8704f243c727c6c12f0347df00028f5d75e0c6c9e10dc7224c0e85a8fea80803",
+        "translation_sha256": "1d7bee2c18923cd52d891f55e0ff7de0c404a64e01a4a320cf6c238b937bf7df",
         "source_sha256": "bf6d276f1ee210fbe7e417b593aa6dc3b1708262e4c6bdbaa8dcd941eac25ca4",
         "source": "game/src/plot/mar_baby.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/mar_baby.rpy",
@@ -157161,7 +157161,7 @@
           {
             "id": "mar_baby_costume_85e0ccf2",
             "line": 728,
-            "pair_sha256": "b0a1c015281f4b7e422828f6f73fc0a189495970b1b81ae28796cd1960c7924f"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "mar_baby_costume_f274a09f",
@@ -157991,7 +157991,7 @@
           {
             "id": "mar_baby_rest_misc1_859736a5",
             "line": 1826,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "mar_baby_rest_misc1_e0c04eb7",
@@ -159028,12 +159028,12 @@
       }
     },
     "tl/zh_hans/src/plot/mar_couch.rpy": {
-      "sha256": "10671498c0fe31b503325cd19196347c41ca107c08cdc82adc9221cd82aa4e4f",
+      "sha256": "49cdafa246fcdcbf1810e9134c57181c929ee86d0bb6a1ddfa7304f0273fef6b",
       "pairs": 636,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "10671498c0fe31b503325cd19196347c41ca107c08cdc82adc9221cd82aa4e4f",
+        "translation_sha256": "49cdafa246fcdcbf1810e9134c57181c929ee86d0bb6a1ddfa7304f0273fef6b",
         "source_sha256": "eadf31010142f30ede8c4bfeb652c18753a7b596078a14774cb79674752a0988",
         "source": "game/src/plot/mar_couch.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/mar_couch.rpy",
@@ -159234,7 +159234,7 @@
           {
             "id": "mar_couch_dusk1_738e8caf",
             "line": 249,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "mar_couch_dusk1_9ceea467",
@@ -160429,7 +160429,7 @@
           {
             "id": "mar_couch_noon1_859736a5",
             "line": 1770,
-            "pair_sha256": "b0a1c015281f4b7e422828f6f73fc0a189495970b1b81ae28796cd1960c7924f"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "mar_couch_noon1_a9c55c63",
@@ -162262,12 +162262,12 @@
       }
     },
     "tl/zh_hans/src/plot/mar_dark.rpy": {
-      "sha256": "e5c39ade1b948686b47e7c41c08b95993bb4c786b199c4c20ae5ff1269b0749e",
+      "sha256": "24aa2f69c222efd9299cbc7a9c29d77c9b0bbf0707bd313813efc157e2840be5",
       "pairs": 369,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "e5c39ade1b948686b47e7c41c08b95993bb4c786b199c4c20ae5ff1269b0749e",
+        "translation_sha256": "24aa2f69c222efd9299cbc7a9c29d77c9b0bbf0707bd313813efc157e2840be5",
         "source_sha256": "2591c15e553df96686fc704c52bb81c7ebcd5bb3a06e8eb0b6180f67cac75154",
         "source": "game/src/plot/mar_dark.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/mar_dark.rpy",
@@ -162499,7 +162499,7 @@
           {
             "id": "mar_dark_maria_merge1_7d35e67a",
             "line": 302,
-            "pair_sha256": "a7f69fad5a728b0502cb78d464443bdb1a97c8c8effefd2faeb7700824d6ea64"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "mar_dark_maria_merge1_35f4815b",
@@ -164137,7 +164137,7 @@
         "dependencies": [
           {
             "path": "tl/zh_hans/src/plot/ano15.rpy",
-            "sha256": "cb0a7c780142cf4b286f77fd1b5c2cf30a8bc69be6f3a17f8ba5bd1716920ded"
+            "sha256": "7f286fbf257be6d57797f270defe788af844d6ff985640a6c4f27e00295dcad5"
           }
         ],
         "method": "chinese_scene_read",
@@ -167665,12 +167665,12 @@
       }
     },
     "tl/zh_hans/src/plot/mel02.rpy": {
-      "sha256": "00a94a98f9672f7da19a347b649269bdb8a467c4b22a5508410f0a4c20d6b166",
+      "sha256": "cf68bbdbd952a6baaa4366c369b596981a2c7930d9f63dbb1455d288e470ae12",
       "pairs": 473,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "00a94a98f9672f7da19a347b649269bdb8a467c4b22a5508410f0a4c20d6b166",
+        "translation_sha256": "cf68bbdbd952a6baaa4366c369b596981a2c7930d9f63dbb1455d288e470ae12",
         "source_sha256": "3b2cd562134e8c1d045971214a01773e8da2d12c7abd95cf311f0dab93cede93",
         "source": "game/src/plot/mel02.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/mel02.rpy",
@@ -170034,7 +170034,7 @@
           {
             "id": "mel02_outro_7d35e67a",
             "line": 3237,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "mel02_outro_d54f6261",
@@ -173364,12 +173364,12 @@
       }
     },
     "tl/zh_hans/src/plot/mel06.rpy": {
-      "sha256": "5bd55e4f04dd1f021e30b49cbaff755e66790142ccbe3c9d2a967153285e131e",
+      "sha256": "0fbc293638e6de84c81c89861784279a227f10f18bed26d8b40e937a510ade33",
       "pairs": 336,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "5bd55e4f04dd1f021e30b49cbaff755e66790142ccbe3c9d2a967153285e131e",
+        "translation_sha256": "0fbc293638e6de84c81c89861784279a227f10f18bed26d8b40e937a510ade33",
         "source_sha256": "465dfa1d5dd3f3419f9219e584118607cd0c1f8b71c200047e9085c72cc8047b",
         "source": "game/src/plot/mel06.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/mel06.rpy",
@@ -174740,7 +174740,7 @@
           {
             "id": "mel06_office4_7d35e67a",
             "line": 1354,
-            "pair_sha256": "b0a1c015281f4b7e422828f6f73fc0a189495970b1b81ae28796cd1960c7924f"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "mel06_office4_2394a95f",
@@ -176136,12 +176136,12 @@
       }
     },
     "tl/zh_hans/src/plot/oli_stall.rpy": {
-      "sha256": "8be77579ab68d2fa966930c9c429024159c7f4861e8303c529957e7f064c18df",
+      "sha256": "96f0bd3b73a58fff8d9860288450d3041c82fea018ac8c3d997a4b287d8686c0",
       "pairs": 73,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "8be77579ab68d2fa966930c9c429024159c7f4861e8303c529957e7f064c18df",
+        "translation_sha256": "96f0bd3b73a58fff8d9860288450d3041c82fea018ac8c3d997a4b287d8686c0",
         "source_sha256": "13b6ea868536e47db6f2f4d3dfcab1776f3c28961fc184963683f36265397dd9",
         "source": "game/src/plot/oli_stall.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/oli_stall.rpy",
@@ -176233,7 +176233,7 @@
           {
             "id": "oli_stall_1d1a414f",
             "line": 79,
-            "pair_sha256": "3b678ca7db68f4bdb6404ee3c8ccbaa104d01577337c0ab133f75292bcb775c5"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "oli_stall_17912be3",
@@ -182034,12 +182034,12 @@
       }
     },
     "tl/zh_hans/src/plot/tin_dusk.rpy": {
-      "sha256": "82a75d3162be8de718205d3d38a28ebae631f13a5641e954d6c52cbfafa9e607",
+      "sha256": "6af35d1588cceb816ef45daed5d92cbc556843e16d48deed5f24d835cd0ee1dd",
       "pairs": 166,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "82a75d3162be8de718205d3d38a28ebae631f13a5641e954d6c52cbfafa9e607",
+        "translation_sha256": "6af35d1588cceb816ef45daed5d92cbc556843e16d48deed5f24d835cd0ee1dd",
         "source_sha256": "c8c602b40b2f75ff92907041b6a64df0b7dab75ed2cd0418cb34519c689ae56e",
         "source": "game/src/plot/tin_dusk.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/tin_dusk.rpy",
@@ -182203,7 +182203,7 @@
           {
             "id": "tin_dusk_lounge_764c680c",
             "line": 181,
-            "pair_sha256": "b0a1c015281f4b7e422828f6f73fc0a189495970b1b81ae28796cd1960c7924f"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "tin_dusk_lounge_6b2253a5",
@@ -184710,12 +184710,12 @@
       }
     },
     "tl/zh_hans/src/plot/ton_baby.rpy": {
-      "sha256": "47d2c88b84e9efe52aaba5472102bc3ff71262e339a2e46fa1c2db95ce9fbe5b",
+      "sha256": "3bd9cb675346fce71bb30ab9b2e26607450972cdb8d3b90e8049ce697b7a833b",
       "pairs": 152,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "47d2c88b84e9efe52aaba5472102bc3ff71262e339a2e46fa1c2db95ce9fbe5b",
+        "translation_sha256": "3bd9cb675346fce71bb30ab9b2e26607450972cdb8d3b90e8049ce697b7a833b",
         "source_sha256": "dc48a76d2cc7caddea03be96e591568778f84718ab39f1e3e110d0af47c98190",
         "source": "game/src/plot/ton_baby.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/ton_baby.rpy",
@@ -185009,7 +185009,7 @@
           {
             "id": "ton_baby_belly_misc1_fe379108",
             "line": 337,
-            "pair_sha256": "0b8721baf164d498d4185b810c87122557200ff54a9b77d90d45d78bdc41bae0"
+            "pair_sha256": "b98969d7c9d77fac39193f23d8007c5072f4f6033abca39cbe8efc8667c99632"
           },
           {
             "id": "ton_baby_belly_misc1_cd896496",
@@ -192368,12 +192368,12 @@
       }
     },
     "tl/zh_hans/src/plot/tor05.rpy": {
-      "sha256": "54e9b53d3a63c4534f7c250a953322622de3e53aace6aaeeb47407d479916d7a",
+      "sha256": "7ea93596c4ff214fefae7d8fb71bbe197e1700b4c0ec19939a7a9c5651d4044b",
       "pairs": 456,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "54e9b53d3a63c4534f7c250a953322622de3e53aace6aaeeb47407d479916d7a",
+        "translation_sha256": "7ea93596c4ff214fefae7d8fb71bbe197e1700b4c0ec19939a7a9c5651d4044b",
         "source_sha256": "2c4c86eb98681890eaecf32256fd987c3ab099dc235bfbaf279a220baa54db81",
         "source": "game/src/plot/tor05.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/tor05.rpy",
@@ -192771,7 +192771,7 @@
           {
             "id": "tor05_take_annie2_4d930642",
             "line": 457,
-            "pair_sha256": "eba82830481babf11b438003bed8c01e36dc75cedd1867d2a506f2aeaaada461"
+            "pair_sha256": "a10d99adfd3274ec335c4d05a103a210c1639cfa0cf03b9b85ac31fdede8f10a"
           },
           {
             "id": "tor05_take_annie2_e16437bf",
@@ -204339,12 +204339,12 @@
       }
     },
     "tl/zh_hans/src/plot/viv05.rpy": {
-      "sha256": "5f360ca88f10420e6921e4fb5b9ab07e06de4350df2897a98efe0296987d70f5",
+      "sha256": "feeb1bee2cf9fe8ad8bd4c0e36e2cdc9d370d0289eebedda8bf0f74e310bced5",
       "pairs": 145,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "5f360ca88f10420e6921e4fb5b9ab07e06de4350df2897a98efe0296987d70f5",
+        "translation_sha256": "feeb1bee2cf9fe8ad8bd4c0e36e2cdc9d370d0289eebedda8bf0f74e310bced5",
         "source_sha256": "7560770779ddb1a7815ddfb863b3bb361c1df1784f81959b015a2a59570461ce",
         "source": "game/src/plot/viv05.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/viv05.rpy",
@@ -204607,7 +204607,7 @@
           {
             "id": "viv05_office5_7d35e67a",
             "line": 301,
-            "pair_sha256": "b0a1c015281f4b7e422828f6f73fc0a189495970b1b81ae28796cd1960c7924f"
+            "pair_sha256": "c2e850bcf1f7701d1de6ac5eb3b940615ccc36bfc8c769a97d5a1541b391fe7b"
           },
           {
             "id": "viv05_office5_2db708d5",

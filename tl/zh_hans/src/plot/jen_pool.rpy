@@ -736,7 +736,7 @@ translate zh_hans jen_pool_once_d71acc34:
 translate zh_hans jen_pool_once_a25c96eb:
 
     # anon e_b f_happy m_laugh p_pool @ -m_talk "Hahahahaaah!"
-    anon e_b f_happy m_laugh p_pool @ -m_talk "哈哈哈啊哈！"
+    anon e_b f_happy m_laugh p_pool @ -m_talk "哈哈哈哈！"
 
 # game/src/plot/jen_pool.rpy:267
 translate zh_hans jen_pool_once_bb56697e:

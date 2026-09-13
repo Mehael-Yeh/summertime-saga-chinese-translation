@@ -76,7 +76,7 @@ translate zh_hans oli_stall_605c1199:
 # game/src/plot/oli_stall.rpy:36
 translate zh_hans oli_stall_1d1a414f:
     # anon e_sw @ -m_talk "{i}*Gulp*{/i}"
-    anon e_sw @ -m_talk "{i}*咕噜*{/i}"
+    anon e_sw @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/oli_stall.rpy:38
 translate zh_hans oli_stall_17912be3:

@@ -1258,7 +1258,7 @@ translate zh_hans ano15_shop1_lounge1_bc54bd98:
 
 
     # tony f_happy "Ahh, no worries, champ!"
-    tony f_happy "啊哈，没事的，冠军！"
+    tony f_happy "啊，没事的，冠军！"
 
 # game/src/plot/ano15.rpy:361
 translate zh_hans ano15_shop1_lounge1_dff29544:
@@ -1412,7 +1412,7 @@ translate zh_hans ano15_pause_maria_64da70c1:
 
 
     # anon @ -m_talk "{i}*Gulp*{/i}"
-    anon @ -m_talk "{i}*咕噜*{/i}"
+    anon @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/ano15.rpy:429
 translate zh_hans ano15_pause_maria_8ea0b1c2:
@@ -2805,7 +2805,7 @@ translate zh_hans ano15_kitchen_bca9bb63:
 
 
     # tony "Ahh, that's what I'm talkin' about!"
-    tony "啊哈，这就对了！"
+    tony "啊，这就对了！"
 
 # game/src/plot/ano15.rpy:891
 translate zh_hans ano15_kitchen_c1236585:
@@ -4465,7 +4465,7 @@ translate zh_hans ano15_pantry_merge3_81402a65:
 
 
     # tony "Ahh, look at this guy!"
-    tony "啊哈，瞧瞧这小子！"
+    tony "啊，瞧瞧这小子！"
 
 # game/src/plot/ano15.rpy:1489
 translate zh_hans ano15_pantry_merge3_30d681ce:

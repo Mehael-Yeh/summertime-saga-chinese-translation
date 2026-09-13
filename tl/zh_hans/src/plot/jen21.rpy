@@ -748,7 +748,7 @@ translate zh_hans jen21_jenny_reuse_4ec9f8f8:
 translate zh_hans jen21_jenny_reuse_3fd068df:
 
     # jenny e_b f_nervous @ -m_talk "{i}*Gulp*{/i}"
-    jenny e_b f_nervous @ -m_talk "{i}*咕咚*{/i}"
+    jenny e_b f_nervous @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/jen21.rpy:267
 translate zh_hans jen21_jenny_reuse_61f041b9:

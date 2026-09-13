@@ -4177,7 +4177,7 @@ translate zh_hans deb26_shop_merge1_a2b18dca:
 translate zh_hans deb26_shop_merge1_ec7aab19:
 
     # debbie f_shy "{i}*Gulp*{/i} My goodness."
-    debbie f_shy "{i}*咕咚*{/i} 我的天哪。"
+    debbie f_shy "{i}*咽口水*{/i} 我的天哪。"
 
 # game/src/plot/deb26.rpy:1726
 translate zh_hans deb26_shop_merge1_b27e67db:

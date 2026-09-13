@@ -2170,7 +2170,7 @@ translate zh_hans jen10_toy_merge_08ba4025:
 translate zh_hans jen10_toy_merge_7b0afb49:
 
     # jenny e_b f_calm m_laugh @ -m_talk "Hahahahaaah!"
-    jenny e_b f_calm m_laugh @ -m_talk "哈哈哈啊！"
+    jenny e_b f_calm m_laugh @ -m_talk "哈哈哈哈！"
 
 # game/src/plot/jen10.rpy:810
 translate zh_hans jen10_toy_merge_8f6826c5:

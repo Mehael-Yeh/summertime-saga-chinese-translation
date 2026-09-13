@@ -76,7 +76,7 @@ translate zh_hans deb08_lobby_merge_c2c34aa2:
 translate zh_hans deb08_lobby_merge_3ec35101:
 
     # anon f_smug "Ahh, so there's the truth of it."
-    anon f_smug "啊哈，这才是实话吧。"
+    anon f_smug "啊，这才是实话吧。"
 
 # game/src/plot/deb08.rpy:24
 translate zh_hans deb08_lobby_merge_0b3042d7:

@@ -152,7 +152,7 @@ translate zh_hans mar01_maria_64da70c1:
 
 
     # anon @ -m_talk "{i}*Gulp*{/i}"
-    anon @ -m_talk "{i}*咽了口唾沫*{/i}"
+    anon @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/mar01.rpy:51
 translate zh_hans mar01_maria_cd5f63ac:

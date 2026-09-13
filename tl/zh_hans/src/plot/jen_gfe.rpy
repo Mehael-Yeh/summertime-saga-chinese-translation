@@ -700,13 +700,13 @@ translate zh_hans jen_gfe_ready_once_0132306d:
 translate zh_hans jen_gfe_ready_once_98c926eb:
 
     # anon e_w "Okay, okay..."
-    anon e_w "好吧，好吧……"
+    anon e_w "好好好……"
 
 # game/src/plot/jen_gfe.rpy:236
 translate zh_hans jen_gfe_ready_once_77254050:
 
     # jenny "Hehehe!"
-    jenny "嘻嘻嘻！"
+    jenny "嘿嘿嘿！"
 
 # game/src/plot/jen_gfe.rpy:237
 translate zh_hans jen_gfe_ready_once_1990aa1b:
@@ -1192,7 +1192,7 @@ translate zh_hans jen_gfe_jenny_merge1_b2238ffe:
 translate zh_hans jen_gfe_jenny_merge1_b1ddd1b1:
 
     # jenny "Yeah, me too."
-    jenny "是啊，我也是。"
+    jenny "嗯，我也是。"
 
 # game/src/plot/jen_gfe.rpy:447
 translate zh_hans jen_gfe_jenny_merge1_48e3df4b:
@@ -1402,7 +1402,7 @@ translate zh_hans jen_gfe_jenny_alt_d7910a06:
 translate zh_hans jen_gfe_jenny_alt_57c23cb7:
 
     # jenny p_debbie_bed3_missionary_anim_01 "Ahh, fuck!"
-    jenny p_debbie_bed3_missionary_anim_01 "啊哈，操！"
+    jenny p_debbie_bed3_missionary_anim_01 "啊，操！"
 
 # game/src/plot/jen_gfe.rpy:518
 translate zh_hans jen_gfe_jenny_alt_f803d751:
@@ -1432,7 +1432,7 @@ translate zh_hans jen_gfe_jenny_alt_f6c04c30:
 translate zh_hans jen_gfe_jenny_alt_2f289343:
 
     # jenny "Ahh, that's it!"
-    jenny "啊哈，就是这样！"
+    jenny "啊，就是这样！"
 
 # game/src/plot/jen_gfe.rpy:525
 translate zh_hans jen_gfe_jenny_alt_7c572a49:
@@ -1534,7 +1534,7 @@ translate zh_hans jen_gfe_jenny_alt_1bc9d0a3:
 translate zh_hans jen_gfe_jenny_alt_ec387a34:
 
     # anon "{i}*Gulp*{/i} Haah..."
-    anon "{i}*咕噜*{/i} 哈啊……"
+    anon "{i}*咽口水*{/i} 哈啊……"
 
 # game/src/plot/jen_gfe.rpy:560
 translate zh_hans jen_gfe_jenny_alt_d5d56026:
@@ -1798,7 +1798,7 @@ translate zh_hans jen_gfe_jenny_merge2_83db2f31:
 translate zh_hans jen_gfe_jenny_merge2_aa5d20c8:
 
     # anon a_hold_jenny "{i}*Snort*{/i} Zzz."
-    anon a_hold_jenny "{i}*哼鼻*{/i} 呼噜。"
+    anon a_hold_jenny "{i}*鼾声*{/i} 呼噜。"
 
 # game/src/plot/jen_gfe.rpy:637
 translate zh_hans jen_gfe_jenny_merge2_ec9440b8:
@@ -2002,7 +2002,7 @@ translate zh_hans jen_gfe_jenny_creampie2_ded60586:
 translate zh_hans jen_gfe_jenny_creampie2_cfd69aab:
 
     # anon "Heh, whatever."
-    anon "哼，随便吧。"
+    anon "嘿，随你怎么说。"
 
 # game/src/plot/jen_gfe.rpy:726
 translate zh_hans jen_gfe_jenny_rails_e138a60b:

@@ -178,7 +178,7 @@ translate zh_hans tin_dusk_lounge_3448ebd1:
 translate zh_hans tin_dusk_lounge_764c680c:
 
     # anon @ e_wsw f_shy_surprised -m_talk "{i}*Gulp*{/i}"
-    anon @ e_wsw f_shy_surprised -m_talk "{i}*咕嘟*{/i}"
+    anon @ e_wsw f_shy_surprised -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/tin_dusk.rpy:109
 translate zh_hans tin_dusk_lounge_6b2253a5:

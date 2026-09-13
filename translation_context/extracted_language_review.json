@@ -6551,6 +6551,555 @@
       "target": "{i}*叹气*{/i} C'est ridicule.（真是荒谬。）",
       "note": "英文舞台提示误留在原文里，且把“叹气”塞进了法语括注；按规则拆开。",
       "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 1261,
+      "source": "Ahh, no worries, champ!",
+      "before": "啊哈，没事的，冠军！",
+      "target": "啊，没事的，冠军！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 1415,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 2808,
+      "source": "Ahh, that's what I'm talkin' about!",
+      "before": "啊哈，这就对了！",
+      "target": "啊，这就对了！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4468,
+      "source": "Ahh, look at this guy!",
+      "before": "啊哈，瞧瞧这小子！",
+      "target": "啊，瞧瞧这小子！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar05.rpy",
+      "line": 1525,
+      "source": "{i}*Gulp*{/i} Uh huh.",
+      "before": "{i}*吞咽*{/i}嗯哼。",
+      "target": "{i}*咽口水*{/i}嗯哼。",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb08.rpy",
+      "line": 79,
+      "source": "Ahh, so there's the truth of it.",
+      "before": "啊哈，这才是实话吧。",
+      "target": "啊，这才是实话吧。",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb16.rpy",
+      "line": 637,
+      "source": "Ahh, {i}landlady{/i}!",
+      "before": "啊哈，{i}房东太太{/i}！",
+      "target": "啊，{i}房东太太{/i}！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 1945,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 4180,
+      "source": "{i}*Gulp*{/i} My goodness.",
+      "before": "{i}*咕咚*{/i} 我的天哪。",
+      "target": "{i}*咽口水*{/i} 我的天哪。",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_island.rpy",
+      "line": 43,
+      "source": "{i}*Gulp*{/i} What's gotten into you?",
+      "before": "{i}*吞咽*{/i} 你今天怎么了？",
+      "target": "{i}*咽口水*{/i} 你今天怎么了？",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_island.rpy",
+      "line": 145,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*吞咽*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_island.rpy",
+      "line": 259,
+      "source": "{i}*Gulp*{/i} Okay.",
+      "before": "{i}*吞咽*{/i} 好。",
+      "target": "{i}*咽口水*{/i} 好。",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1441,
+      "source": "{i}*Gulp* *Gulp*{/i}",
+      "before": "{i}*咕噜* *咕噜*{/i}",
+      "target": "{i}*咕咚* *咕咚*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽作“*咽口水*”，只有真实吞咽声（口交吞精、带 -m_drink 的饮水）作“*咕咚*”；此处属后者，与 deb23／mar_cook 同源写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1453,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咕咚*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽作“*咽口水*”，只有真实吞咽声（口交吞精、带 -m_drink 的饮水）作“*咕咚*”；此处属后者，与 deb23／mar_cook 同源写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1471,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咕咚*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽作“*咽口水*”，只有真实吞咽声（口交吞精、带 -m_drink 的饮水）作“*咕咚*”；此处属后者，与 deb23／mar_cook 同源写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_pants.rpy",
+      "line": 289,
+      "source": "{i}*Gulp*{/i} T-that's nice.",
+      "before": "{i}*咽了口唾沫*{/i} 真、真不错。",
+      "target": "{i}*咽口水*{/i} 真、真不错。",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "line": 1051,
+      "source": "{i}*Gulp* *Gulp*{/i}",
+      "before": "{i}*咕噜* *咕噜*{/i}",
+      "target": "{i}*咕咚* *咕咚*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽作“*咽口水*”，只有真实吞咽声（口交吞精、带 -m_drink 的饮水）作“*咕咚*”；此处属后者，与 deb23／mar_cook 同源写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "line": 1057,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咕咚*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽作“*咽口水*”，只有真实吞咽声（口交吞精、带 -m_drink 的饮水）作“*咕咚*”；此处属后者，与 deb23／mar_cook 同源写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "line": 1279,
+      "source": "{i}*Gulp* *Gulp*{/i}",
+      "before": "{i}*吞咽* *吞咽*{/i}",
+      "target": "{i}*咕咚* *咕咚*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽作“*咽口水*”，只有真实吞咽声（口交吞精、带 -m_drink 的饮水）作“*咕咚*”；此处属后者，与 deb23／mar_cook 同源写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "line": 1285,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*吞咽*{/i}",
+      "target": "{i}*咕咚*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽作“*咽口水*”，只有真实吞咽声（口交吞精、带 -m_drink 的饮水）作“*咕咚*”；此处属后者，与 deb23／mar_cook 同源写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "line": 1573,
+      "source": "{i}*Gulp*{/i} L-let's just have sex, okay?",
+      "before": "{i}*吞咽*{/i} 我、我们还是做爱吧，好吗？",
+      "target": "{i}*咽口水*{/i} 我、我们还是做爱吧，好吗？",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "line": 1669,
+      "source": "You're such a... aahh!!",
+      "before": "你真是……啊哈！！",
+      "target": "你真是……啊啊！！",
+      "note": "此处 aahh 是被打断的呻吟，非 Aha 的“啊哈”；改为拖长的“啊啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "line": 2407,
+      "source": "{i}*Gulp*{/i} Y-yeah, I think so.",
+      "before": "{i}*咕噜*{/i} 是、是的，应该好了。",
+      "target": "{i}*咕咚*{/i} 是、是的，应该好了。",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽作“*咽口水*”，只有真实吞咽声（口交吞精、带 -m_drink 的饮水）作“*咕咚*”；此处属后者，与 deb23／mar_cook 同源写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "line": 3001,
+      "source": "{i}*Gulp*{/i} I like that very much.",
+      "before": "{i}*吞咽*{/i} 我真的很喜欢。",
+      "target": "{i}*咽口水*{/i} 我真的很喜欢。",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_shower.rpy",
+      "line": 3145,
+      "source": "{i}*Gulp*{/i} L-let's just get you taken care of, yeah?",
+      "before": "{i}*吞咽*{/i} 我、我们还是先让你舒服一下，好吗？",
+      "target": "{i}*咽口水*{/i} 我、我们还是先让你舒服一下，好吗？",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 631,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1927,
+      "source": "{i}*Gulp*{/i} Y-yes.",
+      "before": "{i}*吞咽*{/i} 是、是的。",
+      "target": "{i}*咽口水*{/i} 是、是的。",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2395,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4003,
+      "source": "{i}*Gulp*{/i} Are you close?",
+      "before": "{i}*咕噜*{/i}快要射了吗？",
+      "target": "{i}*咽口水*{/i}快要射了吗？",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4051,
+      "source": "Ahh, sweetie!!",
+      "before": "啊哈，亲爱的！！",
+      "target": "啊，亲爱的！！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_visit.rpy",
+      "line": 199,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕咚*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 2173,
+      "source": "Hahahahaaah!",
+      "before": "哈哈哈啊！",
+      "target": "哈哈哈哈！",
+      "note": "笑声统一：Haha 系列一律用纯“哈”重复，不再夹入“啊／啊哈”（全库 140 余处同源写作“哈哈哈”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 751,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕咚*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen24.rpy",
+      "line": 1381,
+      "source": "FUUUUCK...",
+      "before": "操——……",
+      "target": "操你——……",
+      "note": "跨行拆字玩笑：FUUUUCK... / ... YYOOOUUUU!! 为同一句脏话被喘断拆成两行；顺中文断句后作“操你——……”“……妈！！”，保留原句被切断的效果。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen24.rpy",
+      "line": 1387,
+      "source": "... YYOOOUUUU!!",
+      "before": "……你！！",
+      "target": "……妈的！！",
+      "note": "跨行拆字玩笑：FUUUUCK... / ... YYOOOUUUU!! 为同一句脏话被喘断拆成两行；顺中文断句后作“操你——……”“……妈！！”，保留原句被切断的效果。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 1717,
+      "source": "Hahahaah!",
+      "before": "哈哈哈啊！",
+      "target": "哈哈哈！",
+      "note": "笑声统一：Haha 系列一律用纯“哈”重复，不再夹入“啊／啊哈”（全库 140 余处同源写作“哈哈哈”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 6175,
+      "source": "Hahahaah!",
+      "before": "哈哈哈啊哈！",
+      "target": "哈哈哈！",
+      "note": "此处 aahh 是被打断的呻吟，非 Aha 的“啊哈”；改为拖长的“啊啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 703,
+      "source": "Okay, okay...",
+      "before": "好吧，好吧……",
+      "target": "好好好……",
+      "note": "同一文件的重复分支（ready_once／ready_stay）同源句应同形，统一为“好好好……”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 709,
+      "source": "Hehehe!",
+      "before": "嘻嘻嘻！",
+      "target": "嘿嘿嘿！",
+      "note": "同源句在同一文件内的漂移收敛：Hehehe! 全库主流作“嘿嘿嘿！”（49 处中 45 处）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 1195,
+      "source": "Yeah, me too.",
+      "before": "是啊，我也是。",
+      "target": "嗯，我也是。",
+      "note": "同一文件 merge1／merge2 同源句应同形，按全库多数（14 处中 7 处）统一为“嗯，我也是。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 1405,
+      "source": "Ahh, fuck!",
+      "before": "啊哈，操！",
+      "target": "啊，操！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 1435,
+      "source": "Ahh, that's it!",
+      "before": "啊哈，就是这样！",
+      "target": "啊，就是这样！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 1537,
+      "source": "{i}*Gulp*{/i} Haah...",
+      "before": "{i}*咕噜*{/i} 哈啊……",
+      "target": "{i}*咽口水*{/i} 哈啊……",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 1801,
+      "source": "{i}*Snort*{/i} Zzz.",
+      "before": "{i}*哼鼻*{/i} 呼噜。",
+      "target": "{i}*鼾声*{/i} 呼噜。",
+      "note": "熟睡鼾声语境：*Snort* 此处不是哼笑，按“*鼾声*”重写，避免“哼鼻”这种生造词。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 2005,
+      "source": "Heh, whatever.",
+      "before": "哼，随便吧。",
+      "target": "嘿，随你怎么说。",
+      "note": "同一文件两处同源句 Heh, whatever. 收敛为一句：保留 Heh 的轻佻语气作“嘿，随你怎么说。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_pool.rpy",
+      "line": 739,
+      "source": "Hahahahaaah!",
+      "before": "哈哈哈啊哈！",
+      "target": "哈哈哈哈！",
+      "note": "此处 aahh 是被打断的呻吟，非 Aha 的“啊哈”；改为拖长的“啊啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 85,
+      "source": "Ahh, you so rucky!",
+      "before": "啊哈，你运气真好！",
+      "target": "啊，你运气真好！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 127,
+      "source": "Ahh, you so rucky!",
+      "before": "啊哈，你运气真好！",
+      "target": "啊，你运气真好！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar01.rpy",
+      "line": 155,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咽了口唾沫*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 728,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕嘟*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1826,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 249,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1770,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕嘟*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 302,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*吞咽*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 3237,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel06.rpy",
+      "line": 1354,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕嘟*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/oli_stall.rpy",
+      "line": 79,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕噜*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_dusk.rpy",
+      "line": 181,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕嘟*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ton_baby.rpy",
+      "line": 337,
+      "source": "Aaahhh!",
+      "before": "啊哈！",
+      "target": "哈哈哈哈！",
+      "note": "此处 aahh 是被打断的呻吟，非 Aha 的“啊哈”；改为拖长的“啊啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "line": 457,
+      "source": "Ahahahahaah!",
+      "before": "啊哈哈哈哈！",
+      "target": "哈哈哈哈哈！",
+      "note": "Ah/Ahh/Aah 是呻吟、呼唤或感叹，错误并入了 Aha 的“啊哈”；按全库主流（335 处 Ah/Ahh 中 300 余处作“啊”）统一为“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv05.rpy",
+      "line": 301,
+      "source": "{i}*Gulp*{/i}",
+      "before": "{i}*咕嘟*{/i}",
+      "target": "{i}*咽口水*{/i}",
+      "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
+      "revision": "bilingual-review-2026-09-13"
     }
   ],
   "reading_batches": [

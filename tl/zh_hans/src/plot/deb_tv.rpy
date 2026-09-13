@@ -628,7 +628,7 @@ translate zh_hans deb_tv_boobjob3_88ead236:
 translate zh_hans deb_tv_boobjob3_144745e0:
 
     # debbie @ -m_talk "{i}*Gulp*{/i}"
-    debbie @ -m_talk "{i}*咕噜*{/i}"
+    debbie @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/deb_tv.rpy:296
 translate zh_hans deb_tv_boobjob3_cba8e61a:
@@ -1924,7 +1924,7 @@ translate zh_hans deb_tv_entry2_bf61cf6c:
 translate zh_hans deb_tv_entry2_1d162b20:
 
     # debbie s_25 "{i}*Gulp*{/i} Y-yes."
-    debbie s_25 "{i}*吞咽*{/i} 是、是的。"
+    debbie s_25 "{i}*咽口水*{/i} 是、是的。"
 
 # game/src/plot/deb_tv.rpy:769
 translate zh_hans deb_tv_entry2_32c9ed15:
@@ -2392,7 +2392,7 @@ translate zh_hans deb_tv_entry3_c38ba559:
 translate zh_hans deb_tv_entry3_db0c8030:
 
     # debbie e_sse f_shy of_blush @ -m_talk "{i}*Gulp*{/i}"
-    debbie e_sse f_shy of_blush @ -m_talk "{i}*咕噜*{/i}"
+    debbie e_sse f_shy of_blush @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/deb_tv.rpy:921
 translate zh_hans deb_tv_entry3_18c47445:
@@ -4000,7 +4000,7 @@ translate zh_hans deb_tv_play3_f52a6908:
 translate zh_hans deb_tv_play3_30cb5357:
 
     # debbie e_w "{i}*Gulp*{/i} Are you close?"
-    debbie e_w "{i}*咕噜*{/i}快要射了吗？"
+    debbie e_w "{i}*咽口水*{/i}快要射了吗？"
 
 # game/src/plot/deb_tv.rpy:1447
 translate zh_hans deb_tv_play3_ef7149e2:
@@ -4048,7 +4048,7 @@ translate zh_hans deb_tv_play3_6332fed0:
 translate zh_hans deb_tv_play3_1a0012a1:
 
     # debbie "Ahh, sweetie!!"
-    debbie "啊哈，亲爱的！！"
+    debbie "啊，亲爱的！！"
 
 # game/src/plot/deb_tv.rpy:1461
 translate zh_hans deb_tv_play3_3606523b:

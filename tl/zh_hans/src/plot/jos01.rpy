@@ -82,7 +82,7 @@ translate zh_hans jos01_yoo_a5f4912b:
 translate zh_hans jos01_yoo_1e4ad65a:
 
     # yoo a_fists_low "Ahh, you so rucky!"
-    yoo a_fists_low "啊哈，你运气真好！"
+    yoo a_fists_low "啊，你运气真好！"
 
 # game/src/plot/jos01.rpy:41
 translate zh_hans jos01_yoo_b699e742:
@@ -124,7 +124,7 @@ translate zh_hans jos01_yoo_8a491b52:
 translate zh_hans jos01_yoo_b4a83e59:
 
     # yoo f_smug "Ahh, you so rucky!"
-    yoo f_smug "啊哈，你运气真好！"
+    yoo f_smug "啊，你运气真好！"
 
 # game/src/plot/jos01.rpy:53
 translate zh_hans jos01_yoo_5496a781:

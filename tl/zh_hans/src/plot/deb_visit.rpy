@@ -196,7 +196,7 @@ translate zh_hans deb_visit_2431d8a3:
 translate zh_hans deb_visit_d7e844c1:
 
     # anon e_ose @ -m_talk "{i}*Gulp*{/i}"
-    anon e_ose @ -m_talk "{i}*咕咚*{/i}"
+    anon e_ose @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/deb_visit.rpy:154
 translate zh_hans deb_visit_2e1bc54b:

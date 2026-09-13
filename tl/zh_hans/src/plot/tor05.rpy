@@ -454,7 +454,7 @@ translate zh_hans tor05_take_annie2_cd603d26:
 translate zh_hans tor05_take_annie2_4d930642:
 
     # annie "Ahahahahaah!"
-    annie "啊哈哈哈哈！"
+    annie "哈哈哈哈哈！"
 
 # game/src/plot/tor05.rpy:224
 translate zh_hans tor05_take_annie2_e16437bf:

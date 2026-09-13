@@ -3355,7 +3355,7 @@
     {
       "file": "tl/zh_hans/src/plot/jen24.rpy",
       "source": "FUUUUCK...",
-      "target": "操——……",
+      "target": "操你——……",
       "id": "jen24_jenny_alt_c0afa0e3"
     },
     {
@@ -10264,6 +10264,12 @@
       "source": "Ffffuuu-",
       "target": "操操操——",
       "id": "jen14_dining_alt_60e6cb06"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen24.rpy",
+      "source": "... YYOOOUUUU!!",
+      "target": "……妈的！！",
+      "id": "jen24_jenny_alt_7d700a05"
     }
   ],
   "updated": "2026-09-13"

@@ -246,7 +246,7 @@ translate zh_hans mar_couch_dusk1_738e8caf:
 
 
     # anon e_w @ f_shy_surprised -m_talk "{i}*Gulp*{/i}"
-    anon e_w @ f_shy_surprised -m_talk "{i}*咕噜*{/i}"
+    anon e_w @ f_shy_surprised -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/mar_couch.rpy:127
 translate zh_hans mar_couch_dusk1_9ceea467:
@@ -1767,7 +1767,7 @@ translate zh_hans mar_couch_noon1_735c2101:
 translate zh_hans mar_couch_noon1_859736a5:
 
     # anon f_shy_surprised @ -m_talk "{i}*Gulp*{/i}"
-    anon f_shy_surprised @ -m_talk "{i}*咕嘟*{/i}"
+    anon f_shy_surprised @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/mar_couch.rpy:729
 translate zh_hans mar_couch_noon1_a9c55c63:

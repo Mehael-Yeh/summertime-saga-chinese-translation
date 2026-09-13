@@ -725,7 +725,7 @@ translate zh_hans mar_baby_costume_8ab4cb73:
 translate zh_hans mar_baby_costume_85e0ccf2:
 
     # anon f_happy_surprised @ -m_talk "{i}*Gulp*{/i}"
-    anon f_happy_surprised @ -m_talk "{i}*咕嘟*{/i}"
+    anon f_happy_surprised @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/mar_baby.rpy:356
 translate zh_hans mar_baby_costume_f274a09f:
@@ -1823,7 +1823,7 @@ translate zh_hans mar_baby_rest_misc1_859736a5:
 
 
     # anon f_shy_surprised @ -m_talk "{i}*Gulp*{/i}"
-    anon f_shy_surprised @ -m_talk "{i}*咕噜*{/i}"
+    anon f_shy_surprised @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/mar_baby.rpy:887
 translate zh_hans mar_baby_rest_misc1_e0c04eb7:

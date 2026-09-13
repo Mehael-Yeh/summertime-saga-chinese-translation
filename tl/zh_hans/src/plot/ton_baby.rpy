@@ -334,7 +334,7 @@ translate zh_hans ton_baby_belly_misc1_37f58233:
 translate zh_hans ton_baby_belly_misc1_fe379108:
 
     # tony a_point f_happy @ e_b m_laugh "Aaahhh!"
-    tony a_point f_happy @ e_b m_laugh "啊哈！"
+    tony a_point f_happy @ e_b m_laugh "哈哈哈哈！"
 
 # game/src/plot/ton_baby.rpy:341
 translate zh_hans ton_baby_belly_misc1_cd896496:

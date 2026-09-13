@@ -3234,7 +3234,7 @@ translate zh_hans mel02_outro_7d35e67a:
 
 
     # anon "{i}*Gulp*{/i}"
-    anon "{i}*咕噜*{/i}"
+    anon "{i}*咽口水*{/i}"
 
 # game/src/plot/mel02.rpy:1569
 translate zh_hans mel02_outro_d54f6261:

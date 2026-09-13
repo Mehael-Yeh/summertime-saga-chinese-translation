@@ -299,7 +299,7 @@ translate zh_hans mar_dark_maria_merge1_7d35e67a:
 
 
     # anon "{i}*Gulp*{/i}"
-    anon "{i}*吞咽*{/i}"
+    anon "{i}*咽口水*{/i}"
 
 # game/src/plot/mar_dark.rpy:195
 translate zh_hans mar_dark_maria_merge1_35f4815b:

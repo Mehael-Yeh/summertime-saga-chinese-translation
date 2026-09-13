@@ -1048,13 +1048,13 @@ translate zh_hans deb_shower_blowjob1b_0cf4d269:
 translate zh_hans deb_shower_blowjob1b_99d1bda2:
 
     # debbie @ -m_talk "{i}*Gulp* *Gulp*{/i}"
-    debbie @ -m_talk "{i}*咕噜* *咕噜*{/i}"
+    debbie @ -m_talk "{i}*咕咚* *咕咚*{/i}"
 
 # game/src/plot/deb_shower.rpy:433
 translate zh_hans deb_shower_blowjob1b_e77192aa:
 
     # debbie a_hand_lips od_wet p_debbie_bath_bj -b_anon @ -m_talk "{i}*Gulp*{/i}"
-    debbie a_hand_lips od_wet p_debbie_bath_bj -b_anon @ -m_talk "{i}*咕噜*{/i}"
+    debbie a_hand_lips od_wet p_debbie_bath_bj -b_anon @ -m_talk "{i}*咕咚*{/i}"
 
 # game/src/plot/deb_shower.rpy:434
 translate zh_hans deb_shower_blowjob1b_b9b6a499:
@@ -1276,13 +1276,13 @@ translate zh_hans deb_shower_blowjob2_0cf4d269:
 translate zh_hans deb_shower_blowjob2_99d1bda2:
 
     # debbie @ -m_talk "{i}*Gulp* *Gulp*{/i}"
-    debbie @ -m_talk "{i}*吞咽* *吞咽*{/i}"
+    debbie @ -m_talk "{i}*咕咚* *咕咚*{/i}"
 
 # game/src/plot/deb_shower.rpy:520
 translate zh_hans deb_shower_blowjob2_e77192aa:
 
     # debbie a_hand_lips od_wet p_debbie_bath_bj -b_anon @ -m_talk "{i}*Gulp*{/i}"
-    debbie a_hand_lips od_wet p_debbie_bath_bj -b_anon @ -m_talk "{i}*吞咽*{/i}"
+    debbie a_hand_lips od_wet p_debbie_bath_bj -b_anon @ -m_talk "{i}*咕咚*{/i}"
 
 # game/src/plot/deb_shower.rpy:521
 translate zh_hans deb_shower_blowjob2_543cd4a5:
@@ -1570,7 +1570,7 @@ translate zh_hans deb_shower_deny2_20daa2a8:
 translate zh_hans deb_shower_deny2_a341a9ef:
 
     # debbie "{i}*Gulp*{/i} L-let's just have sex, okay?"
-    debbie "{i}*吞咽*{/i} 我、我们还是做爱吧，好吗？"
+    debbie "{i}*咽口水*{/i} 我、我们还是做爱吧，好吗？"
 
 # game/src/plot/deb_shower.rpy:655
 translate zh_hans deb_shower_deny2_56d0d031:
@@ -1666,7 +1666,7 @@ translate zh_hans deb_shower_foreplay_5596d8e4:
 translate zh_hans deb_shower_foreplay_3c030a1d:
 
     # debbie e_b f_shy m_lip "You're such a... aahh!!"
-    debbie e_b f_shy m_lip "你真是……啊哈！！"
+    debbie e_b f_shy m_lip "你真是……啊啊！！"
 
 # game/src/plot/deb_shower.rpy:693
 translate zh_hans deb_shower_foreplay_f09bdb2d:
@@ -2404,7 +2404,7 @@ translate zh_hans deb_shower_handjob2_f9097381:
 translate zh_hans deb_shower_handjob2_b50ba2ad:
 
     # anon d_soft e_w f_shy -m_drink "{i}*Gulp*{/i} Y-yeah, I think so."
-    anon d_soft e_w f_shy -m_drink "{i}*咕噜*{/i} 是、是的，应该好了。"
+    anon d_soft e_w f_shy -m_drink "{i}*咕咚*{/i} 是、是的，应该好了。"
 
 # game/src/plot/deb_shower.rpy:953
 translate zh_hans deb_shower_handjob2_ac4caad7:
@@ -2998,7 +2998,7 @@ translate zh_hans deb_shower_peek4_4a6200e3:
 translate zh_hans deb_shower_peek4_1795bab6:
 
     # debbie "{i}*Gulp*{/i} I like that very much."
-    debbie "{i}*吞咽*{/i} 我真的很喜欢。"
+    debbie "{i}*咽口水*{/i} 我真的很喜欢。"
 
 # game/src/plot/deb_shower.rpy:1242
 translate zh_hans deb_shower_peek4_6c7ac28e:
@@ -3142,7 +3142,7 @@ translate zh_hans deb_shower_peek4_c73e51fe:
 translate zh_hans deb_shower_merge1_12f204d9:
 
     # debbie e_w f_horny m_idle "{i}*Gulp*{/i} L-let's just get you taken care of, yeah?"
-    debbie e_w f_horny m_idle "{i}*吞咽*{/i} 我、我们还是先让你舒服一下，好吗？"
+    debbie e_w f_horny m_idle "{i}*咽口水*{/i} 我、我们还是先让你舒服一下，好吗？"
 
 # game/src/plot/deb_shower.rpy:1302
 translate zh_hans deb_shower_merge1_bfdc8475:

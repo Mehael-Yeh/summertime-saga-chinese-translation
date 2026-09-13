@@ -1438,7 +1438,7 @@ translate zh_hans deb_mall_debbie_blowjob_1a03f95e:
 translate zh_hans deb_mall_debbie_blowjob_373feb61:
 
     # debbie "{i}*Gulp* *Gulp*{/i}"
-    debbie "{i}*咕噜* *咕噜*{/i}"
+    debbie "{i}*咕咚* *咕咚*{/i}"
 
 # game/src/plot/deb_mall.rpy:601
 translate zh_hans deb_mall_debbie_blowjob_91207b03_1:
@@ -1450,7 +1450,7 @@ translate zh_hans deb_mall_debbie_blowjob_91207b03_1:
 translate zh_hans deb_mall_debbie_blowjob_c8fc2a17:
 
     # debbie "{i}*Gulp*{/i}"
-    debbie "{i}*咕噜*{/i}"
+    debbie "{i}*咕咚*{/i}"
 
 # game/src/plot/deb_mall.rpy:604
 translate zh_hans deb_mall_debbie_blowjob_49f7297d:
@@ -1468,7 +1468,7 @@ translate zh_hans deb_mall_debbie_blowjob_be8babdc:
 translate zh_hans deb_mall_debbie_blowjob_f1325d93:
 
     # debbie @ e_b f_happy -m_talk "{i}*Gulp*{/i}"
-    debbie @ e_b f_happy -m_talk "{i}*咕噜*{/i}"
+    debbie @ e_b f_happy -m_talk "{i}*咕咚*{/i}"
 
 # game/src/plot/deb_mall.rpy:610
 translate zh_hans deb_mall_debbie_blowjob_67415dde:

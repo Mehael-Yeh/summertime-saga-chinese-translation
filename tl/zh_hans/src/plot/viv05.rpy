@@ -298,7 +298,7 @@ translate zh_hans viv05_office5_e50115af:
 translate zh_hans viv05_office5_7d35e67a:
 
     # anon "{i}*Gulp*{/i}"
-    anon "{i}*咕嘟*{/i}"
+    anon "{i}*咽口水*{/i}"
 
 # game/src/plot/viv05.rpy:166
 translate zh_hans viv05_office5_2db708d5:

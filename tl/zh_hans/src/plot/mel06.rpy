@@ -1351,7 +1351,7 @@ translate zh_hans mel06_office4_ab733e7a:
 # game/src/plot/mel06.rpy:743
 translate zh_hans mel06_office4_7d35e67a:
     # anon "{i}*Gulp*{/i}"
-    anon "{i}*咕嘟*{/i}"
+    anon "{i}*咽口水*{/i}"
 
 # game/src/plot/mel06.rpy:744
 translate zh_hans mel06_office4_2394a95f:

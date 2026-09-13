@@ -286,7 +286,7 @@ translate zh_hans deb_pants_merge_2d716e85:
 translate zh_hans deb_pants_merge_2be88870:
 
     # debbie "{i}*Gulp*{/i} T-that's nice."
-    debbie "{i}*咽了口唾沫*{/i} 真、真不错。"
+    debbie "{i}*咽口水*{/i} 真、真不错。"
 
 # game/src/plot/deb_pants.rpy:122
 translate zh_hans deb_pants_merge_05ec2bdb:

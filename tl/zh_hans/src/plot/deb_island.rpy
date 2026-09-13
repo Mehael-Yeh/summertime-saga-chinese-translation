@@ -40,7 +40,7 @@ translate zh_hans deb_island_6f718cdb:
 translate zh_hans deb_island_a31b57bb:
 
     # debbie "{i}*Gulp*{/i} What's gotten into you?"
-    debbie "{i}*吞咽*{/i} 你今天怎么了？"
+    debbie "{i}*咽口水*{/i} 你今天怎么了？"
 
 # game/src/plot/deb_island.rpy:40
 translate zh_hans deb_island_c00b0a49:
@@ -142,7 +142,7 @@ translate zh_hans deb_island_058bd768:
 translate zh_hans deb_island_144745e0:
 
     # debbie @ -m_talk "{i}*Gulp*{/i}"
-    debbie @ -m_talk "{i}*吞咽*{/i}"
+    debbie @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/deb_island.rpy:91
 translate zh_hans deb_island_0da539d2:
@@ -256,7 +256,7 @@ translate zh_hans deb_island_8bef7d71:
 translate zh_hans deb_island_3817ca57:
 
     # debbie "{i}*Gulp*{/i} Okay."
-    debbie "{i}*吞咽*{/i} 好。"
+    debbie "{i}*咽口水*{/i} 好。"
 
 # game/src/plot/deb_island.rpy:164
 translate zh_hans deb_island_caf97c59:
