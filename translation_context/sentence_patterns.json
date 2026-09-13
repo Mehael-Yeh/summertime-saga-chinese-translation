@@ -615,7 +615,7 @@
     {
       "file": "tl/zh_hans/extracted/lewd.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] again post-boobjob.",
-      "target": "隆胸手术后，在客厅看黄片再次被[saga.cast.debbie]抓个正着。"
+      "target": "与[saga.cast.debbie]乳交之后，再次在客厅看色情片被她抓到。"
     },
     {
       "file": "tl/zh_hans/extracted/lewd.rpy",
@@ -2968,7 +2968,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=pink}I mean, sure. He's a {pen=red}{size=-2}{u}doofus{/u}{/size}{/pen} but he'll pretty much do{/pen}{space=30}",
-      "target": "{pen=pink}他是个{pen=red}{size=-2}{u}傻瓜{/u}{/size}{/pen}没错，但我让他做什么，{/pen}{space=30}"
+      "target": "{pen=pink}他是个{pen=red}{size=-2}{u}傻瓜{/u}{/size}{/pen}没错，但基本上我让他做什么，{/pen}{space=30}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3038,7 +3038,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=pink}anyone's dick before, but today I sucked {pen=indigo}{b}[saga.cast.anon]{/b}'s{/pen}...{/pen}",
-      "target": "{pen=pink}给任何人口交过，今天却给了{pen=indigo}{b}[saga.cast.anon]{/b}{/pen}……{/pen}"
+      "target": "{pen=pink}给任何人口交过，今天却给{pen=indigo}{b}[saga.cast.anon]{/b}{/pen}口了……{/pen}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3063,12 +3063,12 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{space=100}{pen=purple}{b}thrusting{/b}{/pen} {pen=indigo}deep{/pen} {pen=neonpink}inside me!{/pen}",
-      "target": "{space=100}{pen=purple}{b}在我体内{/b}{/pen}{pen=indigo}深深地{/pen}{pen=neonpink}抽插！{/pen}"
+      "target": "{space=100}{pen=neonpink}在我体内{/pen}{pen=indigo}深深地{/pen}{pen=purple}{b}抽插{/b}{/pen}！"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=blue}It was{/pen} {pen=purple}{b}SO{/b}{/pen} {pen=pink}{b}FUCKING{/b}{/pen} {pen=neonpink}{b}HAWT!{/b}{/pen}{space=40}",
-      "target": "{pen=blue}太{/pen}{pen=purple}{b}他{/b}{/pen}{pen=pink}{b}妈{/b}{/pen}{pen=neonpink}{b}刺激了！{/b}{/pen}{space=40}"
+      "target": "{pen=blue}那{/pen}{pen=purple}{b}他妈的{/b}{/pen}{pen=pink}{b}太{/b}{/pen}{pen=neonpink}{b}刺激了！{/b}{/pen}{space=40}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3078,7 +3078,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=purple}{pen=indigo}{b}[saga.cast.anon]{/b}{/pen} and I had {pen=neonpink}sex{/pen} today on stream!{/pen}{space=70}",
-      "target": "{pen=purple}{pen=indigo}{b}[saga.cast.anon]{/b}{/pen}今天和我在{pen=neonpink}直播里做爱了{/pen}！{/pen}{space=70}"
+      "target": "{pen=purple}{pen=indigo}{b}[saga.cast.anon]{/b}{/pen}今天在直播里和我{pen=neonpink}做爱{/pen}了！{/pen}{space=70}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3276,7 +3276,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=pink}Hopefully they will take my mind off {pen=indigo}{b}[saga.cast.anon]{/b}'s {rb}{u}cock{/u}{/rb}{art}{pen=pink}¦D~~~{/pen}{/art}{/pen}.{/pen}{space=55}{rt}{pen=purple}{size=-10}{b}D{/b}{/size}roooo{size=-10}{b}L!{/b}{/size}{/pen}{/rt}",
-      "target": "{pen=pink}希望它们能让我不再想{pen=indigo}{b}[saga.cast.anon]{/b}的{rb}{u}鸡巴{/u}{/rb}{art}{pen=pink}¦D~~~{/pen}{/art}{/pen}.{/pen}{space=55}{rt}{pen=purple}{size=-10}{b}口{/b}{/size}水直{size=-10}{b}流！{/b}{/size}{/pen}{/rt}"
+      "target": "{pen=pink}希望它们能让我不再想{pen=indigo}{b}[saga.cast.anon]{/b}的{rb}{u}鸡巴{/u}{/rb}{art}{pen=pink}¦D~~~{/pen}{/art}{/pen}。{/pen}{space=55}{rt}{pen=purple}{size=-10}{b}口{/b}{/size}水直{size=-10}{b}流！{/b}{/size}{/pen}{/rt}"
     },
     {
       "file": "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy",
@@ -10089,17 +10089,17 @@
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
       "source": "Did you really just ask me that?",
-      "target": "你刚才真问了我这个？"
+      "target": "你真问得出口啊？"
     },
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
       "source": "Well, I am.",
-      "target": "可不就是嘛。"
+      "target": "那当然。"
     },
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
       "source": "I have a proposition for you.",
-      "target": "我有个提议想跟你谈谈。"
+      "target": "我有个提议。"
     },
     {
       "file": "tl/zh_hans/src/plot/jen16.rpy",
@@ -10119,7 +10119,7 @@
     {
       "file": "tl/zh_hans/src/plot/jen19.rpy",
       "source": "You don't have to be such a bitch about it.",
-      "target": "你也犯不着为这事这么刻薄吧。"
+      "target": "你也用不着为这事骂得这么难听吧。"
     },
     {
       "file": "tl/zh_hans/src/plot/jen20.rpy",

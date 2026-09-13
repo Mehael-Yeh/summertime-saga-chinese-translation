@@ -924,3 +924,10 @@ blueberry glaze为甜甜圈蓝莓糖霜，与strawberry glaze一致；Outlood Ex
 
 ## 2026-09-13 本地文字阅读收尾
 Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。Electoclit为ElectroClit的源文拼写变体，译电击阴蒂棒，保留英文old键原样。
+
+## Debbie 线进度与画廊条件
+
+| 英文 | 中文 | 说明 |
+| --- | --- | --- |
+| boobjob | 乳交 | Debbie 线的进度档位与乳交场景标签，脚本与 kiss、handjob 等按顺序比较，对应 deb_tv.boobjob3/4；不是隆胸手术 |
+| post-boobjob | 乳交之后 | 画廊提示的前置事件条件，表示该事件已完成；不得改写为当前追加动作，也不得译作“隆胸手术后” |

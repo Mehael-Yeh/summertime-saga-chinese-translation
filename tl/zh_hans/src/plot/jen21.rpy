@@ -700,7 +700,7 @@ translate zh_hans jen21_jenny_reuse_549601aa:
 translate zh_hans jen21_jenny_reuse_5d69daa2:
 
     # anon "Jrrnnnneeeee!"
-    anon "嗯啊啊啊啊啊！"
+    anon "Jenny——嗯啊啊啊！"
 
 # game/src/plot/jen21.rpy:242
 translate zh_hans jen21_jenny_reuse_e65ad700:
@@ -712,13 +712,13 @@ translate zh_hans jen21_jenny_reuse_e65ad700:
 translate zh_hans jen21_jenny_reuse_8ecc8e29:
 
     # anon "Mmy grrn krrrwwws!!"
-    anon "我的天，太爽了！！"
+    anon "嗯唔……我的天！！"
 
 # game/src/plot/jen21.rpy:248
 translate zh_hans jen21_jenny_reuse_8993e645:
 
     # anon "Jrrnnnneeeee!!!"
-    anon "嗯啊啊啊啊啊！！！"
+    anon "Jenny——嗯啊啊啊！！！"
 
 # game/src/plot/jen21.rpy:250
 translate zh_hans jen21_jenny_reuse_f1d0d33f:
@@ -772,7 +772,7 @@ translate zh_hans jen21_jenny_reuse_474d28bb:
 translate zh_hans jen21_jenny_reuse_011af0f0:
 
     # jenny p_bed_mount_away "Eugh, I swallowed a bunch of it!"
-    jenny p_bed_mount_away "恶，我还吞下去一大口！"
+    jenny p_bed_mount_away "呃，我吞下去了一大口！"
 
 # game/src/plot/jen21.rpy:274
 translate zh_hans jen21_jenny_reuse_e35bd11d:

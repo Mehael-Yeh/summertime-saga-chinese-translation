@@ -16,25 +16,25 @@
     {
       "file": "tl/zh_hans/extracted/lewd.rpy",
       "line": 126,
-      "pair_sha256": "159ee0dcd5257871edc6b61ca09ae38b58f64b01e5a00378b1837aede72db842",
+      "pair_sha256": "46200790d74453282ea95d48ed2c01dd7cce67e1f9cec0c92249a8d9606b05f1",
       "origins": [
         "registered_issue"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "159ee0dcd5257871edc6b61ca09ae38b58f64b01e5a00378b1837aede72db842",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "46200790d74453282ea95d48ed2c01dd7cce67e1f9cec0c92249a8d9606b05f1",
       "previous_queue_pair_sha256": "159ee0dcd5257871edc6b61ca09ae38b58f64b01e5a00378b1837aede72db842"
     },
     {
       "file": "tl/zh_hans/extracted/lewd.rpy",
       "line": 146,
-      "pair_sha256": "7d933d91a60f9946897ea64607a308239986148dcbd9210b5266ae10312edda6",
+      "pair_sha256": "aaf094651e5f6a83fe2007fe7f2870a73ddf2e7f48b647c07dd20447a023e626",
       "origins": [
         "registered_issue"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "7d933d91a60f9946897ea64607a308239986148dcbd9210b5266ae10312edda6",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "aaf094651e5f6a83fe2007fe7f2870a73ddf2e7f48b647c07dd20447a023e626",
       "previous_queue_pair_sha256": "7d933d91a60f9946897ea64607a308239986148dcbd9210b5266ae10312edda6"
     },
     {
@@ -47,7 +47,7 @@
       "status": "ordinary_text_corrected",
       "proofreading_status": "corrected_and_context_reread",
       "proofreading_pair_sha256": "fb13e0e6bb2cbf3f26ddd81c1f57f008174c45a1593a1666a4caa0263712062e",
-      "previous_queue_pair_sha256": "f736a5797ca4122199d5cc0a6b90ec4f01fe7b7a45866b4c7704f2c1c56945be"
+      "previous_queue_pair_sha256": "fb13e0e6bb2cbf3f26ddd81c1f57f008174c45a1593a1666a4caa0263712062e"
     },
     {
       "file": "tl/zh_hans/src/plot/jen14.rpy",
@@ -59,7 +59,7 @@
       "status": "ordinary_text_corrected",
       "proofreading_status": "corrected_and_context_reread",
       "proofreading_pair_sha256": "f12e1181e7803b7e0b2e4b09bf5a193bf4226326c96a536b7b36993c2747fe39",
-      "previous_queue_pair_sha256": "5a64ad8c52772553a36077af0439f36f1e4cca8a7eeed73c8ad89f0272005128"
+      "previous_queue_pair_sha256": "f12e1181e7803b7e0b2e4b09bf5a193bf4226326c96a536b7b36993c2747fe39"
     },
     {
       "file": "tl/zh_hans/src/plot/jen14.rpy",
@@ -71,7 +71,7 @@
       "status": "ordinary_text_corrected",
       "proofreading_status": "corrected_and_context_reread",
       "proofreading_pair_sha256": "8d455ad3b030ceb8968c60233ad0d8bc24b548e504e28f1152a64f441d924c15",
-      "previous_queue_pair_sha256": "ca3b5e6691d107b629cf6baa62ff537dac44e6e10c68cbee01ea84a8c808a112"
+      "previous_queue_pair_sha256": "8d455ad3b030ceb8968c60233ad0d8bc24b548e504e28f1152a64f441d924c15"
     },
     {
       "file": "tl/zh_hans/src/plot/jen14.rpy",
@@ -83,7 +83,7 @@
       "status": "ordinary_text_corrected",
       "proofreading_status": "corrected_and_context_reread",
       "proofreading_pair_sha256": "86b14f255aefb178f921caceba13bdacbf3f76ee911e81460d279997c04fdadf",
-      "previous_queue_pair_sha256": "0f3a2534a5e03213f2c861f9c9a744c67b6a6fe036029fa1ac71b45402d0f4a5"
+      "previous_queue_pair_sha256": "86b14f255aefb178f921caceba13bdacbf3f76ee911e81460d279997c04fdadf"
     },
     {
       "file": "tl/zh_hans/src/plot/jen14.rpy",
@@ -95,71 +95,71 @@
       "status": "ordinary_text_corrected",
       "proofreading_status": "corrected_and_context_reread",
       "proofreading_pair_sha256": "ac3753c14e0f84d891a982d68c83b639269bb9ccfe8f5d5aab0e4158c745620d",
-      "previous_queue_pair_sha256": "cfd6685cc7eb1e2e238dec32b135eed0068f127ca8037b7250c1d738b20c2b76"
+      "previous_queue_pair_sha256": "ac3753c14e0f84d891a982d68c83b639269bb9ccfe8f5d5aab0e4158c745620d"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 957,
-      "pair_sha256": "495399846a68e5c4282807eb1f8e657930e1ef4dc76442c6175803a57ae05f0c",
+      "pair_sha256": "8c42075c1c333537bc90b8e32234278f9472fd020f13292a92fb7e2ffbe549b0",
       "origins": [
         "registered_issue",
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "495399846a68e5c4282807eb1f8e657930e1ef4dc76442c6175803a57ae05f0c",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "8c42075c1c333537bc90b8e32234278f9472fd020f13292a92fb7e2ffbe549b0",
       "previous_queue_pair_sha256": "495399846a68e5c4282807eb1f8e657930e1ef4dc76442c6175803a57ae05f0c"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1027,
-      "pair_sha256": "85e1fd0f1f2fe6b672f07638d21b8dca6b30e768d0f0d167c663b613decd4a6f",
+      "pair_sha256": "09aacb3a9c583e5f525d3c2de628853408faf6cedc9c091a888de0d0bd19f6ed",
       "origins": [
         "registered_issue",
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "85e1fd0f1f2fe6b672f07638d21b8dca6b30e768d0f0d167c663b613decd4a6f",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "09aacb3a9c583e5f525d3c2de628853408faf6cedc9c091a888de0d0bd19f6ed",
       "previous_queue_pair_sha256": "85e1fd0f1f2fe6b672f07638d21b8dca6b30e768d0f0d167c663b613decd4a6f"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1092,
-      "pair_sha256": "69fbf8d9b414383aa47595a15289da6765d7844493a5873c8721002e4f35ba0a",
+      "pair_sha256": "242f3a6ec3fe30d8fed67f83b8949674a7a39e44de9b41f4e6aeefc3a2162c7f",
       "origins": [
         "registered_issue",
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "69fbf8d9b414383aa47595a15289da6765d7844493a5873c8721002e4f35ba0a",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "242f3a6ec3fe30d8fed67f83b8949674a7a39e44de9b41f4e6aeefc3a2162c7f",
       "previous_queue_pair_sha256": "69fbf8d9b414383aa47595a15289da6765d7844493a5873c8721002e4f35ba0a"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1102,
-      "pair_sha256": "3f42a94d2968642e558a03376a50f9eadc36a4523a5b325c89a7b49eb88d5163",
+      "pair_sha256": "af4118fbe2384e735c4dfc44c8aca105ebbf9c655f63d0bd584c217a2768dfbe",
       "origins": [
         "registered_issue",
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "3f42a94d2968642e558a03376a50f9eadc36a4523a5b325c89a7b49eb88d5163",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "af4118fbe2384e735c4dfc44c8aca105ebbf9c655f63d0bd584c217a2768dfbe",
       "previous_queue_pair_sha256": "3f42a94d2968642e558a03376a50f9eadc36a4523a5b325c89a7b49eb88d5163"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1107,
-      "pair_sha256": "1452b658236f7f4ec1dc977bfb4db51a44de77c9876a16f8409c4ab875e737d3",
+      "pair_sha256": "0a9cb31e762eff18517aac712b85fe913c2782f1fb6924796182395de5fb298e",
       "origins": [
         "registered_issue",
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "1452b658236f7f4ec1dc977bfb4db51a44de77c9876a16f8409c4ab875e737d3",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "0a9cb31e762eff18517aac712b85fe913c2782f1fb6924796182395de5fb298e",
       "previous_queue_pair_sha256": "1452b658236f7f4ec1dc977bfb4db51a44de77c9876a16f8409c4ab875e737d3"
     },
     {
@@ -172,78 +172,78 @@
       "status": "ordinary_text_corrected",
       "proofreading_status": "corrected_and_context_reread",
       "proofreading_pair_sha256": "89964ef40af9725dcb5372093b6a5c10d37e9aaccae3b13b1b24e76009cc1f8d",
-      "previous_queue_pair_sha256": "2e55628aee4dbd08121de3ef40403e5ef074cb5a6afbb3cf2bdcd70e3f65602d"
+      "previous_queue_pair_sha256": "89964ef40af9725dcb5372093b6a5c10d37e9aaccae3b13b1b24e76009cc1f8d"
     },
     {
       "file": "tl/zh_hans/src/plot/jen21.rpy",
       "line": 703,
-      "pair_sha256": "7559e4fc36e7751865619a3d02f2e983b509826ddd364e28a9afbb85c9a078a0",
+      "pair_sha256": "6e70307ac1fbbeaa8ad876e501323330f6bcf93d2a42df0564ddf27fc11a952e",
       "origins": [
         "registered_issue"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "7559e4fc36e7751865619a3d02f2e983b509826ddd364e28a9afbb85c9a078a0",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "6e70307ac1fbbeaa8ad876e501323330f6bcf93d2a42df0564ddf27fc11a952e",
       "previous_queue_pair_sha256": "7559e4fc36e7751865619a3d02f2e983b509826ddd364e28a9afbb85c9a078a0"
     },
     {
       "file": "tl/zh_hans/src/plot/jen21.rpy",
       "line": 715,
-      "pair_sha256": "d7ea69e9457a48db57273b979d700b3b66ffb7650cc8e2028f188ebe5807c7dd",
+      "pair_sha256": "172dd0ec12743c47ad5979a85685f6ef99bf8f20ed6be37855547abcdac68fb1",
       "origins": [
         "registered_issue"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "d7ea69e9457a48db57273b979d700b3b66ffb7650cc8e2028f188ebe5807c7dd",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "172dd0ec12743c47ad5979a85685f6ef99bf8f20ed6be37855547abcdac68fb1",
       "previous_queue_pair_sha256": "d7ea69e9457a48db57273b979d700b3b66ffb7650cc8e2028f188ebe5807c7dd"
     },
     {
       "file": "tl/zh_hans/src/plot/jen21.rpy",
       "line": 721,
-      "pair_sha256": "0f5578f34eaf70cc67a74d7e2620fd46fc46250253fc56ea343c00d4fff11376",
+      "pair_sha256": "5f6ea55269d91f42b5bfa5f8cd144bad66be48ee1f8528c715236b3f702e5952",
       "origins": [
         "registered_issue"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "0f5578f34eaf70cc67a74d7e2620fd46fc46250253fc56ea343c00d4fff11376",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "5f6ea55269d91f42b5bfa5f8cd144bad66be48ee1f8528c715236b3f702e5952",
       "previous_queue_pair_sha256": "0f5578f34eaf70cc67a74d7e2620fd46fc46250253fc56ea343c00d4fff11376"
     },
     {
       "file": "tl/zh_hans/src/plot/jen21.rpy",
       "line": 775,
-      "pair_sha256": "dfabca217d6edf10c53cc65445bb2d4f40a9169a4df52f0cb7ed587b989cc8e6",
+      "pair_sha256": "2909d23feb5d6b5a86bd94dcb657390a319058a00030f6874a38526b922db327",
       "origins": [
         "registered_issue"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "dfabca217d6edf10c53cc65445bb2d4f40a9169a4df52f0cb7ed587b989cc8e6",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "2909d23feb5d6b5a86bd94dcb657390a319058a00030f6874a38526b922db327",
       "previous_queue_pair_sha256": "dfabca217d6edf10c53cc65445bb2d4f40a9169a4df52f0cb7ed587b989cc8e6"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 227,
-      "pair_sha256": "94407791902ff8bd0ba1d02ed52168fcf59c30b7e6b5d6f8c2b603247bc3d534",
+      "pair_sha256": "c0a362a79a6323529ba5fbdaf71e5cfa5d3f2919c3ef58d6bb8d83eeb79358ea",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "94407791902ff8bd0ba1d02ed52168fcf59c30b7e6b5d6f8c2b603247bc3d534",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "c0a362a79a6323529ba5fbdaf71e5cfa5d3f2919c3ef58d6bb8d83eeb79358ea",
       "previous_queue_pair_sha256": "94407791902ff8bd0ba1d02ed52168fcf59c30b7e6b5d6f8c2b603247bc3d534"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 252,
-      "pair_sha256": "53feff63a5c2cf67f8218f5514f7e2910e225afa2b9d507b9b2bb5203e550dbf",
+      "pair_sha256": "ced145785405fa380585fa9b2f2e67349b251a73c774275efd2aaadab92e21ce",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "53feff63a5c2cf67f8218f5514f7e2910e225afa2b9d507b9b2bb5203e550dbf",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "ced145785405fa380585fa9b2f2e67349b251a73c774275efd2aaadab92e21ce",
       "previous_queue_pair_sha256": "53feff63a5c2cf67f8218f5514f7e2910e225afa2b9d507b9b2bb5203e550dbf"
     },
     {
@@ -253,7 +253,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "d780a1cf1de841bd1eb4f6bc901e10ee4a1712ad4979c8ec2294d0afb3dab826",
       "previous_queue_pair_sha256": "d780a1cf1de841bd1eb4f6bc901e10ee4a1712ad4979c8ec2294d0afb3dab826"
@@ -265,7 +265,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "24959699a749719da66b3f0afa90097fcf9feedb5b09be57c019eba447aceb14",
       "previous_queue_pair_sha256": "24959699a749719da66b3f0afa90097fcf9feedb5b09be57c019eba447aceb14"
@@ -277,7 +277,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "d3a41915272300cb3842e69b134df57bbaec28ec2a90893bec7e777727e707a7",
       "previous_queue_pair_sha256": "d3a41915272300cb3842e69b134df57bbaec28ec2a90893bec7e777727e707a7"
@@ -289,7 +289,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "c2bcc03fd9c8c3480de06010b7527d2d7bad9559bd3d380d7e22b408c419d608",
       "previous_queue_pair_sha256": "c2bcc03fd9c8c3480de06010b7527d2d7bad9559bd3d380d7e22b408c419d608"
@@ -297,13 +297,13 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 397,
-      "pair_sha256": "0d0dda4ae83aa022f10819767fd57f7a69aa2f15db06e18121cad88cecac78a6",
+      "pair_sha256": "b5131cf723b34f183b1cabaf876b41b5cd3cfbd7403406d5734864d221e4f6d6",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "0d0dda4ae83aa022f10819767fd57f7a69aa2f15db06e18121cad88cecac78a6",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "b5131cf723b34f183b1cabaf876b41b5cd3cfbd7403406d5734864d221e4f6d6",
       "previous_queue_pair_sha256": "0d0dda4ae83aa022f10819767fd57f7a69aa2f15db06e18121cad88cecac78a6"
     },
     {
@@ -313,7 +313,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "254bf6eb429e0d0077a01676e7ca9cd5c6cbead87fa7b082612c6ef26808325d",
       "previous_queue_pair_sha256": "254bf6eb429e0d0077a01676e7ca9cd5c6cbead87fa7b082612c6ef26808325d"
@@ -325,7 +325,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "334c2297e622bcfb58fd8d4ee242cfc3a2a938ae0630f27a986cb5a6affc9d31",
       "previous_queue_pair_sha256": "334c2297e622bcfb58fd8d4ee242cfc3a2a938ae0630f27a986cb5a6affc9d31"
@@ -337,7 +337,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "468278fefcae3ed033dbf8756f6ab0453bd0c4d669b966dd019f1e05b4f3b9ce",
       "previous_queue_pair_sha256": "468278fefcae3ed033dbf8756f6ab0453bd0c4d669b966dd019f1e05b4f3b9ce"
@@ -345,13 +345,13 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 697,
-      "pair_sha256": "c91a089024fa4bf3229e2566bb4452af986641db694799d9c9922372300b5af1",
+      "pair_sha256": "2b78772e3adb3654ca90804534ba54400b194fa72c49d6156772a5de24d2ae8d",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "c91a089024fa4bf3229e2566bb4452af986641db694799d9c9922372300b5af1",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "2b78772e3adb3654ca90804534ba54400b194fa72c49d6156772a5de24d2ae8d",
       "previous_queue_pair_sha256": "c91a089024fa4bf3229e2566bb4452af986641db694799d9c9922372300b5af1"
     },
     {
@@ -361,8 +361,8 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
       "proofreading_pair_sha256": "fd109236546b59053bdd16da76fa2f77e2c890b04a42663c033695b1c476f169",
       "previous_queue_pair_sha256": "fd109236546b59053bdd16da76fa2f77e2c890b04a42663c033695b1c476f169"
     },
@@ -373,57 +373,57 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "5234e38d4b2674928067a8fc94b6ccb45a9a988b6e268555941a78f89d53bd22",
-      "previous_queue_pair_sha256": "1dc983fcfd72ab703642a7d06a1f4536483741f42d4e2dfd37fe739dd6545228"
+      "previous_queue_pair_sha256": "5234e38d4b2674928067a8fc94b6ccb45a9a988b6e268555941a78f89d53bd22"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 797,
-      "pair_sha256": "5f25ea381bc9e6daa729647b40e7b9b01441adb22b30ec53c50ad5e21fc2598e",
+      "pair_sha256": "880a44e515e42f30efa9974e243991c486f788ec18b36d162bc2fe4f09e80bae",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "5f25ea381bc9e6daa729647b40e7b9b01441adb22b30ec53c50ad5e21fc2598e",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "880a44e515e42f30efa9974e243991c486f788ec18b36d162bc2fe4f09e80bae",
       "previous_queue_pair_sha256": "5f25ea381bc9e6daa729647b40e7b9b01441adb22b30ec53c50ad5e21fc2598e"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 802,
-      "pair_sha256": "5d5d745d82a9fdc7ab7b0a694108d901856799f70881cdc663cd93ff8dfc2a24",
+      "pair_sha256": "c1563bc7ffe87b818da4b5cf587a3ddbd7b165ec08ef12867c38a6c5d1af8465",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "5d5d745d82a9fdc7ab7b0a694108d901856799f70881cdc663cd93ff8dfc2a24",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "c1563bc7ffe87b818da4b5cf587a3ddbd7b165ec08ef12867c38a6c5d1af8465",
       "previous_queue_pair_sha256": "5d5d745d82a9fdc7ab7b0a694108d901856799f70881cdc663cd93ff8dfc2a24"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 812,
-      "pair_sha256": "b0ae0c95c206e1e85a89c19982a922aeae552d021819ba031876de5a26d32439",
+      "pair_sha256": "7fceecb65e0889f66e0b136bda6c0f13a6c1e57660c6f9c1629ba99106be714b",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "b0ae0c95c206e1e85a89c19982a922aeae552d021819ba031876de5a26d32439",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "7fceecb65e0889f66e0b136bda6c0f13a6c1e57660c6f9c1629ba99106be714b",
       "previous_queue_pair_sha256": "b0ae0c95c206e1e85a89c19982a922aeae552d021819ba031876de5a26d32439"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 817,
-      "pair_sha256": "8b3c806dc918508f9858bc879d9b3433242cce31b2493969e9a9986cdc61938f",
+      "pair_sha256": "265a2da5342b16710e22c26f3e36912fef768b991866c8b7a122af7ec6a2b789",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "8b3c806dc918508f9858bc879d9b3433242cce31b2493969e9a9986cdc61938f",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "265a2da5342b16710e22c26f3e36912fef768b991866c8b7a122af7ec6a2b789",
       "previous_queue_pair_sha256": "8b3c806dc918508f9858bc879d9b3433242cce31b2493969e9a9986cdc61938f"
     },
     {
@@ -433,7 +433,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "d902160bd9cbbbf912adc950df0164e030cad0236377e21b4982e9dac4074c4c",
       "previous_queue_pair_sha256": "d902160bd9cbbbf912adc950df0164e030cad0236377e21b4982e9dac4074c4c"
@@ -441,13 +441,13 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 827,
-      "pair_sha256": "f0eb8eab5b7d162fae49ab1f59faf65b510ea3e6e37b30ede6ed4fb3da43a52d",
+      "pair_sha256": "3a0ecc182d6703395bd38be8dca7ece06fdeadce08b61d6ec615df6403c36d88",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "f0eb8eab5b7d162fae49ab1f59faf65b510ea3e6e37b30ede6ed4fb3da43a52d",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "3a0ecc182d6703395bd38be8dca7ece06fdeadce08b61d6ec615df6403c36d88",
       "previous_queue_pair_sha256": "f0eb8eab5b7d162fae49ab1f59faf65b510ea3e6e37b30ede6ed4fb3da43a52d"
     },
     {
@@ -457,7 +457,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "145d4f7e27e7c5b5e8e69df3eae8d2f31509b62e53c5a5960910a28b57f0f6cf",
       "previous_queue_pair_sha256": "145d4f7e27e7c5b5e8e69df3eae8d2f31509b62e53c5a5960910a28b57f0f6cf"
@@ -465,37 +465,37 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 932,
-      "pair_sha256": "ac2e2403a1fd77510c9c26e791871820c3155509aab9748632ae24cd16d4110d",
+      "pair_sha256": "f729658e6bbca01c8ae84772c8217301854e89767de073a657f1a27b819c9ba1",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "ac2e2403a1fd77510c9c26e791871820c3155509aab9748632ae24cd16d4110d",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "f729658e6bbca01c8ae84772c8217301854e89767de073a657f1a27b819c9ba1",
       "previous_queue_pair_sha256": "ac2e2403a1fd77510c9c26e791871820c3155509aab9748632ae24cd16d4110d"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 937,
-      "pair_sha256": "ab065580bf69a9c784cc692147643b8ebc2d427ef986447f69c7fe014afead0f",
+      "pair_sha256": "78073c9a413bd67a903a1b8ec03cdae06b7645e4d98f4cf5458a0762a7054ca0",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "ab065580bf69a9c784cc692147643b8ebc2d427ef986447f69c7fe014afead0f",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "78073c9a413bd67a903a1b8ec03cdae06b7645e4d98f4cf5458a0762a7054ca0",
       "previous_queue_pair_sha256": "ab065580bf69a9c784cc692147643b8ebc2d427ef986447f69c7fe014afead0f"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 942,
-      "pair_sha256": "982f739fce6351fb5108c31975dcba21b3d1ae8d80d98eb517aab12e9dddf7a0",
+      "pair_sha256": "799550ee43768f74deb2501e82c313801ff302ca74d6b0278330e00d747e25b5",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "982f739fce6351fb5108c31975dcba21b3d1ae8d80d98eb517aab12e9dddf7a0",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "799550ee43768f74deb2501e82c313801ff302ca74d6b0278330e00d747e25b5",
       "previous_queue_pair_sha256": "982f739fce6351fb5108c31975dcba21b3d1ae8d80d98eb517aab12e9dddf7a0"
     },
     {
@@ -505,7 +505,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "8eaf196331068b547888c3b356c5b6bd0807382f0210c51997cab3d4cd3bb65b",
       "previous_queue_pair_sha256": "8eaf196331068b547888c3b356c5b6bd0807382f0210c51997cab3d4cd3bb65b"
@@ -517,7 +517,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "d25a06f8cd92542c09329760a3c20366f3a566fcc553dc76a794a14602d7181b",
       "previous_queue_pair_sha256": "d25a06f8cd92542c09329760a3c20366f3a566fcc553dc76a794a14602d7181b"
@@ -529,7 +529,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "43ccdbe53f9fad2036aab7e6dabf09ff6a527b2bd5cb300f08a06198904c3339",
       "previous_queue_pair_sha256": "43ccdbe53f9fad2036aab7e6dabf09ff6a527b2bd5cb300f08a06198904c3339"
@@ -541,7 +541,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "2e1ec9d6578ce2f4fc6eca327512a4b4889837b9d63ee1cd7cc5e93f026bac4d",
       "previous_queue_pair_sha256": "2e1ec9d6578ce2f4fc6eca327512a4b4889837b9d63ee1cd7cc5e93f026bac4d"
@@ -553,7 +553,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "f8bf2c222c06a0eba62b386393f5105b562f74ab81c41192e5654e349fc17685",
       "previous_queue_pair_sha256": "f8bf2c222c06a0eba62b386393f5105b562f74ab81c41192e5654e349fc17685"
@@ -561,49 +561,49 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1012,
-      "pair_sha256": "896806acd67e54a2f61770abf7bc881da56d1d38cb3a51a32c0d03b526b81337",
+      "pair_sha256": "f8ac9d9f47016f1946efce4971b923f6a326501240db7fd370aec389fca87989",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "896806acd67e54a2f61770abf7bc881da56d1d38cb3a51a32c0d03b526b81337",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "f8ac9d9f47016f1946efce4971b923f6a326501240db7fd370aec389fca87989",
       "previous_queue_pair_sha256": "896806acd67e54a2f61770abf7bc881da56d1d38cb3a51a32c0d03b526b81337"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1017,
-      "pair_sha256": "f7c9fd9056c49938476d90ef78ef2dea35aede4f305865874096b4b52c08a904",
+      "pair_sha256": "d8ff5050427bb68166c404d3f3f84d923e415fc0364a7467d57dfefa4f1e754d",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "f7c9fd9056c49938476d90ef78ef2dea35aede4f305865874096b4b52c08a904",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "d8ff5050427bb68166c404d3f3f84d923e415fc0364a7467d57dfefa4f1e754d",
       "previous_queue_pair_sha256": "f7c9fd9056c49938476d90ef78ef2dea35aede4f305865874096b4b52c08a904"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1037,
-      "pair_sha256": "f39672ed47b2b3e4c6a918b33ac0dfa0ccf331013456a1f78a26ec5e41a8ec84",
+      "pair_sha256": "2969c14c9594e44f4b5a1fc9625611b424112bcf8ad933a14e1fb0bb84ca2de6",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "f39672ed47b2b3e4c6a918b33ac0dfa0ccf331013456a1f78a26ec5e41a8ec84",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "2969c14c9594e44f4b5a1fc9625611b424112bcf8ad933a14e1fb0bb84ca2de6",
       "previous_queue_pair_sha256": "f39672ed47b2b3e4c6a918b33ac0dfa0ccf331013456a1f78a26ec5e41a8ec84"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1042,
-      "pair_sha256": "5b7d16ef993ad57d8d89a113e6298637407ccec98ac843303976f1b8611f608b",
+      "pair_sha256": "9ccfddb69d22aa68d87af247208087d9ad48447564d73012c96aac69aed58edc",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "5b7d16ef993ad57d8d89a113e6298637407ccec98ac843303976f1b8611f608b",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "9ccfddb69d22aa68d87af247208087d9ad48447564d73012c96aac69aed58edc",
       "previous_queue_pair_sha256": "5b7d16ef993ad57d8d89a113e6298637407ccec98ac843303976f1b8611f608b"
     },
     {
@@ -613,7 +613,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "990b76cd2ec9f9f636d9b4cbbb1d595852adab8e6edc0a235b364e52fa3f4c8f",
       "previous_queue_pair_sha256": "990b76cd2ec9f9f636d9b4cbbb1d595852adab8e6edc0a235b364e52fa3f4c8f"
@@ -625,7 +625,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "9c32ca3dcaad319c1d0a16b75c034f04533ee36602b76034db51f56a5cd5f5cc",
       "previous_queue_pair_sha256": "9c32ca3dcaad319c1d0a16b75c034f04533ee36602b76034db51f56a5cd5f5cc"
@@ -633,13 +633,13 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1072,
-      "pair_sha256": "5494d4907f9fc6ffbeb79ea427983f5c5612014b1fa9880840b3efd3f9e9b69f",
+      "pair_sha256": "28289fb75805b2ae4601d068996fd28fa445e063479c4998d7d506dbe8f90e3e",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "5494d4907f9fc6ffbeb79ea427983f5c5612014b1fa9880840b3efd3f9e9b69f",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "28289fb75805b2ae4601d068996fd28fa445e063479c4998d7d506dbe8f90e3e",
       "previous_queue_pair_sha256": "5494d4907f9fc6ffbeb79ea427983f5c5612014b1fa9880840b3efd3f9e9b69f"
     },
     {
@@ -649,7 +649,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "3ba04194000f7335a9ffb14157784174e74780f7d99b206f0e7f9a591f83f0bc",
       "previous_queue_pair_sha256": "3ba04194000f7335a9ffb14157784174e74780f7d99b206f0e7f9a591f83f0bc"
@@ -661,7 +661,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "03ac91d2ba65c71356d456363d0f092d7d11d54a15de1f53660ddabfcf7dd72a",
       "previous_queue_pair_sha256": "03ac91d2ba65c71356d456363d0f092d7d11d54a15de1f53660ddabfcf7dd72a"
@@ -673,7 +673,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "3eadbeda89af931b38541e5535b54104aedcde07a8c36d8e8b354e2761a5ac5d",
       "previous_queue_pair_sha256": "3eadbeda89af931b38541e5535b54104aedcde07a8c36d8e8b354e2761a5ac5d"
@@ -685,7 +685,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "7cd85b4b9cdf52e89ec1b52a95c6b312c9a78ec6dadff70b234e299740a50654",
       "previous_queue_pair_sha256": "7cd85b4b9cdf52e89ec1b52a95c6b312c9a78ec6dadff70b234e299740a50654"
@@ -697,7 +697,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "17e44dadd7757c1fd194b1fed164434fcd125d91d10bcf1aecc5cb889defe0f8",
       "previous_queue_pair_sha256": "17e44dadd7757c1fd194b1fed164434fcd125d91d10bcf1aecc5cb889defe0f8"
@@ -709,7 +709,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "51b06d923087beab9822c6c313cb710164e842aeadd940e946517339b571fc2f",
       "previous_queue_pair_sha256": "51b06d923087beab9822c6c313cb710164e842aeadd940e946517339b571fc2f"
@@ -721,7 +721,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "16b34e21ef817649b80e55ff54eac8b5418a0463b568ca58d02a86acd602f4c6",
       "previous_queue_pair_sha256": "16b34e21ef817649b80e55ff54eac8b5418a0463b568ca58d02a86acd602f4c6"
@@ -729,13 +729,13 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1432,
-      "pair_sha256": "c3b7e0a4b5fffb4f586917be87177edc848fcd9809196412cd8b5cb9ba6a3aed",
+      "pair_sha256": "9fec3b7b1d14f49fad8d8de16869d964e6723a4918cdfc1a7b732878bb34af07",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "c3b7e0a4b5fffb4f586917be87177edc848fcd9809196412cd8b5cb9ba6a3aed",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "9fec3b7b1d14f49fad8d8de16869d964e6723a4918cdfc1a7b732878bb34af07",
       "previous_queue_pair_sha256": "c3b7e0a4b5fffb4f586917be87177edc848fcd9809196412cd8b5cb9ba6a3aed"
     },
     {
@@ -745,7 +745,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "389ebec3890e4684e87ca8da45495a73748033230c7ca30abd64f32784a1c907",
       "previous_queue_pair_sha256": "389ebec3890e4684e87ca8da45495a73748033230c7ca30abd64f32784a1c907"
@@ -757,7 +757,7 @@
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
+      "status": "proofread_completed",
       "proofreading_status": "no_obvious_language_issue_in_context",
       "proofreading_pair_sha256": "9c73a7c8d5f5870c7a6c00320131256b72e8a0385f9a462a5ad0b4aaeb67a46f",
       "previous_queue_pair_sha256": "9c73a7c8d5f5870c7a6c00320131256b72e8a0385f9a462a5ad0b4aaeb67a46f"
@@ -765,13 +765,13 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "line": 1452,
-      "pair_sha256": "d1d5b53dca6a5cc9aaf41c6056cd4cc5e544c829ac582cf76fa9b3b2f978f5db",
+      "pair_sha256": "295fec06ce130c235d8aa1889c2d41ef1b652b85fa5eb0827c73f27d8585ab42",
       "origins": [
         "diary_acceptance"
       ],
-      "status": "explicit_context_proofreading_completed",
-      "proofreading_status": "finding",
-      "proofreading_pair_sha256": "d1d5b53dca6a5cc9aaf41c6056cd4cc5e544c829ac582cf76fa9b3b2f978f5db",
+      "status": "ordinary_text_corrected",
+      "proofreading_status": "corrected_and_context_reread",
+      "proofreading_pair_sha256": "295fec06ce130c235d8aa1889c2d41ef1b652b85fa5eb0827c73f27d8585ab42",
       "previous_queue_pair_sha256": "d1d5b53dca6a5cc9aaf41c6056cd4cc5e544c829ac582cf76fa9b3b2f978f5db"
     },
     {
@@ -784,7 +784,7 @@
       "status": "ordinary_text_corrected",
       "proofreading_status": "corrected_and_context_reread",
       "proofreading_pair_sha256": "3cba64cdd7fc814dc013f9c4d0630fa7261ad820094b036c20fec2fd493e2f59",
-      "previous_queue_pair_sha256": "c268f8aca8c44bcef9262c917fc0f978ad0d644a4b269521a4b92d21d13e8273"
+      "previous_queue_pair_sha256": "3cba64cdd7fc814dc013f9c4d0630fa7261ad820094b036c20fec2fd493e2f59"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -796,14 +796,14 @@
       "status": "ordinary_text_corrected",
       "proofreading_status": "corrected_and_context_reread",
       "proofreading_pair_sha256": "b7cc8a97ee7e2eb32bcc5f69e19c161b0fd05c378a9b5ce832b7bf47577598c3",
-      "previous_queue_pair_sha256": "3555835b6931a1e6b25a310dd5128d6d9cdff6c6df7cbc2d0bc7700ff4a79a30"
+      "previous_queue_pair_sha256": "b7cc8a97ee7e2eb32bcc5f69e19c161b0fd05c378a9b5ce832b7bf47577598c3"
     }
   ],
   "last_integrity_check": {
     "unique_items": 65,
     "duplicate_items": 0,
     "stale_items": 0,
-    "note": "All current hashes verified; task completion is distinct from all translations passing quality review."
+    "note": "全部条目已与当前译文哈希核对；完成状态仅表示按要求校对/改写，不代表整份项目译文质量通过。"
   },
   "scope_status": "completed_under_revised_requirement"
 }

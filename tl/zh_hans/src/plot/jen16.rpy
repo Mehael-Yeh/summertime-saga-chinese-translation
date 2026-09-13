@@ -388,7 +388,7 @@ translate zh_hans jen16_scope_merge_c5c2c9f3:
 translate zh_hans jen16_scope_alt_535cfc18:
 
     # anon f_sceptical -m_teeth "Did you really just ask me that?"
-    anon f_sceptical -m_teeth "你刚才真问了我这个？"
+    anon f_sceptical -m_teeth "你真问得出口啊？"
 
 # game/src/plot/jen16.rpy:160
 translate zh_hans jen16_scope_alt_79ec0a65:
@@ -514,7 +514,7 @@ translate zh_hans jen16_scope_alt_c0a61dcd:
 translate zh_hans jen16_scope_alt_e4dc0e74:
 
     # anon "Well, I am."
-    anon "可不就是嘛。"
+    anon "那当然。"
 
 # game/src/plot/jen16.rpy:201
 translate zh_hans jen16_scope_alt_07311747:
@@ -622,7 +622,7 @@ translate zh_hans jen16_scope_alt_671a5556:
 translate zh_hans jen16_scope_alt_b1893ed4:
 
     # jenny "I have a proposition for you."
-    jenny "我有个提议想跟你谈谈。"
+    jenny "我有个提议。"
 
 # game/src/plot/jen16.rpy:223
 translate zh_hans jen16_scope_alt_bfdc8475:

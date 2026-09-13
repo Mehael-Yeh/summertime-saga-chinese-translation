@@ -178,7 +178,7 @@ translate zh_hans jen19_jenny_373a424f:
 translate zh_hans jen19_jenny_64a55625:
 
     # anon f_grumpy "You don't have to be such a bitch about it."
-    anon f_grumpy "你也犯不着为这事这么刻薄吧。"
+    anon f_grumpy "你也用不着为这事骂得这么难听吧。"
 
 # game/src/plot/jen19.rpy:101
 translate zh_hans jen19_jenny_60fa054b:

@@ -1940,6 +1940,15 @@
       "source": "{pen=purple}Does he have an {pen=silver}{size=+6}old lady fetish{/size}{/pen} or something?{/pen}",
       "before": "{pen=purple}他是不是有{pen=silver}{size=+6}恋老癖{/size}{/pen}还是什么？{/pen}",
       "target": "{pen=purple}他是不是{pen=silver}{size=+6}就好年纪大的女人这一口{/size}{/pen}啊？{/pen}"
+    },
+    {
+      "id": "boobjob_terminology_correction",
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 126,
+      "source": "Get caught watching porn in the lounge by [saga.cast.debbie] again post-boobjob.",
+      "before": "在[Debbie]做过隆胸之后，再次在客厅看色情片被她抓到。",
+      "target": "与[Debbie]乳交之后，再次在客厅看色情片被她抓到。",
+      "evidence": ".codex_tmp/current7944/src/src/plot/deb_tv.rpy:5 与 :233/deb24.rpy:132 显示 boobjob 是 Debbie 的进度档位与乳交场景标签"
     }
   ],
   "reading_batches": [
@@ -2836,6 +2845,11 @@
       "status": "corrected_and_context_reread",
       "changes": 8,
       "note": "Eight ordinary-language edits within fixed 65-item scope reread. Other 57 items satisfy revised proofread-only requirement; remaining explicit-text findings preserved, not claimed corrected."
+    },
+    {
+      "id": "context_fidelity_recheck_31",
+      "status": "corrected_and_context_reread",
+      "note": "对31条登记问题逐条回读所在场景/页段后改写，重点修正指代、语气强度、跨行衔接与标签对应；露骨段落不扩展描写。"
     }
   ],
   "source_followups": [
@@ -3592,13 +3606,15 @@
       "file": "tl/zh_hans/extracted/lewd.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.debbie] again post-boobjob.",
       "issue": "post-boobjob is a prior-event condition, not cosmetic surgery. Existing target remains incorrect.",
-      "status": "unresolved_content_boundary"
+      "status": "resolved_terminology_verified",
+      "resolution": "boobjob确认是Debbie线进度档位（乳交事件），不是隆胸手术；post-boobjob按“乳交之后”改写并复核。"
     },
     {
       "file": "tl/zh_hans/extracted/lewd.rpy",
       "source": "Warm [saga.cast.debbie] up in the shower post-boobjob.",
       "issue": "Prior-event condition was incorrectly converted into an additional present action.",
-      "status": "unresolved_content_boundary"
+      "status": "resolved_terminology_verified",
+      "resolution": "boobjob确认是Debbie线进度档位（乳交事件），不是隆胸手术；post-boobjob按“乳交之后”改写并复核。"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3775,7 +3791,7 @@
     {
       "id": "diary_jen21_jen24_expression_followup",
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
-      "status": "partial_resolved",
+      "status": "resolved_after_context_reread",
       "target_lines": [
         957,
         992,
@@ -3794,7 +3810,8 @@
         1092,
         1102,
         1107
-      ]
+      ],
+      "resolution": "按当前译文与上下文复核；已改写或确认无需改动，详见extracted_language_review.json的changes与remaining_review.json。"
     },
     {
       "id": "jen18_connected_language_followup",
@@ -3875,7 +3892,7 @@
     {
       "id": "jen21_remainder_language_followup",
       "file": "tl/zh_hans/src/plot/jen21.rpy",
-      "status": "partial_resolved",
+      "status": "resolved_after_context_reread",
       "target_lines": [
         625,
         703,
@@ -3906,7 +3923,8 @@
         715,
         721,
         775
-      ]
+      ],
+      "resolution": "按当前译文与上下文复核；已改写或确认无需改动，详见extracted_language_review.json的changes与remaining_review.json。"
     },
     {
       "id": "jen22_breakfast_expression_followup",

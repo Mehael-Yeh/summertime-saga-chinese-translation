@@ -439,7 +439,7 @@ audit_manual_coverage.py仅验证记录完整性；退出码成功不能解释�
 
 提取翻译保留Ren’Py所需的.rpy扩展名，按源模块词干命名：gallery→lewd、messages→mesg、diary→jenny_diary。其余多源文件采用模块名组合，完整对应表见extracted_routes.json的naming和source_module_routes。文件内容及条目顺序不因改名改变；工具默认路径、审校记录、句式回归及依赖路径同步迁移。README未修改。
 
-本次确认lewd中的两条post-boobjob提示有语义错误：一条误当作整容手术，一条把先前事件条件变成当前附加动作。两项仍未修复，明确登记在extracted_language_review.json，不得将文件改名或结构检查成功视为全文件语言审校通过。
+lewd中两条post-boobjob提示已修正。`boobjob`在Debbie线是进度档位与乳交场景标签（脚本中与`kiss`、`handjob`等按顺序比较，对应`deb_tv.boobjob3/4`与`p_couch_lay_boobjob_anim`），不是隆胸手术；因此`post-boobjob`统一译为“乳交之后”，用作画廊提示的前置事件条件，不得改写成当前追加动作。术语同时登记于terminology.md。
 
 日记续核：合读网络兼职、收入与首次直播相关页面，修正18条直译及跨行表达。jen08_prep整页9条在修改后再次连读，保留“二十分钟、将近三百美元”和询问观众后收到建议的先后顺序；本轮日记可读性通过记录增至32/294条，其他条目保持待核。逐项改动见extracted_language_review.json，状态见manual_review.json；不得以结构验证替代整页阅读。
 

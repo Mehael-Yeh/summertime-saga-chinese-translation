@@ -123,7 +123,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Get caught watching porn in the lounge by [saga.cast.debbie] again post-boobjob."
-    new "隆胸手术后，在客厅看黄片再次被[saga.cast.debbie]抓个正着。"
+    new "与[saga.cast.debbie]乳交之后，再次在客厅看色情片被她抓到。"
 
     # game/lib/saga/init/lewd.py
     old "Proactive."
@@ -143,7 +143,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Warm [saga.cast.debbie] up in the shower post-boobjob."
-    new "在淋浴时给[saga.cast.debbie]暖暖身子，并进行乳交。"
+    new "与[saga.cast.debbie]乳交之后，在淋浴时把她撩起兴致。"
 
     # game/lib/saga/init/lewd.py
     old "Give [saga.cast.debbie] a rimjob in the shower."
