@@ -262,7 +262,7 @@ translate zh_hans jen26_intro_a206e775:
 translate zh_hans jen26_intro_fd7a2a9f:
 
     # zana "Aww..."
-    zana "哦……"
+    zana "哎呀……"
 
 # game/src/plot/jen26.rpy:59
 translate zh_hans jen26_intro_d5e479c5:
@@ -322,7 +322,7 @@ translate zh_hans jen26_intro_7b25a719:
 translate zh_hans jen26_intro_2631e74f:
 
     # zana "Thanks for being so chill about all this!"
-    zana "谢谢你没把事情闹大！"
+    zana "谢谢你这么大度！"
 
 # game/src/plot/jen26.rpy:74
 translate zh_hans jen26_intro_24b4755f:
@@ -382,7 +382,7 @@ translate zh_hans jen26_jenny_fc31e9e7:
 translate zh_hans jen26_jenny_767b5dcc:
 
     # jenny "Really?"
-    jenny "真的吗？"
+    jenny "真的？"
 
 # game/src/plot/jen26.rpy:124
 translate zh_hans jen26_jenny_c4928ba6:
@@ -478,7 +478,7 @@ translate zh_hans jen26_jenny_c811f225:
 translate zh_hans jen26_jenny_c5abc9f2:
 
     # jenny e_r "Ugh, fine."
-    jenny e_r "烦死了，行吧。"
+    jenny e_r "呃，好吧。"
 
 # game/src/plot/jen26.rpy:169
 translate zh_hans jen26_jenny_2130f471:
@@ -532,7 +532,7 @@ translate zh_hans jen26_pause_jenny_8533ee36:
 translate zh_hans jen26_pause_jenny_ab6abb15:
 
     # jenny e_w f_disgusted "Eww, don't call it a date!"
-    jenny e_w f_disgusted "噫，别管它叫约会！"
+    jenny e_w f_disgusted "噫，别叫它约会！"
 
 # game/src/plot/jen26.rpy:201
 translate zh_hans jen26_pause_jenny_824eb0ef:
@@ -628,7 +628,7 @@ translate zh_hans jen26_delay_jenny_4eb0b8b1:
 translate zh_hans jen26_delay_jenny_0837d1c7:
 
     # anon "We used to go see lots of movies together!"
-    anon "我们小时候可一起看过好多电影！"
+    anon "我们以前可一起看过好多电影！"
 
 # game/src/plot/jen26.rpy:238
 translate zh_hans jen26_delay_jenny_c3a2beb7:
@@ -694,7 +694,7 @@ translate zh_hans jen26_bed2_13cec6be:
 translate zh_hans jen26_bed2_rails_60f15071:
 
     # anon @ -m_talk "( Oh, it's almost time for my date with [saga.cast.jenny]. )"
-    anon @ -m_talk "（哦，差不多到和[saga.cast.jenny]约会的时间了。）"
+    anon @ -m_talk "（哦，差不多该和[saga.cast.jenny]去约会了。）"
 
 # game/src/plot/jen26.rpy:277
 translate zh_hans jen26_bed2_rails_5a540bad:
@@ -916,13 +916,13 @@ translate zh_hans jen26_cinema_5c2d0d59:
 translate zh_hans jen26_cinema_dcd0221a:
 
     # anon f_sceptical "Eugh..."
-    anon f_sceptical "呃……"
+    anon f_sceptical "呕……"
 
 # game/src/plot/jen26.rpy:373
 translate zh_hans jen26_cinema_3514873a:
 
     # jenny e_b f_calm m_laugh @ -m_talk "Hahahaah!"
-    jenny e_b f_calm m_laugh @ -m_talk "哈哈哈哈哈！"
+    jenny e_b f_calm m_laugh @ -m_talk "哈哈哈！"
 
 # game/src/plot/jen26.rpy:377
 translate zh_hans jen26_cinema_8537e47e:
@@ -1246,7 +1246,7 @@ translate zh_hans jen26_cinema_f49d7b6a:
 translate zh_hans jen26_cinema_24ed7175:
 
     # anon f_worried "I err..."
-    anon f_worried "我，呃……"
+    anon f_worried "我呃……"
 
 # game/src/plot/jen26.rpy:467
 translate zh_hans jen26_cinema_de50196c:
@@ -1516,7 +1516,7 @@ translate zh_hans jen26_cinema_e885b41b:
 translate zh_hans jen26_cinema_6a0a7bb0:
 
     # anon f_shy -m_teeth "B-but what if somebody see-"
-    anon f_shy -m_teeth "可——可是万一有人看到——"
+    anon f_shy -m_teeth "可、可是万一有人看到——"
 
 # game/src/plot/jen26.rpy:550
 translate zh_hans jen26_cinema_515adf52:
@@ -1672,7 +1672,7 @@ translate zh_hans jen26_cinema_ab2414a1:
 translate zh_hans jen26_cinema_e1deb649:
 
     # anon a_side "Ugh..."
-    anon a_side "真是的……"
+    anon a_side "呃……"
 
 # game/src/plot/jen26.rpy:604
 translate zh_hans jen26_cinema_c13b74eb:
@@ -2050,7 +2050,7 @@ translate zh_hans jen26_outro_reuse_4ae2d8c8:
 translate zh_hans jen26_outro_reuse_35e12bf6:
 
     # anon "R-really?"
-    anon "真、真的吗？"
+    anon "真、真的？"
 
 # game/src/plot/jen26.rpy:740
 translate zh_hans jen26_outro_reuse_3b09062f:
@@ -2548,7 +2548,7 @@ translate zh_hans jen26_outro_merge_4809ac68:
 translate zh_hans jen26_outro_creampie_ac0d81ce:
 
     # jenny "Oh my god, oh my god, OH MY GOD!"
-    jenny "天啊，天啊，我的天啊！"
+    jenny "天哪，天哪，我的天哪！"
 
 # game/src/plot/jen26.rpy:906
 translate zh_hans jen26_outro_creampie_71484182:
@@ -2680,7 +2680,7 @@ translate zh_hans jen26_outro_creampie_e8d5a6a1:
 translate zh_hans jen26_outro_creampie_c0331a04:
 
     # jenny "Heh, my legs are shaking like crazy!"
-    jenny "哈，我两条腿抖得跟疯了一样！"
+    jenny "呵，我两条腿抖得跟疯了一样！"
 
 # game/src/plot/jen26.rpy:961
 translate zh_hans jen26_outro_rails_b5c0a300:

@@ -466,7 +466,7 @@ translate zh_hans ton_baby_work_misc1_c12489cd:
 translate zh_hans ton_baby_work_misc1_67507e63:
 
     # tony @ e_b_w f_horny "Give her a big sloppy kiss for me, capiche?!"
-    tony @ e_b_w f_horny "替我狠狠亲她一口，懂了没？！"
+    tony @ e_b_w f_horny "替我狠狠亲她一口，capiche?!（懂了没？！）"
 
 # game/src/plot/ton_baby.rpy:449
 translate zh_hans ton_baby_work_misc1_005ce93f:
@@ -929,7 +929,7 @@ translate zh_hans ton_baby_post_misc2_18069c58:
 
 
     # tony @ e_b_w f_horny "And try not make too much noise, capiche?!"
-    tony @ e_b_w f_horny "尽量别弄出太大动静，懂了没？！"
+    tony @ e_b_w f_horny "尽量别弄出太大动静，capiche?!（懂了没？！）"
 
 # game/src/plot/ton_baby.rpy:598
 translate zh_hans ton_baby_post_misc2_bc8a71dc:

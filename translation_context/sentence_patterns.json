@@ -620,7 +620,7 @@
     {
       "file": "tl/zh_hans/extracted/lewd.rpy",
       "source": "Get caught watching porn in the lounge by [saga.cast.jenny], and have sex.",
-      "target": "在客厅看黄片被[saga.cast.jenny]抓到，然后做爱。"
+      "target": "在客厅看色情片被[saga.cast.jenny]抓到，然后做爱。"
     },
     {
       "file": "tl/zh_hans/extracted/lewd.rpy",
@@ -700,7 +700,7 @@
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
       "source": "Enter the lounge in the afternoon [saga.lang.wait(f)!t].",
-      "target": "[saga.lang.wait(f)!t]下午进入客厅。"
+      "target": "下午[saga.lang.wait(f)!t]进入客厅。"
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
@@ -1000,7 +1000,7 @@
     {
       "file": "tl/zh_hans/src/plot/deb_mall.rpy",
       "source": "Eugh, too much information!",
-      "target": "呃，这就不用告诉我了！"
+      "target": "呕，这就不用告诉我了！"
     },
     {
       "file": "tl/zh_hans/src/plot/deb_mall.rpy",
@@ -1565,7 +1565,7 @@
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
       "source": "I'm your godfather, [saga.cast.anon].",
-      "target": "我是教父[saga.cast.anon]。"
+      "target": "我是你的教父，[saga.cast.anon]。"
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
@@ -1575,7 +1575,7 @@
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
       "source": "If you're up to it, there'll be pizzas that need deliverin'!",
-      "target": "你要是有空，店里还有披萨等着你送呢！"
+      "target": "你要是有精力，店里还有披萨等着你送呢！"
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
@@ -1595,7 +1595,7 @@
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
       "source": "Hold your godchildren for a second, would ya?",
-      "target": "帮我抱一下你的教子们，行吗？"
+      "target": "帮我抱一下你的教子和教女，行吗？"
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
@@ -1980,7 +1980,7 @@
     {
       "file": "tl/zh_hans/src/plot/deb_tv.rpy",
       "source": "{i}*Ahem*{/i} O-okay.",
-      "target": "{i}*咳嗯*{/i} 好、好吧。"
+      "target": "{i}*咳咳*{/i} 好、好吧。"
     },
     {
       "file": "tl/zh_hans/src/plot/deb_tv.rpy",
@@ -2177,7 +2177,7 @@
       "file": "tl/zh_hans/src/plot/ano09.rpy",
       "id": "ano09_tony_merge_f51555ee",
       "source": "Not only were they running a fifteen percent off deal...",
-      "target": "正好赶上他们打八五折……"
+      "target": "不光赶上他们打八五折……"
     },
     {
       "file": "tl/zh_hans/src/plot/ano09.rpy",
@@ -5956,7 +5956,7 @@
     {
       "file": "tl/zh_hans/src/plot/mel02.rpy",
       "source": "Y-yeah, why?",
-      "target": "是——是啊，怎么了？",
+      "target": "是、是啊，怎么了？",
       "id": "mel02_eve_den_merge_b6542e7e"
     },
     {
@@ -6478,7 +6478,7 @@
     {
       "file": "tl/zh_hans/src/plot/jen10.rpy",
       "source": "Umm, hello?!",
-      "target": "喂，听见没有？！",
+      "target": "喂？！",
       "id": "jen10_grace_rails_3fa38835"
     },
     {
@@ -6706,7 +6706,7 @@
     {
       "file": "tl/zh_hans/src/plot/deb_baby.rpy",
       "source": "I'm going to spoil you rotten.",
-      "target": "以后非得宠上天不可。",
+      "target": "我非得把你们宠上天不可。",
       "id": "deb_baby_meet_525e5ae5"
     },
     {
@@ -7102,7 +7102,7 @@
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
       "source": "Enter the garage [saga.lang.wait(f)!t] in the [f.when!l].",
-      "target": "[saga.lang.wait(f)!t][f.when!l]进入车库。",
+      "target": "[f.when!l][saga.lang.wait(f)!t]进入车库。",
       "id": "strings"
     },
     {
@@ -10270,6 +10270,932 @@
       "source": "... YYOOOUUUU!!",
       "target": "……妈的！！",
       "id": "jen24_jenny_alt_7d700a05"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "source": "That feels really good.",
+      "target": "真舒服。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "That feels really good.",
+      "target": "真舒服。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "source": "Yes, ma'am.",
+      "target": "是，老板娘。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "source": "C'mere you!",
+      "target": "你小子过来！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "source": "OH MY GAWD!",
+      "target": "哦，我的天哪！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "I love the color.",
+      "target": "我喜欢这个颜色。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "Yes, sir.",
+      "target": "是，老板。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "source": "C'mon, let's get crackin' on those deliveries, eh?",
+      "target": "走，赶紧把那些订单送掉，嗯？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Umm, hello?!",
+      "target": "喂？！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Yup.",
+      "target": "嗯。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Well, go and get it!",
+      "target": "那就去拿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Here.",
+      "target": "给。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Whatever.",
+      "target": "随便吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "I uhh...",
+      "target": "我呃……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "What are you-",
+      "target": "你这是在——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "O-oh.",
+      "target": "哦……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Eugh...",
+      "target": "呕……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Eugh.",
+      "target": "呕。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Grr!",
+      "target": "哼！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "source": "Yeah right, trying to rub all her success in my face!",
+      "target": "得了吧，就是想在我面前显摆她的成功！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "source": "Gotcha.",
+      "target": "懂了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "source": "Hmm, deriveries you say?",
+      "target": "嗯，你说送货？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "source": "No.",
+      "target": "没有。",
+      "id": "jos01_josie1_bf788938"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "source": "You're not going to help me, are you?",
+      "target": "你不会帮我的，对吧？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "source": "W-what the-",
+      "target": "什、什么——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "source": "N-no, sir.",
+      "target": "没、没有，先生。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "source": "O-okay.",
+      "target": "好、好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "How are you feeling?",
+      "target": "你感觉怎么样？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Y-yeah, okay.",
+      "target": "好、好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Yeah, how are you guys doing?",
+      "target": "是啊，你们怎么样？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "Hi, [saga.cast.maria].",
+      "target": "嗨，[saga.cast.maria]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "She's just so beautiful!",
+      "target": "她真漂亮！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "source": "They're just so beautiful!",
+      "target": "他们真漂亮！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "source": "Mhmm.",
+      "target": "嗯哼。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "source": "Wow.",
+      "target": "哇。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "source": "Heh.",
+      "target": "呵。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "source": "Ahh!!",
+      "target": "啊！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "source": "Oh!!!",
+      "target": "啊！！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "Hahahaah!",
+      "target": "哈哈哈！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "Really?",
+      "target": "真的？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "R-really?",
+      "target": "真、真的？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "Ugh, fine.",
+      "target": "呃，好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "Eugh...",
+      "target": "呕……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "Aww...",
+      "target": "哎呀……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "I err...",
+      "target": "我呃……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "Ugh...",
+      "target": "呃……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "Oh my god, oh my god, OH MY GOD!",
+      "target": "天哪，天哪，我的天哪！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "source": "( Oh, it's almost time for my date with [saga.cast.jenny]. )",
+      "target": "（哦，差不多该和[saga.cast.jenny]去约会了。）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Alright.",
+      "target": "好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Yeah.",
+      "target": "是啊。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Vari-what?",
+      "target": "渐进什么？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Heh, I have my ways.",
+      "target": "呵，我有我的办法。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "source": "Uh oh, I got it stuck in this mode!",
+      "target": "糟糕，我把它卡在这个模式里了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "source": "Heh, whatever.",
+      "target": "呵，随你怎么说。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Really?",
+      "target": "真的？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Huh?",
+      "target": "哈？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "Hey, it's about time! I was starting to think you flaked on me!",
+      "target": "嘿，你总算来了！我还以为你放我鸽子了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "source": "F-fingerings?",
+      "target": "指、指法？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "You know what?",
+      "target": "这样吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Mhmm.",
+      "target": "嗯哼。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "{i}*Muah*{/i}",
+      "target": "{i}*啵*{/i}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "source": "Are you sure there's nothing you can do?",
+      "target": "真没别的办法了？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Really?",
+      "target": "真的吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Alright.",
+      "target": "好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Y-yeah, okay.",
+      "target": "好、好的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Mmm.",
+      "target": "嗯。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "If you say so.",
+      "target": "好吧，你都这么说了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "Hehe.",
+      "target": "嘿嘿。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "What happened?",
+      "target": "怎么了？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Pfft, yeah right.",
+      "target": "切，才怪。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Oh, I've seen it plenty of times.",
+      "target": "哦，我见过很多次了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Tiny, eh? That's too bad.",
+      "target": "很小，是吧？那太可惜了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Ce serait ennuyeux...",
+      "target": "Ce serait ennuyeux...（那可就麻烦了……）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Tu me sauves la vie!",
+      "target": "Tu me sauves la vie!（你救了我的命！）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Heh, I told you I would.",
+      "target": "呵，我就说我能拿回来吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "N-no?",
+      "target": "不、不要？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "N-no!!",
+      "target": "不、不是！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Hehe, I dunno. It has its perks.",
+      "target": "呵呵，谁知道呢。也不是没有好处。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "YES!!!",
+      "target": "对！！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Mhmm.",
+      "target": "嗯哼。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Hehehe!",
+      "target": "嘿嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Yeah?",
+      "target": "是吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Heh!",
+      "target": "呵！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Y-yeah.",
+      "target": "是、是啊。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "SOGOODSOOGOODSOOOOGOOOOODDDD!!!",
+      "target": "好舒服好舒服好舒服好——！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "source": "Oh, Jesus!",
+      "target": "哦，天哪！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "source": "Really?",
+      "target": "真的？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "source": "I'm not hiding.",
+      "target": "我没躲。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "source": "Oh, really?",
+      "target": "哦，是吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Heh!",
+      "target": "呵！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Heh.",
+      "target": "呵。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Hehe.",
+      "target": "嘿嘿。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Alright, alright!",
+      "target": "好了，好了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Alright.",
+      "target": "好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Y-yeah, okay.",
+      "target": "是、是，好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Yeah, okay.",
+      "target": "嗯，好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Okay.",
+      "target": "好。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "Good lord!",
+      "target": "老天爷！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "See, I told ya!",
+      "target": "瞧，我早告诉过你吧！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "source": "I can't believe we're doing this.",
+      "target": "真不敢相信我们真要做了。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Heh!",
+      "target": "呵！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Heh.",
+      "target": "呵。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Aww.",
+      "target": "哎呀。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Nom.",
+      "target": "啊呜。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "HNNGGG!!!",
+      "target": "嗯啊啊啊！！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "NGGHHH!!!",
+      "target": "嗯啊啊啊！！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "{i}*Ahem*{/i} Y-yeah, [saga.cast.debbie]... it's me.",
+      "target": "{i}*咳咳*{/i} 是、是啊，[saga.cast.debbie]……是我。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Aww, sweetie.",
+      "target": "哎呀，亲爱的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Y-yeah, okay.",
+      "target": "好、好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Anything for my baby.",
+      "target": "为了我的宝贝，什么都行。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Just like that.",
+      "target": "就这样。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Thanks, [saga.cast.debbie].",
+      "target": "谢了，[saga.cast.debbie]。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Well, yeah...",
+      "target": "嗯，是啊……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Heh, that tickles!",
+      "target": "呵，好痒！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Okay, sweetie.",
+      "target": "好的，亲爱的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Oh, wow!",
+      "target": "哦，哇！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Here it...",
+      "target": "就要……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "... Comes!!",
+      "target": "……来了！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "{i}*Sluuuuuuurp*{/i}",
+      "target": "{i}*吸溜——*{/i}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Mhmm.",
+      "target": "嗯哼。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Haah... haah...",
+      "target": "哈啊……哈啊……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Mm.",
+      "target": "嗯。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "O-kay.",
+      "target": "好、好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Heh, yeah.",
+      "target": "呵，是啊。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "That's my good boy.",
+      "target": "这才乖嘛。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "source": "Hello?",
+      "target": "有人吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Oh, hey, sweetie!",
+      "target": "哦，嘿，亲爱的！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Heh.",
+      "target": "呵。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Aww.",
+      "target": "哎呀。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "You want some?",
+      "target": "你想尝尝吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Thank you.",
+      "target": "谢谢。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Oh, wow!",
+      "target": "哦，哇！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "I love you so much!",
+      "target": "我太爱你了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "What?",
+      "target": "什么？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Sheesh!",
+      "target": "天啊！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Sheesh.",
+      "target": "真是的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Oh, holy crap!",
+      "target": "我靠！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Oh, really?",
+      "target": "哦，真的吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "I'm going to spoil you rotten.",
+      "target": "我非得把你们宠上天不可。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Did you take a picture?",
+      "target": "你拍照了吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "source": "Babies are a blessing.",
+      "target": "孩子是上天的恩赐。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Alright.",
+      "target": "好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Y-yeah.",
+      "target": "是、是啊。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Aww, sweetie.",
+      "target": "哎呀，亲爱的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Thank you.",
+      "target": "谢谢。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "{i}*Snort*{/i}",
+      "target": "{i}*噗嗤*{/i}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Heh!",
+      "target": "呵！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "HNNGGG!!!",
+      "target": "嗯啊啊啊！！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "{i}*Yawn*{/i}",
+      "target": "{i}*哈欠*{/i}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "That's right.",
+      "target": "没错。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "That was weird.",
+      "target": "真奇怪。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Heh, that tickles!",
+      "target": "呵，好痒！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Yes, please.",
+      "target": "好的，谢谢。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Mhm.",
+      "target": "嗯。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Mhmm.",
+      "target": "嗯哼。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Hehe, sweetie!!",
+      "target": "呵呵，亲爱的！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Aww!",
+      "target": "哎呀！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "source": "Aww, alright.",
+      "target": "哎呀，好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "O-kay.",
+      "target": "好、好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Yeah, okay.",
+      "target": "嗯，好吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Uh huh.",
+      "target": "嗯哼。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "I'm sorry?",
+      "target": "你说什么？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "{i}*Mumbles incoherently*{/i}",
+      "target": "{i}*含糊不清地嘟囔*{/i}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Can I get you something?",
+      "target": "要不要我给你拿点什么？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "[saga.cast.debbie] is driving you crazy?",
+      "target": "[saga.cast.debbie]快把你逼疯了？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Are you still mad?",
+      "target": "你还在生气吗？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "NGGHHH!!!",
+      "target": "嗯啊啊啊！！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "HNNGGG!!!",
+      "target": "嗯啊啊啊！！！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Hehe!",
+      "target": "嘿嘿！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Yes, ma'am.",
+      "target": "是，夫人。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Om, nom, nom!",
+      "target": "嗷呜嗷呜嗷呜！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Om, nom, nom.",
+      "target": "嗷呜嗷呜嗷呜。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Om, nom.",
+      "target": "嗷呜嗷呜。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Sheesh, what's gotten into you?!",
+      "target": "天啊，你发什么疯啊？！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "Good lord, [saga.cast.debbie]...",
+      "target": "老天爷，[saga.cast.debbie]……"
     }
   ],
   "updated": "2026-09-13"

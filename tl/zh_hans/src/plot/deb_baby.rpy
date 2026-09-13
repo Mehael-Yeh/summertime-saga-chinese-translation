@@ -592,7 +592,7 @@ translate zh_hans deb_baby_tell_alt_0b6d7aa6:
 translate zh_hans deb_baby_tell_alt_f23cfa9c:
 
     # debbie a_nervous f_calm o_left "Oh, hey, sweetie!"
-    debbie a_nervous f_calm o_left "哦，亲爱的，你来了！"
+    debbie a_nervous f_calm o_left "哦，嘿，亲爱的！"
 
 # game/src/plot/deb_baby.rpy:271
 translate zh_hans deb_baby_tell_alt_561d7079:
@@ -634,7 +634,7 @@ translate zh_hans deb_baby_tell_rails_791e5333:
 translate zh_hans deb_baby_tell_redo_5a71573d:
 
     # debbie e_w "No, something wonderful has happened!"
-    debbie e_w "不，是好事发生了！"
+    debbie e_w "不，是有件大好事！"
 
 # game/src/plot/deb_baby.rpy:303
 translate zh_hans deb_baby_tell_redo_46ac374b:
@@ -772,7 +772,7 @@ translate zh_hans deb_baby_late_help_0bac632b:
 translate zh_hans deb_baby_late_help_457be4a2:
 
     # debbie "I enjoy cooking for you."
-    debbie "我喜欢给你做早餐。"
+    debbie "我喜欢给你做饭。"
 
 # game/src/plot/deb_baby.rpy:392
 translate zh_hans deb_baby_late_help_65784a9b:
@@ -862,7 +862,7 @@ translate zh_hans deb_baby_late_intro_69ea6692:
 translate zh_hans deb_baby_late_intro_8325178a:
 
     # debbie "Oh, hey, sweetie!"
-    debbie "哦，亲爱的！"
+    debbie "哦，嘿，亲爱的！"
 
 # game/src/plot/deb_baby.rpy:436
 translate zh_hans deb_baby_late_mood_eb780b0f:
@@ -1054,7 +1054,7 @@ translate zh_hans deb_baby_late_pool_8b290eb0:
 translate zh_hans deb_baby_late_pool_78638209:
 
     # anon "Heh."
-    anon "呵呵。"
+    anon "呵。"
 
 # game/src/plot/deb_baby.rpy:512
 translate zh_hans deb_baby_late_sleep_e1394f61:
@@ -1186,7 +1186,7 @@ translate zh_hans deb_baby_jenny_4833dc79:
 translate zh_hans deb_baby_jenny_0c5ca78c:
 
     # diane @ e_b f_happy m_laugh "{i}*Snort*{/i}"
-    diane @ e_b f_happy m_laugh "{i}*噗嗤！*{/i}"
+    diane @ e_b f_happy m_laugh "{i}*噗嗤*{/i}"
 
 # game/src/plot/deb_baby.rpy:603
 translate zh_hans deb_baby_jenny_eaaf91e6:
@@ -1276,7 +1276,7 @@ translate zh_hans deb_baby_jenny_4b266a94:
 translate zh_hans deb_baby_jenny_18afc36f:
 
     # jenny a_fold e_r f_annoyed "Oh, frozen sperm... how convenient."
-    jenny a_fold e_r f_annoyed "哦，冷冻精子……真方便。"
+    jenny a_fold e_r f_annoyed "哦，冷冻精子……可真方便。"
 
 # game/src/plot/deb_baby.rpy:632
 translate zh_hans deb_baby_jenny_41bdad6b:
@@ -1378,7 +1378,7 @@ translate zh_hans deb_baby_jenny_c5e88ea4:
 translate zh_hans deb_baby_jenny_78638209:
 
     # anon "Heh."
-    anon "嘿。"
+    anon "呵。"
 
 # game/src/plot/deb_baby.rpy:660
 translate zh_hans deb_baby_jenny_0feea307:
@@ -1546,7 +1546,7 @@ translate zh_hans deb_baby_jenny_merge_61027ed4:
 translate zh_hans deb_baby_jenny_merge_0a9d4558:
 
     # diane "Sheesh!"
-    diane "老天！"
+    diane "天啊！"
 
 # game/src/plot/deb_baby.rpy:715
 translate zh_hans deb_baby_jenny_merge_2bdfecf1:
@@ -1666,7 +1666,7 @@ translate zh_hans deb_baby_jenny_merge_795fe52d_1:
 translate zh_hans deb_baby_jenny_merge_2fe06728:
 
     # debbie "Gosh, you're insatiable!"
-    debbie "天啊，你真是贪得无厌！"
+    debbie "天啊，你可真贪心！"
 
 # game/src/plot/deb_baby.rpy:745
 translate zh_hans deb_baby_jenny_merge_e101b80c:
@@ -1726,7 +1726,7 @@ translate zh_hans deb_baby_jenny_merge_f523c372:
 translate zh_hans deb_baby_jenny_merge_da3a286f:
 
     # anon e_w f_happy @ -m_talk "( And now everything with the baby seems to be settled. )"
-    anon e_w f_happy @ -m_talk "（看来孩子的事也算应付过去了。）"
+    anon e_w f_happy @ -m_talk "（看来孩子的事也算是定下来了。）"
 
 # game/src/plot/deb_baby.rpy:780
 translate zh_hans deb_baby_jenny_merge_bd711892:
@@ -1786,7 +1786,7 @@ translate zh_hans deb_baby_jenny_alt_b1162fbb:
 translate zh_hans deb_baby_jenny_alt_1e0d8ac8:
 
     # debbie a_touch_belly e_s f_happy "Babies are a blessing."
-    debbie a_touch_belly e_s f_happy "孩子们是上天的恩赐。"
+    debbie a_touch_belly e_s f_happy "孩子是上天的恩赐。"
 
 # game/src/plot/deb_baby.rpy:799
 translate zh_hans deb_baby_jenny_alt_7ecfc07e:
@@ -1942,7 +1942,7 @@ translate zh_hans deb_baby_bump_help1_0a3a4a72:
 translate zh_hans deb_baby_bump_help1_a8ffd3c6:
 
     # anon a_side "Did you take a picture?"
-    anon a_side "你拍照留证了吗？"
+    anon a_side "你拍照了吗？"
 
 # game/src/plot/deb_baby.rpy:896
 translate zh_hans deb_baby_bump_help1_5b29db53:
@@ -2056,7 +2056,7 @@ translate zh_hans deb_baby_bump_intro_dbf4e260:
 translate zh_hans deb_baby_bump_mood_c2f117c3:
 
     # anon a_rub f_shy "You're so affectionate lately."
-    anon a_rub f_shy "你最近怎么这么黏人？"
+    anon a_rub f_shy "你最近真黏人。"
 
 # game/src/plot/deb_baby.rpy:960
 translate zh_hans deb_baby_bump_mood_4ffc659a:
@@ -2098,7 +2098,7 @@ translate zh_hans deb_baby_bump_mood_8aa6e79d:
 translate zh_hans deb_baby_bump_mood_2577ba83:
 
     # debbie f_happy @ e_b m_laugh "Hehe!"
-    debbie f_happy @ e_b m_laugh "呵呵！"
+    debbie f_happy @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/deb_baby.rpy:972
 translate zh_hans deb_baby_bump_mood_61027ed4:
@@ -2128,7 +2128,7 @@ translate zh_hans deb_baby_bump_okay_becb8164:
 translate zh_hans deb_baby_bump_okay_ef1714f9:
 
     # anon f_shy @ e_sw "W-with the baby, I mean."
-    anon f_shy @ e_sw "我、我是问……你和孩子。"
+    anon f_shy @ e_sw "我、我是说孩子的事。"
 
 # game/src/plot/deb_baby.rpy:986
 translate zh_hans deb_baby_bump_okay_13de4e61:
@@ -2284,7 +2284,7 @@ translate zh_hans deb_baby_bump_pool_16d97250:
 translate zh_hans deb_baby_bump_pool_1bfdd5ce:
 
     # anon "Aww."
-    anon "哎——"
+    anon "哎呀。"
 
 # game/src/plot/deb_baby.rpy:1041
 translate zh_hans deb_baby_belly_a1967dee:
@@ -2470,7 +2470,7 @@ translate zh_hans deb_baby_belly_food1_93251b02:
 translate zh_hans deb_baby_belly_food1_3c0c5cfd:
 
     # anon a_facepalm "Sheesh."
-    anon a_facepalm "真服了。"
+    anon a_facepalm "真是的。"
 
 # game/src/plot/deb_baby.rpy:1163
 translate zh_hans deb_baby_belly_food1b_eb780b0f:
@@ -2536,7 +2536,7 @@ translate zh_hans deb_baby_belly_food2_988ef857:
 translate zh_hans deb_baby_belly_food2_dae78df7:
 
     # debbie a_mayo_give e_w f_curious "You want some?"
-    debbie a_mayo_give e_w f_curious "你要不要来点？"
+    debbie a_mayo_give e_w f_curious "你想尝尝吗？"
 
 # game/src/plot/deb_baby.rpy:1192
 translate zh_hans deb_baby_belly_food2_e77c4a38:
@@ -2770,7 +2770,7 @@ translate zh_hans deb_baby_belly_laundry_684e51bc:
 translate zh_hans deb_baby_belly_laundry_dda7ae3f:
 
     # anon a_side f_shy "Thank you."
-    anon a_side f_shy "谢谢你。"
+    anon a_side f_shy "谢谢。"
 
 # game/src/plot/deb_baby.rpy:1293
 translate zh_hans deb_baby_belly_okay_27f60596:
@@ -2956,7 +2956,7 @@ translate zh_hans deb_baby_belly_pool_2a99945b:
 translate zh_hans deb_baby_read2_b33f081b:
 
     # anon "Oh, holy crap!"
-    anon "天啊！"
+    anon "我靠！"
 
 # game/src/plot/deb_baby.rpy:1356
 translate zh_hans deb_baby_read2_7f5134ce:
@@ -3052,7 +3052,7 @@ translate zh_hans deb_baby_meet_e04ac368:
 translate zh_hans deb_baby_meet_d7c62096:
 
     # anon a_side e_wsw f_happy "Oh, wow!"
-    anon a_side e_wsw f_happy "哇！"
+    anon a_side e_wsw f_happy "哦，哇！"
 
 # game/src/plot/deb_baby.rpy:1409
 translate zh_hans deb_baby_meet_fe167f6b:
@@ -3106,7 +3106,7 @@ translate zh_hans deb_baby_meet_9b26c6fd:
 translate zh_hans deb_baby_meet_3fc6ffe9:
 
     # anon @ f_calm "Yeah, you are."
-    anon @ f_calm "嗯，真的。"
+    anon @ f_calm "嗯，是啊。"
 
 # game/src/plot/deb_baby.rpy:1424
 translate zh_hans deb_baby_meet_52b4185d:
@@ -3124,7 +3124,7 @@ translate zh_hans deb_baby_meet_6c7ac28e:
 translate zh_hans deb_baby_meet_0e360855:
 
     # debbie "I love you so much!"
-    debbie "我真的好爱你！"
+    debbie "我太爱你了！"
 
 # game/src/plot/deb_baby.rpy:1428
 translate zh_hans deb_baby_meet_5816b951:
@@ -3244,7 +3244,7 @@ translate zh_hans deb_baby_meet_3f727d61:
 translate zh_hans deb_baby_meet_0d0e47d7:
 
     # debbie e_wnw f_calm "Aww, I know you are, sweetie."
-    debbie e_wnw f_calm "嗯，我知道，亲爱的。"
+    debbie e_wnw f_calm "哎呀，我知道，亲爱的。"
 
 # game/src/plot/deb_baby.rpy:1478
 translate zh_hans deb_baby_meet_c87f3e01:
@@ -3310,13 +3310,13 @@ translate zh_hans deb_baby_meet_cb5ae2fd:
 translate zh_hans deb_baby_meet_525e5ae5:
 
     # anon "I'm going to spoil you rotten."
-    anon "以后非得宠上天不可。"
+    anon "我非得把你们宠上天不可。"
 
 # game/src/plot/deb_baby.rpy:1501
 translate zh_hans deb_baby_meet_ea70a514:
 
     # debbie "{i}*Sniff*{/i} Oh, I love you so much."
-    debbie "{i}*抽泣*{/i} 哦，我真的好爱你。"
+    debbie "{i}*抽泣*{/i} 哦，我太爱你了。"
 
 # game/src/plot/deb_baby.rpy:1503
 translate zh_hans deb_baby_meet_e1e2e7ca:
@@ -3394,13 +3394,13 @@ translate zh_hans deb_baby_meet_rails_48770d11:
 translate zh_hans deb_baby_meet_rails_780dc94c:
 
     # anon f_worried @ -m_talk "( ... With [saga.cast.jenny]. )"
-    anon f_worried @ -m_talk "（……还是跟[saga.cast.jenny]一起去的。）"
+    anon f_worried @ -m_talk "（……还有[saga.cast.jenny]陪着。）"
 
 # game/src/plot/deb_baby.rpy:1543
 translate zh_hans deb_baby_meet_rails_1c7dc285:
 
     # anon f_worried_surprised @ -m_talk "( Not exactly my first choice for moral support... I should get there right away! )"
-    anon f_worried_surprised @ -m_talk "（要找人陪着壮胆，她可绝不是首选……我得马上赶过去！）"
+    anon f_worried_surprised @ -m_talk "（要说精神支持，她可不是我的首选……我得马上赶过去！）"
 
 # game/src/plot/deb_baby.rpy:1562
 translate zh_hans deb_baby_rest_help_85ae4127:
@@ -3418,7 +3418,7 @@ translate zh_hans deb_baby_rest_help_d8509142:
 translate zh_hans deb_baby_rest_help_ce11519b:
 
     # debbie f_sad "I worry about her being alone."
-    debbie f_sad "我担心她一个人没人管。"
+    debbie f_sad "我担心她一个人待着。"
 
 # game/src/plot/deb_baby.rpy:1566
 translate zh_hans deb_baby_rest_help_56906376:
@@ -3466,7 +3466,7 @@ translate zh_hans deb_baby_rest_help_146b744b:
 translate zh_hans deb_baby_rest_help_9792fc10:
 
     # anon e_wsw f_shy_surprised "In fact, we've been spending lots of... {i}quality{/i} time together as of late."
-    anon e_wsw f_shy_surprised "其实，我们最近经常一起……{i}好好相处{/i}。"
+    anon e_wsw f_shy_surprised "其实，我们最近经常一起度过……{i}美好时光{/i}。"
 
 # game/src/plot/deb_baby.rpy:1580
 translate zh_hans deb_baby_rest_help_8f08f8a3:
@@ -4204,7 +4204,7 @@ translate zh_hans deb_baby_home_c402d20d:
 translate zh_hans deb_baby_home_4aa5a925:
 
     # debbie "Hehe!"
-    debbie "呵呵！"
+    debbie "嘿嘿！"
 
 # game/src/plot/deb_baby.rpy:1870
 translate zh_hans deb_baby_home_244739f4:
@@ -4390,7 +4390,7 @@ translate zh_hans deb_baby_post_help_3608448c:
 translate zh_hans deb_baby_post_help_cdbf7063:
 
     # debbie "What?"
-    debbie "什么？！"
+    debbie "什么？"
 
 # game/src/plot/deb_baby.rpy:1946
 translate zh_hans deb_baby_post_help_b2627375:

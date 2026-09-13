@@ -106,7 +106,7 @@ translate zh_hans jen10_lobby_d078b3bd:
 translate zh_hans jen10_lobby_a13d42c5:
 
     # jenny "Besides, you owe me for that little screw up with the toy the other day."
-    jenny "再说，上次买错玩具的账我还没跟你算呢。"
+    jenny "再说，上次那玩具的事搞砸了，你还欠我呢。"
 
 # game/src/plot/jen10.rpy:38
 translate zh_hans jen10_lobby_d60dcb56:
@@ -334,7 +334,7 @@ translate zh_hans jen10_lobby_alt_4f86e9f3:
 translate zh_hans jen10_lobby_alt_2d366079:
 
     # jenny "You owe me for that screw up with the toy the other day."
-    jenny "你还欠我呢，那天玩具的事搞砸了。"
+    jenny "上次那玩具的事搞砸了，你还欠我呢。"
 
 # game/src/plot/jen10.rpy:121
 translate zh_hans jen10_lobby_alt_8caa2a3b:
@@ -388,7 +388,7 @@ translate zh_hans jen10_lobby_alt_2d79f492:
 translate zh_hans jen10_lobby_alt_9a912d45:
 
     # jenny a_point "Well, go and get it!"
-    jenny a_point "那就去拿啊！"
+    jenny a_point "那就去拿！"
 
 # game/src/plot/jen10.rpy:136
 translate zh_hans jen10_lobby_alt_f67e4f69:
@@ -418,7 +418,7 @@ translate zh_hans jen10_lobby_alt_d611a819:
 translate zh_hans jen10_lobby_merge2_a457e7c6:
 
     # anon a_cash "Here."
-    anon a_cash "给你。"
+    anon a_cash "给。"
 
 # game/src/plot/jen10.rpy:149
 translate zh_hans jen10_lobby_merge2_b4a23d7f:
@@ -496,7 +496,7 @@ translate zh_hans jen10_retry_f9bbf50e:
 translate zh_hans jen10_retry_ffae01ff:
 
     # anon f_calm "Yup."
-    anon f_calm "没错。"
+    anon f_calm "嗯。"
 
 # game/src/plot/jen10.rpy:191
 translate zh_hans jen10_retry_16aa7bd7:
@@ -610,7 +610,7 @@ translate zh_hans jen10_retry_busy_2ed55414:
 translate zh_hans jen10_retry_busy_a9a27446:
 
     # anon f_grumpy "Ugh, fine."
-    anon f_grumpy "啊，好吧。"
+    anon f_grumpy "呃，好吧。"
 
 # game/src/plot/jen10.rpy:263
 translate zh_hans jen10_retry_cash_81ac18b4:
@@ -832,7 +832,7 @@ translate zh_hans jen10_grace_30cee8f3:
 translate zh_hans jen10_grace_6910f659:
 
     # grace "Oh my god, it is you!"
-    grace "哦天哪，是你！"
+    grace "哦，天哪，是你！"
 
 # game/src/plot/jen10.rpy:369
 translate zh_hans jen10_grace_819c0e30:
@@ -934,13 +934,13 @@ translate zh_hans jen10_grace_afdc9a68:
 translate zh_hans jen10_grace_537a5ea3:
 
     # jenny f_sad "I uhh..."
-    jenny f_sad "我、呃……"
+    jenny f_sad "我呃……"
 
 # game/src/plot/jen10.rpy:393
 translate zh_hans jen10_grace_75e5d4bb:
 
     # jenny f_surprised "I uhh..."
-    jenny f_surprised "我、呃……"
+    jenny f_surprised "我呃……"
 
 # game/src/plot/jen10.rpy:394
 translate zh_hans jen10_grace_1f058662:
@@ -1012,7 +1012,7 @@ translate zh_hans jen10_grace_9b4bc25a:
 translate zh_hans jen10_grace_4a2b74e5:
 
     # grace "What are you-"
-    grace "你这是在干什么——"
+    grace "你这是在——"
 
 # game/src/plot/jen10.rpy:413
 translate zh_hans jen10_grace_709288bc:
@@ -1054,7 +1054,7 @@ translate zh_hans jen10_grace_9d812859:
 translate zh_hans jen10_grace_f274d778:
 
     # grace "O-oh."
-    grace "哦——哦。"
+    grace "哦……"
 
 # game/src/plot/jen10.rpy:420
 translate zh_hans jen10_grace_6f3af5fa:
@@ -1186,7 +1186,7 @@ translate zh_hans jen10_grace_a4c70fb0:
 translate zh_hans jen10_grace_820f8745:
 
     # jenny e_r f_annoyed m_idle "N-not because I have to or anything..."
-    jenny e_r f_annoyed m_idle "才……才不是因为必须住什么的……"
+    jenny e_r f_annoyed m_idle "才、才不是因为必须住什么的……"
 
 # game/src/plot/jen10.rpy:455
 translate zh_hans jen10_grace_283056e2:
@@ -1222,7 +1222,7 @@ translate zh_hans jen10_grace_e82a964d:
 translate zh_hans jen10_grace_76502fc3:
 
     # anon @ e_e "Yup."
-    anon @ e_e "没错。"
+    anon @ e_e "嗯。"
 
 # game/src/plot/jen10.rpy:464
 translate zh_hans jen10_grace_1715dfeb:
@@ -1330,13 +1330,13 @@ translate zh_hans jen10_grace_9b4295be:
 translate zh_hans jen10_grace_8654d175:
 
     # grace @ e_b f_happy m_laugh "Hehe, thanks [saga.cast.anon]!"
-    grace @ e_b f_happy m_laugh "嘿嘿，谢谢，[saga.cast.anon]！"
+    grace @ e_b f_happy m_laugh "呵呵，谢谢，[saga.cast.anon]！"
 
 # game/src/plot/jen10.rpy:499
 translate zh_hans jen10_grace_d0c3afbf:
 
     # jenny @ e_r "Eugh..."
-    jenny @ e_r "呃……"
+    jenny @ e_r "呕……"
 
 # game/src/plot/jen10.rpy:502
 translate zh_hans jen10_grace_f83cca47_1:
@@ -1426,13 +1426,13 @@ translate zh_hans jen10_grace_03976ef5:
 translate zh_hans jen10_grace_75e5d4bb_1:
 
     # jenny f_surprised "I uhh..."
-    jenny f_surprised "我、呃……"
+    jenny f_surprised "我呃……"
 
 # game/src/plot/jen10.rpy:531
 translate zh_hans jen10_grace_49d8bb96:
 
     # anon f_shy "H-hey, [saga.cast.grace]... Umm, how is [saga.cast.odette] doing?"
-    anon f_shy "嘿，[saga.cast.grace]……嗯，[saga.cast.odette]还好吗？"
+    anon f_shy "嘿、嘿，[saga.cast.grace]……嗯，[saga.cast.odette]还好吗？"
 
 # game/src/plot/jen10.rpy:533
 translate zh_hans jen10_grace_b7d1a2a7:
@@ -1468,7 +1468,7 @@ translate zh_hans jen10_grace_4ea7dbbe:
 translate zh_hans jen10_grace_7aa60234:
 
     # anon f_shy "H-hey, [saga.cast.grace]... What brings you here?"
-    anon f_shy "嘿，嘿，[saga.cast.grace]……你怎么来了？"
+    anon f_shy "嘿、嘿，[saga.cast.grace]……你怎么来了？"
 
 # game/src/plot/jen10.rpy:541
 translate zh_hans jen10_grace_b7d1a2a7_1:
@@ -1528,7 +1528,7 @@ translate zh_hans jen10_grace_6b984a12:
 translate zh_hans jen10_grace_03976ef5_1:
 
     # jenny f_annoyed -m_teeth @ e_r "Eugh."
-    jenny f_annoyed -m_teeth @ e_r "呃。"
+    jenny f_annoyed -m_teeth @ e_r "呕。"
 
 # game/src/plot/jen10.rpy:562
 translate zh_hans jen10_grace_81b58ef3:
@@ -1726,7 +1726,7 @@ translate zh_hans jen10_grace_merge_01fe63d0:
 translate zh_hans jen10_grace_rails_3fa38835:
 
     # jenny "Umm, hello?!"
-    jenny "喂，听见没有？！"
+    jenny "喂？！"
 
 # game/src/plot/jen10.rpy:636
 translate zh_hans jen10_grace_rails_4d9e038c:
@@ -1786,7 +1786,7 @@ translate zh_hans jen10_shop_57c5308a:
 translate zh_hans jen10_shop_37c20d86:
 
     # jenny "Yeah right, trying to rub all her success in my face!"
-    jenny "是啊，就是想在我面前显摆她的成功！"
+    jenny "得了吧，就是想在我面前显摆她的成功！"
 
 # game/src/plot/jen10.rpy:658
 translate zh_hans jen10_shop_91dfb393:
@@ -1828,7 +1828,7 @@ translate zh_hans jen10_shop_c5afcb31:
 translate zh_hans jen10_shop_e38e4e67:
 
     # jenny "Grr!"
-    jenny "啊啊！"
+    jenny "哼！"
 
 # game/src/plot/jen10.rpy:667
 translate zh_hans jen10_shop_4201931a:
@@ -2014,7 +2014,7 @@ translate zh_hans jen10_toy_0592f92f:
 translate zh_hans jen10_toy_99a7346b:
 
     # jenny "Ugh, it's not that hard to figure out, dummy... everything is labeled."
-    jenny "唉，这又不难搞明白，笨蛋……所有东西都标好了。"
+    jenny "呃，这又不难搞明白，笨蛋……所有东西都标好了。"
 
 # game/src/plot/jen10.rpy:744
 translate zh_hans jen10_toy_merge_09d06ab8:
@@ -2026,7 +2026,7 @@ translate zh_hans jen10_toy_merge_09d06ab8:
 translate zh_hans jen10_toy_merge_dc657c88:
 
     # "*BZZZZZZ*{nw=1}"
-    "*滋~滋~*{nw=1}"
+    "*嗡嗡嗡——*{nw=1}"
 
 # game/src/plot/jen10.rpy:748
 translate zh_hans jen10_toy_merge_752d8cad:
@@ -2080,7 +2080,7 @@ translate zh_hans jen10_toy_merge_907ff6b9:
 translate zh_hans jen10_toy_merge_e28397b7:
 
     # jenny "Whatever."
-    jenny "随便。"
+    jenny "随便吧。"
 
 # game/src/plot/jen10.rpy:774
 translate zh_hans jen10_toy_merge_48fc7d51:

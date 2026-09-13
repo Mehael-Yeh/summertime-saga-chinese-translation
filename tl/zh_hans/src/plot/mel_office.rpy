@@ -141,7 +141,7 @@ translate zh_hans mel_office_merge_a472aee0:
 # game/src/plot/mel_office.rpy:87
 translate zh_hans mel_office_merge_9157c425:
     # melody "Fuuuuuuccccckkkk!!!"
-    melody "操————！！！"
+    melody "操——！！！"
 
 # game/src/plot/mel_office.rpy:89
 translate zh_hans mel_office_merge_86e8a61d:

@@ -2002,7 +2002,7 @@ translate zh_hans jen_gfe_jenny_creampie2_ded60586:
 translate zh_hans jen_gfe_jenny_creampie2_cfd69aab:
 
     # anon "Heh, whatever."
-    anon "嘿，随你怎么说。"
+    anon "呵，随你怎么说。"
 
 # game/src/plot/jen_gfe.rpy:726
 translate zh_hans jen_gfe_jenny_rails_e138a60b:
@@ -2152,7 +2152,7 @@ translate zh_hans jen_gfe_dawn_once_81fafb95:
 translate zh_hans jen_gfe_dawn_once_12e6d806:
 
     # jenny "Heh, whatever."
-    jenny "嘿，随你怎么说。"
+    jenny "呵，随你怎么说。"
 
 # game/src/plot/jen_gfe.rpy:795
 translate zh_hans jen_gfe_dawn_once_39a96d65:

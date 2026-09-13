@@ -20,7 +20,7 @@ translate zh_hans strings:
 
     # game/src/gui/tel.rpy:300
     old "Size: ???"
-    new "大小：……？"
+    new "大小：？？？"
 
     # game/src/gui/tel.rpy:331
     old "Background"

@@ -310,7 +310,7 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | dollface | 美人儿 | Maria／Tony 使用的老派亲昵称呼；不是人物专名，不保留英文 |
 | kid / kiddo | 小子／好小子 | 按责备、鼓励或熟稔语气选择，不与 `champ` 混用 |
 | Yes, sir! | 遵命，老板！ | Anon 对 Tony 的玩笑式或恭敬回应；当前是雇佣关系，不机械译“先生” |
-| Yes, ma’am. | 是，老板娘。 | Anon 对 Maria 的恭敬回应；结合披萨店经营关系处理 |
+| Yes, ma’am. | 是，老板娘。 | Anon 对 Maria 的恭敬回应；店铺与卧室等所有场景统一（mar_kitchen／ano09／ano10／ano11／mar_dark）；与 Anon 对 Debbie 的“夫人”分流，不用“遵命” |
 | scooter | 踏板车 | 与自行车、汽车分支区分 |
 | car dealership / dealership | 车行 | 购买、置换车辆的场所 |
 | trade-in | 旧车折价／旧车抵价 | 根据句式写“旧车抵了不少钱”“给旧车估了个好价”等 |
@@ -434,7 +434,7 @@ Erik的erik_karaoke2短信中raid是游戏团本，不是现实突袭计划。El
 | `little guys` | 小家伙们 | 指精子，保持 Tony 半玩笑式造人说法 |
 | `cannoli` | 意式奶油甜馅卷 | 食品核心译名不变；成人双关中仍保持同一意象 |
 | `au jus` | 肉汁 | Maria 在披萨店后厨使用的食物式性比喻 |
-| `Yes, ma’am.` | 是，老板娘。 | Anon 的服从式回应，同时对应 Maria 的经营者身份 |
+| `Yes, ma’am.` | 是，老板娘。 | Anon 的服从式回应，同时对应 Maria 的经营者身份；任何场景都用这一写法，不用“夫人／遵命” |
 | `break` | 休息／歇会儿 | 先指工作间歇，随后成为性交邀请和事后回味的连续双关 |
 | `Gimme another baby` | 再让我怀一个 | Maria 明确要求再次受孕，不直译成生硬的“再给我一个宝宝” |
 | `lookin’ for trouble` | 来找刺激／找刺激 | 后期性邀约式双关，不按普通“找麻烦”处理 |
@@ -862,6 +862,13 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 | *Gulp*（真实吞咽声） | *咕咚*（连续“*咕咚* *咕咚*”） | 口交吞精、带 `-m_drink` 的饮水、deb23／mar_cook |
 | *Gulp*（整口吞下） | *一口吞下* | bar03 美术课单处 |
 | *Snort*（熟睡） | *鼾声* | 与哼笑语境的 *噗嗤*／*嗤笑* 区分 |
+| Oh, gawd! | 哦，天哪！ | `gawd`／`god` 感叹按全库主流统一“天哪”，不写“天啊” |
+| OH MY GAWD! | 哦，我的天哪！ | 全大写加重句；同一文件同形，不额外加破折号 |
+| C'mere you! | 你小子过来！ | Tony 招呼 Anon 的固定说法（mar_dark 两处同形） |
+| Ugh | 呃 | 全库 204 处主流；不写“唉／啊” |
+| Eugh | 呕 | 表示恶心的呕声，与 `Ugh` 区分 |
+| Yeah right | 得了吧 | 反讽否定，不是附和 |
+| Hehe! / Hehe, | 嘿嘿！／呵呵， | 独立笑声与句首引语分写 |
 
 同一文件内的同源短句必须同形：`Okay, okay...`→“好好好……”，`Heh, whatever.`→“嘿，随你怎么说。”，`Yeah, me too.`→“嗯，我也是。”，`Hehehe!`→“嘿嘿嘿！”。以上词形规则配合 `sentence_patterns.json` 使用，新增同源字符串前先在全库检索既有写法。
 

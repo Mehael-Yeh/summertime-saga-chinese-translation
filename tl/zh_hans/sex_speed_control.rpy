@@ -120,22 +120,22 @@ screen lewd(items):
 # 默认语言为英语。当玩家选择此安装的简体中文（zh_hans）时，会自动选中此翻译块
 translate zh_hans strings:
     old "Slower"
-    new "\u6162\u4e00\u70b9"
+    new "慢一点"
 
     old "Faster"
-    new "\u5feb\u4e00\u70b9"
+    new "快一点"
 
     old "slow"
-    new "\u6162"
+    new "慢"
 
     old "slightly slower"
-    new "\u7a0d\u6162"
+    new "\u7a0d慢"
 
     old "normal"
-    new "\u6807\u51c6"
+    new "标准"
 
     old "fast"
-    new "\u5feb"
+    new "快"
 
     old "Animation speed: "
-    new "\u52a8\u753b\u901f\u5ea6\uff1a"
+    new "动画速度："

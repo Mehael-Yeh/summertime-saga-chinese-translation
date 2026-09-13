@@ -194,7 +194,7 @@ translate zh_hans ano15_shop1_8fb65a0c:
 
 
     # tony a_belly f_happy @ e_b m_laugh "Heh!"
-    tony a_belly f_happy @ e_b m_laugh "哈！"
+    tony a_belly f_happy @ e_b m_laugh "呵！"
 
 # game/src/plot/ano15.rpy:48
 translate zh_hans ano15_shop1_f577e333:
@@ -362,7 +362,7 @@ translate zh_hans ano15_shop1_cb7b62ad:
 
 
     # anon a_calm_down f_worried "Alright, alright!"
-    anon a_calm_down f_worried "好吧，好吧！"
+    anon a_calm_down f_worried "好了，好了！"
 
 # game/src/plot/ano15.rpy:92
 translate zh_hans ano15_shop1_b8267f83:
@@ -397,7 +397,7 @@ translate zh_hans ano15_shop1_f79c204b:
 
 
     # anon "Huh?"
-    anon "哈？"
+    anon "啊？"
 
 # game/src/plot/ano15.rpy:103
 translate zh_hans ano15_shop1_ae740484:
@@ -957,7 +957,7 @@ translate zh_hans ano15_shop1_0dcbbc42:
 
 
     # anon f_shy "Yeah, okay."
-    anon f_shy "嗯，好。"
+    anon f_shy "嗯，好吧。"
 
 # game/src/plot/ano15.rpy:262
 translate zh_hans ano15_shop1_1cbcc26d:
@@ -1174,7 +1174,7 @@ translate zh_hans ano15_shop1_lounge1_72b4fab7:
 
 
     # tony f_calm "Ahh, right... Heh."
-    tony f_calm "啊，对……嘿嘿。"
+    tony f_calm "啊，对……呵。"
 
 # game/src/plot/ano15.rpy:342
 translate zh_hans ano15_shop1_lounge1_c172d130:
@@ -1237,7 +1237,7 @@ translate zh_hans ano15_shop1_lounge1_eb02879a:
 
 
     # anon a_surprised_up_both e_w f_surprised "Huh?"
-    anon a_surprised_up_both e_w f_surprised "哈？"
+    anon a_surprised_up_both e_w f_surprised "嗯？"
 
 # game/src/plot/ano15.rpy:357
 translate zh_hans ano15_shop1_lounge1_5beb6f5c:
@@ -1650,7 +1650,7 @@ translate zh_hans ano15_delay_maria1_e6629870:
 
 
     # anon f_shy "Heh, me too."
-    anon f_shy "嘿，我也一样。"
+    anon f_shy "呵，我也一样。"
 
 # game/src/plot/ano15.rpy:508
 translate zh_hans ano15_delay_maria1_7835541d:
@@ -1699,7 +1699,7 @@ translate zh_hans ano15_delay_maria1_e07070d0:
 
 
     # maria e_w "Heh, that's what I meant."
-    maria e_w "嘿，我刚才就是这个意思。"
+    maria e_w "呵，我刚才就是这个意思。"
 
 # game/src/plot/ano15.rpy:519
 translate zh_hans ano15_delay_maria1_7cac6ca5:
@@ -1853,7 +1853,7 @@ translate zh_hans ano15_delay_maria2a_71fe23ca:
 
 
     # anon a_uneasy f_shy "Heh, you and me both."
-    anon a_uneasy f_shy "嘿，咱俩一样。"
+    anon a_uneasy f_shy "呵，咱俩一样。"
 
 # game/src/plot/ano15.rpy:562
 translate zh_hans ano15_delay_maria2a_7bcd4a77:
@@ -1902,7 +1902,7 @@ translate zh_hans ano15_delay_maria2a_c2a4e225:
 
 
     # maria f_happy @ e_b m_laugh "Hehe!"
-    maria f_happy @ e_b m_laugh "呵呵！"
+    maria f_happy @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/ano15.rpy:572
 translate zh_hans ano15_delay_maria2a_216a8772:
@@ -1965,7 +1965,7 @@ translate zh_hans ano15_delay_maria2a_97694fda:
 
 
     # anon a_behind_held e_sse f_shy "Heh, a file?"
-    anon a_behind_held e_sse f_shy "呃，锉刀？"
+    anon a_behind_held e_sse f_shy "呵，锉刀？"
 
 # game/src/plot/ano15.rpy:583
 translate zh_hans ano15_delay_maria2a_1e4ceb62:
@@ -2532,7 +2532,7 @@ translate zh_hans ano15_kitchen_4b9b3c42:
 
 
     # tony "Heh, attaboy!"
-    tony "嘿，好样的！"
+    tony "呵，好样的！"
 
 # game/src/plot/ano15.rpy:824
 translate zh_hans ano15_kitchen_7b6a4d3e:
@@ -3008,7 +3008,7 @@ translate zh_hans ano15_pantry_fb57717e:
 
 
     # maria p_shake_away_turn @ e_b f_happy m_laugh "Hehe!"
-    maria p_shake_away_turn @ e_b f_happy m_laugh "呵呵！"
+    maria p_shake_away_turn @ e_b f_happy m_laugh "嘿嘿！"
 
 # game/src/plot/ano15.rpy:986
 translate zh_hans ano15_pantry_d782feb0:
@@ -3057,7 +3057,7 @@ translate zh_hans ano15_pantry_420723f0:
 
 
     # tony "Heh, look at him [saga.cast.maria], he's completely dumbfounded!"
-    tony "嘿，[saga.cast.maria]，瞧他那傻样，整个人都看呆了！"
+    tony "呵，[saga.cast.maria]，瞧他那傻样，整个人都看呆了！"
 
 # game/src/plot/ano15.rpy:1008
 translate zh_hans ano15_pantry_8b6dd9d6:
@@ -3134,14 +3134,14 @@ translate zh_hans ano15_pantry_6d470d11:
 
 
     # tony @ e_b f_happy m_laugh "Heh, I think the kid's about to finish in his pants."
-    tony @ e_b f_happy m_laugh "我看这小子都快射裤裆里了。"
+    tony @ e_b f_happy m_laugh "呵，我看这小子都快射裤裆里了。"
 
 # game/src/plot/ano15.rpy:1028
 translate zh_hans ano15_pantry_45bf1ae5:
 
 
     # maria @ e_b f_happy m_laugh "Hehe!"
-    maria @ e_b f_happy m_laugh "呵呵！"
+    maria @ e_b f_happy m_laugh "嘿嘿！"
 
 # game/src/plot/ano15.rpy:1033
 translate zh_hans ano15_pantry_6d69d115:
@@ -3498,14 +3498,14 @@ translate zh_hans ano15_pantry_merge1_343f0d4b:
 
 
     # anon e_sw "Y-yeah, okay."
-    anon e_sw "是、是，好。"
+    anon e_sw "是、是，好吧。"
 
 # game/src/plot/ano15.rpy:1188
 translate zh_hans ano15_pantry_merge1_d7b5533e:
 
 
     # anon "I can't believe we're doing this."
-    anon "真不敢相信我们要做这种事。"
+    anon "真不敢相信我们真要做了。"
 
 # game/src/plot/ano15.rpy:1189
 translate zh_hans ano15_pantry_merge1_a555eba8:
@@ -3729,7 +3729,7 @@ translate zh_hans ano15_pantry_merge1_e12a506d_1:
 
 
     # anon "Okay."
-    anon "好的。"
+    anon "好。"
 
 # game/src/plot/ano15.rpy:1253
 translate zh_hans ano15_pantry_merge1_0ad88b01:
@@ -3764,7 +3764,7 @@ translate zh_hans ano15_pantry_merge1_ea449217:
 
 
     # maria "NOOOOWWW!!!"
-    maria "——在可不想听啊啊啊！！！"
+    maria "在可不想听啊啊啊！！！"
 
 # game/src/plot/ano15.rpy:1269
 translate zh_hans ano15_pantry_merge1_ecc859df:
@@ -3778,7 +3778,7 @@ translate zh_hans ano15_pantry_merge1_bc47dc82:
 
 
     # maria "Oh, gawd!"
-    maria "哦，老天！"
+    maria "哦，天哪！"
 
 # game/src/plot/ano15.rpy:1275
 translate zh_hans ano15_pantry_merge1_5cb3cd0d:
@@ -3813,7 +3813,7 @@ translate zh_hans ano15_pantry_merge1_285c7c02:
 
 
     # maria "AHHH, JESUS!!!" with flash
-    maria "啊！！！耶稣啊！！！" with flash
+    maria "啊！！！天哪！！！" with flash
 
 # game/src/plot/ano15.rpy:1287
 translate zh_hans ano15_pantry_merge1_9d887c86:
@@ -3855,7 +3855,7 @@ translate zh_hans ano15_pantry_merge1_6a5edf94:
 
 
     # maria s_15 "-IIINGGG!!!" with vpunch
-    maria s_15 "——续啊啊啊！！！" with vpunch
+    maria s_15 "续啊啊啊！！！" with vpunch
 
 # game/src/plot/ano15.rpy:1298
 translate zh_hans ano15_pantry_merge1_c42ddc21:
@@ -3876,7 +3876,7 @@ translate zh_hans ano15_pantry_merge1_227180c2:
 
 
     # maria "Oh gawd!"
-    maria "哦天哪！"
+    maria "哦，天哪！"
 
 # game/src/plot/ano15.rpy:1304
 translate zh_hans ano15_pantry_merge1_c168016d:
@@ -4002,7 +4002,7 @@ translate zh_hans ano15_pantry_merge1_d102f263:
 
 
     # maria "OH MY GAWD!"
-    maria "哦我的天哪！"
+    maria "哦，我的天哪！"
 
 # game/src/plot/ano15.rpy:1337
 translate zh_hans ano15_pantry_merge1_e9c50410:
@@ -4065,7 +4065,7 @@ translate zh_hans ano15_pantry_merge1_4f22fd6f:
 
 
     # anon f_shy "Heh, I won't."
-    anon f_shy "嘿，我不会。"
+    anon f_shy "呵，我不会。"
 
 # game/src/plot/ano15.rpy:1365
 translate zh_hans ano15_pantry_merge2_2eeba97c:
@@ -4100,14 +4100,14 @@ translate zh_hans ano15_pantry_merge2_2db3b2df:
 
 
     # tony "Heh!"
-    tony "嘿！"
+    tony "呵！"
 
 # game/src/plot/ano15.rpy:1379
 translate zh_hans ano15_pantry_merge2_65c8513c:
 
 
     # anon "Hehe."
-    anon "呵呵。"
+    anon "嘿嘿。"
 
 # game/src/plot/ano15.rpy:1383
 translate zh_hans ano15_pantry_merge2_f3518bab:
@@ -4191,7 +4191,7 @@ translate zh_hans ano15_pantry_merge2_f414ef56:
 
 
     # tony "Heh, not right now!"
-    tony "嘿，不是现在！"
+    tony "呵，不是现在！"
 
 # game/src/plot/ano15.rpy:1400
 translate zh_hans ano15_pantry_merge2_de3078ad:
@@ -4247,7 +4247,7 @@ translate zh_hans ano15_pantry_merge2_88ab823f:
 
 
     # maria e_b "Heh, me neither."
-    maria e_b "嘿，我也不介意。"
+    maria e_b "呵，我也不介意。"
 
 # game/src/plot/ano15.rpy:1414
 translate zh_hans ano15_pantry_merge2_9a9bb4e9:
@@ -4282,7 +4282,7 @@ translate zh_hans ano15_pantry_merge2_a1f61959:
 
 
     # anon "Y-yeah, okay."
-    anon "是、是，好。"
+    anon "是、是，好吧。"
 
 # game/src/plot/ano15.rpy:1421
 translate zh_hans ano15_pantry_merge2_1c33109d:
@@ -4324,7 +4324,7 @@ translate zh_hans ano15_pantry_merge2_c8481ccd:
 
 
     # anon "Yeah?"
-    anon "怎么了？"
+    anon "嗯？"
 
 # game/src/plot/ano15.rpy:1430
 translate zh_hans ano15_pantry_merge2_1a222541:
@@ -4373,7 +4373,7 @@ translate zh_hans ano15_pantry_merge2_0ad88b01:
 
 
     # tony "Good lord!"
-    tony "我的天！"
+    tony "老天爷！"
 
 # game/src/plot/ano15.rpy:1460
 translate zh_hans ano15_pantry_merge2_e22e4db6:
@@ -4387,7 +4387,7 @@ translate zh_hans ano15_pantry_merge2_272b113a:
 
 
     # maria "Heh, ya have no idea."
-    maria "嘿，你根本想象不到。"
+    maria "呵，你根本想象不到。"
 
 # game/src/plot/ano15.rpy:1464
 translate zh_hans ano15_pantry_merge2_b8d23025:
@@ -4438,7 +4438,7 @@ translate zh_hans ano15_pantry_merge2_ad6671a4:
 translate zh_hans ano15_pantry_merge2_589882be:
 
     # tony "Heh, I know how to pick 'em, eh?"
-    tony "嘿，我挑人有一套吧？"
+    tony "呵，我挑人有一套吧？"
 
 # game/src/plot/ano15.rpy:1475
 translate zh_hans ano15_pantry_merge2_b980077a:
@@ -4586,7 +4586,7 @@ translate zh_hans ano15_pantry_merge3_c6e322d8:
 
 
     # anon "Alright."
-    anon "好的。"
+    anon "好吧。"
 
 # game/src/plot/ano15.rpy:1528
 translate zh_hans ano15_pantry_reuse_244739f4:
@@ -4744,7 +4744,7 @@ translate zh_hans ano15_pantry_ogle1_f976aed5:
 
 
     # tony f_calm "Heh, I can tell she's ready too!"
-    tony f_calm "嘿，我看她也准备好了！"
+    tony f_calm "呵，我看她也准备好了！"
 
 # game/src/plot/ano15.rpy:1585
 translate zh_hans ano15_pantry_ogle1_7835541d:
@@ -4927,7 +4927,7 @@ translate zh_hans ano15_pantry_poly_f1c61136:
 
 
     # tony "See, I told ya!"
-    tony "看，我跟你说过吧！"
+    tony "瞧，我早告诉过你吧！"
 
 # game/src/plot/ano15.rpy:1654
 translate zh_hans ano15_pantry_poly_054ed58e:
@@ -4947,7 +4947,7 @@ translate zh_hans ano15_pantry_poly_854ca2e6:
 
 
     # tony "Heh, nothin' phases this kid. I fuckin' love it!"
-    tony "嘿，没什么能吓到这小子。我他妈太喜欢了！"
+    tony "呵，没什么能吓到这小子。我他妈太喜欢了！"
 
 # game/src/plot/ano15.rpy:1661
 translate zh_hans ano15_pantry_poly_bd8a8a57:
@@ -5078,7 +5078,7 @@ translate zh_hans ano15_pantry_poly_24880018:
 translate zh_hans ano15_pantry_poly_80df095b:
 
     # anon "Heh, really... it's no problem."
-    anon "嘿，真的……我没问题。"
+    anon "呵，真的……我没问题。"
 
 # game/src/plot/ano15.rpy:1700
 translate zh_hans ano15_pantry_poly_1c7bc612:

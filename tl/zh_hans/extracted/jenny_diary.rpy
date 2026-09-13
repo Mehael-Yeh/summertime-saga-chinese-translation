@@ -1429,7 +1429,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: deb21_outro; page: 1; row: 9
     old "{pen=indigo}his {pen=neonpink}{u}cum all over her{/u}{rt}{pen=neonpink}face!!{/pen}{/rt}{/pen}, and proceeded to have a full on{/pen}{vspace=0}{space=430}{pen=indigo}{size=-8}crash out!{/size}{/pen}"
-    new "{pen=indigo}他的{pen=neonpink}{u}精液沾得她{/u}{rt}{pen=neonpink}满脸{/pen}{/rt}{/pen}浑身都是！！然后就彻底{/pen}{vspace=0}{space=430}{pen=indigo}{size=-8}崩溃了！{/size}{/pen}"
+    new "{pen=indigo}他的{pen=neonpink}{u}精液沾得她{/u}{rt}{pen=neonpink}满脸{/pen}{/rt}{/pen}都是！！然后就彻底{/pen}{vspace=0}{space=430}{pen=indigo}{size=-8}崩溃了！{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: deb21_outro; page: 1; row: 11
@@ -1439,7 +1439,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: deb26_outro; page: 1; row: 1
     old "{pen=aqua}{size=-2}Eugh, {pen=blue}{b}[saga.cast.debbie]{/b}{/pen} and {pen=blue}{b}[saga.cast.anon]{/b}{/pen} are fucking... So {pen=maroon}{size=-5}{b}GROSS!!!{/b}{/size}{/pen}{/size}{/pen}"
-    new "呃，{pen=aqua}{size=-2}{pen=blue}{b}[saga.cast.debbie]{/b}{/pen}和{pen=blue}{b}[saga.cast.anon]{/b}{/pen}在干炮……太{pen=maroon}{size=-5}{b}恶心了！！！{/b}{/size}{/pen}{/size}{/pen}"
+    new "{pen=aqua}{size=-2}呃，{pen=blue}{b}[saga.cast.debbie]{/b}{/pen}和{pen=blue}{b}[saga.cast.anon]{/b}{/pen}在干炮……太{pen=maroon}{size=-5}{b}恶心了！！！{/b}{/size}{/pen}{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: deb26_outro; page: 1; row: 3

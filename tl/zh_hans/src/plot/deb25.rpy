@@ -214,7 +214,7 @@ translate zh_hans deb25_bed3_f3171119:
 translate zh_hans deb25_bed3_d9ec09bf:
 
     # debbie e_s @ -m_talk "( What {i}hasn't{/i} gotten into me, more like. )"
-    debbie e_s @ -m_talk "（倒不如说，是我身体里{i}还缺了{/i}什么。）"
+    debbie e_s @ -m_talk "（倒不如说，还有{i}什么没{/i}进到我身体里。）"
 
 # game/src/plot/deb25.rpy:92
 translate zh_hans deb25_bed3_aa9216a0:
@@ -532,7 +532,7 @@ translate zh_hans deb25_bed3_a0b02b50:
 translate zh_hans deb25_bed3_e94a0051:
 
     # debbie a_robe_off_02 c_naked "... But I just can't-"
-    debbie a_robe_off_02 c_naked "……可我真的忍不住了——"
+    debbie a_robe_off_02 c_naked "……可我就是没法——"
 
 # game/src/plot/deb25.rpy:203
 translate zh_hans deb25_bed3_3dcd44e6:
@@ -616,7 +616,7 @@ translate zh_hans deb25_bed3_d5335b71:
 translate zh_hans deb25_bed3_cdaf1145:
 
     # anon "I'm having sex with my landlady!"
-    anon "我居然在跟我的房东做爱！"
+    anon "我居然在跟我的房东太太做爱！"
 
 # game/src/plot/deb25.rpy:230
 translate zh_hans deb25_bed3_d368caaf:
@@ -820,7 +820,7 @@ translate zh_hans deb25_bed3_1cfe2858:
 translate zh_hans deb25_bed3_65ce8d62:
 
     # debbie s_24 "Ahh!!"
-    debbie s_24 "啊啊！！"
+    debbie s_24 "啊！！"
 
 # game/src/plot/deb25.rpy:279
 translate zh_hans deb25_bed3_5d91a247:
@@ -976,7 +976,7 @@ translate zh_hans deb25_bed3_4eafb878:
 translate zh_hans deb25_bed3_3061b147:
 
     # debbie "Gaaahhh!!!"
-    debbie "嘎啊啊啊！！！"
+    debbie "啊啊啊！！！"
 
 # game/src/plot/deb25.rpy:314
 translate zh_hans deb25_bed3_af4db2c1:
@@ -1066,7 +1066,7 @@ translate zh_hans deb25_bed3_4b171c3f:
 translate zh_hans deb25_bed3_78638209:
 
     # anon "Heh."
-    anon "呵呵。"
+    anon "呵。"
 
 # game/src/plot/deb25.rpy:339
 translate zh_hans deb25_bed3_1ba57cc8:
@@ -1090,7 +1090,7 @@ translate zh_hans deb25_bed3_b9e1c4c3:
 translate zh_hans deb25_bed3_a82f7c47:
 
     # debbie "Mhmm."
-    debbie "嗯。"
+    debbie "嗯哼。"
 
 # game/src/plot/deb25.rpy:349
 translate zh_hans deb25_bed3_fe3803f0:
@@ -1150,7 +1150,7 @@ translate zh_hans deb25_bed3_4eaa0a07:
 translate zh_hans deb25_bed3_a82f7c47_1:
 
     # debbie "Mhmm."
-    debbie "嗯。"
+    debbie "嗯哼。"
 
 # game/src/plot/deb25.rpy:361
 translate zh_hans deb25_bed3_cdd45874:
@@ -1180,7 +1180,7 @@ translate zh_hans deb25_bed3_559ece68_3:
 translate zh_hans deb25_bed3_a0d29dbc:
 
     # anon "Wow."
-    anon "哇哦。"
+    anon "哇。"
 
 # game/src/plot/deb25.rpy:376
 translate zh_hans deb25_bed3_712c94f1:
@@ -1234,7 +1234,7 @@ translate zh_hans deb25_bed3_b716e62c:
 translate zh_hans deb25_bed3_7d98dede:
 
     # debbie @ -m_talk "Mhmm."
-    debbie @ -m_talk "嗯。"
+    debbie @ -m_talk "嗯哼。"
 
 # game/src/plot/deb25.rpy:389
 translate zh_hans deb25_bed3_0b9e331f:
@@ -1324,7 +1324,7 @@ translate zh_hans deb25_bed3_95b6be15:
 translate zh_hans deb25_bed3_b2ef6e0c:
 
     # debbie "Aww, I love you too, sweetie."
-    debbie "唔，我也爱你，亲爱的。"
+    debbie "哎呀，我也爱你，亲爱的。"
 
 # game/src/plot/deb25.rpy:411
 translate zh_hans deb25_bed3_4d782dbe:
@@ -1546,7 +1546,7 @@ translate zh_hans deb25_bed3_bed1_b79eb247:
 translate zh_hans deb25_bed3_bed2_e361cd45:
 
     # debbie @ -m_talk "( Aww, my sweet little girl. )"
-    debbie @ -m_talk "（啊，我的宝贝女儿。）"
+    debbie @ -m_talk "（哎呀，我的宝贝女儿。）"
 
 # game/src/plot/deb25.rpy:536
 translate zh_hans deb25_bed3_bed2_be473ba0:
@@ -1906,7 +1906,7 @@ translate zh_hans deb25_bed3_lounge_57f13259:
 translate zh_hans deb25_bed3_lounge_21ad1815:
 
     # lsd "Oh!!!"
-    lsd "哦！！！"
+    lsd "啊！！！"
 
 # game/src/plot/deb25.rpy:764
 translate zh_hans deb25_bed3_lounge_f1bcb275:
@@ -2068,7 +2068,7 @@ translate zh_hans deb25_bed3_utility_38318f14:
 translate zh_hans deb25_bed3_utility_4b6f34b9:
 
     # debbie a_front e_sw p_stand @ -m_talk "( I wasn't always this hypersexual... was I? )"
-    debbie a_front e_sw p_stand @ -m_talk "（我以前没这么性欲旺盛吧……对吧？）"
+    debbie a_front e_sw p_stand @ -m_talk "（我以前没这么性欲旺盛……对吧？）"
 
 # game/src/plot/deb25.rpy:865
 translate zh_hans deb25_bed3_utility_b6068590:
@@ -2200,7 +2200,7 @@ translate zh_hans deb25_outro_5de271bf:
 translate zh_hans deb25_outro_b48d74df:
 
     # anon e_sw f_sad "Y-yeah, I suppose that true."
-    anon e_sw f_sad "嗯……大概吧。"
+    anon e_sw f_sad "嗯、嗯，大概吧。"
 
 # game/src/plot/deb25.rpy:935
 translate zh_hans deb25_outro_75d75921:
@@ -2470,7 +2470,7 @@ translate zh_hans deb25_outro_25c80de9:
 translate zh_hans deb25_outro_c5f4644a:
 
     # debbie a_clasp "I am your landlady."
-    debbie a_clasp "我是你的房东。"
+    debbie a_clasp "我是你的房东太太。"
 
 # game/src/plot/deb25.rpy:998
 translate zh_hans deb25_outro_a4b6247f:

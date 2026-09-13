@@ -215,7 +215,7 @@ translate zh_hans mar_dark_maria_cc21ea35:
 
 
     # anon a_salute f_calm o_right "Yes, ma'am."
-    anon a_salute f_calm o_right "遵命，夫人。"
+    anon a_salute f_calm o_right "是，老板娘。"
 
 # game/src/plot/mar_dark.rpy:142
 translate zh_hans mar_dark_maria_2a989568:
@@ -236,7 +236,7 @@ translate zh_hans mar_dark_maria_1d2b2ff8:
 
 
     # anon "Yes, ma'am."
-    anon "是的，夫人。"
+    anon "是，老板娘。"
 
 # game/src/plot/mar_dark.rpy:155
 translate zh_hans mar_dark_maria_35c779f2:
@@ -250,7 +250,7 @@ translate zh_hans mar_dark_maria_d292373d:
 
 
     # anon "That feels really good."
-    anon "太舒服了。"
+    anon "真舒服。"
 
 # game/src/plot/mar_dark.rpy:161
 translate zh_hans mar_dark_maria_7c43f8c9:
@@ -390,7 +390,7 @@ translate zh_hans mar_dark_maria_merge1_66c7dfcc:
 
 
     # maria "Oh, gawd, fuck me, [saga.cast.anon]!!"
-    maria "哦，天啊，肏我，[saga.cast.anon]！！"
+    maria "哦，天哪，肏我，[saga.cast.anon]！！"
 
 # game/src/plot/mar_dark.rpy:240
 translate zh_hans mar_dark_maria_merge1_231aa67c:
@@ -460,14 +460,14 @@ translate zh_hans mar_dark_maria_merge1_09a61ea7:
 
 
     # anon "Y-yes, ma'am."
-    anon "是、是，夫人。"
+    anon "是、是，老板娘。"
 
 # game/src/plot/mar_dark.rpy:281
 translate zh_hans mar_dark_maria_merge2_d102f263:
 
 
     # maria "OH MY GAWD!"
-    maria "天哪！"
+    maria "哦，我的天哪！"
 
 # game/src/plot/mar_dark.rpy:282
 translate zh_hans mar_dark_maria_merge2_e9c50410:
@@ -670,7 +670,7 @@ translate zh_hans mar_dark_maria_alt1_6936a92b:
 
 
     # anon "Y-yeah, a little..."
-    anon "嗯……有点……"
+    anon "嗯、嗯，有点……"
 
 # game/src/plot/mar_dark.rpy:358
 translate zh_hans mar_dark_maria_alt1_08d2cefb:
@@ -719,7 +719,7 @@ translate zh_hans mar_dark_maria_alt1_78a45f36:
 
 
     # maria f_annoyed "[saga.cast.tony], don't give the kid a hard time!"
-    maria f_annoyed "[saga.cast.tony]，别欺负这孩子！"
+    maria f_annoyed "[saga.cast.tony]，别为难这孩子！"
 
 # game/src/plot/mar_dark.rpy:373
 translate zh_hans mar_dark_maria_alt1_73c9742f:
@@ -1131,7 +1131,7 @@ translate zh_hans mar_dark_maria_creampie_eb6666d9:
 
 
     # tony "You really fucked her brains out..."
-    tony "你真把她肏得人都快傻了……"
+    tony "你真把她肏得魂儿都飞了……"
 
 # game/src/plot/mar_dark.rpy:501
 translate zh_hans mar_dark_maria_creampie_04900160:
@@ -1292,7 +1292,7 @@ translate zh_hans mar_dark_maria_ogle1_35efe232:
 
 
     # anon "Y-yeah, it doesn't sound so bad... we can try it."
-    anon "嗯……听起来也没那么糟，我们可以试试。"
+    anon "嗯、嗯，听起来也没那么糟，我们可以试试。"
 
 # game/src/plot/mar_dark.rpy:603
 translate zh_hans mar_dark_maria_ogle1_3ea0a17b:
@@ -1348,7 +1348,7 @@ translate zh_hans mar_dark_maria_merge4_935d65b0:
 
 
     # anon a_towel_down e_w "Yes, ma'am."
-    anon a_towel_down e_w "遵命，夫人。"
+    anon a_towel_down e_w "是，老板娘。"
 
 # game/src/plot/mar_dark.rpy:627
 translate zh_hans mar_dark_maria_merge4_0f5236a0:
@@ -1383,7 +1383,7 @@ translate zh_hans mar_dark_maria_ogle2_8ea3167f:
 
 
     # anon "Y-yeah, I guess so."
-    anon "嗯……大概吧。"
+    anon "嗯、嗯，大概吧。"
 
 # game/src/plot/mar_dark.rpy:657
 translate zh_hans mar_dark_maria_ogle2_1413630d:
@@ -1537,7 +1537,7 @@ translate zh_hans mar_dark_maria_trio1_c618d783:
 
 
     # anon f_shy "Y-yeah, I think so."
-    anon f_shy "嗯……应该没问题。"
+    anon f_shy "嗯、嗯，应该没问题。"
 
 # game/src/plot/mar_dark.rpy:763
 translate zh_hans mar_dark_maria_trio1_10d35b0b:
@@ -1565,7 +1565,7 @@ translate zh_hans mar_dark_maria_trio1_d0f405f0:
 
 
     # tony "Then you can work the pussy while I work the ass, capiche?"
-    tony "然后你肏她的屄，我肏她的屁眼，懂吗？"
+    tony "然后你肏她的屄，我肏她的屁眼，capiche?（懂了没？）"
 
 # game/src/plot/mar_dark.rpy:771
 translate zh_hans mar_dark_maria_trio1_ae320bbb:
@@ -1621,7 +1621,7 @@ translate zh_hans mar_dark_maria_trio1_88fd4d07:
 
 
     # tony "You work the vanilla while I work the chocolate, capiche?"
-    tony "你负责香草口味，我负责巧克力口味，懂吗？"
+    tony "你负责香草口味，我负责巧克力口味，capiche?（懂了没？）"
 
 # game/src/plot/mar_dark.rpy:788
 translate zh_hans mar_dark_maria_trio1_45a52c4d:
@@ -1656,7 +1656,7 @@ translate zh_hans mar_dark_maria_trio1_4039aa00:
 
 
     # maria @ -m_talk "Grr..."
-    maria @ -m_talk "啧……"
+    maria @ -m_talk "哼……"
 
 # game/src/plot/mar_dark.rpy:802
 translate zh_hans mar_dark_maria_trio1_1a9c12ee:
@@ -2209,7 +2209,7 @@ translate zh_hans mar_dark_maria_trio1a_a1f61959:
 
 
     # anon "Y-yeah, okay."
-    anon "好……好吧。"
+    anon "好、好吧。"
 
 # game/src/plot/mar_dark.rpy:918
 translate zh_hans mar_dark_maria_trio1a_1c33109d:
@@ -2272,7 +2272,7 @@ translate zh_hans mar_dark_maria_trio1a_c2808c5b:
 
 
     # anon "Y-yeah."
-    anon "是……是啊。"
+    anon "是、是啊。"
 
 # game/src/plot/mar_dark.rpy:937
 translate zh_hans mar_dark_maria_trio1a_7e99465f:
@@ -2286,7 +2286,7 @@ translate zh_hans mar_dark_maria_trio1a_4ed27784:
 
 
     # tony a_wide "C'mere you!"
-    tony a_wide "过来，你这家伙！"
+    tony a_wide "你小子过来！"
 
 # game/src/plot/mar_dark.rpy:944
 translate zh_hans mar_dark_maria_trio1a_44746db4:
@@ -2328,7 +2328,7 @@ translate zh_hans mar_dark_maria_trio1a_40c1beb8:
 
 
     # anon a_side f_tired_happy "Y-yeah, okay."
-    anon a_side f_tired_happy "好……好吧。"
+    anon a_side f_tired_happy "好、好吧。"
 
 # game/src/plot/mar_dark.rpy:960
 translate zh_hans mar_dark_maria_trio1a_8f8a7450:
@@ -2377,7 +2377,7 @@ translate zh_hans mar_dark_maria_trio2_62221ccb:
 
 
     # tony "Man, I love this view!"
-    tony "天哪，我爱死这个视角了！"
+    tony "天啊，我爱死这个视角了！"
 
 # game/src/plot/mar_dark.rpy:982
 translate zh_hans mar_dark_maria_trio2_a74b237e:

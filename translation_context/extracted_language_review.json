@@ -7100,6 +7100,5406 @@
       "target": "{i}*咽口水*{/i}",
       "note": "拟声舞台提示统一：*Gulp* 表紧张、迟疑的吞咽一律作“*咽口水*”（全库同源句主流写法，sentence_patterns 已登记）；“咕噜／吞咽／咕嘟／咽了口唾沫”等分支收敛到同一写法。",
       "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2587,
+      "source": "That feels really good.",
+      "before": "感觉真不错。",
+      "target": "真舒服。",
+      "note": "同一句 `That feels really good.` 在 mar_dark 两处与 deb_tv 一处共三处不同译，统一为“真舒服。”（同一说话人 Anon 的同类场景）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 218,
+      "source": "Yes, ma'am.",
+      "before": "遵命，夫人。",
+      "target": "是，夫人。",
+      "note": "同一文件三处同源句统一为“是，夫人。”；“遵命”保留给敬礼、军事或玩笑式服从语境，不再与普通应答混用。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 239,
+      "source": "Yes, ma'am.",
+      "before": "是的，夫人。",
+      "target": "是，夫人。",
+      "note": "同一文件三处同源句统一为“是，夫人。”；“遵命”保留给敬礼、军事或玩笑式服从语境，不再与普通应答混用。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 253,
+      "source": "That feels really good.",
+      "before": "太舒服了。",
+      "target": "真舒服。",
+      "note": "同一句 `That feels really good.` 在 mar_dark 两处与 deb_tv 一处共三处不同译，统一为“真舒服。”（同一说话人 Anon 的同类场景）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 393,
+      "source": "Oh, gawd, fuck me, [saga.cast.anon]!!",
+      "before": "哦，天啊，肏我，[saga.cast.anon]！！",
+      "target": "哦，天哪，肏我，[saga.cast.anon]！！",
+      "note": "`gawd`／`god` 感叹按全库主流统一为“天哪”，不用“天啊”（全库 Oh, gawd! 六处中五处作“哦，天哪！”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 470,
+      "source": "OH MY GAWD!",
+      "before": "天哪！",
+      "target": "哦，我的天哪！",
+      "note": "全大写感叹统一：`OH MY GAWD!` 作“哦，我的天哪！”，与本文件另一处同形；全大写的力度靠既有成分与感叹号承担，不额外加破折号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 673,
+      "source": "Y-yeah, a little...",
+      "before": "嗯……有点……",
+      "target": "嗯、嗯，有点……",
+      "note": "结巴按 style_guide“结巴用顿号”统一：`Y-yeah／N-no` 一类开头的口吃用顿号（全库 600 余处主流写法），不用省略号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 722,
+      "source": "[saga.cast.tony], don't give the kid a hard time!",
+      "before": "[saga.cast.tony]，别欺负这孩子！",
+      "target": "[saga.cast.tony]，别为难这孩子！",
+      "note": "`give someone a hard time` 是“为难、找麻烦”，不是“欺负”，按语义修正。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 1134,
+      "source": "You really fucked her brains out...",
+      "before": "你真把她肏得人都快傻了……",
+      "target": "你真把她肏得魂儿都飞了……",
+      "note": "`fucked her brains out` 是干得神魂颠倒的习语，原译“人都快傻了”落成了智力受损；改为“魂儿都飞了”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 1295,
+      "source": "Y-yeah, it doesn't sound so bad... we can try it.",
+      "before": "嗯……听起来也没那么糟，我们可以试试。",
+      "target": "嗯、嗯，听起来也没那么糟，我们可以试试。",
+      "note": "结巴按 style_guide“结巴用顿号”统一：`Y-yeah／N-no` 一类开头的口吃用顿号（全库 600 余处主流写法），不用省略号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 1351,
+      "source": "Yes, ma'am.",
+      "before": "遵命，夫人。",
+      "target": "是，夫人。",
+      "note": "同一文件三处同源句统一为“是，夫人。”；“遵命”保留给敬礼、军事或玩笑式服从语境，不再与普通应答混用。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 1386,
+      "source": "Y-yeah, I guess so.",
+      "before": "嗯……大概吧。",
+      "target": "嗯、嗯，大概吧。",
+      "note": "结巴按 style_guide“结巴用顿号”统一：`Y-yeah／N-no` 一类开头的口吃用顿号（全库 600 余处主流写法），不用省略号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 1540,
+      "source": "Y-yeah, I think so.",
+      "before": "嗯……应该没问题。",
+      "target": "嗯、嗯，应该没问题。",
+      "note": "结巴按 style_guide“结巴用顿号”统一：`Y-yeah／N-no` 一类开头的口吃用顿号（全库 600 余处主流写法），不用省略号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 1568,
+      "source": "Then you can work the pussy while I work the ass, capiche?",
+      "before": "然后你肏她的屄，我肏她的屁眼，懂吗？",
+      "target": "然后你肏她的屄，我肏她的屁眼，capiche?（懂了没？）",
+      "note": "Tony 的固定口癖 capisce／capiche 按 terminology 规则保留意大利语＋全角括注；原译把它整句汉化成“懂吗／懂了没”，与本文件 64 行的 capisce?（懂了没？）不一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 1624,
+      "source": "You work the vanilla while I work the chocolate, capiche?",
+      "before": "你负责香草口味，我负责巧克力口味，懂吗？",
+      "target": "你负责香草口味，我负责巧克力口味，capiche?（懂了没？）",
+      "note": "Tony 的固定口癖 capisce／capiche 按 terminology 规则保留意大利语＋全角括注；原译把它整句汉化成“懂吗／懂了没”，与本文件 64 行的 capisce?（懂了没？）不一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 1659,
+      "source": "Grr...",
+      "before": "啧……",
+      "target": "哼……",
+      "note": "`Grr...` 这类低吼按全库同形写法作“哼……”，不写表示咂嘴的“啧”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 2212,
+      "source": "Y-yeah, okay.",
+      "before": "好……好吧。",
+      "target": "好、好吧。",
+      "note": "结巴按 style_guide“结巴用顿号”统一：`Y-yeah／N-no` 一类开头的口吃用顿号（全库 600 余处主流写法），不用省略号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 2275,
+      "source": "Y-yeah.",
+      "before": "是……是啊。",
+      "target": "是、是啊。",
+      "note": "结巴按 style_guide“结巴用顿号”统一：`Y-yeah／N-no` 一类开头的口吃用顿号（全库 600 余处主流写法），不用省略号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 2289,
+      "source": "C'mere you!",
+      "before": "过来，你这家伙！",
+      "target": "你小子过来！",
+      "note": "同一文件两处同源句统一为“你小子过来！”（Tony 对 Anon 的固定称呼“小子”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 2331,
+      "source": "Y-yeah, okay.",
+      "before": "好……好吧。",
+      "target": "好、好吧。",
+      "note": "结巴按 style_guide“结巴用顿号”统一：`Y-yeah／N-no` 一类开头的口吃用顿号（全库 600 余处主流写法），不用省略号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 2380,
+      "source": "Man, I love this view!",
+      "before": "天哪，我爱死这个视角了！",
+      "target": "天啊，我爱死这个视角了！",
+      "note": "Tony 的 `Man,` 感叹按既有批次规则作“天啊”，不用“天哪”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ton_baby.rpy",
+      "line": 469,
+      "source": "Give her a big sloppy kiss for me, capiche?!",
+      "before": "替我狠狠亲她一口，懂了没？！",
+      "target": "替我狠狠亲她一口，capiche?!（懂了没？！）",
+      "note": "Tony 的固定口癖 capisce／capiche 按 terminology 规则保留意大利语＋全角括注；原译把它整句汉化成“懂吗／懂了没”，与本文件 64 行的 capisce?（懂了没？）不一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ton_baby.rpy",
+      "line": 932,
+      "source": "And try not make too much noise, capiche?!",
+      "before": "尽量别弄出太大动静，懂了没？！",
+      "target": "尽量别弄出太大动静，capiche?!（懂了没？！）",
+      "note": "Tony 的固定口癖 capisce／capiche 按 terminology 规则保留意大利语＋全角括注；原译把它整句汉化成“懂吗／懂了没”，与本文件 64 行的 capisce?（懂了没？）不一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 218,
+      "source": "Yes, ma'am.",
+      "before": "是，夫人。",
+      "target": "是，老板娘。",
+      "note": "承接上一步：`ma\\u2019am` 在全库按对象分流——Anon 对 Debbie 用“夫人”，对 Maria 统一“老板娘”（terminology 已登记 “Yes, ma\\u2019am. → 是，老板娘。”，ano09／ano10／ano11／mar_kitchen 一致）；mar_dark 的卧室场景同为对 Maria，故随之收敛，避免把 Debbie 的“夫人”套到 Maria 身上。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 239,
+      "source": "Yes, ma'am.",
+      "before": "是，夫人。",
+      "target": "是，老板娘。",
+      "note": "承接上一步：`ma\\u2019am` 在全库按对象分流——Anon 对 Debbie 用“夫人”，对 Maria 统一“老板娘”（terminology 已登记 “Yes, ma\\u2019am. → 是，老板娘。”，ano09／ano10／ano11／mar_kitchen 一致）；mar_dark 的卧室场景同为对 Maria，故随之收敛，避免把 Debbie 的“夫人”套到 Maria 身上。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 1351,
+      "source": "Yes, ma'am.",
+      "before": "是，夫人。",
+      "target": "是，老板娘。",
+      "note": "承接上一步：`ma\\u2019am` 在全库按对象分流——Anon 对 Debbie 用“夫人”，对 Maria 统一“老板娘”（terminology 已登记 “Yes, ma\\u2019am. → 是，老板娘。”，ano09／ano10／ano11／mar_kitchen 一致）；mar_dark 的卧室场景同为对 Maria，故随之收敛，避免把 Debbie 的“夫人”套到 Maria 身上。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "line": 463,
+      "source": "Y-yes, ma'am.",
+      "before": "是、是，夫人。",
+      "target": "是、是，老板娘。",
+      "note": "承接上一步：`ma\\u2019am` 在全库按对象分流——Anon 对 Debbie 用“夫人”，对 Maria 统一“老板娘”（terminology 已登记 “Yes, ma\\u2019am. → 是，老板娘。”，ano09／ano10／ano11／mar_kitchen 一致）；mar_dark 的卧室场景同为对 Maria，故随之收敛，避免把 Debbie 的“夫人”套到 Maria 身上。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "line": 115,
+      "source": "Just don't pump her full of too much this time.",
+      "before": "不过这回可别又把她灌得烂醉。",
+      "target": "不过这回可别又让她喝太多了。",
+      "note": "`pump her full of too much` 是“让她喝太多”，原译“灌得烂醉”把程度加到烂醉，收回原意。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "line": 307,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "同一文件同源句 Hehe! 统一“嘿嘿！”（全库 100 余处主流写法，另一处 127 行已是“嘿嘿”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "line": 829,
+      "source": "Yes, sir.",
+      "before": "明白，老板。",
+      "target": "是，老板。",
+      "note": "与 terminology 的 `Yes, sir! → 遵命，老板！` 配套：不带感叹号的一般应答用“是，老板。”，感叹号形式保留“遵命，老板！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "line": 1231,
+      "source": "Not only were they running a fifteen percent off deal...",
+      "before": "正好赶上他们打八五折……",
+      "target": "不光赶上他们打八五折……",
+      "note": "与另一版（“不光赶上了他们的八五折促销……”）保持同一并列结构，补回 “Not only” 的“不光”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "line": 1531,
+      "source": "Lesson learned, eh?",
+      "before": "吃到教训了吧？",
+      "target": "长教训了吧？",
+      "note": "`Lesson learned` 是“长教训”，原译“吃到教训”不成词。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "line": 1945,
+      "source": "Hahahaah!",
+      "before": "哈哈哈哈！",
+      "target": "哈哈哈！",
+      "note": "同一文件同源笑声统一：`Hahahaah!` 与 2215 行同形作“哈哈哈！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "line": 1987,
+      "source": "I love the color.",
+      "before": "我喜欢这颜色。",
+      "target": "我喜欢这个颜色。",
+      "note": "同一文件两处同源句统一为“我喜欢这个颜色。”（另一处 2245 行）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "line": 2029,
+      "source": "C'mon, let's get crackin' on those deliveries, eh?",
+      "before": "走，赶紧把那些订单送掉。",
+      "target": "走，赶紧把那些订单送掉，嗯？",
+      "note": "同一文件两处同源句统一为“走，赶紧把那些订单送掉，嗯？”，并补回原句 `eh?` 的商量语气。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano09.rpy",
+      "line": 2293,
+      "source": "C'mon, let's get crackin' on those deliveries, eh?",
+      "before": "走，赶紧把那些单子送完。",
+      "target": "走，赶紧把那些订单送掉，嗯？",
+      "note": "同一文件两处同源句统一为“走，赶紧把那些订单送掉，嗯？”，并补回原句 `eh?` 的商量语气。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 109,
+      "source": "Besides, you owe me for that little screw up with the toy the other day.",
+      "before": "再说，上次买错玩具的账我还没跟你算呢。",
+      "target": "再说，上次那玩具的事搞砸了，你还欠我呢。",
+      "note": "同一文件两处同源句统一：`you owe me for that (little) screw up with the toy the other day` 作“上次那玩具的事搞砸了，你还欠我呢。”（原“买错玩具的账我还没跟你算呢”／“那天玩具的事搞砸了”各不相同）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 337,
+      "source": "You owe me for that screw up with the toy the other day.",
+      "before": "你还欠我呢，那天玩具的事搞砸了。",
+      "target": "上次那玩具的事搞砸了，你还欠我呢。",
+      "note": "同一文件两处同源句统一：`you owe me for that (little) screw up with the toy the other day` 作“上次那玩具的事搞砸了，你还欠我呢。”（原“买错玩具的账我还没跟你算呢”／“那天玩具的事搞砸了”各不相同）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1729,
+      "source": "Umm, hello?!",
+      "before": "喂，听见没有？！",
+      "target": "喂？！",
+      "note": "同一文件两处同源句统一为“喂？！”，与紧跟的“Earth to loser!”／“你到底要不要跟我去商场？！”语气连贯。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 499,
+      "source": "Yup.",
+      "before": "没错。",
+      "target": "嗯。",
+      "note": "同一句 Yup. 在文件内三处统一为“嗯。”（原“嗯”与两处“没错”混用；全库 23 处为“嗯／没错”各半，取更口语的一种）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1225,
+      "source": "Yup.",
+      "before": "没错。",
+      "target": "嗯。",
+      "note": "同一句 Yup. 在文件内三处统一为“嗯。”（原“嗯”与两处“没错”混用；全库 23 处为“嗯／没错”各半，取更口语的一种）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 391,
+      "source": "Well, go and get it!",
+      "before": "那就去拿啊！",
+      "target": "那就去拿！",
+      "note": "同一文件两处同源句统一为“那就去拿！”（原“那就去拿啊！”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 421,
+      "source": "Here.",
+      "before": "给你。",
+      "target": "给。",
+      "note": "同一文件两处同源句统一为“给。”（原“给你。”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 613,
+      "source": "Ugh, fine.",
+      "before": "啊，好吧。",
+      "target": "呃，好吧。",
+      "note": "`Ugh` 按全库主流（204 处以“呃”为主）统一作“呃”，不写表示叹气的“唉”或“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 835,
+      "source": "Oh my god, it is you!",
+      "before": "哦天哪，是你！",
+      "target": "哦，天哪，是你！",
+      "note": "补回“哦”后应有的逗号，与全库“哦，天哪”写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 937,
+      "source": "I uhh...",
+      "before": "我、呃……",
+      "target": "我呃……",
+      "note": "同一句 `I uhh...` 四处统一为“我呃……”。英文 `uhh` 是语气填充而非连字符结巴，按全库多数（11 处中 5 处）不加顿号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 943,
+      "source": "I uhh...",
+      "before": "我、呃……",
+      "target": "我呃……",
+      "note": "同一句 `I uhh...` 四处统一为“我呃……”。英文 `uhh` 是语气填充而非连字符结巴，按全库多数（11 处中 5 处）不加顿号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1429,
+      "source": "I uhh...",
+      "before": "我、呃……",
+      "target": "我呃……",
+      "note": "同一句 `I uhh...` 四处统一为“我呃……”。英文 `uhh` 是语气填充而非连字符结巴，按全库多数（11 处中 5 处）不加顿号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1015,
+      "source": "What are you-",
+      "before": "你这是在干什么——",
+      "target": "你这是在——",
+      "note": "原句在 `you-` 处被截断，译文也应停在未完成处（“你这是在——”），不补出“干什么”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1057,
+      "source": "O-oh.",
+      "before": "哦——哦。",
+      "target": "哦……",
+      "note": "同一文件两处同源句统一为“哦……”（原“哦——哦。”；全库五处中“哦……”为多数）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1189,
+      "source": "N-not because I have to or anything...",
+      "before": "才……才不是因为必须住什么的……",
+      "target": "才、才不是因为必须住什么的……",
+      "note": "`N-not` 是连字符结巴，按“结巴用顿号”由“才……才”改为“才、才”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1333,
+      "source": "Hehe, thanks [saga.cast.anon]!",
+      "before": "嘿嘿，谢谢，[saga.cast.anon]！",
+      "target": "呵呵，谢谢，[saga.cast.anon]！",
+      "note": "`Hehe` 按全库位置约定分写：独立笑声 `Hehe!` 用“嘿嘿！”，后接逗号的引语 `Hehe,` 用“呵呵，”（全库 86 处中 47 处），本文件四处逗号引语统一为“呵呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1339,
+      "source": "Eugh...",
+      "before": "呃……",
+      "target": "呕……",
+      "note": "`Eugh` 是表示恶心的呕声，与文件内 `Ugh`（呃）区分，统一作“呕”；全库 `Eugh` 写法分散（噫／呕／呃），取能区分语义的一种。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1435,
+      "source": "H-hey, [saga.cast.grace]... Umm, how is [saga.cast.odette] doing?",
+      "before": "嘿，[saga.cast.grace]……嗯，[saga.cast.odette]还好吗？",
+      "target": "嘿、嘿，[saga.cast.grace]……嗯，[saga.cast.odette]还好吗？",
+      "note": "`H-hey` 是连字符结巴，按 style_guide“结巴用顿号”作“嘿、嘿”（全库 18 处中“嘿、嘿／嗨、嗨”为固定写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1471,
+      "source": "H-hey, [saga.cast.grace]... What brings you here?",
+      "before": "嘿，嘿，[saga.cast.grace]……你怎么来了？",
+      "target": "嘿、嘿，[saga.cast.grace]……你怎么来了？",
+      "note": "`H-hey` 是连字符结巴，按 style_guide“结巴用顿号”作“嘿、嘿”（全库 18 处中“嘿、嘿／嗨、嗨”为固定写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1531,
+      "source": "Eugh.",
+      "before": "呃。",
+      "target": "呕。",
+      "note": "`Eugh` 是表示恶心的呕声，与文件内 `Ugh`（呃）区分，统一作“呕”；全库 `Eugh` 写法分散（噫／呕／呃），取能区分语义的一种。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1789,
+      "source": "Yeah right, trying to rub all her success in my face!",
+      "before": "是啊，就是想在我面前显摆她的成功！",
+      "target": "得了吧，就是想在我面前显摆她的成功！",
+      "note": "`Yeah right` 是反讽否定，不是同意；改“得了吧”（原“是啊”把反讽读成了附和）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 1831,
+      "source": "Grr!",
+      "before": "啊啊！",
+      "target": "哼！",
+      "note": "`Grr!` 是低吼而非呻吟，本文件另一处 Grr 已作“哼”，统一为“哼！”（不用表示呻吟的“啊啊”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 2017,
+      "source": "Ugh, it's not that hard to figure out, dummy... everything is labeled.",
+      "before": "唉，这又不难搞明白，笨蛋……所有东西都标好了。",
+      "target": "呃，这又不难搞明白，笨蛋……所有东西都标好了。",
+      "note": "`Ugh` 按全库主流（204 处以“呃”为主）统一作“呃”，不写表示叹气的“唉”或“啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 2029,
+      "source": "*BZZZZZZ*{nw=1}",
+      "before": "*滋~滋~*{nw=1}",
+      "target": "*嗡嗡嗡——*{nw=1}",
+      "note": "拟声统一：电动玩具的嗡鸣按全库 `*Bzzt*→*嗡——*` 的写法作“*嗡嗡嗡——*”，不再用带 ASCII 波浪线的“*滋~滋~*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen10.rpy",
+      "line": 2083,
+      "source": "Whatever.",
+      "before": "随便。",
+      "target": "随便吧。",
+      "note": "同一文件两处同源句统一为“随便吧。”（原一处“随便。”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 79,
+      "source": "Hmm, deriveries you say?",
+      "before": "嗯哼，你说送货？",
+      "target": "嗯，你说送货？",
+      "note": "`Hmm,` 在本文件其余四处均作“嗯”，此处“嗯哼”是与 `Uh huh.` 撞了写法；按文件内统一改“嗯，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 1021,
+      "source": "No.",
+      "before": "不。",
+      "target": "没有。",
+      "note": "此句回答“你就没有能一起合租的朋友吗？”，该用“没有。”；原来的“不。”会把应答读成拒绝。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 1243,
+      "source": "You're not going to help me, are you?",
+      "before": "你不会帮我，对吧？",
+      "target": "你不会帮我的，对吧？",
+      "note": "同一文件两处同源句统一为“你不会帮我的，对吧？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 1321,
+      "source": "WHY HAVE YOU FORSAKEN ME DURING THIS, THE MOST HOLY OF TIMES?!",
+      "before": "为什么偏偏在一年中最神圣的时刻抛弃我？！",
+      "target": "为什么偏偏在这最神圣的时刻抛弃我？！",
+      "note": "原文是 `this, the most holy of times`，没有“一年中”；去掉增补的“一年中”，保持仿圣经腔的夸张。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 1339,
+      "source": "W-what the-",
+      "before": "什——什么情况——",
+      "target": "什、什么——",
+      "note": "连字符结巴按“结巴用顿号”作“什、什么——”；原译“什——什么情况——”既用错停顿方式，又补出了原文没有的“情况”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 1699,
+      "source": "N-no, sir.",
+      "before": "没……没有，先生。",
+      "target": "没、没有，先生。",
+      "note": "连字符结巴按“结巴用顿号”作“没、没有，先生。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 1723,
+      "source": "Gotcha.",
+      "before": "明白了。",
+      "target": "懂了。",
+      "note": "同一文件两处 `Gotcha.` 统一为“懂了。”（原“懂了／明白了”混用）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 1789,
+      "source": "Grr, don't yell at me!",
+      "before": "唔，别冲我吼！",
+      "target": "啧，别冲我吼！",
+      "note": "Josie 在本文件的 `Grr,` 三处均作“啧”，此处“唔”是漂移，按人物既有写法统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 1945,
+      "source": "I really need this for my-",
+      "before": "我送外卖真的很需要——",
+      "target": "我真的需要它来——",
+      "note": "原文在 `my-` 处截断，译文也应停在未完成处“我真的需要它来——”，不补出“送外卖”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "line": 2083,
+      "source": "O-okay.",
+      "before": "好……好吧。",
+      "target": "好、好吧。",
+      "note": "连字符结巴按“结巴用顿号”作“好、好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 419,
+      "source": "How are you feeling?",
+      "before": "你感觉还好吗？",
+      "target": "你感觉怎么样？",
+      "note": "同一文件三处同源句统一为“你感觉怎么样？”（原一处“你感觉还好吗？”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 445,
+      "source": "Hmm, not really?",
+      "before": "嗯，不太有感觉？",
+      "target": "嗯，好像没有？",
+      "note": "回答“有没有孕吐”的 `not really` 应是“好像没有”；原“不太有感觉”会读成性暗示。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 451,
+      "source": "But I always did have a strong stomach.",
+      "before": "不过我的胃口一向很好。",
+      "target": "不过我的肠胃一向很好。",
+      "note": "`strong stomach` 指肠胃好、不反胃，不是“胃口好”（食欲）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 696,
+      "source": "Y-you're naked.",
+      "before": "你……你没穿衣服。",
+      "target": "你、你没穿衣服。",
+      "note": "连字符结巴按“结巴用顿号”作“你、你没穿衣服。”",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 703,
+      "source": "Heh, oh... that.",
+      "before": "呵呵，哦……这个啊。",
+      "target": "呵，哦……这个啊。",
+      "note": "本文件 `Heh,` 一致作“呵，”，此处“呵呵”是与 `Hehe!` 撞写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 867,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立笑声 `Hehe!` 按全库位置约定作“嘿嘿！”（句首引语 `Hehe,` 才作“呵呵，”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1010,
+      "source": "... But you're right on time to meet your godchildren!",
+      "before": "……但你正好赶上来见你的教子们！",
+      "target": "……但你正好赶上来见你的教子和教女！",
+      "note": "双胞胎为一男一女，`godchildren` 用“教子和教女”，不用只指男孩的“教子们”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1023,
+      "source": "I don't want you cursin' in front of our children!",
+      "before": "我不想你在我们孩子们面前骂人！",
+      "target": "我不想你在孩子们面前骂人！",
+      "note": "“我们孩子们”缺“的”且不成词，改“我不想你在孩子们面前骂人！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1064,
+      "source": "D-did you say godchildren?",
+      "before": "你、你说的是教子们？",
+      "target": "你、你说的是教子教女？",
+      "note": "双胞胎为一男一女，`godchildren` 用“教子和教女”，不用只指男孩的“教子们”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1157,
+      "source": "Heh, ya better be!",
+      "before": "哼，你最好是这样！",
+      "target": "呵，你最好是这样！",
+      "note": "`Heh,` 按全库主流作“呵，”，与 `Heha／哼` 区分。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1249,
+      "source": "She's just so beautiful!",
+      "before": "她真是太漂亮了！",
+      "target": "她真漂亮！",
+      "note": "同一组三句（他／她／他们）应同形，统一为“她真漂亮！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1273,
+      "source": "They're just so beautiful!",
+      "before": "他们真是太漂亮了！",
+      "target": "他们真漂亮！",
+      "note": "同上，统一为“他们真漂亮！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1304,
+      "source": "I imagine he'll grow up to be quite the lady-killer, eh?!",
+      "before": "我猜他长大了会是个大情种，呃？！",
+      "target": "我猜他长大了会是个大情种，对吧？！",
+      "note": "`eh?!` 是反问标签，原译“呃？！”把语气词用成迟疑声；与同组“对吧？！”统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1397,
+      "source": "Y-yeah, okay.",
+      "before": "好、好吧，行。",
+      "target": "好、好吧。",
+      "note": "同一文件两处同源句统一为“好、好吧。”（原“好、好吧，行。”／“是、是的，好吧。”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1446,
+      "source": "I'm your godfather, [saga.cast.anon].",
+      "before": "我是教父[saga.cast.anon]。",
+      "target": "我是你的教父，[saga.cast.anon]。",
+      "note": "原译“我是教父[saga.cast.anon]。”读作“教父Anon”；改“我是你的教父，[saga.cast.anon]。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1545,
+      "source": "If you're up to it, there'll be pizzas that need deliverin'!",
+      "before": "你要是有空，店里还有披萨等着你送呢！",
+      "target": "你要是有精力，店里还有披萨等着你送呢！",
+      "note": "`if you’re up to it` 是“你还有精力的话”，不是“有空”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1704,
+      "source": "Oh my god, it's {i}so{/i} good!",
+      "before": "哦天哪，这{i}太{/i}好吃了！",
+      "target": "哦，天哪，这{i}太{/i}好吃了！",
+      "note": "补回“哦”后的逗号，与全库“哦，天哪”写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1748,
+      "source": "How many times do I have to tell ya to watch your fuckin' mouth, eh?",
+      "before": "我他妈的得跟你说多少次让你注意自己的嘴，嗯？",
+      "target": "我得跟你说多少次，让你那张臭嘴放干净点，嗯？",
+      "note": "原文 `watch your fuckin’ mouth` 修饰的是“嘴”，原译把“他妈的”错放到“得跟你说多少次”上。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1767,
+      "source": "I swear to god, our child's first word is gonna be cocksucker.",
+      "before": "我发誓，咱们孩子的第一个词肯定是“鸡巴佬”。",
+      "target": "我发誓，咱们孩子的第一个词肯定是“叼鸡巴的”。",
+      "note": "同一玩笑的 `cocksucker` 应与上一分支同形，改“叼鸡巴的”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1891,
+      "source": "Y-yeah, okay.",
+      "before": "是、是的，好吧。",
+      "target": "好、好吧。",
+      "note": "同一文件两处同源句统一为“好、好吧。”（原“好、好吧，行。”／“是、是的，好吧。”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 1898,
+      "source": "Yeah, how are you guys doing?",
+      "before": "是啊，你们还好吗？",
+      "target": "是啊，你们怎么样？",
+      "note": "同一文件两处同源句统一为“是啊，你们怎么样？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 2042,
+      "source": "You got it, boss.",
+      "before": "明白了，老板。",
+      "target": "包在我身上，老板娘。",
+      "note": "此处的 `boss` 是 Maria，按 terminology 统一“老板娘”，并保留 `You got it` 的“包在我身上”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 2048,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立笑声 `Hehe!` 按全库位置约定作“嘿嘿！”（句首引语 `Hehe,` 才作“呵呵，”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 2233,
+      "source": "Hold your godchildren for a second, would ya?",
+      "before": "帮我抱一下你的教子们，行吗？",
+      "target": "帮我抱一下你的教子和教女，行吗？",
+      "note": "双胞胎为一男一女，`godchildren` 用“教子和教女”，不用只指男孩的“教子们”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 2296,
+      "source": "Like puttin' that little stinker down for a nap.",
+      "before": "比如哄那个小捣蛋睡午觉。",
+      "target": "比如哄那个小家伙睡午觉。",
+      "note": "与复数分支“哄这些小家伙睡午觉”保持同形，统一“那个小家伙”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 2334,
+      "source": "Yeah, they're somethin' else, ain't they?",
+      "before": "是啊，他们可真了不起，不是吗？",
+      "target": "是啊，他们真不一般，对吧？",
+      "note": "与“他真不一般，对吧？”“她真不一般，对吧？”同组同形。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "line": 787,
+      "source": "Hi, [saga.cast.maria].",
+      "before": "你好，[saga.cast.maria]。",
+      "target": "嗨，[saga.cast.maria]。",
+      "note": "同一文件四处 `Hi, [saga.cast.maria].` 统一为“嗨，[saga.cast.maria]。”（原一处“你好”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 217,
+      "source": "( What {i}hasn't{/i} gotten into me, more like. )",
+      "before": "（倒不如说，是我身体里{i}还缺了{/i}什么。）",
+      "target": "（倒不如说，还有{i}什么没{/i}进到我身体里。）",
+      "note": "原文 `What hasn’t gotten into me` 是“我还有什么没上身”的自嘲（前面刚问过 `what’s gotten into me`）；原译“我身体里还缺了什么”把意思反了。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 535,
+      "source": "... But I just can't-",
+      "before": "……可我真的忍不住了——",
+      "target": "……可我就是没法——",
+      "note": "原句在 `can’t-` 处截断，译文也应停在未完成处（“可我就是没法——”），不补出“忍不住了”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 619,
+      "source": "I'm having sex with my landlady!",
+      "before": "我居然在跟我的房东做爱！",
+      "target": "我居然在跟我的房东太太做爱！",
+      "note": "`landlady` 在 terminology 中统一“房东太太”（色情片及其现实映照的固定称呼），与 mar_dark“不安分的房东太太”一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 823,
+      "source": "Ahh!!",
+      "before": "啊啊！！",
+      "target": "啊！！",
+      "note": "`Ahh!!` 呻吟句按全库主流（32 处中 28 处）作“啊！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 979,
+      "source": "Gaaahhh!!!",
+      "before": "嘎啊啊啊！！！",
+      "target": "啊啊啊！！！",
+      "note": "同文件另两处 `Gaaahhh/GAAAHHH` 均作“啊……”，此处“嘎啊啊啊”是与 goose 声混用，按呻吟统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 1069,
+      "source": "Heh.",
+      "before": "呵呵。",
+      "target": "呵。",
+      "note": "独立 `Heh.` 按全库主流作“呵。”（32 处中 18 处），不写“呵呵”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 1093,
+      "source": "Mhmm.",
+      "before": "嗯。",
+      "target": "嗯哼。",
+      "note": "`Mhmm.` 按全库主流作“嗯哼。”（130 处中 109 处），三处“嗯。”收敛。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 1153,
+      "source": "Mhmm.",
+      "before": "嗯。",
+      "target": "嗯哼。",
+      "note": "`Mhmm.` 按全库主流作“嗯哼。”（130 处中 109 处），三处“嗯。”收敛。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 1183,
+      "source": "Wow.",
+      "before": "哇哦。",
+      "target": "哇。",
+      "note": "`Wow.` 按全库主流作“哇。”（8 处中 6 处），与同文件 727 行同形。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 1237,
+      "source": "Mhmm.",
+      "before": "嗯。",
+      "target": "嗯哼。",
+      "note": "`Mhmm.` 按全库主流作“嗯哼。”（130 处中 109 处），三处“嗯。”收敛。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 1327,
+      "source": "Aww, I love you too, sweetie.",
+      "before": "唔，我也爱你，亲爱的。",
+      "target": "哎呀，我也爱你，亲爱的。",
+      "note": "`Aww,` 表亲昵/惋惜，按全库主流作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 1549,
+      "source": "( Aww, my sweet little girl. )",
+      "before": "（啊，我的宝贝女儿。）",
+      "target": "（哎呀，我的宝贝女儿。）",
+      "note": "逐条英中对照后的用词统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 1909,
+      "source": "Oh!!!",
+      "before": "哦！！！",
+      "target": "啊！！！",
+      "note": "`Oh!!!` 呻吟句按全库主流作“啊！！！”（3 处中 2 处）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 2071,
+      "source": "( I wasn't always this hypersexual... was I? )",
+      "before": "（我以前没这么性欲旺盛吧……对吧？）",
+      "target": "（我以前没这么性欲旺盛……对吧？）",
+      "note": "原译“……吧……对吧？”重复追问；保留 `was I?` 的反问即可。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 2203,
+      "source": "Y-yeah, I suppose that true.",
+      "before": "嗯……大概吧。",
+      "target": "嗯、嗯，大概吧。",
+      "note": "连字符结巴按“结巴用顿号”作“嗯、嗯，大概吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb25.rpy",
+      "line": 2473,
+      "source": "I am your landlady.",
+      "before": "我是你的房东。",
+      "target": "我是你的房东太太。",
+      "note": "同 `landlady` 条目，Debbie 自述身份也用“房东太太”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 265,
+      "source": "Aww...",
+      "before": "哦……",
+      "target": "哎呀……",
+      "note": "`Aww` 表失望/亲昵，按全库主流作“哎呀……”，不写成表示恍然的“哦……”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 325,
+      "source": "Thanks for being so chill about all this!",
+      "before": "谢谢你没把事情闹大！",
+      "target": "谢谢你这么大度！",
+      "note": "`being so chill about all this` 是“这么不计较/大度”，不是“没把事情闹大”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 385,
+      "source": "Really?",
+      "before": "真的吗？",
+      "target": "真的？",
+      "note": "同一说话人 Jenny 的两处 `Really?` 统一为“真的？”（她语气一向简短）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 481,
+      "source": "Ugh, fine.",
+      "before": "烦死了，行吧。",
+      "target": "呃，好吧。",
+      "note": "`Ugh, fine.` 按全库通行写法作“呃，好吧。”",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 535,
+      "source": "Eww, don't call it a date!",
+      "before": "噫，别管它叫约会！",
+      "target": "噫，别叫它约会！",
+      "note": "“别管它叫约会”句式不顺，改“别叫它约会！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 631,
+      "source": "We used to go see lots of movies together!",
+      "before": "我们小时候可一起看过好多电影！",
+      "target": "我们以前可一起看过好多电影！",
+      "note": "原译“我们小时候”提前说出了 Jenny 下一句才点出的 `when we were little kids`，改“我们以前”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 697,
+      "source": "( Oh, it's almost time for my date with [saga.cast.jenny]. )",
+      "before": "（哦，差不多到和[saga.cast.jenny]约会的时间了。）",
+      "target": "（哦，差不多该和[saga.cast.jenny]去约会了。）",
+      "note": "同一文件两处同源内心话统一为“（哦，差不多该和[saga.cast.jenny]去约会了。）”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 919,
+      "source": "Eugh...",
+      "before": "呃……",
+      "target": "呕……",
+      "note": "`Eugh` 是恶心的呕声，与 `Ugh`（呃）区分作“呕……”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 925,
+      "source": "Hahahaah!",
+      "before": "哈哈哈哈哈！",
+      "target": "哈哈哈！",
+      "note": "同一文件四处 `Hahahaah!` 统一为“哈哈哈！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 1249,
+      "source": "I err...",
+      "before": "我，呃……",
+      "target": "我呃……",
+      "note": "`I err` 是语气填充（无连字符结巴），按全库写法作“我呃……”，不加逗号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 1519,
+      "source": "B-but what if somebody see-",
+      "before": "可——可是万一有人看到——",
+      "target": "可、可是万一有人看到——",
+      "note": "连字符结巴按“结巴用顿号”作“可、可是万一有人看到——”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 1675,
+      "source": "Ugh...",
+      "before": "真是的……",
+      "target": "呃……",
+      "note": "`Ugh...` 按全库默认作“呃……”，不写“真是的……”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 2053,
+      "source": "R-really?",
+      "before": "真、真的吗？",
+      "target": "真、真的？",
+      "note": "Anon 的两处 `R-really?` 与 `Really?` 保持同形，统一“真、真的？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 2551,
+      "source": "Oh my god, oh my god, OH MY GOD!",
+      "before": "天啊，天啊，我的天啊！",
+      "target": "天哪，天哪，我的天哪！",
+      "note": "同一文件两处同源呻吟统一为“天哪，天哪，我的天哪！”（`god` 类感叹按全库主流作“天哪”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen26.rpy",
+      "line": 2683,
+      "source": "Heh, my legs are shaking like crazy!",
+      "before": "哈，我两条腿抖得跟疯了一样！",
+      "target": "呵，我两条腿抖得跟疯了一样！",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“哈”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 199,
+      "source": "Alright.",
+      "before": "好的。",
+      "target": "好吧。",
+      "note": "同一文件三处同源句 `Alright.` 统一为“好吧。”（原一处“好的。”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 385,
+      "source": "Yeah.",
+      "before": "好。",
+      "target": "是啊。",
+      "note": "同一文件两处同源句 `Yeah.` 统一为“是啊。”；原“好。”读成了应答许可。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 583,
+      "source": "Vari-what?",
+      "before": "变什么？",
+      "target": "渐进什么？",
+      "note": "Erik 没听懂 `varifocal`（渐进）的复述，应作“渐进什么？”，原“变什么？”会把词义读成“变化”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 769,
+      "source": "I-I guess so...",
+      "before": "我……我想是的……",
+      "target": "我、我想是的……",
+      "note": "连字符结巴按“结巴用顿号”作“我、我想是的……”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 1237,
+      "source": "Uhh, yeah. Heh, I guess...",
+      "before": "呃，嗯。嘿，算是吧……",
+      "target": "呃，嗯。呵，算是吧……",
+      "note": "同一句里的 `Heh,` 同样作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 1273,
+      "source": "( Oh my god, I'm supposed to be meeting [saga.cast.judith] in the park right now!! )",
+      "before": "（天啊，我现在本该在公园里见[saga.cast.judith]的！！）",
+      "target": "（天哪，我现在本该在公园里见[saga.cast.judith]的！！）",
+      "note": "`god` 类感叹按全库主流作“天哪”，与本文件 1951 行统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 1375,
+      "source": "Y-yeah, I get it.",
+      "before": "好……好吧，我明白。",
+      "target": "好、好吧，我明白。",
+      "note": "连字符结巴按“结巴用顿号”作“好、好吧，我明白。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 1609,
+      "source": "( I didn't go to all this trouble to {i}not{/i} collect her glasses! )",
+      "before": "（我费了这么大劲，{i}可不会{/i}不收集她的眼镜！）",
+      "target": "（我费了这么大劲，{i}可不是{/i}为了不拿她的眼镜！）",
+      "note": "原译“可不会不收集她的眼镜”既生硬又把双重否定叠成病句；改“可不是为了不拿她的眼镜”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 1951,
+      "source": "Oh my god! I can see [saga.cast.kevin]'s...",
+      "before": "哦我的天！我能看到[saga.cast.kevin]的……",
+      "target": "天哪！我能看到[saga.cast.kevin]的……",
+      "note": "“哦我的天”缺逗号且与同源写法不一致，统一为“天哪！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 1957,
+      "source": "Uh oh, I got it stuck in this mode!",
+      "before": "哎呀，我把它卡在这个模式里了！",
+      "target": "糟糕，我把它卡在这个模式里了！",
+      "note": "`Uh oh` 是发现出事的惊呼，作“糟糕”，不用表惋惜的“哎呀”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 1993,
+      "source": "Y-yeah?",
+      "before": "呃……嗯？",
+      "target": "嗯、嗯？",
+      "note": "连字符结巴按“结巴用顿号”作“嗯、嗯？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 2245,
+      "source": "Truly, astonishingly awful!",
+      "before": "真是，丑得惊为天人！",
+      "target": "真是，丑得惊人！",
+      "note": "“惊为天人”是形容美得惊人，不能直接形容丑；改“丑得惊人”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 2005,
+      "source": "Heh, whatever.",
+      "before": "嘿，随你怎么说。",
+      "target": "呵，随你怎么说。",
+      "note": "承接 `Heh,` 统一为“呵，”的全库基准：此处原按短语直觉写“嘿”，与全库 400 余处 `Heh,` 的主流写法不一致，随本轮一并收敛。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "line": 2155,
+      "source": "Heh, whatever.",
+      "before": "嘿，随你怎么说。",
+      "target": "呵，随你怎么说。",
+      "note": "承接 `Heh,` 统一为“呵，”的全库基准：此处原按短语直觉写“嘿”，与全库 400 余处 `Heh,` 的主流写法不一致，随本轮一并收敛。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor02.rpy",
+      "line": 1201,
+      "source": "Heh, I have my ways.",
+      "before": "嘿嘿，我有我的办法。",
+      "target": "呵，我有我的办法。",
+      "note": "`Heh,` 按全库主流作“呵，”，不写“嘿嘿”（那是 `Hehe` 的笑声写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 22,
+      "source": "F-fingerings?",
+      "before": "指……指法？",
+      "target": "指、指法？",
+      "note": "连字符结巴按“结巴用顿号”作“指、指法？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 120,
+      "source": "Heh, lemme go see who I can convince.",
+      "before": "嘿，我去看看能说服谁。",
+      "target": "呵，我去看看能说服谁。",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 463,
+      "source": "Heh, I was just leaving...",
+      "before": "嘿，我正要走……",
+      "target": "呵，我正要走……",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 610,
+      "source": "... And I'm way too embarrassed to get up on stage in front of the entire school.",
+      "before": "……而且我很不好意思在整个学校面前上台。",
+      "target": "……而且我太不好意思了，根本不敢在全校面前上台。",
+      "note": "“在整个学校面前上台”不成话，改“太不好意思了，根本不敢在全校面前上台”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 666,
+      "source": "Excuse me, I just need a minute!",
+      "before": "抱歉，我需要冷静一下！",
+      "target": "抱歉，我需要缓一缓！",
+      "note": "`I just need a minute` 是“需要缓一缓/给我一分钟”，不是“需要冷静一下”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 869,
+      "source": "What are you staring at, creep?!",
+      "before": "白痴，你在看什么？！",
+      "target": "变态，你在看什么？！",
+      "note": "`creep` 是“变态、猥琐男”，不是“白痴”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 932,
+      "source": "N-no, I'm just trying to find some volunteers for [saga.cast.melody]'s talent show.",
+      "before": "不——不是，我只是想给[saga.cast.melody]的才艺表演找几个志愿者。",
+      "target": "不、不是，我只是想给[saga.cast.melody]的才艺表演找几个志愿者。",
+      "note": "连字符结巴按“结巴用顿号”作“不、不是”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 1296,
+      "source": "Heh, you want me to sing for you and [saga.cast.erik]?",
+      "before": "嘿，你想让我为你和[saga.cast.erik]唱歌吗？",
+      "target": "呵，你想让我为你和[saga.cast.erik]唱歌吗？",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 1394,
+      "source": "( Heh, right on cue... )",
+      "before": "（嘿，真是及时……）",
+      "target": "（呵，真是及时……）",
+      "note": "逐条英中对照后的用词统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 1924,
+      "source": "Heh, it's the booze, it warms up your insides...",
+      "before": "嘿，是酒的作用，它让你的身体暖和起来……",
+      "target": "呵，是酒的作用，它让你的身体暖和起来……",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2024,
+      "source": "Thanks! I guess- {i}*Hic*{/i} I guess it isn't that bad singing in front of others.",
+      "before": "谢啦！我猜——{i}*呃*{/i}我猜在别人面前唱歌也没那么糟。",
+      "target": "谢啦！我猜——{i}*嗝*{/i}我猜在别人面前唱歌也没那么糟。",
+      "note": "`*Hic*` 是打嗝，本文件其余五处均作“*嗝*”，此处“*呃*”是漂移。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2088,
+      "source": "Heh, it's okay. We don't mind.",
+      "before": "嘿，没关系。我们不介意。",
+      "target": "呵，没关系。我们不介意。",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2120,
+      "source": "Aww, such a- {i}*Hic*{/i} such a gentleman!",
+      "before": "噢，真是——{i}*嗝*{/i} 真是个绅士！",
+      "target": "哎呀，真是——{i}*嗝*{/i} 真是个绅士！",
+      "note": "`Aww,` 按全库主流作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2155,
+      "source": "Heh, c'mon drunkie. Let's go home!",
+      "before": "嘿，走吧醉鬼。我们回家！",
+      "target": "呵，走吧，醉鬼。我们回家！",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2189,
+      "source": "Hey, it's about time! I was starting to think you flaked on me!",
+      "before": "嘿，是时候了！我都开始以为你放我鸽子了！",
+      "target": "嘿，你总算来了！我还以为你放我鸽子了！",
+      "note": "同一文件两处同源句统一为“嘿，你总算来了！我还以为你放我鸽子了！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2329,
+      "source": "... Yeah, {i}she{/i} smashed it to pieces.",
+      "before": "……是的，{i}她{/i} 把它砸成了碎片。",
+      "target": "……是的，{i}她{/i}把它砸成了碎片。",
+      "note": "斜体代词在句中，删除标签后的多余空格。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2509,
+      "source": "Not if I replace it with a fake.",
+      "before": "要是我用假的替换呢。",
+      "target": "用假的把它换掉就行了。",
+      "note": "原译“要是我用假的替换呢。”既用句号收尾又带“呢”，改陈述句“用假的把它换掉就行了。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2813,
+      "source": "Y-yeah. Do you like it?",
+      "before": "是—是的。你喜欢吗？",
+      "target": "是、是的。你喜欢吗？",
+      "note": "连字符结巴按“结巴用顿号”作“是、是的”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2841,
+      "source": "Aww, he's such a sweet young man to care about my feelings so much.",
+      "before": "啊，他真是个贴心的好孩子，这么在乎我的感受。",
+      "target": "哎呀，他真是个贴心的好孩子，这么在乎我的感受。",
+      "note": "`Aww,` 按全库主流作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2949,
+      "source": "Holy crap, bro! One sec!",
+      "before": "我操，兄弟！等一下！",
+      "target": "我靠，兄弟！等一下！",
+      "note": "`Holy crap` 按全库收敛写法作“我靠”（勿写“我操”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2990,
+      "source": "I hope you didn't steal it or something.",
+      "before": "我希望你没偷来什么的。",
+      "target": "希望你不是偷来的。",
+      "note": "“我希望你没偷来什么的”不成句，改“希望你不是偷来的。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 2474,
+      "source": "Really?",
+      "before": "真的吗？",
+      "target": "真的？",
+      "note": "同一文件四处同源句统一为“真的？”（原两处“真的吗？”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 3157,
+      "source": "Really?",
+      "before": "真的吗？",
+      "target": "真的？",
+      "note": "同一文件四处同源句统一为“真的？”（原两处“真的吗？”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 3143,
+      "source": "Huh?",
+      "before": "嗯？",
+      "target": "哈？",
+      "note": "同一文件三处 `Huh?` 统一为“哈？”（原一处“嗯？”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "line": 1723,
+      "source": "Y-yeah, why?",
+      "before": "是——是啊，怎么了？",
+      "target": "是、是啊，怎么了？",
+      "note": "连字符结巴按“结巴用顿号”作“是、是啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 55,
+      "source": "My poor baby.",
+      "before": "哎呀，我可怜的孩子。",
+      "target": "我可怜的宝贝。",
+      "note": "`my poor baby` 是 Debbie 对 Anon 的昵称口吻，统一“（我）可怜的宝贝”，不写“孩子”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 85,
+      "source": "Yeeeaaah, you say that...",
+      "before": "是——是啦，你嘴上是这么说……",
+      "target": "是啊——你嘴上是这么说……",
+      "note": "拖长的 `Yeeeaaah` 用破折号拉长“是啊——”，原“是——是啦”读成了结巴。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 373,
+      "source": "( Aww, man... I bet those Russian assholes did this! )",
+      "before": "（啊，靠……我打赌是那些俄国混蛋干的！）",
+      "target": "（哎呀……我打赌是那些俄国混蛋干的！）",
+      "note": "`Aww` 是惋惜，按全库主流作“哎呀”，不写“啊，靠”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 661,
+      "source": "Mhmm.",
+      "before": "嗯。",
+      "target": "嗯哼。",
+      "note": "`Mhmm.` 按全库主流作“嗯哼。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 937,
+      "source": "( Either way, I'll have to call back her to sort this out. )",
+      "before": "（不管选哪条路，我都得再打给她谈谈。）",
+      "target": "（不管选哪条路，我都得再打给她才能解决。）",
+      "note": "与另一分支“才能解决”保持同形。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 1255,
+      "source": "You know what?",
+      "before": "听着。",
+      "target": "这样吧。",
+      "note": "同一文件两处 `You know what?` 统一为“这样吧。”（原“听着。”／“你知道吗？”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 1579,
+      "source": "You know what?",
+      "before": "你知道吗？",
+      "target": "这样吧。",
+      "note": "同一文件两处 `You know what?` 统一为“这样吧。”（原“听着。”／“你知道吗？”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 1597,
+      "source": "Heh, awesome.",
+      "before": "哈，漂亮。",
+      "target": "呵，漂亮。",
+      "note": "`Heh,` 按全库主流作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 1993,
+      "source": "Riiight.",
+      "before": "是——哦。",
+      "target": "哦——是啊。",
+      "note": "拖长的 `Riiight.` 是敷衍的“哦——是啊”，原“是——哦。”语序倒置。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 2419,
+      "source": "{i}*Muah*{/i}",
+      "before": "{i}*啾*{/i}",
+      "target": "{i}*啵*{/i}",
+      "note": "`*Muah*` 按全库主流作“*啵*”，与同文件另两处一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 2569,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立笑声 `Hehe!` 按全库位置约定作“嘿嘿！”（句首引语 `Hehe,` 才作“呵呵，”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 2683,
+      "source": "Tsk, my poor baby.",
+      "before": "啧，真是可怜的孩子。",
+      "target": "啧，我可怜的宝贝。",
+      "note": "`my poor baby` 是 Debbie 对 Anon 的昵称口吻，统一“（我）可怜的宝贝”，不写“孩子”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 2731,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立笑声 `Hehe!` 按全库位置约定作“嘿嘿！”（句首引语 `Hehe,` 才作“呵呵，”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 2845,
+      "source": "Aww, man...",
+      "before": "糟了……",
+      "target": "哎呀……",
+      "note": "`Aww, man` 是懊恼，按全库主流作“哎呀……”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb13.rpy",
+      "line": 2936,
+      "source": "Are you sure there's nothing you can do?",
+      "before": "你确定没有别的办法吗？",
+      "target": "真没别的办法了？",
+      "note": "同一文件两处同源句统一为“真没别的办法了？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 109,
+      "source": "Really?",
+      "before": "真的？",
+      "target": "真的吗？",
+      "note": "同一文件三处 `Really?` 统一为“真的吗？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 223,
+      "source": "Heh, thanks.",
+      "before": "嘿，谢啦。",
+      "target": "呵，谢啦。",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 271,
+      "source": "Aww, me too, sweetie.",
+      "before": "啊，我也是，亲爱的。",
+      "target": "哎呀，我也是，亲爱的。",
+      "note": "`Aww,` 表亲昵/惋惜，按全库主流作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 325,
+      "source": "O-oh, right.",
+      "before": "哦——对，没错。",
+      "target": "哦……对。",
+      "note": "同一文件两处 `O-oh, right.` 统一为“哦……对。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 517,
+      "source": "Y-yes.",
+      "before": "嗯—嗯。",
+      "target": "是、是的。",
+      "note": "连字符结巴按“结巴用顿号”作“是、是的。”；原“嗯—嗯”还夹了半角破折号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 523,
+      "source": "Mmm.",
+      "before": "唔。",
+      "target": "嗯。",
+      "note": "同一文件 `Mmm.` 统一为“嗯。”（原一处“唔。”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 733,
+      "source": "You're becoming quite the naughty boy, you know?",
+      "before": "你这小子越来越不安分了，知道吗？",
+      "target": "你越来越像个小坏蛋了，知道吗？",
+      "note": "`naughty boy` 在挑逗语境按 style_guide 作“小坏蛋”，不写“不安分”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 757,
+      "source": "Heh, alright, alright!",
+      "before": "嘿嘿，好啦好啦！",
+      "target": "呵，好啦好啦！",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 877,
+      "source": "But I'm glad it happened.",
+      "before": "但我很高兴发生了。",
+      "target": "但我很高兴事情变成了这样。",
+      "note": "“但我很高兴发生了。”缺宾语，改“但我很高兴事情变成了这样。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 907,
+      "source": "Oh, you hush!",
+      "before": "哦，别作声！",
+      "target": "哦，你少说两句！",
+      "note": "`you hush` 是让人住口，作“你少说两句！”，原“别作声”是“别出声”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1087,
+      "source": "Y-yeah, I just-",
+      "before": "嗯，我只是——",
+      "target": "嗯、嗯，我只是——",
+      "note": "连字符结巴按“结巴用顿号”作“嗯、嗯，我只是——”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1117,
+      "source": "Heh, no... but it's fine.",
+      "before": "嘿，没有……但没关系。",
+      "target": "呵，没有……但没关系。",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1135,
+      "source": "We were both caught up in the moment.",
+      "before": "我们都太投入了。",
+      "target": "我们都只是一时冲动。",
+      "note": "`caught up in the moment` 按既有收敛写法作“一时冲动”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1555,
+      "source": "Heh, alright sweetie.",
+      "before": "嘿，好吧，亲爱的。",
+      "target": "呵，好吧，亲爱的。",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1615,
+      "source": "Heh, you're getting cum all over your seat.",
+      "before": "嘿，你把座椅都弄得满是精液了。",
+      "target": "呵，你把座椅都弄得满是精液了。",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1657,
+      "source": "Hehe.",
+      "before": "呵呵。",
+      "target": "嘿嘿。",
+      "note": "独立笑声 `Hehe.`/`Hehe!` 按全库位置约定作“嘿嘿”；句首引语 `Hehe,` 才作“呵呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1867,
+      "source": "O-oh, right.",
+      "before": "哦——对。",
+      "target": "哦……对。",
+      "note": "同一文件两处 `O-oh, right.` 统一为“哦……对。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 1909,
+      "source": "Y-yeah, okay.",
+      "before": "是、是的，好吧。",
+      "target": "好、好的。",
+      "note": "同一文件四处 `Y-yeah, okay.` 统一为“好、好的。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2041,
+      "source": "R-really, here?",
+      "before": "真-真的吗，在这里？",
+      "target": "真、真的吗，在这里？",
+      "note": "逐条英中对照后的用词统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2083,
+      "source": "Y-yeah, okay.",
+      "before": "好-好的，没问题。",
+      "target": "好、好的，没问题。",
+      "note": "同一文件四处 `Y-yeah, okay.` 统一为“好、好的。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2149,
+      "source": "Y-yeah!",
+      "before": "是——是的！",
+      "target": "是、是的！",
+      "note": "逐条英中对照后的用词统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2197,
+      "source": "Heh, such a mess.",
+      "before": "嘿，弄得到处都是。",
+      "target": "呵，弄得到处都是。",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2311,
+      "source": "Y-yeah, just like that.",
+      "before": "就，就这样。",
+      "target": "是、是啊，就这样。",
+      "note": "连字符结巴按“结巴用顿号”作“是、是啊，就这样。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2353,
+      "source": "Y-yes!!",
+      "before": "是—是的！！",
+      "target": "是、是的！！",
+      "note": "逐条英中对照后的用词统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2473,
+      "source": "Alright.",
+      "before": "好的。",
+      "target": "好吧。",
+      "note": "同一文件四处 `Alright.` 统一为“好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2545,
+      "source": "Heh, I'm not sure.",
+      "before": "嘿，我不确定。",
+      "target": "呵，我不确定。",
+      "note": "`Heh,` 按全库主流作“呵，”，不写笑声“嘿”（后者是 `Hey` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2641,
+      "source": "Alright.",
+      "before": "好的。",
+      "target": "好吧。",
+      "note": "同一文件四处 `Alright.` 统一为“好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2677,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立笑声 `Hehe.`/`Hehe!` 按全库位置约定作“嘿嘿”；句首引语 `Hehe,` 才作“呵呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2809,
+      "source": "If you say so.",
+      "before": "随你怎么说吧。",
+      "target": "好吧，你都这么说了。",
+      "note": "同一文件两处 `If you say so.` 统一为“好吧，你都这么说了。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 3151,
+      "source": "Eugh, too much information!",
+      "before": "呃，这就不用告诉我了！",
+      "target": "呕，这就不用告诉我了！",
+      "note": "`Eugh` 是恶心的呕声，与 `Ugh`（呃）区分作“呕”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "line": 2083,
+      "source": "Y-yeah, okay.",
+      "before": "好、好的，没问题。",
+      "target": "好、好的。",
+      "note": "承接 `Y-yeah, okay.` 统一为“好、好的。”的基准：此处原文并无“没问题”，去掉多余成分，使同文件四处同形。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 85,
+      "source": "Ce serait ennuyeux...",
+      "before": "那可就麻烦了……",
+      "target": "Ce serait ennuyeux...（那可就麻烦了……）",
+      "note": "第三语言规则：法语原句保留并补全角括号释义（viv03 已确立同一写法），原译整句汉化。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 133,
+      "source": "Oh, [saga.cast.anon]! Tu es mon héros!",
+      "before": "哦，[saga.cast.anon]！你是我的英雄！",
+      "target": "哦，[saga.cast.anon]！Tu es mon héros!（你是我的英雄！）",
+      "note": "同上：`Tu es mon héros!` 保留法语＋释义。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 151,
+      "source": "Très bien! Good luck, [saga.cast.anon]!",
+      "before": "很好！祝你好运，[saga.cast.anon]！",
+      "target": "Très bien!（很好！）祝你好运，[saga.cast.anon]！",
+      "note": "同上：`Très bien!` 保留法语＋释义（与 viv03 的处理一致）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 385,
+      "source": "What happened?",
+      "before": "发生什么了？",
+      "target": "怎么了？",
+      "note": "同一文件两处同源句统一为“怎么了？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 547,
+      "source": "Pfft, yeah right.",
+      "before": "切，想得美。",
+      "target": "切，才怪。",
+      "note": "同一文件两处同源句统一为“切，才怪。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 661,
+      "source": "Non, [saga.cast.anon]... I'm afraid Madame [saga.cast.ursula.clan] will be watching like the hawk!",
+      "before": "不行，[saga.cast.anon]……恐怕[saga.cast.ursula.clan]夫人会像鹰一样盯着我！",
+      "target": "Non（不行），[saga.cast.anon]……恐怕[saga.cast.ursula.clan]夫人会像鹰一样盯着我！",
+      "note": "同上：`Non` 保留法语＋释义；`Madame` 已按术语作“夫人”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 2083,
+      "source": "Aww, you beautiful boy!",
+      "before": "啊，你真是个迷人的小伙子！",
+      "target": "哎呀，你真是个迷人的小伙子！",
+      "note": "`Aww,` 按全库主流作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 3415,
+      "source": "Oh, I've seen it plenty of times.",
+      "before": "哦，我见过好多次了。",
+      "target": "哦，我见过很多次了。",
+      "note": "同一文件两处同源句统一为“哦，我见过很多次了。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 3475,
+      "source": "Tiny, eh? That's too bad.",
+      "before": "小，嗯？那太可惜了。",
+      "target": "很小，是吧？那太可惜了。",
+      "note": "同一文件两处同源句统一为“很小，是吧？那太可惜了。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 3673,
+      "source": "Tu me sauves la vie!",
+      "before": "你救了我的命！",
+      "target": "Tu me sauves la vie!（你救了我的命！）",
+      "note": "同上：`Tu me sauves la vie!` 保留法语＋释义。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 1195,
+      "source": "Heh, I told you I would.",
+      "before": "嘿嘿，我就说我能拿回来吧。",
+      "target": "呵，我就说我能拿回来吧。",
+      "note": "`Heh,` 按全库主流作“呵，”（“嘿嘿”是 `Hehe` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 2179,
+      "source": "N-no?",
+      "before": "不……不要？",
+      "target": "不、不要？",
+      "note": "连字符结巴按“结巴用顿号”作“不、不要？／不、不是！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 2425,
+      "source": "N-no!!",
+      "before": "不，不是！！",
+      "target": "不、不是！！",
+      "note": "连字符结巴按“结巴用顿号”作“不、不要？／不、不是！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 2617,
+      "source": "Heh, yeah. [saga.cast.jenny] agreed to help her with some cheerleading stuff.",
+      "before": "嘿嘿，是啊。[saga.cast.jenny]答应帮她排练啦啦队动作。",
+      "target": "呵，是啊。[saga.cast.jenny]答应帮她排练啦啦队动作。",
+      "note": "`Heh,` 按全库主流作“呵，”（“嘿嘿”是 `Hehe` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 2737,
+      "source": "Hehehe!!",
+      "before": "呵呵呵！！",
+      "target": "嘿嘿嘿！！",
+      "note": "独立笑声 `Hehehe!!` 按全库位置约定作“嘿嘿嘿！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 3115,
+      "source": "Hehe, well, I really made him work for it.",
+      "before": "嘿嘿，我可让他费了不少劲。",
+      "target": "呵呵，我可让他费了不少劲。",
+      "note": "`Hehe,` 后接引语按全库位置约定作“呵呵，”（独立 `Hehe!` 才作“嘿嘿！”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 3205,
+      "source": "Pfft...",
+      "before": "噗……",
+      "target": "切……",
+      "note": "同一文件两处 `Pfft` 统一为“切”（原本一处作表示憋笑的“噗”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 3541,
+      "source": "Hehe, I dunno. It has its perks.",
+      "before": "嘿嘿，谁知道呢。也不是没有好处。",
+      "target": "呵呵，谁知道呢。也不是没有好处。",
+      "note": "`Hehe,` 后接引语按全库位置约定作“呵呵，”（独立 `Hehe!` 才作“嘿嘿！”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "line": 3685,
+      "source": "Heh, it's no big deal...",
+      "before": "嘿嘿，没什么大不了的……",
+      "target": "呵，没什么大不了的……",
+      "note": "`Heh,` 按全库主流作“呵，”（“嘿嘿”是 `Hehe` 的写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 50,
+      "source": "Sheesh.",
+      "before": "呼……",
+      "target": "天哪。",
+      "note": "`Sheesh` 是无奈的感叹，作“天哪。”；原“呼……”把词义读成了松一口气。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 256,
+      "source": "O-oh.",
+      "before": "噢——哦。",
+      "target": "哦……",
+      "note": "`O-oh.` 按全库统一写法作“哦……”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 297,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立笑声 `Hehe!` 按全库位置约定作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 560,
+      "source": "YES!!!",
+      "before": "没错！！！",
+      "target": "对！！！",
+      "note": "同一文件三处 `YES!!!` 统一“对！！！”（全库最多写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 663,
+      "source": "SOGOODSOOGOODSOOOOGOOOOODDDD!!!",
+      "before": "好舒服好舒服好舒服好———！！",
+      "target": "好舒服好舒服好舒服好——！！",
+      "note": "破折号按全库统一为两连“——”，原“———”是唯一的三连写法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1057,
+      "source": "Y-yeah, weird.",
+      "before": "是——是的，好奇怪。",
+      "target": "是、是的，好奇怪。",
+      "note": "连字符结巴按“结巴用顿号”作“是、是的”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1122,
+      "source": "Hehehe!",
+      "before": "呵呵呵！",
+      "target": "嘿嘿嘿！",
+      "note": "独立笑声 `Hehehe!` 按全库位置约定作“嘿嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1163,
+      "source": "Heh.",
+      "before": "嘿。",
+      "target": "呵。",
+      "note": "独立 `Heh.` 按全库主流作“呵。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1240,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立笑声 `Hehe!` 按全库位置约定作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1344,
+      "source": "Mhmm.",
+      "before": "嗯。",
+      "target": "嗯哼。",
+      "note": "`Mhmm.` 按全库主流作“嗯哼。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1356,
+      "source": "Mhmm.",
+      "before": "嗯。",
+      "target": "嗯哼。",
+      "note": "`Mhmm.` 按全库主流作“嗯哼。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1530,
+      "source": "Aww, [saga.cast.anon]...",
+      "before": "啊，[saga.cast.anon]……",
+      "target": "哎呀，[saga.cast.anon]……",
+      "note": "`Aww,` 按全库主流作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3426,
+      "source": "YES!!!",
+      "before": "是的！！！",
+      "target": "对！！！",
+      "note": "同一文件三处 `YES!!!` 统一“对！！！”（全库最多写法）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3558,
+      "source": "Mhmm.",
+      "before": "嗯。",
+      "target": "嗯哼。",
+      "note": "`Mhmm.` 按全库主流作“嗯哼。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel_office.rpy",
+      "line": 144,
+      "source": "Fuuuuuuccccckkkk!!!",
+      "before": "操————！！！",
+      "target": "操——！！！",
+      "note": "逐条英中对照后的用词统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 452,
+      "source": "Heh!",
+      "before": "嘿！",
+      "target": "呵！",
+      "note": "`Heh` 按全库主流作“呵”，不写笑声“嘿”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1776,
+      "source": "Y-yeah.",
+      "before": "嗯，对。",
+      "target": "是、是啊。",
+      "note": "连字符结巴按“结巴用顿号”作“是、是啊”／“好、好的”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1782,
+      "source": "Dang, she's not wasting any time.",
+      "before": "该死，她真是一点时间都不浪费。",
+      "target": "我去，她真是一点时间都不浪费。",
+      "note": "`Dang` 是轻度惊叹，按既有收敛作“我去”，不写程度更重的“该死”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1848,
+      "source": "Naaah, I think it looks best right where it is.",
+      "before": "不——，我觉得它现在这个样子最好。",
+      "target": "不——我觉得它现在这个样子最好。",
+      "note": "破折号后不接逗号，改“不——我觉得它现在这个样子最好。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1884,
+      "source": "Man, you ain't kiddin'.",
+      "before": "老兄，你说的没错。",
+      "target": "天啊，你说的没错。",
+      "note": "Tony 的 `Man,` 感叹按既有规则作“天啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1956,
+      "source": "Heh, I'll bet.",
+      "before": "嘿，我打赌你会喜欢的。",
+      "target": "呵，我打赌你会喜欢的。",
+      "note": "`Heh` 按全库主流作“呵”，不写笑声“嘿”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 2064,
+      "source": "Yeah?",
+      "before": "嗯？",
+      "target": "是吗？",
+      "note": "同一文件六处 `Yeah?` 统一“是吗？”（原两处“嗯？”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 2160,
+      "source": "Oh, Jesus!",
+      "before": "哦，天啊！",
+      "target": "哦，天哪！",
+      "note": "`Jesus` 类感叹按全库主流作“天哪”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 2190,
+      "source": "... I can't-",
+      "before": "……我不能-",
+      "target": "……我不能——",
+      "note": "英文半角连字符按规则改全角破折号“——”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 2292,
+      "source": "SOGOODSOOGOODSOOOOGOOOOODDDD!!!",
+      "before": "太棒了太棒了太太太棒了！！！",
+      "target": "好舒服好舒服好舒服好——！！",
+      "note": "同一句 `SOGOODSOOGOODSOOOOGOOOOODDDD!!!` 三处不同译，统一为“好舒服好舒服好舒服好——！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 2298,
+      "source": "NGGHHH!!!",
+      "before": "嗯嘎啊啊！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "“嗯嘎啊啊”里的“嘎”是鹅叫声，呻吟按全库写法改“嗯啊啊啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 2478,
+      "source": "Seriously, darlin'?",
+      "before": "别闹了，亲爱的？",
+      "target": "说真的，亲爱的？",
+      "note": "原译“别闹了，亲爱的？”与问号冲突，改“说真的，亲爱的？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 2952,
+      "source": "Yes, please!",
+      "before": "好的，请！",
+      "target": "好啊，麻烦你了！",
+      "note": "“好的，请！”不成话，作“好啊，麻烦你了！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 2958,
+      "source": "Heh!",
+      "before": "嘿！",
+      "target": "呵！",
+      "note": "`Heh` 按全库主流作“呵”，不写笑声“嘿”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3036,
+      "source": "Y-yeah, I will.",
+      "before": "好——好的，我会的。",
+      "target": "好、好的，我会的。",
+      "note": "连字符结巴按“结巴用顿号”作“是、是啊”／“好、好的”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3240,
+      "source": "Oh, what the-",
+      "before": "哦，搞什么-",
+      "target": "哦，搞什么——",
+      "note": "同上。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3312,
+      "source": "Yeah?",
+      "before": "嗯？",
+      "target": "是吗？",
+      "note": "同一文件六处 `Yeah?` 统一“是吗？”（原两处“嗯？”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3438,
+      "source": "AHH, GAWD!!!",
+      "before": "啊，老天！！！",
+      "target": "啊，天哪！！！",
+      "note": "`gawd` 按全库主流作“天哪”，与本文件另两处同形。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3474,
+      "source": "SOGOODSOOGOODSOOOOGOOOOODDDD!!!",
+      "before": "太棒了太棒了太太太太棒了啊啊啊啊！！！",
+      "target": "好舒服好舒服好舒服好——！！",
+      "note": "同一句 `SOGOODSOOGOODSOOOOGOOOOODDDD!!!` 三处不同译，统一为“好舒服好舒服好舒服好——！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3498,
+      "source": "This fuckin' guy!",
+      "before": "这家伙真他妈的！",
+      "target": "这他妈什么人啊！",
+      "note": "原译“这家伙真他妈的！”缺谓语，改“这他妈什么人啊！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3804,
+      "source": "God, you feel incredible!",
+      "before": "天啊，你感觉太棒了！",
+      "target": "天啊，你的身体摸起来真棒！",
+      "note": "`you feel incredible` 是“摸起来真棒”，不是“你（情绪上）感觉棒”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 1698,
+      "source": "Y-yeah.",
+      "before": "是、是的。",
+      "target": "是、是啊。",
+      "note": "承接“Y-yeah. 统一‘是、是啊。’”的基准：同一文件另一处仍作“是、是的。”，一并收敛。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 367,
+      "source": "{i}*Ahem*{/i} We'll talk later, okay, sweetie?",
+      "before": "{i}*清嗓子*{/i} 我们晚点再谈，好吗，亲爱的？",
+      "target": "{i}*咳咳*{/i} 我们晚点再谈，好吗，亲爱的？",
+      "note": "`*Ahem*` 按全库统一写法作“*咳咳*”（全库 11 处主流，不写“清嗓子”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 859,
+      "source": "I'm not hiding.",
+      "before": "我没有躲。",
+      "target": "我没躲。",
+      "note": "同一文件两处同源句统一为“我没躲。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 1051,
+      "source": "Really?",
+      "before": "真的吗？",
+      "target": "真的？",
+      "note": "同一文件五处 `Really?` 统一为“真的？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 1507,
+      "source": "{i}*Ahem*{/i} S-so you really aren't mad about what I did?",
+      "before": "{i}*清嗓子*{/i} 所、所以你真的不生我的气？",
+      "target": "{i}*咳咳*{/i} 所、所以你真的不生我的气？",
+      "note": "`*Ahem*` 按全库统一写法作“*咳咳*”（全库 11 处主流，不写“清嗓子”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 1573,
+      "source": "Aww, sweetie.",
+      "before": "噢，亲爱的。",
+      "target": "哎呀，亲爱的。",
+      "note": "`Aww,` 表亲昵，按全库主流作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 1705,
+      "source": "Oh, I think it's the bum bum cream.",
+      "before": "哦，我觉得是屁屁霜的功劳。",
+      "target": "哦，我觉得是Bum Bum润肤霜的功劳。",
+      "note": "产品名 `Bum Bum cream` 按全库写法保留品牌名作“Bum Bum润肤霜”，不写“屁屁霜”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 1777,
+      "source": "Holy crap!",
+      "before": "我操！",
+      "target": "我靠！",
+      "note": "`Holy crap` 按全库收敛写法作“我靠”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 1819,
+      "source": "{i}*Glllck* *Glllck* *Glllck*{/i}",
+      "before": "{i}*咕啵* *咕啵* *咕啵*{/i}",
+      "target": "{i}*咕噜* *咕噜* *咕噜*{/i}",
+      "note": "口交喉音拟声按全库同源写法作“*咕噜*”（与 deb_mall／deb_shower 一致），不用“咕啵”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 1873,
+      "source": "{i}*Glllck* *Glllck* *Glllck*{/i}",
+      "before": "{i}*咕啵* *咕啵* *咕啵*{/i}",
+      "target": "{i}*咕噜* *咕噜* *咕噜*{/i}",
+      "note": "口交喉音拟声按全库同源写法作“*咕噜*”（与 deb_mall／deb_shower 一致），不用“咕啵”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 2125,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立笑声 `Hehe!` 按全库位置约定作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 2557,
+      "source": "Really?",
+      "before": "真的吗？",
+      "target": "真的？",
+      "note": "同一文件五处 `Really?` 统一为“真的？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 2593,
+      "source": "{i}*Ahem*{/i} I mean, not too close!",
+      "before": "{i}*清嗓子*{/i} 我是说，也没亲近到哪里去！",
+      "target": "{i}*咳咳*{/i} 我是说，也没亲近到哪里去！",
+      "note": "`*Ahem*` 按全库统一写法作“*咳咳*”（全库 11 处主流，不写“清嗓子”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 2635,
+      "source": "{i}*Ahem*{/i} H-how's it going in there, [saga.cast.debbie]?",
+      "before": "{i}*清嗓子*{/i} 里、里面怎么样了，[saga.cast.debbie]？",
+      "target": "{i}*咳咳*{/i} 里、里面怎么样了，[saga.cast.debbie]？",
+      "note": "`*Ahem*` 按全库统一写法作“*咳咳*”（全库 11 处主流，不写“清嗓子”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 2929,
+      "source": "{i}*Ahem*{/i} [saga.cast.debbie]?",
+      "before": "{i}*清嗓子*{/i} [saga.cast.debbie]？",
+      "target": "{i}*咳咳*{/i} [saga.cast.debbie]？",
+      "note": "`*Ahem*` 按全库统一写法作“*咳咳*”（全库 11 处主流，不写“清嗓子”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 3157,
+      "source": "{i}*Ahem*{/i} I'm sure lots of men would think you look sexy.",
+      "before": "{i}*清嗓子*{/i} 我相信其他男人一定会觉得你很性感。",
+      "target": "{i}*咳咳*{/i} 我相信其他男人一定会觉得你很性感。",
+      "note": "`*Ahem*` 按全库统一写法作“*咳咳*”（全库 11 处主流，不写“清嗓子”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 3349,
+      "source": "Aww.",
+      "before": "啊……",
+      "target": "哎呀。",
+      "note": "`Aww.` 表失望，按全库主流作“哎呀。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 3763,
+      "source": "{i}*Ahem*{/i} I'd best get started on dinner.",
+      "before": "{i}*清嗓子*{/i} 我该开始准备晚饭了。",
+      "target": "{i}*咳咳*{/i} 我该开始准备晚饭了。",
+      "note": "`*Ahem*` 按全库统一写法作“*咳咳*”（全库 11 处主流，不写“清嗓子”）。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb23.rpy",
+      "line": 3859,
+      "source": "Oh, really?",
+      "before": "哦，真的？",
+      "target": "哦，是吗？",
+      "note": "同一文件两处 `Oh, really?` 统一为“哦，是吗？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 197,
+      "source": "Heh!",
+      "before": "哈！",
+      "target": "呵！",
+      "note": "`Heh!` 按全库登记基准统一作“呵！”，与同文件另一处 `Heh!` 一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 365,
+      "source": "Alright, alright!",
+      "before": "好吧，好吧！",
+      "target": "好了，好了！",
+      "note": "同文件两处 `Alright, alright!` 统一为全库多数的“好了，好了！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 400,
+      "source": "Huh?",
+      "before": "哈？",
+      "target": "啊？",
+      "note": "突发震惊的 `Huh?` 用“啊？”，与没听清的“嗯？”按语境区分。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 960,
+      "source": "Yeah, okay.",
+      "before": "嗯，好。",
+      "target": "嗯，好吧。",
+      "note": "同文件三处 `Yeah, okay.` 统一为“嗯，好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 1177,
+      "source": "Ahh, right... Heh.",
+      "before": "啊，对……嘿嘿。",
+      "target": "啊，对……呵。",
+      "note": "句尾 `Heh.` 按全库基准作“呵。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 1240,
+      "source": "Huh?",
+      "before": "哈？",
+      "target": "嗯？",
+      "note": "此处 `Huh?` 是没听清的追问，作“嗯？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 1653,
+      "source": "Heh, me too.",
+      "before": "嘿，我也一样。",
+      "target": "呵，我也一样。",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 1702,
+      "source": "Heh, that's what I meant.",
+      "before": "嘿，我刚才就是这个意思。",
+      "target": "呵，我刚才就是这个意思。",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 1856,
+      "source": "Heh, you and me both.",
+      "before": "嘿，咱俩一样。",
+      "target": "呵，咱俩一样。",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 1905,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库基准作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 1968,
+      "source": "Heh, a file?",
+      "before": "呃，锉刀？",
+      "target": "呵，锉刀？",
+      "note": "`Heh,` 的干笑按基准作“呵，”，不再写成“呃，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 2535,
+      "source": "Heh, attaboy!",
+      "before": "嘿，好样的！",
+      "target": "呵，好样的！",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3011,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库基准作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3060,
+      "source": "Heh, look at him [saga.cast.maria], he's completely dumbfounded!",
+      "before": "嘿，[saga.cast.maria]，瞧他那傻样，整个人都看呆了！",
+      "target": "呵，[saga.cast.maria]，瞧他那傻样，整个人都看呆了！",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3137,
+      "source": "Heh, I think the kid's about to finish in his pants.",
+      "before": "我看这小子都快射裤裆里了。",
+      "target": "呵，我看这小子都快射裤裆里了。",
+      "note": "补回 `Heh,` 的笑声标记，避免漏译。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3144,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库基准作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3501,
+      "source": "Y-yeah, okay.",
+      "before": "是、是，好。",
+      "target": "是、是，好吧。",
+      "note": "同文件五处 `Y-yeah, okay.` 统一为“是、是，好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3508,
+      "source": "I can't believe we're doing this.",
+      "before": "真不敢相信我们要做这种事。",
+      "target": "真不敢相信我们真要做了。",
+      "note": "同文件两处该句统一为更口语的“真不敢相信我们真要做了。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3732,
+      "source": "Okay.",
+      "before": "好的。",
+      "target": "好。",
+      "note": "与相邻 `Okay.` 及本文件短答应统一为“好。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3767,
+      "source": "NOOOOWWW!!!",
+      "before": "——在可不想听啊啊啊！！！",
+      "target": "在可不想听啊啊啊！！！",
+      "note": "上一句已用破折号表示截断，去掉重复前导破折号，避免游戏内出现“————”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3781,
+      "source": "Oh, gawd!",
+      "before": "哦，老天！",
+      "target": "哦，天哪！",
+      "note": "`gawd` 按全库基准作“天哪”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3816,
+      "source": "AHHH, JESUS!!!",
+      "before": "啊！！！耶稣啊！！！",
+      "target": "啊！！！天哪！！！",
+      "note": "高潮惊呼中的 `JESUS` 按全库规则归入“天哪”，不直译神名。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3858,
+      "source": "-IIINGGG!!!",
+      "before": "——续啊啊啊！！！",
+      "target": "续啊啊啊！！！",
+      "note": "承接上一句的截断破折号，去掉重复前导破折号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 3879,
+      "source": "Oh gawd!",
+      "before": "哦天哪！",
+      "target": "哦，天哪！",
+      "note": "补全称呼后的逗号，与全库 `gawd` 写法一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4068,
+      "source": "Heh, I won't.",
+      "before": "嘿，我不会。",
+      "target": "呵，我不会。",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4103,
+      "source": "Heh!",
+      "before": "嘿！",
+      "target": "呵！",
+      "note": "`Heh!` 按全库基准作“呵！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4110,
+      "source": "Hehe.",
+      "before": "呵呵。",
+      "target": "嘿嘿。",
+      "note": "独立 `Hehe.` 按全库基准作“嘿嘿。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4194,
+      "source": "Heh, not right now!",
+      "before": "嘿，不是现在！",
+      "target": "呵，不是现在！",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4250,
+      "source": "Heh, me neither.",
+      "before": "嘿，我也不介意。",
+      "target": "呵，我也不介意。",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4285,
+      "source": "Y-yeah, okay.",
+      "before": "是、是，好。",
+      "target": "是、是，好吧。",
+      "note": "同文件五处 `Y-yeah, okay.` 统一为“是、是，好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4327,
+      "source": "Yeah?",
+      "before": "怎么了？",
+      "target": "嗯？",
+      "note": "这里是被点名后的应答，作“嗯？”；回应感叹的 `Yeah?` 另作“是吗？”，按语境区分。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4376,
+      "source": "Good lord!",
+      "before": "我的天！",
+      "target": "老天爷！",
+      "note": "同文件两处 `Good lord!` 统一为全库多数的“老天爷！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4390,
+      "source": "Heh, ya have no idea.",
+      "before": "嘿，你根本想象不到。",
+      "target": "呵，你根本想象不到。",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4441,
+      "source": "Heh, I know how to pick 'em, eh?",
+      "before": "嘿，我挑人有一套吧？",
+      "target": "呵，我挑人有一套吧？",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4589,
+      "source": "Alright.",
+      "before": "好的。",
+      "target": "好吧。",
+      "note": "同文件两处 `Alright.` 统一为全库多数的“好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4747,
+      "source": "Heh, I can tell she's ready too!",
+      "before": "嘿，我看她也准备好了！",
+      "target": "呵，我看她也准备好了！",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4930,
+      "source": "See, I told ya!",
+      "before": "看，我跟你说过吧！",
+      "target": "瞧，我早告诉过你吧！",
+      "note": "同文件两处 `See, I told ya!` 统一为“瞧，我早告诉过你吧！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4950,
+      "source": "Heh, nothin' phases this kid. I fuckin' love it!",
+      "before": "嘿，没什么能吓到这小子。我他妈太喜欢了！",
+      "target": "呵，没什么能吓到这小子。我他妈太喜欢了！",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 5081,
+      "source": "Heh, really... it's no problem.",
+      "before": "嘿，真的……我没问题。",
+      "target": "呵，真的……我没问题。",
+      "note": "`Heh,` 按全库基准统一为“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "line": 4005,
+      "source": "OH MY GAWD!",
+      "before": "哦我的天哪！",
+      "target": "哦，我的天哪！",
+      "note": "`OH MY GAWD!` 补全称呼后的逗号，与全库多数的“哦，我的天哪！”一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_couch.rpy",
+      "line": 3804,
+      "source": "God, you feel incredible!",
+      "before": "天啊，你的身体摸起来真棒！",
+      "target": "天啊，你的鸡巴用起来真棒！",
+      "note": "承接上一轮“身体摸起来真棒”的链式改动；按性交中的直接感受保留露骨表达，并刷新此前过期的台账指纹。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 31,
+      "source": "{i}*Ahem*{/i} Y-yeah, [saga.cast.debbie]... it's me.",
+      "before": "{i}*咳咳*{/i} 是、是的，[saga.cast.debbie]……是我。",
+      "target": "{i}*咳咳*{/i} 是、是啊，[saga.cast.debbie]……是我。",
+      "note": "同一 `*Ahem*` 句与 L1633 同形，`Y-yeah` 统一作“是、是啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 73,
+      "source": "Y-yeah, okay.",
+      "before": "嗯……好、好吧。",
+      "target": "好、好吧。",
+      "note": "`Y-yeah, okay.` 全文件统一为“好、好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 151,
+      "source": "{i}*Sluuuuuuurp*{/i}",
+      "before": "{i}*吸溜吸溜吸溜*{/i}",
+      "target": "{i}*吸溜——*{/i}",
+      "note": "长音 `*Sluuuuuuurp*` 按全库多数作“*吸溜——*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 205,
+      "source": "Why don't you come sit over here on my lap?",
+      "before": "你为什么不过来坐在我腿上？",
+      "target": "过来坐我腿上吧？",
+      "note": "`Why don't you...` 是邀请式建议，改自然口语。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 421,
+      "source": "NGGHHH!!!",
+      "before": "嗯呃呃！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`NGGHHH!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 571,
+      "source": "Y-you wanna put it between my breasts again?",
+      "before": "你、你想再把它夹在我胸间？",
+      "target": "你、你想再让我用胸夹一次？",
+      "note": "乳交请求改自然语序，避免“它夹在胸间”直译。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 577,
+      "source": "Oh, you wanna put it between my breasts again?",
+      "before": "哦，你是想再让它夹在我胸间？",
+      "target": "哦，你是想再让我用胸夹一次？",
+      "note": "乳交请求改自然语序，与相邻同义句统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 601,
+      "source": "Yeah?",
+      "before": "嗯？",
+      "target": "是吗？",
+      "note": "同文件 `Yeah?` 主流作“是吗？”，此处是对 Debbie 答应的惊喜回应。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 697,
+      "source": "{i}*Snort*{/i} Is that right?",
+      "before": "{i}*嗤笑*{/i} 是吗？",
+      "target": "{i}*噗嗤*{/i} 是吗？",
+      "note": "`*Snort*` 按全库多数作“*噗嗤*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 859,
+      "source": "Here it...",
+      "before": "来了……",
+      "target": "就要……",
+      "note": "`Here it...` / `... Comes!!` 拆句统一为“就要……／……来了！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 865,
+      "source": "... Comes!!",
+      "before": "……要射了！！",
+      "target": "……来了！！",
+      "note": "承接前句拆分，统一收尾且不重复“要射”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 871,
+      "source": "HNNGGG!!!",
+      "before": "嗯嗯嗯！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 883,
+      "source": "Haah... haah...",
+      "before": "哈……哈……",
+      "target": "哈啊……哈啊……",
+      "note": "喘息拟声与全文件主流的“哈啊……哈啊……”统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 961,
+      "source": "Y-yeah, okay.",
+      "before": "呃，好吧。",
+      "target": "好、好吧。",
+      "note": "`Y-yeah, okay.` 全文件统一为“好、好吧”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1045,
+      "source": "Tell me something I don't know.",
+      "before": "说点我不知道的。",
+      "target": "这还用你说。",
+      "note": "`Tell me something I don't know.` 是反讽口头禅，改等义中文表达。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1063,
+      "source": "{i}*Sluuuuuuuuuurp*{/i}",
+      "before": "{i}*吸溜吸溜吸溜*{/i}",
+      "target": "{i}*吸溜——*{/i}",
+      "note": "长音 `*Sluuuuuuuuuurp*` 按全库多数作“*吸溜——*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1171,
+      "source": "NGGHHH!!!",
+      "before": "嗯嗯嗯！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`NGGHHH!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1231,
+      "source": "Big, beautiful, mounds of perfection!",
+      "before": "又大又美，完美的一对！",
+      "target": "又大又美，简直是完美的双峰！",
+      "note": "`mounds` 在胸部语境作“双峰”，补回原意。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1303,
+      "source": "Here it...",
+      "before": "它要……",
+      "target": "就要……",
+      "note": "`Here it...` 拆句与文件内其余三处统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1315,
+      "source": "HNNGGG!!!",
+      "before": "嗯嗯呃！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1333,
+      "source": "... Look at all this.",
+      "before": "……看看这一大堆。",
+      "target": "……看看这些。",
+      "note": "射精后的 `all this` 不用“一大堆”这类物量词。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1351,
+      "source": "Heh, I guess I went a little overboard there.",
+      "before": "嘿，看来我刚才有点过火了。",
+      "target": "呵，看来我刚才有点过火了。",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1393,
+      "source": "Heh.",
+      "before": "嘿。",
+      "target": "呵。",
+      "note": "独立 `Heh.` 按全库基准作“呵。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1405,
+      "source": "Y-yeah, okay.",
+      "before": "嗯，好吧。",
+      "target": "好、好吧。",
+      "note": "`Y-yeah, okay.` 全文件统一为“好、好吧”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1429,
+      "source": "HNNGGG!!!",
+      "before": "嗯嗯嗯！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1435,
+      "source": "NGGHHH!!!",
+      "before": "嗯嗯！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`NGGHHH!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1507,
+      "source": "Hello?",
+      "before": "喂？",
+      "target": "有人吗？",
+      "note": "`Hello?` 与 L1609 同为进门呼喊，统一“有人吗？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1633,
+      "source": "{i}*Ahem*{/i} Y-yeah, [saga.cast.debbie]... it's me.",
+      "before": "{i}*嗯哼*{/i} 是、是啊，[saga.cast.debbie]……是我。",
+      "target": "{i}*咳咳*{/i} 是、是啊，[saga.cast.debbie]……是我。",
+      "note": "`*Ahem*` 按全库多数作“*咳咳*”，与同文件 L31 同形。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1747,
+      "source": "Heh, yeah.",
+      "before": "嗯，是的。",
+      "target": "呵，是啊。",
+      "note": "`Heh, yeah.` 补回笑声并按基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1759,
+      "source": "Mhmm.",
+      "before": "嗯嗯。",
+      "target": "嗯哼。",
+      "note": "`Mhmm.` 按全库多数作“嗯哼。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1801,
+      "source": "{i}*Ahem*{/i} O-okay.",
+      "before": "{i}*咳嗯*{/i} 好、好吧。",
+      "target": "{i}*咳咳*{/i} 好、好吧。",
+      "note": "`*Ahem*` 统一为“*咳咳*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 1825,
+      "source": "Heh, you're such a spoiled boy!",
+      "before": "嘿，你真是个被宠坏的小子！",
+      "target": "呵，你真是个被宠坏的小子！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2059,
+      "source": "NGGHHH!!!",
+      "before": "唔嗯！！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`NGGHHH!!!` 按全库多数统一，并去掉四连叹号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2071,
+      "source": "Oh, wow!",
+      "before": "哦，哇哦！",
+      "target": "哦，哇！",
+      "note": "`Oh, wow!` 与同文件其余两处统一为“哦，哇！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2083,
+      "source": "HNNGGG!!!",
+      "before": "哼嗯！！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一，并去掉四连叹号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2113,
+      "source": "Heh!",
+      "before": "嘿嘿！",
+      "target": "呵！",
+      "note": "独立 `Heh!` 按全库基准作“呵！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2161,
+      "source": "Heh, right?",
+      "before": "嘿，是吧？",
+      "target": "呵，是吧？",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2167,
+      "source": "Thanks, [saga.cast.debbie].",
+      "before": "谢谢你，[saga.cast.debbie]。",
+      "target": "谢了，[saga.cast.debbie]。",
+      "note": "同文件两处 `Thanks, Debbie.` 统一为更符合亲密语气的“谢了”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2239,
+      "source": "Heh, yeah.",
+      "before": "呵呵，是啊。",
+      "target": "呵，是啊。",
+      "note": "`Heh, yeah.` 按基准作“呵，是啊。”，与 L1747 同形。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2341,
+      "source": "Y-yeah, okay.",
+      "before": "好……好吧。",
+      "target": "好、好吧。",
+      "note": "`Y-yeah, okay.` 的结巴用顿号，并统一以“好吧”收尾。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2353,
+      "source": "Well, yeah...",
+      "before": "呃，是啊……",
+      "target": "嗯，是啊……",
+      "note": "同文件两处 `Well, yeah...` 统一“嗯，是啊……”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2425,
+      "source": "Aww.",
+      "before": "哦。",
+      "target": "哎呀。",
+      "note": "`Aww.` 按全库多数作“哎呀。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2539,
+      "source": "{i}*Ahem*{/i} Are you... getting close?",
+      "before": "{i}*咳*{/i}你……快要射了吗？",
+      "target": "{i}*咳咳*{/i} 你……快要射了吗？",
+      "note": "`*Ahem*` 统一“*咳咳*”，并补标记后的空格。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2665,
+      "source": "Anything for my baby.",
+      "before": "为了我的宝贝什么都行。",
+      "target": "为了我的宝贝，什么都行。",
+      "note": "同文件三处 `Anything for my baby.` 统一加逗号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2671,
+      "source": "Nom.",
+      "before": "嗯。",
+      "target": "啊呜。",
+      "note": "`Nom.` 在本文件口交语境与 L115 统一作“啊呜。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2677,
+      "source": "{i}*Sluuuuuuurp*{/i}",
+      "before": "{i}*吸溜吸溜*{/i}",
+      "target": "{i}*吸溜——*{/i}",
+      "note": "长音 `*Sluuuuuuurp*` 统一为“*吸溜——*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2737,
+      "source": "Heh, you really like them, huh?",
+      "before": "嘿，你真的很喜欢它们，是吧？",
+      "target": "呵，你真的很喜欢它们，是吧？",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2809,
+      "source": "Heh, that tickles!",
+      "before": "嘿，好痒！",
+      "target": "呵，好痒！",
+      "note": "`Heh,` 按全库基准作“呵，”，并与 L3385 同形。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 2977,
+      "source": "Aww, sweetie.",
+      "before": "哦，亲爱的。",
+      "target": "哎呀，亲爱的。",
+      "note": "`Aww,` 按全库多数作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3019,
+      "source": "Here it...",
+      "before": "出来了……",
+      "target": "就要……",
+      "note": "`Here it...` 拆句统一为“就要……／……来了！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3025,
+      "source": "... Comes!!",
+      "before": "……要来了！！",
+      "target": "……来了！！",
+      "note": "承接前句拆分的统一收尾。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3031,
+      "source": "HNNGGG!!!",
+      "before": "嗯呃呃！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3061,
+      "source": "Heh, you think?",
+      "before": "呵呵，你觉得呢？",
+      "target": "呵，你觉得呢？",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3139,
+      "source": "Mm.",
+      "before": "唔。",
+      "target": "嗯。",
+      "note": "`Mm.` 在本文件与全库多数统一作“嗯。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3169,
+      "source": "( Best. Landlady. Ever. )",
+      "before": "（最佳房东。史上最佳。）",
+      "target": "（最好的房东。没有之一。）",
+      "note": "`Best. Landlady. Ever.` 的强调语气改自然中文，不用生硬断句。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3229,
+      "source": "Oh, dear... I-",
+      "before": "哦，天哪……我-",
+      "target": "哦，天哪……我——",
+      "note": "打断处用全角破折号“——”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3355,
+      "source": "O-kay.",
+      "before": "好-吧。",
+      "target": "好、好吧。",
+      "note": "`O-kay.` 的拖音按全库多数作“好、好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3385,
+      "source": "Heh, that tickles!",
+      "before": "嘿，有点痒！",
+      "target": "呵，好痒！",
+      "note": "`Heh, that tickles!` 两处统一为“呵，好痒！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3703,
+      "source": "Hehe!",
+      "before": "嘻嘻！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库多数作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3763,
+      "source": "HNNGGG!!!",
+      "before": "嗯嗯嗯！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3799,
+      "source": "Y-yeah, okay.",
+      "before": "嗯……好，好吧。",
+      "target": "好、好吧。",
+      "note": "`Y-yeah, okay.` 的结巴改顿号，并全文件统一“好、好吧”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3943,
+      "source": "You're such a naughty boy!",
+      "before": "你真是个坏小子！",
+      "target": "你真是个小坏蛋！",
+      "note": "调情语境的 `naughty boy` 按规则作“小坏蛋”，不按训斥作“坏小子”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3955,
+      "source": "It runs in my family.",
+      "before": "这是我们家的传统。",
+      "target": "这是我们家的遗传。",
+      "note": "`runs in my family` 是“家族遗传”，不是“传统”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3973,
+      "source": "Heh.",
+      "before": "嘿。",
+      "target": "呵。",
+      "note": "独立 `Heh.` 按全库基准作“呵。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4003,
+      "source": "{i}*Gulp*{/i} Are you close?",
+      "before": "{i}*咽口水*{/i}快要射了吗？",
+      "target": "{i}*咽口水*{/i} 快要射了吗？",
+      "note": "语标后补空格，与同文件其他 `*Gulp*` 行一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4087,
+      "source": "Here it...",
+      "before": "要来了……",
+      "target": "就要……",
+      "note": "`Here it...` 拆句与全书其余三处统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4093,
+      "source": "... Comes!!",
+      "before": "要来了！！",
+      "target": "……来了！！",
+      "note": "承接前句，补回 `... Comes!!` 的省略号衔接。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4105,
+      "source": "NGGHHH!!!",
+      "before": "嗯嗯哼！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`NGGHHH!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4129,
+      "source": "Heh, yeah...",
+      "before": "嘿，是啊……",
+      "target": "呵，是啊……",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4225,
+      "source": "That's my good boy.",
+      "before": "这才乖嘛！",
+      "target": "这才乖嘛。",
+      "note": "同一 `That's my good boy.` 全文件统一句末句号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4249,
+      "source": "Okay, sweetie.",
+      "before": "好吧，亲爱的。",
+      "target": "好的，亲爱的。",
+      "note": "同文件两处 `Okay, sweetie.` 统一“好的，亲爱的。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4285,
+      "source": "Just like that.",
+      "before": "就像这样。",
+      "target": "就这样。",
+      "note": "同文件三处 `Just like that.` 统一“就这样。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4309,
+      "source": "Heh, me!",
+      "before": "嘿，是我！",
+      "target": "呵，是我！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4435,
+      "source": "NGGHHH!!!",
+      "before": "嗯啊！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`NGGHHH!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4453,
+      "source": "NGGHHH!!!",
+      "before": "嗯嗯嗯！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`NGGHHH!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4513,
+      "source": "HNNGGG!!!",
+      "before": "嗯嗯嗯！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4555,
+      "source": "Y-yeah, okay.",
+      "before": "好、好的。",
+      "target": "好、好吧。",
+      "note": "`Y-yeah, okay.` 全文件统一以“好吧”收尾。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4561,
+      "source": "That's my good boy.",
+      "before": "这才乖嘛！",
+      "target": "这才乖嘛。",
+      "note": "同一 `That's my good boy.` 全文件统一句末句号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4583,
+      "source": "Ask for a hand.",
+      "before": "求助",
+      "target": "用手帮我",
+      "note": "`Ask for a hand.` 是向 Debbie 求手活，不是泛泛“求助”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 595,
+      "source": "Oh, hey, sweetie!",
+      "before": "哦，亲爱的，你来了！",
+      "target": "哦，嘿，亲爱的！",
+      "note": "同文件三处 `Oh, hey, sweetie!` 统一“哦，嘿，亲爱的！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 637,
+      "source": "No, something wonderful has happened!",
+      "before": "不，是好事发生了！",
+      "target": "不，是有件大好事！",
+      "note": "`something wonderful has happened` 改自然中文。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 775,
+      "source": "I enjoy cooking for you.",
+      "before": "我喜欢给你做早餐。",
+      "target": "我喜欢给你做饭。",
+      "note": "`cooking for you` 是做饭，不限于早餐。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 865,
+      "source": "Oh, hey, sweetie!",
+      "before": "哦，亲爱的！",
+      "target": "哦，嘿，亲爱的！",
+      "note": "同文件三处 `Oh, hey, sweetie!` 统一“哦，嘿，亲爱的！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 1057,
+      "source": "Heh.",
+      "before": "呵呵。",
+      "target": "呵。",
+      "note": "独立 `Heh.` 按全库基准作“呵。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 1189,
+      "source": "{i}*Snort*{/i}",
+      "before": "{i}*噗嗤！*{/i}",
+      "target": "{i}*噗嗤*{/i}",
+      "note": "`*Snort*` 按全库多数作“*噗嗤*”，感叹号不入标记。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 1279,
+      "source": "Oh, frozen sperm... how convenient.",
+      "before": "哦，冷冻精子……真方便。",
+      "target": "哦，冷冻精子……可真方便。",
+      "note": "补出 Jenny 反讽语气的“可”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 1381,
+      "source": "Heh.",
+      "before": "嘿。",
+      "target": "呵。",
+      "note": "独立 `Heh.` 按全库基准作“呵。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 1549,
+      "source": "Sheesh!",
+      "before": "老天！",
+      "target": "天啊！",
+      "note": "`Sheesh!` 按项目既有规则作“天啊！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 1669,
+      "source": "Gosh, you're insatiable!",
+      "before": "天啊，你真是贪得无厌！",
+      "target": "天啊，你可真贪心！",
+      "note": "调情语境不用“贪得无厌”这种贬义重的词。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 1729,
+      "source": "( And now everything with the baby seems to be settled. )",
+      "before": "（看来孩子的事也算应付过去了。）",
+      "target": "（看来孩子的事也算是定下来了。）",
+      "note": "`settled` 是安顿、定下来，不是“应付过去”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 1789,
+      "source": "Babies are a blessing.",
+      "before": "孩子们是上天的恩赐。",
+      "target": "孩子是上天的恩赐。",
+      "note": "`Babies` 是泛指，不用复数“孩子们”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 1945,
+      "source": "Did you take a picture?",
+      "before": "你拍照留证了吗？",
+      "target": "你拍照了吗？",
+      "note": "`Did you take a picture?` 不提前说出下一句的“留证”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 2059,
+      "source": "You're so affectionate lately.",
+      "before": "你最近怎么这么黏人？",
+      "target": "你最近真黏人。",
+      "note": "原句是陈述句，不改成反问。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 2101,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库多数作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 2131,
+      "source": "W-with the baby, I mean.",
+      "before": "我、我是问……你和孩子。",
+      "target": "我、我是说孩子的事。",
+      "note": "`with the baby` 是孩子的事，不是“你和孩子”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 2287,
+      "source": "Aww.",
+      "before": "哎——",
+      "target": "哎呀。",
+      "note": "`Aww.` 按全库多数作“哎呀。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 2473,
+      "source": "Sheesh.",
+      "before": "真服了。",
+      "target": "真是的。",
+      "note": "`Sheesh.` 按全库多数作“真是的。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 2539,
+      "source": "You want some?",
+      "before": "你要不要来点？",
+      "target": "你想尝尝吗？",
+      "note": "同文件两处 `You want some?` 统一“你想尝尝吗？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 2773,
+      "source": "Thank you.",
+      "before": "谢谢你。",
+      "target": "谢谢。",
+      "note": "同文件两处 `Thank you.` 统一“谢谢。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 2959,
+      "source": "Oh, holy crap!",
+      "before": "天啊！",
+      "target": "我靠！",
+      "note": "`Oh, holy crap!` 按项目既有规则统一“我靠！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3055,
+      "source": "Oh, wow!",
+      "before": "哇！",
+      "target": "哦，哇！",
+      "note": "`Oh, wow!` 与全库多数及同文件另一处统一“哦，哇！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3109,
+      "source": "Yeah, you are.",
+      "before": "嗯，真的。",
+      "target": "嗯，是啊。",
+      "note": "`Yeah, you are.` 是对“又当妈妈”的肯定，作“嗯，是啊。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3127,
+      "source": "I love you so much!",
+      "before": "我真的好爱你！",
+      "target": "我太爱你了！",
+      "note": "同文件两处 `I love you so much!` 统一“我太爱你了！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3247,
+      "source": "Aww, I know you are, sweetie.",
+      "before": "嗯，我知道，亲爱的。",
+      "target": "哎呀，我知道，亲爱的。",
+      "note": "补回 `Aww` 的语气词“哎呀”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3313,
+      "source": "I'm going to spoil you rotten.",
+      "before": "以后非得宠上天不可。",
+      "target": "我非得把你们宠上天不可。",
+      "note": "补回主语和复数对象，明确是 Debbie 对孩子们说。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3319,
+      "source": "{i}*Sniff*{/i} Oh, I love you so much.",
+      "before": "{i}*抽泣*{/i} 哦，我真的好爱你。",
+      "target": "{i}*抽泣*{/i} 哦，我太爱你了。",
+      "note": "`I love you so much` 与同文件统一“我太爱你了”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3397,
+      "source": "( ... With [saga.cast.jenny]. )",
+      "before": "（……还是跟[saga.cast.jenny]一起去的。）",
+      "target": "（……还有[saga.cast.jenny]陪着。）",
+      "note": "`With Jenny.` 是“还有 Jenny 陪着”，不擅自补“去的”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3403,
+      "source": "( Not exactly my first choice for moral support... I should get there right away! )",
+      "before": "（要找人陪着壮胆，她可绝不是首选……我得马上赶过去！）",
+      "target": "（要说精神支持，她可不是我的首选……我得马上赶过去！）",
+      "note": "`moral support` 是精神支持，不是“壮胆”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3421,
+      "source": "I worry about her being alone.",
+      "before": "我担心她一个人没人管。",
+      "target": "我担心她一个人待着。",
+      "note": "`being alone` 是独自待着，不是“没人管”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 3469,
+      "source": "In fact, we've been spending lots of... {i}quality{/i} time together as of late.",
+      "before": "其实，我们最近经常一起……{i}好好相处{/i}。",
+      "target": "其实，我们最近经常一起度过……{i}美好时光{/i}。",
+      "note": "`quality time` 是双关的“美好时光”，不用“好好相处”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 4207,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库多数作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "line": 4393,
+      "source": "What?",
+      "before": "什么？！",
+      "target": "什么？",
+      "note": "同一 `What?` 在文件内统一“什么？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 92,
+      "source": "Alright.",
+      "before": "好。",
+      "target": "好吧。",
+      "note": "`Alright.` 按全库多数统一“好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 722,
+      "source": "Y-yeah.",
+      "before": "是、是吧。",
+      "target": "是、是啊。",
+      "note": "同文件两处 `Y-yeah.` 统一“是、是啊。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 764,
+      "source": "Alright.",
+      "before": "好的。",
+      "target": "好吧。",
+      "note": "`Alright.` 按全库多数统一“好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 855,
+      "source": "... Make sure you do her {i}real{/i} good!",
+      "before": "……一定要把她{i}狠狠{/i}肏舒服！",
+      "target": "……一定要让她{i}爽上天{/i}！",
+      "note": "`do her real good` 是让她尽兴，不是强调“狠狠”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 1016,
+      "source": "Aww, that's so sweet!",
+      "before": "啊，真是太贴心了！",
+      "target": "哎呀，真是太贴心了！",
+      "note": "`Aww` 按全库多数作“哎呀”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 1037,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库多数作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 1436,
+      "source": "Y-yeah.",
+      "before": "是……是啊。",
+      "target": "是、是啊。",
+      "note": "`Y-yeah.` 的结巴统一用顿号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 1471,
+      "source": "It's the reason we had that difficult talk after our... {i}*Ahem*{/i} incident.",
+      "before": "也正因为这个，我们在那次……{i}*清嗓子*{/i}意外之后，才有了那场艰难的谈话。",
+      "target": "也正因为这个，我们在那次……{i}*咳咳*{/i}意外之后，才有了那场艰难的谈话。",
+      "note": "`*Ahem*` 按全库多数作“*咳咳*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 1534,
+      "source": "( Holy crap, is this working?! )",
+      "before": "（天啊，居然真的有用？！）",
+      "target": "（我靠，居然真的有用？！）",
+      "note": "`Holy crap` 按项目既有规则作“我靠”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 1604,
+      "source": "Aww, sweetie.",
+      "before": "噢，亲爱的。",
+      "target": "哎呀，亲爱的。",
+      "note": "同文件四处 `Aww, sweetie.` 统一“哎呀，亲爱的。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 1807,
+      "source": "Mm.",
+      "before": "唔……",
+      "target": "嗯。",
+      "note": "`Mm.` 按全库多数作“嗯。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 2172,
+      "source": "That's right.",
+      "before": "那当然。",
+      "target": "没错。",
+      "note": "同文件两处 `That's right.` 统一“没错。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 2315,
+      "source": "Heh, sweetie... chickens are always female.",
+      "before": "亲爱的……“母鸡”当然全是母的。",
+      "target": "呵，亲爱的……“母鸡”当然全是母的。",
+      "note": "补回 `Heh,` 的笑声并统一“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 2340,
+      "source": "{i}*Snort*{/i}",
+      "before": "{i}*哼哧*{/i}",
+      "target": "{i}*噗嗤*{/i}",
+      "note": "`*Snort*` 按全库多数作“*噗嗤*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 2551,
+      "source": "Aww, what a gentleman.",
+      "before": "啊，真是一位绅士。",
+      "target": "哎呀，真是一位绅士。",
+      "note": "`Aww` 按全库多数作“哎呀”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 2677,
+      "source": "That was weird.",
+      "before": "那真奇怪。",
+      "target": "真奇怪。",
+      "note": "同文件两处 `That was weird.` 统一“真奇怪。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 2684,
+      "source": "Heh, yeah, a little.",
+      "before": "嘿，是有点。",
+      "target": "呵，是有点。",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 2691,
+      "source": "Heh, she does that.",
+      "before": "嘿，她总是那样。",
+      "target": "呵，她总是那样。",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 2840,
+      "source": "Aww, sweetie.",
+      "before": "噢，亲爱的。",
+      "target": "哎呀，亲爱的。",
+      "note": "同文件四处 `Aww, sweetie.` 统一“哎呀，亲爱的。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3053,
+      "source": "Alright.",
+      "before": "好的。",
+      "target": "好吧。",
+      "note": "`Alright.` 按全库多数统一“好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3161,
+      "source": "Yes, please.",
+      "before": "是的，麻烦您。",
+      "target": "好的，谢谢。",
+      "note": "同文件两处 `Yes, please.` 统一“好的，谢谢。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3188,
+      "source": "Thank you.",
+      "before": "谢谢你。",
+      "target": "谢谢。",
+      "note": "同文件两处 `Thank you.` 统一“谢谢。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3249,
+      "source": "Aww, sweetie.",
+      "before": "噢，亲爱的。",
+      "target": "哎呀，亲爱的。",
+      "note": "同文件四处 `Aww, sweetie.` 统一“哎呀，亲爱的。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3353,
+      "source": "Heh, sweetie!",
+      "before": "嘿，亲爱的！",
+      "target": "呵，亲爱的！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3384,
+      "source": "Yeah?",
+      "before": "真的吗？",
+      "target": "是吗？",
+      "note": "同文件 `Yeah?` 多数作“是吗？”，此处是惊喜回应。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3463,
+      "source": "Yeah?",
+      "before": "嗯？",
+      "target": "是吗？",
+      "note": "此处是回应“太好吃了”的 `Yeah?`，作“是吗？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3469,
+      "source": "Mhmm.",
+      "before": "嗯。",
+      "target": "嗯哼。",
+      "note": "`Mhmm.` 按全库多数作“嗯哼。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3555,
+      "source": "{i}*Snort*{/i}",
+      "before": "{i}*哼*{/i}",
+      "target": "{i}*噗嗤*{/i}",
+      "note": "`*Snort*` 按全库多数作“*噗嗤*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 3853,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库多数作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 4122,
+      "source": "Hehe, sweetie!!",
+      "before": "嘿嘿，亲爱的！！",
+      "target": "呵呵，亲爱的！！",
+      "note": "句首 `Hehe,` 按全库基准作“呵呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 4134,
+      "source": "Aww, alright.",
+      "before": "啊，好吧。",
+      "target": "哎呀，好吧。",
+      "note": "`Aww,` 按全库多数作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 4155,
+      "source": "Heh, that tickles!",
+      "before": "嘿，好痒！",
+      "target": "呵，好痒！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 4389,
+      "source": "AAAAAAHHHHHHH!!!!",
+      "before": "啊啊啊啊啊！！！！！",
+      "target": "啊啊啊啊啊！！！",
+      "note": "全库感叹号统一三连，去掉五连。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 4474,
+      "source": "HNNGGG!!!",
+      "before": "嗯嗯嗯！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 4603,
+      "source": "{i}*Yawn*{/i}",
+      "before": "{i}*打哈欠*{/i}",
+      "target": "{i}*哈欠*{/i}",
+      "note": "`*Yawn*` 按全库多数作“*哈欠*”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 4675,
+      "source": "HNNGGG!!!",
+      "before": "嗯——！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一“嗯啊啊啊！！！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 5065,
+      "source": "Heh!",
+      "before": "嘿嘿！",
+      "target": "呵！",
+      "note": "独立 `Heh!` 按全库多数作“呵！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 5098,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库多数作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 5119,
+      "source": "Mhm.",
+      "before": "嗯哼。",
+      "target": "嗯。",
+      "note": "`Mhm.` 按全库多数作“嗯。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 5179,
+      "source": "With phenomenal breasts.",
+      "before": "还有她那对漂亮得不得了的奶子。",
+      "target": "还配着这么一对漂亮得不得了的奶子。",
+      "note": "Titomi 是自述“还配着”，不能用第三人称“她那对”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 5403,
+      "source": "Aww, sweetie...",
+      "before": "哦，亲爱的……",
+      "target": "哎呀，亲爱的……",
+      "note": "`Aww,` 按全库多数作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 5567,
+      "source": "Heh!",
+      "before": "嘿！",
+      "target": "呵！",
+      "note": "独立 `Heh!` 按全库多数作“呵！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 5586,
+      "source": "Aww!",
+      "before": "啊！",
+      "target": "哎呀！",
+      "note": "`Aww!` 按全库多数作“哎呀！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "line": 5605,
+      "source": "{i}*Snort*{/i} Hehe!",
+      "before": "{i}*哼*{/i} 呵呵！",
+      "target": "{i}*噗嗤*{/i} 嘿嘿！",
+      "note": "`*Snort* Hehe!` 按全库基准作“*噗嗤* 嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 3079,
+      "source": "It'll wash out.",
+      "before": "会洗掉的。",
+      "target": "我会洗掉的。",
+      "note": "外部并发改动保留：补出主语“我”，语义更顺，刷新台账指纹。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "line": 4583,
+      "source": "Ask for a hand.",
+      "before": "寻求一手帮助",
+      "target": "用手帮我",
+      "note": "外部并发改动把菜单项改成生硬的“寻求一手帮助”，复核后恢复为“用手帮我”，并刷新台账指纹。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 134,
+      "source": "Sheesh, what's gotten into you?!",
+      "before": "你发什么疯啊？！",
+      "target": "天啊，你发什么疯啊？！",
+      "note": "补回 `Sheesh` 的“天啊”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 148,
+      "source": "Huh?",
+      "before": "哈？",
+      "target": "啊？",
+      "note": "`Huh?` 的突发震惊按全库作“啊？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 526,
+      "source": "W-we can talk about it, if you-",
+      "before": "我-我们可以谈谈，要是你——",
+      "target": "我、我们可以谈谈，要是你——",
+      "note": "结巴统一用顿号，不用 ASCII 连字符。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 652,
+      "source": "Huh?",
+      "before": "哈？",
+      "target": "啊？",
+      "note": "`Huh?` 的突发震惊按全库作“啊？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 736,
+      "source": "( Uh oh, it sounds like [saga.cast.jenny]'s secret is out... )",
+      "before": "（呃哦，听起来[saga.cast.jenny]的秘密暴露了……）",
+      "target": "（糟糕，听起来[saga.cast.jenny]的秘密暴露了……）",
+      "note": "`Uh oh` 按全库多数作“糟糕”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 939,
+      "source": "Good lord, [saga.cast.debbie]...",
+      "before": "天啊，[saga.cast.debbie]……",
+      "target": "老天爷，[saga.cast.debbie]……",
+      "note": "`Good lord` 按全库多数作“老天爷”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 1149,
+      "source": "Y-yeah, of course!",
+      "before": "是——是的，当然！",
+      "target": "是、是的，当然！",
+      "note": "结巴统一用顿号，不用破折号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 1170,
+      "source": "Yeah, okay.",
+      "before": "好的，没问题。",
+      "target": "嗯，好吧。",
+      "note": "`Yeah, okay.` 按全库多数统一“嗯，好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 1387,
+      "source": "I'm sorry?",
+      "before": "这……我很抱歉？",
+      "target": "你说什么？",
+      "note": "`I'm sorry?` 是反问“你说什么？”，不是道歉。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 1422,
+      "source": "Huh?",
+      "before": "哈？",
+      "target": "啊？",
+      "note": "`Huh?` 的突发震惊按全库作“啊？”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 1653,
+      "source": "Can I get you something?",
+      "before": "要我给你拿点什么吗？",
+      "target": "要不要我给你拿点什么？",
+      "note": "同文件三处 `Can I get you something?` 统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 2304,
+      "source": "I just don't think we should-",
+      "before": "我只是觉得我们不应该—",
+      "target": "我只是觉得我们不应该——",
+      "note": "截断处用全角双破折号“——”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 3004,
+      "source": "Yes, ma'am.",
+      "before": "遵命，女士。",
+      "target": "是，夫人。",
+      "note": "`Yes, ma'am.` 对 Debbie 固定“是，夫人”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 3018,
+      "source": "Om, nom, nom!",
+      "before": "唔，唔，唔！",
+      "target": "嗷呜嗷呜嗷呜！",
+      "note": "`Om, nom, nom!` 与 `Om nom nom.` 的既有译法统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 3067,
+      "source": "Om, nom, nom.",
+      "before": "唔，吧唧吧唧。",
+      "target": "嗷呜嗷呜嗷呜。",
+      "note": "`Om, nom, nom.` 与全库“嗷呜嗷呜嗷呜”统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 3123,
+      "source": "Om, nom.",
+      "before": "唔，吧唧。",
+      "target": "嗷呜嗷呜。",
+      "note": "`Om, nom.` 与同组咀嚼拟声统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 3629,
+      "source": "Aww, I know...",
+      "before": "噢，我知道……",
+      "target": "哎呀，我知道……",
+      "note": "`Aww,` 按全库多数作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 3803,
+      "source": "Heh, I told you!",
+      "before": "嘿，我告诉过你了！",
+      "target": "呵，我告诉过你了！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4000,
+      "source": "Sorry, boys.",
+      "before": "抱歉了，兄弟们。",
+      "target": "抱歉了，小伙子们。",
+      "note": "直播呼语 `boys` 按规则作“小伙子们”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4052,
+      "source": "Heh, yes, you did!",
+      "before": "嘿，你说了！",
+      "target": "呵，你说了！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4134,
+      "source": "Yeah, okay.",
+      "before": "是啊，好吧。",
+      "target": "嗯，好吧。",
+      "note": "`Yeah, okay.` 按全库多数统一“嗯，好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4194,
+      "source": "Yes, {i}all{/i} of them...",
+      "before": "对，{i}全都{/i}想要……",
+      "target": "对，{i}全都{/i}用过……",
+      "note": "`all of them` 指所有玩具都用过，不是“全都想要”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4208,
+      "source": "Heh, wow.",
+      "before": "嘿，哇。",
+      "target": "呵，哇。",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4317,
+      "source": "NGGHHH!!!",
+      "before": "呃啊啊啊！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`NGGHHH!!!` 按全库多数统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4478,
+      "source": "NGGHHH!!!",
+      "before": "唔啊啊啊！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`NGGHHH!!!` 按全库多数统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4485,
+      "source": "HNNGGG!!!",
+      "before": "哼嗯嗯！！！",
+      "target": "嗯啊啊啊！！！",
+      "note": "`HNNGGG!!!` 按全库多数统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4525,
+      "source": "{i}*Mumbles incoherently*{/i}",
+      "before": "{i}*含糊不清地咕哝*{/i}",
+      "target": "{i}*含糊不清地嘟囔*{/i}",
+      "note": "同文件重复拟声统一为“嘟囔”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4746,
+      "source": "Aww, that's nice.",
+      "before": "啊，那真好。",
+      "target": "哎呀，那真好。",
+      "note": "`Aww,` 按全库多数作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4766,
+      "source": "Hehe!",
+      "before": "呵呵！",
+      "target": "嘿嘿！",
+      "note": "独立 `Hehe!` 按全库多数作“嘿嘿！”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4818,
+      "source": "O-kay.",
+      "before": "好吧。",
+      "target": "好、好吧。",
+      "note": "`O-kay.` 按全库多数作“好、好吧。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 4994,
+      "source": "I-is that?",
+      "before": "那——那是？",
+      "target": "那、那是？",
+      "note": "结巴统一用顿号，不用破折号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 5304,
+      "source": "R-really?",
+      "before": "真——真的吗？",
+      "target": "真、真的吗？",
+      "note": "`R-really?` 结巴统一用顿号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 5375,
+      "source": "Heh, he's so adorable!",
+      "before": "嘿嘿，他太可爱了！",
+      "target": "呵，他太可爱了！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 5395,
+      "source": "Heh, she's so adorable!",
+      "before": "嘿嘿，她太可爱了！",
+      "target": "呵，她太可爱了！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 5415,
+      "source": "Heh, they're so adorable!",
+      "before": "嘿嘿，他们太可爱了！",
+      "target": "呵，他们太可爱了！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 5490,
+      "source": "O-okay.",
+      "before": "好、好的。",
+      "target": "好、好吧。",
+      "note": "`O-okay.` 统一以“好吧”收尾。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 5531,
+      "source": "Heh, okay.",
+      "before": "嘿，好吧。",
+      "target": "呵，好吧。",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 5606,
+      "source": "Aww, [saga.cast.anon]...",
+      "before": "啊，[saga.cast.anon]……",
+      "target": "哎呀，[saga.cast.anon]……",
+      "note": "`Aww,` 按全库多数作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 5701,
+      "source": "Heh, you'll be coming home soon.",
+      "before": "嘿，你很快就能回家了。",
+      "target": "呵，你很快就能回家了。",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 6001,
+      "source": "Aww, they're so cute!",
+      "before": "哇，他们好可爱！",
+      "target": "哎呀，他们好可爱！",
+      "note": "`Aww,` 按全库多数作“哎呀，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 6054,
+      "source": "Uh huh.",
+      "before": "嗯嗯。",
+      "target": "嗯哼。",
+      "note": "`Uh huh.` 按全库多数作“嗯哼。”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 6200,
+      "source": "Heh, bye-bye!",
+      "before": "嘿，拜拜！",
+      "target": "呵，拜拜！",
+      "note": "`Heh,` 按全库基准作“呵，”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 6267,
+      "source": "Are you still mad?",
+      "before": "你还生气吗？",
+      "target": "你还在生气吗？",
+      "note": "同文件两处 `Are you still mad?` 统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 6271,
+      "source": "Can I get you something?",
+      "before": "需要我给你拿点什么吗？",
+      "target": "要不要我给你拿点什么？",
+      "note": "同文件三处 `Can I get you something?` 统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "line": 6287,
+      "source": "[saga.cast.debbie] is driving you crazy?",
+      "before": "[saga.cast.debbie]快把你逼疯了吧？",
+      "target": "[saga.cast.debbie]快把你逼疯了？",
+      "note": "同文件两处 `is driving you crazy?` 统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/sex_speed_control.rpy",
+      "line": 123,
+      "source": "Slower",
+      "before": "\\u6162\\u4e00\\u70b9",
+      "target": "慢一点",
+      "note": "把字面 `\\uXXXX` 转义改为实际中文，保持显示结果不变并便于后续审校。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/sex_speed_control.rpy",
+      "line": 126,
+      "source": "Faster",
+      "before": "\\u5feb\\u4e00\\u70b9",
+      "target": "快一点",
+      "note": "把字面 `\\uXXXX` 转义改为实际中文。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/sex_speed_control.rpy",
+      "line": 129,
+      "source": "slow",
+      "before": "\\u6162",
+      "target": "慢",
+      "note": "把字面 `\\uXXXX` 转义改为实际中文。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/sex_speed_control.rpy",
+      "line": 132,
+      "source": "slightly slower",
+      "before": "\\u7a0d\\u6162",
+      "target": "稍慢",
+      "note": "把字面 `\\uXXXX` 转义改为实际中文。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/sex_speed_control.rpy",
+      "line": 135,
+      "source": "normal",
+      "before": "\\u6807\\u51c6",
+      "target": "标准",
+      "note": "把字面 `\\uXXXX` 转义改为实际中文。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/sex_speed_control.rpy",
+      "line": 138,
+      "source": "fast",
+      "before": "\\u5feb",
+      "target": "快",
+      "note": "把字面 `\\uXXXX` 转义改为实际中文。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/sex_speed_control.rpy",
+      "line": 141,
+      "source": "Animation speed: ",
+      "before": "\\u52a8\\u753b\\u901f\\u5ea6\\uff1a",
+      "target": "动画速度：",
+      "note": "把字面 `\\uXXXX` 转义改为实际中文。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/atm.rpy",
+      "line": 11,
+      "source": "Interest",
+      "before": "利率",
+      "target": "利息",
+      "note": "ATM 里的 `Interest` 是已产生的利息，不是利率。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/menu.rpy",
+      "line": 71,
+      "source": "{i}Our signature dish for two!{/i}\\n{vspace=0}An exquisite spread of maki, sashimi, and nigirizushi, meticulously prepared for you by our master chef. Served alongside accoutrements of soy sauce, wasabi, ponzu, hot mustard, and pickled ginger — with our award-winning presentation that promises to leave you positively rigid with excitement.",
+      "before": "保证让您兴奋得欲罢不能。",
+      "target": "保证让您兴奋得硬起来。",
+      "note": "`positively rigid with excitement` 是双关，补回“硬起来”的成人暗示。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/tech/inv.rpy",
+      "line": 31,
+      "source": "( I need to turn this in to [saga.cast.viv] and hope no one else ever reads this! )",
+      "before": "我得把这个交给[saga.cast.viv]，希望没有别人读到！",
+      "target": "（我得把这个交给[saga.cast.viv]，希望没有别人读到！）",
+      "note": "内心独白补回全角括号，与项目格式统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 103,
+      "source": "The Orcette",
+      "before": "兽耳娘",
+      "target": "兽人娘",
+      "note": "`Orcette` 是兽人主题，不是兽耳（kemonomimi），统一作“兽人娘”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 148,
+      "source": "Go where no manhood has gone before past the alluring pussy of the Orcette. This mesmerizing pearlescent green begs to eat you up for a close encounter of the preferred kind. The Orcette Fleshlight comes with the pearlescent green Orc sleeve and a deep green outer case that combine to take your orcette fantasy to the outer limits of your imagination.",
+      "before": "驶向无人触及的领域，穿越兽娘诱人的小穴。这令人着迷的珠光绿色渴望将你吞噬，带来一场亲密接触。兽娘名器配有珠光绿色兽娘内胆和深绿色外壳，将你的兽娘幻想推向想象力的极限。",
+      "target": "驶向无人触及的领域，穿越兽人娘诱人的小穴。这令人着迷的珠光绿色渴望将你吞噬，带来一场亲密接触。兽人娘名器配有珠光绿色兽人娘内胆和深绿色外壳，将你的兽人娘幻想推向想象力的极限。",
+      "note": "同段四处 `Orcette` 统一作“兽人娘”，不再误写“兽娘／兽耳娘”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 220,
+      "source": "\"Woohoo! You just got paid!\"",
+      "before": "\\\"哇哦！你刚刚收到了报酬！\\\"",
+      "target": "“哇哦！你刚刚收到了报酬！”",
+      "note": "对白内引号改用中文全角引号，去掉多余转义。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 232,
+      "source": "\"Oye mami, I wanted to show you mi Pinga Latina {emoji=wink}\"",
+      "before": "\\\"喂，妈妈咪呀，我想给你看看我的拉丁巨屌 {emoji=wink}\\\"",
+      "target": "“喂，妈妈咪呀，我想给你看看我的拉丁巨屌 {emoji=wink}”",
+      "note": "对白内引号改用中文全角引号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 280,
+      "source": "- The Dildo \"Fuck-Hammer\"",
+      "before": "- 假阳具\\\"操锤\\\"",
+      "target": "- 假阳具“操锤”",
+      "note": "产品名引号改用中文全角引号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 284,
+      "source": "- Glow in the dark Butt plug",
+      "before": "- 夜光肛门塞",
+      "target": "- 夜光肛塞",
+      "note": "同文件 `butt plug` 统一“肛塞”，不再“肛门塞”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 296,
+      "source": "- The Doom Dong",
+      "before": "末日巨屌",
+      "target": "- 末日巨屌",
+      "note": "补回列表项的项目符号，与同组商品一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/gui/tel.rpy",
+      "line": 23,
+      "source": "Size: ???",
+      "before": "大小：……？",
+      "target": "大小：？？？",
+      "note": "原文是未知占位 `???`，不改成省略号式疑问。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy",
+      "line": 39,
+      "source": "xX~HOTKITTY69~Xx",
+      "before": "xX~热辣小猫69~Xx",
+      "target": "xX~HOTKITTY69~Xx",
+      "note": "HOTKITTY 在 pc.rpy 直播资料中保留英文，本处用户名统一回归英文，避免同一主播两套名字。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 832,
+      "source": "Use the telescope to peek into Tammy's room at night.",
+      "before": "晚上用望远镜偷窥Tammy的房间。",
+      "target": "晚上用望远镜偷看Tammy的房间。",
+      "note": "同一组望远镜提示统一“偷看”，不用“偷窥”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 840,
+      "source": "Use the telescope to peek into Tammy's yard.",
+      "before": "用望远镜偷窥Tammy的院子。",
+      "target": "用望远镜偷看Tammy的院子。",
+      "note": "同一组望远镜提示统一“偷看”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 103,
+      "source": "The Orcette",
+      "before": "兽人娘",
+      "target": "女兽人",
+      "note": "与 prop.rpy 的 Orcette 道具“女兽人”统一，避免同一商品两套叫法。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 148,
+      "source": "Go where no manhood has gone before past the alluring pussy of the Orcette. This mesmerizing pearlescent green begs to eat you up for a close encounter of the preferred kind. The Orcette Fleshlight comes with the pearlescent green Orc sleeve and a deep green outer case that combine to take your orcette fantasy to the outer limits of your imagination.",
+      "before": "驶向无人触及的领域，穿越兽人娘诱人的小穴。这令人着迷的珠光绿色渴望将你吞噬，带来一场亲密接触。兽人娘名器配有珠光绿色兽人娘内胆和深绿色外壳，将你的兽人娘幻想推向想象力的极限。",
+      "target": "驶向无人触及的领域，穿越女兽人诱人的小穴。这令人着迷的珠光绿色渴望将你吞噬，带来一场亲密接触。女兽人名器配有珠光绿色女兽人内胆和深绿色外壳，将你的女兽人幻想推向想象力的极限。",
+      "note": "同段四处 Orcette 统一“女兽人”，与道具名一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 288,
+      "source": "- Dual sybian (multi-{err=18}controler{/err})",
+      "before": "- 双人震荡机（多{err=18}控制器{/err}）",
+      "target": "- 双重Sybian（多{err=18}控制器{/err}）",
+      "note": "与 prop.rpy 的 Dual Sybian→“双重Sybian”统一，保留品牌名。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "line": 2011,
+      "source": "So bicycle in French is bicyclette... I should probably remember that!",
+      "before": "所以“自行车”用法语说是bicyclette（自行车）……我应该记住这个！",
+      "target": "所以法语里的自行车叫bicyclette……我应该记住这个！",
+      "note": "句内已经给出词义，去掉重复的括注“（自行车）”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "line": 2059,
+      "source": "Fromage means cheese... I wonder what's French for",
+      "before": "Fromage（奶酪）的意思是“奶酪”……我想知道“奶子”用法语怎么说？",
+      "target": "Fromage的意思是“奶酪”……我想知道“奶子”用法语怎么说？",
+      "note": "去掉与句内译义重复的括注“（奶酪）”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/atm.rpy",
+      "line": 11,
+      "source": "Interest",
+      "before": "利息",
+      "target": "利率",
+      "note": "复核源界面：`Interest` 标签下固定显示“2%”，因此是利率不是累计利息；恢复“利率”并刷新台账。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1432,
+      "source": "{pen=indigo}his {pen=neonpink}{u}cum all over her{/u}{rt}{pen=neonpink}face!!{/pen}{/rt}{/pen}, and proceeded to have a full on{/pen}{vspace=0}{space=430}{pen=indigo}{size=-8}crash out!{/size}{/pen}",
+      "before": "{pen=indigo}他的{pen=neonpink}{u}精液沾得她{/u}{rt}{pen=neonpink}满脸{/pen}{/rt}{/pen}浑身都是！！然后就彻底{/pen}{vspace=0}{space=430}{pen=indigo}{size=-8}崩溃了！{/size}{/pen}",
+      "target": "{pen=indigo}他的{pen=neonpink}{u}精液沾得她{/u}{rt}{pen=neonpink}满脸{/pen}{/rt}{/pen}都是！！然后就彻底{/pen}{vspace=0}{space=430}{pen=indigo}{size=-8}崩溃了！{/size}{/pen}",
+      "note": "`all over her face` 只是满脸，不加“浑身”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1442,
+      "source": "{pen=aqua}{size=-2}Eugh, {pen=blue}{b}[saga.cast.debbie]{/b}{/pen} and {pen=blue}{b}[saga.cast.anon]{/b}{/pen} are fucking... So {pen=maroon}{size=-5}{b}GROSS!!!{/b}{/size}{/pen}{/size}{/pen}",
+      "before": "呃，{pen=aqua}{size=-2}{pen=blue}{b}[saga.cast.debbie]{/b}{/pen}和{pen=blue}{b}[saga.cast.anon]{/b}{/pen}在干炮……太{pen=maroon}{size=-5}{b}恶心了！！！{/b}{/size}{/pen}{/size}{/pen}",
+      "target": "{pen=aqua}{size=-2}呃，{pen=blue}{b}[saga.cast.debbie]{/b}{/pen}和{pen=blue}{b}[saga.cast.anon]{/b}{/pen}在干炮……太{pen=maroon}{size=-5}{b}恶心了！！！{/b}{/size}{/pen}{/size}{/pen}",
+      "note": "恢复 aqua 颜色与字号标记在句首的顺序，与源文一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 162,
+      "source": "Go shopping with [saga.cast.debbie] after getting a handjob in the shower.",
+      "before": "在淋浴时被手淫后，和[saga.cast.debbie]一起去购物。",
+      "target": "在淋浴时被她打手枪后，和[saga.cast.debbie]一起去购物。",
+      "note": "“被手淫”主客关系生硬，改为自然的“被她打手枪”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 206,
+      "source": "reach lower",
+      "before": "向下伸展",
+      "target": "把手往下伸",
+      "note": "与同组 `Reach lower` 的长句版本统一。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 218,
+      "source": "Make a mess when spending the night with [saga.cast.debbie].",
+      "before": "和[saga.cast.debbie]过夜时把房间弄得一团糟。",
+      "target": "和[saga.cast.debbie]过夜时弄得到处都是。",
+      "note": "性场景里的 `Make a mess` 是弄得到处都是，不是把房间弄乱。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 468,
+      "source": "Get caught watching porn in the lounge by [saga.cast.jenny], and have sex.",
+      "before": "在客厅看黄片被[saga.cast.jenny]抓到，然后做爱。",
+      "target": "在客厅看色情片被[saga.cast.jenny]抓到，然后做爱。",
+      "note": "同文件其余 `watching porn` 均作“看色情片”，统一用词。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 484,
+      "source": "Join [saga.cast.jenny] in the shower for a blowjob again.",
+      "before": "再次加入[saga.cast.jenny]的淋浴来一次口交。",
+      "target": "再次和[saga.cast.jenny]共浴，来一次口交。",
+      "note": "改成自然中文，避免“加入淋浴”直译。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 572,
+      "source": "Repeat, denial.",
+      "before": "再次，拒绝。",
+      "target": "重温（拒绝）",
+      "note": "`Repeat` 作为图鉴分类作“重温”，与同文件其他条目一致。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 580,
+      "source": "Climb into bed with [saga.cast.jenny] at night. {sub}",
+      "before": "晚上爬上床和[saga.cast.jenny]一起。{sub}",
+      "target": "晚上爬上[saga.cast.jenny]的床。{sub}",
+      "note": "`Climb into bed with` 改自然语序。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 584,
+      "source": "Climb into bed with [saga.cast.jenny] at night. {dom}",
+      "before": "晚上爬上床和[saga.cast.jenny]一起。{dom}",
+      "target": "晚上爬上[saga.cast.jenny]的床。{dom}",
+      "note": "`Climb into bed with` 改自然语序。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "line": 720,
+      "source": "Fool around with [saga.cast.maria] in the pizzeria pantry.",
+      "before": "在比萨店储藏室和[saga.cast.maria]亲热。",
+      "target": "在披萨店储藏室和[saga.cast.maria]亲热。",
+      "note": "同文件统一“披萨”，不再混用“比萨”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/menu.rpy",
+      "line": 71,
+      "source": "{i}Our signature dish for two!{/i}\\n{vspace=0}An exquisite spread of maki, sashimi, and nigirizushi, meticulously prepared for you by our master chef. Served alongside accoutrements of soy sauce, wasabi, ponzu, hot mustard, and pickled ginger — with our award-winning presentation that promises to leave you positively rigid with excitement.",
+      "before": "保证让您兴奋得硬起来。",
+      "target": "保证让您兴奋得欲罢不能。",
+      "note": "外部并发改动把女体盛菜单的“硬起来”改回“欲罢不能”；按当前工作区为准保留并刷新台账。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 197,
+      "source": "Statement:",
+      "before": "语句:",
+      "target": "语句：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 199,
+      "source": "Tag:",
+      "before": "标签:",
+      "target": "标签：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 201,
+      "source": "Attributes:",
+      "before": "属性:",
+      "target": "属性：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 205,
+      "source": "Transforms:",
+      "before": "变换:",
+      "target": "变换：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 211,
+      "source": "Behind:",
+      "before": "背后:",
+      "target": "背后：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 215,
+      "source": "Transition:",
+      "before": "过渡:",
+      "target": "过渡：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 221,
+      "source": "Channel:",
+      "before": "通道:",
+      "target": "通道：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 225,
+      "source": "Audio Filename:",
+      "before": "音频文件名:",
+      "target": "音频文件名：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 413,
+      "source": "The Sync ID is:",
+      "before": "同步ID是:",
+      "target": "同步ID是：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 423,
+      "source": "Could not download file list: ",
+      "before": "无法下载文件列表: ",
+      "target": "无法下载文件列表：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 445,
+      "source": "An error has occured:",
+      "before": "发生错误:",
+      "target": "发生错误：",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 529,
+      "source": "This computer has a problem displaying graphics: [problem].",
+      "before": "此计算机的图形显示存在问题: [problem]。",
+      "target": "此计算机的图形显示存在问题：[problem]。",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/base_box/common_box.rpy",
+      "line": 595,
+      "source": "Translation identifier: [identifier]",
+      "before": "翻译标识:[identifier]",
+      "target": "翻译标识：[identifier]",
+      "note": "界面标签的半角冒号统一为全角冒号；文件名:行号分隔符保持半角。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 266,
+      "source": "A very \\\"in-depth\\\" guide on how to breed like a bull!",
+      "before": "一本关于如何像公牛般交配的极为\\\"深入\\\"的指南！",
+      "target": "一本关于如何像公牛般交配的极为“深入”的指南！",
+      "note": "对白内引号改用中文全角引号，去掉多余转义。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 695,
+      "source": "\\\"For internal use only.\\\" Errrmmm...",
+      "before": "\\\"仅供内部使用。\\\" 呃嗯……",
+      "target": "“仅供内部使用。” 呃嗯……",
+      "note": "对白内引号改用中文全角引号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1058,
+      "source": "[saga.cast.tori] said these were plans for a \\\"mind wipe serum\\\" and to fetch the ingredients!",
+      "before": "[saga.cast.tori]说这些是\\\"记忆清除血清\\\"的计划书，还让我去拿原料！",
+      "target": "[saga.cast.tori]说这些是“记忆清除血清”的计划书，还让我去拿原料！",
+      "note": "对白内引号改用中文全角引号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 320,
+      "source": "A comprehensive guide to eyebrow makeovers, bandanas, piercings, and putting down skank ass hoes.",
+      "before": "一本关于眉毛改造、头巾、穿孔以及收拾骚货的全面指南",
+      "target": "一本关于眉毛改造、头巾、穿孔以及收拾骚货的全面指南。",
+      "note": "补回句末句号。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1289,
+      "source": "A cone-shaped plug for anal insertion that glows in the dark.",
+      "before": "一种锥形的、用于肛门插入的、在黑暗中发光的塞子。",
+      "target": "一种会在黑暗中发光的锥形肛塞。",
+      "note": "去掉三重“的”的直译腔，统一“肛塞”术语。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1337,
+      "source": "A strange sex doll of a man with a moustache.",
+      "before": "一个奇怪的留着胡子的男人性爱娃娃。",
+      "target": "一个奇怪的、留着小胡子的男人性爱娃娃。",
+      "note": "补顿号并改自然量词。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1313,
+      "source": "A cheaper version of the popular battery-powered vibrating clit stimulator.",
+      "before": "流行的电池供电振动阴蒂刺激器的廉价版。",
+      "target": "热门电池振动阴蒂刺激器的廉价版。",
+      "note": "压缩冗长定语，改用自然商品描述。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "line": 775,
+      "source": "Enter the lounge in the afternoon [saga.lang.wait(f)!t].",
+      "before": "[saga.lang.wait(f)!t]下午进入客厅。",
+      "target": "下午[saga.lang.wait(f)!t]进入客厅。",
+      "note": "时间变量移到“下午”之后，中文时间顺序更自然。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "line": 841,
+      "source": "Enter the garage [saga.lang.wait(f)!t] in the [f.when!l].",
+      "before": "[saga.lang.wait(f)!t][f.when!l]进入车库。",
+      "target": "[f.when!l][saga.lang.wait(f)!t]进入车库。",
+      "note": "时段变量应排在等待区间变量之前。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "line": 955,
+      "source": "Hearing those British accents in the background while having fun with [saga.cast.debbie] had better not awaken anything in me.",
+      "before": "在背景中听到那些英国口音，并且与[saga.cast.debbie]玩得很开心，最好不要唤醒我内心的任何东西。",
+      "target": "和[saga.cast.debbie]快活时背景里那些英国口音，最好别唤醒我内心里的什么东西。",
+      "note": "理顺从句关系，还原“快活时听到英国口音”的语境。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "line": 1546,
+      "source": "I think I just made things worse. D: Perhaps I should try consoling her again later.",
+      "before": "我想我刚刚让事情变得更糟了。D：或许我该等会儿再试着安慰她。",
+      "target": "我想我刚刚让事情变得更糟了。D:或许我该等会儿再试着安慰她。",
+      "note": "恢复 ASCII 表情 D:，不被中文全角冒号破坏。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/step.rpy",
+      "line": 1942,
+      "source": "I hope that chicken thing isn't permanent.",
+      "before": "我希望那个鸡的事情不是永久的。",
+      "target": "希望那个变鸡的效果不是永久的。",
+      "note": "补出“变鸡的效果”，避免“鸡的事情”歧义。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/src/mini/pc.rpy",
+      "line": 288,
+      "source": "- Dual sybian (multi-{err=18}controler{/err})",
+      "before": "- 双重Sybian（多{err=18}控制器{/err}）",
+      "target": "- 双头赛马鞍（多{err=18}控制器{/err}）",
+      "note": "外部并发改动把 Sybian 意译为“双头赛马鞍”；按当前工作区为准保留，并作为全库统一基准。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1346,
+      "source": "Dual Sybian",
+      "before": "双重Sybian",
+      "target": "双头赛马鞍",
+      "note": "与 mini/pc 的外部手改统一为“双头赛马鞍”。",
+      "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/res/meta/prop.rpy",
+      "line": 1349,
+      "source": "A double dildo-mounted sybian.",
+      "before": "一个双假阳具型Sybian。",
+      "target": "一个双假阳具型赛马鞍。",
+      "note": "道具说明同步“赛马鞍”品牌译名。",
+      "revision": "bilingual-review-2026-09-13"
     }
   ],
   "reading_batches": [
@@ -8151,6 +13551,184 @@
       ],
       "pairs": 282,
       "note": "五份久未改动文件完成全文双语复审（共282对），均未发现需要修改的措辞；method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "ano15_bilingual_review",
+      "status": "corrected_and_context_reread",
+      "file": "tl/zh_hans/src/plot/ano15.rpy",
+      "changes": 40,
+      "note": "756对全文双语复审（优先超过3天未改动文件），修正40处；统一笑声、应声词、同源短句和拆词拼接破折号；台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "deb_tv_bilingual_review",
+      "status": "corrected_and_context_reread",
+      "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+      "changes": 79,
+      "note": "765对全文双语复审，修正79处；统一笑声、拟声、喘息、拆句衔接与同源短句，修正菜单误译；台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "deb_baby_bilingual_review",
+      "status": "corrected_and_context_reread",
+      "file": "tl/zh_hans/src/plot/deb_baby.rpy",
+      "changes": 33,
+      "note": "773对全文双语复审，修正33处；统一笑声、`Sheesh`/`Holy crap`、`Aww`、同源短句，修正生硬直译与漏译；台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "deb26_bilingual_review",
+      "status": "corrected_and_context_reread",
+      "file": "tl/zh_hans/src/plot/deb26.rpy",
+      "changes": 44,
+      "note": "858对全文双语复审，修正44处；统一笑声、拟声、`Holy crap`、`Aww`、`Alright`、`Heh!`、`HNNGGG` 等同源句，修正语气与指代；台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "jen_baby_bilingual_review",
+      "status": "corrected_and_context_reread",
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "changes": 45,
+      "note": "929对全文双语复审，修正45处；统一笑声、`Aww`、咀嚼拟声、结巴标点、直播呼语和同源短句，修正道歉误译与指代；台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "menu_mini_small_batch_review",
+      "status": "reviewed",
+      "files": [
+        "tl/zh_hans/sex_speed_control.rpy",
+        "tl/zh_hans/sms_fix.rpy",
+        "tl/zh_hans/src/+config.rpy",
+        "tl/zh_hans/src/+wip.rpy",
+        "tl/zh_hans/src/fx.rpy",
+        "tl/zh_hans/src/game.rpy",
+        "tl/zh_hans/src/lewd.rpy",
+        "tl/zh_hans/src/menu/cast.rpy",
+        "tl/zh_hans/src/menu/core.rpy",
+        "tl/zh_hans/src/menu/gate.rpy",
+        "tl/zh_hans/src/menu/lewd.rpy",
+        "tl/zh_hans/src/menu/logs.rpy",
+        "tl/zh_hans/src/menu/mode.rpy",
+        "tl/zh_hans/src/menu/mvps.rpy",
+        "tl/zh_hans/src/menu/name.rpy",
+        "tl/zh_hans/src/menu/pref.rpy",
+        "tl/zh_hans/src/menu/slot.rpy",
+        "tl/zh_hans/src/menu/team.rpy",
+        "tl/zh_hans/src/menu/tech.rpy",
+        "tl/zh_hans/src/mini.rpy",
+        "tl/zh_hans/src/mini/atm.rpy",
+        "tl/zh_hans/src/mini/bottle.rpy",
+        "tl/zh_hans/src/mini/camera.rpy",
+        "tl/zh_hans/src/mini/cocktail.rpy",
+        "tl/zh_hans/src/mini/combat.rpy",
+        "tl/zh_hans/src/mini/cook.rpy",
+        "tl/zh_hans/src/mini/courier.rpy",
+        "tl/zh_hans/src/mini/french.rpy",
+        "tl/zh_hans/src/mini/garden.rpy",
+        "tl/zh_hans/src/mini/hottub.rpy",
+        "tl/zh_hans/src/mini/keypad.rpy",
+        "tl/zh_hans/src/mini/menu.rpy",
+        "tl/zh_hans/src/mini/milk.rpy",
+        "tl/zh_hans/src/mini/pushup.rpy",
+        "tl/zh_hans/src/mini/scuffle.rpy",
+        "tl/zh_hans/src/mini/serum.rpy",
+        "tl/zh_hans/src/mini/tv.rpy",
+        "tl/zh_hans/src/mini/weight.rpy",
+        "tl/zh_hans/src/mini/womb.rpy",
+        "tl/zh_hans/src/mini/wrench.rpy",
+        "tl/zh_hans/src/mini/xray.rpy",
+        "tl/zh_hans/src/renpy/adv.rpy",
+        "tl/zh_hans/src/renpy/confirm.rpy",
+        "tl/zh_hans/src/renpy/ex.rpy",
+        "tl/zh_hans/src/renpy/voice.rpy",
+        "tl/zh_hans/src/tech/inv.rpy"
+      ],
+      "changes": 10,
+      "note": "50个菜单／功能／小游戏／钩子文件逐条英中对照复审（含33个旧功能批次和17个无method文件）；10处修正：速度UI转义、ATM利息、女体盛双关、内心独白括号。台账 method 统一升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "gui_mini_interface_review",
+      "status": "corrected",
+      "files": [
+        "tl/zh_hans/src/gui/hud.rpy",
+        "tl/zh_hans/src/gui/inv.rpy",
+        "tl/zh_hans/src/gui/tel.rpy",
+        "tl/zh_hans/src/mech/shop.rpy",
+        "tl/zh_hans/src/mini/pc.rpy"
+      ],
+      "changes": 8,
+      "note": "gui hud/inv/tel、mini/pc、mech/shop 共5个界面文件逐条英中对照复审，8处修正：Orcette→兽人娘、中文引号、肛塞术语、商品项目符号、未知占位；台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "cast_and_locations_review",
+      "status": "read_no_change_needed",
+      "files": [
+        "tl/zh_hans/base_box/sets.rpy",
+        "tl/zh_hans/res/meta/cast.rpy",
+        "tl/zh_hans/res/meta/sets.rpy"
+      ],
+      "pairs": 229,
+      "note": "base_box/sets（179）、res/meta/sets（6）与 res/meta/cast（44）共229对逐条英中对照复审，无需改动；Hillside Mall→山畔商场、Rusty Angus→锈牛酒吧、Glazies→糖霜甜甜圈店、Planet Thiccness→丰满星球、Cosmic Cumics→宇宙漫画等均已与术语表和审计基准一致；台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "extracted_dynamic_small_review",
+      "status": "corrected",
+      "files": [
+        "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy",
+        "tl/zh_hans/extracted/cocktail_donut_garden_serum.rpy",
+        "tl/zh_hans/extracted/ex_tv_television_menu_view_wind.rpy",
+        "tl/zh_hans/extracted/game_seed.rpy",
+        "tl/zh_hans/extracted/gui_wip_lewd_catalogue.rpy",
+        "tl/zh_hans/extracted/mesg.rpy",
+        "tl/zh_hans/extracted/pom_lang.rpy"
+      ],
+      "changes": 1,
+      "note": "anon_pc_jenny_laptop、cocktail_donut_garden_serum、ex_tv_television_menu_view_wind、game_seed、gui_wip_lewd_catalogue、mesg、pom_lang 共7个动态片段文件逐条英中对照复审；唯一修正为主播用户名统一 HOTKITTY；Failout 3→妇射3、Never-Life 3→没条命3 保留用户手改，angle speed、Krüger、Rodríguez、娥眉月等保留既有定译。"
+    },
+    {
+      "id": "extracted_lewd_targeted_recheck",
+      "status": "corrected",
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "changes": 2,
+      "note": "extracted/lewd 225对做同源句漂移与英文残留全扫（0漂移、0违规残留），修正望远镜提示2处“偷窥”→“偷看”；此前已有逐条人工阅读记录，本轮不重复宣称整文件重读。"
+    },
+    {
+      "id": "ui_prop_task_scan",
+      "status": "corrected",
+      "files": [
+        "tl/zh_hans/base_box/common_box.rpy",
+        "tl/zh_hans/base_box/screens_box.rpy",
+        "tl/zh_hans/res/meta/prop.rpy",
+        "tl/zh_hans/res/meta/step.rpy",
+        "tl/zh_hans/src/mini/pc.rpy"
+      ],
+      "changes": 5,
+      "note": "common_box 308、screens_box 108、prop 455、step 732、pc 77 共1680对完成同源句漂移、英文残留、未翻译同形和目标一致性扫描；修正5处：Orcette→女兽人、Dual sybian→双重Sybian、法语 bicyclette／Fromage 冗余括注。月份名、June、Ren'Py 引擎令牌和按键名按既有规则保留英文。"
+    },
+    {
+      "id": "diary_lewd_full_bilingual_review",
+      "status": "corrected",
+      "files": [
+        "tl/zh_hans/extracted/jenny_diary.rpy",
+        "tl/zh_hans/extracted/lewd.rpy"
+      ],
+      "changes": 11,
+      "note": "jenny_diary 294对与 lewd 225对完成全文逐条英中对照通读，共修正11处：日记“满脸浑身”与颜色标记顺序；图鉴“被手淫”“向下伸展”“把房间弄得一团糟”“看黄片”“加入淋浴”“再次，拒绝”“爬上床和……一起”“比萨店”等生硬或误译。台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "shared_ui_bilingual_review",
+      "status": "corrected",
+      "files": [
+        "tl/zh_hans/base_box/common_box.rpy",
+        "tl/zh_hans/base_box/screens_box.rpy"
+      ],
+      "changes": 13,
+      "note": "common_box 308对与 screens_box 108对逐条英中对照复审；common_box 13处界面标签半角冒号改全角，screens_box 无需改动。台账 method 升级为 bilingual_scene_read。"
+    },
+    {
+      "id": "prop_step_bilingual_review",
+      "status": "corrected",
+      "files": [
+        "tl/zh_hans/res/meta/prop.rpy",
+        "tl/zh_hans/res/meta/step.rpy"
+      ],
+      "changes": 12,
+      "note": "prop 455对与 step 732对完成全文逐条英中对照复审，共修正12处：道具中文引号／句末句号／肛塞术语／冗长定语，任务时间变量顺序、英国口音从句、D: 表情和变鸡效果歧义。台账 method 升级为 bilingual_scene_read。"
     }
   ],
   "source_followups": [

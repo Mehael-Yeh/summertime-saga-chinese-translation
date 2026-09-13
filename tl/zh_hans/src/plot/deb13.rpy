@@ -52,7 +52,7 @@ translate zh_hans deb13_lobby_41dd719f:
 translate zh_hans deb13_lobby_e1e3eebf:
 
     # debbie a_clasp f_sad "My poor baby."
-    debbie a_clasp f_sad "哎呀，我可怜的孩子。"
+    debbie a_clasp f_sad "我可怜的宝贝。"
 
 # game/src/plot/deb13.rpy:15
 translate zh_hans deb13_lobby_25cd87e2:
@@ -82,7 +82,7 @@ translate zh_hans deb13_lobby_8c4d7283:
 translate zh_hans deb13_lobby_2513cf93:
 
     # anon "Yeeeaaah, you say that..."
-    anon "是——是啦，你嘴上是这么说……"
+    anon "是啊——你嘴上是这么说……"
 
 # game/src/plot/deb13.rpy:20
 translate zh_hans deb13_lobby_029c74a9:
@@ -370,7 +370,7 @@ translate zh_hans deb13_engine_9c231f15:
 translate zh_hans deb13_engine_d2385c9d:
 
     # anon f_worried @ -m_talk "( Aww, man... I bet those Russian assholes did this! )"
-    anon f_worried @ -m_talk "（啊，靠……我打赌是那些俄国混蛋干的！）"
+    anon f_worried @ -m_talk "（哎呀……我打赌是那些俄国混蛋干的！）"
 
 # game/src/plot/deb13.rpy:101
 translate zh_hans deb13_engine_918f2408:
@@ -658,7 +658,7 @@ translate zh_hans deb13_car_25cbeade:
 translate zh_hans deb13_car_e56a6c1a:
 
     # josie @ -m_talk "Mhmm."
-    josie @ -m_talk "嗯。"
+    josie @ -m_talk "嗯哼。"
 
 # game/src/plot/deb13.rpy:205
 translate zh_hans deb13_car_631309ef:
@@ -934,7 +934,7 @@ translate zh_hans deb13_car_914f165c:
 translate zh_hans deb13_car_26b55053:
 
     # anon e_w f_worried @ -m_talk "( Either way, I'll have to call back her to sort this out. )"
-    anon e_w f_worried @ -m_talk "（不管选哪条路，我都得再打给她谈谈。）"
+    anon e_w f_worried @ -m_talk "（不管选哪条路，我都得再打给她才能解决。）"
 
 # game/src/plot/deb13.rpy:346
 translate zh_hans deb13_car_bleh_5b8e7efc:
@@ -1252,7 +1252,7 @@ translate zh_hans deb13_car_friends_550529af:
 translate zh_hans deb13_car_merge_1aaf5418:
 
     # josie "You know what?"
-    josie "听着。"
+    josie "这样吧。"
 
 # game/src/plot/deb13.rpy:502
 translate zh_hans deb13_car_merge_93bd7890:
@@ -1576,7 +1576,7 @@ translate zh_hans deb13_retry_cbe42cda_2:
 translate zh_hans deb13_retry_e7d2c294:
 
     # josie f_horny "You know what?"
-    josie f_horny "你知道吗？"
+    josie f_horny "这样吧。"
 
 # game/src/plot/deb13.rpy:649
 translate zh_hans deb13_retry_4e41c4d2:
@@ -1594,7 +1594,7 @@ translate zh_hans deb13_retry_cc93b9be:
 translate zh_hans deb13_retry_9aeb3078:
 
     # anon f_happy @ e_b m_laugh "Heh, awesome."
-    anon f_happy @ e_b m_laugh "哈，漂亮。"
+    anon f_happy @ e_b m_laugh "呵，漂亮。"
 
 # game/src/plot/deb13.rpy:666
 translate zh_hans deb13_retry_27c44df8:
@@ -1990,7 +1990,7 @@ translate zh_hans deb13_outro_61301357:
 translate zh_hans deb13_outro_c185e26b:
 
     # debbie f_sceptical "Riiight."
-    debbie f_sceptical "是——哦。"
+    debbie f_sceptical "哦——是啊。"
 
 # game/src/plot/deb13.rpy:938
 translate zh_hans deb13_outro_96db7f5b:
@@ -2416,7 +2416,7 @@ translate zh_hans deb13_outro_merge_162c20b4:
 translate zh_hans deb13_outro_merge_3205d54d:
 
     # debbie @ p_car_peck_anon_nose "{i}*Muah*{/i}"
-    debbie @ p_car_peck_anon_nose "{i}*啾*{/i}"
+    debbie @ p_car_peck_anon_nose "{i}*啵*{/i}"
 
 # game/src/plot/deb13.rpy:1080
 translate zh_hans deb13_outro_merge_d38fe957:
@@ -2566,7 +2566,7 @@ translate zh_hans deb13_outro_merge_176fe4d2:
 translate zh_hans deb13_outro_merge_727200e6:
 
     # debbie @ e_b m_laugh "Hehe!"
-    debbie @ e_b m_laugh "呵呵！"
+    debbie @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/deb13.rpy:1132
 translate zh_hans deb13_outro_merge_dffea1ba:
@@ -2680,7 +2680,7 @@ translate zh_hans deb13_outro_merge_dda2aab7:
 translate zh_hans deb13_outro_merge_e99677b5:
 
     # debbie a_touch_anon_neck "Tsk, my poor baby."
-    debbie a_touch_anon_neck "啧，真是可怜的孩子。"
+    debbie a_touch_anon_neck "啧，我可怜的宝贝。"
 
 # game/src/plot/deb13.rpy:1186
 translate zh_hans deb13_outro_merge_62d5556c:
@@ -2728,7 +2728,7 @@ translate zh_hans deb13_outro_merge_5f5cf2a6:
 translate zh_hans deb13_outro_merge_727200e6_1:
 
     # debbie @ e_b m_laugh "Hehe!"
-    debbie @ e_b m_laugh "呵呵！"
+    debbie @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/deb13.rpy:1195
 translate zh_hans deb13_outro_merge_b8a6ea23:
@@ -2842,7 +2842,7 @@ translate zh_hans deb13_outro_merge_f642f27c:
 translate zh_hans deb13_outro_paid_b34b7a28:
 
     # anon a_facepalm e_n f_shy p_car "Aww, man..."
-    anon a_facepalm e_n f_shy p_car "糟了……"
+    anon a_facepalm e_n f_shy p_car "哎呀……"
 
 # game/src/plot/deb13.rpy:1244
 translate zh_hans deb13_outro_paid_e4539036:
@@ -2933,4 +2933,4 @@ translate zh_hans strings:
 
     # game/src/plot/deb13.rpy:606
     old "Are you sure there's nothing you can do?"
-    new "你确定没有别的办法吗？"
+    new "真没别的办法了？"

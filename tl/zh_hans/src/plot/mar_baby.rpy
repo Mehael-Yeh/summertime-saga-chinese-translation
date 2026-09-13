@@ -416,7 +416,7 @@ translate zh_hans mar_baby_late_maria_lounge_8d5bf6c3:
 translate zh_hans mar_baby_late_misc1_5c58a4e2:
 
     # anon f_curious "How are you feeling?"
-    anon f_curious "你感觉还好吗？"
+    anon f_curious "你感觉怎么样？"
 
 # game/src/plot/mar_baby.rpy:185
 translate zh_hans mar_baby_late_misc1_82df20f3:
@@ -442,13 +442,13 @@ translate zh_hans mar_baby_late_misc1_55f22bd0:
 translate zh_hans mar_baby_late_misc1_ff057e38:
 
     # maria e_w f_curious "Hmm, not really?"
-    maria e_w f_curious "嗯，不太有感觉？"
+    maria e_w f_curious "嗯，好像没有？"
 
 # game/src/plot/mar_baby.rpy:192
 translate zh_hans mar_baby_late_misc1_906cd15b:
 
     # maria f_happy "But I always did have a strong stomach."
-    maria f_happy "不过我的胃口一向很好。"
+    maria f_happy "不过我的肠胃一向很好。"
 
 # game/src/plot/mar_baby.rpy:193
 translate zh_hans mar_baby_late_misc1_1333134d:
@@ -693,14 +693,14 @@ translate zh_hans mar_baby_costume_7eb11d79:
 
 
     # anon "Y-you're naked."
-    anon "你……你没穿衣服。"
+    anon "你、你没穿衣服。"
 
 # game/src/plot/mar_baby.rpy:349
 translate zh_hans mar_baby_costume_acdc1f9b:
 
 
     # maria f_happy "Heh, oh... that."
-    maria f_happy "呵呵，哦……这个啊。"
+    maria f_happy "呵，哦……这个啊。"
 
 # game/src/plot/mar_baby.rpy:350
 translate zh_hans mar_baby_costume_e1bbb590:
@@ -784,7 +784,7 @@ translate zh_hans mar_baby_belly_intro_c9d66d37:
 translate zh_hans mar_baby_belly_maria_bed1_b1dd2f7b:
 
     # anon "Hi, [saga.cast.maria]."
-    anon "你好，[saga.cast.maria]。"
+    anon "嗨，[saga.cast.maria]。"
 
 # game/src/plot/mar_baby.rpy:413
 translate zh_hans mar_baby_belly_maria_lounge_8d5bf6c3:
@@ -864,7 +864,7 @@ translate zh_hans mar_baby_belly_reuse_45bf1ae5:
 
 
     # maria @ e_b f_happy m_laugh "Hehe!"
-    maria @ e_b f_happy m_laugh "呵呵！"
+    maria @ e_b f_happy m_laugh "嘿嘿！"
 
 # game/src/plot/mar_baby.rpy:442
 translate zh_hans mar_baby_belly_reuse_9178262c:
@@ -1007,7 +1007,7 @@ translate zh_hans mar_baby_meet_ce7e2b4d:
 
 
     # tony "... But you're right on time to meet your godchildren!"
-    tony "……但你正好赶上来见你的教子们！"
+    tony "……但你正好赶上来见你的教子和教女！"
 
 # game/src/plot/mar_baby.rpy:535
 translate zh_hans mar_baby_meet_844f193c:
@@ -1020,7 +1020,7 @@ translate zh_hans mar_baby_meet_14ac2cb7:
 
 
     # maria "I don't want you cursin' in front of our children!"
-    maria "我不想你在我们孩子们面前骂人！"
+    maria "我不想你在孩子们面前骂人！"
 
 # game/src/plot/mar_baby.rpy:542
 translate zh_hans mar_baby_meet_66f9a5c6:
@@ -1061,7 +1061,7 @@ translate zh_hans mar_baby_meet_5919d5dc:
 translate zh_hans mar_baby_meet_1c7738a0:
 
     # anon "D-did you say godchildren?"
-    anon "你、你说的是教子们？"
+    anon "你、你说的是教子教女？"
 
 # game/src/plot/mar_baby.rpy:559
 translate zh_hans mar_baby_meet_4c9612eb:
@@ -1154,7 +1154,7 @@ translate zh_hans mar_baby_meet_07d946a9:
 
 
     # maria e_s "Heh, ya better be!"
-    maria e_s "哼，你最好是这样！"
+    maria e_s "呵，你最好是这样！"
 
 # game/src/plot/mar_baby.rpy:593
 translate zh_hans mar_baby_meet_14d672dd:
@@ -1246,7 +1246,7 @@ translate zh_hans mar_baby_meet_72393f26:
 translate zh_hans mar_baby_meet_89470b95:
 
     # maria "She's just so beautiful!"
-    maria "她真是太漂亮了！"
+    maria "她真漂亮！"
 
 # game/src/plot/mar_baby.rpy:626
 translate zh_hans mar_baby_meet_adfa9ea4:
@@ -1270,7 +1270,7 @@ translate zh_hans mar_baby_meet_bde16127:
 translate zh_hans mar_baby_meet_6e26f8cd:
 
     # maria "They're just so beautiful!"
-    maria "他们真是太漂亮了！"
+    maria "他们真漂亮！"
 
 # game/src/plot/mar_baby.rpy:634
 translate zh_hans mar_baby_meet_6013f225:
@@ -1301,7 +1301,7 @@ translate zh_hans mar_baby_meet_87799fd0:
 
 
     # tony "I imagine he'll grow up to be quite the lady-killer, eh?!"
-    tony "我猜他长大了会是个大情种，呃？！"
+    tony "我猜他长大了会是个大情种，对吧？！"
 
 # game/src/plot/mar_baby.rpy:647
 translate zh_hans mar_baby_meet_7c474749:
@@ -1394,7 +1394,7 @@ translate zh_hans mar_baby_meet_a1f61959:
 
 
     # anon "Y-yeah, okay."
-    anon "好、好吧，行。"
+    anon "好、好吧。"
 
 # game/src/plot/mar_baby.rpy:683
 translate zh_hans mar_baby_meet_a0d29dbc:
@@ -1443,7 +1443,7 @@ translate zh_hans mar_baby_meet_4275956f:
 
 
     # anon "I'm your godfather, [saga.cast.anon]."
-    anon "我是教父[saga.cast.anon]。"
+    anon "我是你的教父，[saga.cast.anon]。"
 
 # game/src/plot/mar_baby.rpy:703
 translate zh_hans mar_baby_meet_b0b9b39e:
@@ -1542,7 +1542,7 @@ translate zh_hans mar_baby_meet_cb02c49c:
 
 
     # tony "If you're up to it, there'll be pizzas that need deliverin'!"
-    tony "你要是有空，店里还有披萨等着你送呢！"
+    tony "你要是有精力，店里还有披萨等着你送呢！"
 
 # game/src/plot/mar_baby.rpy:737
 translate zh_hans mar_baby_meet_0a01c03b:
@@ -1701,7 +1701,7 @@ translate zh_hans mar_baby_rest_micoe_9fb562fb:
 translate zh_hans mar_baby_rest_micoe_19523905:
 
     # micoe "Oh my god, it's {i}so{/i} good!"
-    micoe "哦天哪，这{i}太{/i}好吃了！"
+    micoe "哦，天哪，这{i}太{/i}好吃了！"
 
 # game/src/plot/mar_baby.rpy:838
 translate zh_hans mar_baby_rest_micoe_aed25f5a:
@@ -1745,7 +1745,7 @@ translate zh_hans mar_baby_rest_misc1_c859bb1f:
 
 
     # maria "How many times do I have to tell ya to watch your fuckin' mouth, eh?"
-    maria "我他妈的得跟你说多少次让你注意自己的嘴，嗯？"
+    maria "我得跟你说多少次，让你那张臭嘴放干净点，嗯？"
 
 # game/src/plot/mar_baby.rpy:859
 translate zh_hans mar_baby_rest_misc1_442bfb9e:
@@ -1764,7 +1764,7 @@ translate zh_hans mar_baby_rest_misc1_f0b2b779:
 translate zh_hans mar_baby_rest_misc1_351a74e5:
 
     # maria e_s "I swear to god, our child's first word is gonna be cocksucker."
-    maria e_s "我发誓，咱们孩子的第一个词肯定是“鸡巴佬”。"
+    maria e_s "我发誓，咱们孩子的第一个词肯定是“叼鸡巴的”。"
 
 # game/src/plot/mar_baby.rpy:869
 translate zh_hans mar_baby_rest_misc1_e53369f4:
@@ -1888,14 +1888,14 @@ translate zh_hans mar_baby_rest_misc1_f272a175:
 translate zh_hans mar_baby_rest_misc1_a1f61959:
 
     # anon "Y-yeah, okay."
-    anon "是、是的，好吧。"
+    anon "好、好吧。"
 
 # game/src/plot/mar_baby.rpy:914
 translate zh_hans mar_baby_rest_misc2_f2a829b5:
 
 
     # anon "Yeah, how are you guys doing?"
-    anon "是啊，你们还好吗？"
+    anon "是啊，你们怎么样？"
 
 # game/src/plot/mar_baby.rpy:915
 translate zh_hans mar_baby_rest_misc2_5f14d161:
@@ -2039,13 +2039,13 @@ translate zh_hans mar_baby_rest_misc2_1ebeaccf:
 
 
     # anon a_salute f_happy "You got it, boss."
-    anon a_salute f_happy "明白了，老板。"
+    anon a_salute f_happy "包在我身上，老板娘。"
 
 # game/src/plot/mar_baby.rpy:964
 translate zh_hans mar_baby_rest_misc2_3643d996:
 
     # maria @ e_b m_laugh "Hehe!"
-    maria @ e_b m_laugh "呵呵！"
+    maria @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/mar_baby.rpy:974
 translate zh_hans mar_baby_rest_outro_e7e147b4:
@@ -2230,7 +2230,7 @@ translate zh_hans mar_baby_home_79ffffc6:
 
 
     # tony "Hold your godchildren for a second, would ya?"
-    tony "帮我抱一下你的教子们，行吗？"
+    tony "帮我抱一下你的教子和教女，行吗？"
 
 # game/src/plot/mar_baby.rpy:1058
 translate zh_hans mar_baby_home_70f8efee:
@@ -2293,7 +2293,7 @@ translate zh_hans mar_baby_home_b4a86d9a:
 translate zh_hans mar_baby_home_d5f58367:
 
     # tony "Like puttin' that little stinker down for a nap."
-    tony "比如哄那个小捣蛋睡午觉。"
+    tony "比如哄那个小家伙睡午觉。"
 
 # game/src/plot/mar_baby.rpy:1083
 translate zh_hans mar_baby_home_688a089f:
@@ -2331,7 +2331,7 @@ translate zh_hans mar_baby_home_6e50c49d:
 
 
     # tony "Yeah, they're somethin' else, ain't they?"
-    tony "是啊，他们可真了不起，不是吗？"
+    tony "是啊，他们真不一般，对吧？"
 
 # game/src/plot/mar_baby.rpy:1101
 translate zh_hans mar_baby_home_6f3745fb:

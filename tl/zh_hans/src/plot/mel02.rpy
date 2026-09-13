@@ -19,7 +19,7 @@ translate zh_hans mel02_intro_151d68f9:
 
 
     # anon "F-fingerings?"
-    anon "指……指法？"
+    anon "指、指法？"
 
 # game/src/plot/mel02.rpy:13
 translate zh_hans mel02_intro_dd703a47:
@@ -117,7 +117,7 @@ translate zh_hans mel02_intro_229e8933:
 
 
     # anon "Heh, lemme go see who I can convince."
-    anon "嘿，我去看看能说服谁。"
+    anon "呵，我去看看能说服谁。"
 
 # game/src/plot/mel02.rpy:51
 translate zh_hans mel02_intro_62e892df:
@@ -460,7 +460,7 @@ translate zh_hans mel02_ask_dexter_4945578b:
 
 
     # anon "Heh, I was just leaving..."
-    anon "嘿，我正要走……"
+    anon "呵，我正要走……"
 
 # game/src/plot/mel02.rpy:201
 translate zh_hans mel02_ask_dexter_d26cb5e2:
@@ -607,7 +607,7 @@ translate zh_hans mel02_ask_judith_8eddb5ff:
 
 
     # judith "... And I'm way too embarrassed to get up on stage in front of the entire school."
-    judith "……而且我很不好意思在整个学校面前上台。"
+    judith "……而且我太不好意思了，根本不敢在全校面前上台。"
 
 # game/src/plot/mel02.rpy:264
 translate zh_hans mel02_ask_judith_208008d2:
@@ -663,7 +663,7 @@ translate zh_hans mel02_ask_judith_d95adce6:
 
 
     # judith "Excuse me, I just need a minute!"
-    judith "抱歉，我需要冷静一下！"
+    judith "抱歉，我需要缓一缓！"
 
 # game/src/plot/mel02.rpy:288
 translate zh_hans mel02_ask_judith_a23687ea:
@@ -866,7 +866,7 @@ translate zh_hans mel02_ask_roxxy_14d40396:
 
 
     # roxxy "What are you staring at, creep?!" with hpunch
-    roxxy "白痴，你在看什么？！" with hpunch
+    roxxy "变态，你在看什么？！" with hpunch
 
 # game/src/plot/mel02.rpy:366
 translate zh_hans mel02_ask_roxxy_cdc5a4f8:
@@ -929,7 +929,7 @@ translate zh_hans mel02_ask_roxxy_8e00c993:
 
 
     # anon a_side f_shy "N-no, I'm just trying to find some volunteers for [saga.cast.melody]'s talent show."
-    anon a_side f_shy "不——不是，我只是想给[saga.cast.melody]的才艺表演找几个志愿者。"
+    anon a_side f_shy "不、不是，我只是想给[saga.cast.melody]的才艺表演找几个志愿者。"
 
 # game/src/plot/mel02.rpy:392
 translate zh_hans mel02_ask_roxxy_946893cb:
@@ -1293,7 +1293,7 @@ translate zh_hans mel02_eve_ask_8d237c96:
 
 
     # eve f_happy @ e_b m_laugh "Heh, you want me to sing for you and [saga.cast.erik]?"
-    eve f_happy @ e_b m_laugh "嘿，你想让我为你和[saga.cast.erik]唱歌吗？"
+    eve f_happy @ e_b m_laugh "呵，你想让我为你和[saga.cast.erik]唱歌吗？"
 
 # game/src/plot/mel02.rpy:533
 translate zh_hans mel02_eve_ask_42bfb76a:
@@ -1391,7 +1391,7 @@ translate zh_hans mel02_eve_ask_4bd7e907:
 
 
     # anon a_phone e_sw f_shy @ -m_talk "( Heh, right on cue... )"
-    anon a_phone e_sw f_shy @ -m_talk "（嘿，真是及时……）"
+    anon a_phone e_sw f_shy @ -m_talk "（呵，真是及时……）"
 
 # game/src/plot/mel02.rpy:579
 translate zh_hans mel02_eve_ask_c0025d88:
@@ -1720,7 +1720,7 @@ translate zh_hans mel02_eve_den_merge_b6542e7e:
 
 
     # erik "Y-yeah, why?"
-    erik "是——是啊，怎么了？"
+    erik "是、是啊，怎么了？"
 
 # game/src/plot/mel02.rpy:738
 translate zh_hans mel02_eve_den_merge_6081c981:
@@ -1921,7 +1921,7 @@ translate zh_hans mel02_eve_den_merge_f0dd8b95:
 translate zh_hans mel02_eve_den_merge_b559b858:
 
     # eve "Heh, it's the booze, it warms up your insides..."
-    eve "嘿，是酒的作用，它让你的身体暖和起来……"
+    eve "呵，是酒的作用，它让你的身体暖和起来……"
 
 # game/src/plot/mel02.rpy:882
 translate zh_hans mel02_eve_den_merge_f1e5b56f:
@@ -2021,7 +2021,7 @@ translate zh_hans mel02_eve_den_retry_5b9a339a:
 
 
     # eve "Thanks! I guess- {i}*Hic*{/i} I guess it isn't that bad singing in front of others."
-    eve "谢啦！我猜——{i}*呃*{/i}我猜在别人面前唱歌也没那么糟。"
+    eve "谢啦！我猜——{i}*嗝*{/i}我猜在别人面前唱歌也没那么糟。"
 
 # game/src/plot/mel02.rpy:940
 translate zh_hans mel02_eve_den_retry_4d00892f:
@@ -2085,7 +2085,7 @@ translate zh_hans mel02_eve_den_retry_be5fcf79:
 
 
     # erik "Heh, it's okay. We don't mind."
-    erik "嘿，没关系。我们不介意。"
+    erik "呵，没关系。我们不介意。"
 
 # game/src/plot/mel02.rpy:956
 translate zh_hans mel02_eve_den_retry_667973b6:
@@ -2117,7 +2117,7 @@ translate zh_hans mel02_eve_den_retry_9ecf193b:
 translate zh_hans mel02_eve_den_retry_24a14060:
 
     # eve f_happy @ e_b m_laugh "Aww, such a- {i}*Hic*{/i} such a gentleman!"
-    eve f_happy @ e_b m_laugh "噢，真是——{i}*嗝*{/i} 真是个绅士！"
+    eve f_happy @ e_b m_laugh "哎呀，真是——{i}*嗝*{/i} 真是个绅士！"
 
 # game/src/plot/mel02.rpy:964
 translate zh_hans mel02_eve_den_retry_65bd0e42:
@@ -2152,7 +2152,7 @@ translate zh_hans mel02_eve_den_retry_bad336fe:
 
 
     # anon "Heh, c'mon drunkie. Let's go home!"
-    anon "嘿，走吧醉鬼。我们回家！"
+    anon "呵，走吧，醉鬼。我们回家！"
 
 # game/src/plot/mel02.rpy:978
 translate zh_hans mel02_eve_den_retry_b2a1bea3:
@@ -2186,7 +2186,7 @@ translate zh_hans mel02_eve_den_retry_244739f4:
 translate zh_hans mel02_eve_den_alt_7298ff59:
 
     # anon "Hey, it's about time! I was starting to think you flaked on me!"
-    anon "嘿，是时候了！我都开始以为你放我鸽子了！"
+    anon "嘿，你总算来了！我还以为你放我鸽子了！"
 
 # game/src/plot/mel02.rpy:1003
 translate zh_hans mel02_eve_den_alt_bd3b0fb1:
@@ -2326,7 +2326,7 @@ translate zh_hans mel02_kevin_ask_5556f346:
 
 
     # kevin "... Yeah, {i}she{/i} smashed it to pieces."
-    kevin "……是的，{i}她{/i} 把它砸成了碎片。"
+    kevin "……是的，{i}她{/i}把它砸成了碎片。"
 
 # game/src/plot/mel02.rpy:1097
 translate zh_hans mel02_kevin_ask_a0c43da9:
@@ -2471,7 +2471,7 @@ translate zh_hans mel02_kevin_erik_5502af91:
 
 
     # anon "Really?"
-    anon "真的吗？"
+    anon "真的？"
 
 # game/src/plot/mel02.rpy:1193
 translate zh_hans mel02_kevin_erik_81c121b5:
@@ -2506,7 +2506,7 @@ translate zh_hans mel02_kevin_erik_2c5c9e02:
 
 
     # anon "Not if I replace it with a fake."
-    anon "要是我用假的替换呢。"
+    anon "用假的把它换掉就行了。"
 
 # game/src/plot/mel02.rpy:1206
 translate zh_hans mel02_kevin_erik_bf8c15eb:
@@ -2810,7 +2810,7 @@ translate zh_hans mel02_kevin_guitar_d530f857:
 
 
     # anon "Y-yeah. Do you like it?"
-    anon "是—是的。你喜欢吗？"
+    anon "是、是的。你喜欢吗？"
 
 # game/src/plot/mel02.rpy:1390
 translate zh_hans mel02_kevin_guitar_75ab38ca:
@@ -2838,7 +2838,7 @@ translate zh_hans mel02_kevin_guitar_5e811336:
 
 
     # tammy "Aww, he's such a sweet young man to care about my feelings so much."
-    tammy "啊，他真是个贴心的好孩子，这么在乎我的感受。"
+    tammy "哎呀，他真是个贴心的好孩子，这么在乎我的感受。"
 
 # game/src/plot/mel02.rpy:1401
 translate zh_hans mel02_kevin_guitar_7f283d79:
@@ -2946,7 +2946,7 @@ translate zh_hans mel02_kevin_give_3ca58964:
 
 
     # kevin "Holy crap, bro! One sec!"
-    kevin "我操，兄弟！等一下！"
+    kevin "我靠，兄弟！等一下！"
 
 # game/src/plot/mel02.rpy:1450
 translate zh_hans mel02_kevin_give_d91a992e:
@@ -2987,7 +2987,7 @@ translate zh_hans mel02_kevin_give_8f4f1d7f:
 
 
     # kevin "I hope you didn't steal it or something."
-    kevin "我希望你没偷来什么的。"
+    kevin "希望你不是偷来的。"
 
 # game/src/plot/mel02.rpy:1466
 translate zh_hans mel02_kevin_give_c7d2b06b:
@@ -3140,7 +3140,7 @@ translate zh_hans mel02_outro_f79c204b:
 
 
     # anon "Huh?"
-    anon "嗯？"
+    anon "哈？"
 
 # game/src/plot/mel02.rpy:1531
 translate zh_hans mel02_outro_77a9d237:
@@ -3154,7 +3154,7 @@ translate zh_hans mel02_outro_5502af91:
 
 
     # anon "Really?"
-    anon "真的吗？"
+    anon "真的？"
 
 # game/src/plot/mel02.rpy:1537
 translate zh_hans mel02_outro_280e05f1:

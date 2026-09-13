@@ -112,7 +112,7 @@ translate zh_hans ano09_shop_915e44d8:
 translate zh_hans ano09_shop_66ce81ee:
 
     # tony a_whisper e_b_w f_horny "Just don't pump her full of too much this time."
-    tony a_whisper e_b_w f_horny "不过这回可别又把她灌得烂醉。"
+    tony a_whisper e_b_w f_horny "不过这回可别又让她喝太多了。"
 
 # game/src/plot/ano09.rpy:32
 translate zh_hans ano09_shop_dcfc9ef3:
@@ -304,7 +304,7 @@ translate zh_hans ano09_shop_66c01332:
 translate zh_hans ano09_shop_f53cf495:
 
     # tina @ e_b f_happy m_laugh "Hehe!"
-    tina @ e_b f_happy m_laugh "呵呵！"
+    tina @ e_b f_happy m_laugh "嘿嘿！"
 
 # game/src/plot/ano09.rpy:92
 translate zh_hans ano09_shop_521286b9:
@@ -826,7 +826,7 @@ translate zh_hans ano09_shop_46dc4709:
 translate zh_hans ano09_shop_30d228de:
 
     # anon "Yes, sir."
-    anon "明白，老板。"
+    anon "是，老板。"
 
 # game/src/plot/ano09.rpy:230
 translate zh_hans ano09_shop_e4026c9c:
@@ -1228,7 +1228,7 @@ translate zh_hans ano09_tony_merge_46ae1fcc:
 translate zh_hans ano09_tony_merge_f51555ee:
 
     # anon "Not only were they running a fifteen percent off deal..."
-    anon "正好赶上他们打八五折……"
+    anon "不光赶上他们打八五折……"
 
 # game/src/plot/ano09.rpy:406
 translate zh_hans ano09_tony_merge_d91c45e9:
@@ -1528,7 +1528,7 @@ translate zh_hans ano09_tony_alt1_c496d3f6:
 translate zh_hans ano09_tony_alt1_c27113a4:
 
     # tony f_confused "Lesson learned, eh?"
-    tony f_confused "吃到教训了吧？"
+    tony f_confused "长教训了吧？"
 
 # game/src/plot/ano09.rpy:533
 translate zh_hans ano09_tony_alt1_6d161070:
@@ -1942,7 +1942,7 @@ translate zh_hans ano09_tony_compact_7f0521f5:
 translate zh_hans ano09_tony_compact_417fddd3:
 
     # tony a_belly f_happy o_left @ e_b m_laugh "Hahahaah!"
-    tony a_belly f_happy o_left @ e_b m_laugh "哈哈哈哈！"
+    tony a_belly f_happy o_left @ e_b m_laugh "哈哈哈！"
 
 # game/src/plot/ano09.rpy:692
 translate zh_hans ano09_tony_compact_b99627e5:
@@ -1984,7 +1984,7 @@ translate zh_hans ano09_tony_compact_391d5c51:
 translate zh_hans ano09_tony_compact_91337fb4:
 
     # maria "I love the color."
-    maria "我喜欢这颜色。"
+    maria "我喜欢这个颜色。"
 
 # game/src/plot/ano09.rpy:709
 translate zh_hans ano09_tony_compact_8bf4dea3:
@@ -2026,7 +2026,7 @@ translate zh_hans ano09_tony_compact_d939c0a2:
 translate zh_hans ano09_tony_compact_c564b858:
 
     # tony "C'mon, let's get crackin' on those deliveries, eh?"
-    tony "走，赶紧把那些订单送掉。"
+    tony "走，赶紧把那些订单送掉，嗯？"
 
 # game/src/plot/ano09.rpy:722
 translate zh_hans ano09_tony_compact_efdb307b:
@@ -2290,7 +2290,7 @@ translate zh_hans ano09_tony_scooter_4b9b3c42:
 translate zh_hans ano09_tony_scooter_d53c7ee1:
 
     # tony a_point_back "C'mon, let's get crackin' on those deliveries, eh?"
-    tony a_point_back "走，赶紧把那些单子送完。"
+    tony a_point_back "走，赶紧把那些订单送掉，嗯？"
 
 # game/src/plot/ano09.rpy:826
 translate zh_hans ano09_tony_scooter_ac69325b:

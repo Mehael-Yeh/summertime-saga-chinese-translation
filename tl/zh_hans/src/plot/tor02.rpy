@@ -196,7 +196,7 @@ translate zh_hans tor02_intro_4669f118:
 translate zh_hans tor02_intro_c6e322d8:
 
     # anon "Alright."
-    anon "好的。"
+    anon "好吧。"
 
 # game/src/plot/tor02.rpy:94
 translate zh_hans tor02_judith1_c985cf0e:
@@ -382,7 +382,7 @@ translate zh_hans tor02_judith1_6ceae8e8:
 translate zh_hans tor02_judith1_bfa1750e_1:
 
     # judith "Yeah."
-    judith "好。"
+    judith "是啊。"
 
 # game/src/plot/tor02.rpy:176
 translate zh_hans tor02_judith1_011816f7:
@@ -580,7 +580,7 @@ translate zh_hans tor02_judith1_erik_0a17b3c1:
 translate zh_hans tor02_judith1_erik_4236ff7c:
 
     # erik "Vari-what?"
-    erik "变什么？"
+    erik "渐进什么？"
 
 # game/src/plot/tor02.rpy:263
 translate zh_hans tor02_judith1_erik_bcdee3ef:
@@ -766,7 +766,7 @@ translate zh_hans tor02_judith1_tori_82ee3495:
 translate zh_hans tor02_judith1_tori_1b1cd3bd:
 
     # anon f_sad "I-I guess so..."
-    anon f_sad "我……我想是的……"
+    anon f_sad "我、我想是的……"
 
 # game/src/plot/tor02.rpy:354
 translate zh_hans tor02_judith1_tori_189918b3:
@@ -1198,7 +1198,7 @@ translate zh_hans tor02_judith2_18eb8d44:
 translate zh_hans tor02_judith2_441855f1:
 
     # anon "Heh, I have my ways."
-    anon "嘿嘿，我有我的办法。"
+    anon "呵，我有我的办法。"
 
 # game/src/plot/tor02.rpy:572
 translate zh_hans tor02_judith2_c7894147:
@@ -1234,7 +1234,7 @@ translate zh_hans tor02_judith2_e8ddddea:
 translate zh_hans tor02_judith2_ed610385:
 
     # anon "Uhh, yeah. Heh, I guess..."
-    anon "呃，嗯。嘿，算是吧……"
+    anon "呃，嗯。呵，算是吧……"
 
 # game/src/plot/tor02.rpy:587
 translate zh_hans tor02_judith2_98ca295e:
@@ -1270,7 +1270,7 @@ translate zh_hans tor02_judith2_memo_7b810755:
 translate zh_hans tor02_judith2_memo_e613010a:
 
     # anon a_surprised_up e_w f_surprised @ m_teeth "( Oh my god, I'm supposed to be meeting [saga.cast.judith] in the park right now!! )"
-    anon a_surprised_up e_w f_surprised @ m_teeth "（天啊，我现在本该在公园里见[saga.cast.judith]的！！）"
+    anon a_surprised_up e_w f_surprised @ m_teeth "（天哪，我现在本该在公园里见[saga.cast.judith]的！！）"
 
 # game/src/plot/tor02.rpy:617
 translate zh_hans tor02_flake_a9a559a7:
@@ -1372,7 +1372,7 @@ translate zh_hans tor02_flake_21a787ad:
 translate zh_hans tor02_flake_b37051a6:
 
     # judith "Y-yeah, I get it."
-    judith "好……好吧，我明白。"
+    judith "好、好吧，我明白。"
 
 # game/src/plot/tor02.rpy:639
 translate zh_hans tor02_flake_75b4c2d5:
@@ -1606,7 +1606,7 @@ translate zh_hans tor02_specs_e27e60e9:
 translate zh_hans tor02_specs_rails_7b9b81bf:
 
     # anon "( I didn't go to all this trouble to {i}not{/i} collect her glasses! )"
-    anon "（我费了这么大劲，{i}可不会{/i}不收集她的眼镜！）"
+    anon "（我费了这么大劲，{i}可不是{/i}为了不拿她的眼镜！）"
 
 # game/src/plot/tor02.rpy:759
 translate zh_hans tor02_tori_787874bb:
@@ -1948,13 +1948,13 @@ translate zh_hans tor02_tori_merge_d91a992e_2:
 translate zh_hans tor02_tori_merge_559f3433:
 
     # anon "Oh my god! I can see [saga.cast.kevin]'s..."
-    anon "哦我的天！我能看到[saga.cast.kevin]的……"
+    anon "天哪！我能看到[saga.cast.kevin]的……"
 
 # game/src/plot/tor02.rpy:963
 translate zh_hans tor02_tori_merge_8378ffd1:
 
     # anon "Uh oh, I got it stuck in this mode!"
-    anon "哎呀，我把它卡在这个模式里了！"
+    anon "糟糕，我把它卡在这个模式里了！"
 
 # game/src/plot/tor02.rpy:969
 translate zh_hans tor02_tori_merge_bc433578:
@@ -1990,7 +1990,7 @@ translate zh_hans tor02_tori_merge_18e313fe:
 translate zh_hans tor02_tori_merge_c5d0b2f6:
 
     # anon "Y-yeah?"
-    anon "呃……嗯？"
+    anon "嗯、嗯？"
 
 # game/src/plot/tor02.rpy:991
 translate zh_hans tor02_tori_merge_e4e6a313:
@@ -2242,7 +2242,7 @@ translate zh_hans tor02_tori_tori_b58b5ef6:
 translate zh_hans tor02_tori_tori_807dab3c:
 
     # tori "Truly, astonishingly awful!"
-    tori "真是，丑得惊为天人！"
+    tori "真是，丑得惊人！"
 
 # game/src/plot/tor02.rpy:1134
 translate zh_hans tor02_tori_tori_0201c27c:

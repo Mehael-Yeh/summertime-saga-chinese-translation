@@ -106,7 +106,7 @@ translate zh_hans deb_mall_debbie_b1594d51:
 translate zh_hans deb_mall_debbie_ea692633:
 
     # anon f_surprised "Really?"
-    anon f_surprised "真的？"
+    anon f_surprised "真的吗？"
 
 # game/src/plot/deb_mall.rpy:54
 translate zh_hans deb_mall_debbie_5cc21cd5:
@@ -220,7 +220,7 @@ translate zh_hans deb_mall_debbie_978bdd1c:
 translate zh_hans deb_mall_debbie_afe17ca8:
 
     # anon a_side e_w p_stand -m_laugh "Heh, thanks."
-    anon a_side e_w p_stand -m_laugh "嘿，谢啦。"
+    anon a_side e_w p_stand -m_laugh "呵，谢啦。"
 
 # game/src/plot/deb_mall.rpy:130
 translate zh_hans deb_mall_debbie_merge1_0109c782:
@@ -268,7 +268,7 @@ translate zh_hans deb_mall_debbie_merge1_2296cdcc:
 translate zh_hans deb_mall_debbie_merge1_9fc776b5:
 
     # debbie f_shy "Aww, me too, sweetie."
-    debbie f_shy "啊，我也是，亲爱的。"
+    debbie f_shy "哎呀，我也是，亲爱的。"
 
 # game/src/plot/deb_mall.rpy:159
 translate zh_hans deb_mall_debbie_merge1_d60cb971:
@@ -322,7 +322,7 @@ translate zh_hans deb_mall_debbie_merge1_37f88a3c:
 translate zh_hans deb_mall_debbie_merge1_70aa7620:
 
     # anon f_worried "O-oh, right."
-    anon f_worried "哦——对，没错。"
+    anon f_worried "哦……对。"
 
 # game/src/plot/deb_mall.rpy:189
 translate zh_hans deb_mall_debbie_merge1_7dc1c7d5:
@@ -514,13 +514,13 @@ translate zh_hans deb_mall_debbie_merge1_2786c761:
 translate zh_hans deb_mall_debbie_merge1_4a6200e3:
 
     # debbie "Y-yes."
-    debbie "嗯—嗯。"
+    debbie "是、是的。"
 
 # game/src/plot/deb_mall.rpy:265
 translate zh_hans deb_mall_debbie_merge1_2a018e66:
 
     # debbie p_car_kiss "Mmm."
-    debbie p_car_kiss "唔。"
+    debbie p_car_kiss "嗯。"
 
 # game/src/plot/deb_mall.rpy:268
 translate zh_hans deb_mall_debbie_merge1_ec9436b6:
@@ -730,7 +730,7 @@ translate zh_hans deb_mall_debbie_merge2_d4d70d8b:
 translate zh_hans deb_mall_debbie_merge2_5dc7f990:
 
     # debbie e_w "You're becoming quite the naughty boy, you know?"
-    debbie e_w "你这小子越来越不安分了，知道吗？"
+    debbie e_w "你越来越像个小坏蛋了，知道吗？"
 
 # game/src/plot/deb_mall.rpy:362
 translate zh_hans deb_mall_debbie_merge2_ebff1943:
@@ -754,7 +754,7 @@ translate zh_hans deb_mall_debbie_merge2_f219643d:
 translate zh_hans deb_mall_debbie_merge2_27cf2a1b:
 
     # debbie p_car_present_away "Heh, alright, alright!"
-    debbie p_car_present_away "嘿嘿，好啦好啦！"
+    debbie p_car_present_away "呵，好啦好啦！"
 
 # game/src/plot/deb_mall.rpy:377
 translate zh_hans deb_mall_debbie_merge2_bfce1847:
@@ -874,7 +874,7 @@ translate zh_hans deb_mall_debbie_merge2_385fc97a:
 translate zh_hans deb_mall_debbie_merge2_2d5c24b1:
 
     # anon "But I'm glad it happened."
-    anon "但我很高兴发生了。"
+    anon "但我很高兴事情变成了这样。"
 
 # game/src/plot/deb_mall.rpy:405
 translate zh_hans deb_mall_debbie_merge2_c1d280ac:
@@ -904,7 +904,7 @@ translate zh_hans deb_mall_debbie_merge2_1b26e588:
 translate zh_hans deb_mall_debbie_merge2_86f74e84:
 
     # debbie "Oh, you hush!"
-    debbie "哦，别作声！"
+    debbie "哦，你少说两句！"
 
 # game/src/plot/deb_mall.rpy:411
 translate zh_hans deb_mall_debbie_merge2_bf6ea998:
@@ -1084,7 +1084,7 @@ translate zh_hans deb_mall_debbie_merge2_1af48a31:
 translate zh_hans deb_mall_debbie_merge2_2e72eec0:
 
     # debbie "Y-yeah, I just-"
-    debbie "嗯，我只是——"
+    debbie "嗯、嗯，我只是——"
 
 # game/src/plot/deb_mall.rpy:460
 translate zh_hans deb_mall_debbie_merge2_172bd6a2:
@@ -1114,7 +1114,7 @@ translate zh_hans deb_mall_debbie_merge2_c94ed1f3:
 translate zh_hans deb_mall_debbie_merge2_21a3f88c:
 
     # debbie f_calm "Heh, no... but it's fine."
-    debbie f_calm "嘿，没有……但没关系。"
+    debbie f_calm "呵，没有……但没关系。"
 
 # game/src/plot/deb_mall.rpy:472
 translate zh_hans deb_mall_debbie_merge2_0edbc16a:
@@ -1132,7 +1132,7 @@ translate zh_hans deb_mall_debbie_merge2_b65442c9:
 translate zh_hans deb_mall_debbie_merge2_9bc432eb:
 
     # debbie "We were both caught up in the moment."
-    debbie "我们都太投入了。"
+    debbie "我们都只是一时冲动。"
 
 # game/src/plot/deb_mall.rpy:476
 translate zh_hans deb_mall_debbie_merge2_8cc59f28:
@@ -1552,7 +1552,7 @@ translate zh_hans deb_mall_debbie_busy_4d0fde93:
 translate zh_hans deb_mall_debbie_busy_c8276e40:
 
     # debbie f_calm "Heh, alright sweetie."
-    debbie f_calm "嘿，好吧，亲爱的。"
+    debbie f_calm "呵，好吧，亲爱的。"
 
 # game/src/plot/deb_mall.rpy:638
 translate zh_hans deb_mall_debbie_busy_fe28789a:
@@ -1612,7 +1612,7 @@ translate zh_hans deb_mall_debbie_creampie_0bea765b:
 translate zh_hans deb_mall_debbie_creampie_4ba696bf:
 
     # anon a_point_down "Heh, you're getting cum all over your seat."
-    anon a_point_down "嘿，你把座椅都弄得满是精液了。"
+    anon a_point_down "呵，你把座椅都弄得满是精液了。"
 
 # game/src/plot/deb_mall.rpy:676
 translate zh_hans deb_mall_debbie_creampie_3a066094:
@@ -1654,7 +1654,7 @@ translate zh_hans deb_mall_debbie_creampie_1f4bd1e1:
 translate zh_hans deb_mall_debbie_creampie_8be2f547:
 
     # debbie @ f_happy m_laugh "Hehe."
-    debbie @ f_happy m_laugh "呵呵。"
+    debbie @ f_happy m_laugh "嘿嘿。"
 
 # game/src/plot/deb_mall.rpy:693
 translate zh_hans deb_mall_debbie_deny1_8d202669:
@@ -1864,7 +1864,7 @@ translate zh_hans deb_mall_debbie_deny2_0329ecff:
 translate zh_hans deb_mall_debbie_garage_4be5dcde:
 
     # anon f_worried_surprised "O-oh, right."
-    anon f_worried_surprised "哦——对。"
+    anon f_worried_surprised "哦……对。"
 
 # game/src/plot/deb_mall.rpy:763
 translate zh_hans deb_mall_debbie_garage_b0299f3b:
@@ -1906,7 +1906,7 @@ translate zh_hans deb_mall_debbie_garage_f4e729a3:
 translate zh_hans deb_mall_debbie_garage_4f1743e4:
 
     # anon f_shy "Y-yeah, okay."
-    anon f_shy "是、是的，好吧。"
+    anon f_shy "好、好的。"
 
 # game/src/plot/deb_mall.rpy:773
 translate zh_hans deb_mall_debbie_garage_1f45a874:
@@ -2038,7 +2038,7 @@ translate zh_hans deb_mall_debbie_garage_9f3f7407:
 translate zh_hans deb_mall_debbie_garage_247ecd82:
 
     # anon e_w "R-really, here?"
-    anon e_w "真-真的吗，在这里？"
+    anon e_w "真、真的吗，在这里？"
 
 # game/src/plot/deb_mall.rpy:841
 translate zh_hans deb_mall_debbie_garage_5989da59:
@@ -2080,7 +2080,7 @@ translate zh_hans deb_mall_debbie_garage_b7e62a01:
 translate zh_hans deb_mall_debbie_garage_a1f61959:
 
     # anon "Y-yeah, okay."
-    anon "好-好的，没问题。"
+    anon "好、好的。"
 
 # game/src/plot/deb_mall.rpy:862
 translate zh_hans deb_mall_debbie_garage_b93b69e7:
@@ -2146,7 +2146,7 @@ translate zh_hans deb_mall_debbie_garage_9444144e:
 translate zh_hans deb_mall_debbie_garage_2ce3b818:
 
     # anon @ m_pant "Y-yeah!"
-    anon @ m_pant "是——是的！"
+    anon @ m_pant "是、是的！"
 
 # game/src/plot/deb_mall.rpy:886
 translate zh_hans deb_mall_debbie_garage_05a02f00:
@@ -2194,7 +2194,7 @@ translate zh_hans deb_mall_debbie_garage_aa33b431:
 translate zh_hans deb_mall_debbie_garage_2e186b9c:
 
     # debbie "Heh, such a mess."
-    debbie "嘿，弄得到处都是。"
+    debbie "呵，弄得到处都是。"
 
 # game/src/plot/deb_mall.rpy:905
 translate zh_hans deb_mall_debbie_garage_cea91c01:
@@ -2308,7 +2308,7 @@ translate zh_hans deb_mall_debbie_handjob_27aca51d:
 translate zh_hans deb_mall_debbie_handjob_8c472bbc:
 
     # anon e_s p_car "Y-yeah, just like that."
-    anon e_s p_car "就，就这样。"
+    anon e_s p_car "是、是啊，就这样。"
 
 # game/src/plot/deb_mall.rpy:943
 translate zh_hans deb_mall_debbie_handjob_d0ae0a0a:
@@ -2350,7 +2350,7 @@ translate zh_hans deb_mall_debbie_handjob_a2d16292:
 translate zh_hans deb_mall_debbie_handjob_4d691f80:
 
     # anon @ m_pant "Y-yes!!"
-    anon @ m_pant "是—是的！！"
+    anon @ m_pant "是、是的！！"
 
 # game/src/plot/deb_mall.rpy:953
 translate zh_hans deb_mall_debbie_handjob_ef121616:
@@ -2470,7 +2470,7 @@ translate zh_hans deb_mall_debbie_merge4_2411d185:
 translate zh_hans deb_mall_debbie_merge4_5c5ed186:
 
     # anon f_shy p_car_turn "Alright."
-    anon f_shy p_car_turn "好的。"
+    anon f_shy p_car_turn "好吧。"
 
 # game/src/plot/deb_mall.rpy:1010
 translate zh_hans deb_mall_debbie_merge4_8e24da23:
@@ -2542,7 +2542,7 @@ translate zh_hans deb_mall_debbie_shop1_ad0f3f6c:
 translate zh_hans deb_mall_debbie_shop1_65e0b4c6:
 
     # debbie f_shy "Heh, I'm not sure."
-    debbie f_shy "嘿，我不确定。"
+    debbie f_shy "呵，我不确定。"
 
 # game/src/plot/deb_mall.rpy:1042
 translate zh_hans deb_mall_debbie_shop1_73c9e5d2:
@@ -2638,7 +2638,7 @@ translate zh_hans deb_mall_debbie_shop3_23c819a6:
 translate zh_hans deb_mall_debbie_shop3_c6e322d8:
 
     # anon "Alright."
-    anon "好的。"
+    anon "好吧。"
 
 # game/src/plot/deb_mall.rpy:1078
 translate zh_hans deb_mall_debbie_shop3_8fd12364:
@@ -2674,7 +2674,7 @@ translate zh_hans deb_mall_debbie_shop3_81f50b84:
 translate zh_hans deb_mall_debbie_shop3_2577ba83:
 
     # debbie f_happy @ e_b m_laugh "Hehe!"
-    debbie f_happy @ e_b m_laugh "呵呵！"
+    debbie f_happy @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/deb_mall.rpy:1085
 translate zh_hans deb_mall_debbie_shop3_236aa99f:
@@ -2806,7 +2806,7 @@ translate zh_hans deb_mall_debbie_shop5_59149b7b:
 translate zh_hans deb_mall_debbie_shop5_394809d0:
 
     # anon f_disgusted @ f_worried "If you say so."
-    anon f_disgusted @ f_worried "随你怎么说吧。"
+    anon f_disgusted @ f_worried "好吧，你都这么说了。"
 
 # game/src/plot/deb_mall.rpy:1123
 translate zh_hans deb_mall_debbie_shop5_0dafa05f:
@@ -3148,7 +3148,7 @@ translate zh_hans deb_mall_debbie_womb_e6dc309d:
 translate zh_hans deb_mall_debbie_womb_06a6e32e:
 
     # anon f_disgusted "Eugh, too much information!"
-    anon f_disgusted "呃，这就不用告诉我了！"
+    anon f_disgusted "呕，这就不用告诉我了！"
 
 # game/src/plot/deb_mall.rpy:1228
 translate zh_hans deb_mall_debbie_womb_f3bea06e:

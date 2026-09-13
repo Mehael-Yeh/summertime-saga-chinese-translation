@@ -28,4 +28,4 @@ translate zh_hans inv_french_poem_e153cf04:
 translate zh_hans inv_french_poem_f758a3ac:
 
     # anon "( I need to turn this in to [saga.cast.viv] and hope no one else ever reads this! )"
-    anon "我得把这个交给[saga.cast.viv]，希望没有别人读到！"
+    anon "（我得把这个交给[saga.cast.viv]，希望没有别人读到！）"

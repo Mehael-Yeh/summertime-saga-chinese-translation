@@ -131,7 +131,7 @@ translate zh_hans jen_baby_tell_3b660c8a:
 
 
     # anon a_side f_sceptical p_stand "Sheesh, what's gotten into you?!"
-    anon a_side f_sceptical p_stand "你发什么疯啊？！"
+    anon a_side f_sceptical p_stand "天啊，你发什么疯啊？！"
 
 # game/src/plot/jen_baby.rpy:53
 translate zh_hans jen_baby_tell_19d6b8b2:
@@ -145,7 +145,7 @@ translate zh_hans jen_baby_tell_f79c204b:
 
 
     # anon "Huh?"
-    anon "哈？"
+    anon "啊？"
 
 # game/src/plot/jen_baby.rpy:55
 translate zh_hans jen_baby_tell_eeaf2613:
@@ -523,7 +523,7 @@ translate zh_hans jen_baby_late_okay_9dad8082:
 
 
     # anon "W-we can talk about it, if you-"
-    anon "我-我们可以谈谈，要是你——"
+    anon "我、我们可以谈谈，要是你——"
 
 # game/src/plot/jen_baby.rpy:217
 translate zh_hans jen_baby_late_okay_b3871775:
@@ -649,7 +649,7 @@ translate zh_hans jen_baby_late_rage_8f934a36:
 
 
     # anon f_confused "Huh?"
-    anon f_confused "哈？"
+    anon f_confused "啊？"
 
 # game/src/plot/jen_baby.rpy:264
 translate zh_hans jen_baby_late_rage_3db2b995:
@@ -733,7 +733,7 @@ translate zh_hans jen_baby_news_7991c4fb:
 
 
     # anon f_surprised m_teeth @ -m_talk "( Uh oh, it sounds like [saga.cast.jenny]'s secret is out... )"
-    anon f_surprised m_teeth @ -m_talk "（呃哦，听起来[saga.cast.jenny]的秘密暴露了……）"
+    anon f_surprised m_teeth @ -m_talk "（糟糕，听起来[saga.cast.jenny]的秘密暴露了……）"
 
 # game/src/plot/jen_baby.rpy:308
 translate zh_hans jen_baby_news_668621f0:
@@ -936,7 +936,7 @@ translate zh_hans jen_baby_debbie_2a521b4e:
 
 
     # diane f_ashamed "Good lord, [saga.cast.debbie]..."
-    diane f_ashamed "天啊，[saga.cast.debbie]……"
+    diane f_ashamed "老天爷，[saga.cast.debbie]……"
 
 # game/src/plot/jen_baby.rpy:391
 translate zh_hans jen_baby_debbie_3309ae06:
@@ -1146,7 +1146,7 @@ translate zh_hans jen_baby_debbie_b2dec2e3:
 
 
     # anon f_calm "Y-yeah, of course!"
-    anon f_calm "是——是的，当然！"
+    anon f_calm "是、是的，当然！"
 
 # game/src/plot/jen_baby.rpy:447
 translate zh_hans jen_baby_debbie_6fed8cde:
@@ -1167,7 +1167,7 @@ translate zh_hans jen_baby_debbie_faa93c7e:
 
 
     # anon @ e_b f_happy m_laugh "Yeah, okay."
-    anon @ e_b f_happy m_laugh "好的，没问题。"
+    anon @ e_b f_happy m_laugh "嗯，好吧。"
 
 # game/src/plot/jen_baby.rpy:451
 translate zh_hans jen_baby_debbie_2ddc9d20:
@@ -1384,7 +1384,7 @@ translate zh_hans jen_baby_bump_okay_29e7ed60:
 
 
     # anon f_confused -m_teeth "I'm sorry?"
-    anon f_confused -m_teeth "这……我很抱歉？"
+    anon f_confused -m_teeth "你说什么？"
 
 # game/src/plot/jen_baby.rpy:594
 translate zh_hans jen_baby_bump_okay_cdf35e9b:
@@ -1419,7 +1419,7 @@ translate zh_hans jen_baby_bump_want_8f934a36:
 
 
     # anon f_confused "Huh?"
-    anon f_confused "哈？"
+    anon f_confused "啊？"
 
 # game/src/plot/jen_baby.rpy:617
 translate zh_hans jen_baby_bump_want_8b1f7a1e:
@@ -1650,7 +1650,7 @@ translate zh_hans jen_baby_belly_want_586fe398:
 
 
     # anon f_worried "Can I get you something?"
-    anon f_worried "要我给你拿点什么吗？"
+    anon f_worried "要不要我给你拿点什么？"
 
 # game/src/plot/jen_baby.rpy:734
 translate zh_hans jen_baby_belly_want_2b794a1c:
@@ -2301,7 +2301,7 @@ translate zh_hans jen_baby_wake_b540d46e:
 
 
     # anon "I just don't think we should-"
-    anon "我只是觉得我们不应该—"
+    anon "我只是觉得我们不应该——"
 
 # game/src/plot/jen_baby.rpy:871
 translate zh_hans jen_baby_wake_6a11a8a8:
@@ -3001,7 +3001,7 @@ translate zh_hans jen_baby_food_763ab41c:
 
 
     # anon a_salute f_happy "Yes, ma'am."
-    anon a_salute f_happy "遵命，女士。"
+    anon a_salute f_happy "是，夫人。"
 
 # game/src/plot/jen_baby.rpy:1118
 translate zh_hans jen_baby_food_90573835:
@@ -3015,7 +3015,7 @@ translate zh_hans jen_baby_food_97a4cfcd:
 
 
     # jenny "Om, nom, nom!"
-    jenny "唔，唔，唔！"
+    jenny "嗷呜嗷呜嗷呜！"
 
 # game/src/plot/jen_baby.rpy:1136
 translate zh_hans jen_baby_food_169c5460:
@@ -3064,7 +3064,7 @@ translate zh_hans jen_baby_food_16ed2d81:
 
 
     # jenny a_spoon_nom p_table_bend "Om, nom, nom."
-    jenny a_spoon_nom p_table_bend "唔，吧唧吧唧。"
+    jenny a_spoon_nom p_table_bend "嗷呜嗷呜嗷呜。"
 
 # game/src/plot/jen_baby.rpy:1153
 translate zh_hans jen_baby_food_27c892b4:
@@ -3120,7 +3120,7 @@ translate zh_hans jen_baby_food_23155572:
 
 
     # jenny "Om, nom."
-    jenny "唔，吧唧。"
+    jenny "嗷呜嗷呜。"
 
 # game/src/plot/jen_baby.rpy:1169
 translate zh_hans jen_baby_food_8435e96a:
@@ -3626,7 +3626,7 @@ translate zh_hans jen_baby_food_7e6929aa:
 
 
     # jenny "Aww, I know..."
-    jenny "噢，我知道……"
+    jenny "哎呀，我知道……"
 
 # game/src/plot/jen_baby.rpy:1364
 translate zh_hans jen_baby_food_6f9a1a52:
@@ -3800,7 +3800,7 @@ translate zh_hans jen_baby_food_0f8a3e02:
 
 
     # jenny "Heh, I told you!"
-    jenny "嘿，我告诉过你了！"
+    jenny "呵，我告诉过你了！"
 
 # game/src/plot/jen_baby.rpy:1428
 translate zh_hans jen_baby_food_a886b02d:
@@ -3997,7 +3997,7 @@ translate zh_hans jen_baby_food_302e7bee:
 
 
     # jenny "Sorry, boys."
-    jenny "抱歉了，兄弟们。"
+    jenny "抱歉了，小伙子们。"
 
 # game/src/plot/jen_baby.rpy:1501
 translate zh_hans jen_baby_food_ecb5b1e9:
@@ -4049,7 +4049,7 @@ translate zh_hans jen_baby_food_c9fa2b34:
 
 
     # anon e_w -m_laugh "Heh, yes, you did!"
-    anon e_w -m_laugh "嘿，你说了！"
+    anon e_w -m_laugh "呵，你说了！"
 
 # game/src/plot/jen_baby.rpy:1516
 translate zh_hans jen_baby_food_c8f77ef4:
@@ -4131,7 +4131,7 @@ translate zh_hans jen_baby_food_0a01c03b:
 
 
     # anon "Yeah, okay."
-    anon "是啊，好吧。"
+    anon "嗯，好吧。"
 
 # game/src/plot/jen_baby.rpy:1534
 translate zh_hans jen_baby_food_67b52844:
@@ -4191,7 +4191,7 @@ translate zh_hans jen_baby_food_0abe55a7:
 
 
     # jenny @ e_e f_calm "Yes, {i}all{/i} of them..."
-    jenny @ e_e f_calm "对，{i}全都{/i}想要……"
+    jenny @ e_e f_calm "对，{i}全都{/i}用过……"
 
 # game/src/plot/jen_baby.rpy:1555
 translate zh_hans jen_baby_food_c32f56cc:
@@ -4205,7 +4205,7 @@ translate zh_hans jen_baby_food_780bb3e6:
 
 
     # jenny f_horny "Heh, wow."
-    jenny f_horny "嘿，哇。"
+    jenny f_horny "呵，哇。"
 
 # game/src/plot/jen_baby.rpy:1560
 translate zh_hans jen_baby_food_6911ff9d:
@@ -4314,7 +4314,7 @@ translate zh_hans jen_baby_food_merge_a054fb74:
 translate zh_hans jen_baby_food_merge_f73331aa:
 
     # jenny s_8 "NGGHHH!!!" with flash
-    jenny s_8 "呃啊啊啊！！！" with flash
+    jenny s_8 "嗯啊啊啊！！！" with flash
 
 # game/src/plot/jen_baby.rpy:1594
 translate zh_hans jen_baby_food_merge_e3254ebb:
@@ -4475,14 +4475,14 @@ translate zh_hans jen_baby_food_merge_aa44d3c3:
 translate zh_hans jen_baby_food_merge_a9c88cd2:
 
     # jenny d_anon_hard_pullout p_debbie_bed2_reverse_cum "NGGHHH!!!"
-    jenny d_anon_hard_pullout p_debbie_bed2_reverse_cum "唔啊啊啊！！！"
+    jenny d_anon_hard_pullout p_debbie_bed2_reverse_cum "嗯啊啊啊！！！"
 
 # game/src/plot/jen_baby.rpy:1626
 translate zh_hans jen_baby_food_merge_0cf4d269:
 
 
     # anon "HNNGGG!!!" with flash
-    anon "哼嗯嗯！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/jen_baby.rpy:1627
 translate zh_hans jen_baby_food_merge_c1f62415:
@@ -4522,7 +4522,7 @@ translate zh_hans jen_baby_food_merge_fc0dbaae:
 translate zh_hans jen_baby_food_merge_9562e4bc:
 
     # jenny "{i}*Mumbles incoherently*{/i}"
-    jenny "{i}*含糊不清地咕哝*{/i}"
+    jenny "{i}*含糊不清地嘟囔*{/i}"
 
 # game/src/plot/jen_baby.rpy:1637
 translate zh_hans jen_baby_food_merge_091d9330_1:
@@ -4743,7 +4743,7 @@ translate zh_hans jen_baby_food_merge_4a05c1bc:
 translate zh_hans jen_baby_food_merge_9b2630d4:
 
     # anon "Aww, that's nice."
-    anon "啊，那真好。"
+    anon "哎呀，那真好。"
 
 # game/src/plot/jen_baby.rpy:1710
 translate zh_hans jen_baby_food_merge_6e1a9997:
@@ -4763,7 +4763,7 @@ translate zh_hans jen_baby_food_merge_cb9b2d31:
 translate zh_hans jen_baby_food_merge_310531ee:
 
     # anon e_b m_laugh @ -m_talk "Hehe!"
-    anon e_b m_laugh @ -m_talk "呵呵！"
+    anon e_b m_laugh @ -m_talk "嘿嘿！"
 
 # game/src/plot/jen_baby.rpy:1714
 translate zh_hans jen_baby_food_merge_a070abba:
@@ -4815,7 +4815,7 @@ translate zh_hans jen_baby_food_merge_9562e4bc_3:
 translate zh_hans jen_baby_food_merge_b90390e4:
 
     # anon "O-kay."
-    anon "好吧。"
+    anon "好、好吧。"
 
 # game/src/plot/jen_baby.rpy:1743
 translate zh_hans jen_baby_food_merge_d576c3dc:
@@ -4991,7 +4991,7 @@ translate zh_hans jen_baby_meet_d0300f16:
 
 
     # anon f_calm "I-is that?"
-    anon f_calm "那——那是？"
+    anon f_calm "那、那是？"
 
 # game/src/plot/jen_baby.rpy:1839
 translate zh_hans jen_baby_meet_c8168758:
@@ -5301,7 +5301,7 @@ translate zh_hans jen_baby_meet_bcfd9aca:
 
 
     # anon e_w f_calm "R-really?"
-    anon e_w f_calm "真——真的吗？"
+    anon e_w f_calm "真、真的吗？"
 
 # game/src/plot/jen_baby.rpy:1945
 translate zh_hans jen_baby_meet_0491b97b:
@@ -5372,7 +5372,7 @@ translate zh_hans jen_baby_meet_9d445d93:
 
 
     # anon "Heh, he's so adorable!"
-    anon "嘿嘿，他太可爱了！"
+    anon "呵，他太可爱了！"
 
 # game/src/plot/jen_baby.rpy:1965
 translate zh_hans jen_baby_meet_31a0d098:
@@ -5392,7 +5392,7 @@ translate zh_hans jen_baby_meet_ed032fb4:
 
 
     # anon "Heh, she's so adorable!"
-    anon "嘿嘿，她太可爱了！"
+    anon "呵，她太可爱了！"
 
 # game/src/plot/jen_baby.rpy:1971
 translate zh_hans jen_baby_meet_a44da8d9:
@@ -5412,7 +5412,7 @@ translate zh_hans jen_baby_meet_1ddd6e00:
 
 
     # anon "Heh, they're so adorable!"
-    anon "嘿嘿，他们太可爱了！"
+    anon "呵，他们太可爱了！"
 
 # game/src/plot/jen_baby.rpy:1977
 translate zh_hans jen_baby_meet_efe92cf2:
@@ -5487,7 +5487,7 @@ translate zh_hans jen_baby_meet_d924a6da:
 
 
     # anon f_calm "O-okay."
-    anon f_calm "好、好的。"
+    anon f_calm "好、好吧。"
 
 # game/src/plot/jen_baby.rpy:2004
 translate zh_hans jen_baby_meet_fb598f59:
@@ -5528,7 +5528,7 @@ translate zh_hans jen_baby_meet_1c853813:
 
 
     # anon e_w f_calm "Heh, okay."
-    anon e_w f_calm "嘿，好吧。"
+    anon e_w f_calm "呵，好吧。"
 
 # game/src/plot/jen_baby.rpy:2017
 translate zh_hans jen_baby_meet_4e258fef:
@@ -5603,7 +5603,7 @@ translate zh_hans jen_baby_rest_clinic_baby_34910589:
 translate zh_hans jen_baby_rest_clinic_baby_92f000a3:
 
     # jenny "Aww, [saga.cast.anon]..."
-    jenny "啊，[saga.cast.anon]……"
+    jenny "哎呀，[saga.cast.anon]……"
 
 # game/src/plot/jen_baby.rpy:2076
 translate zh_hans jen_baby_rest_clinic_baby_92ec58af:
@@ -5698,7 +5698,7 @@ translate zh_hans jen_baby_rest_clinic_baby_c9d1ce1c:
 translate zh_hans jen_baby_rest_clinic_baby_29fd6c9c:
 
     # anon "Heh, you'll be coming home soon."
-    anon "嘿，你很快就能回家了。"
+    anon "呵，你很快就能回家了。"
 
 # game/src/plot/jen_baby.rpy:2099
 translate zh_hans jen_baby_rest_clinic_baby_d8c8865e:
@@ -5998,7 +5998,7 @@ translate zh_hans jen_baby_home_17ffcf24:
 
 
     # debbie a_baby e_s q_baby_jenny "Aww, they're so cute!"
-    debbie a_baby e_s q_baby_jenny "哇，他们好可爱！"
+    debbie a_baby e_s q_baby_jenny "哎呀，他们好可爱！"
 
 # game/src/plot/jen_baby.rpy:2210
 translate zh_hans jen_baby_home_36382813:
@@ -6051,7 +6051,7 @@ translate zh_hans jen_baby_home_e8998f52:
 translate zh_hans jen_baby_home_23277e88:
 
     # jenny "Uh huh."
-    jenny "嗯嗯。"
+    jenny "嗯哼。"
 
 # game/src/plot/jen_baby.rpy:2226
 translate zh_hans jen_baby_home_5cf61f33:
@@ -6197,7 +6197,7 @@ translate zh_hans jen_baby_post_outro_db7f56da:
 translate zh_hans jen_baby_post_outro_cecb6f6f:
 
     # anon a_wave f_happy "Heh, bye-bye!"
-    anon a_wave f_happy "嘿，拜拜！"
+    anon a_wave f_happy "呵，拜拜！"
 
 # game/src/plot/jen_baby.rpy:2305
 translate zh_hans jen_baby_post_want_1f986311:
@@ -6264,11 +6264,11 @@ translate zh_hans strings:
 
     # game/src/plot/jen_baby.rpy:188
     old "Are you still mad?"
-    new "你还生气吗？"
+    new "你还在生气吗？"
 
     # game/src/plot/jen_baby.rpy:505
     old "Can I get you something?"
-    new "需要我给你拿点什么吗？"
+    new "要不要我给你拿点什么？"
 
     # game/src/plot/jen_baby.rpy:2273
     old "Looking forward to daycare?"
@@ -6284,4 +6284,4 @@ translate zh_hans strings:
 
     # game/src/plot/jen_baby.rpy:666
     old "[saga.cast.debbie] is driving you crazy?"
-    new "[saga.cast.debbie]快把你逼疯了吧？"
+    new "[saga.cast.debbie]快把你逼疯了？"

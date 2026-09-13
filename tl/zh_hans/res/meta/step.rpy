@@ -772,7 +772,7 @@ translate zh_hans strings:
     new "我想知道她今天下午在做什么？"
     # game/res/meta/step.rpym:611
     old "Enter the lounge in the afternoon [saga.lang.wait(f)!t]."
-    new "[saga.lang.wait(f)!t]下午进入客厅。"
+    new "下午[saga.lang.wait(f)!t]进入客厅。"
     # game/res/meta/step.rpym:612
     old "Does [saga.cast.debbie] really need to do laundry every day?"
     new "[saga.cast.debbie]真的需要每天洗衣服吗？"
@@ -838,7 +838,7 @@ translate zh_hans strings:
     new "我打电话时最好在车子旁边，以防他们需要详细信息。"
     # game/res/meta/step.rpym:662
     old "Enter the garage [saga.lang.wait(f)!t] in the [f.when!l]."
-    new "[saga.lang.wait(f)!t][f.when!l]进入车库。"
+    new "[f.when!l][saga.lang.wait(f)!t]进入车库。"
     # game/res/meta/step.rpym:663
     old "The mechanic is booked, now I just have to wait."
     new "已经预约了修理工，现在只需等待。"
@@ -952,7 +952,7 @@ translate zh_hans strings:
     new "[saga.cast.debbie]这下可不好受了，[saga.cast.jenny]肯定会揪着这件事说个没完。"
     # game/res/meta/step.rpym:765
     old "Hearing those British accents in the background while having fun with [saga.cast.debbie] had better not awaken anything in me."
-    new "在背景中听到那些英国口音，并且与[saga.cast.debbie]玩得很开心，最好不要唤醒我内心的任何东西。"
+    new "和[saga.cast.debbie]快活时背景里那些英国口音，最好别唤醒我内心里的什么东西。"
     # game/res/meta/step.rpym:771
     old "I should get some rest."
     new "我应该休息一下。"
@@ -1543,7 +1543,7 @@ translate zh_hans strings:
     new "[saga.cast.judith]看起来很难过。我应该去看看她。"
     # game/res/meta/step.rpym:1315
     old "I think I just made things worse. D: Perhaps I should try consoling her again later."
-    new "我想我刚刚让事情变得更糟了。D：或许我该等会儿再试着安慰她。"
+    new "我想我刚刚让事情变得更糟了。D:或许我该等会儿再试着安慰她。"
     # game/res/meta/step.rpym:1318
     old "Speak with her about fooling around in the kitchen."
     new "跟她谈谈在厨房里亲热的事。"
@@ -1939,7 +1939,7 @@ translate zh_hans strings:
     new "咖啡已成功加料！该回去报告了。"
     # game/res/meta/step.rpym:1625
     old "I hope that chicken thing isn't permanent."
-    new "我希望那个鸡的事情不是永久的。"
+    new "希望那个变鸡的效果不是永久的。"
     # game/res/meta/step.rpym:1628
     old "I'd best keep an eye on her for side effects while she's taking this serum."
     new "在她服用这种血清期间，我最好留意她有没有副作用。"
@@ -2008,7 +2008,7 @@ translate zh_hans strings:
     new "词典的缺页补齐了！该去上辅导课了。"
     # game/res/meta/step.rpym:1665
     old "So bicycle in French is bicyclette... I should probably remember that!"
-    new "所以“自行车”用法语说是bicyclette（自行车）……我应该记住这个！"
+    new "所以法语里的自行车叫bicyclette……我应该记住这个！"
     # game/res/meta/step.rpym:1668
     old "I wonder what [saga.cast.viv] has planned for the next tutoring session."
     new "我想知道[saga.cast.viv]为下次的辅导课准备了什么。"
@@ -2056,7 +2056,7 @@ translate zh_hans strings:
     new "可怜的[saga.cast.viv]。没人想被叫到校长办公室，连老师也不例外！"
     # game/res/meta/step.rpym:1698
     old "Fromage means cheese... I wonder what's French for boobies?"
-    new "Fromage（奶酪）的意思是“奶酪”……我想知道“奶子”用法语怎么说？"
+    new "Fromage的意思是“奶酪”……我想知道“奶子”用法语怎么说？"
     # game/res/meta/step.rpym:1703
     old "Enter the library in the afternoon."
     new "下午进入图书馆。"

@@ -36,7 +36,7 @@ translate zh_hans strings:
 
     # game/lib/saga/data/jenny_laptop.py
     old "xX~HOTKITTY69~Xx"
-    new "xX~热辣小猫69~Xx"
+    new "xX~HOTKITTY69~Xx"
 
     # game/lib/saga/data/jenny_laptop.py
     old "Outlood Express"

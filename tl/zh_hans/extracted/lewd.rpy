@@ -159,7 +159,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Go shopping with [saga.cast.debbie] after getting a handjob in the shower."
-    new "在淋浴时被手淫后，和[saga.cast.debbie]一起去购物。"
+    new "在淋浴时被她打手枪后，和[saga.cast.debbie]一起去购物。"
 
     # game/lib/saga/init/lewd.py
     old "Raven Hill."
@@ -203,7 +203,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "reach lower"
-    new "向下伸展"
+    new "把手往下伸"
 
     # game/lib/saga/init/lewd.py
     old "Grind when spending the night with [saga.cast.debbie]."
@@ -215,7 +215,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Make a mess when spending the night with [saga.cast.debbie]."
-    new "和[saga.cast.debbie]过夜时把房间弄得一团糟。"
+    new "和[saga.cast.debbie]过夜时弄得到处都是。"
 
     # game/lib/saga/init/lewd.py
     old "Push further when spending the night with [saga.cast.debbie]."
@@ -465,7 +465,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Get caught watching porn in the lounge by [saga.cast.jenny], and have sex."
-    new "在客厅看黄片被[saga.cast.jenny]抓到，然后做爱。"
+    new "在客厅看色情片被[saga.cast.jenny]抓到，然后做爱。"
 
     # game/lib/saga/init/lewd.py
     old "Put on another blowjob camshow with [saga.cast.jenny]."
@@ -481,7 +481,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Join [saga.cast.jenny] in the shower for a blowjob again."
-    new "再次加入[saga.cast.jenny]的淋浴来一次口交。"
+    new "再次和[saga.cast.jenny]共浴，来一次口交。"
 
     # game/lib/saga/init/lewd.py
     old "Suggest a camshow to [saga.cast.jenny] when she's not in the mood."
@@ -569,7 +569,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Repeat, denial."
-    new "再次，拒绝。"
+    new "重温（拒绝）"
 
     # game/lib/saga/init/lewd.py
     old "Fool around with [saga.cast.jenny] in her bedroom again and deny her."
@@ -577,11 +577,11 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Climb into bed with [saga.cast.jenny] at night. {sub}"
-    new "晚上爬上床和[saga.cast.jenny]一起。{sub}"
+    new "晚上爬上[saga.cast.jenny]的床。{sub}"
 
     # game/lib/saga/init/lewd.py
     old "Climb into bed with [saga.cast.jenny] at night. {dom}"
-    new "晚上爬上床和[saga.cast.jenny]一起。{dom}"
+    new "晚上爬上[saga.cast.jenny]的床。{dom}"
 
     # game/lib/saga/init/lewd.py
     old "[saga.cast.anon] is {dom=assertive}, and denies [saga.cast.jenny]."
@@ -717,7 +717,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Fool around with [saga.cast.maria] in the pizzeria pantry."
-    new "在比萨店储藏室和[saga.cast.maria]亲热。"
+    new "在披萨店储藏室和[saga.cast.maria]亲热。"
 
     # game/lib/saga/init/lewd.py
     old "Fool around with [saga.cast.maria] in the pizzeria pantry again."
@@ -829,7 +829,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Use the telescope to peek into Tammy's room at night."
-    new "晚上用望远镜偷窥Tammy的房间。"
+    new "晚上用望远镜偷看Tammy的房间。"
 
     # game/lib/saga/init/lewd.py
     old "Triangle pose."
@@ -837,7 +837,7 @@ translate zh_hans strings:
 
     # game/lib/saga/init/lewd.py
     old "Use the telescope to peek into Tammy's yard."
-    new "用望远镜偷窥Tammy的院子。"
+    new "用望远镜偷看Tammy的院子。"
 
     # game/lib/saga/init/lewd.py
     old "Half wind-relieving pose."

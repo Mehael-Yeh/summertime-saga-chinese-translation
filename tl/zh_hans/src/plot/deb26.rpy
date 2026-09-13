@@ -89,7 +89,7 @@ translate zh_hans deb26_diane_c6e322d8:
 
 
     # anon "Alright."
-    anon "好。"
+    anon "好吧。"
 
 # game/src/plot/deb26.rpy:32
 translate zh_hans deb26_diane_2f031671:
@@ -719,7 +719,7 @@ translate zh_hans deb26_diane_bc059bdc:
 
 
     # anon a_shy_neck f_shy "Y-yeah."
-    anon a_shy_neck f_shy "是、是吧。"
+    anon a_shy_neck f_shy "是、是啊。"
 
 # game/src/plot/deb26.rpy:156
 translate zh_hans deb26_diane_8a85d17f:
@@ -761,7 +761,7 @@ translate zh_hans deb26_diane_a2930d7a:
 
 
     # anon a_side f_calm "Alright."
-    anon a_side f_calm "好的。"
+    anon a_side f_calm "好吧。"
 
 # game/src/plot/deb26.rpy:164
 translate zh_hans deb26_diane_ff9c0838:
@@ -852,7 +852,7 @@ translate zh_hans deb26_diane_ff21ecc7:
 
 
     # diane "... Make sure you do her {i}real{/i} good!"
-    diane "……一定要把她{i}狠狠{/i}肏舒服！"
+    diane "……一定要让她{i}爽上天{/i}！"
 
 # game/src/plot/deb26.rpy:180
 translate zh_hans deb26_diane_691490e1:
@@ -1013,7 +1013,7 @@ translate zh_hans deb26_kassy_bb0bc1b4:
 
 
     # kassy a_clap f_happy "Aww, that's so sweet!"
-    kassy a_clap f_happy "啊，真是太贴心了！"
+    kassy a_clap f_happy "哎呀，真是太贴心了！"
 
 # game/src/plot/deb26.rpy:230
 translate zh_hans deb26_kassy_24d0ea9b:
@@ -1034,7 +1034,7 @@ translate zh_hans deb26_kassy_bb1eb9c5:
 
 
     # kassy @ -m_talk "Hehe!"
-    kassy @ -m_talk "呵呵！"
+    kassy @ -m_talk "嘿嘿！"
 
 # game/src/plot/deb26.rpy:236
 translate zh_hans deb26_kassy_d890e56f:
@@ -1433,7 +1433,7 @@ translate zh_hans deb26_debbie_70726aa9:
 
 
     # anon a_behind_held e_se "Y-yeah."
-    anon a_behind_held e_se "是……是啊。"
+    anon a_behind_held e_se "是、是啊。"
 
 # game/src/plot/deb26.rpy:426
 translate zh_hans deb26_debbie_69011a59:
@@ -1468,7 +1468,7 @@ translate zh_hans deb26_debbie_cdcefa4b:
 
 
     # debbie "It's the reason we had that difficult talk after our... {i}*Ahem*{/i} incident."
-    debbie "也正因为这个，我们在那次……{i}*清嗓子*{/i}意外之后，才有了那场艰难的谈话。"
+    debbie "也正因为这个，我们在那次……{i}*咳咳*{/i}意外之后，才有了那场艰难的谈话。"
 
 # game/src/plot/deb26.rpy:432
 translate zh_hans deb26_debbie_0e4d7df6:
@@ -1531,7 +1531,7 @@ translate zh_hans deb26_debbie_96e0e555:
 
 
     # anon @ e_c f_calm -m_talk "( Holy crap, is this working?! )"
-    anon @ e_c f_calm -m_talk "（天啊，居然真的有用？！）"
+    anon @ e_c f_calm -m_talk "（我靠，居然真的有用？！）"
 
 # game/src/plot/deb26.rpy:449
 translate zh_hans deb26_debbie_c55a7485:
@@ -1601,7 +1601,7 @@ translate zh_hans deb26_debbie_25491c38:
 
 
     # debbie of_blush @ f_calm "Aww, sweetie."
-    debbie of_blush @ f_calm "噢，亲爱的。"
+    debbie of_blush @ f_calm "哎呀，亲爱的。"
 
 # game/src/plot/deb26.rpy:462
 translate zh_hans deb26_debbie_26f9d179:
@@ -1804,7 +1804,7 @@ translate zh_hans deb26_debbie_61027ed4:
 
 
     # debbie "Mm."
-    debbie "唔……"
+    debbie "嗯。"
 
 # game/src/plot/deb26.rpy:555
 translate zh_hans deb26_debbie_81ee0edb:
@@ -2169,7 +2169,7 @@ translate zh_hans deb26_bed1_b9d63618:
 
 
     # anon "That's right."
-    anon "那当然。"
+    anon "没错。"
 
 # game/src/plot/deb26.rpy:779
 translate zh_hans deb26_bed1_244739f4:
@@ -2312,7 +2312,7 @@ translate zh_hans deb26_bed1_688e3ff6:
 translate zh_hans deb26_bed1_cbdcb54f:
 
     # debbie f_confused "Heh, sweetie... chickens are always female."
-    debbie f_confused "亲爱的……“母鸡”当然全是母的。"
+    debbie f_confused "呵，亲爱的……“母鸡”当然全是母的。"
 
 # game/src/plot/deb26.rpy:818
 translate zh_hans deb26_bed1_bbd6d263:
@@ -2337,7 +2337,7 @@ translate zh_hans deb26_bed1_3bf4f6c1:
 translate zh_hans deb26_bed1_58b4af5f:
 
     # debbie f_happy @ e_b m_laugh "{i}*Snort*{/i}"
-    debbie f_happy @ e_b m_laugh "{i}*哼哧*{/i}"
+    debbie f_happy @ e_b m_laugh "{i}*噗嗤*{/i}"
 
 # game/src/plot/deb26.rpy:823
 translate zh_hans deb26_bed1_dc97a012:
@@ -2548,7 +2548,7 @@ translate zh_hans deb26_shop_b4977f07:
 
 
     # hana "Aww, what a gentleman."
-    hana "啊，真是一位绅士。"
+    hana "哎呀，真是一位绅士。"
 
 # game/src/plot/deb26.rpy:935
 translate zh_hans deb26_shop_98a7a008:
@@ -2674,21 +2674,21 @@ translate zh_hans deb26_shop_1b2861be:
 translate zh_hans deb26_shop_0854d2de:
 
     # anon e_w f_happy "That was weird."
-    anon e_w f_happy "那真奇怪。"
+    anon e_w f_happy "真奇怪。"
 
 # game/src/plot/deb26.rpy:1020
 translate zh_hans deb26_shop_46025145:
 
 
     # debbie f_shy "Heh, yeah, a little."
-    debbie f_shy "嘿，是有点。"
+    debbie f_shy "呵，是有点。"
 
 # game/src/plot/deb26.rpy:1023
 translate zh_hans deb26_shop_b0a09323:
 
 
     # anon e_w f_happy m_idle "Heh, she does that."
-    anon e_w f_happy m_idle "嘿，她总是那样。"
+    anon e_w f_happy m_idle "呵，她总是那样。"
 
 # game/src/plot/deb26.rpy:1026
 translate zh_hans deb26_shop_c2382a58:
@@ -2837,7 +2837,7 @@ translate zh_hans deb26_shop_e4f9f346:
 translate zh_hans deb26_shop_dcfc0595:
 
     # debbie a_reach f_shy "Aww, sweetie."
-    debbie a_reach f_shy "噢，亲爱的。"
+    debbie a_reach f_shy "哎呀，亲爱的。"
 
 # game/src/plot/deb26.rpy:1062
 translate zh_hans deb26_shop_0a2f0853:
@@ -3050,7 +3050,7 @@ translate zh_hans deb26_shop_ecb992f3:
 
 
     # debbie f_shy "Alright."
-    debbie f_shy "好的。"
+    debbie f_shy "好吧。"
 
 # game/src/plot/deb26.rpy:1196
 translate zh_hans deb26_shop_bafd7a16:
@@ -3158,7 +3158,7 @@ translate zh_hans deb26_shop_3788a902_1:
 
 
     # anon "Yes, please."
-    anon "是的，麻烦您。"
+    anon "好的，谢谢。"
 
 # game/src/plot/deb26.rpy:1237
 translate zh_hans deb26_shop_1a25fb68:
@@ -3185,7 +3185,7 @@ translate zh_hans deb26_shop_1357fab5:
 
 
     # anon "Thank you."
-    anon "谢谢你。"
+    anon "谢谢。"
 
 # game/src/plot/deb26.rpy:1258
 translate zh_hans deb26_shop_1d84b369:
@@ -3246,7 +3246,7 @@ translate zh_hans deb26_shop_3095f33b:
 
 
     # debbie a_hold_hand_anon e_w oa_hand "Aww, sweetie."
-    debbie a_hold_hand_anon e_w oa_hand "噢，亲爱的。"
+    debbie a_hold_hand_anon e_w oa_hand "哎呀，亲爱的。"
 
 # game/src/plot/deb26.rpy:1288
 translate zh_hans deb26_shop_2328a377:
@@ -3350,7 +3350,7 @@ translate zh_hans deb26_shop_187f4ae4:
 translate zh_hans deb26_shop_e0d30115:
 
     # debbie f_happy "Heh, sweetie!"
-    debbie f_happy "嘿，亲爱的！"
+    debbie f_happy "呵，亲爱的！"
 
 # game/src/plot/deb26.rpy:1310
 translate zh_hans deb26_shop_c6f08202:
@@ -3381,7 +3381,7 @@ translate zh_hans deb26_shop_07038570:
 translate zh_hans deb26_shop_48715964:
 
     # anon f_curious "Yeah?"
-    anon f_curious "真的吗？"
+    anon f_curious "是吗？"
 
 # game/src/plot/deb26.rpy:1316
 translate zh_hans deb26_shop_01784fd8:
@@ -3460,13 +3460,13 @@ translate zh_hans deb26_shop_0deb1947:
 translate zh_hans deb26_shop_c8481ccd:
 
     # anon "Yeah?"
-    anon "嗯？"
+    anon "是吗？"
 
 # game/src/plot/deb26.rpy:1353
 translate zh_hans deb26_shop_46712717:
 
     # debbie f_happy @ -m_talk "Mhmm."
-    debbie f_happy @ -m_talk "嗯。"
+    debbie f_happy @ -m_talk "嗯哼。"
 
 # game/src/plot/deb26.rpy:1381
 translate zh_hans deb26_shop_8f9b09d9:
@@ -3552,7 +3552,7 @@ translate zh_hans deb26_shop_608b4e6f:
 translate zh_hans deb26_shop_ea7d5eea:
 
     # titomi f_happy @ e_b -m_talk "{i}*Snort*{/i}"
-    titomi f_happy @ e_b -m_talk "{i}*哼*{/i}"
+    titomi f_happy @ e_b -m_talk "{i}*噗嗤*{/i}"
 
 # game/src/plot/deb26.rpy:1420
 translate zh_hans deb26_shop_141401a9:
@@ -3850,7 +3850,7 @@ translate zh_hans deb26_shop_merge1_2577ba83:
 
 
     # debbie f_happy @ e_b m_laugh "Hehe!"
-    debbie f_happy @ e_b m_laugh "呵呵！"
+    debbie f_happy @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/deb26.rpy:1561
 translate zh_hans deb26_shop_merge1_9e38964f:
@@ -4119,7 +4119,7 @@ translate zh_hans deb26_shop_merge1_2aa82773:
 translate zh_hans deb26_shop_merge1_ee50d2a3:
 
     # debbie f_happy "Hehe, sweetie!!"
-    debbie f_happy "嘿嘿，亲爱的！！"
+    debbie f_happy "呵呵，亲爱的！！"
 
 # game/src/plot/deb26.rpy:1694
 translate zh_hans deb26_shop_merge1_a15589ec:
@@ -4131,7 +4131,7 @@ translate zh_hans deb26_shop_merge1_a15589ec:
 translate zh_hans deb26_shop_merge1_543b086a:
 
     # anon "Aww, alright."
-    anon "啊，好吧。"
+    anon "哎呀，好吧。"
 
 # game/src/plot/deb26.rpy:1714
 translate zh_hans deb26_shop_merge1_6c7ac28e:
@@ -4152,7 +4152,7 @@ translate zh_hans deb26_shop_merge1_bf8a88b8:
 
 
     # debbie "Heh, that tickles!"
-    debbie "嘿，好痒！"
+    debbie "呵，好痒！"
 
 # game/src/plot/deb26.rpy:1719
 translate zh_hans deb26_shop_merge1_325a0977:
@@ -4386,7 +4386,7 @@ translate zh_hans deb26_shop_merge1_21d525e9:
 
 
     # debbie "AAAAAAHHHHHHH!!!!"
-    debbie "啊啊啊啊啊！！！！！"
+    debbie "啊啊啊啊啊！！！"
 
 # game/src/plot/deb26.rpy:1784
 translate zh_hans deb26_shop_merge1_134feddc:
@@ -4471,7 +4471,7 @@ translate zh_hans deb26_shop_merge1_0cf4d269:
 
 
     # anon "HNNGGG!!!" with flash
-    anon "嗯嗯嗯！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb26.rpy:1813
 translate zh_hans deb26_shop_merge1_d165fd93:
@@ -4600,7 +4600,7 @@ translate zh_hans deb26_shop_merge2_1f802486:
 translate zh_hans deb26_shop_merge2_bb11a04e:
 
     # anon @ e_b "{i}*Yawn*{/i}"
-    anon @ e_b "{i}*打哈欠*{/i}"
+    anon @ e_b "{i}*哈欠*{/i}"
 
 # game/src/plot/deb26.rpy:1858
 translate zh_hans deb26_shop_merge2_84dae8f1:
@@ -4672,7 +4672,7 @@ translate zh_hans deb26_shop_creampie_87c69c69:
 translate zh_hans deb26_shop_creampie_0cf4d269:
 
     # anon "HNNGGG!!!" with flash
-    anon "嗯——！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb26.rpy:1913
 translate zh_hans deb26_shop_creampie_d165fd93:
@@ -5062,7 +5062,7 @@ translate zh_hans deb26_shop_sushi_c7855e23:
 
 
     # titomi "Heh!"
-    titomi "嘿嘿！"
+    titomi "呵！"
 
 # game/src/plot/deb26.rpy:2106
 translate zh_hans deb26_shop_sushi_45675c46:
@@ -5095,7 +5095,7 @@ translate zh_hans deb26_shop_sushi_ef8723d1:
 
 
     # titomi "Hehe!"
-    titomi "呵呵！"
+    titomi "嘿嘿！"
 
 # game/src/plot/deb26.rpy:2122
 translate zh_hans deb26_shop_sushi_ad3495fd:
@@ -5116,7 +5116,7 @@ translate zh_hans deb26_shop_sushi_3d3d59d2:
 
 
     # debbie e_w @ -m_talk "Mhm."
-    debbie e_w @ -m_talk "嗯哼。"
+    debbie e_w @ -m_talk "嗯。"
 
 # game/src/plot/deb26.rpy:2129
 translate zh_hans deb26_shop_sushi_56b437ba:
@@ -5176,7 +5176,7 @@ translate zh_hans deb26_shop_sushi_02399310:
 translate zh_hans deb26_shop_sushi_442b700d:
 
     # anon e_ssw "With phenomenal breasts."
-    anon e_ssw "还有她那对漂亮得不得了的奶子。"
+    anon e_ssw "还配着这么一对漂亮得不得了的奶子。"
 
 # game/src/plot/deb26.rpy:2153
 translate zh_hans deb26_shop_sushi_ce22a4fa:
@@ -5400,7 +5400,7 @@ translate zh_hans deb26_kitchen_57ff0936:
 translate zh_hans deb26_kitchen_9f1b6f6a:
 
     # debbie f_shy "Aww, sweetie..."
-    debbie f_shy "哦，亲爱的……"
+    debbie f_shy "哎呀，亲爱的……"
 
 # game/src/plot/deb26.rpy:2252
 translate zh_hans deb26_kitchen_34c97092:
@@ -5564,7 +5564,7 @@ translate zh_hans deb26_kitchen_c8b7f64e:
 
 
     # debbie @ e_b f_happy m_laugh "Heh!"
-    debbie @ e_b f_happy m_laugh "嘿！"
+    debbie @ e_b f_happy m_laugh "呵！"
 
 # game/src/plot/deb26.rpy:2301
 translate zh_hans deb26_kitchen_ea568eef:
@@ -5583,7 +5583,7 @@ translate zh_hans deb26_kitchen_9d1d81cf:
 translate zh_hans deb26_kitchen_395cad39:
 
     # anon f_shy "Aww!"
-    anon f_shy "啊！"
+    anon f_shy "哎呀！"
 
 # game/src/plot/deb26.rpy:2305
 translate zh_hans deb26_kitchen_4cf4d4b5:
@@ -5602,7 +5602,7 @@ translate zh_hans deb26_kitchen_b2e4fbb6:
 translate zh_hans deb26_kitchen_9be15ab7:
 
     # debbie f_happy @ e_b m_laugh "{i}*Snort*{/i} Hehe!"
-    debbie f_happy @ e_b m_laugh "{i}*哼*{/i} 呵呵！"
+    debbie f_happy @ e_b m_laugh "{i}*噗嗤*{/i} 嘿嘿！"
 
 # game/src/plot/deb26.rpy:2308
 translate zh_hans deb26_kitchen_63e580a4:

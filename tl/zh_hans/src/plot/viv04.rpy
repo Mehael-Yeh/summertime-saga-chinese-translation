@@ -82,7 +82,7 @@ translate zh_hans viv04_office_97de6382:
 translate zh_hans viv04_office_ad42692a:
 
     # viv "Ce serait ennuyeux..."
-    viv "那可就麻烦了……"
+    viv "Ce serait ennuyeux...（那可就麻烦了……）"
 
 # game/src/plot/viv04.rpy:41
 translate zh_hans viv04_office_1614984b:
@@ -130,7 +130,7 @@ translate zh_hans viv04_office_ed0c100f:
 translate zh_hans viv04_office_810da0f9:
 
     # viv "Oh, [saga.cast.anon]! Tu es mon héros!"
-    viv "哦，[saga.cast.anon]！你是我的英雄！"
+    viv "哦，[saga.cast.anon]！Tu es mon héros!（你是我的英雄！）"
 
 # game/src/plot/viv04.rpy:61
 translate zh_hans viv04_office_fdcdff37:
@@ -148,7 +148,7 @@ translate zh_hans viv04_office_178e9349:
 translate zh_hans viv04_office_fb8b8d9f:
 
     # viv "Très bien! Good luck, [saga.cast.anon]!"
-    viv "很好！祝你好运，[saga.cast.anon]！"
+    viv "Très bien!（很好！）祝你好运，[saga.cast.anon]！"
 
 # game/src/plot/viv04.rpy:70
 translate zh_hans viv04_office_34b67538:
@@ -382,7 +382,7 @@ translate zh_hans viv04_roxxy1_ee67ae26:
 translate zh_hans viv04_roxxy1_55a7f4af_1:
 
     # anon "What happened?"
-    anon "发生什么了？"
+    anon "怎么了？"
 
 # game/src/plot/viv04.rpy:182
 translate zh_hans viv04_roxxy1_ca1f32c6:
@@ -544,7 +544,7 @@ translate zh_hans viv04_roxxy1_425233ba:
 translate zh_hans viv04_roxxy1_16609460:
 
     # roxxy "Pfft, yeah right."
-    roxxy "切，想得美。"
+    roxxy "切，才怪。"
 
 # game/src/plot/viv04.rpy:249
 translate zh_hans viv04_roxxy1_ce66db4b:
@@ -658,7 +658,7 @@ translate zh_hans viv04_roxxy1_viv_d222b826:
 translate zh_hans viv04_roxxy1_viv_4298619c:
 
     # viv f_sad "Non, [saga.cast.anon]... I'm afraid Madame [saga.cast.ursula.clan] will be watching like the hawk!"
-    viv f_sad "不行，[saga.cast.anon]……恐怕[saga.cast.ursula.clan]夫人会像鹰一样盯着我！"
+    viv f_sad "Non（不行），[saga.cast.anon]……恐怕[saga.cast.ursula.clan]夫人会像鹰一样盯着我！"
 
 # game/src/plot/viv04.rpy:331
 translate zh_hans viv04_roxxy1_viv_84bde29c:
@@ -1192,7 +1192,7 @@ translate zh_hans viv04_roxxy2_a8501fc1:
 translate zh_hans viv04_roxxy2_063d9090:
 
     # anon "Heh, I told you I would."
-    anon "嘿嘿，我就说我能拿回来吧。"
+    anon "呵，我就说我能拿回来吧。"
 
 # game/src/plot/viv04.rpy:626
 translate zh_hans viv04_roxxy2_merge_b69dcd10:
@@ -2080,7 +2080,7 @@ translate zh_hans viv04_roxxy3_viv_c18efe8f:
 translate zh_hans viv04_roxxy3_viv_5daa0677:
 
     # viv "Aww, you beautiful boy!"
-    viv "啊，你真是个迷人的小伙子！"
+    viv "哎呀，你真是个迷人的小伙子！"
 
 # game/src/plot/viv04.rpy:1106
 translate zh_hans viv04_roxxy3_viv_7e60ba53:
@@ -2176,7 +2176,7 @@ translate zh_hans viv04_pause_roxxy_c66409f0:
 translate zh_hans viv04_pause_roxxy_4a1ca581:
 
     # anon "N-no?"
-    anon "不……不要？"
+    anon "不、不要？"
 
 # game/src/plot/viv04.rpy:1173
 translate zh_hans viv04_delay_30eccdbb:
@@ -2422,7 +2422,7 @@ translate zh_hans viv04_lobby_merge_c9179465:
 translate zh_hans viv04_lobby_merge_7ba91a9b:
 
     # anon "N-no!!"
-    anon "不，不是！！"
+    anon "不、不是！！"
 
 # game/src/plot/viv04.rpy:1313
 translate zh_hans viv04_lobby_merge_1920a008:
@@ -2614,7 +2614,7 @@ translate zh_hans viv04_lobby_merge_3769d952:
 translate zh_hans viv04_lobby_merge_01f9369d:
 
     # anon p_stand "Heh, yeah. [saga.cast.jenny] agreed to help her with some cheerleading stuff."
-    anon p_stand "嘿嘿，是啊。[saga.cast.jenny]答应帮她排练啦啦队动作。"
+    anon p_stand "呵，是啊。[saga.cast.jenny]答应帮她排练啦啦队动作。"
 
 # game/src/plot/viv04.rpy:1405
 translate zh_hans viv04_lobby_merge_bf3043b3:
@@ -2734,7 +2734,7 @@ translate zh_hans viv04_lobby_merge_e2a4546c:
 translate zh_hans viv04_lobby_merge_c0d64c88:
 
     # roxxy "Hehehe!!"
-    roxxy "呵呵呵！！"
+    roxxy "嘿嘿嘿！！"
 
 # game/src/plot/viv04.rpy:1435
 translate zh_hans viv04_lobby_merge_ce24dc7f:
@@ -3112,7 +3112,7 @@ translate zh_hans viv04_bed2_5d35a6dc:
 translate zh_hans viv04_bed2_0c0436c2:
 
     # roxxy "Hehe, well, I really made him work for it."
-    roxxy "嘿嘿，我可让他费了不少劲。"
+    roxxy "呵呵，我可让他费了不少劲。"
 
 # game/src/plot/viv04.rpy:1587
 translate zh_hans viv04_bed2_6371722d:
@@ -3202,7 +3202,7 @@ translate zh_hans viv04_bed2_822dd2f1:
 translate zh_hans viv04_bed2_27e65270:
 
     # roxxy "Pfft..."
-    roxxy "噗……"
+    roxxy "切……"
 
 # game/src/plot/viv04.rpy:1617
 translate zh_hans viv04_bed2_6408847c:
@@ -3412,7 +3412,7 @@ translate zh_hans viv04_bed2_9a8581cd:
 translate zh_hans viv04_bed2_709dc0c2:
 
     # jenny "Oh, I've seen it plenty of times."
-    jenny "哦，我见过好多次了。"
+    jenny "哦，我见过很多次了。"
 
 # game/src/plot/viv04.rpy:1683
 translate zh_hans viv04_bed2_44b410b9:
@@ -3472,7 +3472,7 @@ translate zh_hans viv04_bed2_c1a81957_1:
 translate zh_hans viv04_bed2_3cca81f4:
 
     # jenny "Tiny, eh? That's too bad."
-    jenny "小，嗯？那太可惜了。"
+    jenny "很小，是吧？那太可惜了。"
 
 # game/src/plot/viv04.rpy:1703
 translate zh_hans viv04_bed2_e55614c3:
@@ -3538,7 +3538,7 @@ translate zh_hans viv04_bed2_ca44124e:
 translate zh_hans viv04_bed2_5fba0aaa:
 
     # jenny @ e_b m_laugh "Hehe, I dunno. It has its perks."
-    jenny @ e_b m_laugh "嘿嘿，谁知道呢。也不是没有好处。"
+    jenny @ e_b m_laugh "呵呵，谁知道呢。也不是没有好处。"
 
 # game/src/plot/viv04.rpy:1720
 translate zh_hans viv04_bed2_d552b716_3:
@@ -3670,7 +3670,7 @@ translate zh_hans viv04_viv_c7b901b4:
 translate zh_hans viv04_viv_8eb4690d:
 
     # viv "Tu me sauves la vie!"
-    viv "你救了我的命！"
+    viv "Tu me sauves la vie!（你救了我的命！）"
 
 # game/src/plot/viv04.rpy:1791
 translate zh_hans viv04_viv_537a6773:
@@ -3682,7 +3682,7 @@ translate zh_hans viv04_viv_537a6773:
 translate zh_hans viv04_viv_eae8c489:
 
     # anon "Heh, it's no big deal..."
-    anon "嘿嘿，没什么大不了的……"
+    anon "呵，没什么大不了的……"
 
 # game/src/plot/viv04.rpy:1799
 translate zh_hans viv04_viv_59946bf4:

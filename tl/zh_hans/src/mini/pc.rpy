@@ -100,7 +100,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:342
     old "The Orcette"
-    new "兽耳娘"
+    new "女兽人"
 
     # game/src/mini/pc.rpy:344
     old "Free shipping!"
@@ -145,7 +145,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:392
     old "Go where no manhood has gone before past the alluring pussy of the Orcette. This mesmerizing pearlescent green begs to eat you up for a close encounter of the preferred kind. The Orcette Fleshlight comes with the pearlescent green Orc sleeve and a deep green outer case that combine to take your orcette fantasy to the outer limits of your imagination."
-    new "驶向无人触及的领域，穿越兽娘诱人的小穴。这令人着迷的珠光绿色渴望将你吞噬，带来一场亲密接触。兽娘名器配有珠光绿色兽娘内胆和深绿色外壳，将你的兽娘幻想推向想象力的极限。"
+    new "驶向无人触及的领域，穿越女兽人诱人的小穴。这令人着迷的珠光绿色渴望将你吞噬，带来一场亲密接触。女兽人名器配有珠光绿色女兽人内胆和深绿色外壳，将你的女兽人幻想推向想象力的极限。"
 
     # game/src/mini/pc.rpy:401
     old "Purchase now!"
@@ -217,7 +217,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:718
     old "\"Woohoo! You just got paid!\""
-    new "\"哇哦！你刚刚收到了报酬！\""
+    new "“哇哦！你刚刚收到了报酬！”"
 
     # game/src/mini/pc.rpy:723
     old "Congratulations! This month you have earned:"
@@ -229,7 +229,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:740
     old "\"Oye mami, I wanted to show you mi Pinga Latina {emoji=wink}\""
-    new "\"喂，妈妈咪呀，我想给你看看我的拉丁巨屌 {emoji=wink}\""
+    new "“喂，妈妈咪呀，我想给你看看我的拉丁巨屌 {emoji=wink}”"
 
     # game/src/mini/pc.rpy:750
     old "*** Do not forward or share your account details. ***"
@@ -277,15 +277,15 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:1306
     old "- The Dildo \"Fuck-Hammer\""
-    new "- 假阳具\"操锤\""
+    new "- 假阳具“操锤”"
 
     # game/src/mini/pc.rpy:1307
     old "- Glow in the dark Butt plug"
-    new "- 夜光肛门塞"
+    new "- 夜光肛塞"
 
     # game/src/mini/pc.rpy:1309
     old "- Dual sybian (multi-{err=18}controler{/err})"
-    new "- 双人震荡机（多{err=18}控制器{/err}）"
+    new "- 双头赛马鞍（多{err=18}控制器{/err}）"
 
     # game/src/mini/pc.rpy:1310
     old "- UltraVibrator 2000"
@@ -293,7 +293,7 @@ translate zh_hans strings:
 
     # game/src/mini/pc.rpy:1312
     old "- The Doom Dong"
-    new "末日巨屌"
+    new "- 末日巨屌"
 
     # game/src/mini/pc.rpy:1313
     old "- Sex Doll \"Dirty Harold\""

@@ -47,7 +47,7 @@ translate zh_hans mar_couch_creampie1_925f9197:
 
 
     # anon "Sheesh."
-    anon "呼……"
+    anon "天哪。"
 
 # game/src/plot/mar_couch.rpy:21
 translate zh_hans mar_couch_creampie1_7be59f41:
@@ -253,7 +253,7 @@ translate zh_hans mar_couch_dusk1_9ceea467:
 
 
     # anon e_wnw "O-oh."
-    anon e_wnw "噢——哦。"
+    anon e_wnw "哦……"
 
 # game/src/plot/mar_couch.rpy:132
 translate zh_hans mar_couch_dusk1_bb51f192:
@@ -294,7 +294,7 @@ translate zh_hans mar_couch_dusk1_cd060c84:
 translate zh_hans mar_couch_dusk1_3643d996:
 
     # maria @ e_b m_laugh "Hehe!"
-    maria @ e_b m_laugh "呵呵！"
+    maria @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/mar_couch.rpy:141
 translate zh_hans mar_couch_dusk1_071dd119:
@@ -449,7 +449,7 @@ translate zh_hans mar_couch_merge1_e31c87f3:
 
 
     # anon "Heh!"
-    anon "嘿！"
+    anon "呵！"
 
 # game/src/plot/mar_couch.rpy:184
 translate zh_hans mar_couch_merge1_949032ba:
@@ -557,7 +557,7 @@ translate zh_hans mar_couch_merge1_65ddf015:
 translate zh_hans mar_couch_merge1_1547e067:
 
     # maria "YES!!!"
-    maria "没错！！！"
+    maria "对！！！"
 
 # game/src/plot/mar_couch.rpy:202
 translate zh_hans mar_couch_merge1_5960c6a4:
@@ -660,7 +660,7 @@ translate zh_hans mar_couch_merge1_e338e071:
 translate zh_hans mar_couch_merge2_d6f6454b:
 
     # maria "SOGOODSOOGOODSOOOOGOOOOODDDD!!!"
-    maria "好舒服好舒服好舒服好———！！"
+    maria "好舒服好舒服好舒服好——！！"
 
 # game/src/plot/mar_couch.rpy:231
 translate zh_hans mar_couch_merge2_0cf4d269:
@@ -1054,7 +1054,7 @@ translate zh_hans mar_couch_merge4_af14d6a8:
 
 
     # anon e_sw f_shy p_sit_edge_back "Y-yeah, weird."
-    anon e_sw f_shy p_sit_edge_back "是——是的，好奇怪。"
+    anon e_sw f_shy p_sit_edge_back "是、是的，好奇怪。"
 
 # game/src/plot/mar_couch.rpy:384
 translate zh_hans mar_couch_merge4_33701c59:
@@ -1119,7 +1119,7 @@ translate zh_hans mar_couch_merge4_da6c9f6a:
 translate zh_hans mar_couch_merge4_b0573184:
 
     # maria f_happy @ e_b m_laugh "Hehehe!"
-    maria f_happy @ e_b m_laugh "呵呵呵！"
+    maria f_happy @ e_b m_laugh "嘿嘿嘿！"
 
 # game/src/plot/mar_couch.rpy:412
 translate zh_hans mar_couch_merge5_244739f4:
@@ -1160,7 +1160,7 @@ translate zh_hans mar_couch_dusk2_c25ba877:
 
 
     # maria e_se f_shy "Heh."
-    maria e_se f_shy "嘿。"
+    maria e_se f_shy "呵。"
 
 # game/src/plot/mar_couch.rpy:437
 translate zh_hans mar_couch_dusk2_0f8d9175:
@@ -1237,7 +1237,7 @@ translate zh_hans mar_couch_dusk2_c2a4e225:
 
 
     # maria f_happy @ e_b m_laugh "Hehe!"
-    maria f_happy @ e_b m_laugh "呵呵！"
+    maria f_happy @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/mar_couch.rpy:478
 translate zh_hans mar_couch_dusk2_1769faf2:
@@ -1341,7 +1341,7 @@ translate zh_hans mar_couch_noon1_74f85254:
 translate zh_hans mar_couch_noon1_a3df1f9d:
 
     # anon @ -m_talk "Mhmm."
-    anon @ -m_talk "嗯。"
+    anon @ -m_talk "嗯哼。"
 
 # game/src/plot/mar_couch.rpy:521
 translate zh_hans mar_couch_noon1_bbba26fd:
@@ -1353,7 +1353,7 @@ translate zh_hans mar_couch_noon1_bbba26fd:
 translate zh_hans mar_couch_noon1_282c8ab9:
 
     # anon @ f_happy -m_talk "Mhmm."
-    anon @ f_happy -m_talk "嗯。"
+    anon @ f_happy -m_talk "嗯哼。"
 
 # game/src/plot/mar_couch.rpy:523
 translate zh_hans mar_couch_noon1_357f1b4f:
@@ -1527,7 +1527,7 @@ translate zh_hans mar_couch_noon1_1b909c1d:
 translate zh_hans mar_couch_noon1_612ade63:
 
     # maria "Aww, [saga.cast.anon]..."
-    maria "啊，[saga.cast.anon]……"
+    maria "哎呀，[saga.cast.anon]……"
 
 # game/src/plot/mar_couch.rpy:593
 translate zh_hans mar_couch_noon1_6de192f9:
@@ -1695,7 +1695,7 @@ translate zh_hans mar_couch_noon1_66da9cf0:
 translate zh_hans mar_couch_noon1_fbb8e95c:
 
     # anon f_horny "Y-yeah."
-    anon f_horny "是、是的。"
+    anon f_horny "是、是啊。"
 
 # game/src/plot/mar_couch.rpy:698
 translate zh_hans mar_couch_noon1_4bf2e289:
@@ -1773,13 +1773,13 @@ translate zh_hans mar_couch_noon1_859736a5:
 translate zh_hans mar_couch_noon1_a9c55c63:
 
     # anon c_casual_down d_hard e_w f_shy p_sit_edge_back_turn "Y-yeah."
-    anon c_casual_down d_hard e_w f_shy p_sit_edge_back_turn "嗯，对。"
+    anon c_casual_down d_hard e_w f_shy p_sit_edge_back_turn "是、是啊。"
 
 # game/src/plot/mar_couch.rpy:732
 translate zh_hans mar_couch_noon1_68f59d53:
 
     # tony e_wsw f_surprised "Dang, she's not wasting any time."
-    tony e_wsw f_surprised "该死，她真是一点时间都不浪费。"
+    tony e_wsw f_surprised "我去，她真是一点时间都不浪费。"
 
 # game/src/plot/mar_couch.rpy:736
 translate zh_hans mar_couch_noon1_e0e06e08:
@@ -1845,7 +1845,7 @@ translate zh_hans mar_couch_noon1_9f560307:
 translate zh_hans mar_couch_noon1_86139722:
 
     # tony e_wsw "Naaah, I think it looks best right where it is."
-    tony e_wsw "不——，我觉得它现在这个样子最好。"
+    tony e_wsw "不——我觉得它现在这个样子最好。"
 
 # game/src/plot/mar_couch.rpy:755
 translate zh_hans mar_couch_noon1_26684f95:
@@ -1881,7 +1881,7 @@ translate zh_hans mar_couch_noon1_b9583929:
 translate zh_hans mar_couch_noon1_01ec958b:
 
     # tony "Man, you ain't kiddin'."
-    tony "老兄，你说的没错。"
+    tony "天啊，你说的没错。"
 
 # game/src/plot/mar_couch.rpy:764
 translate zh_hans mar_couch_noon1_4404ff56:
@@ -1953,7 +1953,7 @@ translate zh_hans mar_couch_noon1_c45dc18b:
 translate zh_hans mar_couch_noon1_890a5e78:
 
     # tony f_happy "Heh, I'll bet."
-    tony f_happy "嘿，我打赌你会喜欢的。"
+    tony f_happy "呵，我打赌你会喜欢的。"
 
 # game/src/plot/mar_couch.rpy:782
 translate zh_hans mar_couch_noon1_248ccf8b:
@@ -2061,7 +2061,7 @@ translate zh_hans mar_couch_noon1_00fa051b:
 translate zh_hans mar_couch_noon1_c8481ccd_1:
 
     # anon "Yeah?"
-    anon "嗯？"
+    anon "是吗？"
 
 # game/src/plot/mar_couch.rpy:805
 translate zh_hans mar_couch_noon1_1d7bc82d:
@@ -2157,7 +2157,7 @@ translate zh_hans mar_couch_noon1_0f1ebb9a:
 translate zh_hans mar_couch_noon1_0f7ffd04:
 
     # anon "Oh, Jesus!"
-    anon "哦，天啊！"
+    anon "哦，天哪！"
 
 # game/src/plot/mar_couch.rpy:827
 translate zh_hans mar_couch_noon1_41e086a8:
@@ -2187,7 +2187,7 @@ translate zh_hans mar_couch_noon1_75b4bddc:
 translate zh_hans mar_couch_noon1_a588074d:
 
     # anon "... I can't-"
-    anon "……我不能-"
+    anon "……我不能——"
 
 # game/src/plot/mar_couch.rpy:835
 translate zh_hans mar_couch_noon1_7e5c4d40:
@@ -2289,13 +2289,13 @@ translate zh_hans mar_couch_noon1_e76ca701:
 translate zh_hans mar_couch_noon1_d6f6454b:
 
     # maria "SOGOODSOOGOODSOOOOGOOOOODDDD!!!"
-    maria "太棒了太棒了太太太棒了！！！"
+    maria "好舒服好舒服好舒服好——！！"
 
 # game/src/plot/mar_couch.rpy:863
 translate zh_hans mar_couch_noon1_106336e6:
 
     # maria "NGGHHH!!!"
-    maria "嗯嘎啊啊！！！"
+    maria "嗯啊啊啊！！！"
 
 # game/src/plot/mar_couch.rpy:866
 translate zh_hans mar_couch_noon1_0cf4d269:
@@ -2475,7 +2475,7 @@ translate zh_hans mar_couch_merge6_f17a23d7:
 translate zh_hans mar_couch_merge6_66f2448c:
 
     # tony @ e_r f_annoyed "Seriously, darlin'?"
-    tony @ e_r f_annoyed "别闹了，亲爱的？"
+    tony @ e_r f_annoyed "你认真的，亲爱的？"
 
 # game/src/plot/mar_couch.rpy:916
 translate zh_hans mar_couch_merge6_0ad4a962:
@@ -2949,13 +2949,13 @@ translate zh_hans mar_couch_noon2_92e26216:
 translate zh_hans mar_couch_noon2_b27357ec:
 
     # anon "Yes, please!"
-    anon "好的，请！"
+    anon "好啊，麻烦你了！"
 
 # game/src/plot/mar_couch.rpy:1076
 translate zh_hans mar_couch_noon2_61e20135:
 
     # tony a_belly e_b m_laugh @ -m_talk "Heh!"
-    tony a_belly e_b m_laugh @ -m_talk "嘿！"
+    tony a_belly e_b m_laugh @ -m_talk "呵！"
 
 # game/src/plot/mar_couch.rpy:1077
 translate zh_hans mar_couch_noon2_afe74b0b:
@@ -3033,7 +3033,7 @@ translate zh_hans mar_couch_noon2_fb82757e:
 translate zh_hans mar_couch_noon2_2c0bca13:
 
     # anon e_e f_shy "Y-yeah, I will."
-    anon e_e f_shy "好——好的，我会的。"
+    anon e_e f_shy "好、好的，我会的。"
 
 # game/src/plot/mar_couch.rpy:1120
 translate zh_hans mar_couch_noon2_8074b2ac:
@@ -3237,7 +3237,7 @@ translate zh_hans mar_couch_noon2_b4e0997e:
 translate zh_hans mar_couch_noon2_36fee352:
 
     # tony f_surprised "Oh, what the-"
-    tony f_surprised "哦，搞什么-"
+    tony f_surprised "哦，搞什么——"
 
 # game/src/plot/mar_couch.rpy:1183
 translate zh_hans mar_couch_noon2_f578f4f2:
@@ -3309,7 +3309,7 @@ translate zh_hans mar_couch_noon2_a0ca6a96:
 translate zh_hans mar_couch_noon2_c8481ccd_1:
 
     # anon "Yeah?"
-    anon "嗯？"
+    anon "是吗？"
 
 # game/src/plot/mar_couch.rpy:1199
 translate zh_hans mar_couch_noon2_4149b20a:
@@ -3423,7 +3423,7 @@ translate zh_hans mar_couch_noon2_94f1da7e:
 translate zh_hans mar_couch_noon2_1547e067:
 
     # maria "YES!!!"
-    maria "是的！！！"
+    maria "对！！！"
 
 # game/src/plot/mar_couch.rpy:1225
 translate zh_hans mar_couch_noon2_f779d7e0:
@@ -3435,7 +3435,7 @@ translate zh_hans mar_couch_noon2_f779d7e0:
 translate zh_hans mar_couch_noon2_e3974458:
 
     # maria "AHH, GAWD!!!"
-    maria "啊，老天！！！"
+    maria "啊，天哪！！！"
 
 # game/src/plot/mar_couch.rpy:1227
 translate zh_hans mar_couch_noon2_4d998c98:
@@ -3471,7 +3471,7 @@ translate zh_hans mar_couch_noon2_6ace3055:
 translate zh_hans mar_couch_noon2_d6f6454b:
 
     # maria "SOGOODSOOGOODSOOOOGOOOOODDDD!!!"
-    maria "太棒了太棒了太太太太棒了啊啊啊啊！！！"
+    maria "好舒服好舒服好舒服好——！！"
 
 # game/src/plot/mar_couch.rpy:1242
 translate zh_hans mar_couch_noon2_106336e6:
@@ -3495,7 +3495,7 @@ translate zh_hans mar_couch_noon2_8a5e247c:
 translate zh_hans mar_couch_noon2_7fd5d419:
 
     # tony a_wtf f_sad p_sit "This fuckin' guy!"
-    tony a_wtf f_sad p_sit "这家伙真他妈的！"
+    tony a_wtf f_sad p_sit "这他妈什么人啊！"
 
 # game/src/plot/mar_couch.rpy:1250
 translate zh_hans mar_couch_merge7_d165fd93:
@@ -3555,7 +3555,7 @@ translate zh_hans mar_couch_merge7_7f188cba:
 translate zh_hans mar_couch_merge7_ba415760:
 
     # maria @ -m_talk "Mhmm."
-    maria @ -m_talk "嗯。"
+    maria @ -m_talk "嗯哼。"
 
 # game/src/plot/mar_couch.rpy:1265
 translate zh_hans mar_couch_merge7_6861865f:
@@ -3801,7 +3801,7 @@ translate zh_hans mar_couch_noon2a_64e6b511:
 translate zh_hans mar_couch_noon2a_80861fc6:
 
     # maria "God, you feel incredible!"
-    maria "天啊，你感觉太棒了！"
+    maria "天啊，你的鸡巴用起来真棒！"
 
 # game/src/plot/mar_couch.rpy:1346
 translate zh_hans mar_couch_noon2a_c8481ccd:

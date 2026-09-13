@@ -364,7 +364,7 @@ translate zh_hans deb23_setup_kitchen1_20cd9304:
 translate zh_hans deb23_setup_kitchen1_05c2ba60:
 
     # debbie e_w f_sad "{i}*Ahem*{/i} We'll talk later, okay, sweetie?"
-    debbie e_w f_sad "{i}*清嗓子*{/i} 我们晚点再谈，好吗，亲爱的？"
+    debbie e_w f_sad "{i}*咳咳*{/i} 我们晚点再谈，好吗，亲爱的？"
 
 # game/src/plot/deb23.rpy:177
 translate zh_hans deb23_setup_kitchen1_5e852095:
@@ -856,7 +856,7 @@ translate zh_hans deb23_setup_yard_56884bc9:
 translate zh_hans deb23_setup_yard_62030db7:
 
     # debbie "I'm not hiding."
-    debbie "我没有躲。"
+    debbie "我没躲。"
 
 # game/src/plot/deb23.rpy:419
 translate zh_hans deb23_setup_yard_4104dbd7:
@@ -1048,7 +1048,7 @@ translate zh_hans deb23_debbie_ffba1441:
 translate zh_hans deb23_debbie_ea692633:
 
     # anon f_surprised "Really?"
-    anon f_surprised "真的吗？"
+    anon f_surprised "真的？"
 
 # game/src/plot/deb23.rpy:485
 translate zh_hans deb23_debbie_7d98dede_1:
@@ -1504,7 +1504,7 @@ translate zh_hans deb23_car_415b20fa:
 translate zh_hans deb23_car_e760e5d7:
 
     # debbie a_clasp f_shy of_blush p_car_away "{i}*Ahem*{/i} S-so you really aren't mad about what I did?"
-    debbie a_clasp f_shy of_blush p_car_away "{i}*清嗓子*{/i} 所、所以你真的不生我的气？"
+    debbie a_clasp f_shy of_blush p_car_away "{i}*咳咳*{/i} 所、所以你真的不生我的气？"
 
 # game/src/plot/deb23.rpy:618
 translate zh_hans deb23_car_29f49bdd:
@@ -1570,7 +1570,7 @@ translate zh_hans deb23_car_e0587865:
 translate zh_hans deb23_car_6f4cb764:
 
     # debbie "Aww, sweetie."
-    debbie "噢，亲爱的。"
+    debbie "哎呀，亲爱的。"
 
 # game/src/plot/deb23.rpy:630
 translate zh_hans deb23_car_ed74cd93:
@@ -1702,7 +1702,7 @@ translate zh_hans deb23_car_f6bab7e5:
 translate zh_hans deb23_car_b1cceb06:
 
     # anon f_horny "Oh, I think it's the bum bum cream."
-    anon f_horny "哦，我觉得是屁屁霜的功劳。"
+    anon f_horny "哦，我觉得是Bum Bum润肤霜的功劳。"
 
 # game/src/plot/deb23.rpy:663
 translate zh_hans deb23_car_fa9b6736:
@@ -1774,7 +1774,7 @@ translate zh_hans deb23_car_7d98dede:
 translate zh_hans deb23_car_8b088f63:
 
     # anon a_none b_none d_none e_s f_surprised p_car "Holy crap!"
-    anon a_none b_none d_none e_s f_surprised p_car "我操！"
+    anon a_none b_none d_none e_s f_surprised p_car "我靠！"
 
 # game/src/plot/deb23.rpy:694
 translate zh_hans deb23_car_20bb8b63:
@@ -1816,7 +1816,7 @@ translate zh_hans deb23_car_3a87ff97:
 translate zh_hans deb23_car_d4a62ad4:
 
     # debbie "{i}*Glllck* *Glllck* *Glllck*{/i}"
-    debbie "{i}*咕啵* *咕啵* *咕啵*{/i}"
+    debbie "{i}*咕噜* *咕噜* *咕噜*{/i}"
 
 # game/src/plot/deb23.rpy:707
 translate zh_hans deb23_car_fa6d1ef3:
@@ -1870,7 +1870,7 @@ translate zh_hans deb23_car_5fc096b0:
 translate zh_hans deb23_car_5a9af48a:
 
     # debbie s_18 "{i}*Glllck* *Glllck* *Glllck*{/i}"
-    debbie s_18 "{i}*咕啵* *咕啵* *咕啵*{/i}"
+    debbie s_18 "{i}*咕噜* *咕噜* *咕噜*{/i}"
 
 # game/src/plot/deb23.rpy:723
 translate zh_hans deb23_car_34271617:
@@ -2122,7 +2122,7 @@ translate zh_hans deb23_car_27cddd3b:
 translate zh_hans deb23_car_2577ba83:
 
     # debbie f_happy @ e_b m_laugh "Hehe!"
-    debbie f_happy @ e_b m_laugh "呵呵！"
+    debbie f_happy @ e_b m_laugh "嘿嘿！"
 
 # game/src/plot/deb23.rpy:794
 translate zh_hans deb23_car_16156fda:
@@ -2554,7 +2554,7 @@ translate zh_hans deb23_car_8cab64bd:
 translate zh_hans deb23_car_0be188e2:
 
     # anon f_confused "Really?"
-    anon f_confused "真的吗？"
+    anon f_confused "真的？"
 
 # game/src/plot/deb23.rpy:962
 translate zh_hans deb23_car_e723cac7:
@@ -2590,7 +2590,7 @@ translate zh_hans deb23_car_20e598c4:
 translate zh_hans deb23_car_b609e6a1:
 
     # anon f_surprised "{i}*Ahem*{/i} I mean, not too close!"
-    anon f_surprised "{i}*清嗓子*{/i} 我是说，也没亲近到哪里去！"
+    anon f_surprised "{i}*咳咳*{/i} 我是说，也没亲近到哪里去！"
 
 # game/src/plot/deb23.rpy:971
 translate zh_hans deb23_car_080fb794:
@@ -2632,7 +2632,7 @@ translate zh_hans deb23_car_d8f50d3e:
 translate zh_hans deb23_car_fe293e8b:
 
     # anon a_uneasy o_right "{i}*Ahem*{/i} H-how's it going in there, [saga.cast.debbie]?"
-    anon a_uneasy o_right "{i}*清嗓子*{/i} 里、里面怎么样了，[saga.cast.debbie]？"
+    anon a_uneasy o_right "{i}*咳咳*{/i} 里、里面怎么样了，[saga.cast.debbie]？"
 
 # game/src/plot/deb23.rpy:981
 translate zh_hans deb23_car_244d9ec2:
@@ -2926,7 +2926,7 @@ translate zh_hans deb23_car_merge1_d8f50d3e:
 translate zh_hans deb23_car_merge2_fa4a75f9:
 
     # anon "{i}*Ahem*{/i} [saga.cast.debbie]?"
-    anon "{i}*清嗓子*{/i} [saga.cast.debbie]？"
+    anon "{i}*咳咳*{/i} [saga.cast.debbie]？"
 
 # game/src/plot/deb23.rpy:1133
 translate zh_hans deb23_car_merge2_f9e767d0:
@@ -3154,7 +3154,7 @@ translate zh_hans deb23_car_merge2_e4aa251b:
 translate zh_hans deb23_car_merge2_745c6498:
 
     # anon a_palm "{i}*Ahem*{/i} I'm sure lots of men would think you look sexy."
-    anon a_palm "{i}*清嗓子*{/i} 我相信其他男人一定会觉得你很性感。"
+    anon a_palm "{i}*咳咳*{/i} 我相信其他男人一定会觉得你很性感。"
 
 # game/src/plot/deb23.rpy:1244
 translate zh_hans deb23_car_merge2_1cd0e5a8:
@@ -3346,7 +3346,7 @@ translate zh_hans deb23_car_merge3_ae3d6462:
 translate zh_hans deb23_car_merge3_1bfdd5ce:
 
     # anon "Aww."
-    anon "啊……"
+    anon "哎呀。"
 
 # game/src/plot/deb23.rpy:1323
 translate zh_hans deb23_car_merge3_c30bd45c:
@@ -3760,7 +3760,7 @@ translate zh_hans deb23_car_merge3_e7a34587:
 translate zh_hans deb23_car_merge3_d9707bdf:
 
     # debbie f_calm of_none "{i}*Ahem*{/i} I'd best get started on dinner."
-    debbie f_calm of_none "{i}*清嗓子*{/i} 我该开始准备晚饭了。"
+    debbie f_calm of_none "{i}*咳咳*{/i} 我该开始准备晚饭了。"
 
 # game/src/plot/deb23.rpy:1513
 translate zh_hans deb23_car_merge3_fbdb15cd:
@@ -3856,7 +3856,7 @@ translate zh_hans deb23_car_alt2_de1f9625:
 translate zh_hans deb23_car_alt2_8b5b6b2a:
 
     # kassy f_horny "Oh, really?"
-    kassy f_horny "哦，真的？"
+    kassy f_horny "哦，是吗？"
 
 # game/src/plot/deb23.rpy:1570
 translate zh_hans deb23_car_alt2_186de7e2:

@@ -28,7 +28,7 @@ translate zh_hans deb_tv_51033f2a:
 translate zh_hans deb_tv_b991f602:
 
     # anon "{i}*Ahem*{/i} Y-yeah, [saga.cast.debbie]... it's me."
-    anon "{i}*咳咳*{/i} 是、是的，[saga.cast.debbie]……是我。"
+    anon "{i}*咳咳*{/i} 是、是啊，[saga.cast.debbie]……是我。"
 
 # game/src/plot/deb_tv.rpy:26
 translate zh_hans deb_tv_99cf45f3:
@@ -70,7 +70,7 @@ translate zh_hans deb_tv_acf27627:
 translate zh_hans deb_tv_40c085e8:
 
     # anon e_e f_shy "Y-yeah, okay."
-    anon e_e f_shy "嗯……好、好吧。"
+    anon e_e f_shy "好、好吧。"
 
 # game/src/plot/deb_tv.rpy:39
 translate zh_hans deb_tv_7b20a4ad:
@@ -148,7 +148,7 @@ translate zh_hans deb_tv_35464c24:
 translate zh_hans deb_tv_9ded72e7:
 
     # debbie "{i}*Sluuuuuuurp*{/i}"
-    debbie "{i}*吸溜吸溜吸溜*{/i}"
+    debbie "{i}*吸溜——*{/i}"
 
 # game/src/plot/deb_tv.rpy:68
 translate zh_hans deb_tv_a0ac237c:
@@ -202,7 +202,7 @@ translate zh_hans deb_tv_61dbf170:
 translate zh_hans deb_tv_2f10528f:
 
     # anon "Why don't you come sit over here on my lap?"
-    anon "你为什么不过来坐在我腿上？"
+    anon "过来坐我腿上吧？"
 
 # game/src/plot/deb_tv.rpy:102
 translate zh_hans deb_tv_15cbefc6:
@@ -418,7 +418,7 @@ translate zh_hans deb_tv_62e18112:
 translate zh_hans deb_tv_87c69c69:
 
     # debbie "NGGHHH!!!"
-    debbie "嗯呃呃！！"
+    debbie "嗯啊啊啊！！！"
 
 # game/src/plot/deb_tv.rpy:175
 translate zh_hans deb_tv_d165fd93:
@@ -568,13 +568,13 @@ translate zh_hans deb_tv_boobjob3_7f69b518:
 translate zh_hans deb_tv_boobjob3_95367808:
 
     # debbie a_side e_s f_shy of_blush p_lean_turn "Y-you wanna put it between my breasts again?"
-    debbie a_side e_s f_shy of_blush p_lean_turn "你、你想再把它夹在我胸间？"
+    debbie a_side e_s f_shy of_blush p_lean_turn "你、你想再让我用胸夹一次？"
 
 # game/src/plot/deb_tv.rpy:258
 translate zh_hans deb_tv_boobjob3_d47d096e:
 
     # debbie a_side e_s f_curious of_blush p_lean_turn "Oh, you wanna put it between my breasts again?"
-    debbie a_side e_s f_curious of_blush p_lean_turn "哦，你是想再让它夹在我胸间？"
+    debbie a_side e_s f_curious of_blush p_lean_turn "哦，你是想再让我用胸夹一次？"
 
 # game/src/plot/deb_tv.rpy:260
 translate zh_hans deb_tv_boobjob3_3788a902:
@@ -598,7 +598,7 @@ translate zh_hans deb_tv_boobjob3_fcaeb383:
 translate zh_hans deb_tv_boobjob3_c8481ccd:
 
     # anon "Yeah?"
-    anon "嗯？"
+    anon "是吗？"
 
 # game/src/plot/deb_tv.rpy:268
 translate zh_hans deb_tv_boobjob3_9cee5f37:
@@ -694,7 +694,7 @@ translate zh_hans deb_tv_boobjob3_0d43fe1f:
 translate zh_hans deb_tv_boobjob3_f898f4d7:
 
     # debbie f_curious "{i}*Snort*{/i} Is that right?"
-    debbie f_curious "{i}*嗤笑*{/i} 是吗？"
+    debbie f_curious "{i}*噗嗤*{/i} 是吗？"
 
 # game/src/plot/deb_tv.rpy:323
 translate zh_hans deb_tv_boobjob3_d8f50d3e:
@@ -856,19 +856,19 @@ translate zh_hans deb_tv_boobjob3_66d09acf_1:
 translate zh_hans deb_tv_boobjob3_66fec15c:
 
     # anon "Here it..."
-    anon "来了……"
+    anon "就要……"
 
 # game/src/plot/deb_tv.rpy:360
 translate zh_hans deb_tv_boobjob3_063da537:
 
     # anon "... Comes!!"
-    anon "……要射了！！"
+    anon "……来了！！"
 
 # game/src/plot/deb_tv.rpy:363
 translate zh_hans deb_tv_boobjob3_0cf4d269:
 
     # anon "HNNGGG!!!" with flash
-    anon "嗯嗯嗯！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:364
 translate zh_hans deb_tv_boobjob3_b2c454e0:
@@ -880,7 +880,7 @@ translate zh_hans deb_tv_boobjob3_b2c454e0:
 translate zh_hans deb_tv_boobjob3_e7c8a008:
 
     # anon d_none f_calm od_none p_couch_side_rest -m_teeth "Haah... haah..."
-    anon d_none f_calm od_none p_couch_side_rest -m_teeth "哈……哈……"
+    anon d_none f_calm od_none p_couch_side_rest -m_teeth "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:367
 translate zh_hans deb_tv_boobjob3_042fec22:
@@ -958,7 +958,7 @@ translate zh_hans deb_tv_boobjob3_13a048b6:
 translate zh_hans deb_tv_boobjob3_19ab2bdc:
 
     # anon a_salute "Y-yeah, okay."
-    anon a_salute "呃，好吧。"
+    anon a_salute "好、好吧。"
 
 # game/src/plot/deb_tv.rpy:390
 translate zh_hans deb_tv_boobjob3_5fc919b3:
@@ -1042,7 +1042,7 @@ translate zh_hans deb_tv_boobjob4_27e77643:
 translate zh_hans deb_tv_boobjob4_40d65cee:
 
     # anon "Tell me something I don't know."
-    anon "说点我不知道的。"
+    anon "这还用你说。"
 
 # game/src/plot/deb_tv.rpy:437
 translate zh_hans deb_tv_boobjob4_1f1205bd:
@@ -1060,7 +1060,7 @@ translate zh_hans deb_tv_boobjob4_5865c66e:
 translate zh_hans deb_tv_boobjob4_03987d55:
 
     # anon "{i}*Sluuuuuuuuuurp*{/i}"
-    anon "{i}*吸溜吸溜吸溜*{/i}"
+    anon "{i}*吸溜——*{/i}"
 
 # game/src/plot/deb_tv.rpy:440
 translate zh_hans deb_tv_boobjob4_492dd8e3:
@@ -1168,7 +1168,7 @@ translate zh_hans deb_tv_boobjob4_70d0a065:
 translate zh_hans deb_tv_boobjob4_ad529964:
 
     # debbie "NGGHHH!!!" with flash
-    debbie "嗯嗯嗯！！！" with flash
+    debbie "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:464
 translate zh_hans deb_tv_boobjob4_7a4391f4:
@@ -1228,7 +1228,7 @@ translate zh_hans deb_tv_boobjob4_25c0e1ff:
 translate zh_hans deb_tv_boobjob4_9ac6e3a1:
 
     # anon "Big, beautiful, mounds of perfection!"
-    anon "又大又美，完美的一对！"
+    anon "又大又美，简直是完美的双峰！"
 
 # game/src/plot/deb_tv.rpy:479
 translate zh_hans deb_tv_boobjob4_678c5e13:
@@ -1300,7 +1300,7 @@ translate zh_hans deb_tv_boobjob4_19f4554b:
 translate zh_hans deb_tv_boobjob4_66fec15c:
 
     # anon "Here it..."
-    anon "它要……"
+    anon "就要……"
 
 # game/src/plot/deb_tv.rpy:500
 translate zh_hans deb_tv_boobjob4_063da537:
@@ -1312,7 +1312,7 @@ translate zh_hans deb_tv_boobjob4_063da537:
 translate zh_hans deb_tv_boobjob4_0cf4d269:
 
     # anon "HNNGGG!!!" with flash
-    anon "嗯嗯呃！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:504
 translate zh_hans deb_tv_boobjob4_59756af2:
@@ -1330,7 +1330,7 @@ translate zh_hans deb_tv_boobjob4_e7c8a008:
 translate zh_hans deb_tv_boobjob4_f4a16da0:
 
     # debbie a_hold_couch e_sw f_calm "... Look at all this."
-    debbie a_hold_couch e_sw f_calm "……看看这一大堆。"
+    debbie a_hold_couch e_sw f_calm "……看看这些。"
 
 # game/src/plot/deb_tv.rpy:509
 translate zh_hans deb_tv_boobjob4_dfe36ea3:
@@ -1348,7 +1348,7 @@ translate zh_hans deb_tv_boobjob4_244739f4:
 translate zh_hans deb_tv_boobjob4_06458de1:
 
     # anon "Heh, I guess I went a little overboard there."
-    anon "嘿，看来我刚才有点过火了。"
+    anon "呵，看来我刚才有点过火了。"
 
 # game/src/plot/deb_tv.rpy:520
 translate zh_hans deb_tv_boobjob4_361af2c1:
@@ -1390,7 +1390,7 @@ translate zh_hans deb_tv_boobjob4_96b9a397:
 translate zh_hans deb_tv_boobjob4_fd7672f5:
 
     # anon a_rub e_e "Heh."
-    anon a_rub e_e "嘿。"
+    anon a_rub e_e "呵。"
 
 # game/src/plot/deb_tv.rpy:529
 translate zh_hans deb_tv_boobjob4_cbd1ca9b:
@@ -1402,7 +1402,7 @@ translate zh_hans deb_tv_boobjob4_cbd1ca9b:
 translate zh_hans deb_tv_boobjob4_023542b2:
 
     # anon e_w "Y-yeah, okay."
-    anon e_w "嗯，好吧。"
+    anon e_w "好、好吧。"
 
 # game/src/plot/deb_tv.rpy:531
 translate zh_hans deb_tv_boobjob4_44507540:
@@ -1426,13 +1426,13 @@ translate zh_hans deb_tv_boobjob4_99a4baff:
 translate zh_hans deb_tv_creampie4_0cf4d269:
 
     # anon "HNNGGG!!!" with flash
-    anon "嗯嗯嗯！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:548
 translate zh_hans deb_tv_creampie4_ed64f9cc:
 
     # debbie p_sex_cum_02 "NGGHHH!!!"
-    debbie p_sex_cum_02 "嗯嗯！！！"
+    debbie p_sex_cum_02 "嗯啊啊啊！！！"
 
 # game/src/plot/deb_tv.rpy:551
 translate zh_hans deb_tv_creampie4_d165fd93:
@@ -1504,7 +1504,7 @@ translate zh_hans deb_tv_creampie4_1d99971f:
 translate zh_hans deb_tv_entry1_2d562b99:
 
     # debbie "Hello?" with hpunch
-    debbie "喂？" with hpunch
+    debbie "有人吗？" with hpunch
 
 # game/src/plot/deb_tv.rpy:582
 translate zh_hans deb_tv_entry1_80ed2970:
@@ -1630,7 +1630,7 @@ translate zh_hans deb_tv_entry2_f989e3bd:
 translate zh_hans deb_tv_entry2_b991f602:
 
     # anon "{i}*Ahem*{/i} Y-yeah, [saga.cast.debbie]... it's me."
-    anon "{i}*嗯哼*{/i} 是、是啊，[saga.cast.debbie]……是我。"
+    anon "{i}*咳咳*{/i} 是、是啊，[saga.cast.debbie]……是我。"
 
 # game/src/plot/deb_tv.rpy:659
 translate zh_hans deb_tv_entry2_32725411:
@@ -1744,7 +1744,7 @@ translate zh_hans deb_tv_entry2_fd4c7229:
 translate zh_hans deb_tv_entry2_f10b88e6:
 
     # anon e_e f_shy p_sit "Heh, yeah."
-    anon e_e f_shy p_sit "嗯，是的。"
+    anon e_e f_shy p_sit "呵，是啊。"
 
 # game/src/plot/deb_tv.rpy:714
 translate zh_hans deb_tv_entry2_be769820:
@@ -1756,7 +1756,7 @@ translate zh_hans deb_tv_entry2_be769820:
 translate zh_hans deb_tv_entry2_a3df1f9d:
 
     # anon @ -m_talk "Mhmm."
-    anon @ -m_talk "嗯嗯。"
+    anon @ -m_talk "嗯哼。"
 
 # game/src/plot/deb_tv.rpy:722
 translate zh_hans deb_tv_entry2_e2d2e5c7:
@@ -1798,7 +1798,7 @@ translate zh_hans deb_tv_entry2_e4127045:
 translate zh_hans deb_tv_entry2_c78668c1:
 
     # debbie "{i}*Ahem*{/i} O-okay."
-    debbie "{i}*咳嗯*{/i} 好、好吧。"
+    debbie "{i}*咳咳*{/i} 好、好吧。"
 
 # game/src/plot/deb_tv.rpy:737
 translate zh_hans deb_tv_entry2_06852198:
@@ -1822,7 +1822,7 @@ translate zh_hans deb_tv_entry2_a8f3c1dd:
 translate zh_hans deb_tv_entry2_389a12e0:
 
     # debbie f_calm "Heh, you're such a spoiled boy!"
-    debbie f_calm "嘿，你真是个被宠坏的小子！"
+    debbie f_calm "呵，你真是个被宠坏的小子！"
 
 # game/src/plot/deb_tv.rpy:744
 translate zh_hans deb_tv_entry2_34516c84:
@@ -2056,7 +2056,7 @@ translate zh_hans deb_tv_entry2_b157ed76:
 translate zh_hans deb_tv_entry2_2029030e:
 
     # debbie e_b f_distressed m_open p_couch_cum @ -m_talk "NGGHHH!!!" with flash
-    debbie e_b f_distressed m_open p_couch_cum @ -m_talk "唔嗯！！！！" with flash
+    debbie e_b f_distressed m_open p_couch_cum @ -m_talk "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:805
 translate zh_hans deb_tv_entry2_04931924:
@@ -2068,7 +2068,7 @@ translate zh_hans deb_tv_entry2_04931924:
 translate zh_hans deb_tv_entry2_0ed83c85:
 
     # anon s_32 @ e_w "Oh, wow!"
-    anon s_32 @ e_w "哦，哇哦！"
+    anon s_32 @ e_w "哦，哇！"
 
 # game/src/plot/deb_tv.rpy:808
 translate zh_hans deb_tv_entry2_bd0521aa:
@@ -2080,7 +2080,7 @@ translate zh_hans deb_tv_entry2_bd0521aa:
 translate zh_hans deb_tv_entry2_0f9e4a20:
 
     # anon f_distressed m_open od_cumshot p_couch_cum s_400ms @ -m_talk "HNNGGG!!!" with flash
-    anon f_distressed m_open od_cumshot p_couch_cum s_400ms @ -m_talk "哼嗯！！！！" with flash
+    anon f_distressed m_open od_cumshot p_couch_cum s_400ms @ -m_talk "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:810
 translate zh_hans deb_tv_entry2_f451c70e:
@@ -2110,7 +2110,7 @@ translate zh_hans deb_tv_entry2_64ab2af1:
 translate zh_hans deb_tv_entry2_d1fbc5d5:
 
     # debbie @ e_w "Heh!"
-    debbie @ e_w "嘿嘿！"
+    debbie @ e_w "呵！"
 
 # game/src/plot/deb_tv.rpy:815
 translate zh_hans deb_tv_entry2_33a42888:
@@ -2158,13 +2158,13 @@ translate zh_hans deb_tv_entry2_5848a492:
 translate zh_hans deb_tv_entry2_0c58831f:
 
     # anon f_happy @ e_e "Heh, right?"
-    anon f_happy @ e_e "嘿，是吧？"
+    anon f_happy @ e_e "呵，是吧？"
 
 # game/src/plot/deb_tv.rpy:826
 translate zh_hans deb_tv_entry2_9f310c19:
 
     # anon e_w f_shy p_couch_turn "Thanks, [saga.cast.debbie]."
-    anon e_w f_shy p_couch_turn "谢谢你，[saga.cast.debbie]。"
+    anon e_w f_shy p_couch_turn "谢了，[saga.cast.debbie]。"
 
 # game/src/plot/deb_tv.rpy:828
 translate zh_hans deb_tv_entry2_7bf23468:
@@ -2236,7 +2236,7 @@ translate zh_hans deb_tv_entry3_f42fd090:
 translate zh_hans deb_tv_entry3_be573ac4:
 
     # anon a_jerk f_shy s_400ms "Heh, yeah."
-    anon a_jerk f_shy s_400ms "呵呵，是啊。"
+    anon a_jerk f_shy s_400ms "呵，是啊。"
 
 # game/src/plot/deb_tv.rpy:863
 translate zh_hans deb_tv_entry3_90ed27fb:
@@ -2338,7 +2338,7 @@ translate zh_hans deb_tv_entry3_3cc6a7ad:
 translate zh_hans deb_tv_entry3_40c085e8:
 
     # anon e_e f_shy "Y-yeah, okay."
-    anon e_e f_shy "好……好吧。"
+    anon e_e f_shy "好、好吧。"
 
 # game/src/plot/deb_tv.rpy:910
 translate zh_hans deb_tv_entry3_334094e1:
@@ -2350,7 +2350,7 @@ translate zh_hans deb_tv_entry3_334094e1:
 translate zh_hans deb_tv_entry3_fa6973fb:
 
     # debbie e_e f_curious "Well, yeah..."
-    debbie e_e f_curious "呃，是啊……"
+    debbie e_e f_curious "嗯，是啊……"
 
 # game/src/plot/deb_tv.rpy:913
 translate zh_hans deb_tv_entry3_b5df73d5:
@@ -2422,7 +2422,7 @@ translate zh_hans deb_tv_entry3_2f2e0e93:
 translate zh_hans deb_tv_entry3_d9b47a17:
 
     # debbie e_e f_calm "Aww."
-    debbie e_e f_calm "哦。"
+    debbie e_e f_calm "哎呀。"
 
 # game/src/plot/deb_tv.rpy:927
 translate zh_hans deb_tv_entry3_ef8d9f1c:
@@ -2536,7 +2536,7 @@ translate zh_hans deb_tv_entry3_a9cdf637:
 translate zh_hans deb_tv_entry3_adaa3447:
 
     # debbie e_e f_curious "{i}*Ahem*{/i} Are you... getting close?"
-    debbie e_e f_curious "{i}*咳*{/i}你……快要射了吗？"
+    debbie e_e f_curious "{i}*咳咳*{/i} 你……快要射了吗？"
 
 # game/src/plot/deb_tv.rpy:958
 translate zh_hans deb_tv_entry3_3dd7cc75:
@@ -2584,7 +2584,7 @@ translate zh_hans deb_tv_entry3_e1b0ff4b:
 translate zh_hans deb_tv_entry3_d292373d:
 
     # anon "That feels really good."
-    anon "感觉真不错。"
+    anon "真舒服。"
 
 # game/src/plot/deb_tv.rpy:986
 translate zh_hans deb_tv_entry3_a82f7c47:
@@ -2662,19 +2662,19 @@ translate zh_hans deb_tv_entry3_12c1873a:
 translate zh_hans deb_tv_entry3_20eb9bb0:
 
     # debbie e_iw "Anything for my baby."
-    debbie e_iw "为了我的宝贝什么都行。"
+    debbie e_iw "为了我的宝贝，什么都行。"
 
 # game/src/plot/deb_tv.rpy:1010
 translate zh_hans deb_tv_entry3_24880013:
 
     # debbie b_anon ob_none p_blowjob z_reset "Nom."
-    debbie b_anon ob_none p_blowjob z_reset "嗯。"
+    debbie b_anon ob_none p_blowjob z_reset "啊呜。"
 
 # game/src/plot/deb_tv.rpy:1012
 translate zh_hans deb_tv_entry3_9ded72e7:
 
     # debbie "{i}*Sluuuuuuurp*{/i}"
-    debbie "{i}*吸溜吸溜*{/i}"
+    debbie "{i}*吸溜——*{/i}"
 
 # game/src/plot/deb_tv.rpy:1013
 translate zh_hans deb_tv_entry3_7f12f73c:
@@ -2734,7 +2734,7 @@ translate zh_hans deb_tv_entry3_3b8c3ccf:
 translate zh_hans deb_tv_entry3_835d993f:
 
     # debbie f_shy "Heh, you really like them, huh?"
-    debbie f_shy "嘿，你真的很喜欢它们，是吧？"
+    debbie f_shy "呵，你真的很喜欢它们，是吧？"
 
 # game/src/plot/deb_tv.rpy:1045
 translate zh_hans deb_tv_entry3_1fbc093a:
@@ -2806,7 +2806,7 @@ translate zh_hans deb_tv_entry3_03d21010:
 translate zh_hans deb_tv_entry3_9f0b9498:
 
     # debbie a_legs_anon_stroke f_happy m_laugh s_800ms @ -m_talk "Heh, that tickles!"
-    debbie a_legs_anon_stroke f_happy m_laugh s_800ms @ -m_talk "嘿，好痒！"
+    debbie a_legs_anon_stroke f_happy m_laugh s_800ms @ -m_talk "呵，好痒！"
 
 # game/src/plot/deb_tv.rpy:1069
 translate zh_hans deb_tv_entry3_bf22739c:
@@ -2974,7 +2974,7 @@ translate zh_hans deb_tv_entry3_c175f64b:
 translate zh_hans deb_tv_entry3_6f4cb764:
 
     # debbie "Aww, sweetie."
-    debbie "哦，亲爱的。"
+    debbie "哎呀，亲爱的。"
 
 # game/src/plot/deb_tv.rpy:1108
 translate zh_hans deb_tv_entry3_1d1a6aea:
@@ -3016,19 +3016,19 @@ translate zh_hans deb_tv_merge3a_66d09acf:
 translate zh_hans deb_tv_merge3a_66fec15c:
 
     # anon "Here it..."
-    anon "出来了……"
+    anon "就要……"
 
 # game/src/plot/deb_tv.rpy:1117
 translate zh_hans deb_tv_merge3a_063da537:
 
     # anon "... Comes!!"
-    anon "……要来了！！"
+    anon "……来了！！"
 
 # game/src/plot/deb_tv.rpy:1121
 translate zh_hans deb_tv_merge3a_0cf4d269:
 
     # anon "HNNGGG!!!" with flash
-    anon "嗯呃呃！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:1122
 translate zh_hans deb_tv_merge3a_2a2c4e5a:
@@ -3058,7 +3058,7 @@ translate zh_hans deb_tv_merge3a_d686e933:
 translate zh_hans deb_tv_merge3a_db6e5f86:
 
     # debbie "Heh, you think?"
-    debbie "呵呵，你觉得呢？"
+    debbie "呵，你觉得呢？"
 
 # game/src/plot/deb_tv.rpy:1135
 translate zh_hans deb_tv_merge3a_9ac806c2:
@@ -3076,7 +3076,7 @@ translate zh_hans deb_tv_merge3a_da6de0d8:
 translate zh_hans deb_tv_merge3a_d1373932:
 
     # debbie "It'll wash out."
-    debbie "会洗掉的。"
+    debbie "我会洗掉的。"
 
 # game/src/plot/deb_tv.rpy:1139
 translate zh_hans deb_tv_merge3a_0175de4e:
@@ -3136,7 +3136,7 @@ translate zh_hans deb_tv_merge3a_2d577b14:
 translate zh_hans deb_tv_merge3a_88e4fd3b:
 
     # debbie b_anon p_kiss "Mm."
-    debbie b_anon p_kiss "唔。"
+    debbie b_anon p_kiss "嗯。"
 
 # game/src/plot/deb_tv.rpy:1164
 translate zh_hans deb_tv_merge3a_53b50359:
@@ -3166,7 +3166,7 @@ translate zh_hans deb_tv_merge3b_54293296:
 translate zh_hans deb_tv_merge3b_e7aa3a1d:
 
     # anon a_cheer e_b f_happy m_teeth @ -m_talk "( Best. Landlady. Ever. )"
-    anon a_cheer e_b f_happy m_teeth @ -m_talk "（最佳房东。史上最佳。）"
+    anon a_cheer e_b f_happy m_teeth @ -m_talk "（最好的房东。没有之一。）"
 
 # game/src/plot/deb_tv.rpy:1180
 translate zh_hans deb_tv_footjob3_3856f97a:
@@ -3226,7 +3226,7 @@ translate zh_hans deb_tv_footjob3_18d63fae:
 translate zh_hans deb_tv_footjob3_a35ae772:
 
     # debbie e_se f_shy of_blush "Oh, dear... I-"
-    debbie e_se f_shy of_blush "哦，天哪……我-"
+    debbie e_se f_shy of_blush "哦，天哪……我——"
 
 # game/src/plot/deb_tv.rpy:1195
 translate zh_hans deb_tv_footjob3_daf9aaa6:
@@ -3352,7 +3352,7 @@ translate zh_hans deb_tv_footjob3_67de5019:
 translate zh_hans deb_tv_footjob3_54a454eb:
 
     # debbie e_sse f_shy "O-kay."
-    debbie e_sse f_shy "好-吧。"
+    debbie e_sse f_shy "好、好吧。"
 
 # game/src/plot/deb_tv.rpy:1227
 translate zh_hans deb_tv_footjob3_6d9ff149:
@@ -3382,7 +3382,7 @@ translate zh_hans deb_tv_footjob3_d8f50d3e:
 translate zh_hans deb_tv_footjob3_b9edabf3:
 
     # debbie f_happy m_laugh @ -m_talk "Heh, that tickles!"
-    debbie f_happy m_laugh @ -m_talk "嘿，有点痒！"
+    debbie f_happy m_laugh @ -m_talk "呵，好痒！"
 
 # game/src/plot/deb_tv.rpy:1236
 translate zh_hans deb_tv_footjob3_a72df2d0:
@@ -3700,7 +3700,7 @@ translate zh_hans deb_tv_footjob4_b23bf8be:
 translate zh_hans deb_tv_footjob4_4aa5a925:
 
     # debbie "Hehe!"
-    debbie "嘻嘻！"
+    debbie "嘿嘿！"
 
 # game/src/plot/deb_tv.rpy:1336
 translate zh_hans deb_tv_footjob4_6a7eeb5c:
@@ -3760,7 +3760,7 @@ translate zh_hans deb_tv_merge4a_5ddb7118:
 translate zh_hans deb_tv_merge4a_0cf4d269:
 
     # anon "HNNGGG!!!" with flash
-    anon "嗯嗯嗯！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:1352
 translate zh_hans deb_tv_merge4a_4aa5a925:
@@ -3796,7 +3796,7 @@ translate zh_hans deb_tv_merge4a_760d230b:
 translate zh_hans deb_tv_merge4a_343f0d4b:
 
     # anon e_sw "Y-yeah, okay."
-    anon e_sw "嗯……好，好吧。"
+    anon e_sw "好、好吧。"
 
 # game/src/plot/deb_tv.rpy:1366
 translate zh_hans deb_tv_merge4a_233aa11b:
@@ -3940,7 +3940,7 @@ translate zh_hans deb_tv_play3_592ab6a4:
 translate zh_hans deb_tv_play3_e3e549f2:
 
     # debbie e_s p_couch_pants_off_01 "You're such a naughty boy!"
-    debbie e_s p_couch_pants_off_01 "你真是个坏小子！"
+    debbie e_s p_couch_pants_off_01 "你真是个小坏蛋！"
 
 # game/src/plot/deb_tv.rpy:1429
 translate zh_hans deb_tv_play3_df2252b0:
@@ -3952,7 +3952,7 @@ translate zh_hans deb_tv_play3_df2252b0:
 translate zh_hans deb_tv_play3_7a948baf:
 
     # anon e_w "It runs in my family."
-    anon e_w "这是我们家的传统。"
+    anon e_w "这是我们家的遗传。"
 
 # game/src/plot/deb_tv.rpy:1433
 translate zh_hans deb_tv_play3_32ec6b3d:
@@ -3970,7 +3970,7 @@ translate zh_hans deb_tv_play3_1c1752d6:
 translate zh_hans deb_tv_play3_78638209:
 
     # anon "Heh."
-    anon "嘿。"
+    anon "呵。"
 
 # game/src/plot/deb_tv.rpy:1440
 translate zh_hans deb_tv_play3_c625895f:
@@ -4000,7 +4000,7 @@ translate zh_hans deb_tv_play3_f52a6908:
 translate zh_hans deb_tv_play3_30cb5357:
 
     # debbie e_w "{i}*Gulp*{/i} Are you close?"
-    debbie e_w "{i}*咽口水*{/i}快要射了吗？"
+    debbie e_w "{i}*咽口水*{/i} 快要射了吗？"
 
 # game/src/plot/deb_tv.rpy:1447
 translate zh_hans deb_tv_play3_ef7149e2:
@@ -4084,13 +4084,13 @@ translate zh_hans deb_tv_play3_dd3c1b6d:
 translate zh_hans deb_tv_play3_2bd87fc8:
 
     # anon m_pant @ -m_talk "Here it..."
-    anon m_pant @ -m_talk "要来了……"
+    anon m_pant @ -m_talk "就要……"
 
 # game/src/plot/deb_tv.rpy:1470
 translate zh_hans deb_tv_play3_23c4cd17:
 
     # anon @ -m_talk "... Comes!!"
-    anon @ -m_talk "要来了！！"
+    anon @ -m_talk "……来了！！"
 
 # game/src/plot/deb_tv.rpy:1472
 translate zh_hans deb_tv_play3_0f9e4a20:
@@ -4102,7 +4102,7 @@ translate zh_hans deb_tv_play3_0f9e4a20:
 translate zh_hans deb_tv_play3_75bdef5c:
 
     # debbie @ -m_talk "NGGHHH!!!" with flash
-    debbie @ -m_talk "嗯嗯哼！！！" with flash
+    debbie @ -m_talk "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:1475
 translate zh_hans deb_tv_play3_abd285e8:
@@ -4126,7 +4126,7 @@ translate zh_hans deb_tv_play3_6e6bd149:
 translate zh_hans deb_tv_play3_065e249a:
 
     # debbie e_w p_couch_rub_turn "Heh, yeah..."
-    debbie e_w p_couch_rub_turn "嘿，是啊……"
+    debbie e_w p_couch_rub_turn "呵，是啊……"
 
 # game/src/plot/deb_tv.rpy:1481
 translate zh_hans deb_tv_play3_cfec591a:
@@ -4222,7 +4222,7 @@ translate zh_hans deb_tv_play3_56d0d031:
 translate zh_hans deb_tv_play3_0686f373:
 
     # debbie "That's my good boy."
-    debbie "这才乖嘛！"
+    debbie "这才乖嘛。"
 
 # game/src/plot/deb_tv.rpy:1521
 translate zh_hans deb_tv_play4_21a91124:
@@ -4246,7 +4246,7 @@ translate zh_hans deb_tv_play4_ac83e13f:
 translate zh_hans deb_tv_play4_52682287:
 
     # debbie "Okay, sweetie."
-    debbie "好吧，亲爱的。"
+    debbie "好的，亲爱的。"
 
 # game/src/plot/deb_tv.rpy:1526
 translate zh_hans deb_tv_play4_1cd814ce:
@@ -4282,7 +4282,7 @@ translate zh_hans deb_tv_play4_e50ad309:
 translate zh_hans deb_tv_play4_c53fe118:
 
     # debbie "Just like that."
-    debbie "就像这样。"
+    debbie "就这样。"
 
 # game/src/plot/deb_tv.rpy:1551
 translate zh_hans deb_tv_play4_cf2a8e3e:
@@ -4306,7 +4306,7 @@ translate zh_hans deb_tv_play4_93f84f3f:
 translate zh_hans deb_tv_play4_aad81848:
 
     # debbie e_b f_shy p_couch_rub s_20 "Heh, me!"
-    debbie e_b f_shy p_couch_rub s_20 "嘿，是我！"
+    debbie e_b f_shy p_couch_rub s_20 "呵，是我！"
 
 # game/src/plot/deb_tv.rpy:1557
 translate zh_hans deb_tv_play4_0f1cd944:
@@ -4432,7 +4432,7 @@ translate zh_hans deb_tv_play4_7845dfdf:
 translate zh_hans deb_tv_play4_17deaf0b:
 
     # debbie s_60 @ f_distressed m_open "NGGHHH!!!" with flash
-    debbie s_60 @ f_distressed m_open "嗯啊！！！" with flash
+    debbie s_60 @ f_distressed m_open "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:1602
 translate zh_hans deb_tv_play4_a0689d6d:
@@ -4450,7 +4450,7 @@ translate zh_hans deb_tv_play4_38ae79ca:
 translate zh_hans deb_tv_play4_c3d5fdf1:
 
     # debbie f_shy p_couch_cum -m_open @ -m_talk "NGGHHH!!!" with flash
-    debbie f_shy p_couch_cum -m_open @ -m_talk "嗯嗯嗯！！！" with flash
+    debbie f_shy p_couch_cum -m_open @ -m_talk "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:1606
 translate zh_hans deb_tv_play4_7eb4c3ed:
@@ -4510,7 +4510,7 @@ translate zh_hans deb_tv_play4_c55baf7c:
 translate zh_hans deb_tv_play4_0f9e4a20:
 
     # anon f_distressed m_open od_cumshot p_couch_cum s_400ms @ -m_talk "HNNGGG!!!" with flash
-    anon f_distressed m_open od_cumshot p_couch_cum s_400ms @ -m_talk "嗯嗯嗯！！！" with flash
+    anon f_distressed m_open od_cumshot p_couch_cum s_400ms @ -m_talk "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb_tv.rpy:1623
 translate zh_hans deb_tv_play4_2577ba83:
@@ -4552,13 +4552,13 @@ translate zh_hans deb_tv_play4_3e3948a3:
 translate zh_hans deb_tv_play4_a1f61959:
 
     # anon "Y-yeah, okay."
-    anon "好、好的。"
+    anon "好、好吧。"
 
 # game/src/plot/deb_tv.rpy:1643
 translate zh_hans deb_tv_play4_0686f373:
 
     # debbie "That's my good boy."
-    debbie "这才乖嘛！"
+    debbie "这才乖嘛。"
 
 translate zh_hans strings:
 
@@ -4580,4 +4580,4 @@ translate zh_hans strings:
 
     # game/src/plot/deb_tv.rpy:886
     old "Ask for a hand."
-    new "求助"
+    new "用手帮我"

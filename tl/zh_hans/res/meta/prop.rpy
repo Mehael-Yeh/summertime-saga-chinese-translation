@@ -263,7 +263,7 @@ translate zh_hans strings:
     new "《泌乳与我》"
     # game/res/meta/prop.rpym:114
     old "A very \"in-depth\" guide on how to breed like a bull!"
-    new "一本关于如何像公牛般交配的极为\"深入\"的指南！"
+    new "一本关于如何像公牛般交配的极为“深入”的指南！"
     # game/res/meta/prop.rpym:116
     old "Mon Fromage et Moi!"
     new "Mon Fromage et Moi!（我的奶酪和我！）"
@@ -317,7 +317,7 @@ translate zh_hans strings:
     new "Chola的招数"
     # game/res/meta/prop.rpym:141
     old "A comprehensive guide to eyebrow makeovers, bandanas, piercings, and putting down skank ass hoes."
-    new "一本关于眉毛改造、头巾、穿孔以及收拾骚货的全面指南"
+    new "一本关于眉毛改造、头巾、穿孔以及收拾骚货的全面指南。"
     # game/res/meta/prop.rpym:143
     old "Bug Annihilator"
     new "灭虫歼灭者"
@@ -692,7 +692,7 @@ translate zh_hans strings:
     new "车库钥匙"
     # game/res/meta/prop.rpym:342
     old "\"For internal use only.\" Errrmmm..."
-    new "\"仅供内部使用。\" 呃嗯……"
+    new "“仅供内部使用。” 呃嗯……"
     # game/res/meta/prop.rpym:344
     old "[saga.cast.helen]'s secret key"
     new "[saga.cast.helen]的秘密钥匙"
@@ -1055,7 +1055,7 @@ translate zh_hans strings:
     new "蓝图"
     # game/res/meta/prop.rpym:546
     old "[saga.cast.tori] said these were plans for a \"mind wipe serum\" and to fetch the ingredients!"
-    new "[saga.cast.tori]说这些是\"记忆清除血清\"的计划书，还让我去拿原料！"
+    new "[saga.cast.tori]说这些是“记忆清除血清”的计划书，还让我去拿原料！"
     # game/res/meta/prop.rpym:549
     old "Plans for some mysterious eyewear. [saga.cast.tori] wanted me to fetch them from her office."
     new "某种神秘眼镜的设计图。[saga.cast.tori]让我去她办公室拿来。"
@@ -1286,7 +1286,7 @@ translate zh_hans strings:
     new "夜光肛塞"
     # game/res/meta/prop.rpym:690
     old "A cone-shaped plug for anal insertion that glows in the dark."
-    new "一种锥形的、用于肛门插入的、在黑暗中发光的塞子。"
+    new "一种会在黑暗中发光的锥形肛塞。"
     # game/res/meta/prop.rpym:692
     old "Steel handcuffs"
     new "钢制手铐"
@@ -1310,7 +1310,7 @@ translate zh_hans strings:
     new "电击阴蒂棒轻量版"
     # game/res/meta/prop.rpym:702
     old "A cheaper version of the popular battery-powered vibrating clit stimulator."
-    new "流行的电池供电振动阴蒂刺激器的廉价版。"
+    new "热门电池振动阴蒂刺激器的廉价版。"
     # game/res/meta/prop.rpym:704
     old "Bad Monster"
     new "坏怪物"
@@ -1334,7 +1334,7 @@ translate zh_hans strings:
     new "性爱娃娃“Dirty Harold”"
     # game/res/meta/prop.rpym:714
     old "A strange sex doll of a man with a moustache."
-    new "一个奇怪的留着胡子的男人性爱娃娃。"
+    new "一个奇怪的、留着小胡子的男人性爱娃娃。"
     # game/res/meta/prop.rpym:716
     old "Strap-On \"Crusader\""
     new "穿戴式假阳具“十字军”"
@@ -1343,10 +1343,10 @@ translate zh_hans strings:
     new "一根适合战士挥舞的橡胶阳具。"
     # game/res/meta/prop.rpym:719
     old "Dual Sybian"
-    new "双重Sybian"
+    new "双头赛马鞍"
     # game/res/meta/prop.rpym:720
     old "A double dildo-mounted sybian."
-    new "一个双假阳具型Sybian。"
+    new "一个双假阳具型赛马鞍。"
     # game/res/meta/prop.rpym:722
     old "The Flesh Tube"
     new "肉管"

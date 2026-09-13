@@ -76,7 +76,7 @@ translate zh_hans jos01_yoo_1db21956:
 translate zh_hans jos01_yoo_a5f4912b:
 
     # yoo @ f_curious "Hmm, deriveries you say?"
-    yoo @ f_curious "嗯哼，你说送货？"
+    yoo @ f_curious "嗯，你说送货？"
 
 # game/src/plot/jos01.rpy:40
 translate zh_hans jos01_yoo_1e4ad65a:
@@ -1018,7 +1018,7 @@ translate zh_hans jos01_josie1_d01d0d6e:
 translate zh_hans jos01_josie1_bf788938:
 
     # josie "No."
-    josie "不。"
+    josie "没有。"
 
 # game/src/plot/jos01.rpy:355
 translate zh_hans jos01_josie1_ceb4051f:
@@ -1240,7 +1240,7 @@ translate zh_hans jos01_josie1_f0d22751:
 translate zh_hans jos01_josie1_cb21dfd0:
 
     # anon f_sceptical "You're not going to help me, are you?"
-    anon f_sceptical "你不会帮我，对吧？"
+    anon f_sceptical "你不会帮我的，对吧？"
 
 # game/src/plot/jos01.rpy:414
 translate zh_hans jos01_josie1_86907352:
@@ -1318,7 +1318,7 @@ translate zh_hans jos01_josie1_2588bd70:
 translate zh_hans jos01_josie1_4b11ae88:
 
     # josie a_reach @ -m_talk "WHY HAVE YOU FORSAKEN ME DURING THIS, THE MOST HOLY OF TIMES?!"
-    josie a_reach @ -m_talk "为什么偏偏在一年中最神圣的时刻抛弃我？！"
+    josie a_reach @ -m_talk "为什么偏偏在这最神圣的时刻抛弃我？！"
 
 # game/src/plot/jos01.rpy:432
 translate zh_hans jos01_josie1_94012bf7:
@@ -1336,7 +1336,7 @@ translate zh_hans jos01_josie1_517b92d2:
 translate zh_hans jos01_josie1_d34b7e9c:
 
     # anon f_worried "W-what the-"
-    anon f_worried "什——什么情况——"
+    anon f_worried "什、什么——"
 
 # game/src/plot/jos01.rpy:438
 translate zh_hans jos01_josie1_a4fe808f:
@@ -1696,7 +1696,7 @@ translate zh_hans jos01_yoshi_merge_64f6efd2:
 translate zh_hans jos01_yoshi_merge_3c5d513c:
 
     # anon a_behind_held f_worried "N-no, sir."
-    anon a_behind_held f_worried "没……没有，先生。"
+    anon a_behind_held f_worried "没、没有，先生。"
 
 # game/src/plot/jos01.rpy:570
 translate zh_hans jos01_yoshi_merge_91e90a11:
@@ -1720,7 +1720,7 @@ translate zh_hans jos01_yoshi_merge_c85412fa:
 translate zh_hans jos01_yoshi_merge_c6f81c23:
 
     # anon a_side "Gotcha."
-    anon a_side "明白了。"
+    anon a_side "懂了。"
 
 # game/src/plot/jos01.rpy:574
 translate zh_hans jos01_yoshi_merge_c86a8890:
@@ -1786,7 +1786,7 @@ translate zh_hans jos01_yoshi_josie_a48d1302:
 translate zh_hans jos01_yoshi_josie_c51c0712:
 
     # josie f_bored "Grr, don't yell at me!"
-    josie f_bored "唔，别冲我吼！"
+    josie f_bored "啧，别冲我吼！"
 
 # game/src/plot/jos01.rpy:608
 translate zh_hans jos01_yoshi_josie_40210a25:
@@ -1942,7 +1942,7 @@ translate zh_hans jos01_josie2_769092e4:
 translate zh_hans jos01_josie2_5df71b25:
 
     # anon f_calm "I really need this for my-"
-    anon f_calm "我送外卖真的很需要——"
+    anon f_calm "我真的需要它来——"
 
 # game/src/plot/jos01.rpy:690
 translate zh_hans jos01_josie2_02ee07c1:
@@ -2080,7 +2080,7 @@ translate zh_hans jos01_josie2_984fce78:
 translate zh_hans jos01_josie2_e93c7a60:
 
     # anon a_side "O-okay."
-    anon a_side "好……好吧。"
+    anon a_side "好、好吧。"
 
 # game/src/plot/jos01.rpy:747
 translate zh_hans jos01_josie2_653d269e:
