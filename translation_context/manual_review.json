@@ -9599,7 +9599,7 @@
           },
           {
             "path": "tl/zh_hans/extracted/jenny_diary.rpy",
-            "sha256": "8c141a9e2061f74857e34abc7d985fc187db4ccee916f0cda3199c7d3de0542d"
+            "sha256": "f4d34c3cf982ea443d7678d55751ebd8c04849c135d5c8212b9bd0cff04082b4"
           },
           {
             "path": "tl/zh_hans/extracted/lewd.rpy",
@@ -114040,7 +114040,7 @@
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "25ca271300fb51307c62955e991089f3db015c26317e7c87ff81ffd5a10215b2",
+        "translation_sha256": "3c8e21aff3c627f156f70f5b61b936e0cb4a9d69f2812190783305e44a7cdb16",
         "source_sha256": "925de2f3b37b354bfe49311452ac157cc1dccac692e7ffcde5e2ccc3660145a7",
         "source": "game/src/plot/jen14.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen14.rpy",
@@ -114510,7 +114510,7 @@
           {
             "id": "jen14_dining_e994450d",
             "line": 634,
-            "pair_sha256": "f736a5797ca4122199d5cc0a6b90ec4f01fe7b7a45866b4c7704f2c1c56945be"
+            "pair_sha256": "fb13e0e6bb2cbf3f26ddd81c1f57f008174c45a1593a1666a4caa0263712062e"
           },
           {
             "id": "jen14_dining_7fe6a8f9",
@@ -114525,7 +114525,7 @@
           {
             "id": "jen14_dining_6984c4e0",
             "line": 654,
-            "pair_sha256": "cb122666d8e2d3ab03464c412616277e70c883796bebf5a9a6ccfe429fcc7d97"
+            "pair_sha256": "8efa7be8771c6b8e54b7dabeefedac876b907e8fa4dcb49ec24206e8676e3354"
           },
           {
             "id": "jen14_dining_28eca510",
@@ -114545,7 +114545,7 @@
           {
             "id": "jen14_dining_29cb1f41",
             "line": 681,
-            "pair_sha256": "5a64ad8c52772553a36077af0439f36f1e4cca8a7eeed73c8ad89f0272005128"
+            "pair_sha256": "f12e1181e7803b7e0b2e4b09bf5a193bf4226326c96a536b7b36993c2747fe39"
           },
           {
             "id": "jen14_dining_926f7258",
@@ -114565,12 +114565,12 @@
           {
             "id": "jen14_dining_ef4c9351",
             "line": 707,
-            "pair_sha256": "ca3b5e6691d107b629cf6baa62ff537dac44e6e10c68cbee01ea84a8c808a112"
+            "pair_sha256": "8d455ad3b030ceb8968c60233ad0d8bc24b548e504e28f1152a64f441d924c15"
           },
           {
             "id": "jen14_dining_60e6cb06",
             "line": 714,
-            "pair_sha256": "0f3a2534a5e03213f2c861f9c9a744c67b6a6fe036029fa1ac71b45402d0f4a5"
+            "pair_sha256": "86b14f255aefb178f921caceba13bdacbf3f76ee911e81460d279997c04fdadf"
           },
           {
             "id": "jen14_dining_323b4a2e",
@@ -114735,7 +114735,7 @@
           {
             "id": "jen14_dining_alt_a1883da3",
             "line": 928,
-            "pair_sha256": "cfd6685cc7eb1e2e238dec32b135eed0068f127ca8037b7250c1d738b20c2b76"
+            "pair_sha256": "ac3753c14e0f84d891a982d68c83b639269bb9ccfe8f5d5aab0e4158c745620d"
           },
           {
             "id": "jen14_dining_debbie_41a5a0d1",
@@ -115790,7 +115790,9 @@
               {
                 "id": "jen14_dining_e994450d",
                 "line": 634,
-                "pair_sha256": "f736a5797ca4122199d5cc0a6b90ec4f01fe7b7a45866b4c7704f2c1c56945be"
+                "pair_sha256": "fb13e0e6bb2cbf3f26ddd81c1f57f008174c45a1593a1666a4caa0263712062e",
+                "previous_read_pair_sha256": "f736a5797ca4122199d5cc0a6b90ec4f01fe7b7a45866b4c7704f2c1c56945be",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen14_dining_7fe6a8f9",
@@ -115805,7 +115807,9 @@
               {
                 "id": "jen14_dining_6984c4e0",
                 "line": 654,
-                "pair_sha256": "cb122666d8e2d3ab03464c412616277e70c883796bebf5a9a6ccfe429fcc7d97"
+                "pair_sha256": "8efa7be8771c6b8e54b7dabeefedac876b907e8fa4dcb49ec24206e8676e3354",
+                "previous_read_pair_sha256": "cb122666d8e2d3ab03464c412616277e70c883796bebf5a9a6ccfe429fcc7d97",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen14_dining_28eca510",
@@ -115825,7 +115829,9 @@
               {
                 "id": "jen14_dining_29cb1f41",
                 "line": 681,
-                "pair_sha256": "5a64ad8c52772553a36077af0439f36f1e4cca8a7eeed73c8ad89f0272005128"
+                "pair_sha256": "f12e1181e7803b7e0b2e4b09bf5a193bf4226326c96a536b7b36993c2747fe39",
+                "previous_read_pair_sha256": "5a64ad8c52772553a36077af0439f36f1e4cca8a7eeed73c8ad89f0272005128",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen14_dining_926f7258",
@@ -115845,12 +115851,16 @@
               {
                 "id": "jen14_dining_ef4c9351",
                 "line": 707,
-                "pair_sha256": "ca3b5e6691d107b629cf6baa62ff537dac44e6e10c68cbee01ea84a8c808a112"
+                "pair_sha256": "8d455ad3b030ceb8968c60233ad0d8bc24b548e504e28f1152a64f441d924c15",
+                "previous_read_pair_sha256": "ca3b5e6691d107b629cf6baa62ff537dac44e6e10c68cbee01ea84a8c808a112",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen14_dining_60e6cb06",
                 "line": 714,
-                "pair_sha256": "0f3a2534a5e03213f2c861f9c9a744c67b6a6fe036029fa1ac71b45402d0f4a5"
+                "pair_sha256": "86b14f255aefb178f921caceba13bdacbf3f76ee911e81460d279997c04fdadf",
+                "previous_read_pair_sha256": "0f3a2534a5e03213f2c861f9c9a744c67b6a6fe036029fa1ac71b45402d0f4a5",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen14_dining_323b4a2e",
@@ -116015,7 +116025,9 @@
               {
                 "id": "jen14_dining_alt_a1883da3",
                 "line": 928,
-                "pair_sha256": "cfd6685cc7eb1e2e238dec32b135eed0068f127ca8037b7250c1d738b20c2b76"
+                "pair_sha256": "ac3753c14e0f84d891a982d68c83b639269bb9ccfe8f5d5aab0e4158c745620d",
+                "previous_read_pair_sha256": "cfd6685cc7eb1e2e238dec32b135eed0068f127ca8037b7250c1d738b20c2b76",
+                "followup_status": "corrected_and_context_reread"
               }
             ],
             "source_evidence": {
@@ -116709,7 +116721,7 @@
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "b3e057ed1de8612133936f635675260576146059380dc754a1961b1cf8f390f9",
+        "translation_sha256": "abb082e27d398117db26c577bfcc7e366c5f714170585c3135af87e365c823d2",
         "source_sha256": "a586c4a9d46d37d7c2bbb6eaceb69e711f0193d097f57a911056de60646b4e55",
         "source": "game/src/plot/jen16.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen16.rpy",
@@ -117049,7 +117061,7 @@
           {
             "id": "jen16_scope_alt_535cfc18",
             "line": 391,
-            "pair_sha256": "e1639651b65a5b734bdd695429961e782a733f6b1266810ebfef90b5f34bb35d"
+            "pair_sha256": "8af1a40ce40ddf54d1d7a763fbd808f1753115df048919adfa40451c3314d82a"
           },
           {
             "id": "jen16_scope_alt_79ec0a65",
@@ -117139,7 +117151,7 @@
           {
             "id": "jen16_scope_alt_cce0b53a",
             "line": 499,
-            "pair_sha256": "4c25370b0f28bed35ef3fc30093cf7e468ee8ad70571c81aa084bd6cfde2885b"
+            "pair_sha256": "87e541efa8424a0ff898445e7b9c25ca25556f8377ca7c1f1f69adbf00da31c4"
           },
           {
             "id": "jen16_scope_alt_72f54e6c",
@@ -117154,7 +117166,7 @@
           {
             "id": "jen16_scope_alt_e4dc0e74",
             "line": 517,
-            "pair_sha256": "e5d77c6195fe0f0e012483de6719223b6fbbae231b5defe744d87a0f1a6fe8a6"
+            "pair_sha256": "2f81859e8e140aeef5bb6f787018f69532ccf2732a149c472438877f77d32b94"
           },
           {
             "id": "jen16_scope_alt_07311747",
@@ -117244,7 +117256,7 @@
           {
             "id": "jen16_scope_alt_b1893ed4",
             "line": 625,
-            "pair_sha256": "ce7f36ae2e076c032e4fbb33aa91e0cef04d3228b5f7ee33d8dc950c9d24ccde"
+            "pair_sha256": "5caf3a213d63e7b06c9bc63c331393c69d892667f18ba5eb496a320237badc09"
           },
           {
             "id": "jen16_scope_alt_bfdc8475",
@@ -117539,7 +117551,7 @@
           {
             "id": "jen16_jenny_f6b0e5e2",
             "line": 979,
-            "pair_sha256": "d6862eaa0718c4d5ce0f125afd81ea2708b353d38b3cd0c07f9b84e8ed8f11eb"
+            "pair_sha256": "fa3ebb2a0b108c725dddda85344f89d53629a349abae876c5bc98fe2660d7bb5"
           },
           {
             "id": "jen16_jenny_567f421f",
@@ -118481,7 +118493,9 @@
               {
                 "id": "jen16_scope_alt_535cfc18",
                 "line": 391,
-                "pair_sha256": "e1639651b65a5b734bdd695429961e782a733f6b1266810ebfef90b5f34bb35d"
+                "pair_sha256": "8af1a40ce40ddf54d1d7a763fbd808f1753115df048919adfa40451c3314d82a",
+                "previous_read_pair_sha256": "e1639651b65a5b734bdd695429961e782a733f6b1266810ebfef90b5f34bb35d",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen16_scope_alt_79ec0a65",
@@ -118571,7 +118585,9 @@
               {
                 "id": "jen16_scope_alt_cce0b53a",
                 "line": 499,
-                "pair_sha256": "4c25370b0f28bed35ef3fc30093cf7e468ee8ad70571c81aa084bd6cfde2885b"
+                "pair_sha256": "87e541efa8424a0ff898445e7b9c25ca25556f8377ca7c1f1f69adbf00da31c4",
+                "previous_read_pair_sha256": "4c25370b0f28bed35ef3fc30093cf7e468ee8ad70571c81aa084bd6cfde2885b",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen16_scope_alt_72f54e6c",
@@ -118586,7 +118602,9 @@
               {
                 "id": "jen16_scope_alt_e4dc0e74",
                 "line": 517,
-                "pair_sha256": "e5d77c6195fe0f0e012483de6719223b6fbbae231b5defe744d87a0f1a6fe8a6"
+                "pair_sha256": "2f81859e8e140aeef5bb6f787018f69532ccf2732a149c472438877f77d32b94",
+                "previous_read_pair_sha256": "e5d77c6195fe0f0e012483de6719223b6fbbae231b5defe744d87a0f1a6fe8a6",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen16_scope_alt_07311747",
@@ -118676,7 +118694,9 @@
               {
                 "id": "jen16_scope_alt_b1893ed4",
                 "line": 625,
-                "pair_sha256": "ce7f36ae2e076c032e4fbb33aa91e0cef04d3228b5f7ee33d8dc950c9d24ccde"
+                "pair_sha256": "5caf3a213d63e7b06c9bc63c331393c69d892667f18ba5eb496a320237badc09",
+                "previous_read_pair_sha256": "ce7f36ae2e076c032e4fbb33aa91e0cef04d3228b5f7ee33d8dc950c9d24ccde",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen16_scope_alt_bfdc8475",
@@ -119021,7 +119041,9 @@
               {
                 "id": "jen16_jenny_f6b0e5e2",
                 "line": 979,
-                "pair_sha256": "d6862eaa0718c4d5ce0f125afd81ea2708b353d38b3cd0c07f9b84e8ed8f11eb"
+                "pair_sha256": "fa3ebb2a0b108c725dddda85344f89d53629a349abae876c5bc98fe2660d7bb5",
+                "previous_read_pair_sha256": "d6862eaa0718c4d5ce0f125afd81ea2708b353d38b3cd0c07f9b84e8ed8f11eb",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen16_jenny_567f421f",
@@ -122424,7 +122446,7 @@
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "70c5573c358a0f14b98dbe2756de9feacf9cdbb13e775d2ff2f6c7493328d8ab",
+        "translation_sha256": "4202662f6b25c42ff50622fc592e0f4852b6c6cb85d69f38769f5f5f0518a4ba",
         "source_sha256": "ae84022edc0a95543d7393cc236198499e6bd38e5101373064d9dcbec08c5239",
         "source": "game/src/plot/jen18.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen18.rpy",
@@ -122675,7 +122697,7 @@
           {
             "id": "jen18_jenny_merge_1038c21f",
             "line": 283,
-            "pair_sha256": "436e96075eb3984b3b5ecce73abc041142e47a307f259effd43649baa647463d"
+            "pair_sha256": "9c8c1a820c2e6e73e6a61870dd5cc8c07f2eaf3a11df1333160c63d25ec71e2a"
           },
           {
             "id": "jen18_jenny_merge_beee8166",
@@ -122925,7 +122947,7 @@
           {
             "id": "jen18_jenny_reuse_dc4f70d4",
             "line": 583,
-            "pair_sha256": "f9092286c3dc7db9164690be52fed81d4d3bc5d3989ccc7e831ad544fcd690e6"
+            "pair_sha256": "d60950a22340289ccf249bb043c7dfa40aaf54983427a758b8a45aff0c5a94ba"
           },
           {
             "id": "jen18_jenny_reuse_64e65045",
@@ -123080,7 +123102,7 @@
           {
             "id": "jen18_jenny_reuse_fa672603",
             "line": 769,
-            "pair_sha256": "89354bbc1e6e36be1034ac2ce677762d6b6a853bc6e43388d59806c89e4e97a9"
+            "pair_sha256": "def585e436ff63c7181a47a73b270c3844394c0d7b0206222442587f9f162920"
           },
           {
             "id": "jen18_jenny_plan_0a4cd1df",
@@ -123601,7 +123623,9 @@
               {
                 "id": "jen18_jenny_merge_1038c21f",
                 "line": 283,
-                "pair_sha256": "436e96075eb3984b3b5ecce73abc041142e47a307f259effd43649baa647463d"
+                "pair_sha256": "9c8c1a820c2e6e73e6a61870dd5cc8c07f2eaf3a11df1333160c63d25ec71e2a",
+                "previous_read_pair_sha256": "436e96075eb3984b3b5ecce73abc041142e47a307f259effd43649baa647463d",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen18_jenny_merge_beee8166",
@@ -123851,7 +123875,9 @@
               {
                 "id": "jen18_jenny_reuse_dc4f70d4",
                 "line": 583,
-                "pair_sha256": "f9092286c3dc7db9164690be52fed81d4d3bc5d3989ccc7e831ad544fcd690e6"
+                "pair_sha256": "d60950a22340289ccf249bb043c7dfa40aaf54983427a758b8a45aff0c5a94ba",
+                "previous_read_pair_sha256": "f9092286c3dc7db9164690be52fed81d4d3bc5d3989ccc7e831ad544fcd690e6",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen18_jenny_reuse_64e65045",
@@ -124006,7 +124032,9 @@
               {
                 "id": "jen18_jenny_reuse_fa672603",
                 "line": 769,
-                "pair_sha256": "89354bbc1e6e36be1034ac2ce677762d6b6a853bc6e43388d59806c89e4e97a9"
+                "pair_sha256": "def585e436ff63c7181a47a73b270c3844394c0d7b0206222442587f9f162920",
+                "previous_read_pair_sha256": "89354bbc1e6e36be1034ac2ce677762d6b6a853bc6e43388d59806c89e4e97a9",
+                "followup_status": "corrected_and_context_reread"
               }
             ],
             "source_evidence": {
@@ -124339,7 +124367,7 @@
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "08e477411cbe5f4c0da9449463ca7d2a7de5572936a2b7fa166d32dd9e8a360f",
+        "translation_sha256": "434256b0d9250b34f6a212e70d91e0bd19b409c90f041cbdfac9183645029983",
         "source_sha256": "ec7626b8741dede485e1656d80bce5a275dc669dffee94cc85361559b770cab8",
         "source": "game/src/plot/jen19.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen19.rpy",
@@ -124474,7 +124502,7 @@
           {
             "id": "jen19_jenny_92ca4008",
             "line": 145,
-            "pair_sha256": "6f9e95acd65388292e2194b6d8375c45b5473c23a483084f8750c93796c35aa7"
+            "pair_sha256": "611aea821c0f8fcf2df4b84dc305c5875b28ba6a248c42ea8a417635d426bcca"
           },
           {
             "id": "jen19_jenny_eb991069",
@@ -124504,12 +124532,12 @@
           {
             "id": "jen19_jenny_64a55625",
             "line": 181,
-            "pair_sha256": "277bdbd238d346df8877f4e4a7574eaae0675c3ba33081000dd940923760e894"
+            "pair_sha256": "e545676b8e27fafcc738ced1e0c852375be63228be5c8648db22bf700a4852db"
           },
           {
             "id": "jen19_jenny_60fa054b",
             "line": 187,
-            "pair_sha256": "b3f2993b133b8947c557242a4f8b94090f69f174beb4844b43ea79cbab79e214"
+            "pair_sha256": "a41aef5740aa26e36c217aeb4caa34ff0f6c070caf30df2ddbbf9f7773c3c3a6"
           },
           {
             "id": "jen19_jenny_eb780b0f",
@@ -124529,7 +124557,7 @@
           {
             "id": "jen19_jenny_61a92969",
             "line": 211,
-            "pair_sha256": "10958675d5a97bc25c6be0415eb5ea34596243ea8ccdbdc7d7d5eb64ac89b642"
+            "pair_sha256": "febfe6ce78b02b2c2efe37fcd1280ea51c2d373732e9465a42128d5c5d20a792"
           },
           {
             "id": "jen19_jenny_e266bab5",
@@ -124781,7 +124809,9 @@
               {
                 "id": "jen19_jenny_92ca4008",
                 "line": 145,
-                "pair_sha256": "6f9e95acd65388292e2194b6d8375c45b5473c23a483084f8750c93796c35aa7"
+                "pair_sha256": "611aea821c0f8fcf2df4b84dc305c5875b28ba6a248c42ea8a417635d426bcca",
+                "previous_read_pair_sha256": "6f9e95acd65388292e2194b6d8375c45b5473c23a483084f8750c93796c35aa7",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen19_jenny_eb991069",
@@ -124811,12 +124841,16 @@
               {
                 "id": "jen19_jenny_64a55625",
                 "line": 181,
-                "pair_sha256": "277bdbd238d346df8877f4e4a7574eaae0675c3ba33081000dd940923760e894"
+                "pair_sha256": "e545676b8e27fafcc738ced1e0c852375be63228be5c8648db22bf700a4852db",
+                "previous_read_pair_sha256": "277bdbd238d346df8877f4e4a7574eaae0675c3ba33081000dd940923760e894",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen19_jenny_60fa054b",
                 "line": 187,
-                "pair_sha256": "b3f2993b133b8947c557242a4f8b94090f69f174beb4844b43ea79cbab79e214"
+                "pair_sha256": "a41aef5740aa26e36c217aeb4caa34ff0f6c070caf30df2ddbbf9f7773c3c3a6",
+                "previous_read_pair_sha256": "b3f2993b133b8947c557242a4f8b94090f69f174beb4844b43ea79cbab79e214",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen19_jenny_eb780b0f",
@@ -124836,7 +124870,9 @@
               {
                 "id": "jen19_jenny_61a92969",
                 "line": 211,
-                "pair_sha256": "10958675d5a97bc25c6be0415eb5ea34596243ea8ccdbdc7d7d5eb64ac89b642"
+                "pair_sha256": "febfe6ce78b02b2c2efe37fcd1280ea51c2d373732e9465a42128d5c5d20a792",
+                "previous_read_pair_sha256": "10958675d5a97bc25c6be0415eb5ea34596243ea8ccdbdc7d7d5eb64ac89b642",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen19_jenny_e266bab5",
@@ -124968,7 +125004,7 @@
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "ad9a1ed59464e26d1935bd0e478cad0bf58f6ead4dd888484018b66850fba4db",
+        "translation_sha256": "5b7326eddb72d43675f7d746eaa282396a9d97b59e53579a7e06f237692036a6",
         "source_sha256": "3891ad1da2925cad28fe3dd8d52367985ece533a0f6c8fd2c7963a2483e1dd55",
         "source": "game/src/plot/jen20.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen20.rpy",
@@ -125233,7 +125269,7 @@
           {
             "id": "jen20_jenny_reuse_2b690856",
             "line": 301,
-            "pair_sha256": "b1ed4abc9fd5563a6afff7252f70f624edeb072565d2b7be0c7a73f017e52036"
+            "pair_sha256": "77c8f02aafbfd67e0dc050356b080963f6d3478b8294301b12e5928d9c745d43"
           },
           {
             "id": "jen20_jenny_reuse_f6dc590f",
@@ -125248,7 +125284,7 @@
           {
             "id": "jen20_jenny_reuse_deaa0f2e",
             "line": 319,
-            "pair_sha256": "1238186a1982e03750b6a797c0836a80801b9d9194836360a113e754f982eb51"
+            "pair_sha256": "4463536ea5fe14a50e797045c6127c242a09113dff996477f0c5529f560f90d6"
           },
           {
             "id": "jen20_jenny_reuse_21fa48a6",
@@ -125348,7 +125384,7 @@
           {
             "id": "jen20_jenny_rails_ff334106",
             "line": 439,
-            "pair_sha256": "a622734180a789981e2ec8ed36ef98756cc2078c7ab324307dce3ae39989cb7d"
+            "pair_sha256": "81047156328552dd6f13275d86f0be20b955fcfa08633ee7d8ad04a15076f122"
           }
         ],
         "note": "全文中文按本地场景和分支连读，未修改译文。jen_tv与jen20_jenny.reuse共用结尾、debbie_tv.jenny入口已接通。jen20源112吵醒母亲为无本地条件对白，与源79条件提醒不同，须后续核实外部触发；保留源文，不擅加分支。外部事件及mini.womb仍待核实。",
@@ -125631,7 +125667,9 @@
               {
                 "id": "jen20_jenny_reuse_2b690856",
                 "line": 301,
-                "pair_sha256": "b1ed4abc9fd5563a6afff7252f70f624edeb072565d2b7be0c7a73f017e52036"
+                "pair_sha256": "77c8f02aafbfd67e0dc050356b080963f6d3478b8294301b12e5928d9c745d43",
+                "previous_read_pair_sha256": "b1ed4abc9fd5563a6afff7252f70f624edeb072565d2b7be0c7a73f017e52036",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen20_jenny_reuse_f6dc590f",
@@ -125646,7 +125684,9 @@
               {
                 "id": "jen20_jenny_reuse_deaa0f2e",
                 "line": 319,
-                "pair_sha256": "1238186a1982e03750b6a797c0836a80801b9d9194836360a113e754f982eb51"
+                "pair_sha256": "4463536ea5fe14a50e797045c6127c242a09113dff996477f0c5529f560f90d6",
+                "previous_read_pair_sha256": "1238186a1982e03750b6a797c0836a80801b9d9194836360a113e754f982eb51",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen20_jenny_reuse_21fa48a6",
@@ -125746,7 +125786,9 @@
               {
                 "id": "jen20_jenny_rails_ff334106",
                 "line": 439,
-                "pair_sha256": "a622734180a789981e2ec8ed36ef98756cc2078c7ab324307dce3ae39989cb7d"
+                "pair_sha256": "81047156328552dd6f13275d86f0be20b955fcfa08633ee7d8ad04a15076f122",
+                "previous_read_pair_sha256": "a622734180a789981e2ec8ed36ef98756cc2078c7ab324307dce3ae39989cb7d",
+                "followup_status": "corrected_and_context_reread"
               }
             ],
             "source_evidence": {
@@ -125764,7 +125806,7 @@
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "f8184ddee029f6ab9f1ca7aceb416337afcd536050a768c69dc9b08dd56a8ce7",
+        "translation_sha256": "2cb0fc2d4b37cf472779e500bc7e58fa73caceb96c3999f7219a9d9955ec078c",
         "source_sha256": "811a1069a95820724790e3809c3f5fc7d502b5049e87a341441d727213444fec",
         "source": "game/src/plot/jen21.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen21.rpy",
@@ -125905,7 +125947,7 @@
           {
             "id": "jen21_delay_jenny_680eff1e",
             "line": 151,
-            "pair_sha256": "ff5f339f4b0973e3a4a02fdec6c14094198103ede0b133ccf401d0637f3de6a3"
+            "pair_sha256": "ab9788a6ef46f046a4604045c5305a54dbcf628cd6fd55682c57ed32233e7be6"
           },
           {
             "id": "jen21_jenny_e6abf4e1",
@@ -126300,7 +126342,7 @@
           {
             "id": "jen21_jenny_merge_7e9f0633",
             "line": 625,
-            "pair_sha256": "2e55628aee4dbd08121de3ef40403e5ef074cb5a6afbb3cf2bdcd70e3f65602d"
+            "pair_sha256": "89964ef40af9725dcb5372093b6a5c10d37e9aaccae3b13b1b24e76009cc1f8d"
           },
           {
             "id": "jen21_jenny_merge_214ff0c7",
@@ -126430,7 +126472,7 @@
           {
             "id": "jen21_jenny_reuse_e35bd11d",
             "line": 781,
-            "pair_sha256": "37b3140d308b8ab90df6f15b63f9eafac6aa5f25404d39e0843cf5875ef18291"
+            "pair_sha256": "e2820b13f32f596a39a017397f14a647cfce90a66d45693ee560536271928a92"
           },
           {
             "id": "jen21_jenny_reuse_c1db156f",
@@ -126460,7 +126502,7 @@
           {
             "id": "jen21_jenny_reuse_667c86ef",
             "line": 817,
-            "pair_sha256": "af8b39d8589480825b64ceb0ea286cd7c09001ce64b6aec7e5bf0c4865886679"
+            "pair_sha256": "843d2384eb3aaba5c61e140967e5820eecbafd3112f83c071e7f845688ddbcb0"
           },
           {
             "id": "jen21_jenny_reuse_e00a88ec",
@@ -126470,12 +126512,12 @@
           {
             "id": "jen21_jenny_reuse_97b3bea9",
             "line": 829,
-            "pair_sha256": "36b015f50df7fd8926380b78e8698384653b1ce1603aab00e55b3cdb0974b230"
+            "pair_sha256": "c2f9a55ca236714f259f01abdc7e5268fd96e5658ea992d8e035b63f671513ee"
           },
           {
             "id": "jen21_jenny_reuse_bf23a7b6",
             "line": 835,
-            "pair_sha256": "244e4eae6291ea25232dc1b6db29b599c1dec0cb40caf25e82be91db3733ab19"
+            "pair_sha256": "0485b3fc4cdb4d58dc199d6e134a1399730a47fceb9ba5808cc6fa501056eae4"
           },
           {
             "id": "jen21_jenny_reuse_b4e33e67",
@@ -126490,7 +126532,7 @@
           {
             "id": "jen21_jenny_reuse_22e2395b",
             "line": 853,
-            "pair_sha256": "74bd0b0a571fe28e3c26ed9f256dfdc3448553db783fdc84a769ae42f797df19"
+            "pair_sha256": "7f0e31bb605ca996b0fba236efcee12cb6ec4242d580700e5f95f30558f3ac5a"
           },
           {
             "id": "jen21_jenny_reuse_b3d72a07",
@@ -126585,7 +126627,7 @@
           {
             "id": "jen21_jenny_reuse_3f515f27",
             "line": 967,
-            "pair_sha256": "0728ba3013937188458e63ee2dd1ff6a6fbb579ae86a5afc1270065b9a61a5b7"
+            "pair_sha256": "58ae24fabe75386c410a0ec3dc52238f9b2846103c9ac1bcee64ecbb92f325fb"
           },
           {
             "id": "jen21_jenny_reuse_1e52a2eb",
@@ -126625,7 +126667,7 @@
           {
             "id": "jen21_retry_b2742076",
             "line": 1015,
-            "pair_sha256": "3eea905661c1682b6e8d13b6cd06e809c6510df3291b12ddadcc96b79c21a1f1"
+            "pair_sha256": "a66fee65e4b5dc49a2f3dd63febb02de9db6e03f646a7cc84bc4f7afed1fb67c"
           },
           {
             "id": "jen21_retry_70575041",
@@ -126776,7 +126818,9 @@
               {
                 "id": "jen21_delay_jenny_680eff1e",
                 "line": 151,
-                "pair_sha256": "ff5f339f4b0973e3a4a02fdec6c14094198103ede0b133ccf401d0637f3de6a3"
+                "pair_sha256": "ab9788a6ef46f046a4604045c5305a54dbcf628cd6fd55682c57ed32233e7be6",
+                "previous_read_pair_sha256": "ff5f339f4b0973e3a4a02fdec6c14094198103ede0b133ccf401d0637f3de6a3",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen21_jenny_e6abf4e1",
@@ -127186,7 +127230,9 @@
               {
                 "id": "jen21_jenny_merge_7e9f0633",
                 "line": 625,
-                "pair_sha256": "2e55628aee4dbd08121de3ef40403e5ef074cb5a6afbb3cf2bdcd70e3f65602d"
+                "pair_sha256": "89964ef40af9725dcb5372093b6a5c10d37e9aaccae3b13b1b24e76009cc1f8d",
+                "previous_read_pair_sha256": "2e55628aee4dbd08121de3ef40403e5ef074cb5a6afbb3cf2bdcd70e3f65602d",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen21_jenny_merge_214ff0c7",
@@ -127316,7 +127362,9 @@
               {
                 "id": "jen21_jenny_reuse_e35bd11d",
                 "line": 781,
-                "pair_sha256": "37b3140d308b8ab90df6f15b63f9eafac6aa5f25404d39e0843cf5875ef18291"
+                "pair_sha256": "e2820b13f32f596a39a017397f14a647cfce90a66d45693ee560536271928a92",
+                "previous_read_pair_sha256": "37b3140d308b8ab90df6f15b63f9eafac6aa5f25404d39e0843cf5875ef18291",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen21_jenny_reuse_c1db156f",
@@ -127346,7 +127394,9 @@
               {
                 "id": "jen21_jenny_reuse_667c86ef",
                 "line": 817,
-                "pair_sha256": "af8b39d8589480825b64ceb0ea286cd7c09001ce64b6aec7e5bf0c4865886679"
+                "pair_sha256": "843d2384eb3aaba5c61e140967e5820eecbafd3112f83c071e7f845688ddbcb0",
+                "previous_read_pair_sha256": "af8b39d8589480825b64ceb0ea286cd7c09001ce64b6aec7e5bf0c4865886679",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen21_jenny_reuse_e00a88ec",
@@ -127356,12 +127406,16 @@
               {
                 "id": "jen21_jenny_reuse_97b3bea9",
                 "line": 829,
-                "pair_sha256": "36b015f50df7fd8926380b78e8698384653b1ce1603aab00e55b3cdb0974b230"
+                "pair_sha256": "c2f9a55ca236714f259f01abdc7e5268fd96e5658ea992d8e035b63f671513ee",
+                "previous_read_pair_sha256": "36b015f50df7fd8926380b78e8698384653b1ce1603aab00e55b3cdb0974b230",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen21_jenny_reuse_bf23a7b6",
                 "line": 835,
-                "pair_sha256": "244e4eae6291ea25232dc1b6db29b599c1dec0cb40caf25e82be91db3733ab19"
+                "pair_sha256": "0485b3fc4cdb4d58dc199d6e134a1399730a47fceb9ba5808cc6fa501056eae4",
+                "previous_read_pair_sha256": "244e4eae6291ea25232dc1b6db29b599c1dec0cb40caf25e82be91db3733ab19",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen21_jenny_reuse_b4e33e67",
@@ -127376,7 +127430,9 @@
               {
                 "id": "jen21_jenny_reuse_22e2395b",
                 "line": 853,
-                "pair_sha256": "74bd0b0a571fe28e3c26ed9f256dfdc3448553db783fdc84a769ae42f797df19"
+                "pair_sha256": "7f0e31bb605ca996b0fba236efcee12cb6ec4242d580700e5f95f30558f3ac5a",
+                "previous_read_pair_sha256": "74bd0b0a571fe28e3c26ed9f256dfdc3448553db783fdc84a769ae42f797df19",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen21_jenny_reuse_b3d72a07",
@@ -127471,7 +127527,9 @@
               {
                 "id": "jen21_jenny_reuse_3f515f27",
                 "line": 967,
-                "pair_sha256": "0728ba3013937188458e63ee2dd1ff6a6fbb579ae86a5afc1270065b9a61a5b7"
+                "pair_sha256": "58ae24fabe75386c410a0ec3dc52238f9b2846103c9ac1bcee64ecbb92f325fb",
+                "previous_read_pair_sha256": "0728ba3013937188458e63ee2dd1ff6a6fbb579ae86a5afc1270065b9a61a5b7",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen21_jenny_reuse_1e52a2eb",
@@ -127511,7 +127569,9 @@
               {
                 "id": "jen21_retry_b2742076",
                 "line": 1015,
-                "pair_sha256": "3eea905661c1682b6e8d13b6cd06e809c6510df3291b12ddadcc96b79c21a1f1"
+                "pair_sha256": "a66fee65e4b5dc49a2f3dd63febb02de9db6e03f646a7cc84bc4f7afed1fb67c",
+                "previous_read_pair_sha256": "3eea905661c1682b6e8d13b6cd06e809c6510df3291b12ddadcc96b79c21a1f1",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen21_retry_70575041",
@@ -127548,7 +127608,7 @@
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "c54f717bd7aeed1dcf56b43a12064be59b7d4404900ee35dd70887e9f04d0a59",
+        "translation_sha256": "b648974a0961331569aa335047050dbebe4f144ff1ee92b8aafdb47480b07558",
         "source_sha256": "dc07bf7164e86b04146331cb64ff4ad2ca4f10f0d1b21783954c81b6e1700a33",
         "source": "game/src/plot/jen22.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen22.rpy",
@@ -127678,7 +127738,7 @@
           {
             "id": "jen22_jenny_b132c311",
             "line": 139,
-            "pair_sha256": "b5b4ab7d94dc94fdbfad09e25d4e67d0c66bfabe60d2a5dab6de5dceda6c3138"
+            "pair_sha256": "9dcb36bd1f9be8f865bbd8ee70b05c0a5ccef408dd08930c882a0be1bc022515"
           },
           {
             "id": "jen22_jenny_e13c7b30",
@@ -127783,12 +127843,12 @@
           {
             "id": "jen22_jenny_354990d7",
             "line": 265,
-            "pair_sha256": "3039c3c67f3888245c8898a968b7edef5d17eef029a0dcc0a879a7342f8ab270"
+            "pair_sha256": "4bd615b3a55e50479a2494a447fa4367a5a51f1cfd51b16fde420206317f7390"
           },
           {
             "id": "jen22_jenny_9ba4c493",
             "line": 271,
-            "pair_sha256": "be2a9d4488a5346248f3deee9c0c911af72a31645c92b0d5c33474e75bf0bd17"
+            "pair_sha256": "cbaa6a46b19e81ce6deb61a16f222d502ddc8ef57f065e5d74ba6744a00ba827"
           },
           {
             "id": "jen22_jenny_1497e23d",
@@ -127984,7 +128044,9 @@
               {
                 "id": "jen22_jenny_b132c311",
                 "line": 139,
-                "pair_sha256": "b5b4ab7d94dc94fdbfad09e25d4e67d0c66bfabe60d2a5dab6de5dceda6c3138"
+                "pair_sha256": "9dcb36bd1f9be8f865bbd8ee70b05c0a5ccef408dd08930c882a0be1bc022515",
+                "previous_read_pair_sha256": "b5b4ab7d94dc94fdbfad09e25d4e67d0c66bfabe60d2a5dab6de5dceda6c3138",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen22_jenny_e13c7b30",
@@ -128089,12 +128151,16 @@
               {
                 "id": "jen22_jenny_354990d7",
                 "line": 265,
-                "pair_sha256": "3039c3c67f3888245c8898a968b7edef5d17eef029a0dcc0a879a7342f8ab270"
+                "pair_sha256": "4bd615b3a55e50479a2494a447fa4367a5a51f1cfd51b16fde420206317f7390",
+                "previous_read_pair_sha256": "3039c3c67f3888245c8898a968b7edef5d17eef029a0dcc0a879a7342f8ab270",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen22_jenny_9ba4c493",
                 "line": 271,
-                "pair_sha256": "be2a9d4488a5346248f3deee9c0c911af72a31645c92b0d5c33474e75bf0bd17"
+                "pair_sha256": "cbaa6a46b19e81ce6deb61a16f222d502ddc8ef57f065e5d74ba6744a00ba827",
+                "previous_read_pair_sha256": "be2a9d4488a5346248f3deee9c0c911af72a31645c92b0d5c33474e75bf0bd17",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "jen22_jenny_1497e23d",
@@ -205737,7 +205803,7 @@
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "8c141a9e2061f74857e34abc7d985fc187db4ccee916f0cda3199c7d3de0542d",
+        "translation_sha256": "f4d34c3cf982ea443d7678d55751ebd8c04849c135d5c8212b9bd0cff04082b4",
         "source_sha256": "9acd12077e7e4fa2df3b20b0648748e5075881ce4acf3d490ed98fc184c81d23",
         "source": "game/lib/saga/data/jenny_diary.py",
         "source_local": ".codex_tmp/current7944/lib/saga/data/jenny_diary.pyc",
@@ -205960,7 +206026,7 @@
           {
             "id": "strings",
             "line": 212,
-            "pair_sha256": "fe055ab027b13f594b4a26031b720e04a9a2203a3a7430c89be88aa619c9d3cc"
+            "pair_sha256": "5842974e11bce428a8873a4c6638c1146789396e3923a09fccdaffacbf65e642"
           },
           {
             "id": "strings",
@@ -205980,7 +206046,7 @@
           {
             "id": "strings",
             "line": 232,
-            "pair_sha256": "f5a2910cf66bf8961ea1d4df33fcf4c5e28c0903c23ce4567ad0bc35fe705fd5"
+            "pair_sha256": "fb44c78e33088ca45d98b92023be936ba4794e2c4ebcd9fc41eb60c216d3d0b9"
           },
           {
             "id": "strings",
@@ -206060,7 +206126,7 @@
           {
             "id": "strings",
             "line": 312,
-            "pair_sha256": "a4507b1570317d8d5aa17e4549b55fe1dc04ca653e8db3e28e7e62736749eb72"
+            "pair_sha256": "dd15dba62ea30ec62ef314250929cef8ab6654b93ab9351065a19cac04bcb525"
           },
           {
             "id": "strings",
@@ -206070,12 +206136,12 @@
           {
             "id": "strings",
             "line": 322,
-            "pair_sha256": "7f940193eed27ec1a5e6f77017f0c20c012a0e0e976496ac30b4a3ad88bdaba6"
+            "pair_sha256": "198c879a6b9ca141ee5fecf7a73131c0f1db364c1c126e60465f4e3435a29a28"
           },
           {
             "id": "strings",
             "line": 327,
-            "pair_sha256": "c52adfaea8482d9bd6caebd1b79505ade697de49b9cb01cb81500d11fd7c198b"
+            "pair_sha256": "e37e124cedb6fd3564e3ae036c69539419df6417c4a61c3f215854b6e259462b"
           },
           {
             "id": "strings",
@@ -206485,7 +206551,7 @@
           {
             "id": "strings",
             "line": 737,
-            "pair_sha256": "02cbbb2c86bd8f0975855f15963ff72c84375c83b9fa55e78cf35b3db5517927"
+            "pair_sha256": "0babe7065eb13657e945e94f41a788787d26244a438f614c6cd1ac472240534f"
           },
           {
             "id": "strings",
@@ -206530,12 +206596,12 @@
           {
             "id": "strings",
             "line": 782,
-            "pair_sha256": "d965973a810337c799d82505d050f01c91986a3d336dd3fb09d20de3e8b7551e"
+            "pair_sha256": "c6cd169cb654d0f82bde7de2d87c3b79b1e0851d18454b2892aff96919cb2efb"
           },
           {
             "id": "strings",
             "line": 787,
-            "pair_sha256": "698e756e7f834d8afaa0695a6c52c0bb8edccb8085c11014cf1ecdef0f9f26f5"
+            "pair_sha256": "81dc8ec900c5cf56d424330a8eae6c9f24e27463b82574b0d9b6e7fd36d802df"
           },
           {
             "id": "strings",
@@ -206740,7 +206806,7 @@
           {
             "id": "strings",
             "line": 992,
-            "pair_sha256": "316cf3a6a6ee6f880d411b375e683e179830f82a420d0de7f3b336411a69f130"
+            "pair_sha256": "04a49d8de6b6cda98a863787152fbd64bb567288aeabdc6cd18889021c1aad1c"
           },
           {
             "id": "strings",
@@ -206755,7 +206821,7 @@
           {
             "id": "strings",
             "line": 1007,
-            "pair_sha256": "f69964e5b78d884eba6bc64ac378141ff69d33fffee65bcbc9850d373988e9cf"
+            "pair_sha256": "164b029ba70bd4a7eec9da2f78725566cb481a0833397dee219e2d55f1cfc5bd"
           },
           {
             "id": "strings",
@@ -206865,12 +206931,12 @@
           {
             "id": "strings",
             "line": 1117,
-            "pair_sha256": "33b2c658e77c6bdd33cedbd55c9b5a9cb7a37079370ca6bfadeff87bcc7f9f66"
+            "pair_sha256": "b4cbbabb91334cd5490117794f077f8c2ab2805005e5623181a77c3cc007de88"
           },
           {
             "id": "strings",
             "line": 1122,
-            "pair_sha256": "828607ccb1b61f2d3a7e99ad24c5505c2dcf85bf57f7f0364bc0763368fe28d0"
+            "pair_sha256": "ed3dffe8908f32507a2e0dd1d69b393993ebe3fe22f72a12afa311ea192f3845"
           },
           {
             "id": "strings",
@@ -207120,12 +207186,12 @@
           {
             "id": "strings",
             "line": 1372,
-            "pair_sha256": "0be1792db2e49717c45443532228d0274f879c9f9d24874aaaee2f8d67b2c561"
+            "pair_sha256": "7f2ff3e8a3f5a662682a32414a1dacd3e2ff50bfe716f021d720621c38d4978b"
           },
           {
             "id": "strings",
             "line": 1377,
-            "pair_sha256": "7b6b782513d011c1ffb482eede7a6492acb322caf03f62e4c8adff548bc7fb60"
+            "pair_sha256": "f513f0001d6f5a9adcd1ab0dc2776f69deaec3518074b271bd5d3a82566359fd"
           },
           {
             "id": "strings",
@@ -207140,7 +207206,7 @@
           {
             "id": "strings",
             "line": 1392,
-            "pair_sha256": "0523abacb5fae9f2c28dc8649e643c83bb26e5e58278eabc31491e7932d754a5"
+            "pair_sha256": "6d500fc71df303469a8256b294c8a1ff031eeb782417f931995e413569fea111"
           },
           {
             "id": "strings",
@@ -207175,7 +207241,7 @@
           {
             "id": "strings",
             "line": 1427,
-            "pair_sha256": "4a7af0914d4470d15105bea5cd34a8a3ae8729c7ea09135e0d7c31a560899fe6"
+            "pair_sha256": "77da8c39825ed88e6b9391f2e3badfe386b8654b41600eeba38352bfa2bd1c2a"
           },
           {
             "id": "strings",
@@ -207205,12 +207271,12 @@
           {
             "id": "strings",
             "line": 1457,
-            "pair_sha256": "c268f8aca8c44bcef9262c917fc0f978ad0d644a4b269521a4b92d21d13e8273"
+            "pair_sha256": "3cba64cdd7fc814dc013f9c4d0630fa7261ad820094b036c20fec2fd493e2f59"
           },
           {
             "id": "strings",
             "line": 1462,
-            "pair_sha256": "3555835b6931a1e6b25a310dd5128d6d9cdff6c6df7cbc2d0bc7700ff4a79a30"
+            "pair_sha256": "b7cc8a97ee7e2eb32bcc5f69e19c161b0fd05c378a9b5ce832b7bf47577598c3"
           },
           {
             "id": "strings",
@@ -207965,7 +208031,9 @@
               {
                 "id": "strings",
                 "line": 992,
-                "pair_sha256": "316cf3a6a6ee6f880d411b375e683e179830f82a420d0de7f3b336411a69f130"
+                "pair_sha256": "04a49d8de6b6cda98a863787152fbd64bb567288aeabdc6cd18889021c1aad1c",
+                "previous_read_pair_sha256": "316cf3a6a6ee6f880d411b375e683e179830f82a420d0de7f3b336411a69f130",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "strings",
@@ -207980,7 +208048,9 @@
               {
                 "id": "strings",
                 "line": 1007,
-                "pair_sha256": "f69964e5b78d884eba6bc64ac378141ff69d33fffee65bcbc9850d373988e9cf"
+                "pair_sha256": "164b029ba70bd4a7eec9da2f78725566cb481a0833397dee219e2d55f1cfc5bd",
+                "previous_read_pair_sha256": "f69964e5b78d884eba6bc64ac378141ff69d33fffee65bcbc9850d373988e9cf",
+                "followup_status": "corrected_and_context_reread"
               },
               {
                 "id": "strings",
@@ -208084,6 +208154,904 @@
               }
             ],
             "note": "Read four pages in registered row order, including marginal notes, against embedded English keys. Reading coverage only; no language approval. Explicit entries unchanged. Full scene dispatch not certified."
+          },
+          {
+            "id": "diary_original_144_consolidated_screen",
+            "status": "screened_not_readability_approved",
+            "items": [
+              {
+                "line": 137,
+                "pair_sha256": "a6fc0ac43339077dc18bfa30d0051238f3d09316e402d19b110a5723fee1e5bd",
+                "status": "requires_readability_review",
+                "event": "jen03_intro",
+                "event_page": 1,
+                "note": "Main sentence ends mid-phrase and is completed in art annotation. English uses the same visual dependency; independent body readability cannot be certified without confirming intended layout.",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 212,
+                "pair_sha256": "5842974e11bce428a8873a4c6638c1146789396e3923a09fccdaffacbf65e642",
+                "status": "requires_readability_review",
+                "batch_status": "corrected_and_adjacent_text_reread"
+              },
+              {
+                "line": 217,
+                "pair_sha256": "fb3f34e8351a3001b00c8475416634a08a58dc948678fe8d8ffedf5475aa255c",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 222,
+                "pair_sha256": "ba606acfa8e8fc890643411b4ceadaf53f4a04e0700cc5706a3677c2b30c7e43",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 227,
+                "pair_sha256": "94407791902ff8bd0ba1d02ed52168fcf59c30b7e6b5d6f8c2b603247bc3d534",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 232,
+                "pair_sha256": "fb44c78e33088ca45d98b92023be936ba4794e2c4ebcd9fc41eb60c216d3d0b9",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "f5a2910cf66bf8961ea1d4df33fcf4c5e28c0903c23ce4567ad0bc35fe705fd5",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 237,
+                "pair_sha256": "42a24cdb9ab86c567d69e24643b45320c329ad3db7e4147a64f2736b697ce7e7",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 242,
+                "pair_sha256": "0f8930b4f5a8e8b3c9d759acbdf9316da10b63f1b3089e8aaf6ac99cad777be1",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 247,
+                "pair_sha256": "baa00b03ee8eb2051827aa87f4e26ed03d1ca9331afcec674e74c7fe52f2015b",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 252,
+                "pair_sha256": "53feff63a5c2cf67f8218f5514f7e2910e225afa2b9d507b9b2bb5203e550dbf",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 257,
+                "pair_sha256": "feedb3cd5e33ab5a0a07e7d1ee9f2175a781fcb3986dce19cc8d3571207c70fc",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 262,
+                "pair_sha256": "a5e12040c67b7a119fab5de3dd49bca87f374b34c81e37884aca34b42b97d5de",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 312,
+                "pair_sha256": "dd15dba62ea30ec62ef314250929cef8ab6654b93ab9351065a19cac04bcb525",
+                "status": "requires_readability_review",
+                "batch_status": "corrected_and_adjacent_text_reread"
+              },
+              {
+                "line": 317,
+                "pair_sha256": "506392a635f1ebf8e486f33c4023368844bebb46950edefc1311ab02eed8ec02",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 322,
+                "pair_sha256": "198c879a6b9ca141ee5fecf7a73131c0f1db364c1c126e60465f4e3435a29a28",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "7f940193eed27ec1a5e6f77017f0c20c012a0e0e976496ac30b4a3ad88bdaba6",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 327,
+                "pair_sha256": "e37e124cedb6fd3564e3ae036c69539419df6417c4a61c3f215854b6e259462b",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "c52adfaea8482d9bd6caebd1b79505ade697de49b9cb01cb81500d11fd7c198b",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 332,
+                "pair_sha256": "d780a1cf1de841bd1eb4f6bc901e10ee4a1712ad4979c8ec2294d0afb3dab826",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 337,
+                "pair_sha256": "4d22772c759b25cd6b9b322d86209cddabea8998f7fe8882fa04431d9f6203f1",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 362,
+                "pair_sha256": "24959699a749719da66b3f0afa90097fcf9feedb5b09be57c019eba447aceb14",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 367,
+                "pair_sha256": "99c997c074c043fec6bbd3e31fc61759add7e4616c1df4fde14ddbba725ac864",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 372,
+                "pair_sha256": "0b6e314cc275d1c44bfcafc580c719477a2f50d454540a0f973cb808fa2388ef",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 377,
+                "pair_sha256": "910fb0631b6d7a36c5794abefb48b842eac4eb12abb12cf0d2e51c7d015c4a41",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 382,
+                "pair_sha256": "d3a41915272300cb3842e69b134df57bbaec28ec2a90893bec7e777727e707a7",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 387,
+                "pair_sha256": "c2bcc03fd9c8c3480de06010b7527d2d7bad9559bd3d380d7e22b408c419d608",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 392,
+                "pair_sha256": "124a05b46339551eaf88002339edf379cd92b4cd621c0183a79562234b01e23e",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 397,
+                "pair_sha256": "0d0dda4ae83aa022f10819767fd57f7a69aa2f15db06e18121cad88cecac78a6",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 402,
+                "pair_sha256": "254bf6eb429e0d0077a01676e7ca9cd5c6cbead87fa7b082612c6ef26808325d",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 497,
+                "pair_sha256": "606e9454c75fb702300fb2dfa3a9bb7a5238a25118862442204d3cfac1b15ae1",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 502,
+                "pair_sha256": "0b57cf8a57f55a91ead409883b25eed99444564e7f5d5cd56ed50f7d1fc3ed3d",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 507,
+                "pair_sha256": "9c0505d6e0a81ede3b2cc4a969986dec6fed78ea51f4efdfecc74b9615e641bf",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 512,
+                "pair_sha256": "15041943915ee98d82c1ceb9db4ef2f3dce5da47515c06209f9ad8565fa0feb2",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 517,
+                "pair_sha256": "489294ed4c8a3c53966d0c46e890b7a4966c72b92a1d53b6f15de99246094b60",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 522,
+                "pair_sha256": "4b026b2d3d18df4e7cc60b1888f03f6e8594fd48608c9d2bc1761d6926a1bdaa",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 527,
+                "pair_sha256": "7dabaeac9bd083b122375408969ed3964eb406b7bc68f79bbc73876bcc92e4f6",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 532,
+                "pair_sha256": "334c2297e622bcfb58fd8d4ee242cfc3a2a938ae0630f27a986cb5a6affc9d31",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 537,
+                "pair_sha256": "512818a38149ac05b63d0a295863882f12bbbc04358ca9fbfa3cda7779e230cb",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 672,
+                "pair_sha256": "097ce8cc725801e473f419fd3548e12ba215e52da58f908011ca37e551081583",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 677,
+                "pair_sha256": "becafb3a8b503128c8d9d10ecd0587761119509417ae0fc6f47bb3894d9f0b3c",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 682,
+                "pair_sha256": "468278fefcae3ed033dbf8756f6ab0453bd0c4d669b966dd019f1e05b4f3b9ce",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 687,
+                "pair_sha256": "06ee4db3757ecb691fcdb3b69102b7ed3ff43fd59c53734698ab7b08ffe894aa",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 692,
+                "pair_sha256": "15c5c2fe2f94af9a9f167361e8f90dc938709e5ecf53fc66de83e45836eec9db",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 697,
+                "pair_sha256": "c91a089024fa4bf3229e2566bb4452af986641db694799d9c9922372300b5af1",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 702,
+                "pair_sha256": "0e425f9706a21464e53dfba740d5a017de192ee295e853d9ebecb0d3ff91de4d",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 707,
+                "pair_sha256": "eebe18e9fcba1e06124d867b0991f6bc89e97bf2eee82a3a66af454de6157d19",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 737,
+                "pair_sha256": "0babe7065eb13657e945e94f41a788787d26244a438f614c6cd1ac472240534f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "02cbbb2c86bd8f0975855f15963ff72c84375c83b9fa55e78cf35b3db5517927",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 742,
+                "pair_sha256": "fd109236546b59053bdd16da76fa2f77e2c890b04a42663c033695b1c476f169",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 747,
+                "pair_sha256": "5af1c0a20d8803d899d2d692c5e74fb7a21d7eac13d88612252fbe1f2ef49361",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 752,
+                "pair_sha256": "5e60e69a58542c4ae7ffad524a42b906a0ee572bf50439921f2cc0a2771be927",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 757,
+                "pair_sha256": "993247fb602eedd770b235eba8cb72af070d68ba4a858cde4f3a6db9714e4eb6",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 762,
+                "pair_sha256": "72f1ddbc0c303c2362bcf617f5685dccc4f89817bc7422863b2afdda6623f177",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 767,
+                "pair_sha256": "5720f40f6929a3930ab829c281a301d2866bee3231568fc48d208a44e4a6c94b",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 772,
+                "pair_sha256": "85e1f8a07d98aa7471d6d8e0aa176722dc6486c7175a411dc3c4629f8e0c0933",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 777,
+                "pair_sha256": "eb43be62efd3a54eab8d083e828e6ce155eb71d65f5692a805e229e84badce98",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 782,
+                "pair_sha256": "c6cd169cb654d0f82bde7de2d87c3b79b1e0851d18454b2892aff96919cb2efb",
+                "status": "requires_readability_review",
+                "batch_status": "corrected_and_adjacent_text_reread"
+              },
+              {
+                "line": 787,
+                "pair_sha256": "81dc8ec900c5cf56d424330a8eae6c9f24e27463b82574b0d9b6e7fd36d802df",
+                "status": "requires_readability_review",
+                "batch_status": "corrected_and_adjacent_text_reread"
+              },
+              {
+                "line": 792,
+                "pair_sha256": "1dc983fcfd72ab703642a7d06a1f4536483741f42d4e2dfd37fe739dd6545228",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 797,
+                "pair_sha256": "5f25ea381bc9e6daa729647b40e7b9b01441adb22b30ec53c50ad5e21fc2598e",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 802,
+                "pair_sha256": "5d5d745d82a9fdc7ab7b0a694108d901856799f70881cdc663cd93ff8dfc2a24",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 807,
+                "pair_sha256": "90e3e91f29cb6697059939120e24958396a3d2a8e716873e6e51b996ca7f408f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 812,
+                "pair_sha256": "b0ae0c95c206e1e85a89c19982a922aeae552d021819ba031876de5a26d32439",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 817,
+                "pair_sha256": "8b3c806dc918508f9858bc879d9b3433242cce31b2493969e9a9986cdc61938f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 822,
+                "pair_sha256": "d902160bd9cbbbf912adc950df0164e030cad0236377e21b4982e9dac4074c4c",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 827,
+                "pair_sha256": "f0eb8eab5b7d162fae49ab1f59faf65b510ea3e6e37b30ede6ed4fb3da43a52d",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 892,
+                "pair_sha256": "77418f6c9ba6ffc6292128f66aedb8d9b6072cba591c85ac9a6ed9d192b08313",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 897,
+                "pair_sha256": "43b37f9f96efacd88c51d9fd7f1aca13f79c9ff43293bf2df299b77370fb965b",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 902,
+                "pair_sha256": "36c0bc7896a856094e37ddb95facb3655d9bfd02e5eba93d75d8350e2ed89805",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 907,
+                "pair_sha256": "4d6d7425da603f29a9807fbd2225607456a909e0c7dbe3b693135624d155acdb",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 912,
+                "pair_sha256": "3a6f9333f1616c7c459175e7d744748eff4580e45f328ac9ea419865677a81c6",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 917,
+                "pair_sha256": "9f8ecb38fe3cfe53aae26c3640583ead5bb1bc20e21b9f4a7c239c94430d5f72",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 922,
+                "pair_sha256": "dc15fd39e924a2f7487be63feeca2415cc064efc60c5174238a5f4a165f2a27f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 927,
+                "pair_sha256": "145d4f7e27e7c5b5e8e69df3eae8d2f31509b62e53c5a5960910a28b57f0f6cf",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 932,
+                "pair_sha256": "ac2e2403a1fd77510c9c26e791871820c3155509aab9748632ae24cd16d4110d",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 937,
+                "pair_sha256": "ab065580bf69a9c784cc692147643b8ebc2d427ef986447f69c7fe014afead0f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 942,
+                "pair_sha256": "982f739fce6351fb5108c31975dcba21b3d1ae8d80d98eb517aab12e9dddf7a0",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 947,
+                "pair_sha256": "8eaf196331068b547888c3b356c5b6bd0807382f0210c51997cab3d4cd3bb65b",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 952,
+                "pair_sha256": "d25a06f8cd92542c09329760a3c20366f3a566fcc553dc76a794a14602d7181b",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 957,
+                "pair_sha256": "495399846a68e5c4282807eb1f8e657930e1ef4dc76442c6175803a57ae05f0c",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 962,
+                "pair_sha256": "7d2e3a91cdc50f9d174c2bfc66cf90d58e8a9635addbea8ec096cbec15e67441",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 967,
+                "pair_sha256": "aeab9a0aceb87d5c3f0cd80c395e9bea233c0e284a49724c94ff157373a149ac",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 972,
+                "pair_sha256": "5bab2b73907b24908f01f654c7867654a9e4fa001fb57042bcb73a9c3dfe0a58",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 977,
+                "pair_sha256": "43ccdbe53f9fad2036aab7e6dabf09ff6a527b2bd5cb300f08a06198904c3339",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 982,
+                "pair_sha256": "2e1ec9d6578ce2f4fc6eca327512a4b4889837b9d63ee1cd7cc5e93f026bac4d",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 987,
+                "pair_sha256": "f8bf2c222c06a0eba62b386393f5105b562f74ab81c41192e5654e349fc17685",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 992,
+                "pair_sha256": "04a49d8de6b6cda98a863787152fbd64bb567288aeabdc6cd18889021c1aad1c",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "316cf3a6a6ee6f880d411b375e683e179830f82a420d0de7f3b336411a69f130",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 997,
+                "pair_sha256": "b6f739fa4f6610493f0c888c61eccbc1727fd4dc1a887fcd62a5a3c3a423dfa7",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1002,
+                "pair_sha256": "c6c8633155828cdc6389765e2a5def3a9dd2f183db9c9df2cad0bb84e845892d",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1007,
+                "pair_sha256": "164b029ba70bd4a7eec9da2f78725566cb481a0833397dee219e2d55f1cfc5bd",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "f69964e5b78d884eba6bc64ac378141ff69d33fffee65bcbc9850d373988e9cf",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 1012,
+                "pair_sha256": "896806acd67e54a2f61770abf7bc881da56d1d38cb3a51a32c0d03b526b81337",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1017,
+                "pair_sha256": "f7c9fd9056c49938476d90ef78ef2dea35aede4f305865874096b4b52c08a904",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1022,
+                "pair_sha256": "37cf8952407f84bb94600f5f6e7472ada14e973c04fa87d4ad682168c36ad629",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1027,
+                "pair_sha256": "85e1fd0f1f2fe6b672f07638d21b8dca6b30e768d0f0d167c663b613decd4a6f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1032,
+                "pair_sha256": "ad3705472594bdaee24bdcf6704d38c57d9be2fd8b8276dc82070ab99b4f305d",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1037,
+                "pair_sha256": "f39672ed47b2b3e4c6a918b33ac0dfa0ccf331013456a1f78a26ec5e41a8ec84",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1042,
+                "pair_sha256": "5b7d16ef993ad57d8d89a113e6298637407ccec98ac843303976f1b8611f608b",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1047,
+                "pair_sha256": "990b76cd2ec9f9f636d9b4cbbb1d595852adab8e6edc0a235b364e52fa3f4c8f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1052,
+                "pair_sha256": "f9243f126f7dfb5a62303ee66db075b91c25416b29e952e14802acd3ad59950f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1057,
+                "pair_sha256": "f68fdd47cf727ff604888af7be093dcb9e25244a009dc215c114c296311e3dc8",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1062,
+                "pair_sha256": "aeb1d36c4e6333a46c1bbf4b330ffad364fbd99d0425930f5d20fb1e2de6e82c",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1067,
+                "pair_sha256": "9c32ca3dcaad319c1d0a16b75c034f04533ee36602b76034db51f56a5cd5f5cc",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1072,
+                "pair_sha256": "5494d4907f9fc6ffbeb79ea427983f5c5612014b1fa9880840b3efd3f9e9b69f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1077,
+                "pair_sha256": "0a2fce2279ec66a8d1b299fdd8b832bbda6bd0c89ca8b5b76e9b544788b3d7c7",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1082,
+                "pair_sha256": "3ba04194000f7335a9ffb14157784174e74780f7d99b206f0e7f9a591f83f0bc",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1087,
+                "pair_sha256": "03ac91d2ba65c71356d456363d0f092d7d11d54a15de1f53660ddabfcf7dd72a",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1092,
+                "pair_sha256": "69fbf8d9b414383aa47595a15289da6765d7844493a5873c8721002e4f35ba0a",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1097,
+                "pair_sha256": "3eadbeda89af931b38541e5535b54104aedcde07a8c36d8e8b354e2761a5ac5d",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1102,
+                "pair_sha256": "3f42a94d2968642e558a03376a50f9eadc36a4523a5b325c89a7b49eb88d5163",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1107,
+                "pair_sha256": "1452b658236f7f4ec1dc977bfb4db51a44de77c9876a16f8409c4ab875e737d3",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1112,
+                "pair_sha256": "e36b86b1ca624e4e8ae1029ce6116bd0557ef9fc30f38a7e3c8db39a5d859da0",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1117,
+                "pair_sha256": "b4cbbabb91334cd5490117794f077f8c2ab2805005e5623181a77c3cc007de88",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "33b2c658e77c6bdd33cedbd55c9b5a9cb7a37079370ca6bfadeff87bcc7f9f66",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 1122,
+                "pair_sha256": "ed3dffe8908f32507a2e0dd1d69b393993ebe3fe22f72a12afa311ea192f3845",
+                "status": "requires_readability_review",
+                "batch_status": "corrected_and_adjacent_text_reread"
+              },
+              {
+                "line": 1127,
+                "pair_sha256": "929059814d4cb74f86099d5df8f3004bfe050ba0ce73bd1ff906a5d5c53c66b7",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1132,
+                "pair_sha256": "e77a0731192d8e7f13140c05bed9ff583244065d520f5a0b4d665abbd063cc1b",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1137,
+                "pair_sha256": "7cd85b4b9cdf52e89ec1b52a95c6b312c9a78ec6dadff70b234e299740a50654",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1167,
+                "pair_sha256": "d31a96d0fab974d89b883196c11c7659bcb7cb3149da2a44bb0a81f8d6ab2067",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1172,
+                "pair_sha256": "8bfceed6ecbe71e6b87d01c40a0498d68a51174043967bb677662ca5e38d1b23",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1177,
+                "pair_sha256": "58c599e6c8da603cd4d708715af0462a016534cd1cb30a2a47945b505cda07ed",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1182,
+                "pair_sha256": "17e44dadd7757c1fd194b1fed164434fcd125d91d10bcf1aecc5cb889defe0f8",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1187,
+                "pair_sha256": "51b06d923087beab9822c6c313cb710164e842aeadd940e946517339b571fc2f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1192,
+                "pair_sha256": "68d4d13e1ba82dbbc3ae34f72a105848b33e116c869f320f752589e5dbe01315",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1197,
+                "pair_sha256": "3779d76dc8a4a01b85409b8356d3ba6c8d84cf53349180bfe4b33a0b611c659e",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1202,
+                "pair_sha256": "2fbad857819654d14c58726d356d1ab693505aab32458f95abedb40dd79155a1",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1362,
+                "pair_sha256": "61c5361220c3a7d569795bac3ac907bcc7a7def92c28903ac92a2162b12e7193",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1367,
+                "pair_sha256": "6234773d4585c79b3d2108bbb074a9adcbd21bc9285e60c0d6fb534011f75842",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1372,
+                "pair_sha256": "7f2ff3e8a3f5a662682a32414a1dacd3e2ff50bfe716f021d720621c38d4978b",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "0be1792db2e49717c45443532228d0274f879c9f9d24874aaaee2f8d67b2c561",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 1377,
+                "pair_sha256": "f513f0001d6f5a9adcd1ab0dc2776f69deaec3518074b271bd5d3a82566359fd",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "7b6b782513d011c1ffb482eede7a6492acb322caf03f62e4c8adff548bc7fb60",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 1382,
+                "pair_sha256": "9e44a1c37ed3e4c251ec8653eb8563688a003911a513c26cb4c2f478c1eb03fb",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1387,
+                "pair_sha256": "6edf502e3d7d6ca4b3f66dd4bcdad2be394f4ab57114f345c3bef0318c56d69a",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1392,
+                "pair_sha256": "6d500fc71df303469a8256b294c8a1ff031eeb782417f931995e413569fea111",
+                "status": "requires_readability_review",
+                "batch_status": "corrected_and_adjacent_text_reread"
+              },
+              {
+                "line": 1397,
+                "pair_sha256": "bb4d8e66cbb952e764bd466cbd6a36dfd65625a6aae46e433696ec1bf08c0105",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1402,
+                "pair_sha256": "dc2f3e4886a089707f9d251a196614a738b2665a9b98b8ae606fcc70401c7dd2",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1407,
+                "pair_sha256": "dbfdf20d35a4c8d4ecbb64a19f7892c141cc8f39a3098603279100e92df39905",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1412,
+                "pair_sha256": "1329373c6365e62e2411a85a378cae63dd91fe3fdbe311dd6a6ce3d98023f530",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1417,
+                "pair_sha256": "5cd1c87702a856d9200fb9d0fe24ec97fa3d4de9619ecd17243af0a255efaeb2",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1422,
+                "pair_sha256": "16b34e21ef817649b80e55ff54eac8b5418a0463b568ca58d02a86acd602f4c6",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1427,
+                "pair_sha256": "77da8c39825ed88e6b9391f2e3badfe386b8654b41600eeba38352bfa2bd1c2a",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "4a7af0914d4470d15105bea5cd34a8a3ae8729c7ea09135e0d7c31a560899fe6",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 1432,
+                "pair_sha256": "c3b7e0a4b5fffb4f586917be87177edc848fcd9809196412cd8b5cb9ba6a3aed",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1437,
+                "pair_sha256": "89ebb52a3d9088b58f77a4b512d403d14eab10859db7779ee96e06a45a669435",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1442,
+                "pair_sha256": "389ebec3890e4684e87ca8da45495a73748033230c7ca30abd64f32784a1c907",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1447,
+                "pair_sha256": "9c73a7c8d5f5870c7a6c00320131256b72e8a0385f9a462a5ad0b4aaeb67a46f",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1452,
+                "pair_sha256": "d1d5b53dca6a5cc9aaf41c6056cd4cc5e544c829ac582cf76fa9b3b2f978f5db",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1457,
+                "pair_sha256": "3cba64cdd7fc814dc013f9c4d0630fa7261ad820094b036c20fec2fd493e2f59",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "c268f8aca8c44bcef9262c917fc0f978ad0d644a4b269521a4b92d21d13e8273",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 1462,
+                "pair_sha256": "b7cc8a97ee7e2eb32bcc5f69e19c161b0fd05c378a9b5ce832b7bf47577598c3",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved",
+                "previous_read_pair_sha256": "3555835b6931a1e6b25a310dd5128d6d9cdff6c6df7cbc2d0bc7700ff4a79a30",
+                "followup_status": "corrected_and_context_reread"
+              },
+              {
+                "line": 1467,
+                "pair_sha256": "cfc16047a579376ea977d6d0dc124a48c18aea90843c4784d32ac76426c8dcbc",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              },
+              {
+                "line": 1472,
+                "pair_sha256": "4b355d4c312ba0c5b576f1756b170ef21f82bbf28aaf09a2c4861b2f6cd63b8a",
+                "status": "requires_readability_review",
+                "batch_status": "pair_screened_not_page_approved"
+              }
+            ],
+            "note": "Current bilingual pairs screened as three batches; page registration context from existing diary mapping. Six neutral entries corrected and adjacent body/marginal text reread; no blanket full-page approval. All 144 retain existing readability state pending complete page acceptance."
           }
         ],
         "relocation": {
@@ -208314,10 +209282,11 @@
             {
               "line": 137,
               "pair_sha256": "a6fc0ac43339077dc18bfa30d0051238f3d09316e402d19b110a5723fee1e5bd",
-              "status": "requires_readability_review",
+              "status": "text_readability_passed",
               "event": "jen03_intro",
               "event_page": 1,
-              "note": "Main sentence ends mid-phrase and is completed in art annotation. English uses the same visual dependency; independent body readability cannot be certified without confirming intended layout."
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification.",
+              "final_acceptance_batch": "pending_144_page_read"
             },
             {
               "line": 142,
@@ -208433,58 +209402,84 @@
             },
             {
               "line": 212,
-              "pair_sha256": "fe055ab027b13f594b4a26031b720e04a9a2203a3a7430c89be88aa619c9d3cc",
-              "status": "requires_readability_review"
+              "pair_sha256": "5842974e11bce428a8873a4c6638c1146789396e3923a09fccdaffacbf65e642",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 217,
               "pair_sha256": "fb3f34e8351a3001b00c8475416634a08a58dc948678fe8d8ffedf5475aa255c",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 222,
               "pair_sha256": "ba606acfa8e8fc890643411b4ceadaf53f4a04e0700cc5706a3677c2b30c7e43",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 227,
               "pair_sha256": "94407791902ff8bd0ba1d02ed52168fcf59c30b7e6b5d6f8c2b603247bc3d534",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 232,
-              "pair_sha256": "f5a2910cf66bf8961ea1d4df33fcf4c5e28c0903c23ce4567ad0bc35fe705fd5",
-              "status": "requires_readability_review"
+              "pair_sha256": "fb44c78e33088ca45d98b92023be936ba4794e2c4ebcd9fc41eb60c216d3d0b9",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 237,
               "pair_sha256": "42a24cdb9ab86c567d69e24643b45320c329ad3db7e4147a64f2736b697ce7e7",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 242,
               "pair_sha256": "0f8930b4f5a8e8b3c9d759acbdf9316da10b63f1b3089e8aaf6ac99cad777be1",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 247,
               "pair_sha256": "baa00b03ee8eb2051827aa87f4e26ed03d1ca9331afcec674e74c7fe52f2015b",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 252,
               "pair_sha256": "53feff63a5c2cf67f8218f5514f7e2910e225afa2b9d507b9b2bb5203e550dbf",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 257,
               "pair_sha256": "feedb3cd5e33ab5a0a07e7d1ee9f2175a781fcb3986dce19cc8d3571207c70fc",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 262,
               "pair_sha256": "a5e12040c67b7a119fab5de3dd49bca87f374b34c81e37884aca34b42b97d5de",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 267,
@@ -208560,33 +209555,48 @@
             },
             {
               "line": 312,
-              "pair_sha256": "a4507b1570317d8d5aa17e4549b55fe1dc04ca653e8db3e28e7e62736749eb72",
-              "status": "requires_readability_review"
+              "pair_sha256": "dd15dba62ea30ec62ef314250929cef8ab6654b93ab9351065a19cac04bcb525",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 317,
               "pair_sha256": "506392a635f1ebf8e486f33c4023368844bebb46950edefc1311ab02eed8ec02",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 322,
-              "pair_sha256": "7f940193eed27ec1a5e6f77017f0c20c012a0e0e976496ac30b4a3ad88bdaba6",
-              "status": "requires_readability_review"
+              "pair_sha256": "198c879a6b9ca141ee5fecf7a73131c0f1db364c1c126e60465f4e3435a29a28",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 327,
-              "pair_sha256": "c52adfaea8482d9bd6caebd1b79505ade697de49b9cb01cb81500d11fd7c198b",
-              "status": "requires_readability_review"
+              "pair_sha256": "e37e124cedb6fd3564e3ae036c69539419df6417c4a61c3f215854b6e259462b",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 332,
               "pair_sha256": "d780a1cf1de841bd1eb4f6bc901e10ee4a1712ad4979c8ec2294d0afb3dab826",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 337,
               "pair_sha256": "4d22772c759b25cd6b9b322d86209cddabea8998f7fe8882fa04431d9f6203f1",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 342,
@@ -208623,47 +209633,70 @@
             {
               "line": 362,
               "pair_sha256": "24959699a749719da66b3f0afa90097fcf9feedb5b09be57c019eba447aceb14",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 367,
               "pair_sha256": "99c997c074c043fec6bbd3e31fc61759add7e4616c1df4fde14ddbba725ac864",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 372,
               "pair_sha256": "0b6e314cc275d1c44bfcafc580c719477a2f50d454540a0f973cb808fa2388ef",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 377,
               "pair_sha256": "910fb0631b6d7a36c5794abefb48b842eac4eb12abb12cf0d2e51c7d015c4a41",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 382,
               "pair_sha256": "d3a41915272300cb3842e69b134df57bbaec28ec2a90893bec7e777727e707a7",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 387,
               "pair_sha256": "c2bcc03fd9c8c3480de06010b7527d2d7bad9559bd3d380d7e22b408c419d608",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 392,
               "pair_sha256": "124a05b46339551eaf88002339edf379cd92b4cd621c0183a79562234b01e23e",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 397,
               "pair_sha256": "0d0dda4ae83aa022f10819767fd57f7a69aa2f15db06e18121cad88cecac78a6",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 402,
               "pair_sha256": "254bf6eb429e0d0077a01676e7ca9cd5c6cbead87fa7b082612c6ef26808325d",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 407,
@@ -208812,47 +209845,68 @@
             {
               "line": 497,
               "pair_sha256": "606e9454c75fb702300fb2dfa3a9bb7a5238a25118862442204d3cfac1b15ae1",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 502,
               "pair_sha256": "0b57cf8a57f55a91ead409883b25eed99444564e7f5d5cd56ed50f7d1fc3ed3d",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 507,
               "pair_sha256": "9c0505d6e0a81ede3b2cc4a969986dec6fed78ea51f4efdfecc74b9615e641bf",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 512,
               "pair_sha256": "15041943915ee98d82c1ceb9db4ef2f3dce5da47515c06209f9ad8565fa0feb2",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 517,
               "pair_sha256": "489294ed4c8a3c53966d0c46e890b7a4966c72b92a1d53b6f15de99246094b60",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 522,
               "pair_sha256": "4b026b2d3d18df4e7cc60b1888f03f6e8594fd48608c9d2bc1761d6926a1bdaa",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 527,
               "pair_sha256": "7dabaeac9bd083b122375408969ed3964eb406b7bc68f79bbc73876bcc92e4f6",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 532,
               "pair_sha256": "334c2297e622bcfb58fd8d4ee242cfc3a2a938ae0630f27a986cb5a6affc9d31",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 537,
               "pair_sha256": "512818a38149ac05b63d0a295863882f12bbbc04358ca9fbfa3cda7779e230cb",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 542,
@@ -209065,42 +210119,61 @@
             {
               "line": 672,
               "pair_sha256": "097ce8cc725801e473f419fd3548e12ba215e52da58f908011ca37e551081583",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 677,
               "pair_sha256": "becafb3a8b503128c8d9d10ecd0587761119509417ae0fc6f47bb3894d9f0b3c",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 682,
               "pair_sha256": "468278fefcae3ed033dbf8756f6ab0453bd0c4d669b966dd019f1e05b4f3b9ce",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 687,
               "pair_sha256": "06ee4db3757ecb691fcdb3b69102b7ed3ff43fd59c53734698ab7b08ffe894aa",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 692,
               "pair_sha256": "15c5c2fe2f94af9a9f167361e8f90dc938709e5ecf53fc66de83e45836eec9db",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 697,
               "pair_sha256": "c91a089024fa4bf3229e2566bb4452af986641db694799d9c9922372300b5af1",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 702,
               "pair_sha256": "0e425f9706a21464e53dfba740d5a017de192ee295e853d9ebecb0d3ff91de4d",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 707,
               "pair_sha256": "eebe18e9fcba1e06124d867b0991f6bc89e97bf2eee82a3a66af454de6157d19",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 712,
@@ -209144,98 +210217,145 @@
             },
             {
               "line": 737,
-              "pair_sha256": "02cbbb2c86bd8f0975855f15963ff72c84375c83b9fa55e78cf35b3db5517927",
-              "status": "requires_readability_review"
+              "pair_sha256": "0babe7065eb13657e945e94f41a788787d26244a438f614c6cd1ac472240534f",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 742,
               "pair_sha256": "fd109236546b59053bdd16da76fa2f77e2c890b04a42663c033695b1c476f169",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 747,
               "pair_sha256": "5af1c0a20d8803d899d2d692c5e74fb7a21d7eac13d88612252fbe1f2ef49361",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 752,
               "pair_sha256": "5e60e69a58542c4ae7ffad524a42b906a0ee572bf50439921f2cc0a2771be927",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 757,
               "pair_sha256": "993247fb602eedd770b235eba8cb72af070d68ba4a858cde4f3a6db9714e4eb6",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 762,
               "pair_sha256": "72f1ddbc0c303c2362bcf617f5685dccc4f89817bc7422863b2afdda6623f177",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 767,
               "pair_sha256": "5720f40f6929a3930ab829c281a301d2866bee3231568fc48d208a44e4a6c94b",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 772,
               "pair_sha256": "85e1f8a07d98aa7471d6d8e0aa176722dc6486c7175a411dc3c4629f8e0c0933",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 777,
               "pair_sha256": "eb43be62efd3a54eab8d083e828e6ce155eb71d65f5692a805e229e84badce98",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 782,
-              "pair_sha256": "d965973a810337c799d82505d050f01c91986a3d336dd3fb09d20de3e8b7551e",
-              "status": "requires_readability_review"
+              "pair_sha256": "c6cd169cb654d0f82bde7de2d87c3b79b1e0851d18454b2892aff96919cb2efb",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 787,
-              "pair_sha256": "698e756e7f834d8afaa0695a6c52c0bb8edccb8085c11014cf1ecdef0f9f26f5",
-              "status": "requires_readability_review"
+              "pair_sha256": "81dc8ec900c5cf56d424330a8eae6c9f24e27463b82574b0d9b6e7fd36d802df",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 792,
               "pair_sha256": "1dc983fcfd72ab703642a7d06a1f4536483741f42d4e2dfd37fe739dd6545228",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 797,
               "pair_sha256": "5f25ea381bc9e6daa729647b40e7b9b01441adb22b30ec53c50ad5e21fc2598e",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 802,
               "pair_sha256": "5d5d745d82a9fdc7ab7b0a694108d901856799f70881cdc663cd93ff8dfc2a24",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 807,
               "pair_sha256": "90e3e91f29cb6697059939120e24958396a3d2a8e716873e6e51b996ca7f408f",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 812,
               "pair_sha256": "b0ae0c95c206e1e85a89c19982a922aeae552d021819ba031876de5a26d32439",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 817,
               "pair_sha256": "8b3c806dc918508f9858bc879d9b3433242cce31b2493969e9a9986cdc61938f",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 822,
               "pair_sha256": "d902160bd9cbbbf912adc950df0164e030cad0236377e21b4982e9dac4074c4c",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 827,
               "pair_sha256": "f0eb8eab5b7d162fae49ab1f59faf65b510ea3e6e37b30ede6ed4fb3da43a52d",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 832,
@@ -209312,252 +210432,388 @@
             {
               "line": 892,
               "pair_sha256": "77418f6c9ba6ffc6292128f66aedb8d9b6072cba591c85ac9a6ed9d192b08313",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 897,
               "pair_sha256": "43b37f9f96efacd88c51d9fd7f1aca13f79c9ff43293bf2df299b77370fb965b",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 902,
               "pair_sha256": "36c0bc7896a856094e37ddb95facb3655d9bfd02e5eba93d75d8350e2ed89805",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 907,
               "pair_sha256": "4d6d7425da603f29a9807fbd2225607456a909e0c7dbe3b693135624d155acdb",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 912,
               "pair_sha256": "3a6f9333f1616c7c459175e7d744748eff4580e45f328ac9ea419865677a81c6",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 917,
               "pair_sha256": "9f8ecb38fe3cfe53aae26c3640583ead5bb1bc20e21b9f4a7c239c94430d5f72",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 922,
               "pair_sha256": "dc15fd39e924a2f7487be63feeca2415cc064efc60c5174238a5f4a165f2a27f",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 927,
               "pair_sha256": "145d4f7e27e7c5b5e8e69df3eae8d2f31509b62e53c5a5960910a28b57f0f6cf",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 932,
               "pair_sha256": "ac2e2403a1fd77510c9c26e791871820c3155509aab9748632ae24cd16d4110d",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 937,
               "pair_sha256": "ab065580bf69a9c784cc692147643b8ebc2d427ef986447f69c7fe014afead0f",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 942,
               "pair_sha256": "982f739fce6351fb5108c31975dcba21b3d1ae8d80d98eb517aab12e9dddf7a0",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 947,
               "pair_sha256": "8eaf196331068b547888c3b356c5b6bd0807382f0210c51997cab3d4cd3bb65b",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 952,
               "pair_sha256": "d25a06f8cd92542c09329760a3c20366f3a566fcc553dc76a794a14602d7181b",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 957,
               "pair_sha256": "495399846a68e5c4282807eb1f8e657930e1ef4dc76442c6175803a57ae05f0c",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 962,
               "pair_sha256": "7d2e3a91cdc50f9d174c2bfc66cf90d58e8a9635addbea8ec096cbec15e67441",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 967,
               "pair_sha256": "aeab9a0aceb87d5c3f0cd80c395e9bea233c0e284a49724c94ff157373a149ac",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 972,
               "pair_sha256": "5bab2b73907b24908f01f654c7867654a9e4fa001fb57042bcb73a9c3dfe0a58",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 977,
               "pair_sha256": "43ccdbe53f9fad2036aab7e6dabf09ff6a527b2bd5cb300f08a06198904c3339",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 982,
               "pair_sha256": "2e1ec9d6578ce2f4fc6eca327512a4b4889837b9d63ee1cd7cc5e93f026bac4d",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 987,
               "pair_sha256": "f8bf2c222c06a0eba62b386393f5105b562f74ab81c41192e5654e349fc17685",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 992,
-              "pair_sha256": "316cf3a6a6ee6f880d411b375e683e179830f82a420d0de7f3b336411a69f130",
-              "status": "requires_readability_review"
+              "pair_sha256": "04a49d8de6b6cda98a863787152fbd64bb567288aeabdc6cd18889021c1aad1c",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 997,
               "pair_sha256": "b6f739fa4f6610493f0c888c61eccbc1727fd4dc1a887fcd62a5a3c3a423dfa7",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1002,
               "pair_sha256": "c6c8633155828cdc6389765e2a5def3a9dd2f183db9c9df2cad0bb84e845892d",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1007,
-              "pair_sha256": "f69964e5b78d884eba6bc64ac378141ff69d33fffee65bcbc9850d373988e9cf",
-              "status": "requires_readability_review"
+              "pair_sha256": "164b029ba70bd4a7eec9da2f78725566cb481a0833397dee219e2d55f1cfc5bd",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1012,
               "pair_sha256": "896806acd67e54a2f61770abf7bc881da56d1d38cb3a51a32c0d03b526b81337",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1017,
               "pair_sha256": "f7c9fd9056c49938476d90ef78ef2dea35aede4f305865874096b4b52c08a904",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1022,
               "pair_sha256": "37cf8952407f84bb94600f5f6e7472ada14e973c04fa87d4ad682168c36ad629",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1027,
               "pair_sha256": "85e1fd0f1f2fe6b672f07638d21b8dca6b30e768d0f0d167c663b613decd4a6f",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1032,
               "pair_sha256": "ad3705472594bdaee24bdcf6704d38c57d9be2fd8b8276dc82070ab99b4f305d",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1037,
               "pair_sha256": "f39672ed47b2b3e4c6a918b33ac0dfa0ccf331013456a1f78a26ec5e41a8ec84",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1042,
               "pair_sha256": "5b7d16ef993ad57d8d89a113e6298637407ccec98ac843303976f1b8611f608b",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1047,
               "pair_sha256": "990b76cd2ec9f9f636d9b4cbbb1d595852adab8e6edc0a235b364e52fa3f4c8f",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1052,
               "pair_sha256": "f9243f126f7dfb5a62303ee66db075b91c25416b29e952e14802acd3ad59950f",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1057,
               "pair_sha256": "f68fdd47cf727ff604888af7be093dcb9e25244a009dc215c114c296311e3dc8",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1062,
               "pair_sha256": "aeb1d36c4e6333a46c1bbf4b330ffad364fbd99d0425930f5d20fb1e2de6e82c",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1067,
               "pair_sha256": "9c32ca3dcaad319c1d0a16b75c034f04533ee36602b76034db51f56a5cd5f5cc",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1072,
               "pair_sha256": "5494d4907f9fc6ffbeb79ea427983f5c5612014b1fa9880840b3efd3f9e9b69f",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1077,
               "pair_sha256": "0a2fce2279ec66a8d1b299fdd8b832bbda6bd0c89ca8b5b76e9b544788b3d7c7",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1082,
               "pair_sha256": "3ba04194000f7335a9ffb14157784174e74780f7d99b206f0e7f9a591f83f0bc",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1087,
               "pair_sha256": "03ac91d2ba65c71356d456363d0f092d7d11d54a15de1f53660ddabfcf7dd72a",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1092,
               "pair_sha256": "69fbf8d9b414383aa47595a15289da6765d7844493a5873c8721002e4f35ba0a",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1097,
               "pair_sha256": "3eadbeda89af931b38541e5535b54104aedcde07a8c36d8e8b354e2761a5ac5d",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1102,
               "pair_sha256": "3f42a94d2968642e558a03376a50f9eadc36a4523a5b325c89a7b49eb88d5163",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1107,
               "pair_sha256": "1452b658236f7f4ec1dc977bfb4db51a44de77c9876a16f8409c4ab875e737d3",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1112,
               "pair_sha256": "e36b86b1ca624e4e8ae1029ce6116bd0557ef9fc30f38a7e3c8db39a5d859da0",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1117,
-              "pair_sha256": "33b2c658e77c6bdd33cedbd55c9b5a9cb7a37079370ca6bfadeff87bcc7f9f66",
-              "status": "requires_readability_review"
+              "pair_sha256": "b4cbbabb91334cd5490117794f077f8c2ab2805005e5623181a77c3cc007de88",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1122,
-              "pair_sha256": "828607ccb1b61f2d3a7e99ad24c5505c2dcf85bf57f7f0364bc0763368fe28d0",
-              "status": "requires_readability_review"
+              "pair_sha256": "ed3dffe8908f32507a2e0dd1d69b393993ebe3fe22f72a12afa311ea192f3845",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1127,
               "pair_sha256": "929059814d4cb74f86099d5df8f3004bfe050ba0ce73bd1ff906a5d5c53c66b7",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1132,
               "pair_sha256": "e77a0731192d8e7f13140c05bed9ff583244065d520f5a0b4d665abbd063cc1b",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1137,
               "pair_sha256": "7cd85b4b9cdf52e89ec1b52a95c6b312c9a78ec6dadff70b234e299740a50654",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1142,
@@ -209602,42 +210858,60 @@
             {
               "line": 1167,
               "pair_sha256": "d31a96d0fab974d89b883196c11c7659bcb7cb3149da2a44bb0a81f8d6ab2067",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1172,
               "pair_sha256": "8bfceed6ecbe71e6b87d01c40a0498d68a51174043967bb677662ca5e38d1b23",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1177,
               "pair_sha256": "58c599e6c8da603cd4d708715af0462a016534cd1cb30a2a47945b505cda07ed",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1182,
               "pair_sha256": "17e44dadd7757c1fd194b1fed164434fcd125d91d10bcf1aecc5cb889defe0f8",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1187,
               "pair_sha256": "51b06d923087beab9822c6c313cb710164e842aeadd940e946517339b571fc2f",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1192,
               "pair_sha256": "68d4d13e1ba82dbbc3ae34f72a105848b33e116c869f320f752589e5dbe01315",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1197,
               "pair_sha256": "3779d76dc8a4a01b85409b8356d3ba6c8d84cf53349180bfe4b33a0b611c659e",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1202,
               "pair_sha256": "2fbad857819654d14c58726d356d1ab693505aab32458f95abedb40dd79155a1",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1207,
@@ -209890,117 +211164,171 @@
             {
               "line": 1362,
               "pair_sha256": "61c5361220c3a7d569795bac3ac907bcc7a7def92c28903ac92a2162b12e7193",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1367,
               "pair_sha256": "6234773d4585c79b3d2108bbb074a9adcbd21bc9285e60c0d6fb534011f75842",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1372,
-              "pair_sha256": "0be1792db2e49717c45443532228d0274f879c9f9d24874aaaee2f8d67b2c561",
-              "status": "requires_readability_review"
+              "pair_sha256": "7f2ff3e8a3f5a662682a32414a1dacd3e2ff50bfe716f021d720621c38d4978b",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1377,
-              "pair_sha256": "7b6b782513d011c1ffb482eede7a6492acb322caf03f62e4c8adff548bc7fb60",
-              "status": "requires_readability_review"
+              "pair_sha256": "f513f0001d6f5a9adcd1ab0dc2776f69deaec3518074b271bd5d3a82566359fd",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1382,
               "pair_sha256": "9e44a1c37ed3e4c251ec8653eb8563688a003911a513c26cb4c2f478c1eb03fb",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1387,
               "pair_sha256": "6edf502e3d7d6ca4b3f66dd4bcdad2be394f4ab57114f345c3bef0318c56d69a",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1392,
-              "pair_sha256": "0523abacb5fae9f2c28dc8649e643c83bb26e5e58278eabc31491e7932d754a5",
-              "status": "requires_readability_review"
+              "pair_sha256": "6d500fc71df303469a8256b294c8a1ff031eeb782417f931995e413569fea111",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1397,
               "pair_sha256": "bb4d8e66cbb952e764bd466cbd6a36dfd65625a6aae46e433696ec1bf08c0105",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1402,
               "pair_sha256": "dc2f3e4886a089707f9d251a196614a738b2665a9b98b8ae606fcc70401c7dd2",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1407,
               "pair_sha256": "dbfdf20d35a4c8d4ecbb64a19f7892c141cc8f39a3098603279100e92df39905",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1412,
               "pair_sha256": "1329373c6365e62e2411a85a378cae63dd91fe3fdbe311dd6a6ce3d98023f530",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1417,
               "pair_sha256": "5cd1c87702a856d9200fb9d0fe24ec97fa3d4de9619ecd17243af0a255efaeb2",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1422,
               "pair_sha256": "16b34e21ef817649b80e55ff54eac8b5418a0463b568ca58d02a86acd602f4c6",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1427,
-              "pair_sha256": "4a7af0914d4470d15105bea5cd34a8a3ae8729c7ea09135e0d7c31a560899fe6",
-              "status": "requires_readability_review"
+              "pair_sha256": "77da8c39825ed88e6b9391f2e3badfe386b8654b41600eeba38352bfa2bd1c2a",
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "text_readability_passed",
+              "note": "Ordinary or non-graphic wording read with full page and adjacent fragments. Corrected entries reread in this batch. No visual or full-page sexual-content approval."
             },
             {
               "line": 1432,
               "pair_sha256": "c3b7e0a4b5fffb4f586917be87177edc848fcd9809196412cd8b5cb9ba6a3aed",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1437,
               "pair_sha256": "89ebb52a3d9088b58f77a4b512d403d14eab10859db7779ee96e06a45a669435",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1442,
               "pair_sha256": "389ebec3890e4684e87ca8da45495a73748033230c7ca30abd64f32784a1c907",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1447,
               "pair_sha256": "9c73a7c8d5f5870c7a6c00320131256b72e8a0385f9a462a5ad0b4aaeb67a46f",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1452,
               "pair_sha256": "d1d5b53dca6a5cc9aaf41c6056cd4cc5e544c829ac582cf76fa9b3b2f978f5db",
-              "status": "requires_readability_review"
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1457,
-              "pair_sha256": "c268f8aca8c44bcef9262c917fc0f978ad0d644a4b269521a4b92d21d13e8273",
-              "status": "requires_readability_review"
+              "pair_sha256": "3cba64cdd7fc814dc013f9c4d0630fa7261ad820094b036c20fec2fd493e2f59",
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1462,
-              "pair_sha256": "3555835b6931a1e6b25a310dd5128d6d9cdff6c6df7cbc2d0bc7700ff4a79a30",
-              "status": "requires_readability_review"
+              "pair_sha256": "b7cc8a97ee7e2eb32bcc5f69e19c161b0fd05c378a9b5ce832b7bf47577598c3",
+              "status": "requires_readability_review",
+              "final_acceptance_batch": "pending_144_page_read",
+              "final_acceptance_result": "not_passed",
+              "note": "Page read completed; explicit-context language review or remaining expression issue unresolved. Not approved and not counted as passed."
             },
             {
               "line": 1467,
               "pair_sha256": "cfc16047a579376ea977d6d0dc124a48c18aea90843c4784d32ac76426c8dcbc",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             },
             {
               "line": 1472,
               "pair_sha256": "4b355d4c312ba0c5b576f1756b170ef21f82bbf28aaf09a2c4861b2f6cd63b8a",
-              "status": "requires_readability_review"
+              "status": "text_readability_passed",
+              "final_acceptance_batch": "pending_144_page_read",
+              "note": "Read in complete registered page order with adjacent body and marginal text; ordinary/implied-content expression accepted. Static text only; no visual-layout certification."
             }
           ],
           "note": "This reopens quality acceptance without erasing historical work. No item receives a pass from hash validation or earlier targeted edits alone."

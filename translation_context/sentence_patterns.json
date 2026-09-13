@@ -2968,7 +2968,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{pen=pink}I mean, sure. He's a {pen=red}{size=-2}{u}doofus{/u}{/size}{/pen} but he'll pretty much do{/pen}{space=30}",
-      "target": "{pen=pink}我是说，他是个{pen=red}{size=-2}{u}傻瓜{/u}{/size}{/pen}没错，但我让他做什么，{/pen}{space=30}"
+      "target": "{pen=pink}他是个{pen=red}{size=-2}{u}傻瓜{/u}{/size}{/pen}没错，但我让他做什么，{/pen}{space=30}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3138,7 +3138,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{space=50}{pen=purple}{size=-6}The {pen=aqua}little perv{/pen} probably told her some {pen=aqua}{b}sob story{/b}{/pen} about his {pen=aqua}pathetic{/pen}{/size}{/pen}",
-      "target": "{space=50}{pen=purple}{size=-6}那{pen=aqua}小变态{/pen}大概又在{pen=aqua}{b}卖惨{/b}{/pen}，说自己过着{pen=aqua}可怜巴巴的{/pen}{/size}{/pen}"
+      "target": "{space=50}{pen=purple}{size=-6}那{pen=aqua}小变态{/pen}大概在{pen=aqua}{b}卖惨{/b}{/pen}，说自己过着{pen=aqua}可怜巴巴的{/pen}{/size}{/pen}"
     },
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
@@ -3148,7 +3148,7 @@
     {
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
       "source": "{space=120}{pen=pink}I will {pen=silver}{b}{i}{u}LITERALLY{/u}{/i}{/b}{/pen} {pen=black}die of embarrassment! x_x{/pen}{/pen}",
-      "target": "{space=120}{pen=pink}我会{pen=silver}{b}{i}{u}羞愤欲死{/u}{/i}{/b}{/pen}{pen=black}！x_x{/pen}{/pen}"
+      "target": "{space=120}{pen=pink}我{pen=silver}{b}{i}{u}真的{/u}{/i}{/b}{/pen}{pen=black}会羞死的！x_x{/pen}{/pen}"
     },
     {
       "file": "tl/zh_hans/res/meta/prop.rpy",
@@ -10010,6 +10010,260 @@
       "file": "tl/zh_hans/src/plot/jen22.rpy",
       "source": "One day, you kids are going to realize how fortunate you are to have one another.",
       "target": "总有一天，你们俩会明白，有彼此陪伴是多么幸运。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "Totally worth it!",
+      "target": "这也太值了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "source": "I had to do laundry because of you!",
+      "target": "都是你，害我自己洗了回衣服！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "source": "Ugh.",
+      "target": "哼。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "source": "Next time it happens, {i}you're{/i} washing my sheets!",
+      "target": "下次再发生这种事，我的床单就由{i}你{/i}来洗！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen20.rpy",
+      "source": "( ... I mean, what's the worst that could happen? )",
+      "target": "（……反正，再糟又能糟到哪儿去？）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Unbelievable!",
+      "target": "真是够了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Urg, just-",
+      "target": "啧，你就——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "source": "I guess you earned it.",
+      "target": "这钱算是你应得的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "source": "... [saga.cast.anon] was eating my peaches.",
+      "target": "……[saga.cast.anon]吃了我的桃子。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "source": "Oh, I love peaches!",
+      "target": "哦，我可喜欢吃桃子了！"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}{size=+3}Oh my God! I can't believe that {pen=black}FREAKING PERVERT{/pen}!{/size}{/pen}",
+      "target": "{pen=purple}{size=+3}天哪！那个家伙简直是个{pen=black}该死的变态{/pen}！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}{size=-1}That little {pen=purple}{b}{u}CREEPER{/u}{/b}{/pen} dared to sneak into my room today!{/size}{/pen}",
+      "target": "{pen=indigo}{size=-1}那个小{pen=purple}{b}{u}变态{/u}{/b}{/pen}今天竟敢溜进我的房间！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}And can you {size=+4}{i}imagine{/i}{/size} if someone found out who he is?!{/pen}",
+      "target": "{pen=indigo}要是有人认出他是谁，你能{size=+4}{i}想象{/i}{/size}会怎么样吗？！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{rb}{pen=lime}OH MY GOD! I would {pen=black}totally {b}DIE{/b}!{/pen}{/pen}{/rb}{art}{pen=maroon}Maybe I should make him {pen=purple}wear a mask{/pen} or something?{/pen}{/art}{space=50}",
+      "target": "{rb}{pen=lime}天哪！我{pen=black}真要{b}羞死{/b}了{/pen}！{/pen}{/rb}{art}{pen=maroon}也许我应该让他{pen=purple}戴个面具{/pen}什么的？{/pen}{/art}{space=50}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=30}{pen=maroon}He's such a {pen=red}doofus{/pen} and he says the dumbest {rb}things{/rb}{art}{pen=aqua}{size=-5}{b}ALL THE {u}TIME{/u}!{/b}{/size}{/pen}{/art}...{/pen}",
+      "target": "{space=30}{pen=maroon}他真是个{pen=red}傻瓜{/pen}，净说些蠢{rb}话{/rb}{art}{pen=aqua}{size=-5}{b}每时每刻{u}都在说{/u}！{/b}{/size}{/pen}{/art}……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Did you really just ask me that?",
+      "target": "你刚才真问了我这个？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Well, I am.",
+      "target": "可不就是嘛。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "I have a proposition for you.",
+      "target": "我有个提议想跟你谈谈。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Eww, no!",
+      "target": "呃，才不是！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "Oh, I think you'll be pleasantly surprised!",
+      "target": "哦，我想你们会很惊喜的！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "source": "Ugh, okay... stream's over!",
+      "target": "啧，好了……直播结束！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "source": "You don't have to be such a bitch about it.",
+      "target": "你也犯不着为这事这么刻薄吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen20.rpy",
+      "source": "I know, right?",
+      "target": "就是啊，对吧？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen20.rpy",
+      "source": "Umm, to wash my feet?",
+      "target": "呃，去洗脚啊？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Ugh, whatever.",
+      "target": "啧，随你便。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "I tried to warn you...",
+      "target": "我想提醒你来着……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Ugh, you're all assholes!",
+      "target": "烦死了，你们全都是混蛋！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "I really did try to warn-",
+      "target": "我真的想提醒你——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Eugh, I gotta go brush my fucking teeth!",
+      "target": "呃，我他妈得去刷牙了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Eugh, I need some mouth wash!",
+      "target": "呃，我得用点漱口水！"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}She says she's {pen=yellow}{size=-3}\\\"helping him with anxieties\\\"{/size}{/pen} {rb}or some{/rb}{rt}{pen=indigo}{size=+2}{i}Yeah right!{/i}{/size}{/pen}{/rt} {b}bullshit{/b}.{/pen}{space=35}",
+      "target": "{pen=maroon}她还说什么她在{pen=yellow}{size=-3}“帮他缓解焦虑”{/size}{/pen} {rb}之类的{/rb}{rt}{pen=indigo}{size=+2}{i}信她才怪！{/i}{/size}{/pen}{/rt} {b}鬼话{/b}。{/pen}{space=35}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Oh, shut up!",
+      "target": "哦，闭嘴！",
+      "id": "jen16_scope_8f0d7938"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "source": "Oh, shut up!",
+      "target": "行了，闭嘴吧！",
+      "id": "jen16_scope_alt_cce0b53a"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Right.",
+      "target": "对哦。"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{rb}What a{/rb}{art}{pen=red}{size=-1}So {pen=maroon}{size=+8}{u}thirsty{/u}{/size}{/pen}! It's {b}just sad.{/b} LOL!{/size}{/pen}{/art} {pen=red}{b}LOSER{/b}{/pen}!!{/pen}{space=100}",
+      "target": "{pen=orange}{rb}真是个{/rb}{art}{pen=red}{size=-1}太{pen=maroon}{size=+8}{u}饥渴{/u}{/size}{/pen}了！真是{b}可悲。{/b}哈哈哈！{/size}{/pen}{/art} {pen=red}{b}废柴{/b}{/pen}！！{/pen}{space=100}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}He must have realised he'll be a pathetic virgin forever{/pen}",
+      "target": "{pen=indigo}他肯定是觉得自己这辈子都只能当个可怜的处男了，{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}because he was trying to steal my {pen=neonpink}naughty pictures{/pen}...{/pen}",
+      "target": "{pen=indigo}居然想偷我的{pen=neonpink}艳照{/pen}……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=orange}{size=-3}I don't even know anymore... It's just been a {pen=yellow}{size=+4}{i}{u}super{/u}{/i}{/size}{/pen} weird day!{/size}{/pen}",
+      "target": "{pen=orange}{size=-3}我也搞不懂了……今天真是{pen=yellow}{size=+4}{i}{u}超级{/u}{/i}{/size}{/pen}奇怪的一天！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=80}{pen=aqua}I'm not going to lie, I think about it a lot...{/pen}",
+      "target": "{space=80}{pen=aqua}老实说，我经常会想起这件事……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=maroon}Why am I {pen=pink}enjoying this so much{/pen}?!{/pen}{space=110}",
+      "target": "{pen=maroon}我怎么会{pen=pink}这么享受这件事{/pen}？！{/pen}{space=110}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=indigo}Then she straight up chased me back to my room,{/pen}",
+      "target": "{pen=indigo}然后她一路追着我回到我的房间，{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Are you going to touch them or what?!",
+      "target": "你到底摸不摸啊？！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Guys always love them.",
+      "target": "男人们都很喜欢啊。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "I didn't say you could-",
+      "target": "我没说你可以——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "( Where the hell did that come from?! )",
+      "target": "（刚才那到底是怎么回事？！）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "source": "Ugh, fine...",
+      "target": "唉，行吧……"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{space=40}{pen=orange}.... but, like... why is {pen=maroon}{b}[saga.cast.anon]{/b}{/pen} bothering with {pen=red}her{/pen}?{/pen}",
+      "target": "{space=40}{pen=orange}……可话又说回来……{pen=maroon}{b}[saga.cast.anon]{/b}{/pen}为什么偏偏要找{pen=red}她{/pen}呢？{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "source": "{pen=purple}Does he have an {pen=silver}{size=+6}old lady fetish{/size}{/pen} or something?{/pen}",
+      "target": "{pen=purple}他是不是{pen=silver}{size=+6}就好年纪大的女人这一口{/size}{/pen}啊？{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Ffffuuu-",
+      "target": "操——",
+      "id": "jen14_dining_60e6cb06"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "source": "Ffffuuu-",
+      "target": "操操操——",
+      "id": "jen14_dining_alt_60e6cb06"
     }
   ]
 }

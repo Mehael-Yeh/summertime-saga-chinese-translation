@@ -136,7 +136,7 @@ translate zh_hans jen22_jenny_983cf05d:
 translate zh_hans jen22_jenny_b132c311:
 
     # jenny a_money "I guess you earned it."
-    jenny a_money "算你挣到了。"
+    jenny a_money "这钱算是你应得的。"
 
 # game/src/plot/jen22.rpy:60
 translate zh_hans jen22_jenny_e13c7b30:
@@ -262,13 +262,13 @@ translate zh_hans jen22_jenny_65587670:
 translate zh_hans jen22_jenny_354990d7:
 
     # jenny f_calm "... [saga.cast.anon] was eating my peaches."
-    jenny f_calm "……[saga.cast.anon]在吃我的桃子。"
+    jenny f_calm "……[saga.cast.anon]吃了我的桃子。"
 
 # game/src/plot/jen22.rpy:96
 translate zh_hans jen22_jenny_9ba4c493:
 
     # debbie "Oh, I love peaches!"
-    debbie "哦，我最喜欢桃子了！"
+    debbie "哦，我可喜欢吃桃子了！"
 
 # game/src/plot/jen22.rpy:97
 translate zh_hans jen22_jenny_1497e23d:

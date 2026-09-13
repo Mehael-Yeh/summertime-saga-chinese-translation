@@ -209,7 +209,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen04_outro; page: 1; row: 1
     old "{pen=purple}{size=+3}Oh my God! I can't believe that {pen=black}FREAKING PERVERT{/pen}!{/size}{/pen}"
-    new "{pen=purple}{size=+3}天哪！我真不敢相信那个{pen=black}该死的变态{/pen}！{/size}{/pen}"
+    new "{pen=purple}{size=+3}天哪！那个家伙简直是个{pen=black}该死的变态{/pen}！{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen04_outro; page: 1; row: 2
@@ -229,7 +229,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen04_outro; page: 1; row: 5
     old "{pen=orange}{rb}What a{/rb}{art}{pen=red}{size=-1}So {pen=maroon}{size=+8}{u}thirsty{/u}{/size}{/pen}! It's {b}just sad.{/b} LOL!{/size}{/pen}{/art} {pen=red}{b}LOSER{/b}{/pen}!!{/pen}{space=100}"
-    new "{pen=orange}{rb}真是{/rb}{art}{pen=red}{size=-1}太{pen=maroon}{size=+8}{u}饥渴{/u}{/size}{/pen}了！真是{b}可悲。{/b}哈哈哈！{/size}{/pen}{/art} {pen=red}{b}废柴{/b}{/pen}！！{/pen}{space=100}"
+    new "{pen=orange}{rb}真是个{/rb}{art}{pen=red}{size=-1}太{pen=maroon}{size=+8}{u}饥渴{/u}{/size}{/pen}了！真是{b}可悲。{/b}哈哈哈！{/size}{/pen}{/art} {pen=red}{b}废柴{/b}{/pen}！！{/pen}{space=100}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen04_outro; page: 1; row: 7
@@ -309,7 +309,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen06_snoop; page: 1; row: 1
     old "{pen=indigo}{size=-1}That little {pen=purple}{b}{u}CREEPER{/u}{/b}{/pen} dared to sneak into my room today!{/size}{/pen}"
-    new "{pen=indigo}{size=-1}那个小{pen=purple}{b}{u}混蛋{/u}{/b}{/pen}今天竟敢溜进我的房间！{/size}{/pen}"
+    new "{pen=indigo}{size=-1}那个小{pen=purple}{b}{u}变态{/u}{/b}{/pen}今天竟敢溜进我的房间！{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen06_snoop; page: 1; row: 2
@@ -319,12 +319,12 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen06_snoop; page: 1; row: 3
     old "{pen=indigo}He must have realised he'll be a pathetic virgin forever{/pen}"
-    new "{pen=indigo}他一定意识到自己将永远是可悲的处男{/pen}"
+    new "{pen=indigo}他肯定是觉得自己这辈子都只能当个可怜的处男了，{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen06_snoop; page: 1; row: 4
     old "{pen=indigo}because he was trying to steal my {pen=neonpink}naughty pictures{/pen}...{/pen}"
-    new "{pen=indigo}因为他想偷我的{pen=neonpink}艳照{/pen}……{/pen}"
+    new "{pen=indigo}居然想偷我的{pen=neonpink}艳照{/pen}……{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen06_snoop; page: 1; row: 6
@@ -734,7 +734,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen15_bed2; page: 1; row: 8
     old "{pen=pink}I mean, sure. He's a {pen=red}{size=-2}{u}doofus{/u}{/size}{/pen} but he'll pretty much do{/pen}{space=30}"
-    new "{pen=pink}我是说，他是个{pen=red}{size=-2}{u}傻瓜{/u}{/size}{/pen}没错，但我让他做什么，{/pen}{space=30}"
+    new "{pen=pink}他是个{pen=red}{size=-2}{u}傻瓜{/u}{/size}{/pen}没错，但我让他做什么，{/pen}{space=30}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen15_bed2; page: 1; row: 9
@@ -779,17 +779,17 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen16_jenny; page: 1; row: 8
     old "{pen=indigo}And can you {size=+4}{i}imagine{/i}{/size} if someone found out who he is?!{/pen}"
-    new "{pen=indigo}你能{size=+4}{i}想象{/i}{/size}如果有人发现了他是谁吗？！{/pen}"
+    new "{pen=indigo}要是有人认出他是谁，你能{size=+4}{i}想象{/i}{/size}会怎么样吗？！{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen16_jenny; page: 1; row: 10
     old "{rb}{pen=lime}OH MY GOD! I would {pen=black}totally {b}DIE{/b}!{/pen}{/pen}{/rb}{art}{pen=maroon}Maybe I should make him {pen=purple}wear a mask{/pen} or something?{/pen}{/art}{space=50}"
-    new "{rb}{pen=lime}哦我的天！我{pen=black}绝对{b}会{/b}死{/pen}的！{/pen}{/rb}{art}{pen=maroon}也许我应该让他{pen=purple}戴个面具{/pen}什么的？{/pen}{/art}{space=50}"
+    new "{rb}{pen=lime}天哪！我{pen=black}真要{b}羞死{/b}了{/pen}！{/pen}{/rb}{art}{pen=maroon}也许我应该让他{pen=purple}戴个面具{/pen}什么的？{/pen}{/art}{space=50}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen18_jenny; page: 1; row: 1
     old "{pen=purple}OMG... I gave {pen=navy}{b}[saga.cast.anon]{/b}{/pen} a handjob on stream today!{/pen}"
-    new "{pen=purple}天哪……我今天在直播时给{pen=navy}{b}[saga.cast.anon]{/b}{/pen}打手枪了！{/pen}"
+    new "{pen=purple}天哪……我今天在直播时给{pen=navy}{b}[saga.cast.anon]{/b}{/pen}打飞机了！{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen18_jenny; page: 1; row: 2
@@ -989,7 +989,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen21_jenny; page: 1; row: 11
     old "{pen=orange}{size=-3}I don't even know anymore... It's just been a {pen=yellow}{size=+4}{i}{u}super{/u}{/i}{/size}{/pen} weird day!{/size}{/pen}"
-    new "{pen=orange}{size=-3}我已经不知道了…… 这真是{pen=yellow}{size=+4}{i}{u}超级{/u}{/i}{/size}{/pen}奇怪的一天！{/size}{/pen}"
+    new "{pen=orange}{size=-3}我也搞不懂了……今天真是{pen=yellow}{size=+4}{i}{u}超级{/u}{/i}{/size}{/pen}奇怪的一天！{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen22_post; page: 1; row: 2
@@ -1004,7 +1004,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen22_post; page: 1; row: 4
     old "{space=80}{pen=aqua}I'm not going to lie, I think about it a lot...{/pen}"
-    new "{space=80}{pen=aqua}老实说，我经常在想这件事…{/pen}"
+    new "{space=80}{pen=aqua}老实说，我经常会想起这件事……{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen22_post; page: 1; row: 6
@@ -1114,12 +1114,12 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: jen_shower; page: 1; row: 2
     old "{pen=maroon}Why am I {pen=pink}enjoying this so much{/pen}?!{/pen}{space=110}"
-    new "{pen=maroon}为什么我{pen=pink}这么享受这个{/pen}？！{/pen}{space=110}"
+    new "{pen=maroon}我怎么会{pen=pink}这么享受这件事{/pen}？！{/pen}{space=110}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen_shower; page: 1; row: 3
     old "{space=30}{pen=maroon}He's such a {pen=red}doofus{/pen} and he says the dumbest {rb}things{/rb}{art}{pen=aqua}{size=-5}{b}ALL THE {u}TIME{/u}!{/b}{/size}{/pen}{/art}...{/pen}"
-    new "{space=30}{pen=maroon}他真是个{pen=red}傻瓜{/pen}，还总说些最蠢的{rb}话{/rb}{art}{pen=aqua}{size=-5}{b}每时每刻{u}都在说{/u}！{/b}{/size}{/pen}{/art}……{/pen}"
+    new "{space=30}{pen=maroon}他真是个{pen=red}傻瓜{/pen}，净说些蠢{rb}话{/rb}{art}{pen=aqua}{size=-5}{b}每时每刻{u}都在说{/u}！{/b}{/size}{/pen}{/art}……{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: jen_shower; page: 1; row: 6
@@ -1369,12 +1369,12 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: deb12_debbie; page: 1; row: 5
     old "{pen=maroon}She says she's {pen=yellow}{size=-3}\"helping him with anxieties\"{/size}{/pen} {rb}or some{/rb}{rt}{pen=indigo}{size=+2}{i}Yeah right!{/i}{/size}{/pen}{/rt} {b}bullshit{/b}.{/pen}{space=35}"
-    new "{pen=maroon}她说她在{pen=yellow}{size=-3}“帮他缓解焦虑”{/size}{/pen} {rb}之类的{/rb}{rt}{pen=indigo}{size=+2}{i}信她才怪！{/i}{/size}{/pen}{/rt} {b}鬼话{/b}。{/pen}{space=35}"
+    new "{pen=maroon}她还说什么她在{pen=yellow}{size=-3}“帮他缓解焦虑”{/size}{/pen} {rb}之类的{/rb}{rt}{pen=indigo}{size=+2}{i}信她才怪！{/i}{/size}{/pen}{/rt} {b}鬼话{/b}。{/pen}{space=35}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: deb12_debbie; page: 1; row: 7
     old "{space=50}{pen=purple}{size=-6}The {pen=aqua}little perv{/pen} probably told her some {pen=aqua}{b}sob story{/b}{/pen} about his {pen=aqua}pathetic{/pen}{/size}{/pen}"
-    new "{space=50}{pen=purple}{size=-6}那{pen=aqua}小变态{/pen}大概又在{pen=aqua}{b}卖惨{/b}{/pen}，说自己过着{pen=aqua}可怜巴巴的{/pen}{/size}{/pen}"
+    new "{space=50}{pen=purple}{size=-6}那{pen=aqua}小变态{/pen}大概在{pen=aqua}{b}卖惨{/b}{/pen}，说自己过着{pen=aqua}可怜巴巴的{/pen}{/size}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: deb12_debbie; page: 1; row: 8
@@ -1389,7 +1389,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: deb12_debbie; page: 1; row: 11
     old "{space=120}{pen=pink}I will {pen=silver}{b}{i}{u}LITERALLY{/u}{/i}{/b}{/pen} {pen=black}die of embarrassment! x_x{/pen}{/pen}"
-    new "{space=120}{pen=pink}我会{pen=silver}{b}{i}{u}羞愤欲死{/u}{/i}{/b}{/pen}{pen=black}！x_x{/pen}{/pen}"
+    new "{space=120}{pen=pink}我{pen=silver}{b}{i}{u}真的{/u}{/i}{/b}{/pen}{pen=black}会羞死的！x_x{/pen}{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: deb21_outro; page: 1; row: 1
@@ -1424,7 +1424,7 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: deb21_outro; page: 1; row: 8
     old "{pen=indigo}Then she straight up chased me back to my room,{/pen}"
-    new "{pen=indigo}然后她直接把我追回了我的房间，{/pen}"
+    new "{pen=indigo}然后她一路追着我回到我的房间，{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: deb21_outro; page: 1; row: 9
@@ -1454,12 +1454,12 @@ translate zh_hans strings:
     # game/lib/saga/data/jenny_diary.py
     # event: deb26_outro; page: 1; row: 6
     old "{space=40}{pen=orange}.... but, like... why is {pen=maroon}{b}[saga.cast.anon]{/b}{/pen} bothering with {pen=red}her{/pen}?{/pen}"
-    new "{space=40}{pen=orange}……但是，怎么说呢……为什么{pen=maroon}{b}[saga.cast.anon]{/b}{/pen}要费心搭理{pen=red}她{/pen}呢？{/pen}"
+    new "{space=40}{pen=orange}……可话又说回来……{pen=maroon}{b}[saga.cast.anon]{/b}{/pen}为什么偏偏要找{pen=red}她{/pen}呢？{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: deb26_outro; page: 1; row: 8
     old "{pen=purple}Does he have an {pen=silver}{size=+6}old lady fetish{/size}{/pen} or something?{/pen}"
-    new "{pen=purple}他是不是有{pen=silver}{size=+6}恋老癖{/size}{/pen}还是什么？{/pen}"
+    new "{pen=purple}他是不是{pen=silver}{size=+6}就好年纪大的女人这一口{/size}{/pen}啊？{/pen}"
 
     # game/lib/saga/data/jenny_diary.py
     # event: deb26_outro; page: 1; row: 10

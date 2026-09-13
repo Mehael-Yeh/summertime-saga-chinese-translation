@@ -280,7 +280,7 @@ translate zh_hans jen18_jenny_merge_172f772d:
 translate zh_hans jen18_jenny_merge_1038c21f:
 
     # jenny "Oh, I think you'll be pleasantly surprised!"
-    jenny "哦，我保证会让你们大吃一惊！"
+    jenny "哦，我想你们会很惊喜的！"
 
 # game/src/plot/jen18.rpy:112
 translate zh_hans jen18_jenny_merge_beee8166:
@@ -580,7 +580,7 @@ translate zh_hans jen18_jenny_reuse_540e4c02:
 translate zh_hans jen18_jenny_reuse_dc4f70d4:
 
     # jenny e_sw f_annoyed p_bed_sit_side_turn -m_teeth "Ugh, okay... stream's over!"
-    jenny e_sw f_annoyed p_bed_sit_side_turn -m_teeth "恶，好了……直播结束！"
+    jenny e_sw f_annoyed p_bed_sit_side_turn -m_teeth "啧，好了……直播结束！"
 
 # game/src/plot/jen18.rpy:209
 translate zh_hans jen18_jenny_reuse_64e65045:
@@ -766,7 +766,7 @@ translate zh_hans jen18_jenny_reuse_f2bb7d6e:
 translate zh_hans jen18_jenny_reuse_fa672603:
 
     # anon e_b f_happy m_laugh @ -m_talk "Totally worth it!"
-    anon e_b f_happy m_laugh @ -m_talk "完全值得！"
+    anon e_b f_happy m_laugh @ -m_talk "这也太值了！"
 
 # game/src/plot/jen18.rpy:286
 translate zh_hans jen18_jenny_plan_0a4cd1df:

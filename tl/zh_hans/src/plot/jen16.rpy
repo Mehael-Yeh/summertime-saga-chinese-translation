@@ -388,7 +388,7 @@ translate zh_hans jen16_scope_merge_c5c2c9f3:
 translate zh_hans jen16_scope_alt_535cfc18:
 
     # anon f_sceptical -m_teeth "Did you really just ask me that?"
-    anon f_sceptical -m_teeth "你刚才真让我把鸡巴掏出来？"
+    anon f_sceptical -m_teeth "你刚才真问了我这个？"
 
 # game/src/plot/jen16.rpy:160
 translate zh_hans jen16_scope_alt_79ec0a65:
@@ -496,7 +496,7 @@ translate zh_hans jen16_scope_alt_ffd93056:
 translate zh_hans jen16_scope_alt_cce0b53a:
 
     # jenny "Oh, shut up!"
-    jenny "哦，闭嘴吧！"
+    jenny "行了，闭嘴吧！"
 
 # game/src/plot/jen16.rpy:195
 translate zh_hans jen16_scope_alt_72f54e6c:
@@ -514,7 +514,7 @@ translate zh_hans jen16_scope_alt_c0a61dcd:
 translate zh_hans jen16_scope_alt_e4dc0e74:
 
     # anon "Well, I am."
-    anon "事实就是这样。"
+    anon "可不就是嘛。"
 
 # game/src/plot/jen16.rpy:201
 translate zh_hans jen16_scope_alt_07311747:
@@ -622,7 +622,7 @@ translate zh_hans jen16_scope_alt_671a5556:
 translate zh_hans jen16_scope_alt_b1893ed4:
 
     # jenny "I have a proposition for you."
-    jenny "我有件事跟你谈。"
+    jenny "我有个提议想跟你谈谈。"
 
 # game/src/plot/jen16.rpy:223
 translate zh_hans jen16_scope_alt_bfdc8475:
@@ -976,7 +976,7 @@ translate zh_hans jen16_jenny_b835ed6a:
 translate zh_hans jen16_jenny_f6b0e5e2:
 
     # jenny "Eww, no!"
-    jenny "恶，才不是！"
+    jenny "呃，才不是！"
 
 # game/src/plot/jen16.rpy:345
 translate zh_hans jen16_jenny_567f421f:

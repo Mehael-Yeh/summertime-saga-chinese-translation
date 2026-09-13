@@ -298,7 +298,7 @@ translate zh_hans jen20_jenny_reuse_352ed26d:
 translate zh_hans jen20_jenny_reuse_2b690856:
 
     # jenny a_after_02 "I know, right?"
-    jenny a_after_02 "我就说吧？"
+    jenny a_after_02 "就是啊，对吧？"
 
 # game/src/plot/jen20.rpy:145
 translate zh_hans jen20_jenny_reuse_f6dc590f:
@@ -316,7 +316,7 @@ translate zh_hans jen20_jenny_reuse_10f112ae:
 translate zh_hans jen20_jenny_reuse_deaa0f2e:
 
     # jenny a_side e_w f_confused oa_none p_couch_side_sit "Umm, to wash my feet?"
-    jenny a_side e_w f_confused oa_none p_couch_side_sit "呃，当然是去洗脚啊？"
+    jenny a_side e_w f_confused oa_none p_couch_side_sit "呃，去洗脚啊？"
 
 # game/src/plot/jen20.rpy:149
 translate zh_hans jen20_jenny_reuse_21fa48a6:
@@ -436,4 +436,4 @@ translate zh_hans jen20_jenny_rails_d6a513d2:
 translate zh_hans jen20_jenny_rails_ff334106:
 
     # anon a_think e_nw f_pensive @ -m_talk "( ... I mean, what's the worst that could happen? )"
-    anon a_think e_nw f_pensive @ -m_talk "（……我是说，最坏又能怎样？）"
+    anon a_think e_nw f_pensive @ -m_talk "（……反正，再糟又能糟到哪儿去？）"

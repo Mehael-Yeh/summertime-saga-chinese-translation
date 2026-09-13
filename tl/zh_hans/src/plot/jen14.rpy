@@ -631,7 +631,7 @@ translate zh_hans jen14_dining_c3b6f2a6:
 translate zh_hans jen14_dining_e994450d:
 
     # jenny f_annoyed "Are you going to touch them or what?!"
-    jenny f_annoyed "你到底碰不碰它们啊？！"
+    jenny f_annoyed "你到底摸不摸啊？！"
 
 # game/src/plot/jen14.rpy:205
 translate zh_hans jen14_dining_7fe6a8f9:
@@ -651,7 +651,7 @@ translate zh_hans jen14_dining_c7739fd7:
 translate zh_hans jen14_dining_6984c4e0:
 
     # anon a_surprised_up_both f_horny -m_open "Right."
-    anon a_surprised_up_both f_horny -m_open "没错。"
+    anon a_surprised_up_both f_horny -m_open "对哦。"
 
 # game/src/plot/jen14.rpy:213
 translate zh_hans jen14_dining_28eca510:
@@ -678,7 +678,7 @@ translate zh_hans jen14_dining_29cb1f41:
 
 
     # jenny p_grope_suck_pre "Guys always love them."
-    jenny p_grope_suck_pre "男人们总是很喜欢它们。"
+    jenny p_grope_suck_pre "男人们都很喜欢啊。"
 
 # game/src/plot/jen14.rpy:220
 translate zh_hans jen14_dining_926f7258:
@@ -704,14 +704,14 @@ translate zh_hans jen14_dining_ef4c9351:
 
 
     # jenny "I didn't say you could-"
-    jenny "我没说你可以-"
+    jenny "我没说你可以——"
 
 # game/src/plot/jen14.rpy:227
 translate zh_hans jen14_dining_60e6cb06:
 
 
     # jenny "Ffffuuu-"
-    jenny "操操操-"
+    jenny "操——"
 
 # game/src/plot/jen14.rpy:229
 translate zh_hans jen14_dining_323b4a2e:
@@ -925,7 +925,7 @@ translate zh_hans jen14_dining_alt_a1883da3:
 
 
     # jenny e_s f_nervous m_lip p_orgasm @ -m_talk "( Where the hell did that come from?! )"
-    jenny e_s f_nervous m_lip p_orgasm @ -m_talk "（这到底是从哪冒出来的？！）"
+    jenny e_s f_nervous m_lip p_orgasm @ -m_talk "（刚才那到底是怎么回事？！）"
 
 # game/src/plot/jen14.rpy:296
 translate zh_hans jen14_dining_debbie_41a5a0d1:

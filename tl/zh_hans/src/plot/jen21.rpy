@@ -148,7 +148,7 @@ translate zh_hans jen21_delay_jenny_f6c9af82:
 translate zh_hans jen21_delay_jenny_680eff1e:
 
     # anon f_grumpy "Ugh, whatever."
-    anon f_grumpy "恶，随你便。"
+    anon f_grumpy "啧，随你便。"
 
 # game/src/plot/jen21.rpy:63
 translate zh_hans jen21_jenny_e6abf4e1:
@@ -622,7 +622,7 @@ translate zh_hans jen21_jenny_merge_4f0bc740:
 translate zh_hans jen21_jenny_merge_7e9f0633:
 
     # jenny f_annoyed @ e_r "Ugh, fine..."
-    jenny f_annoyed @ e_r "恶，行吧……"
+    jenny f_annoyed @ e_r "唉，行吧……"
 
 # game/src/plot/jen21.rpy:211
 translate zh_hans jen21_jenny_merge_214ff0c7:
@@ -778,7 +778,7 @@ translate zh_hans jen21_jenny_reuse_011af0f0:
 translate zh_hans jen21_jenny_reuse_e35bd11d:
 
     # anon "I tried to warn you..."
-    anon "我明明提醒你了……"
+    anon "我想提醒你来着……"
 
 # game/src/plot/jen21.rpy:275
 translate zh_hans jen21_jenny_reuse_c1db156f:
@@ -814,7 +814,7 @@ translate zh_hans jen21_jenny_reuse_cdef7f66:
 translate zh_hans jen21_jenny_reuse_667c86ef:
 
     # jenny "Ugh, you're all assholes!"
-    jenny "恶，你们全都是混蛋！"
+    jenny "烦死了，你们全都是混蛋！"
 
 # game/src/plot/jen21.rpy:284
 translate zh_hans jen21_jenny_reuse_e00a88ec:
@@ -826,13 +826,13 @@ translate zh_hans jen21_jenny_reuse_e00a88ec:
 translate zh_hans jen21_jenny_reuse_97b3bea9:
 
     # jenny "Unbelievable!"
-    jenny "难以置信！"
+    jenny "真是够了！"
 
 # game/src/plot/jen21.rpy:292
 translate zh_hans jen21_jenny_reuse_bf23a7b6:
 
     # anon f_worried "I really did try to warn-"
-    anon f_worried "我真的有提醒你——"
+    anon f_worried "我真的想提醒你——"
 
 # game/src/plot/jen21.rpy:293
 translate zh_hans jen21_jenny_reuse_b4e33e67:
@@ -850,7 +850,7 @@ translate zh_hans jen21_jenny_reuse_baf4790f:
 translate zh_hans jen21_jenny_reuse_22e2395b:
 
     # jenny e_wsw f_disgusted -m_teeth "Eugh, I gotta go brush my fucking teeth!"
-    jenny e_wsw f_disgusted -m_teeth "恶，我得去他妈的刷牙了！"
+    jenny e_wsw f_disgusted -m_teeth "呃，我他妈得去刷牙了！"
 
 # game/src/plot/jen21.rpy:299
 translate zh_hans jen21_jenny_reuse_b3d72a07:
@@ -964,7 +964,7 @@ translate zh_hans jen21_jenny_reuse_28a5fb94:
 translate zh_hans jen21_jenny_reuse_3f515f27:
 
     # jenny "Eugh, I need some mouth wash!"
-    jenny "恶，我得用点漱口水！"
+    jenny "呃，我得用点漱口水！"
 
 # game/src/plot/jen21.rpy:338
 translate zh_hans jen21_jenny_reuse_1e52a2eb:
@@ -1012,7 +1012,7 @@ translate zh_hans jen21_retry_eb780b0f:
 translate zh_hans jen21_retry_b2742076:
 
     # jenny a_side @ e_r "Urg, just-"
-    jenny a_side @ e_r "恶，反正——"
+    jenny a_side @ e_r "啧，你就——"
 
 # game/src/plot/jen21.rpy:370
 translate zh_hans jen21_retry_70575041:

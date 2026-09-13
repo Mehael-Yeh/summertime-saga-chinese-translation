@@ -142,7 +142,7 @@ translate zh_hans jen19_jenny_a491fa3a:
 translate zh_hans jen19_jenny_92ca4008:
 
     # jenny f_angry m_teeth "I had to do laundry because of you!"
-    jenny f_angry m_teeth "都怪你，害我还得自己洗衣服！"
+    jenny f_angry m_teeth "都是你，害我自己洗了回衣服！"
 
 # game/src/plot/jen19.rpy:92
 translate zh_hans jen19_jenny_eb991069:
@@ -178,13 +178,13 @@ translate zh_hans jen19_jenny_373a424f:
 translate zh_hans jen19_jenny_64a55625:
 
     # anon f_grumpy "You don't have to be such a bitch about it."
-    anon f_grumpy "你也不用为这事这么凶吧。"
+    anon f_grumpy "你也犯不着为这事这么刻薄吧。"
 
 # game/src/plot/jen19.rpy:101
 translate zh_hans jen19_jenny_60fa054b:
 
     # jenny "Ugh."
-    jenny "噫。"
+    jenny "哼。"
 
 # game/src/plot/jen19.rpy:104
 translate zh_hans jen19_jenny_eb780b0f:
@@ -208,7 +208,7 @@ translate zh_hans jen19_jenny_e28397b7:
 translate zh_hans jen19_jenny_61a92969:
 
     # jenny "Next time it happens, {i}you're{/i} washing my sheets!"
-    jenny "下次再发生这种事，{i}你{/i}自己洗我的床单！"
+    jenny "下次再发生这种事，我的床单就由{i}你{/i}来洗！"
 
 # game/src/plot/jen19.rpy:109
 translate zh_hans jen19_jenny_e266bab5:

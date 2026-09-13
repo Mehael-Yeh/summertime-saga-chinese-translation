@@ -1390,7 +1390,7 @@ translate zh_hans strings:
     new "我本该与[saga.cast.jenny]在下午见面。"
     # game/res/meta/step.rpym:1142
     old "[saga.cast.jenny] gave me a handjob! I can't believe it!"
-    new "[saga.cast.jenny]给我打手枪了！真不敢相信！"
+    new "[saga.cast.jenny]给我打飞机了！真不敢相信！"
     # game/res/meta/step.rpym:1147
     old "Speak to [saga.cast.jenny] at breakfast."
     new "早餐时与[saga.cast.jenny]交谈。"
@@ -1399,7 +1399,7 @@ translate zh_hans strings:
     new "看来我不道歉，[saga.cast.jenny]就不会消气。-_-'"
     # game/res/meta/step.rpym:1151
     old "It's crazy that people are paying me to get handjobs."
-    new "人们付钱让我打手枪，这太疯狂了。"
+    new "人们付钱让我打飞机，这太疯狂了。"
     # game/res/meta/step.rpym:1154
     old "I'm surprised things aren't more awkward between us."
     new "我们相处起来居然没变得更尴尬，真没想到。"

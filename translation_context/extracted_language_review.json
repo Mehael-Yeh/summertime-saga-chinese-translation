@@ -1583,6 +1583,363 @@
       "before": "总有一天，你们俩会明白，能拥有彼此有多幸运。",
       "target": "总有一天，你们俩会明白，有彼此陪伴是多么幸运。",
       "line": 325
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "line": 769,
+      "source": "Totally worth it!",
+      "before": "完全值得！",
+      "target": "这也太值了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "line": 145,
+      "source": "I had to do laundry because of you!",
+      "before": "都怪你，害我还得自己洗衣服！",
+      "target": "都是你，害我自己洗了回衣服！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "line": 187,
+      "source": "Ugh.",
+      "before": "噫。",
+      "target": "哼。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "line": 211,
+      "source": "Next time it happens, {i}you're{/i} washing my sheets!",
+      "before": "下次再发生这种事，{i}你{/i}自己洗我的床单！",
+      "target": "下次再发生这种事，我的床单就由{i}你{/i}来洗！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen20.rpy",
+      "line": 439,
+      "source": "( ... I mean, what's the worst that could happen? )",
+      "before": "（……我是说，最坏又能怎样？）",
+      "target": "（……反正，再糟又能糟到哪儿去？）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 829,
+      "source": "Unbelievable!",
+      "before": "难以置信！",
+      "target": "真是够了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 1015,
+      "source": "Urg, just-",
+      "before": "恶，反正——",
+      "target": "啧，你就——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "line": 139,
+      "source": "I guess you earned it.",
+      "before": "算你挣到了。",
+      "target": "这钱算是你应得的。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "line": 265,
+      "source": "... [saga.cast.anon] was eating my peaches.",
+      "before": "……[saga.cast.anon]在吃我的桃子。",
+      "target": "……[saga.cast.anon]吃了我的桃子。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen22.rpy",
+      "line": 271,
+      "source": "Oh, I love peaches!",
+      "before": "哦，我最喜欢桃子了！",
+      "target": "哦，我可喜欢吃桃子了！"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 212,
+      "source": "{pen=purple}{size=+3}Oh my God! I can't believe that {pen=black}FREAKING PERVERT{/pen}!{/size}{/pen}",
+      "before": "{pen=purple}{size=+3}天哪！我真不敢相信那个{pen=black}该死的变态{/pen}！{/size}{/pen}",
+      "target": "{pen=purple}{size=+3}天哪！那个家伙简直是个{pen=black}该死的变态{/pen}！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 312,
+      "source": "{pen=indigo}{size=-1}That little {pen=purple}{b}{u}CREEPER{/u}{/b}{/pen} dared to sneak into my room today!{/size}{/pen}",
+      "before": "{pen=indigo}{size=-1}那个小{pen=purple}{b}{u}混蛋{/u}{/b}{/pen}今天竟敢溜进我的房间！{/size}{/pen}",
+      "target": "{pen=indigo}{size=-1}那个小{pen=purple}{b}{u}变态{/u}{/b}{/pen}今天竟敢溜进我的房间！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 782,
+      "source": "{pen=indigo}And can you {size=+4}{i}imagine{/i}{/size} if someone found out who he is?!{/pen}",
+      "before": "{pen=indigo}你能{size=+4}{i}想象{/i}{/size}如果有人发现了他是谁吗？！{/pen}",
+      "target": "{pen=indigo}要是有人认出他是谁，你能{size=+4}{i}想象{/i}{/size}会怎么样吗？！{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 787,
+      "source": "{rb}{pen=lime}OH MY GOD! I would {pen=black}totally {b}DIE{/b}!{/pen}{/pen}{/rb}{art}{pen=maroon}Maybe I should make him {pen=purple}wear a mask{/pen} or something?{/pen}{/art}{space=50}",
+      "before": "{rb}{pen=lime}哦我的天！我{pen=black}绝对{b}会{/b}死{/pen}的！{/pen}{/rb}{art}{pen=maroon}也许我应该让他{pen=purple}戴个面具{/pen}什么的？{/pen}{/art}{space=50}",
+      "target": "{rb}{pen=lime}天哪！我{pen=black}真要{b}羞死{/b}了{/pen}！{/pen}{/rb}{art}{pen=maroon}也许我应该让他{pen=purple}戴个面具{/pen}什么的？{/pen}{/art}{space=50}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1122,
+      "source": "{space=30}{pen=maroon}He's such a {pen=red}doofus{/pen} and he says the dumbest {rb}things{/rb}{art}{pen=aqua}{size=-5}{b}ALL THE {u}TIME{/u}!{/b}{/size}{/pen}{/art}...{/pen}",
+      "before": "{space=30}{pen=maroon}他真是个{pen=red}傻瓜{/pen}，还总说些最蠢的{rb}话{/rb}{art}{pen=aqua}{size=-5}{b}每时每刻{u}都在说{/u}！{/b}{/size}{/pen}{/art}……{/pen}",
+      "target": "{space=30}{pen=maroon}他真是个{pen=red}傻瓜{/pen}，净说些蠢{rb}话{/rb}{art}{pen=aqua}{size=-5}{b}每时每刻{u}都在说{/u}！{/b}{/size}{/pen}{/art}……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1392,
+      "source": "{space=120}{pen=pink}I will {pen=silver}{b}{i}{u}LITERALLY{/u}{/i}{/b}{/pen} {pen=black}die of embarrassment! x_x{/pen}{/pen}",
+      "before": "{space=120}{pen=pink}我会{pen=silver}{b}{i}{u}羞愤欲死{/u}{/i}{/b}{/pen}{pen=black}！x_x{/pen}{/pen}",
+      "target": "{space=120}{pen=pink}我{pen=silver}{b}{i}{u}真的{/u}{/i}{/b}{/pen}{pen=black}会羞死的！x_x{/pen}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "line": 391,
+      "source": "Did you really just ask me that?",
+      "before": "你刚才真让我把鸡巴掏出来？",
+      "target": "你刚才真问了我这个？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "line": 499,
+      "source": "Oh, shut up!",
+      "before": "哦，闭嘴吧！",
+      "target": "行了，闭嘴吧！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "line": 517,
+      "source": "Well, I am.",
+      "before": "事实就是这样。",
+      "target": "可不就是嘛。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "line": 625,
+      "source": "I have a proposition for you.",
+      "before": "我有件事跟你谈。",
+      "target": "我有个提议想跟你谈谈。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen16.rpy",
+      "line": 979,
+      "source": "Eww, no!",
+      "before": "恶，才不是！",
+      "target": "呃，才不是！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "line": 283,
+      "source": "Oh, I think you'll be pleasantly surprised!",
+      "before": "哦，我保证会让你们大吃一惊！",
+      "target": "哦，我想你们会很惊喜的！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen18.rpy",
+      "line": 583,
+      "source": "Ugh, okay... stream's over!",
+      "before": "恶，好了……直播结束！",
+      "target": "啧，好了……直播结束！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen19.rpy",
+      "line": 181,
+      "source": "You don't have to be such a bitch about it.",
+      "before": "你也不用为这事这么凶吧。",
+      "target": "你也犯不着为这事这么刻薄吧。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen20.rpy",
+      "line": 301,
+      "source": "I know, right?",
+      "before": "我就说吧？",
+      "target": "就是啊，对吧？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen20.rpy",
+      "line": 319,
+      "source": "Umm, to wash my feet?",
+      "before": "呃，当然是去洗脚啊？",
+      "target": "呃，去洗脚啊？"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 151,
+      "source": "Ugh, whatever.",
+      "before": "恶，随你便。",
+      "target": "啧，随你便。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 781,
+      "source": "I tried to warn you...",
+      "before": "我明明提醒你了……",
+      "target": "我想提醒你来着……"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 817,
+      "source": "Ugh, you're all assholes!",
+      "before": "恶，你们全都是混蛋！",
+      "target": "烦死了，你们全都是混蛋！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 835,
+      "source": "I really did try to warn-",
+      "before": "我真的有提醒你——",
+      "target": "我真的想提醒你——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 853,
+      "source": "Eugh, I gotta go brush my fucking teeth!",
+      "before": "恶，我得去他妈的刷牙了！",
+      "target": "呃，我他妈得去刷牙了！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 967,
+      "source": "Eugh, I need some mouth wash!",
+      "before": "恶，我得用点漱口水！",
+      "target": "呃，我得用点漱口水！"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1372,
+      "source": "{pen=maroon}She says she's {pen=yellow}{size=-3}\\\"helping him with anxieties\\\"{/size}{/pen} {rb}or some{/rb}{rt}{pen=indigo}{size=+2}{i}Yeah right!{/i}{/size}{/pen}{/rt} {b}bullshit{/b}.{/pen}{space=35}",
+      "before": "{pen=maroon}她说她在{pen=yellow}{size=-3}“帮他缓解焦虑”{/size}{/pen} {rb}之类的{/rb}{rt}{pen=indigo}{size=+2}{i}信她才怪！{/i}{/size}{/pen}{/rt} {b}鬼话{/b}。{/pen}{space=35}",
+      "target": "{pen=maroon}她还说什么她在{pen=yellow}{size=-3}“帮他缓解焦虑”{/size}{/pen} {rb}之类的{/rb}{rt}{pen=indigo}{size=+2}{i}信她才怪！{/i}{/size}{/pen}{/rt} {b}鬼话{/b}。{/pen}{space=35}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1377,
+      "source": "{space=50}{pen=purple}{size=-6}The {pen=aqua}little perv{/pen} probably told her some {pen=aqua}{b}sob story{/b}{/pen} about his {pen=aqua}pathetic{/pen}{/size}{/pen}",
+      "before": "{space=50}{pen=purple}{size=-6}那{pen=aqua}小变态{/pen}大概又在{pen=aqua}{b}卖惨{/b}{/pen}，说自己过着{pen=aqua}可怜巴巴的{/pen}{/size}{/pen}",
+      "target": "{space=50}{pen=purple}{size=-6}那{pen=aqua}小变态{/pen}大概在{pen=aqua}{b}卖惨{/b}{/pen}，说自己过着{pen=aqua}可怜巴巴的{/pen}{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "line": 654,
+      "source": "Right.",
+      "before": "没错。",
+      "target": "对哦。"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 232,
+      "source": "{pen=orange}{rb}What a{/rb}{art}{pen=red}{size=-1}So {pen=maroon}{size=+8}{u}thirsty{/u}{/size}{/pen}! It's {b}just sad.{/b} LOL!{/size}{/pen}{/art} {pen=red}{b}LOSER{/b}{/pen}!!{/pen}{space=100}",
+      "before": "{pen=orange}{rb}真是{/rb}{art}{pen=red}{size=-1}太{pen=maroon}{size=+8}{u}饥渴{/u}{/size}{/pen}了！真是{b}可悲。{/b}哈哈哈！{/size}{/pen}{/art} {pen=red}{b}废柴{/b}{/pen}！！{/pen}{space=100}",
+      "target": "{pen=orange}{rb}真是个{/rb}{art}{pen=red}{size=-1}太{pen=maroon}{size=+8}{u}饥渴{/u}{/size}{/pen}了！真是{b}可悲。{/b}哈哈哈！{/size}{/pen}{/art} {pen=red}{b}废柴{/b}{/pen}！！{/pen}{space=100}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 322,
+      "source": "{pen=indigo}He must have realised he'll be a pathetic virgin forever{/pen}",
+      "before": "{pen=indigo}他一定意识到自己将永远是可悲的处男{/pen}",
+      "target": "{pen=indigo}他肯定是觉得自己这辈子都只能当个可怜的处男了，{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 327,
+      "source": "{pen=indigo}because he was trying to steal my {pen=neonpink}naughty pictures{/pen}...{/pen}",
+      "before": "{pen=indigo}因为他想偷我的{pen=neonpink}艳照{/pen}……{/pen}",
+      "target": "{pen=indigo}居然想偷我的{pen=neonpink}艳照{/pen}……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 737,
+      "source": "{pen=pink}I mean, sure. He's a {pen=red}{size=-2}{u}doofus{/u}{/size}{/pen} but he'll pretty much do{/pen}{space=30}",
+      "before": "{pen=pink}我是说，他是个{pen=red}{size=-2}{u}傻瓜{/u}{/size}{/pen}没错，但我让他做什么，{/pen}{space=30}",
+      "target": "{pen=pink}他是个{pen=red}{size=-2}{u}傻瓜{/u}{/size}{/pen}没错，但我让他做什么，{/pen}{space=30}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 992,
+      "source": "{pen=orange}{size=-3}I don't even know anymore... It's just been a {pen=yellow}{size=+4}{i}{u}super{/u}{/i}{/size}{/pen} weird day!{/size}{/pen}",
+      "before": "{pen=orange}{size=-3}我已经不知道了…… 这真是{pen=yellow}{size=+4}{i}{u}超级{/u}{/i}{/size}{/pen}奇怪的一天！{/size}{/pen}",
+      "target": "{pen=orange}{size=-3}我也搞不懂了……今天真是{pen=yellow}{size=+4}{i}{u}超级{/u}{/i}{/size}{/pen}奇怪的一天！{/size}{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1007,
+      "source": "{space=80}{pen=aqua}I'm not going to lie, I think about it a lot...{/pen}",
+      "before": "{space=80}{pen=aqua}老实说，我经常在想这件事…{/pen}",
+      "target": "{space=80}{pen=aqua}老实说，我经常会想起这件事……{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1117,
+      "source": "{pen=maroon}Why am I {pen=pink}enjoying this so much{/pen}?!{/pen}{space=110}",
+      "before": "{pen=maroon}为什么我{pen=pink}这么享受这个{/pen}？！{/pen}{space=110}",
+      "target": "{pen=maroon}我怎么会{pen=pink}这么享受这件事{/pen}？！{/pen}{space=110}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1427,
+      "source": "{pen=indigo}Then she straight up chased me back to my room,{/pen}",
+      "before": "{pen=indigo}然后她直接把我追回了我的房间，{/pen}",
+      "target": "{pen=indigo}然后她一路追着我回到我的房间，{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "line": 634,
+      "source": "Are you going to touch them or what?!",
+      "before": "你到底碰不碰它们啊？！",
+      "target": "你到底摸不摸啊？！"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "line": 681,
+      "source": "Guys always love them.",
+      "before": "男人们总是很喜欢它们。",
+      "target": "男人们都很喜欢啊。"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "line": 707,
+      "source": "I didn't say you could-",
+      "before": "我没说你可以-",
+      "target": "我没说你可以——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "line": 714,
+      "source": "Ffffuuu-",
+      "before": "操操操-",
+      "target": "操——"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen14.rpy",
+      "line": 928,
+      "source": "( Where the hell did that come from?! )",
+      "before": "（这到底是从哪冒出来的？！）",
+      "target": "（刚才那到底是怎么回事？！）"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen21.rpy",
+      "line": 625,
+      "source": "Ugh, fine...",
+      "before": "恶，行吧……",
+      "target": "唉，行吧……"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1457,
+      "source": "{space=40}{pen=orange}.... but, like... why is {pen=maroon}{b}[saga.cast.anon]{/b}{/pen} bothering with {pen=red}her{/pen}?{/pen}",
+      "before": "{space=40}{pen=orange}……但是，怎么说呢……为什么{pen=maroon}{b}[saga.cast.anon]{/b}{/pen}要费心搭理{pen=red}她{/pen}呢？{/pen}",
+      "target": "{space=40}{pen=orange}……可话又说回来……{pen=maroon}{b}[saga.cast.anon]{/b}{/pen}为什么偏偏要找{pen=red}她{/pen}呢？{/pen}"
+    },
+    {
+      "file": "tl/zh_hans/extracted/jenny_diary.rpy",
+      "line": 1462,
+      "source": "{pen=purple}Does he have an {pen=silver}{size=+6}old lady fetish{/size}{/pen} or something?{/pen}",
+      "before": "{pen=purple}他是不是有{pen=silver}{size=+6}恋老癖{/size}{/pen}还是什么？{/pen}",
+      "target": "{pen=purple}他是不是{pen=silver}{size=+6}就好年纪大的女人这一口{/size}{/pen}啊？{/pen}"
     }
   ],
   "reading_batches": [
@@ -2323,6 +2680,162 @@
         325
       ],
       "note": "Two non-graphic closing remarks corrected and reread with skeptical replies and bacon transition; praise no longer adds reproach, mutual companionship avoids literal ownership phrasing. Other findings remain unresolved."
+    },
+    {
+      "id": "consolidated_pending_46_diary_144",
+      "status": "ordinary_language_corrections_reread_remaining_not_approved",
+      "changes": 16,
+      "note": "16 corrections checked with adjacent text and known local scenes; 10 from original 46 findings and six additional diary entries. All original 144 pending diary source/target pairs screened in batches; screening alone does not approve pages or resolve explicit content."
+    },
+    {
+      "id": "final_pending_acceptance",
+      "status": "targeted_corrections_context_reread",
+      "changes": 18,
+      "note": "18 ordinary-language corrections reread. 16 listed findings fixed; one further listed fragment retained as intentional stammer. Diary final decisions recorded individually, no full-file pass.",
+      "diary_newly_accepted": 71,
+      "diary_remaining_lines": [
+        227,
+        232,
+        247,
+        252,
+        322,
+        327,
+        332,
+        362,
+        382,
+        387,
+        397,
+        402,
+        522,
+        527,
+        532,
+        677,
+        682,
+        697,
+        737,
+        742,
+        792,
+        797,
+        802,
+        812,
+        817,
+        822,
+        827,
+        927,
+        932,
+        937,
+        942,
+        947,
+        952,
+        957,
+        977,
+        982,
+        987,
+        992,
+        997,
+        1002,
+        1007,
+        1012,
+        1017,
+        1022,
+        1027,
+        1037,
+        1042,
+        1047,
+        1052,
+        1057,
+        1062,
+        1067,
+        1072,
+        1077,
+        1082,
+        1087,
+        1092,
+        1097,
+        1102,
+        1107,
+        1112,
+        1117,
+        1137,
+        1182,
+        1187,
+        1422,
+        1427,
+        1432,
+        1442,
+        1447,
+        1452,
+        1457,
+        1462
+      ]
+    },
+    {
+      "id": "remaining_19_73_ordinary_language",
+      "status": "ordinary_language_reread_explicit_remainder_unapproved",
+      "changes": 9,
+      "note": "Nine ordinary-language corrections reread with adjacent lines and marginal anchors; source keys and tags preserved. No declaration of whole-file completion.",
+      "diary_newly_accepted": 20,
+      "diary_remaining_lines": [
+        227,
+        252,
+        332,
+        362,
+        382,
+        387,
+        397,
+        402,
+        532,
+        682,
+        697,
+        742,
+        792,
+        797,
+        802,
+        812,
+        817,
+        822,
+        827,
+        927,
+        932,
+        937,
+        942,
+        947,
+        952,
+        957,
+        977,
+        982,
+        987,
+        1012,
+        1017,
+        1027,
+        1037,
+        1042,
+        1047,
+        1067,
+        1072,
+        1082,
+        1087,
+        1092,
+        1097,
+        1102,
+        1107,
+        1137,
+        1182,
+        1187,
+        1422,
+        1432,
+        1442,
+        1447,
+        1452,
+        1457,
+        1462
+      ]
+    },
+    {
+      "id": "final_scoped_65_closeout",
+      "status": "corrected_and_context_reread",
+      "changes": 8,
+      "note": "Eight ordinary-language edits within fixed 65-item scope reread. Other 57 items satisfy revised proofread-only requirement; remaining explicit-text findings preserved, not claimed corrected."
     }
   ],
   "source_followups": [
@@ -3123,7 +3636,7 @@
     {
       "id": "jen14_remaining_language_followup",
       "file": "tl/zh_hans/src/plot/jen14.rpy",
-      "status": "requires_followup",
+      "status": "resolved_targeted_context_reread",
       "target_lines": [
         601,
         634,
@@ -3137,8 +3650,17 @@
       "resolved_target_lines": [
         525,
         560,
-        574
-      ]
+        574,
+        601,
+        634,
+        654,
+        681,
+        707,
+        714,
+        928
+      ],
+      "remaining_target_lines": [],
+      "resolution_note": "601 retained after adjacent source comparison: repetition of to intentionally depicts a stalled sentence."
     },
     {
       "id": "jen15_local_read_followup",
@@ -3157,19 +3679,26 @@
     {
       "id": "jen16_scope_branch_language",
       "file": "tl/zh_hans/src/plot/jen16.rpy",
-      "status": "requires_followup",
+      "status": "resolved_targeted_context_reread",
       "target_lines": [
         391,
         499,
         517,
         625
       ],
-      "note": "Alt opening expands a backward reference into a more specific request, although the immediately preceding shared question differs. Other candidates include literal reaction and weakened proposition wording. Preserve reading vs approval distinction; explicit family-role content not rewritten."
+      "note": "Alt opening expands a backward reference into a more specific request, although the immediately preceding shared question differs. Other candidates include literal reaction and weakened proposition wording. Preserve reading vs approval distinction; explicit family-role content not rewritten.",
+      "resolved_target_lines": [
+        391,
+        499,
+        517,
+        625
+      ],
+      "remaining_target_lines": []
     },
     {
       "id": "jen16_afternoon_language",
       "file": "tl/zh_hans/src/plot/jen16.rpy",
-      "status": "partial_resolved",
+      "status": "resolved_targeted_context_reread",
       "target_lines": [
         979
       ],
@@ -3178,12 +3707,14 @@
       "resolved_target_lines": [
         787,
         925,
+        979,
         1039,
         1231,
         1237,
         1279,
         1453
-      ]
+      ],
+      "remaining_target_lines": []
     },
     {
       "id": "jen17_queue_language",
@@ -3244,7 +3775,7 @@
     {
       "id": "diary_jen21_jen24_expression_followup",
       "file": "tl/zh_hans/extracted/jenny_diary.rpy",
-      "status": "unresolved",
+      "status": "partial_resolved",
       "target_lines": [
         957,
         992,
@@ -3253,12 +3784,22 @@
         1102,
         1107
       ],
-      "note": "Connected four-page reading found incomplete predicate reuse, literal self-question response, added functional evaluation, nested indirect phrasing, formal modal phrasing and an English period. Explicit family-role sexual context unchanged; reading must not count as language approval."
+      "note": "Connected four-page reading found incomplete predicate reuse, literal self-question response, added functional evaluation, nested indirect phrasing, formal modal phrasing and an English period. Explicit family-role sexual context unchanged; reading must not count as language approval.",
+      "resolved_target_lines": [
+        992
+      ],
+      "remaining_target_lines": [
+        957,
+        1027,
+        1092,
+        1102,
+        1107
+      ]
     },
     {
       "id": "jen18_connected_language_followup",
       "file": "tl/zh_hans/src/plot/jen18.rpy",
-      "status": "partial_resolved",
+      "status": "resolved_targeted_context_reread",
       "target_lines": [
         283,
         583,
@@ -3269,20 +3810,19 @@
       ],
       "note": "Source/target full local reading: think becomes guarantee and pleasant nuance lost; literal Ugh; formal worth-it exclamation; interrupted merit appeal unnatural; bowl-cutty face literal compound; postponed-show past action becomes present necessity. Explicit scene material remains unchanged and not approved.",
       "resolved_target_lines": [
+        283,
+        583,
+        769,
         829,
         1009,
         1033
       ],
-      "remaining_target_lines": [
-        283,
-        583,
-        769
-      ]
+      "remaining_target_lines": []
     },
     {
       "id": "jen19_breakfast_language_followup",
       "file": "tl/zh_hans/src/plot/jen19.rpy",
-      "status": "partial_resolved",
+      "status": "resolved_targeted_context_reread",
       "target_lines": [
         145,
         181,
@@ -3293,40 +3833,49 @@
       ],
       "note": "Read complete local scene: laundry timing needs past-action check; rebuke strength and Ugh reaction differ; next-time responsibility uses awkward self wording; spending-time-together collocation and affirmative response need voice consistency. Explicit scene content unchanged.",
       "resolved_target_lines": [
-        325,
-        337
-      ],
-      "remaining_target_lines": [
         145,
         181,
         187,
-        211
-      ]
+        211,
+        325,
+        337
+      ],
+      "remaining_target_lines": []
     },
     {
       "id": "jen20_local_language_followup",
       "file": "tl/zh_hans/src/plot/jen20.rpy",
-      "status": "unresolved",
+      "status": "resolved_targeted_context_reread",
       "target_lines": [
         301,
         319,
         439
       ],
-      "note": "Full connected read found I-know-right agreement translated as prior assertion; extra of-course in wash response; literal I-mean in self-reassurance. Explicit scene content unchanged; no blanket language approval."
+      "note": "Full connected read found I-know-right agreement translated as prior assertion; extra of-course in wash response; literal I-mean in self-reassurance. Explicit scene content unchanged; no blanket language approval.",
+      "resolved_target_lines": [
+        301,
+        319,
+        439
+      ],
+      "remaining_target_lines": []
     },
     {
       "id": "jen21_delay_reaction_remaining",
       "file": "tl/zh_hans/src/plot/jen21.rpy",
-      "status": "unresolved",
+      "status": "resolved_targeted_context_reread",
       "target_lines": [
         151
       ],
-      "note": "Ugh rendered as literal 恶 in later exchange; unchanged. Opening corrections do not approve other scene content."
+      "note": "Ugh rendered as literal 恶 in later exchange; unchanged. Opening corrections do not approve other scene content.",
+      "resolved_target_lines": [
+        151
+      ],
+      "remaining_target_lines": []
     },
     {
       "id": "jen21_remainder_language_followup",
       "file": "tl/zh_hans/src/plot/jen21.rpy",
-      "status": "unresolved",
+      "status": "partial_resolved",
       "target_lines": [
         625,
         703,
@@ -3341,12 +3890,28 @@
         967,
         1015
       ],
-      "note": "Local reading found recurring literal Ugh/Eugh/Urg; default-name muffled calls lose name; muffled warning interpretation needs source context, not guessed fluent words; tried-to-warn becomes completed warning; Unbelievable literal. Explicit/coercive scene text unchanged."
+      "note": "Local reading found recurring literal Ugh/Eugh/Urg; default-name muffled calls lose name; muffled warning interpretation needs source context, not guessed fluent words; tried-to-warn becomes completed warning; Unbelievable literal. Explicit/coercive scene text unchanged.",
+      "resolved_target_lines": [
+        625,
+        781,
+        817,
+        829,
+        835,
+        853,
+        967,
+        1015
+      ],
+      "remaining_target_lines": [
+        703,
+        715,
+        721,
+        775
+      ]
     },
     {
       "id": "jen22_breakfast_expression_followup",
       "file": "tl/zh_hans/src/plot/jen22.rpy",
-      "status": "partial_resolved",
+      "status": "resolved_targeted_context_reread",
       "target_lines": [
         139,
         265,
@@ -3356,14 +3921,13 @@
       ],
       "note": "Full connected reading: earned-it wording stiff; past eating becomes current eating; love peaches becomes unsupported favorite; sharing praise adds reproach with 还知道; have-one-another literal ownership phrasing. No edits in this batch; preserve scope distinctions.",
       "resolved_target_lines": [
+        139,
+        265,
+        271,
         319,
         325
       ],
-      "remaining_target_lines": [
-        139,
-        265,
-        271
-      ]
+      "remaining_target_lines": []
     }
   ],
   "whole_lewd_review": "not_complete; known semantic errors remain; renaming is not translation approval"
