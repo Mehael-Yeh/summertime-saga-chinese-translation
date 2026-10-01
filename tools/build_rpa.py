@@ -21,6 +21,11 @@ def source_files(root: Path) -> list[tuple[str, Path]]:
         for path in (root / "tl").rglob("*")
         if path.is_file()
     ]
+    files.extend(
+        (path.relative_to(root).as_posix(), path)
+        for path in (root / "mods").rglob("*")
+        if path.is_file() and path.suffix in (".rpy", ".rpyc", ".rpym", ".rpymc")
+    )
     return sorted(files)
 
 

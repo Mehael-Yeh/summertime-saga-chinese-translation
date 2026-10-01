@@ -17,7 +17,7 @@
 - 翻译源文件位于 `tl/zh_hans/`，发布版汉化包名为 `zh_hans.rpa`。
 - 项目内置默认切换为中文、语言入口和短信界面适配等辅助脚本。
 - 翻译仍在完善中，可能存在错译、漏译、语气不一致或版本兼容问题。
-- 汉化包内置`tl/zh_hans/sex_speed_control.rpy` 仿原版（v0.20.16）速度控制Mod。
+- 汉化包内置 `mods/` 中的仿原版（v0.20.16）动画调速 Mod 和角色图鉴一键解锁 Mod。
 
 ## :arrow_down: 安装方法
 
@@ -41,19 +41,23 @@ SummertimeSaga/
 此方式适合需要自行修改译文或参与翻译的用户，或者希望拿到**最新手动翻译**的用户。
 
 1. [下载](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/archive/refs/heads/main.zip)或克隆本仓库。
-2. 将仓库中的整个 `tl` 文件夹复制到游戏的 `game` 文件夹中。
+2. 将仓库中的整个 `tl` 文件夹复制到游戏的 `game` 文件夹中；如需内置 Mod，同时将 `mods` 文件夹复制到 `game` 中。
 3. 合并目录时保留 `tl/zh_hans/` 的完整结构。
 
 ```text
 SummertimeSaga/
 └── game/
+    ├── mods/
+    │   ├── sex_speed_control/
+    │   │   └── sex_speed_control.rpy
+    │   └── cookie_jar_unlock/
+    │       └── cookie_jar_unlock.rpy
     └── tl/
         └── zh_hans/
             ├── base_box/
             ├── fonts/
             ├── res/
             ├── src/
-            ├── sex_speed_control.rpy
             ├── hook_add_change_language_entrance.rpy
             ├── bytecode_strings.rpy
             ├── sms_fix.rpy
@@ -64,6 +68,7 @@ SummertimeSaga/
 
 - **更新：** 退出游戏，删除旧版 `zh_hans.rpa` 后再复制新版文件；使用源文件安装时，请先删除旧的 `game/tl/zh_hans/`，再复制新版本。
 - **卸载：** 删除 `game/zh_hans.rpa`，或删除手动安装的 `game/tl/zh_hans/`。
+- 使用源文件安装 Mod 时，更新前删除旧的 `game/`、`game/tl/zh_hans/` 或 `game/mods/` 根目录中的同名 Mod 脚本及 `.rpyc`，避免重复加载；卸载 Mod 时删除对应的 `game/mods/sex_speed_control/` 或 `game/mods/cookie_jar_unlock/` 子文件夹。
 - 如果卸载后仍显示中文，请在游戏设置中切换语言，并清理可能遗留的重复汉化文件。
 
 ## 	:open_file_folder: 仓库结构
@@ -72,7 +77,14 @@ SummertimeSaga/
 .
 ├── .github/workflows/       # GitHub Actions 自动构建与发布
 ├── assets/                  # 截图示例素材
-├── tl/zh_hans/              # Ren'Py 简体中文翻译源文件（内含sex_speed_control.rpy仿原版速度控制Mod）
+├── mods/                    # 动画调速与角色图鉴一键解锁 Mod
+│   ├── sex_speed_control/
+│   │   ├── sex_speed_control.rpy
+│   │   └── README.md         # 调速 Mod 安装及使用说明
+│   └── cookie_jar_unlock/
+│       ├── cookie_jar_unlock.rpy
+│       └── README.md         # 图鉴 Mod 安装及兼容说明
+├── tl/zh_hans/              # Ren'Py 简体中文翻译源文件及界面适配脚本
 ├── tools/                   # 校验、术语审计和 RPA 构建工具
 ├── translation_context/     # 角色、剧情、术语、风格和精修进度记录
 ├── LICENSE

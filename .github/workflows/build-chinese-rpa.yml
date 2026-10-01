@@ -42,6 +42,7 @@ jobs:
         run: |
           mkdir -p build/game
           cp -R tl build/game/tl
+          cp -R mods build/game/mods
           ./renpy-8.5.3-sdk/renpy.sh build compile
 
       - name: Build and verify zh_hans.rpa

@@ -6,9 +6,11 @@
 
 ## 安装
 
-使用本仓库完整汉化源文件时，此 Mod 随 `tl/zh_hans/` 一起安装；后续构建的汉化包也会包含它。
+使用本仓库源文件时，将 `tl/` 和 `mods/` 复制到游戏的 `game/` 目录；后续构建的汉化包也会包含此 Mod。
 
-单独安装时，把 `tl/zh_hans/cookie_jar_unlock.rpy` 复制到游戏的 `game/` 目录。不要同时保留两份该脚本。
+单独安装时，把 `mods/cookie_jar_unlock/` 文件夹复制到游戏的 `game/mods/` 目录，脚本路径为 `game/mods/cookie_jar_unlock/cookie_jar_unlock.rpy`。不要同时保留两份该脚本，也不要同时使用内置此 Mod 的汉化包和散装脚本。
+
+更新前完全退出游戏，移除曾放在 `game/`、`game/tl/zh_hans/` 或 `game/mods/` 根目录的同名脚本及 `.rpyc`。卸载散装版本时删除 `game/mods/cookie_jar_unlock/` 中的脚本及编译文件。
 
 首次打开图鉴时，先关闭游戏原有的介绍弹窗，再点击右上角锁头。
 

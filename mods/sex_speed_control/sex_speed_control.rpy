@@ -1,6 +1,6 @@
 # Summertime Saga 21.0.0 性爱动画速度控制
 #
-# 将此文件安装为 game/sex_speed_control.rpy
+# 将此文件安装为 game/mods/sex_speed_control/sex_speed_control.rpy
 # 按钮标签使用 Unicode 转义，确保此文件在不同 Windows 区域设置下安全复制。
 #
 # 进入或离开色情菜单时，速度级别重置为 1.00 倍
