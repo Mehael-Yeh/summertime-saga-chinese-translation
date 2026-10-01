@@ -1,0 +1,67 @@
+{
+  "note": "Historical Mod review records, excluded from translation audit inventory by user request on 2026-10-02.",
+  "files": {
+    "mods/sex_speed_control/sex_speed_control.rpy": {
+      "sha256": "e010bd5126b920068120e3d4dd49b43994275def958658bf82d87a56e76701d2",
+      "pairs": 7,
+      "status": "local_paths_reviewed",
+      "review": {
+        "date": "2026-09-13",
+        "translation_sha256": "e010bd5126b920068120e3d4dd49b43994275def958658bf82d87a56e76701d2",
+        "source_sha256": "ad3694888b37330c531bb9c025639d1cbf6db6763917723b1624f13d23d3993d",
+        "source": "repository/tl/zh_hans/sex_speed_control.rpy",
+        "source_local": ".codex_tmp/shared_fragments/source/tl/zh_hans/sex_speed_control.rpy",
+        "source_ranges": [
+          [
+            1,
+            141
+          ]
+        ],
+        "paths": [
+          "速度UI七条标签解码阅读：慢一点/快一点/慢/稍慢/标准/快/动画速度；按钮减增与边界禁用、隐藏状态标签"
+        ],
+        "items": [
+          {
+            "id": "strings",
+            "line": 123,
+            "pair_sha256": "8cef39d45a562948dc37495770ae8d52fa7eb8ab1512ec79571cd2146d64de2b"
+          },
+          {
+            "id": "strings",
+            "line": 126,
+            "pair_sha256": "a98225b6730ca5fb250b6ad4512fc364bdc6f38adfc1661fa5a973abb769dc38"
+          },
+          {
+            "id": "strings",
+            "line": 129,
+            "pair_sha256": "818682c6f3114b1d9c6de513348f8682018dd178e336f518960c69e834cea5ed"
+          },
+          {
+            "id": "strings",
+            "line": 132,
+            "pair_sha256": "58d902ff1b081d32bdad52c1167dd8a6e66a52e650f55b1a4b23baf2fb5678a3"
+          },
+          {
+            "id": "strings",
+            "line": 135,
+            "pair_sha256": "fc10009e4437596ae671fc60cec76cac018494e39852ae8c0610860880282afb"
+          },
+          {
+            "id": "strings",
+            "line": 138,
+            "pair_sha256": "1d210260e394d33173fbf86d2d2d9360422abd0bbcf6c2dee202850e75a3e92d"
+          },
+          {
+            "id": "strings",
+            "line": 141,
+            "pair_sha256": "dc414f03b17d084c95b0414a48ec76f5f0dda198e23521a0422e24d8e4ca5b82"
+          }
+        ],
+        "note": "本项目附加控件，按当前仓库源代码阅读七条已有翻译。未进行场景游玩或修改动画实现。 2026-10-02：迁移至 mods 子目录，核对七条译文及行号与既有记录一致；仅刷新迁移后的文件指纹，保留历史来源与审校日期。",
+        "external_event_followup": true,
+        "dependencies": [],
+        "method": "bilingual_scene_read"
+      }
+    }
+  }
+}
