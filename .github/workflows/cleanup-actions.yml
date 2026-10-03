@@ -1,0 +1,59 @@
+name: Cleanup Actions history
+
+on:
+  schedule:
+    # GitHub Actions 使用 UTC：每天 21:00 UTC 对应次日北京时间 05:00。
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: cleanup-actions-history
+  cancel-in-progress: false
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keep only the three newest workflow runs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mapfile -t runs < <(
+            gh api --paginate \
+              "repos/$GITHUB_REPOSITORY/actions/runs?per_page=100" \
+              --jq '.workflow_runs[] | [.created_at, (.id | tostring), .status, .name] | @tsv' |
+              sort -r
+          )
+
+          keep_count=3
+          deleted_count=0
+          skipped_count=0
+          for index in "${!runs[@]}"; do
+            if (( index < keep_count )); then
+              continue
+            fi
+
+            IFS=$'\t' read -r created_at run_id status workflow_name <<< "${runs[$index]}"
+            if [[ "$status" != "completed" ]]; then
+              echo "Skip active run $run_id ($workflow_name, $status)"
+              skipped_count=$((skipped_count + 1))
+              continue
+            fi
+
+            echo "Delete run $run_id ($workflow_name, $created_at)"
+            gh api --method DELETE "repos/$GITHUB_REPOSITORY/actions/runs/$run_id"
+            deleted_count=$((deleted_count + 1))
+          done
+
+          {
+            echo "## Actions history cleanup"
+            echo
+            echo "- Runs found: ${#runs[@]}"
+            echo "- Newest runs retained: $keep_count"
+            echo "- Completed runs deleted: $deleted_count"
+            echo "- Active old runs skipped: $skipped_count"
+          } >> "$GITHUB_STEP_SUMMARY"

@@ -4,9 +4,18 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: "发行版版本号（将作为标签），例如 v21.0.0-wip.7944"
+        description: "游戏版本号，例如 v21.0.0-wip.7944（无需填写 T/P/R 编号）"
         required: true
         type: string
+      release_type:
+        description: "发布类型（T：测试版，P：预发行版，R：发行版）"
+        required: true
+        type: choice
+        default: "测试版"
+        options:
+          - "测试版"
+          - "预发行版"
+          - "发行版"
   release:
     types:
       - published
@@ -64,10 +73,31 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    concurrency:
+      # 串行分配编号与创建 Release，避免两个发布使用相同编号。
+      group: publish-chinese-rpa
+      cancel-in-progress: false
     permissions:
       contents: write
 
     steps:
+      - name: Checkout release tools
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Choose next release number
+        if: github.event_name == 'workflow_dispatch'
+        id: next-release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GAME_VERSION: ${{ inputs.version }}
+          RELEASE_TYPE: ${{ inputs.release_type }}
+        run: python tools/next_release.py
+
       - name: Download built RPA
         uses: actions/download-artifact@v8
         with:
@@ -77,38 +107,27 @@ jobs:
       - name: Publish zh_hans.rpa to GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
+          EVENT_NAME: ${{ github.event_name }}
+          EXISTING_TAG: ${{ github.event.release.tag_name }}
+          NEXT_TAG: ${{ steps.next-release.outputs.tag }}
+          NEXT_TITLE: ${{ steps.next-release.outputs.title }}
+          PRERELEASE: ${{ steps.next-release.outputs.prerelease }}
+          TARGET_SHA: ${{ github.sha }}
         shell: bash
         run: |
           set -euo pipefail
-          REPO="${{ github.repository }}"
-
-          if [[ "${{ github.event_name }}" == "release" ]]; then
-            VERSION="${{ github.event.release.tag_name }}"
+          # 发布已有 Release 时只更新附件，不另行分配编号。
+          if [[ "$EVENT_NAME" == "release" ]]; then
+            gh release upload "$EXISTING_TAG" dist/zh_hans.rpa --clobber --repo "$GITHUB_REPOSITORY"
           else
-            VERSION="${{ inputs.version }}"
-            # 去掉首尾空白
-            VERSION="${VERSION#"${VERSION%%[![:space:]]*}"}"
-            VERSION="${VERSION%"${VERSION##*[![:space:]]}"}"
-          fi
-
-          if [[ -z "$VERSION" ]]; then
-            echo "::error::版本号不能为空"
-            exit 1
-          fi
-
-          echo "Release 标签: $VERSION"
-          echo "Release 名称: $VERSION Chinese Translation"
-
-          if gh release view "$VERSION" --repo "$REPO" >/dev/null 2>&1; then
-            echo "Release $VERSION 已存在，仅更新附件"
-            gh release upload "$VERSION" dist/zh_hans.rpa \
-              --clobber \
-              --repo "$REPO"
-          else
-            echo "创建 Release $VERSION"
-            gh release create "$VERSION" dist/zh_hans.rpa \
-              --title "$VERSION Chinese Translation" \
-              --target "${{ github.sha }}" \
+            flags=(--latest)
+            if [[ "$PRERELEASE" == "true" ]]; then
+              flags=(--prerelease --latest=false)
+            fi
+            # 新编号始终创建新 Release，不覆盖已有编号。
+            gh release create "$NEXT_TAG" dist/zh_hans.rpa \
+              --title "$NEXT_TITLE" \
+              --target "$TARGET_SHA" \
               --generate-notes \
-              --repo "$REPO"
+              --repo "$GITHUB_REPOSITORY" "${flags[@]}"
           fi
