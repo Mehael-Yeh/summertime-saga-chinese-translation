@@ -10228,12 +10228,12 @@
       }
     },
     "tl/zh_hans/src/menu/lewd.rpy": {
-      "sha256": "cc107e770f6eaa7c6b530bbafd246ccccae3c264d2c608f1f2b3c18465ba21c1",
-      "pairs": 5,
+      "sha256": "73a092fb73d7589994521ea9d833bb071d3dcc960cc390ad7ee1fe3f37010c16",
+      "pairs": 6,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "cc107e770f6eaa7c6b530bbafd246ccccae3c264d2c608f1f2b3c18465ba21c1",
+        "translation_sha256": "73a092fb73d7589994521ea9d833bb071d3dcc960cc390ad7ee1fe3f37010c16",
         "source_sha256": "0e4fb0ee102128082bede3e707e94de2cff5e6ec5115f4fe6a6c05b2baa56b82",
         "source": "game/src/menu/lewd.rpy",
         "source_local": ".codex_tmp/current7944/src/src/menu/lewd.rpy",
@@ -10271,9 +10271,14 @@
             "id": "strings",
             "line": 23,
             "pair_sha256": "218fcbfef6da46ccda434a0386270d1252d5705ac0fe66008d2a88d2697762a6"
+          },
+          {
+            "id": "strings",
+            "line": 27,
+            "pair_sha256": "71a5b4a3dc21156419d142036df2e4103cab9ac0520d9d448d7dac5d0927cc5f"
           }
         ],
-        "note": "功能批次人工审校。已读本文件全部中文，核对本地界面使用语境；动态字段、共享字符串和外部游戏逻辑未据此结案。旧版兼容条目保留，未把注释行号当作当前运行证据。新版54/56两条引导已补译；旧版new cookie jar及长引导留作兼容。回放动态hint/desc未在此批计入。",
+        "note": "功能批次人工审校。已读本文件全部中文，核对本地界面使用语境；动态字段、共享字符串和外部游戏逻辑未据此结案。旧版兼容条目保留，未把注释行号当作当前运行证据。新版54/56两条引导已补译；旧版new cookie jar及长引导留作兼容。回放动态hint/desc未在此批计入。 2026-10-03：核对7944原生第60行弹窗确认按钮，补充Got it!→知道了的界面字符串映射；新增条目已结合截图及关闭介绍弹窗的动作语境核对，未据此声称游戏运行验证。",
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read"
@@ -205612,12 +205617,12 @@
       }
     },
     "tl/zh_hans/src/renpy/confirm.rpy": {
-      "sha256": "8ae094819d6a6a30a38ee5c4a9c6b49634923ae46db4cc2f6040e64b4dc63929",
-      "pairs": 1,
+      "sha256": "e4e1aa8f28001f7528cc3ebe281a78a3b70d1ef55ae05a73b545bebf5f6e1475",
+      "pairs": 2,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "8ae094819d6a6a30a38ee5c4a9c6b49634923ae46db4cc2f6040e64b4dc63929",
+        "translation_sha256": "e4e1aa8f28001f7528cc3ebe281a78a3b70d1ef55ae05a73b545bebf5f6e1475",
         "source_sha256": "4b6352f0ccf596e7065c339786575fbeef93fd97337f7f9f9f36ae72903f747b",
         "source": "game/src/renpy/confirm.rpy",
         "source_local": ".codex_tmp/current7944/src/src/renpy/confirm.rpy",
@@ -205633,11 +205638,16 @@
         "items": [
           {
             "id": "strings",
-            "line": 4,
+            "line": 5,
+            "pair_sha256": "86c1dfa99ad6ad9c9d0de80c2f59284247e3a69b308b0c3b3db1e22bca4d534f"
+          },
+          {
+            "id": "strings",
+            "line": 8,
             "pair_sha256": "2c8b0a15e40baa43d1a7b5b7566b120e55262aaf0da841192f2211b039a4e79e"
           }
         ],
-        "note": "碎片合组审读：先读中文，再核对当前7944源内本地分支与调用。记录本地文本覆盖；跨文件共享键与外部入口尚待闭环，不代表整条事件完成。",
+        "note": "碎片合组审读：先读中文，再核对当前7944源内本地分支与调用。记录本地文本覆盖；跨文件共享键与外部入口尚待闭环，不代表整条事件完成。 2026-10-03：通过7944原生字符串提取与汉化映射差集发现缺失，核对原界面语境并补译；保留已有译文，未据此声称实际界面运行验证。",
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read"
@@ -205676,12 +205686,12 @@
       }
     },
     "tl/zh_hans/src/renpy/voice.rpy": {
-      "sha256": "d17c4b9c9bf1514a96687d1f51654b43c01ecc3556d4ea5cc711dba4e19d091a",
-      "pairs": 2,
+      "sha256": "d53f602c17d64da9e12a709d1830a358e0e07fb5c8412be4a6e0c5db31fc393d",
+      "pairs": 3,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "d17c4b9c9bf1514a96687d1f51654b43c01ecc3556d4ea5cc711dba4e19d091a",
+        "translation_sha256": "d53f602c17d64da9e12a709d1830a358e0e07fb5c8412be4a6e0c5db31fc393d",
         "source_sha256": "dba6957e384338aa9b802814ddec79d50b9b655be06afa9e782e6efed831b49e",
         "source": "game/src/renpy/voice.rpy",
         "source_local": ".codex_tmp/current7944/src/src/renpy/voice.rpy",
@@ -205697,16 +205707,21 @@
         "items": [
           {
             "id": "strings",
-            "line": 4,
-            "pair_sha256": "4e1b261fb2599492505774d3ef18a87cf347e9548fc48cd876b7af539f35af16"
+            "line": 5,
+            "pair_sha256": "8f4a012bc290ad21cf7bb8dd04173a777778fb4894a0af6318f416ce744429b4"
           },
           {
             "id": "strings",
             "line": 8,
+            "pair_sha256": "4e1b261fb2599492505774d3ef18a87cf347e9548fc48cd876b7af539f35af16"
+          },
+          {
+            "id": "strings",
+            "line": 12,
             "pair_sha256": "b56416901bf2ce08e3fb82e94fb9e8da3156992b4d5be7527d5f27b4f0b19d8b"
           }
         ],
-        "note": "碎片合组审读：先读中文，再核对当前7944源内本地分支与调用。记录本地文本覆盖；跨文件共享键与外部入口尚待闭环，不代表整条事件完成。",
+        "note": "碎片合组审读：先读中文，再核对当前7944源内本地分支与调用。记录本地文本覆盖；跨文件共享键与外部入口尚待闭环，不代表整条事件完成。 2026-10-03：通过7944原生字符串提取与汉化映射差集发现缺失，核对原界面语境并补译；保留已有译文，未据此声称实际界面运行验证。",
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read"
