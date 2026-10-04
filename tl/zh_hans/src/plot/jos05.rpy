@@ -34,7 +34,7 @@ translate zh_hans jos05_read_fc674c18:
 translate zh_hans jos05_read_02128f00:
 
     # anon @ -m_talk "( \"{txt}[saga.mesg.jos05_conv05.what!it]{/txt}\" )"
-    anon @ -m_talk "（\"{txt}[saga.mesg.jos05_conv05.what!it]{/txt}\"）"
+    anon @ -m_talk "（“{txt}[saga.mesg.jos05_conv05.what!it]{/txt}”）"
 
 # game/src/plot/jos05.rpy:29
 translate zh_hans jos05_read_a1967dee:
@@ -46,7 +46,7 @@ translate zh_hans jos05_read_a1967dee:
 translate zh_hans jos05_read_7c51448f:
 
     # anon f_grumpy @ -m_talk "( \"{txt}[saga.mesg.jos05_conv06.what!cit]{/txt}\" )"
-    anon f_grumpy @ -m_talk "（\"{txt}[saga.mesg.jos05_conv06.what!cit]{/txt}\"）"
+    anon f_grumpy @ -m_talk "（“{txt}[saga.mesg.jos05_conv06.what!cit]{/txt}”）"
 
 # game/src/plot/jos05.rpy:33
 translate zh_hans jos05_read_ca9c06c0:
@@ -94,7 +94,7 @@ translate zh_hans jos05_shop_b6c587fd:
 translate zh_hans jos05_shop_a77d8998:
 
     # anon "I didn't know if you'd still be here or not..."
-    anon "我还不知道你是不是还在这儿……"
+    anon "我还以为你可能已经不在这儿了……"
 
 # game/src/plot/jos05.rpy:59
 translate zh_hans jos05_shop_16980faf:
@@ -166,7 +166,7 @@ translate zh_hans jos05_shop_62983414:
 translate zh_hans jos05_shop_b0785300:
 
     # josie e_r f_bored "Pfft, no."
-    josie e_r f_bored "切，才不在乎。"
+    josie e_r f_bored "切，才不是。"
 
 # game/src/plot/jos05.rpy:75
 translate zh_hans jos05_shop_76be5c73:
@@ -442,7 +442,7 @@ translate zh_hans strings:
 
     # game/src/plot/jos05.rpy:91
     old "Actually, I might."
-    new "其实，可能会。"
+    new "其实，我可能知道个地方。"
 
     # game/src/plot/jos05.rpy:125
     old "Bad idea."

@@ -52,7 +52,7 @@ translate zh_hans jos02_read_4453f3d7:
 translate zh_hans jos02_read_2e74b31c:
 
     # anon "... \"{txt}[saga.mesg.jos02_conv04.what!it]{/txt}\""
-    anon "……\"{txt}[saga.mesg.jos02_conv04.what!it]{/txt}\""
+    anon "……“{txt}[saga.mesg.jos02_conv04.what!it]{/txt}”"
 
 # game/src/plot/jos02.rpy:34
 translate zh_hans jos02_read_74124054:
@@ -76,7 +76,7 @@ translate zh_hans jos02_read_d4109a1e:
 translate zh_hans jos02_read_d09ca1c8:
 
     # anon f_confused @ -m_talk "( \"{txt}[saga.mesg.jos02_conv05.what!it]{/txt}\" ..? )"
-    anon f_confused @ -m_talk "（\"{txt}[saga.mesg.jos02_conv05.what!it]{/txt}\"……？）"
+    anon f_confused @ -m_talk "（“{txt}[saga.mesg.jos02_conv05.what!it]{/txt}”……？）"
 
 # game/src/plot/jos02.rpy:39
 translate zh_hans jos02_read_459aced8:
@@ -94,7 +94,7 @@ translate zh_hans jos02_read_a1967dee_1:
 translate zh_hans jos02_read_c3f60438:
 
     # anon f_surprised @ -m_talk "( \"{txt}[saga.mesg.jos02_conv09.what!it]{/txt}\" )"
-    anon f_surprised @ -m_talk "（\"{txt}[saga.mesg.jos02_conv09.what!it]{/txt}\"）"
+    anon f_surprised @ -m_talk "（“{txt}[saga.mesg.jos02_conv09.what!it]{/txt}”）"
 
 # game/src/plot/jos02.rpy:42
 translate zh_hans jos02_read_e33e33bb:
@@ -112,7 +112,7 @@ translate zh_hans jos02_read_69d47d93:
 translate zh_hans jos02_read_4bb52057:
 
     # anon e_sw @ -m_talk "( \"{txt}[saga.mesg.jos02_conv10.what!it]{/txt}\" )"
-    anon e_sw @ -m_talk "（\"{txt}[saga.mesg.jos02_conv10.what!it]{/txt}\"）"
+    anon e_sw @ -m_talk "（“{txt}[saga.mesg.jos02_conv10.what!it]{/txt}”）"
 
 # game/src/plot/jos02.rpy:46
 translate zh_hans jos02_read_4be0a21b:
@@ -310,19 +310,19 @@ translate zh_hans jos02_shop_7ee6bbff:
 translate zh_hans jos02_shop_a4fe808f:
 
     # josie "Worst."
-    josie "最糟糕的。"
+    josie "今天。"
 
 # game/src/plot/jos02.rpy:108
 translate zh_hans jos02_shop_8fb120bf:
 
     # josie "Day."
-    josie "一天。"
+    josie "糟透了。"
 
 # game/src/plot/jos02.rpy:109
 translate zh_hans jos02_shop_e3207241:
 
     # josie "EVER!"
-    josie "没有之一！"
+    josie "从来没这么糟过！"
 
 # game/src/plot/jos02.rpy:110
 translate zh_hans jos02_shop_189fe2c9:
@@ -430,7 +430,7 @@ translate zh_hans jos02_shop_fbe84403:
 translate zh_hans jos02_shop_39d517bf:
 
     # anon a_shy_neck f_worried "... Wanted to... kinda... smooth things ov-"
-    anon a_shy_neck f_worried "……想……就是……缓和一下我们——"
+    anon a_shy_neck f_worried "……想……就是……缓和一下——"
 
 # game/src/plot/jos02.rpy:136
 translate zh_hans jos02_shop_da739693:
@@ -1438,7 +1438,7 @@ translate zh_hans jos02_jiang1_f163a557:
 translate zh_hans jos02_jiang1_0508447c:
 
     # anon a_uneasy f_shy "Eh, not really."
-    anon a_uneasy f_shy "呃，没有吧。"
+    anon a_uneasy f_shy "呃，不太懂。"
 
 # game/src/plot/jos02.rpy:467
 translate zh_hans jos02_jiang1_5f4f1c99:
@@ -1744,7 +1744,7 @@ translate zh_hans jos02_jiang1_1fcef5f1:
 translate zh_hans jos02_jiang1_dafa49be:
 
     # anon a_side e_sw "No, I suppose not."
-    anon a_side e_sw "不像，大概吧。"
+    anon a_side e_sw "嗯，应该不像。"
 
 # game/src/plot/jos02.rpy:553
 translate zh_hans jos02_jiang1_merge1_93bbf1a3:
@@ -1912,7 +1912,7 @@ translate zh_hans jos02_jiang1_merge1_6c0c404d:
 translate zh_hans jos02_jiang1_josie_20eb09d7:
 
     # anon e_w f_worried "So, um... about those photos."
-    anon e_w f_worried "那个，呃……关于那些照片。"
+    anon e_w f_worried "那个，呃……那些照片的事。"
 
 # game/src/plot/jos02.rpy:604
 translate zh_hans jos02_jiang1_josie_53578514:
@@ -2440,7 +2440,7 @@ translate zh_hans jos02_quick1_merge1_5d25cb79:
 translate zh_hans jos02_quick1_merge1_8bd7f41b:
 
     # anon @ f_confused "He did?"
-    anon @ f_confused "他报名了？"
+    anon @ f_confused "他居然赖账？"
 
 # game/src/plot/jos02.rpy:767
 translate zh_hans jos02_quick1_merge1_0da1e3c5:
@@ -2530,7 +2530,7 @@ translate zh_hans jos02_bag_270dbdd0:
 translate zh_hans jos02_bag_dbe63ba1:
 
     # anon a_toolbag e_sw f_pensive p_stand @ -m_talk "( I wonder what makes it lucky? )"
-    anon a_toolbag e_sw f_pensive p_stand @ -m_talk "（不知道它哪里幸运？）"
+    anon a_toolbag e_sw f_pensive p_stand @ -m_talk "（不知道这包怎么就能带来好运？）"
 
 # game/src/plot/jos02.rpy:815
 translate zh_hans jos02_bag_de3998ec:
@@ -2590,7 +2590,7 @@ translate zh_hans jos02_bag_jiang_cad171cf:
 translate zh_hans jos02_bag_jiang_652fcfa5:
 
     # jiang "Well, no bag... no phone..."
-    jiang "那就没工具包……没手机……"
+    jiang "那就找不到工具包……就拿不到手机……"
 
 # game/src/plot/jos02.rpy:841
 translate zh_hans jos02_bag_jiang_7d4ceced:
@@ -2668,7 +2668,7 @@ translate zh_hans jos02_bag_merge_9bbf737a:
 translate zh_hans jos02_bag_josie_09cd2270:
 
     # anon e_w f_calm "About those photos."
-    anon e_w f_calm "关于那些照片。"
+    anon e_w f_calm "那些照片的事。"
 
 # game/src/plot/jos02.rpy:864
 translate zh_hans jos02_bag_josie_05f7835f:
@@ -2986,7 +2986,7 @@ translate zh_hans jos02_jiang2_merge3_b8a7705e:
 translate zh_hans jos02_jiang2_merge3_ca212b43:
 
     # anon a_side e_w "Thanks again, for your help today."
-    anon a_side e_w "再次谢谢你今天帮忙。"
+    anon a_side e_w "今天真是谢谢你了。"
 
 # game/src/plot/jos02.rpy:998
 translate zh_hans jos02_jiang2_merge3_c0070e88:
@@ -3136,7 +3136,7 @@ translate zh_hans jos02_jiang2_alt_1b4d30b8:
 translate zh_hans jos02_jiang2_alt_39fa23c4:
 
     # anon "No, it doesn't feel right, looking at these."
-    anon "不，看这些让我觉得不对劲。"
+    anon "不行，看这些照片，我心里过意不去。"
 
 # game/src/plot/jos02.rpy:1065
 translate zh_hans jos02_jiang2_alt_9a088027:
@@ -3184,7 +3184,7 @@ translate zh_hans jos02_jiang2_busy_a9032353:
 translate zh_hans jos02_jiang2_josie_643f9852:
 
     # anon e_w f_calm "About those private photos."
-    anon e_w f_calm "关于那些私密照片。"
+    anon e_w f_calm "那些私密照片的事。"
 
 # game/src/plot/jos02.rpy:1091
 translate zh_hans jos02_jiang2_josie_9031a876:
@@ -3574,7 +3574,7 @@ translate zh_hans jos02_josie_merge_0fa59efe:
 translate zh_hans jos02_josie_merge_86098d00:
 
     # josie "... Is there no end to my depravity?!"
-    josie "……我这堕落还没个头了吗？！"
+    josie "……我怎么就堕落个没完呢？！"
 
 # game/src/plot/jos02.rpy:1280
 translate zh_hans jos02_josie_merge_cb6c10cf:

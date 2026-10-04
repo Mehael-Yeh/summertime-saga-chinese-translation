@@ -16,7 +16,7 @@ translate zh_hans jiang_car_garage_intro_95d9cf76:
 translate zh_hans jiang_car_garage_intro_00c715a9:
 
     # jiang "You need something?"
-    jiang "你需要什么吗？"
+    jiang "有事吗？"
 
 # game/src/plot/jiang.rpy:35
 translate zh_hans jiang_car_garage_misc1_de42e31a:
@@ -28,7 +28,7 @@ translate zh_hans jiang_car_garage_misc1_de42e31a:
 translate zh_hans jiang_car_garage_misc1_a4bda5e2:
 
     # jiang f_sceptical "Yeah, thanks... I guess."
-    jiang f_sceptical "嗯，谢谢……大概吧。"
+    jiang f_sceptical "哦……那就谢了。"
 
 # game/src/plot/jiang.rpy:37
 translate zh_hans jiang_car_garage_misc1_b7123cd4:
@@ -40,7 +40,7 @@ translate zh_hans jiang_car_garage_misc1_b7123cd4:
 translate zh_hans jiang_car_garage_misc1_3ef74969:
 
     # jiang f_calm "Nah, I got a few guys workin' under me but they're on call right now."
-    jiang f_calm "不是，我手下还有几个人，不过他们现在出外勤去了。"
+    jiang f_calm "不是，手底下还有几个，不过现在都在待命。"
 
 # game/src/plot/jiang.rpy:39
 translate zh_hans jiang_car_garage_misc1_5bd1b6f0:

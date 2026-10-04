@@ -214078,53 +214078,418 @@
       }
     },
     "tl/zh_hans/src/plot/jiang.rpy": {
-      "sha256": "0a4f6eeed54d53d6295ec83e2a6315f2083c6372b92afe57a132986e1b8a1050",
+      "sha256": "89ce928aa6e1df96560c13f9cca25f330eaf065517accda069d221fea87f71f8",
       "pairs": 28,
       "status": "translated_8194_increment",
       "version_migration": {
         "game_version": "21.0.0-wip.8194",
         "date": "2026-10-04",
         "note": "按8194新增原文补译；实际场景游玩与视觉排版尚未逐场验收。"
+      },
+      "review": {
+        "date": "2026-10-04",
+        "source": "game/src/plot/jiang.rpy",
+        "source_local": ".codex_tmp/engine8194/game/src/plot/jiang.rpy",
+        "source_sha256": "20252da9f900772d950d502bff1bc919f22defce818d5bed56b6921d3f94bce9",
+        "source_ranges": [],
+        "items": [
+          {
+            "id": "jiang_car_garage_intro_00c715a9",
+            "line": 19,
+            "pair_sha256": "756787d5232f207c13eb42eabd59be98a97873fc053d6169816a00b035857121"
+          },
+          {
+            "id": "jiang_car_garage_misc1_a4bda5e2",
+            "line": 31,
+            "pair_sha256": "17a38ef4802395da9f18b6753907f859647cff3a5f4eb23e808c8e0caf05853b"
+          },
+          {
+            "id": "jiang_car_garage_misc1_3ef74969",
+            "line": 43,
+            "pair_sha256": "1b7aa0eb0d0d68014c2755850600ed5ab208cbf1534244d59d22dde40545b089"
+          }
+        ],
+        "translation_sha256": "89ce928aa6e1df96560c13f9cca25f330eaf065517accda069d221fea87f71f8",
+        "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
+      },
+      "refinement_8194_batch1": {
+        "date": "2026-10-04",
+        "changed_pairs": 3,
+        "scope": "corrected_pairs_only",
+        "runtime_playthrough": false
       }
     },
     "tl/zh_hans/src/plot/jos02.rpy": {
-      "sha256": "67b0463c06b5a6f5f33d013e274d9b0040817d494814d0dc889ee15bd3d64818",
+      "sha256": "5504c80bba4a21a012c732366b284ba9d4a22f427ab05c05af259130cfb96282",
       "pairs": 649,
       "status": "translated_8194_increment",
       "version_migration": {
         "game_version": "21.0.0-wip.8194",
         "date": "2026-10-04",
         "note": "按8194新增原文补译；实际场景游玩与视觉排版尚未逐场验收。"
+      },
+      "review": {
+        "date": "2026-10-04",
+        "source": "game/src/plot/jos02.rpy",
+        "source_local": ".codex_tmp/engine8194/game/src/plot/jos02.rpy",
+        "source_sha256": "ebf58caa8d2e4d221abee5e04c46966f1bf1b98c1e04e47e48961bcafb42baca",
+        "source_ranges": [],
+        "items": [
+          {
+            "id": "jos02_read_2e74b31c",
+            "line": 55,
+            "pair_sha256": "e1059f55dea766ef27c90809ae77e1688305da0c0e64887a9bcc8ff49e769fb2"
+          },
+          {
+            "id": "jos02_read_d09ca1c8",
+            "line": 79,
+            "pair_sha256": "7f376d14feafe5063cbb0f3edf217519d86230f5aea3fe5364b77b2e20913098"
+          },
+          {
+            "id": "jos02_read_c3f60438",
+            "line": 97,
+            "pair_sha256": "5a948e3d1b65b44c0ab5d86115492bf6e0a3d46314dbf330bc113d746e6808bb"
+          },
+          {
+            "id": "jos02_read_4bb52057",
+            "line": 115,
+            "pair_sha256": "5278b0af34ef889768030fdd4676154b6b7ae2f474a79bfe2b5e6b3bc4a92c87"
+          },
+          {
+            "id": "jos02_shop_a4fe808f",
+            "line": 313,
+            "pair_sha256": "14584e191630970a526bdef1be3d89e230d32f50c108428324c76194729f98b7"
+          },
+          {
+            "id": "jos02_shop_8fb120bf",
+            "line": 319,
+            "pair_sha256": "c0d9878fdb30e2c14c3bcf8812b4554f906a02f0b77f1d26f17e04b8813164f0"
+          },
+          {
+            "id": "jos02_shop_e3207241",
+            "line": 325,
+            "pair_sha256": "2a843f82713d04ad20357c2fe6662544d430cca90657cf2eec5367d92919a40b"
+          },
+          {
+            "id": "jos02_shop_39d517bf",
+            "line": 433,
+            "pair_sha256": "1dda3bb37bb43f18fac2c32ac0ca21f867bf92c173208a031e5e8e85dd495838"
+          },
+          {
+            "id": "jos02_jiang1_0508447c",
+            "line": 1441,
+            "pair_sha256": "44754a54ab1593473d42e9edbb4b3df878eef4ca94c119c361f31925829cecd4"
+          },
+          {
+            "id": "jos02_jiang1_dafa49be",
+            "line": 1747,
+            "pair_sha256": "6d4ade10241ad5cefbae4d7de860e64c0de4d47aa51a72041dc173fd9f6f96a3"
+          },
+          {
+            "id": "jos02_jiang1_josie_20eb09d7",
+            "line": 1915,
+            "pair_sha256": "19fec7547578206c2cdbe66b1286f2360d002f5bae92b48efa9e675568172159"
+          },
+          {
+            "id": "jos02_quick1_merge1_8bd7f41b",
+            "line": 2443,
+            "pair_sha256": "e44925ec6850094aee0385b8e967e5d8463b3594c3e1bc9134a75e38f75c6ac6"
+          },
+          {
+            "id": "jos02_bag_dbe63ba1",
+            "line": 2533,
+            "pair_sha256": "372d30f13315d50c8fafbc744391599df7dabc3754d85ca18f5c862b85bbec5c"
+          },
+          {
+            "id": "jos02_bag_jiang_652fcfa5",
+            "line": 2593,
+            "pair_sha256": "cff2f87f8586e94a38600587621379906ca6b4786f0e0d812554a8c334bc07b4"
+          },
+          {
+            "id": "jos02_bag_josie_09cd2270",
+            "line": 2671,
+            "pair_sha256": "36a520ee02798037f6a5f9c0e38e679292fa950bfb12bbd8e2c5df75f847dcbe"
+          },
+          {
+            "id": "jos02_jiang2_merge3_ca212b43",
+            "line": 2989,
+            "pair_sha256": "224bc87fd9f5825f3cdc409d8856b09e0f634e0e79843d13d2202e4c68a7c349"
+          },
+          {
+            "id": "jos02_jiang2_alt_39fa23c4",
+            "line": 3139,
+            "pair_sha256": "5a9e46a4e998e47692ed4a726162418d1a979b554c404a96b80c2e07dee10769"
+          },
+          {
+            "id": "jos02_jiang2_josie_643f9852",
+            "line": 3187,
+            "pair_sha256": "d59bd89aaf8f2a289070768770d47d3b86ed7e4fd4190f16405209e5ad597282"
+          },
+          {
+            "id": "jos02_josie_merge_86098d00",
+            "line": 3577,
+            "pair_sha256": "c277e88b22508a40313da2d72e7837ab6b41f6236e3e57095f6560cf389d5e9b"
+          }
+        ],
+        "translation_sha256": "5504c80bba4a21a012c732366b284ba9d4a22f427ab05c05af259130cfb96282",
+        "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
+      },
+      "refinement_8194_batch1": {
+        "date": "2026-10-04",
+        "changed_pairs": 19,
+        "scope": "corrected_pairs_only",
+        "runtime_playthrough": false
       }
     },
     "tl/zh_hans/src/plot/jos03.rpy": {
-      "sha256": "e5493dcbebd0a4509a360623cfa0364c232138153e81a019ad5215b5b4c0326d",
+      "sha256": "56c9f62557a7d989d5b0bb735f7f2493ab2830d5116e3a68e872c2a9d2232961",
       "pairs": 434,
       "status": "translated_8194_increment",
       "version_migration": {
         "game_version": "21.0.0-wip.8194",
         "date": "2026-10-04",
         "note": "按8194新增原文补译；实际场景游玩与视觉排版尚未逐场验收。"
+      },
+      "review": {
+        "date": "2026-10-04",
+        "source": "game/src/plot/jos03.rpy",
+        "source_local": ".codex_tmp/engine8194/game/src/plot/jos03.rpy",
+        "source_sha256": "f50fb82670e1294a0d15473130400a04a9fffc7c1317e47ace27b4a79774600a",
+        "source_ranges": [],
+        "items": [
+          {
+            "id": "jos03_read_febf4524",
+            "line": 31,
+            "pair_sha256": "92d334b7681a5b987099580371a8c7cd4174c97f1063dddd910c95d9fa2e4deb"
+          },
+          {
+            "id": "jos03_read_bb09832f",
+            "line": 43,
+            "pair_sha256": "cb687e62247098e19638446d664036860cdf616cd50b5ab9404be78413da441b"
+          },
+          {
+            "id": "jos03_read_12e69799",
+            "line": 61,
+            "pair_sha256": "74037725f9ff2257b12fd1d300f14e15e3ce58a9e43102796c36b110520ea248"
+          },
+          {
+            "id": "jos03_read_717bf6d7",
+            "line": 73,
+            "pair_sha256": "3f571ec049e33e2a49691d04bd80f90c62019644203b49937961a1545c8a68e9"
+          },
+          {
+            "id": "jos03_read_alt_13cfe2e9",
+            "line": 85,
+            "pair_sha256": "4e7bd9f9fc5f3d173dce27736708167cfc31a7936336c96e826fd06274b40d73"
+          },
+          {
+            "id": "jos03_read_alt_ed40358d",
+            "line": 103,
+            "pair_sha256": "4d36fc693d9030bddf24eda98effa99a640278679b5aabbfa17f3e2e5bba7e4a"
+          },
+          {
+            "id": "jos03_misc_josie_483f6a90",
+            "line": 613,
+            "pair_sha256": "6bc85f7f1c2f475d93649c0391a4cf229cda5126eca17bd79f7cc5548a06966a"
+          },
+          {
+            "id": "jos03_josie1_13aee6bb",
+            "line": 907,
+            "pair_sha256": "b946f7d874a61269b012efb6ccc35c1c0897aa4fffc90cef1c9e1992254d64f7"
+          },
+          {
+            "id": "jos03_josie1_e4655eb3",
+            "line": 937,
+            "pair_sha256": "daba4ef9364f3098761719f133df8df1f8d3e46917d5f889dc8326c20e601a18"
+          },
+          {
+            "id": "jos03_josie1_29a8ecbe",
+            "line": 1069,
+            "pair_sha256": "ba6bc1494f070faeed36c0957b473da6a0624b829820426540238101517aea32"
+          },
+          {
+            "id": "jos03_vest_alt_bb6a057c",
+            "line": 1249,
+            "pair_sha256": "8b72ea9d5134b8c87144e205b1fb19719af373f70fef25d04a5477b345a67c5f"
+          },
+          {
+            "id": "jos03_josie2_a62d5c4f",
+            "line": 1435,
+            "pair_sha256": "2ee5163dc6fbfa5db9619d64cbd14fbfd7b62f85c8a577cce42ae16faaedba4c"
+          },
+          {
+            "id": "jos03_josie2_13a02915",
+            "line": 1465,
+            "pair_sha256": "ba6bc1494f070faeed36c0957b473da6a0624b829820426540238101517aea32"
+          },
+          {
+            "id": "jos03_josie2_4aa96aeb",
+            "line": 1555,
+            "pair_sha256": "b669e6e9791a76a356761de67126a9f9759edccc6520433860f5c84cd22b8f84"
+          },
+          {
+            "id": "jos03_josie2_3bb9a8d2",
+            "line": 1603,
+            "pair_sha256": "526d119170d85d82216a617eb9adaceb5b774a5fb4dc3d2d849f0c8334bd09bd"
+          },
+          {
+            "id": "jos03_josie2_198bdaf6",
+            "line": 1987,
+            "pair_sha256": "16d16b64720a8de16bc828dff5336afa3096afcae30304f2b1877b10eaf922d5"
+          },
+          {
+            "id": "jos03_josie2_81dd30c0",
+            "line": 2065,
+            "pair_sha256": "807d3ffaa2700d78932078824d6173363a55a7cd1bd33221d9235a1a1d72e57c"
+          },
+          {
+            "id": "jos03_josie2_198bdaf6_1",
+            "line": 2341,
+            "pair_sha256": "16d16b64720a8de16bc828dff5336afa3096afcae30304f2b1877b10eaf922d5"
+          }
+        ],
+        "translation_sha256": "56c9f62557a7d989d5b0bb735f7f2493ab2830d5116e3a68e872c2a9d2232961",
+        "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
+      },
+      "refinement_8194_batch1": {
+        "date": "2026-10-04",
+        "changed_pairs": 18,
+        "scope": "corrected_pairs_only",
+        "runtime_playthrough": false
       }
     },
     "tl/zh_hans/src/plot/jos04.rpy": {
-      "sha256": "78edb5904891350932c6accb79057455c6eb91aba18b54af3e83adcacc904693",
+      "sha256": "cdfe4bd99c973aa3d0ddfe1f082472e5cc809649007f749a42195f37b7939489",
       "pairs": 455,
       "status": "translated_8194_increment",
       "version_migration": {
         "game_version": "21.0.0-wip.8194",
         "date": "2026-10-04",
         "note": "按8194新增原文补译；实际场景游玩与视觉排版尚未逐场验收。"
+      },
+      "review": {
+        "date": "2026-10-04",
+        "source": "game/src/plot/jos04.rpy",
+        "source_local": ".codex_tmp/engine8194/game/src/plot/jos04.rpy",
+        "source_sha256": "adbc7f9056901c56b071207fc9e0209e24163cc42f7da0844c7793d6f3e0142f",
+        "source_ranges": [],
+        "items": [
+          {
+            "id": "jos04_intro_bf788938",
+            "line": 79,
+            "pair_sha256": "0033313ca4d3163905d52e32e68ec5417f5e316b9ef4dc27dd34a199438b25fa"
+          },
+          {
+            "id": "jos04_yoshi_merge_9830ba16",
+            "line": 433,
+            "pair_sha256": "f52a35703bae2f982c1bdcd6eeaef9db53c3c0425c1dc908e6868ec301e6b187"
+          },
+          {
+            "id": "jos04_office_yoshi1_79a4e8f6",
+            "line": 1093,
+            "pair_sha256": "edd7aa5d70375509af7b522b55c4b30194c7d8fa8e7d585f9e6877c8bdfad93e"
+          },
+          {
+            "id": "jos04_josie_74cb383d",
+            "line": 1405,
+            "pair_sha256": "a1669841c4961ed88ff4fc5223b373a3341cac2a131dc41055251268db4ace8e"
+          },
+          {
+            "id": "jos04_josie_merge_36e22f2b",
+            "line": 1609,
+            "pair_sha256": "c79db5419067591861496a301dc3a9f290340578405db094059f22a65229ec93"
+          },
+          {
+            "id": "jos04_josie_merge_a503687d",
+            "line": 2095,
+            "pair_sha256": "5f5c17911d4ce947266745dcd12fc2fba68f419a6a294ababe6b43acb914b2cb"
+          },
+          {
+            "id": "jos04_josie_merge_7f3e78f9",
+            "line": 2233,
+            "pair_sha256": "fdd6b03eb30f418a898fcf60c31c94308b19504f9f17bbce2aa18afc9550a593"
+          },
+          {
+            "id": "jos04_josie_merge_2d95a5ad",
+            "line": 2425,
+            "pair_sha256": "d1e11c1472b59826e5fa5f04d71f81bde7216f597e4fc739e5f6c9f0a5ecdb76"
+          },
+          {
+            "id": "jos04_josie_merge_f3445209",
+            "line": 2455,
+            "pair_sha256": "a40c0619dc4b6baf51e2c743d89e2ad1d47a7d5d06bdc4935f5f6d17dbc9ffb9"
+          },
+          {
+            "id": "jos04_josie_merge_82ea823f",
+            "line": 2491,
+            "pair_sha256": "b64e73daed81cc2f8da0eb71239650988e74202e281ff6954b4f340306651991"
+          },
+          {
+            "id": "jos04_josie_merge_880821e9",
+            "line": 2515,
+            "pair_sha256": "ac283ef548aaa10c85932d5f97b849cc90845ffa1e7df45db99f12ad9e98a531"
+          }
+        ],
+        "translation_sha256": "cdfe4bd99c973aa3d0ddfe1f082472e5cc809649007f749a42195f37b7939489",
+        "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
+      },
+      "refinement_8194_batch1": {
+        "date": "2026-10-04",
+        "changed_pairs": 11,
+        "scope": "corrected_pairs_only",
+        "runtime_playthrough": false
       }
     },
     "tl/zh_hans/src/plot/jos05.rpy": {
-      "sha256": "0bd01fab78de9528a395edd1aad7fd69295e2e20f09d0dc501e8919897b8021e",
+      "sha256": "73b9d50ec0580c18a6490ae87a65bc514df6c59d4ca9c503fbe71256e3dca0e6",
       "pairs": 77,
       "status": "translated_8194_increment",
       "version_migration": {
         "game_version": "21.0.0-wip.8194",
         "date": "2026-10-04",
         "note": "按8194新增原文补译；实际场景游玩与视觉排版尚未逐场验收。"
+      },
+      "review": {
+        "date": "2026-10-04",
+        "source": "game/src/plot/jos05.rpy",
+        "source_local": ".codex_tmp/engine8194/game/src/plot/jos05.rpy",
+        "source_sha256": "3348b10ff3d24a50d36fed2fccda6f41bfeb02a10c11e67b18598beb99d86e7f",
+        "source_ranges": [],
+        "items": [
+          {
+            "id": "jos05_read_02128f00",
+            "line": 37,
+            "pair_sha256": "f58a7beb15d4829bf3bae16c6d1020713f64563ef194bdec3350043d9a923f53"
+          },
+          {
+            "id": "jos05_read_7c51448f",
+            "line": 49,
+            "pair_sha256": "e5ab4e2fc6888761e80058cd6560de8a3a1c910da6e1572597922de7d7f2606b"
+          },
+          {
+            "id": "jos05_shop_a77d8998",
+            "line": 97,
+            "pair_sha256": "c4893b80e95e566e610013df5d1fd927fbf1396214950dcd6abc7357c37b11a5"
+          },
+          {
+            "id": "jos05_shop_b0785300",
+            "line": 169,
+            "pair_sha256": "ad0a37dbd3bb03d30ad3bd203637c13b8ddb5e6accfb9ab8c64b45f431b871fb"
+          },
+          {
+            "id": "strings",
+            "line": 445,
+            "pair_sha256": "7c46e6932968334a090cf3920f438c64c4fa5e84c9f8c7efaf18bd536edab472"
+          }
+        ],
+        "translation_sha256": "73b9d50ec0580c18a6490ae87a65bc514df6c59d4ca9c503fbe71256e3dca0e6",
+        "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
+      },
+      "refinement_8194_batch1": {
+        "date": "2026-10-04",
+        "changed_pairs": 5,
+        "scope": "corrected_pairs_only",
+        "runtime_playthrough": false
       }
     },
     "tl/zh_hans/src/plot/jos_baby.rpy": {
@@ -214188,13 +214553,50 @@
       }
     },
     "tl/zh_hans/src/plot/nyu01.rpy": {
-      "sha256": "7d8009d2472a82250a1116bee4798ad6882eb9e9bb8d312a61f70aee310b073e",
+      "sha256": "4912f002cd64a8a29757d70460d5f3600b77ef65b6156ba68215f4233dc5665c",
       "pairs": 34,
       "status": "translated_8194_increment",
       "version_migration": {
         "game_version": "21.0.0-wip.8194",
         "date": "2026-10-04",
         "note": "按8194新增原文补译；实际场景游玩与视觉排版尚未逐场验收。"
+      },
+      "review": {
+        "date": "2026-10-04",
+        "source": "game/src/plot/nyu01.rpy",
+        "source_local": ".codex_tmp/engine8194/game/src/plot/nyu01.rpy",
+        "source_sha256": "3de44afa1965ca221eaf7114f9b3f0f354f4a74e540135acaca20456e6894f46",
+        "source_ranges": [],
+        "items": [
+          {
+            "id": "nyu01_intro_reuse_c1be3c5a",
+            "line": 19,
+            "pair_sha256": "1ad2ed2129fc873da223c8af577e7eb4a170973433e4ada9edae78e13a7e4ef2"
+          },
+          {
+            "id": "nyu01_intro_reuse_1da9b456",
+            "line": 55,
+            "pair_sha256": "798f191426afe9446e301e13207a47f6caf482a1eeb07ce78b515ee60f9e53fc"
+          },
+          {
+            "id": "nyu01_intro_reuse_b044b6cc",
+            "line": 79,
+            "pair_sha256": "4833c8c4a4999a6af8479e834eb5d6f46e721a831db67d775a1c7806909c6bcf"
+          },
+          {
+            "id": "nyu01_intro_reuse_07c46fa0",
+            "line": 163,
+            "pair_sha256": "7a3c56a81161b42ea372bedd36f6ea33a1ccfe7999e4ce8b811fac1fbbca5245"
+          }
+        ],
+        "translation_sha256": "4912f002cd64a8a29757d70460d5f3600b77ef65b6156ba68215f4233dc5665c",
+        "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
+      },
+      "refinement_8194_batch1": {
+        "date": "2026-10-04",
+        "changed_pairs": 4,
+        "scope": "corrected_pairs_only",
+        "runtime_playthrough": false
       }
     }
   },

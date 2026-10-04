@@ -76,7 +76,7 @@ translate zh_hans jos04_intro_4461f2b2:
 translate zh_hans jos04_intro_bf788938:
 
     # josie "No."
-    josie "不行。"
+    josie "没事啊。"
 
 # game/src/plot/jos04.rpy:27
 translate zh_hans jos04_intro_aeffdcf4:
@@ -430,7 +430,7 @@ translate zh_hans jos04_yoshi_merge_22f468b7:
 translate zh_hans jos04_yoshi_merge_9830ba16:
 
     # anon a_phone e_sw @ -m_talk "( \"{txt}[saga.mesg.jos04_conv02.what!it]{/txt}\" )"
-    anon a_phone e_sw @ -m_talk "（\"{txt}[saga.mesg.jos04_conv02.what!it]{/txt}\"）"
+    anon a_phone e_sw @ -m_talk "（“{txt}[saga.mesg.jos04_conv02.what!it]{/txt}”）"
 
 # game/src/plot/jos04.rpy:169
 translate zh_hans jos04_yoshi_merge_eb780b0f:
@@ -1090,7 +1090,7 @@ translate zh_hans jos04_office_yoshi1_6c605d1a:
 translate zh_hans jos04_office_yoshi1_79a4e8f6:
 
     # yoshi "Or whatever it is you crazy kids do..."
-    yoshi "或者随便你们这些疯孩子平时做的什么……"
+    yoshi "或者你们这些疯孩子平时瞎折腾的那些事……"
 
 # game/src/plot/jos04.rpy:432
 translate zh_hans jos04_office_yoshi1_08fe6d42:
@@ -1402,7 +1402,7 @@ translate zh_hans jos04_josie_71c5f693:
 translate zh_hans jos04_josie_74cb383d:
 
     # josie f_calm @ e_r f_bored "I'm sure that's totally the case."
-    josie f_calm @ e_r f_bored "我相信肯定是这样。"
+    josie f_calm @ e_r f_bored "是啊，他肯定就是个大好人。"
 
 # game/src/plot/jos04.rpy:549
 translate zh_hans jos04_josie_6900709a:
@@ -1606,7 +1606,7 @@ translate zh_hans jos04_josie_merge_490211ad:
 translate zh_hans jos04_josie_merge_36e22f2b:
 
     # josie f_confused "Umm, getting comfortable?"
-    josie f_confused "呃，你倒挺自在？"
+    josie f_confused "呃，这样舒服点啊？"
 
 # game/src/plot/jos04.rpy:609
 translate zh_hans jos04_josie_merge_99a073d0:
@@ -2092,7 +2092,7 @@ translate zh_hans jos04_josie_merge_6d863624:
 translate zh_hans jos04_josie_merge_a503687d:
 
     # josie "What the fuck, Dad?!"
-    josie "搞什么啊，爸？！"
+    josie "搞什么鬼，爸？！"
 
 # game/src/plot/jos04.rpy:770
 translate zh_hans jos04_josie_merge_8ce5e012:
@@ -2230,7 +2230,7 @@ translate zh_hans jos04_josie_merge_84f1ef50:
 translate zh_hans jos04_josie_merge_7f3e78f9:
 
     # anon "I wasn't aware we were labeling-"
-    anon "我还不知道我们已经定了——"
+    anon "我都不知道我们已经算是——"
 
 # game/src/plot/jos04.rpy:810
 translate zh_hans jos04_josie_merge_fee25285:
@@ -2422,7 +2422,7 @@ translate zh_hans jos04_josie_merge_cbe42cda:
 translate zh_hans jos04_josie_merge_2d95a5ad:
 
     # anon f_worried @ a_fist_mouth "{i}*Ahem*{/i}"
-    anon f_worried @ a_fist_mouth "{i}*清嗓子*{/i}"
+    anon f_worried @ a_fist_mouth "{i}*咳咳*{/i}"
 
 # game/src/plot/jos04.rpy:915
 translate zh_hans jos04_josie_merge_b5bf601c:
@@ -2452,7 +2452,7 @@ translate zh_hans jos04_josie_merge_e4475489:
 translate zh_hans jos04_josie_merge_f3445209:
 
     # josie "As far as he's concerned, you are."
-    josie "对他来说，是。"
+    josie "反正在我爸面前，你就是。"
 
 # game/src/plot/jos04.rpy:923
 translate zh_hans jos04_josie_merge_343e4583:
@@ -2488,7 +2488,7 @@ translate zh_hans jos04_josie_merge_4be3d46b:
 translate zh_hans jos04_josie_merge_82ea823f:
 
     # josie f_calm "Thanks again for helping me today."
-    josie f_calm "再次谢谢你今天帮忙。"
+    josie f_calm "今天真是谢谢你了。"
 
 # game/src/plot/jos04.rpy:932
 translate zh_hans jos04_josie_merge_58c8c971:
@@ -2512,7 +2512,7 @@ translate zh_hans jos04_josie_merge_ad8c1740:
 translate zh_hans jos04_josie_merge_880821e9:
 
     # anon "I'll see you again soon."
-    anon "我们很快再见。"
+    anon "回头再来看你。"
 
 # game/src/plot/jos04.rpy:937
 translate zh_hans jos04_josie_merge_48e2fcdb:

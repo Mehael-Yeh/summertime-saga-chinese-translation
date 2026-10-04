@@ -28,7 +28,7 @@ translate zh_hans jos03_read_19d43982:
 translate zh_hans jos03_read_febf4524:
 
     # anon @ -m_talk "( \"{txt}[saga.mesg.jos03_conv03.what!it]{/txt}\" )"
-    anon @ -m_talk "（\"{txt}[saga.mesg.jos03_conv03.what!it]{/txt}\"）"
+    anon @ -m_talk "（“{txt}[saga.mesg.jos03_conv03.what!it]{/txt}”）"
 
 # game/src/plot/jos03.rpy:19
 translate zh_hans jos03_read_eb780b0f:
@@ -40,7 +40,7 @@ translate zh_hans jos03_read_eb780b0f:
 translate zh_hans jos03_read_bb09832f:
 
     # anon f_curious @ -m_talk "( Ohh, \"what do you think?\" ... )"
-    anon f_curious @ -m_talk "（哦，\"你觉得怎么样？\"……）"
+    anon f_curious @ -m_talk "（哦，“你觉得怎么样？”……）"
 
 # game/src/plot/jos03.rpy:21
 translate zh_hans jos03_read_74eafad9:
@@ -58,7 +58,7 @@ translate zh_hans jos03_read_dace554d:
 translate zh_hans jos03_read_12e69799:
 
     # anon f_confused @ -m_talk "( \"{txt}[saga.mesg.jos03a_conv04.what!it]{/txt}\" )"
-    anon f_confused @ -m_talk "（\"{txt}[saga.mesg.jos03a_conv04.what!it]{/txt}\"）"
+    anon f_confused @ -m_talk "（“{txt}[saga.mesg.jos03a_conv04.what!it]{/txt}”）"
 
 # game/src/plot/jos03.rpy:33
 translate zh_hans jos03_read_a1967dee:
@@ -70,7 +70,7 @@ translate zh_hans jos03_read_a1967dee:
 translate zh_hans jos03_read_717bf6d7:
 
     # anon @ -m_talk "( \"{txt}[saga.mesg.jos03a_conv06.what!it]{/txt}\" )"
-    anon @ -m_talk "（\"{txt}[saga.mesg.jos03a_conv06.what!it]{/txt}\"）"
+    anon @ -m_talk "（“{txt}[saga.mesg.jos03a_conv06.what!it]{/txt}”）"
 
 # game/src/plot/jos03.rpy:35
 translate zh_hans jos03_read_3f9cc979:
@@ -82,7 +82,7 @@ translate zh_hans jos03_read_3f9cc979:
 translate zh_hans jos03_read_alt_13cfe2e9:
 
     # anon f_snide @ -m_talk "( \"{txt}[saga.mesg.jos03b_conv04.what!it]{/txt}\" )"
-    anon f_snide @ -m_talk "（\"{txt}[saga.mesg.jos03b_conv04.what!it]{/txt}\"）"
+    anon f_snide @ -m_talk "（“{txt}[saga.mesg.jos03b_conv04.what!it]{/txt}”）"
 
 # game/src/plot/jos03.rpy:43
 translate zh_hans jos03_read_alt_62c78b3f:
@@ -100,7 +100,7 @@ translate zh_hans jos03_read_alt_a1967dee:
 translate zh_hans jos03_read_alt_ed40358d:
 
     # anon @ -m_talk "( \"{txt}[saga.mesg.jos03b_conv09.what!it]{/txt}\" )"
-    anon @ -m_talk "（\"{txt}[saga.mesg.jos03b_conv09.what!it]{/txt}\"）"
+    anon @ -m_talk "（“{txt}[saga.mesg.jos03b_conv09.what!it]{/txt}”）"
 
 # game/src/plot/jos03.rpy:46
 translate zh_hans jos03_read_alt_b3d9b5f8:
@@ -610,7 +610,7 @@ translate zh_hans jos03_misc_josie_5a173436:
 translate zh_hans jos03_misc_josie_483f6a90:
 
     # anon "Yeah, that'll go great, I'm sure."
-    anon "嗯，我相信一定会非常顺利。"
+    anon "是啊，那肯定顺利得很。"
 
 # game/src/plot/jos03.rpy:266
 translate zh_hans jos03_misc_josie_ccebe523:
@@ -904,7 +904,7 @@ translate zh_hans jos03_josie1_3f495d33:
 translate zh_hans jos03_josie1_13aee6bb:
 
     # josie "\"Trying\" being the operative word..."
-    josie "重点就在\"努力\"两个字……"
+    josie "重点就在“努力”两个字……"
 
 # game/src/plot/jos03.rpy:349
 translate zh_hans jos03_josie1_10de175b:
@@ -934,7 +934,7 @@ translate zh_hans jos03_josie1_eb780b0f:
 translate zh_hans jos03_josie1_e4655eb3:
 
     # josie "Yesterday, I set a small desk fire and the sprinkler system went off!"
-    josie "昨天我在桌上点了把小火，把喷淋系统都弄响了！"
+    josie "昨天我在桌上点了把小火，连消防喷淋都启动了！"
 
 # game/src/plot/jos03.rpy:357
 translate zh_hans jos03_josie1_388d28d7:
@@ -1066,7 +1066,7 @@ translate zh_hans jos03_josie1_68b2995c:
 translate zh_hans jos03_josie1_29a8ecbe:
 
     # anon "No."
-    anon "不行。"
+    anon "才不是。"
 
 # game/src/plot/jos03.rpy:386
 translate zh_hans jos03_josie1_6804a3f0:
@@ -1246,7 +1246,7 @@ translate zh_hans jos03_vest_alt_767c6cd3:
 translate zh_hans jos03_vest_alt_bb6a057c:
 
     # yoshi "What do you think you're doing?"
-    yoshi "你觉得你在干什么？"
+    yoshi "你这是在干什么？"
 
 # game/src/plot/jos03.rpy:459
 translate zh_hans jos03_vest_alt_a7488eea:
@@ -1432,7 +1432,7 @@ translate zh_hans jos03_josie2_4b253efe:
 translate zh_hans jos03_josie2_a62d5c4f:
 
     # josie a_phone_left "This one is called, \"Hold My Beer.\""
-    josie a_phone_left "这个叫\"帮我拿着啤酒\"。"
+    josie a_phone_left "这个叫“帮我拿着啤酒”。"
 
 # game/src/plot/jos03.rpy:538
 translate zh_hans jos03_josie2_19f99d79:
@@ -1462,7 +1462,7 @@ translate zh_hans jos03_josie2_9d40fde2:
 translate zh_hans jos03_josie2_13a02915:
 
     # josie f_bored "No."
-    josie f_bored "不行。"
+    josie f_bored "才不是。"
 
 # game/src/plot/jos03.rpy:544
 translate zh_hans jos03_josie2_382e7ab9:
@@ -1552,7 +1552,7 @@ translate zh_hans jos03_josie2_b2b4733c:
 translate zh_hans jos03_josie2_4aa96aeb:
 
     # josie a_phone_left f_horny "This one is called, \"What could go wrong?\""
-    josie a_phone_left f_horny "这个叫\"能出什么岔子？\"。"
+    josie a_phone_left f_horny "这个叫“能出什么岔子？”。"
 
 # game/src/plot/jos03.rpy:569
 translate zh_hans jos03_josie2_2198fb9d:
@@ -1600,7 +1600,7 @@ translate zh_hans jos03_josie2_66c1b37d:
 translate zh_hans jos03_josie2_3bb9a8d2:
 
     # anon "Oh my god, the whole gaggle is attacking her..."
-    anon "天啊，整群鹅都在攻击她……"
+    anon "天哪，整群鹅都扑上去啄她了……"
 
 # game/src/plot/jos03.rpy:580
 translate zh_hans jos03_josie2_bce3f62e:
@@ -1984,7 +1984,7 @@ translate zh_hans jos03_josie2_1231fcac:
 translate zh_hans jos03_josie2_198bdaf6:
 
     # josie "{i}*Sluuuuuuurp*{/i}"
-    josie "{i}*吸吮*{/i}"
+    josie "{i}*吸溜——*{/i}"
 
 # game/src/plot/jos03.rpy:706
 translate zh_hans jos03_josie2_d51d7f65:
@@ -2062,7 +2062,7 @@ translate zh_hans jos03_josie2_684eae90:
 translate zh_hans jos03_josie2_81dd30c0:
 
     # anon "Oh, god."
-    anon "天啊。"
+    anon "天哪。"
 
 # game/src/plot/jos03.rpy:755
 translate zh_hans jos03_josie2_4ddc20eb:
@@ -2338,7 +2338,7 @@ translate zh_hans jos03_josie2_2561bc40:
 translate zh_hans jos03_josie2_198bdaf6_1:
 
     # josie "{i}*Sluuuuuuurp*{/i}"
-    josie "{i}*吸吮*{/i}"
+    josie "{i}*吸溜——*{/i}"
 
 # game/src/plot/jos03.rpy:845
 translate zh_hans jos03_josie2_6913065f:

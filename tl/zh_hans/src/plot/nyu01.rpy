@@ -16,7 +16,7 @@ translate zh_hans nyu01_intro_reuse_478aeaea:
 translate zh_hans nyu01_intro_reuse_c1be3c5a:
 
     # yoshi "Oh, it's my pleasure, dear."
-    yoshi "哦，我很乐意，亲爱的。"
+    yoshi "哦，不客气，亲爱的。"
 
 # game/src/plot/nyu01.rpy:9
 translate zh_hans nyu01_intro_reuse_7670877f:
@@ -52,7 +52,7 @@ translate zh_hans nyu01_intro_reuse_b9a1f347:
 translate zh_hans nyu01_intro_reuse_1da9b456:
 
     # yoshi a_hips f_happy "Oh, I know all about family embarrassment... believe you me."
-    yoshi a_hips f_happy "哦，我太明白家人丢脸是什么滋味了……相信我。"
+    yoshi a_hips f_happy "哦，家里人让自己丢脸的滋味……我可清楚得很。"
 
 # game/src/plot/nyu01.rpy:16
 translate zh_hans nyu01_intro_reuse_2450c1d7:
@@ -76,7 +76,7 @@ translate zh_hans nyu01_intro_reuse_7ce611fa:
 translate zh_hans nyu01_intro_reuse_b044b6cc:
 
     # yoshi "You know, because she umm..."
-    yoshi "你知道，因为她，呃……"
+    yoshi "她这样是因为，呃……"
 
 # game/src/plot/nyu01.rpy:21
 translate zh_hans nyu01_intro_reuse_ef1d9633_1:
@@ -160,7 +160,7 @@ translate zh_hans nyu01_intro_reuse_4ab4569c:
 translate zh_hans nyu01_intro_reuse_07c46fa0:
 
     # yoshi f_calm "Right, of course."
-    yoshi f_calm "也是，当然了。"
+    yoshi f_calm "对，当然。"
 
 # game/src/plot/nyu01.rpy:46
 translate zh_hans nyu01_intro_reuse_7aa99d63:
