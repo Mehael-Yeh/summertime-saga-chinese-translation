@@ -1,54 +1,54 @@
 ﻿# TODO: Translation updated at 2026-06-18 00:52
 
-# game/src/mech/shop.rpy:71
+# game/src/mech/shop.rpy:74
 translate zh_hans shop_ivy_b10905f4:
 
     # ivy "Hi, [saga.cast.anon]. What have you got in that basket today?"
     ivy "嗨，[saga.cast.anon]。你今天购物车里有什么？"
 
-# game/src/mech/shop.rpy:73
+# game/src/mech/shop.rpy:76
 translate zh_hans shop_ivy_e4d264fa:
 
     # ivy "That'll be $[cash], please."
     ivy "一共是$[cash]，谢谢。"
 
-# game/src/mech/shop.rpy:80
+# game/src/mech/shop.rpy:83
 translate zh_hans shop_jane_8cf671d7:
 
     # jane "Hi, [saga.cast.anon]. Checking something out?"
     jane "嗨，[saga.cast.anon]。来办借阅吗？"
 
-# game/src/mech/shop.rpy:87
+# game/src/mech/shop.rpy:90
 translate zh_hans shop_kassy_c1e1f840:
 
     # kassy "Hi, [saga.cast.anon]. What have you got in that basket today?"
     kassy "嗨，[saga.cast.anon]。你今天购物车里有什么？"
 
-# game/src/mech/shop.rpy:89
+# game/src/mech/shop.rpy:92
 translate zh_hans shop_kassy_db31053f:
 
     # kassy "That'll be $[cash], please."
     kassy "一共是$[cash]，谢谢。"
 
-# game/src/mech/shop.rpy:96
+# game/src/mech/shop.rpy:99
 translate zh_hans shop_lily_0a3e1878:
 
     # lily "Hi, [saga.cast.anon]. What have you got in that basket today?"
     lily "嗨，[saga.cast.anon]。你今天购物车里有什么？"
 
-# game/src/mech/shop.rpy:98
+# game/src/mech/shop.rpy:101
 translate zh_hans shop_lily_7ceab601:
 
     # lily "That'll be $[cash], please."
     lily "一共是$[cash]，谢谢。"
 
-# game/src/mech/shop.rpy:105
+# game/src/mech/shop.rpy:108
 translate zh_hans shop_vee_f30a7168:
 
     # vee "Hi, [saga.cast.anon]. What have you got in that basket today?"
     vee "嗨，[saga.cast.anon]。你今天购物车里有什么？"
 
-# game/src/mech/shop.rpy:107
+# game/src/mech/shop.rpy:110
 translate zh_hans shop_vee_a9e1a248:
 
     # vee "That'll be $[cash], please."
@@ -87,3 +87,10 @@ translate zh_hans strings:
     # game/src/mech/shop.rpy:62
     old "Leave it."
     new "不管它"
+# TODO: Translation updated at 2026-10-04 18:32
+
+translate zh_hans strings:
+
+    # game/src/mech/shop.rpy:56
+    old "Add to [what.cart!lt]. [[{usd=$[what.cost:,]}]"
+    new "加入[what.cart!lt]。[[{usd=$[what.cost:,]}]"

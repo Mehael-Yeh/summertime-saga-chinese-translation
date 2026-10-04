@@ -23,3 +23,18 @@ translate zh_hans strings:
     # game/res/meta/sets.rpym:181
     old "Stairwell"
     new "楼梯间"
+# TODO: Translation updated at 2026-10-04 18:32
+
+translate zh_hans strings:
+
+    # game/res/meta/sets.rpym:92
+    old "Idol Hands"
+    new "偶像咖啡"
+
+    # game/res/meta/sets.rpym:182
+    old "Security Room"
+    new "保安室"
+
+    # game/res/meta/sets.rpym:267
+    old "???"
+    new "？？？"

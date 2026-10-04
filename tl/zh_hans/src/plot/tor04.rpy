@@ -529,9 +529,9 @@ translate zh_hans tor04_tori_b142f0b0:
     anon "取下来了！"
 
 # game/src/plot/tor04.rpy:227
-translate zh_hans tor04_tori_faebb70a:
+translate zh_hans tor04_tori_6c23b303:
 
-    # tori "Haaah... Haaah..."
+    # tori "Haaah... haaah..."
     tori "哈啊……哈啊……"
 
 # game/src/plot/tor04.rpy:228
@@ -559,9 +559,9 @@ translate zh_hans tor04_tori_70ea8d11:
     anon "是啊，腰带也全湿了……"
 
 # game/src/plot/tor04.rpy:237
-translate zh_hans tor04_tori_faebb70a_1:
+translate zh_hans tor04_tori_6c23b303_1:
 
-    # tori "Haaah... Haaah..."
+    # tori "Haaah... haaah..."
     tori "哈啊……哈啊……"
 
 # game/src/plot/tor04.rpy:238
@@ -571,9 +571,9 @@ translate zh_hans tor04_tori_173f3edb:
     tori "我的腿没知觉了……"
 
 # game/src/plot/tor04.rpy:240
-translate zh_hans tor04_tori_faebb70a_2:
+translate zh_hans tor04_tori_6c23b303_2:
 
-    # tori "Haaah... Haaah..."
+    # tori "Haaah... haaah..."
     tori "哈啊……哈啊……"
 
 # game/src/plot/tor04.rpy:241
@@ -624,3 +624,4 @@ translate zh_hans tor04_outro_block_f570566b:
     # anon @ -m_talk "( I should let her rest for now. )"
     anon @ -m_talk "（现在应该让她休息一下。）"
 
+# TODO: Translation updated at 2026-10-04 18:32

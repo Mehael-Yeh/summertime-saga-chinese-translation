@@ -166,154 +166,154 @@ translate zh_hans maria_pizza_kitchen_outro_626198f9:
     # anon a_wave "I will be."
     anon a_wave "知道了。"
 
-# game/src/plot/maria.rpy:184
+# game/src/plot/maria.rpy:188
+translate zh_hans maria_pizza_pantry_intro1_50bd98a0:
+
+    # anon "You need help with that?"
+    anon "要我帮忙吗？"
+
+# game/src/plot/maria.rpy:189
+translate zh_hans maria_pizza_pantry_intro1_b288efed:
+
+    # maria "No, I got it."
+    maria "不用，我自己来。"
+
+# game/src/plot/maria.rpy:191
+translate zh_hans maria_pizza_pantry_intro1_785c8a14:
+
+    # maria p_stand_away "There, ya see?"
+    maria p_stand_away "瞧，看到没？"
+
+# game/src/plot/maria.rpy:193
+translate zh_hans maria_pizza_pantry_intro1_ad4b54da:
+
+    # maria "Easy as pie."
+    maria "小菜一碟。"
+
+# game/src/plot/maria.rpy:194
+translate zh_hans maria_pizza_pantry_intro1_fb4e1ee6:
+
+    # anon f_shy "Yeah, well done."
+    anon f_shy "嗯，真厉害。"
+
+# game/src/plot/maria.rpy:195
+translate zh_hans maria_pizza_pantry_intro1_adb0d011:
+
+    # maria f_curious "Did you need somethin'?"
+    maria f_curious "找我有事？"
+
+# game/src/plot/maria.rpy:203
+translate zh_hans maria_pizza_pantry_intro2_706855e5:
+
+    # maria "Urgh, I'm gonna make [saga.cast.tony] reorganize this shelf..."
+    maria "呃啊，我非得让[saga.cast.tony]重新收拾这个架子……"
+
+# game/src/plot/maria.rpy:204
+translate zh_hans maria_pizza_pantry_intro2_82c092de:
+
+    # maria "... He's got way too much crap up top!"
+    maria "……他在最上面堆的破烂也太多了！"
+
+# game/src/plot/maria.rpy:205
+translate zh_hans maria_pizza_pantry_intro2_8b9e7f38:
+
+    # maria p_stand_away "{i}*Sigh*{/i}"
+    maria p_stand_away "{i}*叹气*{/i}"
+
+# game/src/plot/maria.rpy:208
+translate zh_hans maria_pizza_pantry_intro2_bcd99a0f:
+
+    # maria @ -m_talk "Hmm?"
+    maria @ -m_talk "嗯？"
+
+# game/src/plot/maria.rpy:209
+translate zh_hans maria_pizza_pantry_intro2_d827805c:
+
+    # maria "Tsk, what are ya doin'?"
+    maria "啧，你盯着干什么呢？"
+
+# game/src/plot/maria.rpy:210
+translate zh_hans maria_pizza_pantry_intro2_4317600b:
+
+    # anon e_w f_confused "Huh?"
+    anon e_w f_confused "啊？"
+
+# game/src/plot/maria.rpy:211
+translate zh_hans maria_pizza_pantry_intro2_18f0f265:
+
+    # anon a_uneasy f_shy "Oh, hey [saga.cast.maria]."
+    anon a_uneasy f_shy "哦，嗨，[saga.cast.maria]。"
+
+# game/src/plot/maria.rpy:212
+translate zh_hans maria_pizza_pantry_intro2_9e1cd046:
+
+    # maria f_curious "Ya just gonna stand there gawkin' or ya need somethin'?"
+    maria f_curious "打算就这么站着看个够，还是找我有事？"
+
+# game/src/plot/maria.rpy:219
+translate zh_hans maria_pizza_pantry_outro_373f7378:
+
+    # anon f_calm "I'll leave you to it."
+    anon f_calm "那你接着忙吧。"
+
+# game/src/plot/maria.rpy:220
+translate zh_hans maria_pizza_pantry_outro_a0dec0cc:
+
+    # maria "Alright, suit ya self."
+    maria "行，随你。"
+
+# game/src/plot/maria.rpy:221
+translate zh_hans maria_pizza_pantry_outro_f09f570c:
+
+    # anon "Have a good night, [saga.cast.maria]."
+    anon "晚安，[saga.cast.maria]。"
+
+# game/src/plot/maria.rpy:222
+translate zh_hans maria_pizza_pantry_outro_40418da9:
+
+    # maria "Ya, you too."
+    maria "嗯，你也是。"
+
+# game/src/plot/maria.rpy:254
 translate zh_hans maria_pizza_shop_intro_b1dd2f7b:
 
 
     # anon "Hi, [saga.cast.maria]."
     anon "嗨，[saga.cast.maria]。"
 
-# game/src/plot/maria.rpy:185
+# game/src/plot/maria.rpy:255
 translate zh_hans maria_pizza_shop_intro_5c87c0ea:
 
     # maria "Hey, [saga.cast.anon]."
     maria "嘿，[saga.cast.anon]。"
 
-# game/src/plot/maria.rpy:187
+# game/src/plot/maria.rpy:257
 translate zh_hans maria_pizza_shop_intro_a2105628:
 
 
     # maria "What can I do for ya?"
     maria "找我有事吗？"
 
-# game/src/plot/maria.rpy:193
+# game/src/plot/maria.rpy:263
 translate zh_hans maria_pizza_shop_outro_661b32de:
 
 
     # anon f_calm "I'm going to head out."
     anon f_calm "我先走了。"
 
-# game/src/plot/maria.rpy:194
+# game/src/plot/maria.rpy:264
 translate zh_hans maria_pizza_shop_outro_b586a964:
 
 
     # maria "Alright, see ya later, kid."
     maria "行，回头见，小子。"
 
-# game/src/plot/maria.rpy:195
+# game/src/plot/maria.rpy:265
 translate zh_hans maria_pizza_shop_outro_cabaf4ec:
 
 
     # anon a_wave "Bye, [saga.cast.maria]."
     anon a_wave "再见，[saga.cast.maria]。"
-
-# game/src/plot/maria.rpy:231
-translate zh_hans maria_pizza_pantry_intro1_50bd98a0:
-
-    # anon "You need help with that?"
-    anon "要我帮忙吗？"
-
-# game/src/plot/maria.rpy:232
-translate zh_hans maria_pizza_pantry_intro1_b288efed:
-
-    # maria "No, I got it."
-    maria "不用，我自己来。"
-
-# game/src/plot/maria.rpy:234
-translate zh_hans maria_pizza_pantry_intro1_785c8a14:
-
-    # maria p_stand_away "There, ya see?"
-    maria p_stand_away "瞧，看到没？"
-
-# game/src/plot/maria.rpy:236
-translate zh_hans maria_pizza_pantry_intro1_ad4b54da:
-
-    # maria "Easy as pie."
-    maria "小菜一碟。"
-
-# game/src/plot/maria.rpy:237
-translate zh_hans maria_pizza_pantry_intro1_fb4e1ee6:
-
-    # anon f_shy "Yeah, well done."
-    anon f_shy "嗯，真厉害。"
-
-# game/src/plot/maria.rpy:238
-translate zh_hans maria_pizza_pantry_intro1_adb0d011:
-
-    # maria f_curious "Did you need somethin'?"
-    maria f_curious "找我有事？"
-
-# game/src/plot/maria.rpy:246
-translate zh_hans maria_pizza_pantry_intro2_706855e5:
-
-    # maria "Urgh, I'm gonna make [saga.cast.tony] reorganize this shelf..."
-    maria "呃啊，我非得让[saga.cast.tony]重新收拾这个架子……"
-
-# game/src/plot/maria.rpy:247
-translate zh_hans maria_pizza_pantry_intro2_82c092de:
-
-    # maria "... He's got way too much crap up top!"
-    maria "……他在最上面堆的破烂也太多了！"
-
-# game/src/plot/maria.rpy:248
-translate zh_hans maria_pizza_pantry_intro2_8b9e7f38:
-
-    # maria p_stand_away "{i}*Sigh*{/i}"
-    maria p_stand_away "{i}*叹气*{/i}"
-
-# game/src/plot/maria.rpy:251
-translate zh_hans maria_pizza_pantry_intro2_bcd99a0f:
-
-    # maria @ -m_talk "Hmm?"
-    maria @ -m_talk "嗯？"
-
-# game/src/plot/maria.rpy:252
-translate zh_hans maria_pizza_pantry_intro2_d827805c:
-
-    # maria "Tsk, what are ya doin'?"
-    maria "啧，你盯着干什么呢？"
-
-# game/src/plot/maria.rpy:253
-translate zh_hans maria_pizza_pantry_intro2_4317600b:
-
-    # anon e_w f_confused "Huh?"
-    anon e_w f_confused "啊？"
-
-# game/src/plot/maria.rpy:254
-translate zh_hans maria_pizza_pantry_intro2_18f0f265:
-
-    # anon a_uneasy f_shy "Oh, hey [saga.cast.maria]."
-    anon a_uneasy f_shy "哦，嗨，[saga.cast.maria]。"
-
-# game/src/plot/maria.rpy:255
-translate zh_hans maria_pizza_pantry_intro2_9e1cd046:
-
-    # maria f_curious "Ya just gonna stand there gawkin' or ya need somethin'?"
-    maria f_curious "打算就这么站着看个够，还是找我有事？"
-
-# game/src/plot/maria.rpy:262
-translate zh_hans maria_pizza_pantry_outro_373f7378:
-
-    # anon f_calm "I'll leave you to it."
-    anon f_calm "那你接着忙吧。"
-
-# game/src/plot/maria.rpy:263
-translate zh_hans maria_pizza_pantry_outro_a0dec0cc:
-
-    # maria "Alright, suit ya self."
-    maria "行，随你。"
-
-# game/src/plot/maria.rpy:264
-translate zh_hans maria_pizza_pantry_outro_f09f570c:
-
-    # anon "Have a good night, [saga.cast.maria]."
-    anon "晚安，[saga.cast.maria]。"
-
-# game/src/plot/maria.rpy:265
-translate zh_hans maria_pizza_pantry_outro_40418da9:
-
-    # maria "Ya, you too."
-    maria "嗯，你也是。"
 
 translate zh_hans strings:
 

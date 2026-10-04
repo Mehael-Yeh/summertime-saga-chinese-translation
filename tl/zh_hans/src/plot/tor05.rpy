@@ -1561,9 +1561,9 @@ translate zh_hans tor05_office2_2fc3a1ad:
     tori "你该立刻开始混合！"
 
 # game/src/plot/tor05.rpy:806
-translate zh_hans tor05_office2_97ba4118:
+translate zh_hans tor05_office2_1238ba6c:
 
-    # anon "Haaah... Haaah..."
+    # anon "Haaah... haaah..."
     anon "哈啊……哈啊……"
 
 # game/src/plot/tor05.rpy:808
@@ -2724,3 +2724,4 @@ translate zh_hans strings:
     old "Could you repeat that?"
     new "你能再说一遍吗？"
 
+# TODO: Translation updated at 2026-10-04 18:32

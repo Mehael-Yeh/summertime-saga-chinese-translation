@@ -1394,11 +1394,10 @@ translate zh_hans mel02_eve_ask_4bd7e907:
     anon a_phone e_sw f_shy @ -m_talk "（呵，真是及时……）"
 
 # game/src/plot/mel02.rpy:579
-translate zh_hans mel02_eve_ask_c0025d88:
+translate zh_hans mel02_eve_ask_32274c70:
 
-
-    # anon f_happy @ -m_talk "( \"[misc.what!t]\" )"
-    anon f_happy @ -m_talk "（\"[misc.what!t]\"）"
+    # anon f_happy @ -m_talk "( \"[saga.mesg.mel02_conv03.what!t]\" )"
+    anon f_happy @ -m_talk "（\"[saga.mesg.mel02_conv03.what!t]\"）"
 
 # game/src/plot/mel02.rpy:580
 translate zh_hans mel02_eve_ask_719e8ae2:
@@ -3263,3 +3262,4 @@ translate zh_hans mel02_outro_bca18cf1:
 
     # anon "Bye, [saga.cast.melody]."
     anon "再见，[saga.cast.melody]。"
+# TODO: Translation updated at 2026-10-04 18:32

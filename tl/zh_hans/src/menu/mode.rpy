@@ -51,3 +51,14 @@ translate zh_hans strings:
     new "以提升后的属性开局"
 
 
+# TODO: Translation updated at 2026-10-04 18:32
+
+translate zh_hans strings:
+
+    # game/src/menu/mode.rpy:19
+    old "Start with max stats as there is no way to raise them yet. Optional money boost (check ATM) with toggle below. More content will be restored in future releases."
+    new "以满属性开始游戏，因为目前还无法提升属性。可用下方开关选择是否获得额外金钱（去自动取款机查看）。后续版本将继续恢复更多内容。"
+
+    # game/src/menu/mode.rpy:32
+    old "McDuck mode"
+    new "麦克老鸭模式"

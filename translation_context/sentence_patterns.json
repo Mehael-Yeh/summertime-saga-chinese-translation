@@ -6215,7 +6215,7 @@
       "file": "tl/zh_hans/src/plot/jos_trade.rpy",
       "source": "So the SL-700 Crotch Rocket?",
       "target": "所以选SL-700胯下火箭？",
-      "id": "jos_trade_scooter2_8654023d"
+      "id": "jos_trade_scooter2_3b3d6658"
     },
     {
       "file": "tl/zh_hans/src/plot/deb05.rpy",
@@ -6645,9 +6645,9 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "source": "I'd better head to the clinic and check on them.",
-      "target": "我得赶紧去诊所看看她和孩子。",
-      "id": "jen_baby_read2_aadfae2a"
+      "source": "I'd better head to the hospital and check on them.",
+      "target": "我得赶紧去医院看看她和孩子。",
+      "id": "jen_baby_read2_bfc1f536"
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",

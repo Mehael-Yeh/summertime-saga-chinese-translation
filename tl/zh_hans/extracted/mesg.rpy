@@ -185,3 +185,107 @@ translate zh_hans strings:
     # event: tina_baby2; sender: tina
     old "Just had the baby. We're at the hospital if you'd like to visit."
     new "刚生了孩子。我们在医院，想来看我们就来吧。"
+
+    # game/saga/init/mesg.py; event: jos02_conv01; sender: josie
+    old "Check it out!"
+    new "看看这个！"
+
+    # game/saga/init/mesg.py; event: jos02_conv03; sender: josie
+    old "Lul 😏"
+    new "笑死😏"
+
+    # game/saga/init/mesg.py; event: jos02_conv04; sender: anon
+    old "Who is this?"
+    new "你是谁？"
+
+    # game/saga/init/mesg.py; event: jos02_conv06; sender: anon
+    old "who?"
+    new "谁？"
+
+    # game/saga/init/mesg.py; event: jos02_conv07; sender: josie
+    old "From the car dealership."
+    new "车行的。"
+
+    # game/saga/init/mesg.py; event: jos02_conv09; sender: josie
+    old "ffs, we made out remember?!"
+    new "靠，我们还亲热过，记得吗？！"
+
+    # game/saga/init/mesg.py; event: jos02_conv10; sender: anon
+    old "Ohh, right!"
+    new "哦，对！"
+
+    # game/saga/init/mesg.py; event: jos03_conv01; sender: josie
+    old "They finally arrived! ✨👠💖"
+    new "终于到了！✨👠💖"
+
+    # game/saga/init/mesg.py; event: jos03_conv03; sender: josie
+    old "wdyt?"
+    new "你觉得怎么样？"
+
+    # game/saga/init/mesg.py; event: jos03a_conv04; sender: anon
+    old "Those aren't T-straps... 🫤❓"
+    new "这不是T字带凉鞋啊……🫤❓"
+
+    # game/saga/init/mesg.py; event: jos03a_conv05; sender: josie
+    old "yik"
+    new "我知道啦"
+
+    # game/saga/init/mesg.py; event: jos03a_conv06; sender: josie
+    old "These are better though. 😤"
+    new "不过这双更好。😤"
+
+    # game/saga/init/mesg.py; event: jos03a_conv07; sender: anon
+    old "If you say so..."
+    new "你说好就好吧……"
+
+    # game/saga/init/mesg.py; event: jos03b_conv04; sender: anon
+    old "Dang, your toe {i}is{/i} weirdly long! 😧"
+    new "天啊，你的脚趾{i}确实{/i}长得有点怪！😧"
+
+    # game/saga/init/mesg.py; event: jos03b_conv05; sender: josie
+    old "fu"
+    new "去你的"
+
+    # game/saga/init/mesg.py; event: jos03b_conv06; sender: josie
+    old "dick. 🖕"
+    new "混蛋。🖕"
+
+    # game/saga/init/mesg.py; event: jos03b_conv07; sender: anon
+    old "lol jk"
+    new "哈哈，开玩笑的"
+
+    # game/saga/init/mesg.py; event: jos03b_conv08; sender: anon
+    old "They look good!"
+    new "挺好看的！"
+
+    # game/saga/init/mesg.py; event: jos03b_conv09; sender: josie
+    old "I'mma make you pay for that, bowl cut."
+    new "锅盖头，这笔账我记下了。"
+
+    # game/saga/init/mesg.py; event: jos04_conv01; sender: anon
+    old "I'm here."
+    new "我到了。"
+
+    # game/saga/init/mesg.py; event: jos04_conv02; sender: anon
+    old "Where are you?"
+    new "你在哪儿？"
+
+    # game/saga/init/mesg.py; event: jos05_conv01; sender: josie
+    old "Been doing some research for you."
+    new "我替你做了点研究。"
+
+    # game/saga/init/mesg.py; event: jos05_conv02; sender: josie
+    old "A {i}better{/i} you!"
+    new "一个{i}更好的{/i}你！"
+
+    # game/saga/init/mesg.py; event: jos05_conv04; sender: josie
+    old "Go with 4 imo 😉"
+    new "我觉得选4吧😉"
+
+    # game/saga/init/mesg.py; event: jos05_conv05; sender: anon
+    old "Hey! I like my hair!"
+    new "嘿！我喜欢我的发型！"
+
+    # game/saga/init/mesg.py; event: jos05_conv06; sender: josie
+    old "so tragic."
+    new "真可悲。"

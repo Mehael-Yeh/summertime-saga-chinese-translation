@@ -618,82 +618,89 @@ translate zh_hans mar_door_maria_merge2_53a342f2:
     # maria "Hurry back!"
     maria "快去快回！"
 
-# game/src/plot/mar_door.rpy:308
+# game/src/plot/mar_door.rpy:301
+translate zh_hans mar_door_maria_merge2_244739f4:
+
+    # mono ""
+    mono ""
+
+# game/src/plot/mar_door.rpy:311
 translate zh_hans mar_door_maria_merge2_da2ccad4:
     # anon @ -m_talk "( Well, that's not exactly how I planned to spend my evening but I'm not complaining. )"
     anon @ -m_talk "（今晚本来不是这么安排的，不过我一点也不介意。）"
 
-# game/src/plot/mar_door.rpy:309
+# game/src/plot/mar_door.rpy:312
 translate zh_hans mar_door_maria_merge2_93378f50:
     # anon f_happy @ -m_talk "( Best get home before [saga.cast.debbie] starts to worry. )"
     anon f_happy @ -m_talk "（得赶在[saga.cast.debbie]担心之前回家。）"
 
-# game/src/plot/mar_door.rpy:316
+# game/src/plot/mar_door.rpy:319
 translate zh_hans mar_door_maria_creampie_66fec15c:
     # anon "Here it..."
     anon "要……"
 
-# game/src/plot/mar_door.rpy:317
+# game/src/plot/mar_door.rpy:320
 translate zh_hans mar_door_maria_creampie_063da537:
     # anon "... Comes!!"
     anon "……射了！！"
 
-# game/src/plot/mar_door.rpy:318
+# game/src/plot/mar_door.rpy:321
 translate zh_hans mar_door_maria_creampie_1547e067:
     # maria "YES!!!"
     maria "对，就是这样！！！"
 
-# game/src/plot/mar_door.rpy:322
+# game/src/plot/mar_door.rpy:325
 translate zh_hans mar_door_maria_creampie_0cf4d269:
     # anon "HNNGGG!!!" with flash
     anon "唔嗯嗯！！！" with flash
 
-# game/src/plot/mar_door.rpy:323
+# game/src/plot/mar_door.rpy:326
 translate zh_hans mar_door_maria_creampie_bf348d30:
     # maria p_cum_02 "NGGHHH!!!"
     maria p_cum_02 "嗯啊啊啊！！！"
 
-# game/src/plot/mar_door.rpy:327
+# game/src/plot/mar_door.rpy:330
 translate zh_hans mar_door_maria_creampie_d165fd93:
     # anon "Haah... haah..."
     anon "哈啊……哈啊……"
 
-# game/src/plot/mar_door.rpy:328
+# game/src/plot/mar_door.rpy:331
 translate zh_hans mar_door_maria_creampie_e55bfe5f:
     # maria e_nw "Oh, Jesus Christ."
     maria e_nw "哦，耶稣啊。"
 
-# game/src/plot/mar_door.rpy:329
+# game/src/plot/mar_door.rpy:332
 translate zh_hans mar_door_maria_creampie_d8f50d3e:
     # anon "Yeah."
     anon "嗯。"
 
-# game/src/plot/mar_door.rpy:330
+# game/src/plot/mar_door.rpy:333
 translate zh_hans mar_door_maria_creampie_b3ec5f40:
     # maria @ -m_talk "Mm."
     maria @ -m_talk "嗯。"
 
-# game/src/plot/mar_door.rpy:331
+# game/src/plot/mar_door.rpy:334
 translate zh_hans mar_door_maria_creampie_0f98b52d:
     # maria "I needed that."
     maria "这下可舒坦了。"
 
-# game/src/plot/mar_door.rpy:332
+# game/src/plot/mar_door.rpy:335
 translate zh_hans mar_door_maria_creampie_49da3a8f:
     # anon "Happy to oblige."
     anon "乐意效劳。"
 
-# game/src/plot/mar_door.rpy:340
+# game/src/plot/mar_door.rpy:343
 translate zh_hans mar_door_maria_rails_7ab9fdc7:
     # anon @ -m_talk "( I really should find [saga.cast.maria] first. )"
     anon @ -m_talk "（我还是先去找[saga.cast.maria]吧。）"
 
-# game/src/plot/mar_door.rpy:341
+# game/src/plot/mar_door.rpy:344
 translate zh_hans mar_door_maria_rails_a0f4d594:
     # anon e_sw f_horny @ -m_talk "( She might be getting cold without her dress... )"
     anon e_sw f_horny @ -m_talk "（她连连衣裙都没穿，可能要着凉了……）"
 
-# game/src/plot/mar_door.rpy:346
+# game/src/plot/mar_door.rpy:349
 translate zh_hans mar_door_maria_rails_1a0407ba:
     # anon @ -m_talk "( Nuh uh, there's no way I'm walking away from this... )"
     anon @ -m_talk "（不行，我可不能就这么一走了之……）"
+# TODO: Translation updated at 2026-10-04 18:32

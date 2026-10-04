@@ -62,3 +62,10 @@ translate zh_hans strings:
     # game/src/plot/diane.rpy:14
     old "Wages. ($[saga.prop.diane_plot.owed:,])"
     new "工钱 ($[saga.prop.diane_plot.owed:,])"
+# TODO: Translation updated at 2026-10-04 18:32
+
+translate zh_hans strings:
+
+    # game/src/plot/diane.rpy:11
+    old "[saga.cast.debbie]."
+    new "[saga.cast.debbie]。"

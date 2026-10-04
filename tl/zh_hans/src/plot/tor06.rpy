@@ -151,10 +151,10 @@ translate zh_hans tor06_tori_fa20318f:
     anon "给我？"
 
 # game/src/plot/tor06.rpy:58
-translate zh_hans tor06_tori_95b3fe26:
+translate zh_hans tor06_tori_a7751836:
 
-    # tori "Yeah, come to my office this evening after school and I'll show you."
-    tori "对，今晚放学后到我办公室来，我演示给你看。"
+    # tori "Yeah, come to my office after class and I'll show you."
+    tori "对，下课后到我办公室来，我给你看看。"
 
 # game/src/plot/tor06.rpy:60
 translate zh_hans tor06_tori_f0631824:
@@ -955,9 +955,9 @@ translate zh_hans tor06_office2_reuse_afd0c3bf:
     anon "你的意思是我们可以再来一次？"
 
 # game/src/plot/tor06.rpy:408
-translate zh_hans tor06_office2_reuse_97ba4118:
+translate zh_hans tor06_office2_reuse_1238ba6c:
 
-    # anon "Haaah... Haaah..."
+    # anon "Haaah... haaah..."
     anon "哈啊……哈啊……"
 
 # game/src/plot/tor06.rpy:411
@@ -1050,3 +1050,4 @@ translate zh_hans strings:
     old "Toggle augmented reality"
     new "切换增强现实"
 
+# TODO: Translation updated at 2026-10-04 18:32

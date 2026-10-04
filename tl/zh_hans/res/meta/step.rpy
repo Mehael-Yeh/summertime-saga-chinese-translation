@@ -2197,3 +2197,202 @@ translate zh_hans strings:
     # _archives/5/res/meta/step.rpym:1474
     old "Inspect with the Master Blaster controller in the treehouse."
     new "检查树屋里的爆破大师手柄。"
+# TODO: Translation updated at 2026-10-04 18:32
+
+translate zh_hans strings:
+
+    # game/res/meta/step.rpym:192
+    old "Retrieve the sack from the pantry."
+    new "取来食品储藏室里的麻袋。"
+
+    # game/res/meta/step.rpym:280
+    old "Retrieve the block of clay."
+    new "取来那块黏土。"
+
+    # game/res/meta/step.rpym:304
+    old "Retrieve [saga.cast.eve]'s bag from the park."
+    new "从公园取回[saga.cast.eve]的包。"
+
+    # game/res/meta/step.rpym:325
+    old "Retrieve the magazines from the library's function room and teacher's lounge, and speak with [saga.cast.kevin] while he's reading in the cafeteria."
+    new "取来图书馆活动室和教师休息室里的杂志，并和在食堂看书的[saga.cast.kevin]聊聊。"
+
+    # game/res/meta/step.rpym:340
+    old "Retrieve the magazines from [saga.cast.barb]'s office."
+    new "从[saga.cast.barb]的办公室取来杂志。"
+
+    # game/res/meta/step.rpym:352
+    old "Retrieve the pile of wooden planks from the meadow."
+    new "取来草地上的那堆木板。"
+
+    # game/res/meta/step.rpym:806
+    old "Retrieve her robe from the [saga.prop.costume_robe.where!l]."
+    new "从[saga.prop.costume_robe.where!l]取来她的长袍。"
+
+    # game/res/meta/step.rpym:870
+    old "Retrieve the shovel from [saga.cast.debbie]'s garage."
+    new "从[saga.cast.debbie]的车库取来铲子。"
+
+    # game/res/meta/step.rpym:1088
+    old "I wonder what she's up to?"
+    new "不知道她在打什么主意？"
+
+    # game/res/meta/step.rpym:1310
+    old "Enter the dealership."
+    new "进入车行。"
+
+    # game/res/meta/step.rpym:1311
+    old "Maybe I ought to apologise? I can't believe I didn't recognise her name!"
+    new "也许我该道个歉？真不敢相信，我居然没认出她的名字！"
+
+    # game/res/meta/step.rpym:1313
+    old "Speak to the dealership mechanic."
+    new "和车行的修车师傅交谈。"
+
+    # game/res/meta/step.rpym:1314
+    old "I really hope this mechanic guy can help get the phone. I've no idea what to try otherwise."
+    new "真希望这位修车师傅能帮忙弄到那部手机。不然我真不知道还能怎么办了。"
+
+    # game/res/meta/step.rpym:1316
+    old "Speak with the dealership mechanic about [saga.cast.yoo]'s phone."
+    new "和车行的修车师傅聊聊[saga.cast.yoo]的手机。"
+
+    # game/res/meta/step.rpym:1317
+    old "[saga.cast.yoo] may be gone, but I wish I could do something about [saga.cast.josie]'s photos... Perhaps the mechanic installed a tracker app or something?"
+    new "[saga.cast.yoo]虽然走了，可我还是想帮忙处理掉[saga.cast.josie]的照片……也许修车师傅装过定位软件之类的东西？"
+
+    # game/res/meta/step.rpym:1319
+    old "Retrieve the tool bag from the pump room of the community pool."
+    new "取来社区泳池泵房里的工具包。"
+
+    # game/res/meta/step.rpym:1320
+    old "The tool bag could be in the apartment block, the community pool, or the mall bathroom. [saga.cast.jiang] sure gets around!"
+    new "工具包可能在公寓楼、社区泳池或商场的洗手间里。[saga.cast.jiang]去的地方可真多！"
+
+    # game/res/meta/step.rpym:1322
+    old "Speak with [saga.cast.jiang] about [saga.cast.yoo]'s phone."
+    new "和[saga.cast.jiang]聊聊[saga.cast.yoo]的手机。"
+
+    # game/res/meta/step.rpym:1323
+    old "If only there was some way to get closure for [saga.cast.josie] about those photos. Maybe I should ask [saga.cast.jiang] about the security software he used?"
+    new "要是能让[saga.cast.josie]彻底放下那些照片的事就好了。也许该问问[saga.cast.jiang]，他用的是什么安全软件？"
+
+    # game/res/meta/step.rpym:1325
+    old "Speak with [saga.cast.jiang] about his tool bag."
+    new "和[saga.cast.jiang]聊聊他的工具包。"
+
+    # game/res/meta/step.rpym:1326
+    old "One tool bag ready for delivery. I hope [saga.cast.jiang] managed to get ahold of the phone."
+    new "工具包找到了，该给他送去了。希望[saga.cast.jiang]已经弄到那部手机。"
+
+    # game/res/meta/step.rpym:1328
+    old "Speak with [saga.cast.jiang] about the phone."
+    new "和[saga.cast.jiang]聊聊手机的事。"
+
+    # game/res/meta/step.rpym:1329
+    old "Nothing to do but keep checking in with [saga.cast.jiang]. He seemed pretty confident."
+    new "现在只能时不时去问问[saga.cast.jiang]的进展。他看起来倒是很有把握。"
+
+    # game/res/meta/step.rpym:1331
+    old "Speak to [saga.cast.josie]."
+    new "和[saga.cast.josie]交谈。"
+
+    # game/res/meta/step.rpym:1332
+    old "Time to tell [saga.cast.josie] the good news—those photos are history!"
+    new "该告诉[saga.cast.josie]这个好消息了——那些照片彻底没了！"
+
+    # game/res/meta/step.rpym:1334
+    old "Enter the breakroom in the dealership."
+    new "进入车行的休息室。"
+
+    # game/res/meta/step.rpym:1335
+    old "I need to find [saga.cast.josie] and tell her she can rest easy now—those photos are gone."
+    new "得找到[saga.cast.josie]，告诉她可以放心了——那些照片已经删掉了。"
+
+    # game/res/meta/step.rpym:1338
+    old "Feels good to have been able to help [saga.cast.josie] out of her predicament. [saga.cast.yoo if saga.cast.nyu < 'phone' else saga.cast.nyu] really will try anything to take over the dealership!"
+    new "能帮[saga.cast.josie]摆脱困境，感觉真不错。[saga.cast.yoo if saga.cast.nyu < 'phone' else saga.cast.nyu]为了夺下车行，还真是什么招都使得出来！"
+
+    # game/res/meta/step.rpym:1340
+    old "Read message from [saga.cast.josie]."
+    new "阅读[saga.cast.josie]发来的消息。"
+
+    # game/res/meta/step.rpym:1341
+    old "I should probably see what she texted me about."
+    new "我该看看她发了什么消息。"
+
+    # game/res/meta/step.rpym:1343
+    old "Visit the dealership."
+    new "去车行。"
+
+    # game/res/meta/step.rpym:1344
+    old "I wonder how she's getting on at the dealership. Hopefully [saga.cast.yoo if saga.cast.yoo < 'fled' else saga.cast.nyu] hasn't tried anything else."
+    new "不知道她在车行过得怎么样。希望[saga.cast.yoo if saga.cast.yoo < 'fled' else saga.cast.nyu]没再搞什么鬼。"
+
+    # game/res/meta/step.rpym:1347
+    old "I guess it makes sense that even the mob has to buy their cars somewhere. I just never imagined it would be so... normal."
+    new "想想也是，连黑帮也得找地方买车。只是没想到会这么……普通。"
+
+    # game/res/meta/step.rpym:1349
+    old "Retrieve the vest from [saga.cast.yoshi]'s office."
+    new "从[saga.cast.yoshi]的办公室取来马甲。"
+
+    # game/res/meta/step.rpym:1350
+    old "[saga.cast.josie] told me to grab a vest from [saga.cast.yoshi]'s office. I hope he won't mind."
+    new "[saga.cast.josie]让我去[saga.cast.yoshi]的办公室拿件马甲。希望他不会介意。"
+
+    # game/res/meta/step.rpym:1353
+    old "I should get back to her. I wonder if I can make any commission?"
+    new "该回去找她了。不知道我能不能赚点提成？"
+
+    # game/res/meta/step.rpym:1356
+    old "Well that was utterly nerve wracking... and totally awesome! Her dad was literally right there."
+    new "刚才真是紧张得要命……又爽得不得了！她爸可就在旁边啊。"
+
+    # game/res/meta/step.rpym:1359
+    old "I could hardly say no, she must have been really desperate to call. Plus... well, spending time with her at the dealership last time was pretty fun!"
+    new "我哪能拒绝呢，她都打电话来了，肯定急得不行。再说……上次和她在车行待着，也挺有意思的！"
+
+    # game/res/meta/step.rpym:1361
+    old "Listen to [saga.cast.yoshi]."
+    new "听听[saga.cast.yoshi]在说什么。"
+
+    # game/res/meta/step.rpym:1362
+    old "Their conversation can't be that private if they're having it on the showroom floor, it's practically an invitation to listen in."
+    new "他们都在展厅里聊了，应该也算不上什么私密谈话，简直是在请人旁听。"
+
+    # game/res/meta/step.rpym:1364
+    old "Enter [saga.cast.yoshi]'s office."
+    new "进入[saga.cast.yoshi]的办公室。"
+
+    # game/res/meta/step.rpym:1365
+    old "She doesn't seem like the type to ghost someone... not when she could mercilessly troll them instead. She must be around here somewhere."
+    new "她不像是会突然不理人的类型……毕竟她宁愿把人狠狠捉弄一顿。她肯定就在这附近。"
+
+    # game/res/meta/step.rpym:1368
+    old "Something must be extremely wrong. It looks like she may actually be performing some kind of work. I need to confront this imposter ASAP!"
+    new "肯定出大事了。她看起来居然真的在干活。得赶紧揭穿这个冒牌货！"
+
+    # game/res/meta/step.rpym:1371
+    old "Well I guess that was inevitable. No way I'm going back there before her dad has had a chance to calm down."
+    new "好吧，看来这事迟早会发生。她爸没消气之前，我可不回去了。"
+
+    # game/res/meta/step.rpym:1377
+    old "That's it. Always with the hair! It's been long enough, I should go confront her in person. #allshairinloveandwar"
+    new "够了，又拿我的发型说事！躲得够久了，我该去当面找她算账。#情场战场发型遭殃"
+
+    # game/res/meta/step.rpym:1379
+    old "Speak to [saga.cast.josie] in the [saga.cast.josie.where!l]."
+    new "去[saga.cast.josie.where!l]和[saga.cast.josie]交谈。"
+
+    # game/res/meta/step.rpym:1380
+    old "As distractions go... I have to admit that this one is pretty up there."
+    new "要说分散注意力……不得不承认，这招确实够厉害。"
+
+    # game/res/meta/step.rpym:1603
+    old "Retrieve the glasses from [saga.cast.judith]'s locker."
+    new "从[saga.cast.judith]的储物柜取来眼镜。"
+
+    # game/res/meta/step.rpym:1636
+    old "Retrieve the Master Blaster controller from the treehouse."
+    new "从树屋取来爆破大师手柄。"

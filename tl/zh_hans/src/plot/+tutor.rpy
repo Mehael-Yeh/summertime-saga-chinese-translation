@@ -163,4 +163,3 @@ translate zh_hans tutor_hud_d41d8cd9:
 
     # nvl clear
     nvl clear
-

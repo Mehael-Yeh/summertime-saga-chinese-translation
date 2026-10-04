@@ -242,3 +242,10 @@ translate zh_hans strings:
     # game/src/plot/cedric.rpy:13
     old "What have you been up to?"
     new "你最近在忙什么呢？"
+# TODO: Translation updated at 2026-10-04 18:32
+
+translate zh_hans strings:
+
+    # game/src/plot/cedric.rpy:5
+    old "[saga.cast.jenny]."
+    new "[saga.cast.jenny]。"

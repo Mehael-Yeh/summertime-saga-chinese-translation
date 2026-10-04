@@ -972,3 +972,10 @@ translate zh_hans strings:
     # game/src/plot/ton_baby.rpy:50
     old "Where's [saga.cast.maria]?"
     new "[saga.cast.maria]呢？"
+# TODO: Translation updated at 2026-10-04 18:32
+
+translate zh_hans strings:
+
+    # game/src/plot/ton_baby.rpy:114
+    old "[saga.cast.maria]."
+    new "[saga.cast.maria]。"

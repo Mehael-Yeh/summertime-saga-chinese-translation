@@ -1932,10 +1932,9 @@ translate zh_hans mar_dark_maria_trio1_cbe7ae72:
     anon "嗯、嗯，我想没事。"
 
 # game/src/plot/mar_dark.rpy:857
-translate zh_hans mar_dark_maria_trio1_b20a2b16:
+translate zh_hans mar_dark_maria_trio1_19f8cba9:
 
-
-    # maria "Haah... Haah..."
+    # maria "Haah... haah..."
     maria "哈啊……哈啊……"
 
 # game/src/plot/mar_dark.rpy:858
@@ -2581,3 +2580,4 @@ translate zh_hans strings:
     # game/src/plot/mar_dark.rpy:588
     old "Threeway?"
     new "要来三人行吗？"
+# TODO: Translation updated at 2026-10-04 18:32

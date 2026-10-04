@@ -3361,28 +3361,28 @@ translate zh_hans deb_baby_meet_80d56152:
     anon @ -m_talk "（真想早点接她和孩子回家，不过现在还是得让他们好好休息。）"
 
 # game/src/plot/deb_baby.rpy:1531
-translate zh_hans deb_baby_meet_rails_2b0a0e3f:
-
-    # anon @ -m_talk "( The recovery ward is on the third floor, no time to waste. )"
-    anon @ -m_talk "（康复病房在三楼，得抓紧时间。）"
-
-# game/src/plot/deb_baby.rpy:1534
 translate zh_hans deb_baby_meet_rails_bd0bafd8:
 
     # anon @ -m_talk "( The ward chart says that [saga.cast.debbie] is in [saga.cast.debbie.where!l]. )"
     anon @ -m_talk "（病房名单上写着，[saga.cast.debbie]在[saga.cast.debbie.where!l]。）"
 
-# game/src/plot/deb_baby.rpy:1537
+# game/src/plot/deb_baby.rpy:1534
 translate zh_hans deb_baby_meet_rails_69ff73ee:
 
     # anon @ -m_talk "( Well clearly she's not in this room... )"
     anon @ -m_talk "（她显然不在这间病房……）"
 
-# game/src/plot/deb_baby.rpy:1538
+# game/src/plot/deb_baby.rpy:1535
 translate zh_hans deb_baby_meet_rails_b3c6319a:
 
     # anon o_left @ -m_talk "( ... She must be in one of the others. )"
     anon o_left @ -m_talk "（……肯定在别的病房。）"
+
+# game/src/plot/deb_baby.rpy:1538
+translate zh_hans deb_baby_meet_rails_2b0a0e3f:
+
+    # anon @ -m_talk "( The recovery ward is on the third floor, no time to waste. )"
+    anon @ -m_talk "（康复病房在三楼，得抓紧时间。）"
 
 # game/src/plot/deb_baby.rpy:1541
 translate zh_hans deb_baby_meet_rails_48770d11:

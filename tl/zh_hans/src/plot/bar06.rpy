@@ -991,9 +991,9 @@ translate zh_hans bar06_office3_reuse_4296c49a:
     barb "嗯哼！"
 
 # game/src/plot/bar06.rpy:413
-translate zh_hans bar06_office3_reuse_a40b1962:
+translate zh_hans bar06_office3_reuse_1ea08430:
 
-    # barb "Haaah... Haaah..."
+    # barb "Haaah... haaah..."
     barb "哈啊……哈啊……"
 
 # game/src/plot/bar06.rpy:414
@@ -1182,3 +1182,4 @@ translate zh_hans bar06_office3_barb_2664e5a9:
     # anon "I'll see you there, [saga.cast.barb]."
     anon "回见，[saga.cast.barb]。"
 
+# TODO: Translation updated at 2026-10-04 18:32

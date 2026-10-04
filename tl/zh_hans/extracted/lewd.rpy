@@ -902,3 +902,35 @@ translate zh_hans strings:
     # game/lib/saga/intf/lewd.py
     old "Shower"
     new "淋浴"
+
+    # game/saga/init/lewd.py (8194)
+    old "Have sex with [saga.cast.josie] in the afternoon."
+    new "下午和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py (8194)
+    old "Have sex with [saga.cast.josie] in the break room again."
+    new "再次在休息室和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py (8194)
+    old "Have sex with [saga.cast.josie] in the break room."
+    new "在休息室和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py (8194)
+    old "Have sex with [saga.cast.josie] in the evening again."
+    new "再次在晚上和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py (8194)
+    old "Have sex with [saga.cast.josie] in the evening."
+    new "晚上和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py (8194)
+    old "Have sex with [saga.cast.josie] in the morning again."
+    new "再次在早上和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py (8194)
+    old "Have sex with [saga.cast.josie] in the morning."
+    new "早上和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py (8194)
+    old "Progress through [saga.cast.josie]'s story."
+    new "推进[saga.cast.josie]的剧情。"

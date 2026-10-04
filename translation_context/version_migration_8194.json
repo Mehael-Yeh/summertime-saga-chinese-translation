@@ -1,0 +1,842 @@
+{
+  "game_version": "21.0.0-wip.8194",
+  "previous_game_version": "21.0.0-wip.7944",
+  "date": "2026-10-04",
+  "source_archive_sha256": "e706bac7340ef8c5a3a68da53e65ac2d695592ec643d45f254064b5f56a419bf",
+  "new_dialogue_ids": 2493,
+  "retired_dialogue_ids": [
+    {
+      "file": "src/plot/bar04.rpy",
+      "id": "bar04_art2_47daa866"
+    },
+    {
+      "file": "src/plot/bar06.rpy",
+      "id": "bar06_office3_reuse_a40b1962"
+    },
+    {
+      "file": "src/plot/deb_visit.rpy",
+      "id": "deb_visit_baby_af79010c"
+    },
+    {
+      "file": "src/plot/deb_visit.rpy",
+      "id": "deb_visit_baby_e6eea80f"
+    },
+    {
+      "file": "src/plot/jen_baby.rpy",
+      "id": "jen_baby_read2_aadfae2a"
+    },
+    {
+      "file": "src/plot/jen_baby.rpy",
+      "id": "jen_baby_meet_rails_466adecf"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_5683c59f"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_b699e742"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_5496a781"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_61a427d5"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_3f5fb511"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_2f2392c7"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_6d0921a3"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_8d58b07b"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_fd840de1"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_b504dd92"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_yoo_de2e2706"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_4414a859"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_25516b44"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_2f29bae7"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_3df1722d"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_f513fadc"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_1536fc05"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_fb4b8577"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_cf8655f0"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_feb15995"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_03e57a9b"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_d01d0d6e"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_057cf5f9"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_86907352"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_68569328"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_069cc930"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_2588bd70"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_9d3e2cc7"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_a539bce5"
+    },
+    {
+      "file": "src/plot/jos01.rpy",
+      "id": "jos01_josie1_3f748204"
+    },
+    {
+      "file": "src/plot/josie.rpy",
+      "id": "josie_car_shop_intro1_de6fc852"
+    },
+    {
+      "file": "src/plot/josie.rpy",
+      "id": "josie_car_shop_intro1_fda90a1e"
+    },
+    {
+      "file": "src/plot/josie.rpy",
+      "id": "josie_car_shop_intro1_ed6cd727"
+    },
+    {
+      "file": "src/plot/josie.rpy",
+      "id": "josie_car_shop_intro2_32a9c383"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_e67cb137"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_87a68a30"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_fac3cd7d"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_bail_b310aea8"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_bail_4c8ef195"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_bail_824c3a6f"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_bail_43861fe3"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_compact1a_ea6fa398"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_compact1a_65599f22"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_compact2_8fbc831d"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_coupe1a_9d335d50"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_coupe2_ebf24d2f"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_coupe2_b646e606"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_scooter1a_0f56bf60"
+    },
+    {
+      "file": "src/plot/jos_trade.rpy",
+      "id": "jos_trade_scooter2_8654023d"
+    },
+    {
+      "file": "src/plot/mar_baby.rpy",
+      "id": "mar_baby_wait_0fb1d67b"
+    },
+    {
+      "file": "src/plot/mar_baby.rpy",
+      "id": "mar_baby_meet_rails_32cab796"
+    },
+    {
+      "file": "src/plot/mar_baby.rpy",
+      "id": "mar_baby_meet_rails_748b5fdb"
+    },
+    {
+      "file": "src/plot/mar_baby.rpy",
+      "id": "mar_baby_meet_rails_0bcb38a3"
+    },
+    {
+      "file": "src/plot/mar_dark.rpy",
+      "id": "mar_dark_maria_trio1_b20a2b16"
+    },
+    {
+      "file": "src/plot/mel02.rpy",
+      "id": "mel02_eve_ask_c0025d88"
+    },
+    {
+      "file": "src/plot/mel_office.rpy",
+      "id": "mel_office_merge_97ba4118"
+    },
+    {
+      "file": "src/plot/tin_baby.rpy",
+      "id": "tin_baby_wait_27699c61"
+    },
+    {
+      "file": "src/plot/tin_baby.rpy",
+      "id": "tin_baby_wait_once_9ca0e53b"
+    },
+    {
+      "file": "src/plot/tor04.rpy",
+      "id": "tor04_tori_faebb70a"
+    },
+    {
+      "file": "src/plot/tor04.rpy",
+      "id": "tor04_tori_faebb70a_1"
+    },
+    {
+      "file": "src/plot/tor04.rpy",
+      "id": "tor04_tori_faebb70a_2"
+    },
+    {
+      "file": "src/plot/tor05.rpy",
+      "id": "tor05_office2_97ba4118"
+    },
+    {
+      "file": "src/plot/tor06.rpy",
+      "id": "tor06_tori_95b3fe26"
+    },
+    {
+      "file": "src/plot/tor06.rpy",
+      "id": "tor06_office2_reuse_97ba4118"
+    },
+    {
+      "file": "src/plot/yoo.rpy",
+      "id": "yoo_car_shop_eotm_dbec7c41"
+    },
+    {
+      "file": "src/plot/yoo.rpy",
+      "id": "yoo_car_shop_eotm_5aa2f8a2"
+    },
+    {
+      "file": "src/plot/yoo.rpy",
+      "id": "yoo_car_shop_eotm_736231a3"
+    },
+    {
+      "file": "src/plot/yoo.rpy",
+      "id": "yoo_car_shop_eotm_ef54b66a"
+    },
+    {
+      "file": "src/plot/yoo.rpy",
+      "id": "yoo_car_shop_eotm_12058629"
+    },
+    {
+      "file": "src/plot/yoo.rpy",
+      "id": "yoo_car_shop_rude_60beafe6"
+    },
+    {
+      "file": "src/plot/yoo.rpy",
+      "id": "yoo_car_shop_rude_99ecf8e6"
+    },
+    {
+      "file": "src/plot/yoo.rpy",
+      "id": "yoo_car_shop_rude_317c6eae"
+    }
+  ],
+  "retired_review_items": [
+    {
+      "file": "tl/zh_hans/src/plot/bar04.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "bar04_art2_47daa866",
+          "line": 2983,
+          "pair_sha256": "ff2b90d271d17a0a5167f453f94a9ba8bff214c54011332eb4bbc73eb46a04fc"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/bar06.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "bar06_office3_reuse_a40b1962",
+          "line": 997,
+          "pair_sha256": "ff2b90d271d17a0a5167f453f94a9ba8bff214c54011332eb4bbc73eb46a04fc"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_visit.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "deb_visit_baby_af79010c",
+          "line": 1447,
+          "pair_sha256": "426a335a7c7bd03a7f2f13deeb803aeccf41d8cfec6580f89b6a5186b2b153e6"
+        },
+        {
+          "id": "deb_visit_baby_e6eea80f",
+          "line": 1453,
+          "pair_sha256": "426a335a7c7bd03a7f2f13deeb803aeccf41d8cfec6580f89b6a5186b2b153e6"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "jen_baby_read2_aadfae2a",
+          "line": 4967,
+          "pair_sha256": "d5d059b1e6d29ed390b043d84b0826d6ae73ad5c94625a5c7ef5252b7a3d3a27"
+        },
+        {
+          "id": "jen_baby_meet_rails_466adecf",
+          "line": 5566,
+          "pair_sha256": "eecabd60f57fb7f70ec14fd50a52cd3be1c09982e2811bd3e4c810edc787fc02"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos01.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "jos01_yoo_5683c59f",
+          "line": 49,
+          "pair_sha256": "6d67678212b8b02d98b4086d6d333d05116c0ecfb242ff42438a7baef86ce7be"
+        },
+        {
+          "id": "jos01_yoo_b699e742",
+          "line": 91,
+          "pair_sha256": "e7d8f672964cc142c1aae251f967b0f55adc9b05b1e7b9a1336bd90e643bf274"
+        },
+        {
+          "id": "jos01_yoo_5496a781",
+          "line": 133,
+          "pair_sha256": "460e71d1fe47914cafb0daaa342785a06bb85ea2a0cdd07034bd617160403339"
+        },
+        {
+          "id": "jos01_yoo_61a427d5",
+          "line": 205,
+          "pair_sha256": "bd85e98aa919f0558a09653028dfc5c8f79b486aa8a35144bb0880d8a83e4ff0"
+        },
+        {
+          "id": "jos01_yoo_3f5fb511",
+          "line": 229,
+          "pair_sha256": "c80b57f90cac326f3f29125d51461d141fd4b8159783087386ccab36ba9e5b5d"
+        },
+        {
+          "id": "jos01_yoo_2f2392c7",
+          "line": 235,
+          "pair_sha256": "f6b2cde9b3c5e46e1007f4a2d5cda02b5af9015a2930affe1510d3825c65a9a9"
+        },
+        {
+          "id": "jos01_yoo_6d0921a3",
+          "line": 247,
+          "pair_sha256": "745470b5ed5477ae6594b5b57dea4bd44d847e7838ff53cd3cec4000dbc1a103"
+        },
+        {
+          "id": "jos01_yoo_8d58b07b",
+          "line": 361,
+          "pair_sha256": "824dd1f142f85f8cd6e5b4bdd6e1a41df964028e88841d9a349e87875cb52379"
+        },
+        {
+          "id": "jos01_yoo_fd840de1",
+          "line": 373,
+          "pair_sha256": "b772a8cf4b2e8af009bc86d3736a6fd6337273f69161215fd8de61532550a894"
+        },
+        {
+          "id": "jos01_yoo_b504dd92",
+          "line": 457,
+          "pair_sha256": "071df6c293c7082c7a5a64f4a59be58420f4f47ae50c5632cdd06e5fece8a819"
+        },
+        {
+          "id": "jos01_yoo_de2e2706",
+          "line": 469,
+          "pair_sha256": "71e454eb4a343714c742e78de3d388c9ce56e8e9f77b0b93a1938f66f9c5c689"
+        },
+        {
+          "id": "jos01_josie1_4414a859",
+          "line": 787,
+          "pair_sha256": "488c467ac4f95ebd750d4978616f71044da44a2bc20b0737435709e2c614a124"
+        },
+        {
+          "id": "jos01_josie1_25516b44",
+          "line": 811,
+          "pair_sha256": "a5aaea071ffad079ee07daf54e833b02a674699fed7c43c139819e0134a7ede8"
+        },
+        {
+          "id": "jos01_josie1_2f29bae7",
+          "line": 889,
+          "pair_sha256": "749c0dfaea35e5ac852080fd2474f6b56212d5d74e461131d2db541b49c20216"
+        },
+        {
+          "id": "jos01_josie1_3df1722d",
+          "line": 895,
+          "pair_sha256": "fa1ca55c3253aa0af65bd152966ef2fb4b000d57e61cbc31f02c5896c14d2ec5"
+        },
+        {
+          "id": "jos01_josie1_f513fadc",
+          "line": 901,
+          "pair_sha256": "3989d4876693a8dc5be4dc3be28a7647c137c541c549b04739c6a882258e2dd6"
+        },
+        {
+          "id": "jos01_josie1_1536fc05",
+          "line": 919,
+          "pair_sha256": "efbada8ee3793a4649d5c9eafe1dd0ce132de327874ed40df9b9d88854d5eef1"
+        },
+        {
+          "id": "jos01_josie1_fb4b8577",
+          "line": 937,
+          "pair_sha256": "bcbc77d22f268ff20d882b51bb53ef1bcc85884233fa40ab2979de6ef3779fec"
+        },
+        {
+          "id": "jos01_josie1_cf8655f0",
+          "line": 961,
+          "pair_sha256": "791bb6fbee2e29de173af6bae3e64e4189473df15eafce6d1c503923f548fbd1"
+        },
+        {
+          "id": "jos01_josie1_feb15995",
+          "line": 991,
+          "pair_sha256": "fd135a081be6d527711ed6bb4f9a2d6476773119a62415fbf2344b6df8d10c92"
+        },
+        {
+          "id": "jos01_josie1_03e57a9b",
+          "line": 997,
+          "pair_sha256": "55c42b4fbcc208050b874d9068f0cb3bf0ef12f6f38eeffd7cdc078342367bba"
+        },
+        {
+          "id": "jos01_josie1_d01d0d6e",
+          "line": 1015,
+          "pair_sha256": "000cc153bc1ba17d26287330c2d655821ee30a9fab9ed4d4f88d33490cfe76ae"
+        },
+        {
+          "id": "jos01_josie1_057cf5f9",
+          "line": 1189,
+          "pair_sha256": "852b0f0f4cef4e41d6363733eb829c525045670a029e631ec70a4008aa804b8c"
+        },
+        {
+          "id": "jos01_josie1_86907352",
+          "line": 1249,
+          "pair_sha256": "fae352aecd8980f956436db038504087b1e144a2fbb55111035768667a4c3eb2"
+        },
+        {
+          "id": "jos01_josie1_68569328",
+          "line": 1279,
+          "pair_sha256": "efe933f70f6f866ce83f2c8ecfc0d932612557ad9eedd6723014daad9709f523"
+        },
+        {
+          "id": "jos01_josie1_069cc930",
+          "line": 1291,
+          "pair_sha256": "b0279ff583a49aece9269608a92bf2efef62ca57dd8c5725b29d7fd052865f3a"
+        },
+        {
+          "id": "jos01_josie1_2588bd70",
+          "line": 1315,
+          "pair_sha256": "caf7b1824d07b3abc71d9c1890fc0d84cf622f5452e27949789ce9825f242368"
+        },
+        {
+          "id": "jos01_josie1_9d3e2cc7",
+          "line": 1375,
+          "pair_sha256": "17c08a9eab9d3507a9f21b9070d099baafe9d7b973340d99adedfe5f82ea976e"
+        },
+        {
+          "id": "jos01_josie1_a539bce5",
+          "line": 1381,
+          "pair_sha256": "5ecdabc67e6a8e12d1c1f0b0edea2984a31e7a324fb5490e29d9aae513d405e8"
+        },
+        {
+          "id": "jos01_josie1_3f748204",
+          "line": 1405,
+          "pair_sha256": "4038a73628e4bd951b81e09bf7c4eee563cfef62ad677e44067c62745af3dbe8"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "jos_trade_e67cb137",
+          "line": 7,
+          "pair_sha256": "62de0c3f8017451229620beb9648324d30336c2c4bf5a80296d07ef3b62d8393"
+        },
+        {
+          "id": "jos_trade_87a68a30",
+          "line": 37,
+          "pair_sha256": "fd587165528747464c92da5400e3437dda6351746eb9bc26ce31f17e50ed9bfc"
+        },
+        {
+          "id": "jos_trade_fac3cd7d",
+          "line": 55,
+          "pair_sha256": "7a805651f990442ed0904ef450f059b3c7afbce28b8cd384c4174683b903abac"
+        },
+        {
+          "id": "jos_trade_bail_b310aea8",
+          "line": 97,
+          "pair_sha256": "c3f6830c18ccf930de45a4cb8166ebfebb1ce9fd6021a5afe0fbfa9c8cfc6bd5"
+        },
+        {
+          "id": "jos_trade_bail_4c8ef195",
+          "line": 103,
+          "pair_sha256": "cfe385661dacf2e7cbbd7824d328cef7140f12812926a3385fbe1e463857029a"
+        },
+        {
+          "id": "jos_trade_bail_824c3a6f",
+          "line": 109,
+          "pair_sha256": "a58c175b50f8fa183bb59db00b95782a324cb8bc558c3b7336eef20a7a3f9809"
+        },
+        {
+          "id": "jos_trade_bail_43861fe3",
+          "line": 115,
+          "pair_sha256": "ee69097e556fd490a3ea1e8852026cb7d48b3e0e04b43359f41e3a7678f9ca7c"
+        },
+        {
+          "id": "jos_trade_compact1a_ea6fa398",
+          "line": 217,
+          "pair_sha256": "9bcfea854a48db2cc3bd86663d15745c72a71bf6c5c1824ded3817e2664b8251"
+        },
+        {
+          "id": "jos_trade_compact1a_65599f22",
+          "line": 283,
+          "pair_sha256": "212fda74ec858ee7b49a05f29e316aced55cb04b8ca883edb0b2864debd3f68f"
+        },
+        {
+          "id": "jos_trade_compact2_8fbc831d",
+          "line": 301,
+          "pair_sha256": "2068ae57e2298e6b4c7fb2d2f27aa966faa16aa0bca19e1a2066bd23c3cde104"
+        },
+        {
+          "id": "jos_trade_coupe1a_9d335d50",
+          "line": 529,
+          "pair_sha256": "96fa3c7f05d98221d4d9199d5fa0aaf63b5ad6746852ffaa639606202d9c0e54"
+        },
+        {
+          "id": "jos_trade_coupe2_ebf24d2f",
+          "line": 547,
+          "pair_sha256": "1db244660e9ac56dad0c703929f496b79f8ec02f914167942ea066aeaf8a0ea3"
+        },
+        {
+          "id": "jos_trade_coupe2_b646e606",
+          "line": 553,
+          "pair_sha256": "44dc91017946605147014b0dad7f88e9d64d9d6748d55023ac8f0b11113edd4f"
+        },
+        {
+          "id": "jos_trade_scooter1a_0f56bf60",
+          "line": 745,
+          "pair_sha256": "9f1d039e8b5dba21f5dd2c131bc1bf7fc66c4578b204980707c496d853ddd7e2"
+        },
+        {
+          "id": "jos_trade_scooter2_8654023d",
+          "line": 763,
+          "pair_sha256": "73620827064d9539d615b7c046bb2e1b3f5c97f5d69e54663a700b92a43801a5"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/josie.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "josie_car_shop_intro1_de6fc852",
+          "line": 37,
+          "pair_sha256": "b7be659ea9ace4a85373f6ef95e88f8dad2af836bf9e3862d26bee0916e4a299"
+        },
+        {
+          "id": "josie_car_shop_intro1_fda90a1e",
+          "line": 43,
+          "pair_sha256": "0dc71ef6a9351b6c9a86d100918368ab7787f0a376de5e1412baecbfadc2ca09"
+        },
+        {
+          "id": "josie_car_shop_intro1_ed6cd727",
+          "line": 49,
+          "pair_sha256": "0c19f0dd441e9b885651857a8a93770f607c4db24935749df3c3670c5ed9be0e"
+        },
+        {
+          "id": "josie_car_shop_intro2_32a9c383",
+          "line": 61,
+          "pair_sha256": "9985b526584b0205d2400e6d1ac4dacd29fc064eb8701e527cb3ed0c0c541219"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_baby.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "mar_baby_wait_0fb1d67b",
+          "line": 22,
+          "pair_sha256": "fd32412ec15b2740e87d06bc7ff53a8c4c17b02acf6a964882557ef1a5491f68"
+        },
+        {
+          "id": "mar_baby_meet_rails_32cab796",
+          "line": 1559,
+          "pair_sha256": "0ca183303400833c3801b1485ad9e994d93b1162183b185344ca4a5fd1e82684"
+        },
+        {
+          "id": "mar_baby_meet_rails_748b5fdb",
+          "line": 1573,
+          "pair_sha256": "67b04f47c0661ea85ee264c619b5602a14b69159f70262b79325481a06a9a61e"
+        },
+        {
+          "id": "mar_baby_meet_rails_0bcb38a3",
+          "line": 1580,
+          "pair_sha256": "7a3d81f11da5cb828638fa06b297c58efe0986434af23f3edab6921d80cbb099"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mar_dark.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "mar_dark_maria_trio1_b20a2b16",
+          "line": 1939,
+          "pair_sha256": "426a335a7c7bd03a7f2f13deeb803aeccf41d8cfec6580f89b6a5186b2b153e6"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel02.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "mel02_eve_ask_c0025d88",
+          "line": 1401,
+          "pair_sha256": "622ae0481c3340b1f78ce317b791a8f834204a93af2f7ad568995b5b7b9cf642"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/mel_office.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "mel_office_merge_97ba4118",
+          "line": 184,
+          "pair_sha256": "ff2b90d271d17a0a5167f453f94a9ba8bff214c54011332eb4bbc73eb46a04fc"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tin_baby.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "tin_baby_wait_27699c61",
+          "line": 19,
+          "pair_sha256": "623310a4e810b9e510b0f67f5b1b3eab2fcebbe55f59e13441ab00d5a28174e9"
+        },
+        {
+          "id": "tin_baby_wait_once_9ca0e53b",
+          "line": 181,
+          "pair_sha256": "cf6e369854d59210dc9a413f729ef9854730c93e44e55ac6828fba2034ef3133"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor04.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "tor04_tori_faebb70a",
+          "line": 535,
+          "pair_sha256": "ff2b90d271d17a0a5167f453f94a9ba8bff214c54011332eb4bbc73eb46a04fc"
+        },
+        {
+          "id": "tor04_tori_faebb70a_1",
+          "line": 565,
+          "pair_sha256": "ff2b90d271d17a0a5167f453f94a9ba8bff214c54011332eb4bbc73eb46a04fc"
+        },
+        {
+          "id": "tor04_tori_faebb70a_2",
+          "line": 577,
+          "pair_sha256": "ff2b90d271d17a0a5167f453f94a9ba8bff214c54011332eb4bbc73eb46a04fc"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor05.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "tor05_office2_97ba4118",
+          "line": 1567,
+          "pair_sha256": "ff2b90d271d17a0a5167f453f94a9ba8bff214c54011332eb4bbc73eb46a04fc"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/tor06.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "tor06_tori_95b3fe26",
+          "line": 157,
+          "pair_sha256": "5516653c43a090b4100c5f2ffcdef3e2bc518bd2f549aeb06cd33ff3c9414a16"
+        },
+        {
+          "id": "tor06_office2_reuse_97ba4118",
+          "line": 961,
+          "pair_sha256": "ff2b90d271d17a0a5167f453f94a9ba8bff214c54011332eb4bbc73eb46a04fc"
+        }
+      ]
+    },
+    {
+      "file": "tl/zh_hans/src/plot/yoo.rpy",
+      "prior_game_version": "21.0.0-wip.7944",
+      "items": [
+        {
+          "id": "yoo_car_shop_eotm_dbec7c41",
+          "line": 13,
+          "pair_sha256": "4d664f68f78a799f7364db400555a5238b95cbdef34a0705e8331da6974fed40"
+        },
+        {
+          "id": "yoo_car_shop_eotm_5aa2f8a2",
+          "line": 49,
+          "pair_sha256": "ae162e5912fe21ecf60a0b205d217461c285f1a837e6bad51803a9bfc98de0cd"
+        },
+        {
+          "id": "yoo_car_shop_eotm_736231a3",
+          "line": 67,
+          "pair_sha256": "27b3080734246511321ae7106f7172adf6965ad84ab2decd34a1674efcc065a8"
+        },
+        {
+          "id": "yoo_car_shop_eotm_ef54b66a",
+          "line": 73,
+          "pair_sha256": "02a00c3b74ef6e037bf48080d11c61f5053edfdd7624e6c443e1ae579e1af052"
+        },
+        {
+          "id": "yoo_car_shop_eotm_12058629",
+          "line": 103,
+          "pair_sha256": "33637984b1ee7838d78b80dfe27371c86dd5af56f09450b60cc809071e21d6b9"
+        },
+        {
+          "id": "yoo_car_shop_rude_60beafe6",
+          "line": 181,
+          "pair_sha256": "7b66c0106efccd36307df2dc4e2e1a79f9a734c660ba580e12d8727237195235"
+        },
+        {
+          "id": "yoo_car_shop_rude_99ecf8e6",
+          "line": 217,
+          "pair_sha256": "bbb400052e04c58ef3fe961b39577bb22bc07b54bef218380708164fb6affdc1"
+        },
+        {
+          "id": "yoo_car_shop_rude_317c6eae",
+          "line": 265,
+          "pair_sha256": "75ab8cde5bf2a1191000b00f9a22224d61fea84a3a3270a3a3b661fbd66fe181"
+        }
+      ]
+    }
+  ],
+  "migrated_sentence_rules": [
+    {
+      "file": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "source": "So the SL-700 Crotch Rocket?",
+      "target": "所以选SL-700胯下火箭？",
+      "id": "jos_trade_scooter2_8654023d"
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "source": "I'd better head to the clinic and check on them.",
+      "target": "我得赶紧去诊所看看她和孩子。",
+      "id": "jen_baby_read2_aadfae2a"
+    }
+  ],
+  "validation_scope": "8194官方脚本清单、隔离compile/lint、字符串映射与语言切换；未完成逐场景游玩和全部视觉排版验收。",
+  "untranslated_silent_extends": [
+    "deb25_bed3_e1f385a7",
+    "mel_office_dance_e1f385a7",
+    "mel_office_dance_e1f385a7_1",
+    "mel_office_dance_e1f385a7_2",
+    "mel_office_dance_e1f385a7_3"
+  ],
+  "validation": {
+    "active_translated_dialogue_ids": 37256,
+    "missing_nonempty_dialogue_ids": 0,
+    "orphan_dialogue_ids": 0,
+    "sms_language_switch_assertions": 12,
+    "sms_render_languages": [
+      "English",
+      "zh_hans"
+    ],
+    "native_ui_strings_missing": 0
+  }
+}

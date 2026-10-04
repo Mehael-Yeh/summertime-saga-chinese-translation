@@ -4960,11 +4960,10 @@ translate zh_hans jen_baby_read2_59d1ba61:
     anon "我靠！"
 
 # game/src/plot/jen_baby.rpy:1811
-translate zh_hans jen_baby_read2_aadfae2a:
+translate zh_hans jen_baby_read2_bfc1f536:
 
-
-    # anon "I'd better head to the clinic and check on them."
-    anon "我得赶紧去诊所看看她和孩子。"
+    # anon "I'd better head to the hospital and check on them."
+    anon "我得赶紧去医院看看她和孩子。"
 
 # game/src/plot/jen_baby.rpy:1818
 translate zh_hans jen_baby_read2_rails_898a3093:
@@ -5538,32 +5537,31 @@ translate zh_hans jen_baby_meet_4e258fef:
     anon a_wave "那晚点家里见，[saga.cast.debbie]。"
 
 # game/src/plot/jen_baby.rpy:2028
-translate zh_hans jen_baby_meet_rails_76a72a26:
-
-
-    # anon @ -m_talk "( The recovery ward is on the third floor! Let's go! )"
-    anon @ -m_talk "（恢复病房在三楼！走吧！）"
-
-# game/src/plot/jen_baby.rpy:2031
 translate zh_hans jen_baby_meet_rails_92aef1be:
 
 
     # anon @ -m_talk "( The ward chart says that [saga.cast.jenny] is in [saga.cast.jenny.where!l]. )"
     anon @ -m_talk "（病房表上写着[saga.cast.jenny]在[saga.cast.jenny.where!l]。）"
 
-# game/src/plot/jen_baby.rpy:2034
+# game/src/plot/jen_baby.rpy:2031
 translate zh_hans jen_baby_meet_rails_be7dd797:
 
 
     # anon @ -m_talk "( Huh, well what are the odds, she must be in one of the rooms next door. )"
     anon @ -m_talk "（还真巧，她肯定就在隔壁某间病房。）"
 
+# game/src/plot/jen_baby.rpy:2034
+translate zh_hans jen_baby_meet_rails_76a72a26:
+
+
+    # anon @ -m_talk "( The recovery ward is on the third floor! Let's go! )"
+    anon @ -m_talk "（恢复病房在三楼！走吧！）"
+
 # game/src/plot/jen_baby.rpy:2037
-translate zh_hans jen_baby_meet_rails_466adecf:
+translate zh_hans jen_baby_meet_rails_1daf1466:
 
-
-    # anon @ -m_talk "( The girls are at the clinic with the new baby... )"
-    anon @ -m_talk "（她们都在诊所陪着新生儿……）"
+    # anon @ -m_talk "( The girls are at the hospital with the new baby... )"
+    anon @ -m_talk "（姑娘们带着刚出生的宝宝在医院……）"
 
 # game/src/plot/jen_baby.rpy:2038
 translate zh_hans jen_baby_meet_rails_7b20e178:
@@ -6285,3 +6283,4 @@ translate zh_hans strings:
     # game/src/plot/jen_baby.rpy:666
     old "[saga.cast.debbie] is driving you crazy?"
     new "[saga.cast.debbie]快把你逼疯了？"
+# TODO: Translation updated at 2026-10-04 18:32

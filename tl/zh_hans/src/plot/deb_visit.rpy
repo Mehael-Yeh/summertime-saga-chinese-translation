@@ -1441,15 +1441,15 @@ translate zh_hans deb_visit_baby_0cf4d269:
     anon "哼嗯！！！" with flash
 
 # game/src/plot/deb_visit.rpy:553
-translate zh_hans deb_visit_baby_af79010c:
+translate zh_hans deb_visit_baby_d165fd93:
 
-    # anon "Haah... Haah..."
+    # anon "Haah... haah..."
     anon "哈啊……哈啊……"
 
 # game/src/plot/deb_visit.rpy:554
-translate zh_hans deb_visit_baby_e6eea80f:
+translate zh_hans deb_visit_baby_2225b9de:
 
-    # debbie @ p_debbie_bed3_edge_cum_02 "Haah... Haah..."
+    # debbie @ p_debbie_bed3_edge_cum_02 "Haah... haah..."
     debbie @ p_debbie_bed3_edge_cum_02 "哈啊……哈啊……"
 
 # game/src/plot/deb_visit.rpy:557
@@ -1774,3 +1774,4 @@ translate zh_hans strings:
     # game/src/plot/deb_visit.rpy:142
     old "Okay, sure!"
     new "好的，没问题！"
+# TODO: Translation updated at 2026-10-04 18:32

@@ -2977,9 +2977,9 @@ translate zh_hans bar04_art2_9b381aa2:
     judith "啊啊啊！" with hpunch
 
 # game/src/plot/bar04.rpy:1479
-translate zh_hans bar04_art2_47daa866:
+translate zh_hans bar04_art2_0685f5e2:
 
-    # judith "Haaah... Haaah..."
+    # judith "Haaah... haaah..."
     judith "哈啊……哈啊……"
 
 # game/src/plot/bar04.rpy:1482
@@ -3582,3 +3582,4 @@ translate zh_hans bar04_art2_rails_9aed0692:
     # anon @ -m_talk "( Best hurry into the art room. )"
     anon @ -m_talk "（得赶紧进美术室。）"
 
+# TODO: Translation updated at 2026-10-04 18:32

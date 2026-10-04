@@ -876,3 +876,7 @@
 - **移除翻译侧运行时输入/文本补丁（第一百零二批）**：按用户决定删除三个已无必要的文件——`tl/zh_hans/input_code_aliases.rpy`（`BAD MONSTER`→`BADMONSTER` 设备别名）、`tl/zh_hans/hint_translations.rpy`（两台电脑提示与电脑桌面 `app.name` 的运行时覆盖）、`tools/check_input_code_aliases.py`（两者隔离测试）。密码与可输入代码自此完全按本体原键校验：Jenny电脑 `badmonster`／`BADMONSTER`，Anon电脑 `cookies`／`COOKIES`，电视订阅码 `L6bv12R` 与密码 `12345` 原样；不再提供中文别名或空格兼容。
   `translation_context/input_codes.md` 重写为“英文原键校验＋old/new 登记显示文本”，`style_guide.md` 的游戏内输入代码一节同步去掉别名要求；`manual_review.json` 删除两个支持文件台账条目（现 331 文件、37958 对、0 陈旧），`extracted_language_review.json` 新增 `runtime_input_support_removed` 结项记录。电脑应用名仍以 `extracted/anon_pc_jenny_laptop.rpy` 的 `old`/`new`（`Homework→家庭作业`、`Photos→照片`、`Recycle Bin→回收站` 等）为准。
   待确认：`src/mini/pc.rpy` 的 `pc_explorer` 直接用 `text app.name` 渲染桌面图标，不经 `__()`；数据模块的 `_()` 在 init 阶段求值，若游戏内桌面图标回到英文，需要把 `set_default_language_at_startup.rpy` 的语言设置提前到数据模块导入之前，而不是恢复覆盖脚本。日记括注 `坏怪物（Bad Monster）` 只指认英文名，实际输入必须是 `badmonster`／`BADMONSTER`（带空格的 `BAD MONSTER` 不再被接受）。
+
+- **8194版本迁移（2026-10-04）**：对照用户提供的21.0.0-wip.8194本体，补齐2493个新增对白节点，涵盖Josie新剧情、怀孕分支、商城与其他新增角色内容；同步任务、地点、人物资料、界面和26条新短信及8条回忆目录提示，移除78个失效对白节点。全部37256个有效中文对白ID与官方归档引擎对应，无孤立ID或非空原文遗漏；5个本体空白`extend ""`保持无译文，不计作新增对白。详见`version_migration_8194.json`。
+  短信会话沿用8194原生双向气泡、图片点击与滚动结构，在格式标签和角色变量插值之前翻译完整消息；旧文本回调仅在中文语言下启用，修复切回英文后继续显示中文的问题。官方归档引擎已验证英文→中文→英文切换并检查中英短信截图；隔离映射测试覆盖63条短信与340条映射。
+  台账迁移只保留ID和英中内容摘要均不变的历史审读项；新增翻译不计作7944历史审读覆盖。验证范围为隔离Ren’Py compile/lint、官方节点清单、UI字符串差集、结构/占位符、术语/句式/间距及台账完整性。未逐场游玩验收，未改README、未构建RPA或发布Release。

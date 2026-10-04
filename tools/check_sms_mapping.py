@@ -20,7 +20,7 @@ renpy = ModuleType('renpy')
 sub = ModuleType('renpy.substitutions')
 sub.substitute = substitute
 renpy.substitutions = sub
-renpy.store = SimpleNamespace()
+renpy.store = SimpleNamespace(_preferences=SimpleNamespace(language='zh_hans'))
 renpy.loader = SimpleNamespace(load=load)
 renpy.list_files = lambda: list(files) + ['tl/zh_hans/unrelated.rpy', 'art/test.png']
 sys.modules['renpy'] = renpy
@@ -45,6 +45,8 @@ assert renpy.store._rb_sms_map == expected
 messages = list(iter_pairs(files['tl/zh_hans/extracted/mesg.rpy'].decode('utf-8-sig').splitlines()))
 for pair in messages:
     source, target = map(env['_rb_unescape'], (pair.source, pair.target))
+    if '{' in source:
+        continue  # Tagged messages are translated before interpolation by tel_conv.
     assert env['_rb_sms_replace'](substitute(source)[0]) == substitute(target)[0]
 renpy.store._rb_sms_prev_replace = lambda value: 'fallback:' + value
 assert env['_rb_sms_replace']('unmatched') == 'fallback:unmatched'
@@ -52,4 +54,22 @@ files['tl/zh_hans/extracted/future.rpy'] = b'translate zh_hans strings:\n    old
 env['_rb_rebuild_sms_map']()
 assert env['_rb_sms_replace']('Future notice') == 'Future translated'
 assert len(renpy.store._rb_sms_map) == len(expected) + 1
+renpy.store._preferences.language = None
+assert env['_rb_sms_replace']('Future notice') == 'fallback:Future notice'
+renpy.store._preferences.language = 'zh_hans'
 print(f'OK: {len(messages)} SMS translations; {len(expected)} mappings; archive-like reads, future category, fallback verified.')
+
+# The 8194 conversation screen translates complete messages before Text parses
+# formatting tags, and leaves media/action/scrolling to the upstream screen.
+chat = (root / 'tl/zh_hans/sms_chat8194.rpy').read_text(encoding='utf8')
+block = chat.split('init -1 python:\n', 1)[1].split('\ninit 1:', 1)[0]
+exec(compile(textwrap.dedent(block), 'sms_chat8194.rpy:init', 'exec'), env)
+native_strings = {env['_rb_unescape'](x.source): env['_rb_unescape'](x.target) for x in messages}
+for language in (None, 'zh_hans', None):
+    renpy.translate_string = lambda s: native_strings.get(s, s) if language == 'zh_hans' else s
+    for source, target in native_strings.items():
+        actual = env['_ssct_message_text'](source)
+        assert actual == (target if language == 'zh_hans' else source)
+        assert substitute(actual)[0] == substitute(target if language == 'zh_hans' else source)[0]
+assert "label _ssct_message_text(mesg.what)" in chat
+print('OK: complete SMS strings, tags, character interpolation, and English/Chinese/English switching.')

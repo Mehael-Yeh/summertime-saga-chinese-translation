@@ -23,7 +23,10 @@ init -1 python:
         if not isinstance(s, str):
             return s
         _rb_map = renpy.store.__dict__.get('_rb_sms_map') or {}
-        if s in _rb_map:
+        # replace_text remains installed after a language switch. Never translate
+        # English text with the Chinese map when Chinese is no longer active.
+        _rb_preferences = getattr(renpy.store, '_preferences', None)
+        if getattr(_rb_preferences, 'language', None) == 'zh_hans' and s in _rb_map:
             return _rb_map[s]
         _rb_prev = renpy.store.__dict__.get('_rb_sms_prev_replace')
         if _rb_prev is not None:
