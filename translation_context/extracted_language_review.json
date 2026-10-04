@@ -12761,6 +12761,346 @@
       "target": "奇特的是，上面明确标注这护目镜对硫酸飞溅毫无作用。",
       "note": "用户手改：实验失手语境是喷溅而非潮汐。",
       "revision": "bilingual-review-2026-09-13"
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Check it out!",
+      "before": null,
+      "target": "看看这个！",
+      "line": 191,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Lul 😏",
+      "before": null,
+      "target": "笑死😏",
+      "line": 195,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Who is this?",
+      "before": null,
+      "target": "你是谁？",
+      "line": 199,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "who?",
+      "before": null,
+      "target": "谁？",
+      "line": 203,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "From the car dealership.",
+      "before": null,
+      "target": "车行的。",
+      "line": 207,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "ffs, we made out remember?!",
+      "before": null,
+      "target": "靠，我们还亲热过，记得吗？！",
+      "line": 211,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Ohh, right!",
+      "before": null,
+      "target": "哦，对！",
+      "line": 215,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "They finally arrived! ✨👠💖",
+      "before": null,
+      "target": "终于到了！✨👠💖",
+      "line": 219,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "wdyt?",
+      "before": null,
+      "target": "你觉得怎么样？",
+      "line": 223,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Those aren't T-straps... 🫤❓",
+      "before": null,
+      "target": "这不是T字带凉鞋啊……🫤❓",
+      "line": 227,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "yik",
+      "before": null,
+      "target": "我知道啦",
+      "line": 231,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "These are better though. 😤",
+      "before": null,
+      "target": "不过这双更好。😤",
+      "line": 235,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "If you say so...",
+      "before": null,
+      "target": "你说好就好吧……",
+      "line": 239,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Dang, your toe {i}is{/i} weirdly long! 😧",
+      "before": null,
+      "target": "天啊，你的脚趾{i}确实{/i}长得有点怪！😧",
+      "line": 243,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "fu",
+      "before": null,
+      "target": "去你的",
+      "line": 247,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "dick. 🖕",
+      "before": null,
+      "target": "混蛋。🖕",
+      "line": 251,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "lol jk",
+      "before": null,
+      "target": "哈哈，开玩笑的",
+      "line": 255,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "They look good!",
+      "before": null,
+      "target": "挺好看的！",
+      "line": 259,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "I'mma make you pay for that, bowl cut.",
+      "before": null,
+      "target": "锅盖头，这笔账我记下了。",
+      "line": 263,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "I'm here.",
+      "before": null,
+      "target": "我到了。",
+      "line": 267,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Where are you?",
+      "before": null,
+      "target": "你在哪儿？",
+      "line": 271,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Been doing some research for you.",
+      "before": null,
+      "target": "我替你做了点研究。",
+      "line": 275,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "A {i}better{/i} you!",
+      "before": null,
+      "target": "一个{i}更好的{/i}你！",
+      "line": 279,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Go with 4 imo 😉",
+      "before": null,
+      "target": "我觉得选4吧😉",
+      "line": 283,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "Hey! I like my hair!",
+      "before": null,
+      "target": "嘿！我喜欢我的发型！",
+      "line": 287,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/mesg.rpy",
+      "source": "so tragic.",
+      "before": null,
+      "target": "真可悲。",
+      "line": 291,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Have sex with [saga.cast.josie] in the afternoon.",
+      "before": null,
+      "target": "下午和[saga.cast.josie]做爱。",
+      "line": 908,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Have sex with [saga.cast.josie] in the break room again.",
+      "before": null,
+      "target": "再次在休息室和[saga.cast.josie]做爱。",
+      "line": 912,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Have sex with [saga.cast.josie] in the break room.",
+      "before": null,
+      "target": "在休息室和[saga.cast.josie]做爱。",
+      "line": 916,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Have sex with [saga.cast.josie] in the evening again.",
+      "before": null,
+      "target": "再次在晚上和[saga.cast.josie]做爱。",
+      "line": 920,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Have sex with [saga.cast.josie] in the evening.",
+      "before": null,
+      "target": "晚上和[saga.cast.josie]做爱。",
+      "line": 924,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Have sex with [saga.cast.josie] in the morning again.",
+      "before": null,
+      "target": "再次在早上和[saga.cast.josie]做爱。",
+      "line": 928,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Have sex with [saga.cast.josie] in the morning.",
+      "before": null,
+      "target": "早上和[saga.cast.josie]做爱。",
+      "line": 932,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/lewd.rpy",
+      "source": "Progress through [saga.cast.josie]'s story.",
+      "before": null,
+      "target": "推进[saga.cast.josie]的剧情。",
+      "line": 936,
+      "date": "2026-10-04",
+      "reason": "8194新增原文补译",
+      "is_latest": true
     }
   ],
   "reading_batches": [
@@ -15649,6 +15989,14 @@
       "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     }
   ],
-  "updated": "2026-09-13",
-  "changes_note": "同一文件同一行出现多条记录表示该行经过多次修订，revision为先后顺序，is_latest标记当前生效版本。"
+  "updated": "2026-10-04",
+  "changes_note": "同一文件同一行出现多条记录表示该行经过多次修订，revision为先后顺序，is_latest标记当前生效版本。",
+  "version_migration_8194": {
+    "game_version": "21.0.0-wip.8194",
+    "added_sms_pairs": 26,
+    "added_cookie_jar_pairs": 8,
+    "changes_added": 34,
+    "validation": "完整短信在插值前翻译；官方引擎验证英文/中文/英文、标签与照片；隔离测试63条短信/340条映射。",
+    "limitations": "专项显示验证，不代表全部剧情或全部UI游玩验收。"
+  }
 }

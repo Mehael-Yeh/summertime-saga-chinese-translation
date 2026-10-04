@@ -1,6 +1,6 @@
 # 剧情线与建议处理顺序
 
-更新时间：2026-09-13
+更新时间：2026-10-04
 
 用途与维护方式见[index.md](index.md)。
 
@@ -22,6 +22,8 @@
 | Debbie | `deb01.rpy` → `deb27.rpy` | Debbie 关系主线 |
 | Diane | `dia01.rpy` → `dia02.rpy` | Diane 连续剧情 |
 | Jenny | `jen01.rpy` → `jen28.rpy` | Jenny 关系主线 |
+| Josie | `jos01.rpy` → `jos05.rpy` | 车行初识后新增邀约、短信/电话与后续关系推进；各入口按源码条件定位 |
+| Nyu | `nyu01.rpy`、`nyu.rpy` | 新角色剧情与公共入口；`nyu.rpy`目前仍为本体TODO标识 |
 | Judith | `jud01.rpy` → `jud02.rpy` | Judith 连续剧情 |
 | Maria | `mar01.rpy` → `mar02.rpy` | Maria 连续剧情 |
 | Melody | `mel01.rpy` → `mel06.rpy` | Melody 连续剧情 |
@@ -39,6 +41,11 @@
 - **Tori**：`tor_*.rpy`、`tori.rpy`；主要与办公室及连续事件有关。
 - **Vivian**：`viv_*.rpy`、`viv*.rpy`；主要与办公室及连续事件有关。
 
+
+- **Josie**：`jos02`—`jos05`及`jos_baby`、`jos_lounge`、`jos_office`、`jos_shop`、`jos_table`已补译；短信/电话与线下分支联合定位，怀孕与重复亲密场景不直接拼接为数字主线。车行公共入口、购车与Yoo关联文本同步8194。
+- **新增独立交互**：`jiang.rpy`、`costume_vest.rpy`已补译；按人物/道具入口维护，不根据文件相邻关系推定剧情连续。
+
+8194补译与静态节点核对已完成；此处记录线路定位，不代表全部事件条件和场景游玩已验收。
 
 ## 建议处理顺序
 

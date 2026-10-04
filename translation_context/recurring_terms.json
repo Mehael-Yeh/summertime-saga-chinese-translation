@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13",
+  "updated": "2026-10-04",
   "terms": [
     {
       "id": "tony_champ",
@@ -1831,6 +1831,28 @@
       "translation": "速战速决来一次",
       "first_seen": "tl/zh_hans/src/plot/mar_couch.rpy",
       "note": "口语意为“速战速决的一次”，成人语境默认指快速性爱，不译“快餐”（那是 fast food）；mar_couch 沙发场景作“速战速决来一次也不错”，不再弱化为笼统的“来个快的”。"
+    },
+    {
+      "id": "place_idol_hands",
+      "source_regex": "Idol Hands",
+      "target_regexes": [
+        "偶像咖啡"
+      ],
+      "category": "place",
+      "translation": "偶像咖啡",
+      "first_seen": "tl/zh_hans/res/meta/sets.rpy",
+      "note": "8194地点UI新增定译；后续同名引用保持一致。"
+    },
+    {
+      "id": "place_security_room",
+      "source_regex": "Security Room",
+      "target_regexes": [
+        "保安室"
+      ],
+      "category": "place",
+      "translation": "保安室",
+      "first_seen": "tl/zh_hans/res/meta/sets.rpy",
+      "note": "8194地点UI新增定译；后续同名引用保持一致。"
     }
   ]
 }

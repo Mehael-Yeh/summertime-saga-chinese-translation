@@ -1,6 +1,6 @@
 # 术语与称谓规范
 
-更新时间：2026-09-13
+更新时间：2026-10-04
 
 用途与维护方式见[index.md](index.md)。
 
@@ -60,6 +60,8 @@ Debbie 对 Anon 的句尾 mister 是熟人间的嗔怪、提醒或警告，不�
 | Pink | 粉色诱惑 |
 | CineSaga / CineSaga Theater | 传说影院 |
 | Beachside Apartments | 海滨公寓 |
+| Idol Hands | 偶像咖啡 |
+| Security Room | 保安室 |
 
 ## 地名设定复核补充
 不能把“与现有 UI 一致”误当作译名质量合格；对漏译、生硬音译和误认场所功能的旧译，应先修正命名，再同步全仓引用。以下为项目本地化选择，不是官方中文命名。

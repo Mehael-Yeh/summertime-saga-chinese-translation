@@ -1,6 +1,6 @@
 # 重复称呼、口癖与专名复查记录
 
-更新时间：2026-09-13
+更新时间：2026-10-04
 
 用途与维护方式见[index.md](index.md)。
 
@@ -25,6 +25,8 @@
 
 | 条目 | 类型 | 固定处理 | 仓库出现范围 | 当前结论 |
 |---|---|---|---|---|
+| `Idol Hands` | 店名 | 偶像咖啡 | `res/meta/sets.rpy` | 8194地点UI新增定译，后续引用沿用 |
+| `Security Room` | 场所 | 保安室 | `res/meta/sets.rpy` | 8194地点UI新增定译，后续引用沿用 |
 | Tony 的 `champ` | 人物专属称呼 | 冠军 | 173 处 / 13 个文件 | `ano09.rpy`、`pizza_boxes.rpy`、`ton_baby.rpy` 与 `tony.rpy` 已统一；当前已复核文件中无旧译残留 |
 | Tina 的 `babyface` | 人物专属称呼 | 小帅哥 | 42 处 / 10 个文件 | `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 的称呼已统一；非称呼用法按具体指代自然翻译，不机械使用“娃娃脸” |
 | Maria/Tony 的 `dollface` | 老派亲昵称呼 | 美人儿 | 3 处 / 3 个文件 | `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 已全部统一 |
