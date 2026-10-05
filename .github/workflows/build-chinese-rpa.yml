@@ -16,6 +16,15 @@ on:
           - "测试版"
           - "预发行版"
           - "发行版"
+      official_package:
+        description: "复用之前同游戏版本的官方原包（引用链接可避免重复存储）"
+        required: true
+        type: choice
+        default: "复制官方原包"
+        options:
+          - "复制官方原包"
+          - "引用原包下载链接"
+          - "不复用"
   release:
     types:
       - published
@@ -72,7 +81,7 @@ jobs:
     if: github.event_name == 'release' || github.event_name == 'workflow_dispatch'
     needs: build
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 30
     concurrency:
       # 串行分配编号与创建 Release，避免两个发布使用相同编号。
       group: publish-chinese-rpa
@@ -97,6 +106,14 @@ jobs:
           GAME_VERSION: ${{ inputs.version }}
           RELEASE_TYPE: ${{ inputs.release_type }}
         run: python tools/next_release.py
+
+      - name: Find previous official package of the same game version
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TARGET_TAG: ${{ steps.next-release.outputs.tag }}
+          REUSE_MODE: ${{ inputs.official_package }}
+        run: python tools/reuse_official_package.py --prepare
 
       - name: Download built RPA
         uses: actions/download-artifact@v8
@@ -131,3 +148,9 @@ jobs:
               --generate-notes \
               --repo "$GITHUB_REPOSITORY" "${flags[@]}"
           fi
+
+      - name: Reuse official game package
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python tools/reuse_official_package.py --apply
