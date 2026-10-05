@@ -20,7 +20,7 @@ translate zh_hans strings:
 
     # game/src/menu/mode.rpy:32
     old "McDuck mode"
-    new "麦克老鸭模式"
+    new "土豪模式"
 
     # game/src/menu/mode.rpy:40
     old "Normal"

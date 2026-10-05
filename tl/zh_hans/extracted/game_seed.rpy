@@ -15,4 +15,4 @@ translate zh_hans strings:
 
     # game/lib/saga/init/seed.py
     old "Rodríguez"
-    new "罗德里格斯"
+    new "Rodríguez"
