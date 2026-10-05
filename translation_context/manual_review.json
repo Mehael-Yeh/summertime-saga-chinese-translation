@@ -87140,12 +87140,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb_mall.rpy": {
-      "sha256": "eac2c51535304cc46ff3c9786e2dc074d865bdb9e095004c8832eb8b35bc422d",
+      "sha256": "ab66774b825a796eeba7c367cf0350d6fba00c10a57c2ff7d7e55fe26fd42582",
       "pairs": 559,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "eac2c51535304cc46ff3c9786e2dc074d865bdb9e095004c8832eb8b35bc422d",
+        "translation_sha256": "ab66774b825a796eeba7c367cf0350d6fba00c10a57c2ff7d7e55fe26fd42582",
         "source_sha256": "a8e9baac78dbd60ef09bed841efb4881e6182f511d7bbf523a92eb859afb1e32",
         "source": "game/src/plot/deb_mall.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb_mall.rpy",
@@ -87747,7 +87747,7 @@
           {
             "id": "deb_mall_debbie_merge2_6d9df828",
             "line": 703,
-            "pair_sha256": "fcbe93919e975223d4db0b1bd249552b7805dee88f31df5778747ab9e22f5143"
+            "pair_sha256": "fedff6257458e1b9e21c1101e48a4ec3029cb21d9e85ce0826a41f15c1adadd6"
           },
           {
             "id": "deb_mall_debbie_merge2_05dee5c6",
@@ -90007,7 +90007,12 @@
             ],
             "reason": "it指脑中画面，补明确指代"
           }
-        ]
+        ],
+        "fingerprint_sync": {
+          "date": "2026-10-05",
+          "source_commit": "b80744c",
+          "scope": "仅同步已提交YES!→太好了！的指纹；保留原有审读项数量，不增加场景覆盖。"
+        }
       }
     },
     "tl/zh_hans/src/plot/deb_pants.rpy": {
@@ -214603,6 +214608,23 @@
         "game_version": "21.0.0-wip.8194",
         "scope": "6类标签默认/中文/默认共18次官方引擎检查；联系人卡片组件中英截图；未知分类回退、内部类别值不变、Home共享键不受影响。",
         "upstream_screen_sha256": "a82c8bbbd93a48bef4e8fa918346735943fc923ab2f14592972192f6edecda85",
+        "full_playthrough": false
+      }
+    },
+    "tl/zh_hans/changelog_translation8194.rpy": {
+      "status": "translated_ui_support",
+      "pairs": 372,
+      "sha256": "22f36cdc531807fdb1980ea76da3293b2fe0298e204a05007caee2837f7e4033",
+      "changelog_validation": {
+        "date": "2026-10-05",
+        "game_version": "21.0.0-wip.8194",
+        "source": "game/changelog.txt",
+        "source_local": ".codex_tmp/engine8194/game/changelog.txt",
+        "source_sha256": "616daaac611566780507e54d4e8cf95de0d5a2ec1c1282a2eb2b71db46028972",
+        "upstream_screen_sha256": "d790b55a4714436d7ad719170b0d64fbf46796205b03a36bc9bbca0ed04bbc29",
+        "entries": 370,
+        "version_sections": 24,
+        "scope": "24个版本段370条正文及Preview/Hotfix标题词；默认/中文/默认逐条对比，英文原串完整回退；顶部与滚动底部页面截图；未知新条目英文后备；本体日志数据未改。",
         "full_playthrough": false
       }
     }

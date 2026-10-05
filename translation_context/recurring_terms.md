@@ -1,6 +1,6 @@
 # 重复称呼、口癖与专名复查记录
 
-更新时间：2026-10-04
+更新时间：2026-10-05
 
 用途与维护方式见[index.md](index.md)。
 
@@ -354,3 +354,5 @@ python -X utf8 tools/audit_sentence_consistency.py --output .codex_tmp/sentence_
 - 角色语气档案：[characters.md](characters.md)
 - 句式基准（机器）：`sentence_patterns.json`
 - 术语规则（机器）：`recurring_terms.json`
+
+更新日志语境例外：`finale quest`表示支线的最终/收尾任务，不属于Melody演出语境，不要求套用“压轴”；该词组已登记为`melody_finale`的源文例外，演出中的finale规则不变。

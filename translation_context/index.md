@@ -35,6 +35,7 @@
 | 鸣谢页灰色用户名 | [terminology.md](terminology.md#鸣谢页用户名)、[english_residuals.md](english_residuals.md#鸣谢页署名例外) |
 | 设置悬浮说明、同类文本格式、GitHub图标 | [style_guide.md](style_guide.md#设置说明与同类提示的一致性)；回归提示定译查terminology |
 | 联系人姓名与Bridget姓氏 | [terminology.md](terminology.md#角色姓名强制)、[characters.md](characters.md#bridget)：Krüger保留ü |
+| 本体更新日志正文与标题 | [style_guide.md](style_guide.md#本体更新日志翻译与版本维护)、[terminology.md](terminology.md#游戏更新日志) |
 | 联系人六类身份标签与更新兼容 | [terminology.md](terminology.md#联系人分类标签)、[style_guide.md](style_guide.md#联系人动态身份标签与版本更新) |
 
 以上规则适用于未来版本的同类文本；最新用户确认优先于历史批次说明。实际实现和验收范围查[progress.md](progress.md)，规则存在不代表对应界面已完成全部验收。

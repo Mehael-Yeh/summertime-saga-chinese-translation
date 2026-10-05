@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "terms": [
     {
       "id": "tony_champ",
@@ -997,7 +997,10 @@
       "speaker": "Melody / narrator",
       "translation": "压轴（按句法扩展）",
       "first_seen": "tl/zh_hans/src/plot/mel02.rpy",
-      "note": "才艺表演或私人舞蹈的最后环节；按句法使用“压轴环节／压轴戏／压轴好戏”，mel03.rpy旧译“终曲”待完整通读时统一。"
+      "note": "才艺表演或私人舞蹈的最后环节；按句法使用“压轴环节／压轴戏／压轴好戏”，mel03.rpy旧译“终曲”待完整通读时统一。 更新日志中的finale quest指支线收尾任务，不适用演出“压轴”译法。",
+      "source_exceptions": [
+        "\\bfinale quest\\b"
+      ]
     },
     {
       "id": "product_brazilian_bum_bum",

@@ -13455,6 +13455,3734 @@
       "date": "2026-10-05",
       "reason": "联系人动态身份标签；使用上下文键避免影响其他Home等共享文本，保留内部类别和姓名",
       "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed a handful of issues where Josie would turn invisible when buying vehicles.{#ssct_changelog}",
+      "before": "- Fixed a handful of issues where Josie would turn invisible when buying vehicles.",
+      "target": "- 修复了购买车辆时Josie会变得不可见的若干问题。{#ssct_changelog}",
+      "source_line": 5,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded the mall with a coffee shop, security office and rooftop.{#ssct_changelog}",
+      "before": "- Expanded the mall with a coffee shop, security office and rooftop.",
+      "target": "- 扩建商场，新增咖啡店、保安室和屋顶区域。{#ssct_changelog}",
+      "source_line": 6,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored Josie's mini route with four upgraded quests.{#ssct_changelog}",
+      "before": "- Restored Josie's mini route with four upgraded quests.",
+      "target": "- 恢复Josie的短支线，包含四个升级后的任务。{#ssct_changelog}",
+      "source_line": 11,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created an original animation as part of a quest upgrade and restored four more.{#ssct_changelog}",
+      "before": "- Created an original animation as part of a quest upgrade and restored four more.",
+      "target": "- 在任务升级中新增一段原创动画，并恢复另外四段动画。{#ssct_changelog}",
+      "source_line": 12,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Inserted a button for Jiang the mechanic in the garage of the dealership.{#ssct_changelog}",
+      "before": "- Inserted a button for Jiang the mechanic in the garage of the dealership.",
+      "target": "- 在车行车库中加入机械师Jiang的交互按钮。{#ssct_changelog}",
+      "source_line": 13,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added more unlockable characters for the contacts app in Anon's phone.{#ssct_changelog}",
+      "before": "- Added more unlockable characters for the contacts app in Anon's phone.",
+      "target": "- 为Anon手机的联系人应用增加更多可解锁角色。{#ssct_changelog}",
+      "source_line": 14,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Enabled option to play preview mode without money boost for players that want it.{#ssct_changelog}",
+      "before": "- Enabled option to play preview mode without money boost for players that want it.",
+      "target": "- 新增选项，让有需要的玩家可以在不获得额外金钱的情况下游玩预览模式。{#ssct_changelog}",
+      "source_line": 15,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved the car dealership with crowd art for all times of day.{#ssct_changelog}",
+      "before": "- Improved the car dealership with crowd art for all times of day.",
+      "target": "- 完善车行在一天中各个时段的人群美术。{#ssct_changelog}",
+      "source_line": 16,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Displayed the price of shop items alongside option to add them to the basket.{#ssct_changelog}",
+      "before": "- Displayed the price of shop items alongside option to add them to the basket.",
+      "target": "- 在将商品加入购物篮的选项旁显示价格。{#ssct_changelog}",
+      "source_line": 17,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reworked text message system to support bidirectional and photo messaging.{#ssct_changelog}",
+      "before": "- Reworked text message system to support bidirectional and photo messaging.",
+      "target": "- 重做短信系统，支持双向收发和图片消息。{#ssct_changelog}",
+      "source_line": 18,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed missing pregnancy wheel and replay unlocks for Maria's bedroom scenes.{#ssct_changelog}",
+      "before": "- Fixed missing pregnancy wheel and replay unlocks for Maria's bedroom scenes.",
+      "target": "- 修复Maria卧室场景缺少受孕转盘和回放解锁的问题。{#ssct_changelog}",
+      "source_line": 19,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Stopped Tony temporarily not showing in afternoon variant of Maria's couch scene.{#ssct_changelog}",
+      "before": "- Stopped Tony temporarily not showing in afternoon variant of Maria's couch scene.",
+      "target": "- 修复Maria沙发场景的下午变体中Tony暂时不显示的问题。{#ssct_changelog}",
+      "source_line": 20,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded support for animation modes in x-ray system.{#ssct_changelog}",
+      "before": "- Expanded support for animation modes in x-ray system.",
+      "target": "- 扩展透视系统对动画模式的支持。{#ssct_changelog}",
+      "source_line": 21,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reduced clutter in replay menus by hiding some minor variants until unlocked.{#ssct_changelog}",
+      "before": "- Reduced clutter in replay menus by hiding some minor variants until unlocked.",
+      "target": "- 在解锁前隐藏部分细微变体，减少回放菜单中的杂乱条目。{#ssct_changelog}",
+      "source_line": 22,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Corrected long-standing scheduling issue in Debbie's car repair quest.{#ssct_changelog}",
+      "before": "- Corrected long-standing scheduling issue in Debbie's car repair quest.",
+      "target": "- 修正Debbie修车任务中长期存在的日程安排问题。{#ssct_changelog}",
+      "source_line": 23,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various typo, text-to-speech, and posing fixes.{#ssct_changelog}",
+      "before": "- Various typo, text-to-speech, and posing fixes.",
+      "target": "- 修复多处拼写、文字转语音和角色姿势问题。{#ssct_changelog}",
+      "source_line": 24,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created a new event for Maria in the pizzeria pantry in the evening.{#ssct_changelog}",
+      "before": "- Created a new event for Maria in the pizzeria pantry in the evening.",
+      "target": "- 为Maria新增晚间披萨店储藏室事件。{#ssct_changelog}",
+      "source_line": 29,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reimagined Maria's apartment bedroom scene and restored it.{#ssct_changelog}",
+      "before": "- Reimagined Maria's apartment bedroom scene and restored it.",
+      "target": "- 重新设计并恢复Maria公寓卧室场景。{#ssct_changelog}",
+      "source_line": 30,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored Maria's blowjob scene and expanded it to be possible during pregnancy.{#ssct_changelog}",
+      "before": "- Restored Maria's blowjob scene and expanded it to be possible during pregnancy.",
+      "target": "- 恢复Maria的口交场景，并扩展为孕期也可触发。{#ssct_changelog}",
+      "source_line": 31,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Finished the full version of Maria's couch scenes.{#ssct_changelog}",
+      "before": "- Finished the full version of Maria's couch scenes.",
+      "target": "- 完成Maria沙发场景的完整版本。{#ssct_changelog}",
+      "source_line": 32,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved passive parts of Maria's pregnancy cycle to be more context-aware.{#ssct_changelog}",
+      "before": "- Improved passive parts of Maria's pregnancy cycle to be more context-aware.",
+      "target": "- 改进Maria怀孕周期中的被动事件，使其更符合当前情境。{#ssct_changelog}",
+      "source_line": 33,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added a new Maria button in her bedroom for Sunday afternoons.{#ssct_changelog}",
+      "before": "- Added a new Maria button in her bedroom for Sunday afternoons.",
+      "target": "- 新增Maria在星期日下午出现在卧室时的交互按钮。{#ssct_changelog}",
+      "source_line": 34,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reintroduced fleshed-out random changing room encounters with nine to find.{#ssct_changelog}",
+      "before": "- Reintroduced fleshed-out random changing room encounters with nine to find.",
+      "target": "- 恢复内容更丰富的更衣室随机邂逅，共有九种可发现的事件。{#ssct_changelog}",
+      "source_line": 35,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Completed reimplementation of Miss Dewitt's content.{#ssct_changelog}",
+      "before": "- Completed reimplementation of Miss Dewitt's content.",
+      "target": "- 完成Dewitt老师内容的重新实现。{#ssct_changelog}",
+      "source_line": 36,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Adapted and enabled Tina's pregnancy cycle and broken A/C event.{#ssct_changelog}",
+      "before": "- Adapted and enabled Tina's pregnancy cycle and broken A/C event.",
+      "target": "- 适配并启用Tina的怀孕周期和空调故障事件。{#ssct_changelog}",
+      "source_line": 37,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Replaced remnants of old Anon art throughout Jenny's route.{#ssct_changelog}",
+      "before": "- Replaced remnants of old Anon art throughout Jenny's route.",
+      "target": "- 替换Jenny支线中残留的旧版Anon美术。{#ssct_changelog}",
+      "source_line": 38,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Built a new stairwell for the mall in preparation for future content.{#ssct_changelog}",
+      "before": "- Built a new stairwell for the mall in preparation for future content.",
+      "target": "- 为商场新增楼梯间，为后续内容做准备。{#ssct_changelog}",
+      "source_line": 39,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Gifted Eve a cute pair of cat ears for use during the karaoke event.{#ssct_changelog}",
+      "before": "- Gifted Eve a cute pair of cat ears for use during the karaoke event.",
+      "target": "- 给Eve准备了一对可爱的猫耳，用于卡拉OK事件。{#ssct_changelog}",
+      "source_line": 40,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Provided a Cyclone poster inventory item to collect in Jenny's route.{#ssct_changelog}",
+      "before": "- Provided a Cyclone poster inventory item to collect in Jenny's route.",
+      "target": "- 在Jenny支线中加入可收集的Cyclone海报物品。{#ssct_changelog}",
+      "source_line": 41,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reworked assets for Jiang to bring the character up to current standards.{#ssct_changelog}",
+      "before": "- Reworked assets for Jiang to bring the character up to current standards.",
+      "target": "- 重做Jiang的美术资源，使角色达到当前制作标准。{#ssct_changelog}",
+      "source_line": 42,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated crowd assets on the dealership forecourt to current standards.{#ssct_changelog}",
+      "before": "- Updated crowd assets on the dealership forecourt to current standards.",
+      "target": "- 将车行前院的人群美术更新至当前标准。{#ssct_changelog}",
+      "source_line": 43,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Opened a penguin sanctuary in the ground floor corridor of the apartment complex.{#ssct_changelog}",
+      "before": "- Opened a penguin sanctuary in the ground floor corridor of the apartment complex.",
+      "target": "- 在公寓楼一层走廊开设企鹅保护区。{#ssct_changelog}",
+      "source_line": 44,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Included Tammy's evening yoga in her bedroom in the cookie jar.{#ssct_changelog}",
+      "before": "- Included Tammy's evening yoga in her bedroom in the cookie jar.",
+      "target": "- 将Tammy晚间在卧室做瑜伽的场景加入角色图鉴。{#ssct_changelog}",
+      "source_line": 45,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Began work on phone improvements, starting with emojis, with more to follow.{#ssct_changelog}",
+      "before": "- Began work on phone improvements, starting with emojis, with more to follow.",
+      "target": "- 开始改进手机功能，首先加入表情符号，后续还将继续扩展。{#ssct_changelog}",
+      "source_line": 46,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tweaked how some scenes are displayed in the cookie jar to reduce clutter.{#ssct_changelog}",
+      "before": "- Tweaked how some scenes are displayed in the cookie jar to reduce clutter.",
+      "target": "- 调整角色图鉴中部分场景的显示方式，减少菜单杂乱。{#ssct_changelog}",
+      "source_line": 47,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Rescued players trapped in the bank from saves made prior to wip.7712.{#ssct_changelog}",
+      "before": "- Rescued players trapped in the bank from saves made prior to wip.7712.",
+      "target": "- 修复在wip.7712之前保存的存档中玩家被困在银行的问题。{#ssct_changelog}",
+      "source_line": 48,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Addressed some broken posing when speaking to Debbie by the pool.{#ssct_changelog}",
+      "before": "- Addressed some broken posing when speaking to Debbie by the pool.",
+      "target": "- 修复在泳池边与Debbie交谈时的部分角色姿势错误。{#ssct_changelog}",
+      "source_line": 49,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Prevented early release of Debbie when she's shunning Anon.{#ssct_changelog}",
+      "before": "- Prevented early release of Debbie when she's shunning Anon.",
+      "target": "- 防止Debbie躲着Anon时过早解除回避状态。{#ssct_changelog}",
+      "source_line": 50,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Usual miscellaneous detritus of various typo fixes, art quirks and metadata.{#ssct_changelog}",
+      "before": "- Usual miscellaneous detritus of various typo fixes, art quirks and metadata.",
+      "target": "- 修复其他多处拼写、美术细节和元数据问题。{#ssct_changelog}",
+      "source_line": 51,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Addressed issue where owning a car prior to Tony's suggestion would break Tina.{#ssct_changelog}",
+      "before": "- Addressed issue where owning a car prior to Tony's suggestion would break Tina.",
+      "target": "- 修复在Tony提出购车建议前已拥有车辆会导致Tina状态异常的问题。{#ssct_changelog}",
+      "source_line": 56,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Resolved issue with some of Maria's replays not being unlocked correctly.{#ssct_changelog}",
+      "before": "- Resolved issue with some of Maria's replays not being unlocked correctly.",
+      "target": "- 解决Maria的部分回放未正确解锁的问题。{#ssct_changelog}",
+      "source_line": 57,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed Anon's face temporarily going missing when visiting Tina in her apartment.{#ssct_changelog}",
+      "before": "- Fixed Anon's face temporarily going missing when visiting Tina in her apartment.",
+      "target": "- 修复拜访公寓里的Tina时Anon的脸部暂时消失的问题。{#ssct_changelog}",
+      "source_line": 58,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Inserted small guidance dialogue that was missed in the repeatable pantry event.{#ssct_changelog}",
+      "before": "- Inserted small guidance dialogue that was missed in the repeatable pantry event.",
+      "target": "- 补上可重复储藏室事件中遗漏的简短引导对话。{#ssct_changelog}",
+      "source_line": 59,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Ensured babies held by Maria and Tony match between navigation and dialogue.{#ssct_changelog}",
+      "before": "- Ensured babies held by Maria and Tony match between navigation and dialogue.",
+      "target": "- 确保Maria和Tony抱着的宝宝在导航画面与对话画面中保持一致。{#ssct_changelog}",
+      "source_line": 60,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added missing handprint to Maria's dress in the lead-in to her kitchen scene.{#ssct_changelog}",
+      "before": "- Added missing handprint to Maria's dress in the lead-in to her kitchen scene.",
+      "target": "- 补上Maria厨房场景开始前连衣裙上缺失的手印。{#ssct_changelog}",
+      "source_line": 61,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Resumed main story route with two reworked, and three upgraded quests.{#ssct_changelog}",
+      "before": "- Resumed main story route with two reworked, and three upgraded quests.",
+      "target": "- 继续恢复主线，加入两个重做任务和三个升级任务。{#ssct_changelog}",
+      "source_line": 66,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added two original scenes (for Tina and Maria), and upgraded four more.{#ssct_changelog}",
+      "before": "- Added two original scenes (for Tina and Maria), and upgraded four more.",
+      "target": "- 新增Tina和Maria各一段原创场景，并升级另外四段场景。{#ssct_changelog}",
+      "source_line": 67,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Refined x-ray animation system and added it to all existing sex scenes.{#ssct_changelog}",
+      "before": "- Refined x-ray animation system and added it to all existing sex scenes.",
+      "target": "- 改进透视动画系统，并将其加入所有现有性爱场景。{#ssct_changelog}",
+      "source_line": 68,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Introduced three placeholder narrative events on which to build in future.{#ssct_changelog}",
+      "before": "- Introduced three placeholder narrative events on which to build in future.",
+      "target": "- 加入三个临时叙事事件，为后续内容打下基础。{#ssct_changelog}",
+      "source_line": 69,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Enhanced character art of Kassy, Lily, Maria, Micoe, Roz, Tina, and Tony.{#ssct_changelog}",
+      "before": "- Enhanced character art of Kassy, Lily, Maria, Micoe, Roz, Tina, and Tony.",
+      "target": "- 改进Kassy、Lily、Maria、Micoe、Roz、Tina和Tony的角色美术。{#ssct_changelog}",
+      "source_line": 70,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Rescaled some aspects of Zana to be more consistent across his character.{#ssct_changelog}",
+      "before": "- Rescaled some aspects of Zana to be more consistent across his character.",
+      "target": "- 调整Zana部分美术的尺寸，使角色各处比例更加一致。{#ssct_changelog}",
+      "source_line": 71,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tweaked face art for Missy, Jenny, Debbie, and Josie.{#ssct_changelog}",
+      "before": "- Tweaked face art for Missy, Jenny, Debbie, and Josie.",
+      "target": "- 微调Missy、Jenny、Debbie和Josie的面部美术。{#ssct_changelog}",
+      "source_line": 72,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Inserted non-quest related buttons for Liu at the bank and Micoe at the hospital.{#ssct_changelog}",
+      "before": "- Inserted non-quest related buttons for Liu at the bank and Micoe at the hospital.",
+      "target": "- 为银行的Liu和医院的Micoe加入与任务无关的交互按钮。{#ssct_changelog}",
+      "source_line": 73,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reworked crowds in apartment complex, hospital, mall and pizza shop.{#ssct_changelog}",
+      "before": "- Reworked crowds in apartment complex, hospital, mall and pizza shop.",
+      "target": "- 重做公寓楼、医院、商场和披萨店的人群美术。{#ssct_changelog}",
+      "source_line": 74,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved details in comic shop, library, recovery room and town map backgrounds.{#ssct_changelog}",
+      "before": "- Improved details in comic shop, library, recovery room and town map backgrounds.",
+      "target": "- 完善漫画店、图书馆、休养室和小镇地图的背景细节。{#ssct_changelog}",
+      "source_line": 75,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Revisited art for the conclusion of Debbie's evening scene in the kitchen.{#ssct_changelog}",
+      "before": "- Revisited art for the conclusion of Debbie's evening scene in the kitchen.",
+      "target": "- 重新打磨Debbie晚间厨房场景结尾的美术。{#ssct_changelog}",
+      "source_line": 76,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated art for playing the pizza delivery mini game in the evening.{#ssct_changelog}",
+      "before": "- Updated art for playing the pizza delivery mini game in the evening.",
+      "target": "- 更新晚间披萨配送小游戏的美术。{#ssct_changelog}",
+      "source_line": 77,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored the PA system announcements in the school.{#ssct_changelog}",
+      "before": "- Restored the PA system announcements in the school.",
+      "target": "- 恢复学校广播系统的公告。{#ssct_changelog}",
+      "source_line": 78,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Split layout of busy replay menus to be more easily digestible.{#ssct_changelog}",
+      "before": "- Split layout of busy replay menus to be more easily digestible.",
+      "target": "- 拆分内容较多的回放菜单，使其更易浏览。{#ssct_changelog}",
+      "source_line": 79,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restaged door knock actions in the apartment complex to match layout.{#ssct_changelog}",
+      "before": "- Restaged door knock actions in the apartment complex to match layout.",
+      "target": "- 重新安排公寓楼的敲门动作，使其符合场景布局。{#ssct_changelog}",
+      "source_line": 80,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Polished dialogue in first three quests of Jenny's route.{#ssct_changelog}",
+      "before": "- Polished dialogue in first three quests of Jenny's route.",
+      "target": "- 精修Jenny支线前三个任务的对话。{#ssct_changelog}",
+      "source_line": 81,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Gave Maria's bedroom closet a viewable interior.{#ssct_changelog}",
+      "before": "- Gave Maria's bedroom closet a viewable interior.",
+      "target": "- 让Maria卧室的衣柜内部可以查看。{#ssct_changelog}",
+      "source_line": 82,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Brought back Anon's employee-of-the-month plaque in the pizzeria.{#ssct_changelog}",
+      "before": "- Brought back Anon's employee-of-the-month plaque in the pizzeria.",
+      "target": "- 恢复披萨店中Anon的月度最佳员工奖牌。{#ssct_changelog}",
+      "source_line": 83,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Crossed sex toys acquired by Jenny off the wish list on her computer.{#ssct_changelog}",
+      "before": "- Crossed sex toys acquired by Jenny off the wish list on her computer.",
+      "target": "- Jenny购入性玩具后，会从电脑上的愿望清单中划掉对应条目。{#ssct_changelog}",
+      "source_line": 84,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Resolved long standing reservation bug in Jenny's cinema event.{#ssct_changelog}",
+      "before": "- Resolved long standing reservation bug in Jenny's cinema event.",
+      "target": "- 解决Jenny电影院事件中长期存在的预订错误。{#ssct_changelog}",
+      "source_line": 85,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Replaced random dialogue loops in lewd scenes with narrative driven progression.{#ssct_changelog}",
+      "before": "- Replaced random dialogue loops in lewd scenes with narrative driven progression.",
+      "target": "- 将成人场景中的随机对话循环替换为由叙事推动的流程。{#ssct_changelog}",
+      "source_line": 86,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Revisited art of Jenny's breakfast table event to add Anon's t-shirt for continuity.{#ssct_changelog}",
+      "before": "- Revisited art of Jenny's breakfast table event to add Anon's t-shirt for continuity.",
+      "target": "- 重新打磨Jenny早餐桌事件的美术，加入Anon的T恤以保持前后连贯。{#ssct_changelog}",
+      "source_line": 87,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded text-to-speech coverage for clickable items.{#ssct_changelog}",
+      "before": "- Expanded text-to-speech coverage for clickable items.",
+      "target": "- 扩展可点击物品的文字转语音覆盖范围。{#ssct_changelog}",
+      "source_line": 88,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Captured pregnancy state of Jenny when unlocking her wet t-shirt bathroom scene.{#ssct_changelog}",
+      "before": "- Captured pregnancy state of Jenny when unlocking her wet t-shirt bathroom scene.",
+      "target": "- 解锁Jenny浴室湿T恤场景时记录她的怀孕状态。{#ssct_changelog}",
+      "source_line": 89,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created more variants for flies in the science lab and dirt in the forest.{#ssct_changelog}",
+      "before": "- Created more variants for flies in the science lab and dirt in the forest.",
+      "target": "- 为科学实验室的苍蝇和森林中的泥土增加更多变体。{#ssct_changelog}",
+      "source_line": 90,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Increased image cache size to prevent fighting in particularly busy scenes.{#ssct_changelog}",
+      "before": "- Increased image cache size to prevent fighting in particularly busy scenes.",
+      "target": "- 增大图像缓存，避免复杂场景中的缓存资源相互挤占。{#ssct_changelog}",
+      "source_line": 91,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restructured various labels to be consistent in how we name and use variables.{#ssct_changelog}",
+      "before": "- Restructured various labels to be consistent in how we name and use variables.",
+      "target": "- 重构多个脚本标签，统一变量的命名和使用方式。{#ssct_changelog}",
+      "source_line": 92,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Upgraded Ren'Py to version 8.5.3.{#ssct_changelog}",
+      "before": "- Upgraded Ren'Py to version 8.5.3.",
+      "target": "- 将Ren'Py升级至8.5.3版。{#ssct_changelog}",
+      "source_line": 93,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Squashed various continuity issues and typos.{#ssct_changelog}",
+      "before": "- Squashed various continuity issues and typos.",
+      "target": "- 修复多处前后连贯性问题和拼写错误。{#ssct_changelog}",
+      "source_line": 94,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various replay system tweaks and fixes.{#ssct_changelog}",
+      "before": "- Various replay system tweaks and fixes.",
+      "target": "- 对回放系统进行多项微调和修复。{#ssct_changelog}",
+      "source_line": 95,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed exceptions in Mia and Tammy's replay menus.{#ssct_changelog}",
+      "before": "- Fixed exceptions in Mia and Tammy's replay menus.",
+      "target": "- 修复Mia和Tammy回放菜单中的异常。{#ssct_changelog}",
+      "source_line": 100,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created two completely new repeatable events for Debbie in the lobby and backyard.{#ssct_changelog}",
+      "before": "- Created two completely new repeatable events for Debbie in the lobby and backyard.",
+      "target": "- 为Debbie新增两个可重复事件，分别发生在门厅和后院。{#ssct_changelog}",
+      "source_line": 105,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded Debbie catching Anon watching porn on TV event with multiple lewd variants.{#ssct_changelog}",
+      "before": "- Expanded Debbie catching Anon watching porn on TV event with multiple lewd variants.",
+      "target": "- 扩展Debbie撞见Anon在电视上看色情片的事件，加入多个成人内容变体。{#ssct_changelog}",
+      "source_line": 106,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Allowed Debbie to visit Anon's room at night if she's pent up, even when pregnant.{#ssct_changelog}",
+      "before": "- Allowed Debbie to visit Anon's room at night if she's pent up, even when pregnant.",
+      "target": "- Debbie欲求不满时可在夜间拜访Anon的房间，孕期也可以。{#ssct_changelog}",
+      "source_line": 107,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added small optional bonus scene to Debbie and Anon's first trip to Cupid.{#ssct_changelog}",
+      "before": "- Added small optional bonus scene to Debbie and Anon's first trip to Cupid.",
+      "target": "- 在Debbie与Anon首次前往丘比特时加入一段可选的额外小场景。{#ssct_changelog}",
+      "source_line": 108,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored foreplay frames omitted during build up with Debbie in Anon's bed.{#ssct_changelog}",
+      "before": "- Restored foreplay frames omitted during build up with Debbie in Anon's bed.",
+      "target": "- 恢复与Debbie在Anon床上亲热时遗漏的前戏画面。{#ssct_changelog}",
+      "source_line": 109,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Introduced a new button for Debbie in the lobby, fully integrated with her story.{#ssct_changelog}",
+      "before": "- Introduced a new button for Debbie in the lobby, fully integrated with her story.",
+      "target": "- 在门厅为Debbie新增交互按钮，并完整接入她的剧情。{#ssct_changelog}",
+      "source_line": 110,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Extended Debbie's backyard button to make more sense after she gets a swimsuit.{#ssct_changelog}",
+      "before": "- Extended Debbie's backyard button to make more sense after she gets a swimsuit.",
+      "target": "- 扩展Debbie在后院的交互按钮，使其在获得泳装后更符合情境。{#ssct_changelog}",
+      "source_line": 111,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Distinguished replays new in the current update to aid discoverability.{#ssct_changelog}",
+      "before": "- Distinguished replays new in the current update to aid discoverability.",
+      "target": "- 标出当前更新新增的回放，方便玩家发现。{#ssct_changelog}",
+      "source_line": 112,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Rebuilt the replay system to better handle and highlight variants to players.{#ssct_changelog}",
+      "before": "- Rebuilt the replay system to better handle and highlight variants to players.",
+      "target": "- 重建回放系统，更好地处理场景变体并向玩家突出显示。{#ssct_changelog}",
+      "source_line": 113,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Developed new centralised method for choice tracking during dialogue.{#ssct_changelog}",
+      "before": "- Developed new centralised method for choice tracking during dialogue.",
+      "target": "- 开发新的集中式对话选项记录方式。{#ssct_changelog}",
+      "source_line": 114,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Overhauled how NPC visits to Anon's room work to accommodate more than just Jenny.{#ssct_changelog}",
+      "before": "- Overhauled how NPC visits to Anon's room work to accommodate more than just Jenny.",
+      "target": "- 重做NPC拜访Anon房间的机制，使其能够支持Jenny之外的更多角色。{#ssct_changelog}",
+      "source_line": 115,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Switched on tree house lights in a few backgrounds where they were off.{#ssct_changelog}",
+      "before": "- Switched on tree house lights in a few backgrounds where they were off.",
+      "target": "- 点亮此前部分背景中未亮起的树屋灯光。{#ssct_changelog}",
+      "source_line": 116,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Blocked sleeping in Debbie's bed while she is avoiding Anon.{#ssct_changelog}",
+      "before": "- Blocked sleeping in Debbie's bed while she is avoiding Anon.",
+      "target": "- Debbie躲着Anon时，禁止在她的床上睡觉。{#ssct_changelog}",
+      "source_line": 117,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed small issue with invisible Jenny in her second cam show scene.{#ssct_changelog}",
+      "before": "- Fixed small issue with invisible Jenny in her second cam show scene.",
+      "target": "- 修复Jenny第二次色情直播场景中的轻微不可见问题。{#ssct_changelog}",
+      "source_line": 118,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Prevented Jenny being invisible to the peephole in the week after she gives birth.{#ssct_changelog}",
+      "before": "- Prevented Jenny being invisible to the peephole in the week after she gives birth.",
+      "target": "- 防止Jenny产后一周内在窥视孔画面中不可见。{#ssct_changelog}",
+      "source_line": 119,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Cleaned up staging issue in reminder dialogue for Jenny's first sex toy quest.{#ssct_changelog}",
+      "before": "- Cleaned up staging issue in reminder dialogue for Jenny's first sex toy quest.",
+      "target": "- 修正Jenny首次性玩具任务提醒对话中的场景安排问题。{#ssct_changelog}",
+      "source_line": 120,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Modified trigger in Pink Cyclone quest so as to not temporarily break shop system.{#ssct_changelog}",
+      "before": "- Modified trigger in Pink Cyclone quest so as to not temporarily break shop system.",
+      "target": "- 调整Pink Cyclone任务的触发条件，避免商店系统暂时异常。{#ssct_changelog}",
+      "source_line": 121,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Ensured Jenny will always put her back to the wall before inviting Anon to shower.{#ssct_changelog}",
+      "before": "- Ensured Jenny will always put her back to the wall before inviting Anon to shower.",
+      "target": "- 确保Jenny邀请Anon一起洗澡前总会先背靠墙壁。{#ssct_changelog}",
+      "source_line": 122,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Increased Jenny presence awareness in various Debbie events.{#ssct_changelog}",
+      "before": "- Increased Jenny presence awareness in various Debbie events.",
+      "target": "- 加强多个Debbie事件对Jenny是否在场的判断。{#ssct_changelog}",
+      "source_line": 123,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Moved Anon to correct position after deciding not to sleep in Jenny's bed.{#ssct_changelog}",
+      "before": "- Moved Anon to correct position after deciding not to sleep in Jenny's bed.",
+      "target": "- 决定不在Jenny床上睡觉后，将Anon移到正确位置。{#ssct_changelog}",
+      "source_line": 124,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Provided secondary trigger in Debbie's first mall trip to avoid conflict with Jenny.{#ssct_changelog}",
+      "before": "- Provided secondary trigger in Debbie's first mall trip to avoid conflict with Jenny.",
+      "target": "- 在Debbie首次逛商场的事件中加入备用触发条件，避免与Jenny的事件冲突。{#ssct_changelog}",
+      "source_line": 125,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Stopped Debbie's mug from vanishing in some car repair quest dialogues.{#ssct_changelog}",
+      "before": "- Stopped Debbie's mug from vanishing in some car repair quest dialogues.",
+      "target": "- 防止Debbie的杯子在部分修车任务对话中消失。{#ssct_changelog}",
+      "source_line": 126,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Addressed missing dialogue in car repair quest when speaking to Josie in person.{#ssct_changelog}",
+      "before": "- Addressed missing dialogue in car repair quest when speaking to Josie in person.",
+      "target": "- 补上修车任务中与Josie当面交谈时缺失的对话。{#ssct_changelog}",
+      "source_line": 127,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Patched problem where Debbie's arm would vanish too soon in some couch scenes.{#ssct_changelog}",
+      "before": "- Patched problem where Debbie's arm would vanish too soon in some couch scenes.",
+      "target": "- 修复部分沙发场景中Debbie的手臂过早消失的问题。{#ssct_changelog}",
+      "source_line": 128,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Rectified strange NPC behaviour after Debbie informs Anon she is pregnant.{#ssct_changelog}",
+      "before": "- Rectified strange NPC behaviour after Debbie informs Anon she is pregnant.",
+      "target": "- 修正Debbie告知Anon自己怀孕后NPC的异常行为。{#ssct_changelog}",
+      "source_line": 129,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Resolved issue with incompatible Anon rig layers in Debbie's shower event.{#ssct_changelog}",
+      "before": "- Resolved issue with incompatible Anon rig layers in Debbie's shower event.",
+      "target": "- 解决Debbie淋浴事件中Anon角色绑定图层不兼容的问题。{#ssct_changelog}",
+      "source_line": 130,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Swapped background used for Erik's karaoke party for better visual consistency.{#ssct_changelog}",
+      "before": "- Swapped background used for Erik's karaoke party for better visual consistency.",
+      "target": "- 替换Erik卡拉OK派对的背景，使视觉表现更加一致。{#ssct_changelog}",
+      "source_line": 131,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Adjusted various asset names for consistency and state representation.{#ssct_changelog}",
+      "before": "- Adjusted various asset names for consistency and state representation.",
+      "target": "- 调整多项资源名称，统一命名并更准确地表示状态。{#ssct_changelog}",
+      "source_line": 132,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Removed unintended background change during trips to Raven Hill.{#ssct_changelog}",
+      "before": "- Removed unintended background change during trips to Raven Hill.",
+      "target": "- 移除前往渡鸦山时意外发生的背景切换。{#ssct_changelog}",
+      "source_line": 133,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Upgraded stat check when asking Debbie about kissing practice with a player choice.{#ssct_changelog}",
+      "before": "- Upgraded stat check when asking Debbie about kissing practice with a player choice.",
+      "target": "- 将向Debbie询问接吻练习时的属性检查改为玩家选项。{#ssct_changelog}",
+      "source_line": 134,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Delayed escalation in Debbie mall event such that it aligns with her story content.{#ssct_changelog}",
+      "before": "- Delayed escalation in Debbie mall event such that it aligns with her story content.",
+      "target": "- 延后Debbie商场事件的进一步发展，使其与她的剧情进度一致。{#ssct_changelog}",
+      "source_line": 135,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Corrected error in internal lust adjustment after sex on counter top with Debbie.{#ssct_changelog}",
+      "before": "- Corrected error in internal lust adjustment after sex on counter top with Debbie.",
+      "target": "- 修正与Debbie在台面上性爱后内部欲望值调整的错误。{#ssct_changelog}",
+      "source_line": 136,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tweaked staging for scenes early in Debbie's story to match with later scenes.{#ssct_changelog}",
+      "before": "- Tweaked staging for scenes early in Debbie's story to match with later scenes.",
+      "target": "- 微调Debbie支线前期场景的安排，使其与后续场景一致。{#ssct_changelog}",
+      "source_line": 137,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Solved the black screen \"pop\" previously present at the end of some replays.{#ssct_changelog}",
+      "before": "- Solved the black screen \"pop\" previously present at the end of some replays.",
+      "target": "- 解决部分回放结束时此前出现的黑屏闪跳。{#ssct_changelog}",
+      "source_line": 138,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Applied intended title font in character replay menus.{#ssct_changelog}",
+      "before": "- Applied intended title font in character replay menus.",
+      "target": "- 为角色回放菜单应用原本指定的标题字体。{#ssct_changelog}",
+      "source_line": 139,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved tooling used to streamline asset maintenance tasks.{#ssct_changelog}",
+      "before": "- Improved tooling used to streamline asset maintenance tasks.",
+      "target": "- 改进工具，简化美术资源维护工作。{#ssct_changelog}",
+      "source_line": 140,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Strived to be more consistent in menu terminology and oft-repeated phrases.{#ssct_changelog}",
+      "before": "- Strived to be more consistent in menu terminology and oft-repeated phrases.",
+      "target": "- 进一步统一菜单术语和经常重复的短语。{#ssct_changelog}",
+      "source_line": 141,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various typo fixes, hint clarifications, and rig metadata adjustments.{#ssct_changelog}",
+      "before": "- Various typo fixes, hint clarifications, and rig metadata adjustments.",
+      "target": "- 修复多处拼写错误，明确提示，并调整角色绑定元数据。{#ssct_changelog}",
+      "source_line": 142,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded Debbie's mall trip event with many more variants and escalation.{#ssct_changelog}",
+      "before": "- Expanded Debbie's mall trip event with many more variants and escalation.",
+      "target": "- 扩展Debbie逛商场事件，加入更多变体和进一步发展的内容。{#ssct_changelog}",
+      "source_line": 147,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Installed the sleeping in Debbie's bed event with multiple escalating stages.{#ssct_changelog}",
+      "before": "- Installed the sleeping in Debbie's bed event with multiple escalating stages.",
+      "target": "- 加入在Debbie床上睡觉的事件，包含多个逐步发展的阶段。{#ssct_changelog}",
+      "source_line": 148,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Continued restoring main story adding the pizza prep and mob visit quests.{#ssct_changelog}",
+      "before": "- Continued restoring main story adding the pizza prep and mob visit quests.",
+      "target": "- 继续恢复主线，加入制作披萨和黑帮来访任务。{#ssct_changelog}",
+      "source_line": 149,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Polished Jenny's lewd scene art, extending cum-shots and fixing small details.{#ssct_changelog}",
+      "before": "- Polished Jenny's lewd scene art, extending cum-shots and fixing small details.",
+      "target": "- 打磨Jenny成人场景的美术，延长射精镜头并修复细节。{#ssct_changelog}",
+      "source_line": 150,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created more cutscenes and variants for mall trips, including pregnancy support.{#ssct_changelog}",
+      "before": "- Created more cutscenes and variants for mall trips, including pregnancy support.",
+      "target": "- 为逛商场事件新增过场与变体，包括孕期支持。{#ssct_changelog}",
+      "source_line": 151,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved various aspects of the character art for Maria and Tony.{#ssct_changelog}",
+      "before": "- Improved various aspects of the character art for Maria and Tony.",
+      "target": "- 改进Maria和Tony角色美术的多个方面。{#ssct_changelog}",
+      "source_line": 152,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Moved Tony's bag into the closet — a new location in Maria & Tony's apartment.{#ssct_changelog}",
+      "before": "- Moved Tony's bag into the closet — a new location in Maria & Tony's apartment.",
+      "target": "- 将Tony的包移入衣柜；这是Maria与Tony公寓中的新地点。{#ssct_changelog}",
+      "source_line": 153,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Extended the community pool location with a pump room.{#ssct_changelog}",
+      "before": "- Extended the community pool location with a pump room.",
+      "target": "- 为社区泳池新增水泵房。{#ssct_changelog}",
+      "source_line": 154,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Revisited x-ray animations to be more lively and be more orientation agnostic.{#ssct_changelog}",
+      "before": "- Revisited x-ray animations to be more lively and be more orientation agnostic.",
+      "target": "- 改进透视动画，使其更生动，并减少对朝向的依赖。{#ssct_changelog}",
+      "source_line": 155,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added slider to control the opacity of the dialogue box background.{#ssct_changelog}",
+      "before": "- Added slider to control the opacity of the dialogue box background.",
+      "target": "- 新增用于调整对话框背景透明度的滑块。{#ssct_changelog}",
+      "source_line": 156,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Adjusted shower peeks to avoid showing the same animation back-to-back.{#ssct_changelog}",
+      "before": "- Adjusted shower peeks to avoid showing the same animation back-to-back.",
+      "target": "- 调整偷看淋浴事件，避免连续出现相同动画。{#ssct_changelog}",
+      "source_line": 157,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Wrote and posed variant for vehicle turn-in that was previously unhandled.{#ssct_changelog}",
+      "before": "- Wrote and posed variant for vehicle turn-in that was previously unhandled.",
+      "target": "- 为此前未处理的交还车辆情况补写并配置场景变体。{#ssct_changelog}",
+      "source_line": 158,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Enhanced spot metadata system to better handle use of rotational information.{#ssct_changelog}",
+      "before": "- Enhanced spot metadata system to better handle use of rotational information.",
+      "target": "- 改进位置元数据系统，使其更好地处理旋转信息。{#ssct_changelog}",
+      "source_line": 159,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Introduced presence tags to views, allowing for more dynamic elements in cutscenes.{#ssct_changelog}",
+      "before": "- Introduced presence tags to views, allowing for more dynamic elements in cutscenes.",
+      "target": "- 为视图加入在场状态标签，让过场能够包含更多动态元素。{#ssct_changelog}",
+      "source_line": 160,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Remediated minor migration oversight to repair any affected saves.{#ssct_changelog}",
+      "before": "- Remediated minor migration oversight to repair any affected saves.",
+      "target": "- 修正轻微的存档迁移遗漏，修复受影响的存档。{#ssct_changelog}",
+      "source_line": 161,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed missing assets to stop pregnant Debbie turning invisible in shower.{#ssct_changelog}",
+      "before": "- Fixed missing assets to stop pregnant Debbie turning invisible in shower.",
+      "target": "- 补上缺失资源，防止孕期Debbie在淋浴时不可见。{#ssct_changelog}",
+      "source_line": 162,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Brought a few remaining parts of the game into the translation system.{#ssct_changelog}",
+      "before": "- Brought a few remaining parts of the game into the translation system.",
+      "target": "- 将游戏中少数尚未接入的部分纳入翻译系统。{#ssct_changelog}",
+      "source_line": 163,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various spelling corrections and posing tweaks and lots of metadata.{#ssct_changelog}",
+      "before": "- Various spelling corrections and posing tweaks and lots of metadata.",
+      "target": "- 修正多处拼写、角色姿势和大量元数据。{#ssct_changelog}",
+      "source_line": 164,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reimagined and added back the Debbie leaning on the counter scene.{#ssct_changelog}",
+      "before": "- Reimagined and added back the Debbie leaning on the counter scene.",
+      "target": "- 重新设计并恢复Debbie倚着台面的场景。{#ssct_changelog}",
+      "source_line": 169,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Rewrote and added a new animation to the evening scene with Debbie.{#ssct_changelog}",
+      "before": "- Rewrote and added a new animation to the evening scene with Debbie.",
+      "target": "- 重写与Debbie的晚间场景，并加入一段新动画。{#ssct_changelog}",
+      "source_line": 170,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Introduced a new random encounter with Debbie in the basement.{#ssct_changelog}",
+      "before": "- Introduced a new random encounter with Debbie in the basement.",
+      "target": "- 新增与Debbie在地下室的随机邂逅。{#ssct_changelog}",
+      "source_line": 171,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Rebuilt Debbie's progressive shower events and added to cookie jar.{#ssct_changelog}",
+      "before": "- Rebuilt Debbie's progressive shower events and added to cookie jar.",
+      "target": "- 重建Debbie逐步发展的淋浴事件，并加入角色图鉴。{#ssct_changelog}",
+      "source_line": 172,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reimplemented main story up to and including buying vehicles.{#ssct_changelog}",
+      "before": "- Reimplemented main story up to and including buying vehicles.",
+      "target": "- 重新实现主线，直至购买车辆的部分。{#ssct_changelog}",
+      "source_line": 173,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added the repeatable version of getting caught with Debbie's pants.{#ssct_changelog}",
+      "before": "- Added the repeatable version of getting caught with Debbie's pants.",
+      "target": "- 加入拿着Debbie裤子被撞见事件的可重复版本。{#ssct_changelog}",
+      "source_line": 174,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Enabled hand-holding in Debbie's mall visits, including when pregnant.{#ssct_changelog}",
+      "before": "- Enabled hand-holding in Debbie's mall visits, including when pregnant.",
+      "target": "- 允许在与Debbie逛商场时牵手，孕期也可以。{#ssct_changelog}",
+      "source_line": 175,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Developed capability to prevent unwanted visitors to Anon's bedroom.{#ssct_changelog}",
+      "before": "- Developed capability to prevent unwanted visitors to Anon's bedroom.",
+      "target": "- 新增阻止不受欢迎的访客进入Anon卧室的功能。{#ssct_changelog}",
+      "source_line": 176,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Inadvertently caused playtest team to found {i}The Cult of the Chair{/i}.{#ssct_changelog}",
+      "before": "- Inadvertently caused playtest team to found {i}The Cult of the Chair{/i}.",
+      "target": "- 无意中促使测试团队创立了{i}椅子神教{/i}。{#ssct_changelog}",
+      "source_line": 177,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Rolled meeting Maria into the quest where Anon is hired as a delivery boy.{#ssct_changelog}",
+      "before": "- Rolled meeting Maria into the quest where Anon is hired as a delivery boy.",
+      "target": "- 将初次认识Maria的事件并入Anon被雇为送货员的任务。{#ssct_changelog}",
+      "source_line": 178,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Split out Maria's hair flower so it can be oriented correctly.{#ssct_changelog}",
+      "before": "- Split out Maria's hair flower so it can be oriented correctly.",
+      "target": "- 将Maria头发上的花拆为独立资源，使其朝向能够正确调整。{#ssct_changelog}",
+      "source_line": 179,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Established the base for Maria's button dialogue options.{#ssct_changelog}",
+      "before": "- Established the base for Maria's button dialogue options.",
+      "target": "- 建立Maria交互按钮对话选项的基础。{#ssct_changelog}",
+      "source_line": 180,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated the repairing Debbie's car quest to support visiting Josie in person.{#ssct_changelog}",
+      "before": "- Updated the repairing Debbie's car quest to support visiting Josie in person.",
+      "target": "- 更新修理Debbie汽车的任务，支持当面拜访Josie。{#ssct_changelog}",
+      "source_line": 181,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Installed basic functionality for the car dealership.{#ssct_changelog}",
+      "before": "- Installed basic functionality for the car dealership.",
+      "target": "- 加入车行的基本功能。{#ssct_changelog}",
+      "source_line": 182,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved Josephine face art, especially lighting of her teeth.{#ssct_changelog}",
+      "before": "- Improved Josephine face art, especially lighting of her teeth.",
+      "target": "- 改进Josephine的面部美术，尤其是牙齿的光照。{#ssct_changelog}",
+      "source_line": 183,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Hooked up buttons and schedules for the various dealership employees.{#ssct_changelog}",
+      "before": "- Hooked up buttons and schedules for the various dealership employees.",
+      "target": "- 接入车行多名员工的交互按钮和日程。{#ssct_changelog}",
+      "source_line": 184,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Published \"Muffdiver\" magazine and allowed it to be viewed in the inventory.{#ssct_changelog}",
+      "before": "- Published \"Muffdiver\" magazine and allowed it to be viewed in the inventory.",
+      "target": "- 推出“Muffdiver”杂志，并允许在物品栏中查看。{#ssct_changelog}",
+      "source_line": 185,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Implemented easy difficulty to automatically skip some mini games.{#ssct_changelog}",
+      "before": "- Implemented easy difficulty to automatically skip some mini games.",
+      "target": "- 加入简单难度，自动跳过部分小游戏。{#ssct_changelog}",
+      "source_line": 186,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Changed the tutorial to only trigger if it has already been seen.{#ssct_changelog}",
+      "before": "- Changed the tutorial to only trigger if it has already been seen.",
+      "target": "- 调整教程，使其仅在此前已经看过时触发。{#ssct_changelog}",
+      "source_line": 187,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restaged Debbie's kitchen dialogue to better reflect button position.{#ssct_changelog}",
+      "before": "- Restaged Debbie's kitchen dialogue to better reflect button position.",
+      "target": "- 重新安排Debbie厨房对话的场景，使其更符合按钮位置。{#ssct_changelog}",
+      "source_line": 188,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Touched up art for some of the pizzeria and dealership locations.{#ssct_changelog}",
+      "before": "- Touched up art for some of the pizzeria and dealership locations.",
+      "target": "- 润色披萨店和车行部分地点的美术。{#ssct_changelog}",
+      "source_line": 189,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Finished removing old Anon art from Jenny's photo quest.{#ssct_changelog}",
+      "before": "- Finished removing old Anon art from Jenny's photo quest.",
+      "target": "- 完成Jenny照片任务中旧版Anon美术的替换。{#ssct_changelog}",
+      "source_line": 190,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tweaked a couple of Debbie quest reminders to not block her button.{#ssct_changelog}",
+      "before": "- Tweaked a couple of Debbie quest reminders to not block her button.",
+      "target": "- 微调Debbie的两处任务提醒，避免阻塞她的交互按钮。{#ssct_changelog}",
+      "source_line": 191,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Addressed Jenny referencing payment that may never have occurred.{#ssct_changelog}",
+      "before": "- Addressed Jenny referencing payment that may never have occurred.",
+      "target": "- 修正Jenny提到一笔可能从未发生的付款的问题。{#ssct_changelog}",
+      "source_line": 192,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Stopped Debbie trying to cook during the helping around the house quest.{#ssct_changelog}",
+      "before": "- Stopped Debbie trying to cook during the helping around the house quest.",
+      "target": "- 阻止Debbie在帮忙做家务任务期间尝试做饭。{#ssct_changelog}",
+      "source_line": 193,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Ensured Anon eventually gets wet when showering with Jenny.{#ssct_changelog}",
+      "before": "- Ensured Anon eventually gets wet when showering with Jenny.",
+      "target": "- 确保Anon与Jenny一起洗澡时最终会被淋湿。{#ssct_changelog}",
+      "source_line": 194,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Optimised rig attribute preprocessing and added a feature to aid organisation.{#ssct_changelog}",
+      "before": "- Optimised rig attribute preprocessing and added a feature to aid organisation.",
+      "target": "- 优化角色绑定属性的预处理，并加入方便组织管理的功能。{#ssct_changelog}",
+      "source_line": 195,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Made it much easier to share sets of assets between rig poses.{#ssct_changelog}",
+      "before": "- Made it much easier to share sets of assets between rig poses.",
+      "target": "- 让不同角色绑定姿势之间共享资源组更加容易。{#ssct_changelog}",
+      "source_line": 196,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed soft-lock in Debbie pool quest to when Jenny was using the bathroom.{#ssct_changelog}",
+      "before": "- Fixed soft-lock in Debbie pool quest to when Jenny was using the bathroom.",
+      "target": "- 修复Jenny使用浴室时Debbie泳池任务发生的软锁。{#ssct_changelog}",
+      "source_line": 197,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Prevented bad player state after first Jenny telescope quest.{#ssct_changelog}",
+      "before": "- Prevented bad player state after first Jenny telescope quest.",
+      "target": "- 防止Jenny首次望远镜任务结束后玩家状态异常。{#ssct_changelog}",
+      "source_line": 198,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Repaired posing for Debbie drying her breasts just outside the shower.{#ssct_changelog}",
+      "before": "- Repaired posing for Debbie drying her breasts just outside the shower.",
+      "target": "- 修复Debbie刚走出淋浴时擦拭胸部的姿势。{#ssct_changelog}",
+      "source_line": 199,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Cleaned up scene previews that may now be unlocked normally.{#ssct_changelog}",
+      "before": "- Cleaned up scene previews that may now be unlocked normally.",
+      "target": "- 清理现在已经可以正常解锁的场景预览。{#ssct_changelog}",
+      "source_line": 200,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Upgraded Ren'Py to version 8.5.0.{#ssct_changelog}",
+      "before": "- Upgraded Ren'Py to version 8.5.0.",
+      "target": "- 将Ren'Py升级至8.5.0版。{#ssct_changelog}",
+      "source_line": 201,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various metadata additions, typo fixes, and consistency tweaks.{#ssct_changelog}",
+      "before": "- Various metadata additions, typo fixes, and consistency tweaks.",
+      "target": "- 补充多项元数据，修复拼写并微调一致性。{#ssct_changelog}",
+      "source_line": 202,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed save migrations for saves made prior to 21.0.0-wip.5252.{#ssct_changelog}",
+      "before": "- Fixed save migrations for saves made prior to 21.0.0-wip.5252.",
+      "target": "- 修复对21.0.0-wip.5252之前存档的迁移。{#ssct_changelog}",
+      "source_line": 207,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added missing dialogue arm asset for Debbie while pregnant.{#ssct_changelog}",
+      "before": "- Added missing dialogue arm asset for Debbie while pregnant.",
+      "target": "- 补上Debbie孕期对话中缺失的手臂资源。{#ssct_changelog}",
+      "source_line": 208,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Repaired import chain that caused bad virtual screen size and broken rigs.{#ssct_changelog}",
+      "before": "- Repaired import chain that caused bad virtual screen size and broken rigs.",
+      "target": "- 修复导致虚拟屏幕尺寸异常和角色绑定损坏的导入链。{#ssct_changelog}",
+      "source_line": 213,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed exception being thrown the first time Jenny's GFE event is played.{#ssct_changelog}",
+      "before": "- Fixed exception being thrown the first time Jenny's GFE event is played.",
+      "target": "- 修复首次游玩Jenny的GFE事件时抛出异常的问题。{#ssct_changelog}",
+      "source_line": 214,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Capped off Debbie's route with her new original finale quest.{#ssct_changelog}",
+      "before": "- Capped off Debbie's route with her new original finale quest.",
+      "target": "- 为Debbie支线加入全新原创的最终任务，完成支线收尾。{#ssct_changelog}",
+      "source_line": 219,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added a pregnancy cycle for Debbie, including various new dialogue scenes.{#ssct_changelog}",
+      "before": "- Added a pregnancy cycle for Debbie, including various new dialogue scenes.",
+      "target": "- 为Debbie加入怀孕周期，包括多段新对话场景。{#ssct_changelog}",
+      "source_line": 220,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created a new Japanese restaurant location and two new workers within.{#ssct_changelog}",
+      "before": "- Created a new Japanese restaurant location and two new workers within.",
+      "target": "- 新增日式餐厅地点及其中的两名员工。{#ssct_changelog}",
+      "source_line": 221,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Introduced two new characters in restaurant with button dialogue.{#ssct_changelog}",
+      "before": "- Introduced two new characters in restaurant with button dialogue.",
+      "target": "- 在餐厅引入两名新角色，并提供交互按钮对话。{#ssct_changelog}",
+      "source_line": 222,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded art for Jenny and Debbie to support cross route pregnancy.{#ssct_changelog}",
+      "before": "- Expanded art for Jenny and Debbie to support cross route pregnancy.",
+      "target": "- 扩展Jenny和Debbie的美术，以支持跨支线的怀孕状态。{#ssct_changelog}",
+      "source_line": 223,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Made assets for characters sleeping in recovery rooms at night.{#ssct_changelog}",
+      "before": "- Made assets for characters sleeping in recovery rooms at night.",
+      "target": "- 制作角色夜间在休养室睡觉的资源。{#ssct_changelog}",
+      "source_line": 224,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Installed cribs in character bedrooms for when they are nursing.{#ssct_changelog}",
+      "before": "- Installed cribs in character bedrooms for when they are nursing.",
+      "target": "- 在角色卧室中加入育儿时使用的婴儿床。{#ssct_changelog}",
+      "source_line": 225,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Introduced simulation mechanics to support dynamic motion in aquarium.{#ssct_changelog}",
+      "before": "- Introduced simulation mechanics to support dynamic motion in aquarium.",
+      "target": "- 引入模拟机制，支持水族箱中的动态运动。{#ssct_changelog}",
+      "source_line": 226,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Upgraded animation support in sets for smoother restaurant water feature.{#ssct_changelog}",
+      "before": "- Upgraded animation support in sets for smoother restaurant water feature.",
+      "target": "- 改进场景的动画支持，使餐厅水景更加流畅。{#ssct_changelog}",
+      "source_line": 227,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Cleaned up some dynamic shot definitions to make them more composable.{#ssct_changelog}",
+      "before": "- Cleaned up some dynamic shot definitions to make them more composable.",
+      "target": "- 整理部分动态镜头定义，使其更便于组合使用。{#ssct_changelog}",
+      "source_line": 228,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Prevented pregnancies stalling indefinitely in some edge cases.{#ssct_changelog}",
+      "before": "- Prevented pregnancies stalling indefinitely in some edge cases.",
+      "target": "- 防止某些边缘情况下怀孕进程无限停滞。{#ssct_changelog}",
+      "source_line": 229,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Wrote a custom mesh generator to support warping in restaurant menu.{#ssct_changelog}",
+      "before": "- Wrote a custom mesh generator to support warping in restaurant menu.",
+      "target": "- 编写自定义网格生成器，支持餐厅菜单的变形效果。{#ssct_changelog}",
+      "source_line": 230,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Stopped teleport effect in some unforeseen scene trigger scenarios.{#ssct_changelog}",
+      "before": "- Stopped teleport effect in some unforeseen scene trigger scenarios.",
+      "target": "- 消除部分未预料到的场景触发情况下出现的瞬移效果。{#ssct_changelog}",
+      "source_line": 231,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Optimised button routing for characters to make them more extensible.{#ssct_changelog}",
+      "before": "- Optimised button routing for characters to make them more extensible.",
+      "target": "- 优化角色按钮路由，使其更易扩展。{#ssct_changelog}",
+      "source_line": 232,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed Jenny becoming invisible in cam show videos while pregnant.{#ssct_changelog}",
+      "before": "- Fixed Jenny becoming invisible in cam show videos while pregnant.",
+      "target": "- 修复Jenny孕期在色情直播视频中不可见的问题。{#ssct_changelog}",
+      "source_line": 233,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Inserted missing rails dialogue in trip to Pink with Jenny.{#ssct_changelog}",
+      "before": "- Inserted missing rails dialogue in trip to Pink with Jenny.",
+      "target": "- 补上与Jenny前往粉色诱惑时缺失的引导对话。{#ssct_changelog}",
+      "source_line": 234,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tweaked Kassy's button dialogue to support choosing a topic.{#ssct_changelog}",
+      "before": "- Tweaked Kassy's button dialogue to support choosing a topic.",
+      "target": "- 微调Kassy交互按钮的对话，支持选择话题。{#ssct_changelog}",
+      "source_line": 235,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Addressed misplaced basket abandonment prompt in Cupid.{#ssct_changelog}",
+      "before": "- Addressed misplaced basket abandonment prompt in Cupid.",
+      "target": "- 修正丘比特中放弃购物篮提示出现位置不当的问题。{#ssct_changelog}",
+      "source_line": 236,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Ensured Diane's shovel quest cannot leave Jenny in a broken state.{#ssct_changelog}",
+      "before": "- Ensured Diane's shovel quest cannot leave Jenny in a broken state.",
+      "target": "- 确保Diane的铲子任务不会使Jenny陷入异常状态。{#ssct_changelog}",
+      "source_line": 237,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Corrected clipping of frames when using screen shake effects.{#ssct_changelog}",
+      "before": "- Corrected clipping of frames when using screen shake effects.",
+      "target": "- 修正屏幕震动效果造成的画面裁切。{#ssct_changelog}",
+      "source_line": 238,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various typo corrections, presence checks, and context consistency fixes.{#ssct_changelog}",
+      "before": "- Various typo corrections, presence checks, and context consistency fixes.",
+      "target": "- 修复多处拼写、在场判断和语境一致性问题。{#ssct_changelog}",
+      "source_line": 239,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Continued Debbie's route with one original, and one reworked quest.{#ssct_changelog}",
+      "before": "- Continued Debbie's route with one original, and one reworked quest.",
+      "target": "- 继续Debbie支线，加入一个原创任务和一个重做任务。{#ssct_changelog}",
+      "source_line": 244,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Inserted missing diary entry after Jenny catches Anon during Debbie boobjob.{#ssct_changelog}",
+      "before": "- Inserted missing diary entry after Jenny catches Anon during Debbie boobjob.",
+      "target": "- 补上Jenny撞见Anon接受Debbie乳交后缺失的日记条目。{#ssct_changelog}",
+      "source_line": 245,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed issue with some blurred assets being cut-off too early.{#ssct_changelog}",
+      "before": "- Fixed issue with some blurred assets being cut-off too early.",
+      "target": "- 修复部分模糊资源过早被裁掉的问题。{#ssct_changelog}",
+      "source_line": 246,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded replay of Debbie's boobjob scene to include more of the lewd preamble.{#ssct_changelog}",
+      "before": "- Expanded replay of Debbie's boobjob scene to include more of the lewd preamble.",
+      "target": "- 扩展Debbie乳交场景的回放，包含更多成人前戏内容。{#ssct_changelog}",
+      "source_line": 247,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added hide button to quick menu on touch devices where other options are unavailable.{#ssct_changelog}",
+      "before": "- Added hide button to quick menu on touch devices where other options are unavailable.",
+      "target": "- 在其他选项不可用的触屏设备快捷菜单中加入隐藏按钮。{#ssct_changelog}",
+      "source_line": 248,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored Debbie's bush in lotion massage animation.{#ssct_changelog}",
+      "before": "- Restored Debbie's bush in lotion massage animation.",
+      "target": "- 恢复涂乳液按摩动画中Debbie的阴毛。{#ssct_changelog}",
+      "source_line": 249,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Wrote new shader in order to visually communicate flashbacks.{#ssct_changelog}",
+      "before": "- Wrote new shader in order to visually communicate flashbacks.",
+      "target": "- 编写新着色器，用视觉效果表达闪回。{#ssct_changelog}",
+      "source_line": 250,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reworked Debbie's bedroom location with improved art.{#ssct_changelog}",
+      "before": "- Reworked Debbie's bedroom location with improved art.",
+      "target": "- 重做Debbie卧室地点，改进美术。{#ssct_changelog}",
+      "source_line": 251,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated art of Debbie hovering at the door when entering Anon's room.{#ssct_changelog}",
+      "before": "- Updated art of Debbie hovering at the door when entering Anon's room.",
+      "target": "- 更新Debbie进入Anon房间时在门口徘徊的美术。{#ssct_changelog}",
+      "source_line": 252,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved character art for Lily and Judith.{#ssct_changelog}",
+      "before": "- Improved character art for Lily and Judith.",
+      "target": "- 改进Lily和Judith的角色美术。{#ssct_changelog}",
+      "source_line": 253,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Drew new TV channel variant in order to better match narrative use.{#ssct_changelog}",
+      "before": "- Drew new TV channel variant in order to better match narrative use.",
+      "target": "- 绘制新的电视频道变体，使其更符合剧情用途。{#ssct_changelog}",
+      "source_line": 254,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created several new variant UI assets.{#ssct_changelog}",
+      "before": "- Created several new variant UI assets.",
+      "target": "- 制作多项新的界面资源变体。{#ssct_changelog}",
+      "source_line": 255,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Blocked a teleportation bug when speaking to Annie during Miss Okita's serum quest.{#ssct_changelog}",
+      "before": "- Blocked a teleportation bug when speaking to Annie during Miss Okita's serum quest.",
+      "target": "- 修复Okita老师药剂任务中与Annie交谈时发生的瞬移错误。{#ssct_changelog}",
+      "source_line": 256,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Corrected oversight in pizza mini game where zero deliveries would cause crash.{#ssct_changelog}",
+      "before": "- Corrected oversight in pizza mini game where zero deliveries would cause crash.",
+      "target": "- 修正披萨小游戏中零次配送会导致崩溃的遗漏。{#ssct_changelog}",
+      "source_line": 257,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Resolved conflict between Miss Dewitt and Miss Ross routes when collecting planks.{#ssct_changelog}",
+      "before": "- Resolved conflict between Miss Dewitt and Miss Ross routes when collecting planks.",
+      "target": "- 解决收集木板时Dewitt老师与Ross老师支线的冲突。{#ssct_changelog}",
+      "source_line": 258,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Ensured replay of Debbie blowjob scene in Anon's room correctly unlocks.{#ssct_changelog}",
+      "before": "- Ensured replay of Debbie blowjob scene in Anon's room correctly unlocks.",
+      "target": "- 确保Debbie在Anon房间中的口交场景回放正确解锁。{#ssct_changelog}",
+      "source_line": 259,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Applied correct tint to Anon's bedsheets during Debbie's visits.{#ssct_changelog}",
+      "before": "- Applied correct tint to Anon's bedsheets during Debbie's visits.",
+      "target": "- Debbie来访时，为Anon的床单应用正确色调。{#ssct_changelog}",
+      "source_line": 260,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Attempted to support two-decade old hardware in equirectangular projection shader.{#ssct_changelog}",
+      "before": "- Attempted to support two-decade old hardware in equirectangular projection shader.",
+      "target": "- 尝试在等距柱状投影着色器中支持二十年前的硬件。{#ssct_changelog}",
+      "source_line": 261,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Upgraded Ren'Py to version 8.4.1, and made new accessibility options available.{#ssct_changelog}",
+      "before": "- Upgraded Ren'Py to version 8.4.1, and made new accessibility options available.",
+      "target": "- 将Ren'Py升级至8.4.1版，并开放新的辅助功能选项。{#ssct_changelog}",
+      "source_line": 262,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various minor posing improvements, metadata adjustments, and asset tweaks.{#ssct_changelog}",
+      "before": "- Various minor posing improvements, metadata adjustments, and asset tweaks.",
+      "target": "- 微调多处角色姿势、元数据和资源。{#ssct_changelog}",
+      "source_line": 263,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added one original, one reworked, and one upgraded quest to Debbie's route.{#ssct_changelog}",
+      "before": "- Added one original, one reworked, and one upgraded quest to Debbie's route.",
+      "target": "- 为Debbie支线加入一个原创任务、一个重做任务和一个升级任务。{#ssct_changelog}",
+      "source_line": 268,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Continued the main story with two more upgraded quests and pizza mini game.{#ssct_changelog}",
+      "before": "- Continued the main story with two more upgraded quests and pizza mini game.",
+      "target": "- 继续主线，加入两个升级任务和披萨小游戏。{#ssct_changelog}",
+      "source_line": 269,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded Debbie's recurring shower event with another level of escalation.{#ssct_changelog}",
+      "before": "- Expanded Debbie's recurring shower event with another level of escalation.",
+      "target": "- 扩展Debbie可重复的淋浴事件，加入更进一步的阶段。{#ssct_changelog}",
+      "source_line": 270,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Included two new animations, for future quests, in shower previews section.{#ssct_changelog}",
+      "before": "- Included two new animations, for future quests, in shower previews section.",
+      "target": "- 在淋浴预览区域加入两段用于未来任务的新动画。{#ssct_changelog}",
+      "source_line": 271,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Made previewable animations available, already unlocked, to the cookie jar.{#ssct_changelog}",
+      "before": "- Made previewable animations available, already unlocked, to the cookie jar.",
+      "target": "- 将可预览的动画以已解锁状态加入角色图鉴。{#ssct_changelog}",
+      "source_line": 272,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Moved rig system over to new positioning system.{#ssct_changelog}",
+      "before": "- Moved rig system over to new positioning system.",
+      "target": "- 将角色绑定系统迁移至新的定位系统。{#ssct_changelog}",
+      "source_line": 273,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Overhauled how transitions are managed to better facilitate future usage.{#ssct_changelog}",
+      "before": "- Overhauled how transitions are managed to better facilitate future usage.",
+      "target": "- 重做转场管理方式，方便未来使用。{#ssct_changelog}",
+      "source_line": 274,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Drew many more art assets for Anon, Debbie, Dimitri, Igor, and Kassy.{#ssct_changelog}",
+      "before": "- Drew many more art assets for Anon, Debbie, Dimitri, Igor, and Kassy.",
+      "target": "- 为Anon、Debbie、Dimitri、Igor和Kassy绘制更多美术资源。{#ssct_changelog}",
+      "source_line": 275,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Revisited Jenny cam show handjob animation and added more frames.{#ssct_changelog}",
+      "before": "- Revisited Jenny cam show handjob animation and added more frames.",
+      "target": "- 重新打磨Jenny色情直播中的手交动画，增加画面帧。{#ssct_changelog}",
+      "source_line": 276,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Enhanced Jenny shower blowjob scene with more cum frames and other tweaks.{#ssct_changelog}",
+      "before": "- Enhanced Jenny shower blowjob scene with more cum frames and other tweaks.",
+      "target": "- 改进Jenny淋浴口交场景，增加射精画面帧并进行其他微调。{#ssct_changelog}",
+      "source_line": 277,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Worked on adding variety to Summerville in the form of more crowd variants.{#ssct_changelog}",
+      "before": "- Worked on adding variety to Summerville in the form of more crowd variants.",
+      "target": "- 通过更多人群变体，为夏日镇增添变化。{#ssct_changelog}",
+      "source_line": 278,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reworked washroom and second floor concourse of the mall with more details.{#ssct_changelog}",
+      "before": "- Reworked washroom and second floor concourse of the mall with more details.",
+      "target": "- 重做商场洗手间和二楼大厅，增加细节。{#ssct_changelog}",
+      "source_line": 279,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created art for a new TV show for use in Debbie's route.{#ssct_changelog}",
+      "before": "- Created art for a new TV show for use in Debbie's route.",
+      "target": "- 为Debbie支线制作新电视节目的美术。{#ssct_changelog}",
+      "source_line": 280,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Extended the Cupid store location with a new storage room.{#ssct_changelog}",
+      "before": "- Extended the Cupid store location with a new storage room.",
+      "target": "- 为丘比特商店新增储藏室。{#ssct_changelog}",
+      "source_line": 281,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Plumbed in the next stage of Debbie's pool button.{#ssct_changelog}",
+      "before": "- Plumbed in the next stage of Debbie's pool button.",
+      "target": "- 接入Debbie泳池交互按钮的下一阶段。{#ssct_changelog}",
+      "source_line": 282,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Installed water VFX for shower preview animation.{#ssct_changelog}",
+      "before": "- Installed water VFX for shower preview animation.",
+      "target": "- 为淋浴预览动画加入水流视觉特效。{#ssct_changelog}",
+      "source_line": 283,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed part of Jenny's initial sex cam show quest being accidentally skipped.{#ssct_changelog}",
+      "before": "- Fixed part of Jenny's initial sex cam show quest being accidentally skipped.",
+      "target": "- 修复Jenny首次性爱直播任务中的部分内容被意外跳过的问题。{#ssct_changelog}",
+      "source_line": 284,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tweaked second dream sequence in Debbie's route to be more performant.{#ssct_changelog}",
+      "before": "- Tweaked second dream sequence in Debbie's route to be more performant.",
+      "target": "- 微调Debbie支线的第二段梦境，提高运行性能。{#ssct_changelog}",
+      "source_line": 285,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Allowed photo booth to be interacted with once again.{#ssct_changelog}",
+      "before": "- Allowed photo booth to be interacted with once again.",
+      "target": "- 恢复照相亭的交互功能。{#ssct_changelog}",
+      "source_line": 286,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Prevented minor state corruption when clearing the shower at night.{#ssct_changelog}",
+      "before": "- Prevented minor state corruption when clearing the shower at night.",
+      "target": "- 防止夜间清理淋浴状态时发生轻微的状态损坏。{#ssct_changelog}",
+      "source_line": 287,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Guarded against pathological player behaviour in Roxxy visit quest.{#ssct_changelog}",
+      "before": "- Guarded against pathological player behaviour in Roxxy visit quest.",
+      "target": "- 防止Roxxy来访任务中玩家的极端操作引发异常。{#ssct_changelog}",
+      "source_line": 288,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various minor posing improvements.{#ssct_changelog}",
+      "before": "- Various minor posing improvements.",
+      "target": "- 微调多处角色姿势。{#ssct_changelog}",
+      "source_line": 289,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed crash in Debbie's mall trip event if Anon was busy the night prior.{#ssct_changelog}",
+      "before": "- Fixed crash in Debbie's mall trip event if Anon was busy the night prior.",
+      "target": "- 修复Anon前一晚忙于其他事情时Debbie逛商场事件会崩溃的问题。{#ssct_changelog}",
+      "source_line": 294,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Corrected minor typo in reminder dialogue for Debbie's mall trip event.{#ssct_changelog}",
+      "before": "- Corrected minor typo in reminder dialogue for Debbie's mall trip event.",
+      "target": "- 修正Debbie逛商场事件提醒对话中的轻微拼写错误。{#ssct_changelog}",
+      "source_line": 295,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Continued Debbie's route with one original, two reworked, and two upgraded quests.{#ssct_changelog}",
+      "before": "- Continued Debbie's route with one original, two reworked, and two upgraded quests.",
+      "target": "- 继续Debbie支线，加入一个原创任务、两个重做任务和两个升级任务。{#ssct_changelog}",
+      "source_line": 300,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added another level of escalation into Debbie's recurring shower event.{#ssct_changelog}",
+      "before": "- Added another level of escalation into Debbie's recurring shower event.",
+      "target": "- 为Debbie可重复的淋浴事件加入更进一步的阶段。{#ssct_changelog}",
+      "source_line": 301,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Allowed three new animations, intended for future quests, to be previewed early.{#ssct_changelog}",
+      "before": "- Allowed three new animations, intended for future quests, to be previewed early.",
+      "target": "- 允许提前预览三段原本用于未来任务的新动画。{#ssct_changelog}",
+      "source_line": 302,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored the first two quests of Diane's route, including gardening mini game.{#ssct_changelog}",
+      "before": "- Restored the first two quests of Diane's route, including gardening mini game.",
+      "target": "- 恢复Diane支线的前两个任务，包括园艺小游戏。{#ssct_changelog}",
+      "source_line": 303,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Wired up Diane's early game button in her garden.{#ssct_changelog}",
+      "before": "- Wired up Diane's early game button in her garden.",
+      "target": "- 接入Diane在花园中的游戏前期交互按钮。{#ssct_changelog}",
+      "source_line": 304,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Overhauled a large number of assets and scenes that occur on Debbie's couch.{#ssct_changelog}",
+      "before": "- Overhauled a large number of assets and scenes that occur on Debbie's couch.",
+      "target": "- 重做大量发生在Debbie沙发上的美术资源和场景。{#ssct_changelog}",
+      "source_line": 305,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded the forest slightly. Don't worry about it, nothing to see there. >_>;;{#ssct_changelog}",
+      "before": "- Expanded the forest slightly. Don't worry about it, nothing to see there. >_>;;",
+      "target": "- 稍微扩展了森林。别担心，那里没什么好看的。>_>;;{#ssct_changelog}",
+      "source_line": 306,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created a new blend mode to help simulate dimming of light sources.{#ssct_changelog}",
+      "before": "- Created a new blend mode to help simulate dimming of light sources.",
+      "target": "- 新增混合模式，帮助模拟光源变暗的效果。{#ssct_changelog}",
+      "source_line": 307,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Combined some cutscene assets, allowing art to be upgraded while saving space.{#ssct_changelog}",
+      "before": "- Combined some cutscene assets, allowing art to be upgraded while saving space.",
+      "target": "- 合并部分过场资源，在节省空间的同时升级美术。{#ssct_changelog}",
+      "source_line": 308,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Slowed speed of vertical pan the first time Anon dreams of Debbie.{#ssct_changelog}",
+      "before": "- Slowed speed of vertical pan the first time Anon dreams of Debbie.",
+      "target": "- 放慢Anon首次梦见Debbie时镜头的垂直移动速度。{#ssct_changelog}",
+      "source_line": 309,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Mitigated issue impacting cancellation of auto-nav in deferred events.{#ssct_changelog}",
+      "before": "- Mitigated issue impacting cancellation of auto-nav in deferred events.",
+      "target": "- 缓解影响延后事件中取消自动导航的问题。{#ssct_changelog}",
+      "source_line": 310,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Adjusted some character information in the contacts app, and added Diane.{#ssct_changelog}",
+      "before": "- Adjusted some character information in the contacts app, and added Diane.",
+      "target": "- 调整联系人应用中的部分角色信息，并加入Diane。{#ssct_changelog}",
+      "source_line": 311,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Spaced out the timeline between a couple of existing Debbie quests.{#ssct_changelog}",
+      "before": "- Spaced out the timeline between a couple of existing Debbie quests.",
+      "target": "- 拉开Debbie两个现有任务之间的时间间隔。{#ssct_changelog}",
+      "source_line": 312,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Made a minor cutscene variation for the lotion variant of Debbie's mall event.{#ssct_changelog}",
+      "before": "- Made a minor cutscene variation for the lotion variant of Debbie's mall event.",
+      "target": "- 为Debbie商场事件的乳液变体制作小幅过场变化。{#ssct_changelog}",
+      "source_line": 313,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Applied patch to prevent incorrect rendering of some visual effects on Android.{#ssct_changelog}",
+      "before": "- Applied patch to prevent incorrect rendering of some visual effects on Android.",
+      "target": "- 应用补丁，防止Android上部分视觉特效渲染错误。{#ssct_changelog}",
+      "source_line": 314,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tweaked the positioning system to work better with nested character rigs.{#ssct_changelog}",
+      "before": "- Tweaked the positioning system to work better with nested character rigs.",
+      "target": "- 微调定位系统，使其更好地支持嵌套角色绑定。{#ssct_changelog}",
+      "source_line": 315,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Factored out some magic numbers to aid readability as the codebase further expands.{#ssct_changelog}",
+      "before": "- Factored out some magic numbers to aid readability as the codebase further expands.",
+      "target": "- 提取部分魔法数字，提高代码库扩展时的可读性。{#ssct_changelog}",
+      "source_line": 316,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated some nighttime Jenny scenes with a tint to better fit the time of day.{#ssct_changelog}",
+      "before": "- Updated some nighttime Jenny scenes with a tint to better fit the time of day.",
+      "target": "- 为Jenny的部分夜间场景调整色调，使其更符合时段。{#ssct_changelog}",
+      "source_line": 317,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed incorrect zoning of Diane's house which could break some quests.{#ssct_changelog}",
+      "before": "- Fixed incorrect zoning of Diane's house which could break some quests.",
+      "target": "- 修复Diane房屋区域划分错误导致部分任务异常的问题。{#ssct_changelog}",
+      "source_line": 318,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Resolved a soft-lock in Miss Okita's route concerning Mrs. Smith's office.{#ssct_changelog}",
+      "before": "- Resolved a soft-lock in Miss Okita's route concerning Mrs. Smith's office.",
+      "target": "- 解决Okita老师支线中涉及Smith太太办公室的软锁。{#ssct_changelog}",
+      "source_line": 319,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Altered projection shader to circumvent very rare bug in some graphics drivers.{#ssct_changelog}",
+      "before": "- Altered projection shader to circumvent very rare bug in some graphics drivers.",
+      "target": "- 修改投影着色器，绕过部分显卡驱动中的极罕见错误。{#ssct_changelog}",
+      "source_line": 320,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved text layout of background information in contacts app.{#ssct_changelog}",
+      "before": "- Improved text layout of background information in contacts app.",
+      "target": "- 改进联系人应用中人物背景信息的文字布局。{#ssct_changelog}",
+      "source_line": 321,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Corrected various typos in existing dialogue.{#ssct_changelog}",
+      "before": "- Corrected various typos in existing dialogue.",
+      "target": "- 修正现有对话中的多处拼写错误。{#ssct_changelog}",
+      "source_line": 322,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Increased resolution of assets used in Anon's nightmare.{#ssct_changelog}",
+      "before": "- Increased resolution of assets used in Anon's nightmare.",
+      "target": "- 提高Anon噩梦中所用资源的分辨率。{#ssct_changelog}",
+      "source_line": 327,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed Jenny not always rendering correctly during Anon's nightmare.{#ssct_changelog}",
+      "before": "- Fixed Jenny not always rendering correctly during Anon's nightmare.",
+      "target": "- 修复Anon噩梦中Jenny有时渲染不正确的问题。{#ssct_changelog}",
+      "source_line": 328,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored translation support in choice menus.{#ssct_changelog}",
+      "before": "- Restored translation support in choice menus.",
+      "target": "- 恢复选项菜单的翻译支持。{#ssct_changelog}",
+      "source_line": 329,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Hid duplicate Debbie that could appear in background of a few scenes.{#ssct_changelog}",
+      "before": "- Hid duplicate Debbie that could appear in background of a few scenes.",
+      "target": "- 隐藏部分场景背景中可能出现的重复Debbie。{#ssct_changelog}",
+      "source_line": 330,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed Debbie not always rendering correctly during Anon's panty flashback.{#ssct_changelog}",
+      "before": "- Fixed Debbie not always rendering correctly during Anon's panty flashback.",
+      "target": "- 修复Anon内裤闪回中Debbie有时渲染不正确的问题。{#ssct_changelog}",
+      "source_line": 335,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded Debbie's route with one original, three reworked, and six upgraded quests.{#ssct_changelog}",
+      "before": "- Expanded Debbie's route with one original, three reworked, and six upgraded quests.",
+      "target": "- 扩展Debbie支线，加入一个原创任务、三个重做任务和六个升级任务。{#ssct_changelog}",
+      "source_line": 340,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Created a new mall trip event with Debbie that evolves with her story.{#ssct_changelog}",
+      "before": "- Created a new mall trip event with Debbie that evolves with her story.",
+      "target": "- 新增与Debbie逛商场的事件，并随她的剧情发展而变化。{#ssct_changelog}",
+      "source_line": 341,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Moved over to using Debbie's new art when she appears in other routes.{#ssct_changelog}",
+      "before": "- Moved over to using Debbie's new art when she appears in other routes.",
+      "target": "- Debbie出现在其他支线时改用她的新版美术。{#ssct_changelog}",
+      "source_line": 342,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated Debbie's art in her button dialogue, including sleeping Debbie.{#ssct_changelog}",
+      "before": "- Updated Debbie's art in her button dialogue, including sleeping Debbie.",
+      "target": "- 更新Debbie交互按钮对话的美术，包括睡着的Debbie。{#ssct_changelog}",
+      "source_line": 343,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Rebuilt peeking on Debbie in the shower event with more new art.{#ssct_changelog}",
+      "before": "- Rebuilt peeking on Debbie in the shower event with more new art.",
+      "target": "- 加入更多新美术，重建偷看Debbie淋浴的事件。{#ssct_changelog}",
+      "source_line": 344,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Extended Debbie's schedule to rarely place her by the pool of an evening.{#ssct_changelog}",
+      "before": "- Extended Debbie's schedule to rarely place her by the pool of an evening.",
+      "target": "- 扩展Debbie的日程，让她偶尔在晚间出现在泳池边。{#ssct_changelog}",
+      "source_line": 345,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Built new x-ray system and began adding it to existing scenes.{#ssct_changelog}",
+      "before": "- Built new x-ray system and began adding it to existing scenes.",
+      "target": "- 建立新的透视系统，并开始加入现有场景。{#ssct_changelog}",
+      "source_line": 346,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Wrote up Frank and Bridget's background information for the phone.{#ssct_changelog}",
+      "before": "- Wrote up Frank and Bridget's background information for the phone.",
+      "target": "- 为手机编写Frank和Bridget的背景信息。{#ssct_changelog}",
+      "source_line": 347,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved dialogue hint when clicking on exterior garage door with key.{#ssct_changelog}",
+      "before": "- Improved dialogue hint when clicking on exterior garage door with key.",
+      "target": "- 改进持有钥匙时点击车库外门的对话提示。{#ssct_changelog}",
+      "source_line": 348,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Locked that lotion bottle in Debbie's drawer. For now.{#ssct_changelog}",
+      "before": "- Locked that lotion bottle in Debbie's drawer. For now.",
+      "target": "- 锁住Debbie抽屉里的那瓶乳液。暂时如此。{#ssct_changelog}",
+      "source_line": 349,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored correct hover effect to quick menu.{#ssct_changelog}",
+      "before": "- Restored correct hover effect to quick menu.",
+      "target": "- 恢复快捷菜单正确的悬浮效果。{#ssct_changelog}",
+      "source_line": 350,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Prevented quick load feature attempting to load incompatible saves.{#ssct_changelog}",
+      "before": "- Prevented quick load feature attempting to load incompatible saves.",
+      "target": "- 防止快速读档功能尝试载入不兼容存档。{#ssct_changelog}",
+      "source_line": 351,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Removed non-functional options from quick menu when viewing a replay.{#ssct_changelog}",
+      "before": "- Removed non-functional options from quick menu when viewing a replay.",
+      "target": "- 查看回放时移除快捷菜单中无法使用的选项。{#ssct_changelog}",
+      "source_line": 352,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Revisited animation system to improve stability, most notably during rollback.{#ssct_changelog}",
+      "before": "- Revisited animation system to improve stability, most notably during rollback.",
+      "target": "- 改进动画系统的稳定性，尤其是回滚时的表现。{#ssct_changelog}",
+      "source_line": 353,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Retooled mimic system to be more reliable and prediction friendly.{#ssct_changelog}",
+      "before": "- Retooled mimic system to be more reliable and prediction friendly.",
+      "target": "- 重整模仿系统，使其更可靠、更易进行资源预加载。{#ssct_changelog}",
+      "source_line": 354,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed edge-case migration issue when loading some saves from Preview 1.{#ssct_changelog}",
+      "before": "- Fixed edge-case migration issue when loading some saves from Preview 1.",
+      "target": "- 修复载入部分预览版1存档时出现的边缘迁移问题。{#ssct_changelog}",
+      "source_line": 355,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Guarded against Judith being able to break a Miss Ross quest.{#ssct_changelog}",
+      "before": "- Guarded against Judith being able to break a Miss Ross quest.",
+      "target": "- 防止Judith导致Ross老师的任务异常。{#ssct_changelog}",
+      "source_line": 356,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various small posing improvements to Debbie content from last preview.{#ssct_changelog}",
+      "before": "- Various small posing improvements to Debbie content from last preview.",
+      "target": "- 微调上一预览版Debbie内容中的多处角色姿势。{#ssct_changelog}",
+      "source_line": 357,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Ensured consistent view of hallway in Debbie's house during navigation.{#ssct_changelog}",
+      "before": "- Ensured consistent view of hallway in Debbie's house during navigation.",
+      "target": "- 确保导航时Debbie家中的走廊画面保持一致。{#ssct_changelog}",
+      "source_line": 358,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Adjusted timings of some ambient sounds to avoid hard cuts as they loop.{#ssct_changelog}",
+      "before": "- Adjusted timings of some ambient sounds to avoid hard cuts as they loop.",
+      "target": "- 调整部分环境音的时序，避免循环时突然中断。{#ssct_changelog}",
+      "source_line": 359,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Addressed issue where map music could linger into rails dialogue.{#ssct_changelog}",
+      "before": "- Addressed issue where map music could linger into rails dialogue.",
+      "target": "- 修复地图音乐持续到引导对话中的问题。{#ssct_changelog}",
+      "source_line": 360,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Dealt with flip-flop continuity issues in Jenny's telescope scenes.{#ssct_changelog}",
+      "before": "- Dealt with flip-flop continuity issues in Jenny's telescope scenes.",
+      "target": "- 处理Jenny望远镜场景中拖鞋前后不一致的问题。{#ssct_changelog}",
+      "source_line": 361,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Made sure the fake guitar is added to the wall properly in Melody's route.{#ssct_changelog}",
+      "before": "- Made sure the fake guitar is added to the wall properly in Melody's route.",
+      "target": "- 确保Melody支线中的假吉他正确添加到墙上。{#ssct_changelog}",
+      "source_line": 362,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Cobbled together a new shader to support equirectangular projection.{#ssct_changelog}",
+      "before": "- Cobbled together a new shader to support equirectangular projection.",
+      "target": "- 制作支持等距柱状投影的新着色器。{#ssct_changelog}",
+      "source_line": 363,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Optimised some hot code paths to keep navigation snappy.{#ssct_changelog}",
+      "before": "- Optimised some hot code paths to keep navigation snappy.",
+      "target": "- 优化部分高频执行代码，让导航保持流畅。{#ssct_changelog}",
+      "source_line": 364,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Resolved issue where using spot metadata would prevent asset prediction.{#ssct_changelog}",
+      "before": "- Resolved issue where using spot metadata would prevent asset prediction.",
+      "target": "- 解决使用位置元数据会阻止资源预加载的问题。{#ssct_changelog}",
+      "source_line": 365,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added a basic bloom visual effect to help distinguish daydreams.{#ssct_changelog}",
+      "before": "- Added a basic bloom visual effect to help distinguish daydreams.",
+      "target": "- 新增基础泛光视觉效果，帮助区分白日梦。{#ssct_changelog}",
+      "source_line": 366,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Helped rails to feel a little more natural when multiple paths may be taken.{#ssct_changelog}",
+      "before": "- Helped rails to feel a little more natural when multiple paths may be taken.",
+      "target": "- 存在多条可选路径时，让引导流程更加自然。{#ssct_changelog}",
+      "source_line": 367,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Enabled visible cues for choices that require unmet stat checks.{#ssct_changelog}",
+      "before": "- Enabled visible cues for choices that require unmet stat checks.",
+      "target": "- 为未满足属性检查条件的选项启用可见提示。{#ssct_changelog}",
+      "source_line": 368,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Developed many new rig assets for both Jiang and Kassy.{#ssct_changelog}",
+      "before": "- Developed many new rig assets for both Jiang and Kassy.",
+      "target": "- 为Jiang和Kassy开发大量新角色绑定资源。{#ssct_changelog}",
+      "source_line": 369,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Upgraded Ren'Py to version 8.3.4.{#ssct_changelog}",
+      "before": "- Upgraded Ren'Py to version 8.3.4.",
+      "target": "- 将Ren'Py升级至8.3.4版。{#ssct_changelog}",
+      "source_line": 370,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Touched up art of Anon using telescope in Jenny's route.{#ssct_changelog}",
+      "before": "- Touched up art of Anon using telescope in Jenny's route.",
+      "target": "- 润色Jenny支线中Anon使用望远镜的美术。{#ssct_changelog}",
+      "source_line": 371,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Redrew telescope shot from Jenny's route to bring its quality up to par.{#ssct_changelog}",
+      "before": "- Redrew telescope shot from Jenny's route to bring its quality up to par.",
+      "target": "- 重绘Jenny支线的望远镜镜头，使其达到当前质量标准。{#ssct_changelog}",
+      "source_line": 372,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Produced new assets for Jenny to reflect her pregnancy in Debbie's route.{#ssct_changelog}",
+      "before": "- Produced new assets for Jenny to reflect her pregnancy in Debbie's route.",
+      "target": "- 制作新资源，体现Jenny在Debbie支线中的怀孕状态。{#ssct_changelog}",
+      "source_line": 373,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Revamped various cutscenes and created multiple new ones.{#ssct_changelog}",
+      "before": "- Revamped various cutscenes and created multiple new ones.",
+      "target": "- 翻新多个过场并新增多段过场。{#ssct_changelog}",
+      "source_line": 374,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Put together a new translatable module to help with expressing time periods.{#ssct_changelog}",
+      "before": "- Put together a new translatable module to help with expressing time periods.",
+      "target": "- 制作新的可翻译模块，方便表达时间段。{#ssct_changelog}",
+      "source_line": 375,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tweaked layer management logic to prevent Jenny's laptop appearing twice.{#ssct_changelog}",
+      "before": "- Tweaked layer management logic to prevent Jenny's laptop appearing twice.",
+      "target": "- 微调图层管理逻辑，防止Jenny的笔记本电脑显示两次。{#ssct_changelog}",
+      "source_line": 376,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Integrated meeting Tammy outside Debbie's house with new mall trip event.{#ssct_changelog}",
+      "before": "- Integrated meeting Tammy outside Debbie's house with new mall trip event.",
+      "target": "- 将Debbie家门外与Tammy见面的事件接入新的逛商场事件。{#ssct_changelog}",
+      "source_line": 377,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Found and fixed a latent bug in how metadata scaling was being applied.{#ssct_changelog}",
+      "before": "- Found and fixed a latent bug in how metadata scaling was being applied.",
+      "target": "- 发现并修复元数据缩放应用方式中潜藏的错误。{#ssct_changelog}",
+      "source_line": 378,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Solved problem that would cause some sounds to play sooner than intended.{#ssct_changelog}",
+      "before": "- Solved problem that would cause some sounds to play sooner than intended.",
+      "target": "- 解决部分声音比预期更早播放的问题。{#ssct_changelog}",
+      "source_line": 379,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tackled various other continuity and posing issues in earlier Debbie quests.{#ssct_changelog}",
+      "before": "- Tackled various other continuity and posing issues in earlier Debbie quests.",
+      "target": "- 处理Debbie前期任务中的其他多处连贯性和姿势问题。{#ssct_changelog}",
+      "source_line": 380,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Stopped Jenny's first sex toy quest from interfering with the timeline.{#ssct_changelog}",
+      "before": "- Stopped Jenny's first sex toy quest from interfering with the timeline.",
+      "target": "- 防止Jenny首次性玩具任务干扰时间线。{#ssct_changelog}",
+      "source_line": 381,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Remedied various issues when Jenny showered at night.{#ssct_changelog}",
+      "before": "- Remedied various issues when Jenny showered at night.",
+      "target": "- 修复Jenny夜间淋浴时的多项问题。{#ssct_changelog}",
+      "source_line": 382,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Introduced small dialogue variations to account for when Debbie is at the mall.{#ssct_changelog}",
+      "before": "- Introduced small dialogue variations to account for when Debbie is at the mall.",
+      "target": "- 加入简短的对话变体，以适应Debbie在商场时的情况。{#ssct_changelog}",
+      "source_line": 383,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Inserted variant for claiming glasses from Judith during art class.{#ssct_changelog}",
+      "before": "- Inserted variant for claiming glasses from Judith during art class.",
+      "target": "- 加入美术课上向Judith领取眼镜的变体。{#ssct_changelog}",
+      "source_line": 384,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Many small asset changes to adjust expressions and smooth arm joints.{#ssct_changelog}",
+      "before": "- Many small asset changes to adjust expressions and smooth arm joints.",
+      "target": "- 微调多项资源，调整表情并让手臂关节衔接更顺畅。{#ssct_changelog}",
+      "source_line": 385,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reduced the use of magic numbers throughout the priority system.{#ssct_changelog}",
+      "before": "- Reduced the use of magic numbers throughout the priority system.",
+      "target": "- 减少优先级系统中魔法数字的使用。{#ssct_changelog}",
+      "source_line": 386,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Prepared and cleaned up the codebase for a future move to Python 3.12.{#ssct_changelog}",
+      "before": "- Prepared and cleaned up the codebase for a future move to Python 3.12.",
+      "target": "- 为未来迁移至Python 3.12整理和清理代码库。{#ssct_changelog}",
+      "source_line": 387,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Eliminated various other minor bugs in existing quests.{#ssct_changelog}",
+      "before": "- Eliminated various other minor bugs in existing quests.",
+      "target": "- 消除现有任务中的其他多处轻微错误。{#ssct_changelog}",
+      "source_line": 388,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Resolved Debbie's route failing to re-activate correctly in some migrated saves.{#ssct_changelog}",
+      "before": "- Resolved Debbie's route failing to re-activate correctly in some migrated saves.",
+      "target": "- 修复部分迁移存档中Debbie支线未能正确重新激活的问题。{#ssct_changelog}",
+      "source_line": 393,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed soft-lock in Judith's locker when reclaiming library book from Camila.{#ssct_changelog}",
+      "before": "- Fixed soft-lock in Judith's locker when reclaiming library book from Camila.",
+      "target": "- 修复从Camila处取回图书馆书籍时Judith储物柜中的软锁。{#ssct_changelog}",
+      "source_line": 394,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added all new event early in Debbie's story.{#ssct_changelog}",
+      "before": "- Added all new event early in Debbie's story.",
+      "target": "- 在Debbie剧情前期加入全新事件。{#ssct_changelog}",
+      "source_line": 399,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Upgraded four of Debbie's existing quests with new art and dialogue.{#ssct_changelog}",
+      "before": "- Upgraded four of Debbie's existing quests with new art and dialogue.",
+      "target": "- 为Debbie四个现有任务升级美术和对话。{#ssct_changelog}",
+      "source_line": 400,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved existing cutscenes and added new ones.{#ssct_changelog}",
+      "before": "- Improved existing cutscenes and added new ones.",
+      "target": "- 改进现有过场并新增多段过场。{#ssct_changelog}",
+      "source_line": 401,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated home location backgrounds and closeups.{#ssct_changelog}",
+      "before": "- Updated home location backgrounds and closeups.",
+      "target": "- 更新住宅地点的背景和特写。{#ssct_changelog}",
+      "source_line": 402,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added multiple new bodies, arms and facial assets for Debbie and Anon.{#ssct_changelog}",
+      "before": "- Added multiple new bodies, arms and facial assets for Debbie and Anon.",
+      "target": "- 为Debbie和Anon新增多套身体、手臂和面部资源。{#ssct_changelog}",
+      "source_line": 403,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Changed Debbie's default buttons to use new art.{#ssct_changelog}",
+      "before": "- Changed Debbie's default buttons to use new art.",
+      "target": "- 将Debbie的默认交互按钮改用新版美术。{#ssct_changelog}",
+      "source_line": 404,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded and improved the Cupid store to allow more space, rooms and variety.{#ssct_changelog}",
+      "before": "- Expanded and improved the Cupid store to allow more space, rooms and variety.",
+      "target": "- 扩建并改进丘比特商店，增加空间、房间和变化。{#ssct_changelog}",
+      "source_line": 405,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Upgraded Ren'Py to version 8.3.3.{#ssct_changelog}",
+      "before": "- Upgraded Ren'Py to version 8.3.3.",
+      "target": "- 将Ren'Py升级至8.3.3版。{#ssct_changelog}",
+      "source_line": 406,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Wrote a save migration to fully reset Debbie progress in preparation for her rework.{#ssct_changelog}",
+      "before": "- Wrote a save migration to fully reset Debbie progress in preparation for her rework.",
+      "target": "- 编写存档迁移，完全重置Debbie的进度，为支线重做做准备。{#ssct_changelog}",
+      "source_line": 407,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added support for multi-asset cutscenes to easier include dynamic details such as pregnancy.{#ssct_changelog}",
+      "before": "- Added support for multi-asset cutscenes to easier include dynamic details such as pregnancy.",
+      "target": "- 加入多资源过场支持，更方便地包含怀孕等动态细节。{#ssct_changelog}",
+      "source_line": 408,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Revisited attribute management to allow for more flexibility in when displaying backgrounds.{#ssct_changelog}",
+      "before": "- Revisited attribute management to allow for more flexibility in when displaying backgrounds.",
+      "target": "- 改进属性管理，使背景显示更加灵活。{#ssct_changelog}",
+      "source_line": 409,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Tweaked focus management on initial name screen to be more mobile friendly.{#ssct_changelog}",
+      "before": "- Tweaked focus management on initial name screen to be more mobile friendly.",
+      "target": "- 微调初始姓名界面的焦点管理，使其更适合移动设备。{#ssct_changelog}",
+      "source_line": 410,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Flipped the hallway between the entrance and living room.{#ssct_changelog}",
+      "before": "- Flipped the hallway between the entrance and living room.",
+      "target": "- 翻转入口与客厅之间的走廊布局。{#ssct_changelog}",
+      "source_line": 411,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed soft-lock with Annie outside Mrs. Smith's office.{#ssct_changelog}",
+      "before": "- Fixed soft-lock with Annie outside Mrs. Smith's office.",
+      "target": "- 修复Annie在Smith太太办公室外造成的软锁。{#ssct_changelog}",
+      "source_line": 412,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Resolved a problem with older saves causing problems accessing the phone.{#ssct_changelog}",
+      "before": "- Resolved a problem with older saves causing problems accessing the phone.",
+      "target": "- 解决旧存档访问手机时出现的问题。{#ssct_changelog}",
+      "source_line": 413,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Various art metadata additions and typo corrections.{#ssct_changelog}",
+      "before": "- Various art metadata additions and typo corrections.",
+      "target": "- 补充多项美术元数据并修正拼写。{#ssct_changelog}",
+      "source_line": 414,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Addressed minor posing issues relating to mouth movement in teacher routes.{#ssct_changelog}",
+      "before": "- Addressed minor posing issues relating to mouth movement in teacher routes.",
+      "target": "- 修复教师支线中与嘴部运动有关的轻微姿势问题。{#ssct_changelog}",
+      "source_line": 415,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Stopped the sink breaking prematurely in Debbie's route when sleeping in the beach house.{#ssct_changelog}",
+      "before": "- Stopped the sink breaking prematurely in Debbie's route when sleeping in the beach house.",
+      "target": "- 防止在海滨小屋睡觉时Debbie支线中的水槽过早损坏。{#ssct_changelog}",
+      "source_line": 416,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Upgraded visuals and user experience of the in-game phone.{#ssct_changelog}",
+      "before": "- Upgraded visuals and user experience of the in-game phone.",
+      "target": "- 升级游戏内手机的视觉效果和使用体验。{#ssct_changelog}",
+      "source_line": 421,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added a character directory in the form of a contacts app on the phone.{#ssct_changelog}",
+      "before": "- Added a character directory in the form of a contacts app on the phone.",
+      "target": "- 在手机中加入联系人应用形式的角色目录。{#ssct_changelog}",
+      "source_line": 422,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Introduced the ability to rename characters via the phone.{#ssct_changelog}",
+      "before": "- Introduced the ability to rename characters via the phone.",
+      "target": "- 新增通过手机为角色改名的功能。{#ssct_changelog}",
+      "source_line": 423,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Redesigned the look and feel of the game menus.{#ssct_changelog}",
+      "before": "- Redesigned the look and feel of the game menus.",
+      "target": "- 重新设计游戏菜单的外观和体验。{#ssct_changelog}",
+      "source_line": 424,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Mall crowd art improved and unique for each time tick.{#ssct_changelog}",
+      "before": "- Mall crowd art improved and unique for each time tick.",
+      "target": "- 改进商场人群美术，为每个时间段提供独特变体。{#ssct_changelog}",
+      "source_line": 425,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Beach crowd art improved and unique for each time tick.{#ssct_changelog}",
+      "before": "- Beach crowd art improved and unique for each time tick.",
+      "target": "- 改进海滩人群美术，为每个时间段提供独特变体。{#ssct_changelog}",
+      "source_line": 426,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Debbie cutscenes improved.{#ssct_changelog}",
+      "before": "- Debbie cutscenes improved.",
+      "target": "- 改进Debbie的过场。{#ssct_changelog}",
+      "source_line": 427,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- New consistent art for Debbie's laundry basket.{#ssct_changelog}",
+      "before": "- New consistent art for Debbie's laundry basket.",
+      "target": "- 为Debbie的洗衣篮制作统一的新美术。{#ssct_changelog}",
+      "source_line": 428,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Mini game art now matches quality and styling of new UI.{#ssct_changelog}",
+      "before": "- Mini game art now matches quality and styling of new UI.",
+      "target": "- 让小游戏美术达到新界面的质量和风格。{#ssct_changelog}",
+      "source_line": 429,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Jenny body assets slight improvements such as arms and shoulders.{#ssct_changelog}",
+      "before": "- Jenny body assets slight improvements such as arms and shoulders.",
+      "target": "- 微调Jenny的身体资源，包括手臂和肩膀。{#ssct_changelog}",
+      "source_line": 430,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reimplemented routes for Miss Bissette, Miss Okita, and Miss Ross.{#ssct_changelog}",
+      "before": "- Reimplemented routes for Miss Bissette, Miss Okita, and Miss Ross.",
+      "target": "- 重新实现Bissette老师、Okita老师和Ross老师的支线。{#ssct_changelog}",
+      "source_line": 435,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Partially completed route for Miss Dewitt, with the rest due back in a future update.{#ssct_changelog}",
+      "before": "- Partially completed route for Miss Dewitt, with the rest due back in a future update.",
+      "target": "- 部分完成Dewitt老师支线，其余内容将在后续更新中回归。{#ssct_changelog}",
+      "source_line": 436,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored Judith mini-route, with fully updated character art.{#ssct_changelog}",
+      "before": "- Restored Judith mini-route, with fully updated character art.",
+      "target": "- 恢复Judith的短支线，并全面更新角色美术。{#ssct_changelog}",
+      "source_line": 437,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added a new event for Debbie in the kitchen at the end of her route.{#ssct_changelog}",
+      "before": "- Added a new event for Debbie in the kitchen at the end of her route.",
+      "target": "- 在Debbie支线结尾新增厨房事件。{#ssct_changelog}",
+      "source_line": 438,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Introduced a second Jenny cunnilingus animation (for submissive Anon).{#ssct_changelog}",
+      "before": "- Introduced a second Jenny cunnilingus animation (for submissive Anon).",
+      "target": "- 新增Jenny的第二段舔阴动画，用于顺从的Anon。{#ssct_changelog}",
+      "source_line": 439,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Reworked Jenny GFE ending with dominant and submissive variants and new animations.{#ssct_changelog}",
+      "before": "- Reworked Jenny GFE ending with dominant and submissive variants and new animations.",
+      "target": "- 重做Jenny的GFE结局，加入支配与顺从变体及新动画。{#ssct_changelog}",
+      "source_line": 440,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added back remaining Debbie events including laundry, garage, movie, panties, and bedroom.{#ssct_changelog}",
+      "before": "- Added back remaining Debbie events including laundry, garage, movie, panties, and bedroom.",
+      "target": "- 恢复Debbie其余事件，包括洗衣、车库、电影、内裤和卧室事件。{#ssct_changelog}",
+      "source_line": 441,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Enabled most of the NPCs usually found at and around the college.{#ssct_changelog}",
+      "before": "- Enabled most of the NPCs usually found at and around the college.",
+      "target": "- 启用通常出现在学院及周边的大多数NPC。{#ssct_changelog}",
+      "source_line": 442,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored Jenny confrontation about sleeping with Debbie.{#ssct_changelog}",
+      "before": "- Restored Jenny confrontation about sleeping with Debbie.",
+      "target": "- 恢复Jenny就与Debbie同床一事质问Anon的事件。{#ssct_changelog}",
+      "source_line": 443,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Connected up menu and location music as well as ambient sounds.{#ssct_changelog}",
+      "before": "- Connected up menu and location music as well as ambient sounds.",
+      "target": "- 接入菜单、地点音乐和环境音。{#ssct_changelog}",
+      "source_line": 444,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Allowed pregnant variations of Jenny's visit scene to be unlocked in cookie jar.{#ssct_changelog}",
+      "before": "- Allowed pregnant variations of Jenny's visit scene to be unlocked in cookie jar.",
+      "target": "- 允许在角色图鉴中解锁Jenny来访场景的孕期变体。{#ssct_changelog}",
+      "source_line": 445,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated crowd art for various locations, mainly around the college.{#ssct_changelog}",
+      "before": "- Updated crowd art for various locations, mainly around the college.",
+      "target": "- 更新多个地点的人群美术，主要集中在学院周边。{#ssct_changelog}",
+      "source_line": 446,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded the available replays to include all currently playable lewd content.{#ssct_changelog}",
+      "before": "- Expanded the available replays to include all currently playable lewd content.",
+      "target": "- 扩展可用回放，涵盖当前所有可游玩的成人内容。{#ssct_changelog}",
+      "source_line": 447,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated quick menu placement, and made it always available when enabled in settings.{#ssct_changelog}",
+      "before": "- Updated quick menu placement, and made it always available when enabled in settings.",
+      "target": "- 更新快捷菜单位置；在设置中启用后，始终提供该菜单。{#ssct_changelog}",
+      "source_line": 448,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- By popular demand, re-introduced a cheat menu. Yes, you still tap the wifi icon. Be persistent.{#ssct_changelog}",
+      "before": "- By popular demand, re-introduced a cheat menu. Yes, you still tap the wifi icon. Be persistent.",
+      "target": "- 应广大玩家要求，重新加入作弊菜单。没错，还是点击WiFi图标。多试几次。{#ssct_changelog}",
+      "source_line": 449,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Restored some missing dialogues, including Debbie's shower scene.{#ssct_changelog}",
+      "before": "- Restored some missing dialogues, including Debbie's shower scene.",
+      "target": "- 恢复部分缺失对话，包括Debbie的淋浴场景。{#ssct_changelog}",
+      "source_line": 450,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Prevented some conflicts between Jenny and Debbie quests.{#ssct_changelog}",
+      "before": "- Prevented some conflicts between Jenny and Debbie quests.",
+      "target": "- 防止Jenny和Debbie的任务发生部分冲突。{#ssct_changelog}",
+      "source_line": 451,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Addressed transition timing issue in old art animations.{#ssct_changelog}",
+      "before": "- Addressed transition timing issue in old art animations.",
+      "target": "- 修正旧版美术动画中的转场时序问题。{#ssct_changelog}",
+      "source_line": 452,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Prevented scenario in which the wrench could be purchased more than once.{#ssct_changelog}",
+      "before": "- Prevented scenario in which the wrench could be purchased more than once.",
+      "target": "- 防止扳手被购买多次。{#ssct_changelog}",
+      "source_line": 453,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed potential for unintentional save deletion when using the delete key.{#ssct_changelog}",
+      "before": "- Fixed potential for unintentional save deletion when using the delete key.",
+      "target": "- 修复使用删除键时可能意外删除存档的问题。{#ssct_changelog}",
+      "source_line": 454,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Improved a few prop descriptions to avoid accidental spoilers.{#ssct_changelog}",
+      "before": "- Improved a few prop descriptions to avoid accidental spoilers.",
+      "target": "- 改进部分道具描述，避免无意剧透。{#ssct_changelog}",
+      "source_line": 455,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Added better names for some locations when being displayed on the back button.{#ssct_changelog}",
+      "before": "- Added better names for some locations when being displayed on the back button.",
+      "target": "- 改进返回按钮上部分地点的显示名称。{#ssct_changelog}",
+      "source_line": 456,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Clarified wording on mode select screen around why only one mode is currently available.{#ssct_changelog}",
+      "before": "- Clarified wording on mode select screen around why only one mode is currently available.",
+      "target": "- 明确模式选择界面的说明，解释当前为何只有一种模式可用。{#ssct_changelog}",
+      "source_line": 457,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated to Ren'Py version 8.2.3.{#ssct_changelog}",
+      "before": "- Updated to Ren'Py version 8.2.3.",
+      "target": "- 将Ren'Py更新至8.2.3版。{#ssct_changelog}",
+      "source_line": 458,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Fixed various spelling, transition, and staging oversights.{#ssct_changelog}",
+      "before": "- Fixed various spelling, transition, and staging oversights.",
+      "target": "- 修复多处拼写、转场和场景安排遗漏。{#ssct_changelog}",
+      "source_line": 459,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Expanded and re-exported all art assets at a much higher widescreen resolution.{#ssct_changelog}",
+      "before": "- Expanded and re-exported all art assets at a much higher widescreen resolution.",
+      "target": "- 将全部美术资源扩展并重新导出为分辨率更高的宽屏版本。{#ssct_changelog}",
+      "source_line": 464,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Rebuilt the entire codebase from scratch to improve performance and better support planned features.{#ssct_changelog}",
+      "before": "- Rebuilt the entire codebase from scratch to improve performance and better support planned features.",
+      "target": "- 从零重建整个代码库，提高性能并更好地支持计划中的功能。{#ssct_changelog}",
+      "source_line": 465,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "- Updated the posing to take advantage of new codebase, and the higher resolution assets.{#ssct_changelog}",
+      "before": "- Updated the posing to take advantage of new codebase, and the higher resolution assets.",
+      "target": "- 更新角色姿势，以利用新代码库和更高分辨率的资源。{#ssct_changelog}",
+      "source_line": 466,
+      "date": "2026-10-05",
+      "reason": "本体更新日志正文显示翻译；保留姓名、列表及格式标签，使用独立上下文键",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "Preview{#ssct_changelog}",
+      "before": "Preview",
+      "target": "预览版{#ssct_changelog}",
+      "date": "2026-10-05",
+      "reason": "更新日志标题固定译法，版本号及编号不改",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/changelog_translation8194.rpy",
+      "source": "Hotfix{#ssct_changelog}",
+      "before": "Hotfix",
+      "target": "热修复{#ssct_changelog}",
+      "date": "2026-10-05",
+      "reason": "更新日志标题固定译法，版本号及编号不改",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb_mall.rpy",
+      "source": "YES!",
+      "before": "要！",
+      "target": "太好了！",
+      "line": 703,
+      "date": "2026-10-05",
+      "reason": "补录既有b80744c已提交译文修正，同步台账指纹；本次不改该译文",
+      "is_latest": true
     }
   ],
   "reading_batches": [
