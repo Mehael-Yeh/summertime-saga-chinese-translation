@@ -10887,12 +10887,12 @@
       }
     },
     "tl/zh_hans/src/menu/team.rpy": {
-      "sha256": "f48868462e72139ba890c778848f8b466a2efe4238c7a1ca639c69d5de638cf0",
-      "pairs": 14,
+      "sha256": "5c26e6ca637d572f55d8644c4225a91fb287d324becbd1a6f3cf5baff1417b3c",
+      "pairs": 9,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "f48868462e72139ba890c778848f8b466a2efe4238c7a1ca639c69d5de638cf0",
+        "translation_sha256": "5c26e6ca637d572f55d8644c4225a91fb287d324becbd1a6f3cf5baff1417b3c",
         "source_sha256": "ec8a66cb1f3c9d492534479a99b688b684adb33a25fdd429663c5d4c498f4c58",
         "source": "game/src/menu/team.rpy",
         "source_local": ".codex_tmp/current7944/src/src/menu/team.rpy",
@@ -10950,34 +10950,9 @@
             "id": "strings",
             "line": 39,
             "pair_sha256": "067eed83b399812273fa1a8e2eed97b489ebb1b68c88defecc7964a59025125b"
-          },
-          {
-            "id": "strings",
-            "line": 44,
-            "pair_sha256": "bb05e8bfb19799f193180cabb7d5804f5a278aba13b040fb0764fcce565f88f3"
-          },
-          {
-            "id": "strings",
-            "line": 47,
-            "pair_sha256": "e3097b019ce8956725e557725a3f616bdd0d7190c2562f4614846e2ee03c331f"
-          },
-          {
-            "id": "strings",
-            "line": 50,
-            "pair_sha256": "2b47cedd9e4557221aecd3caec53cd29e16f74ac76877ca41d99929d92244a46"
-          },
-          {
-            "id": "strings",
-            "line": 53,
-            "pair_sha256": "67eb023aec3728af8eeebd674f7609e9aaf28bdf533781947b93786ae9859783"
-          },
-          {
-            "id": "strings",
-            "line": 56,
-            "pair_sha256": "a63b7c790b60b6486814172f98cba39dcedecc3b41999466d5832c9541e1f118"
           }
         ],
-        "note": "功能批次人工审校。已读本文件全部中文，核对本地界面使用语境；动态字段、共享字符串和外部游戏逻辑未据此结案。旧版兼容条目保留，未把注释行号当作当前运行证据。",
+        "note": "保留职务/界面文本的历史审读记录；鸣谢灰色署名为用户确认的用户名，5条旧音译映射已删除，不再计入翻译或历史审读覆盖。动态字段、共享字符串和外部游戏逻辑未据此结案。",
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read"

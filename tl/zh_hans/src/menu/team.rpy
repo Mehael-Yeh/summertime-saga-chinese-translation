@@ -37,24 +37,3 @@ translate zh_hans strings:
     # game/src/menu/team.rpy:70
     old "Patrons"
     new "支持者"
-
-translate zh_hans strings:
-
-    old "Joaka"
-    new "乔卡"
-
-    old "Arboris"
-    new "阿伯里斯"
-
-    old "Volé"
-    new "沃莱"
-
-    old "Jelgan"
-    new "杰尔甘"
-
-    old "Abigfatnobody"
-    new "阿比格法特诺巴迪"
-
-    # game/src/menu/team.rpy:69
-    # game/src/menu/team.rpy:70
-    # game/src/menu/team.rpy:70
