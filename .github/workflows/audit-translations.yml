@@ -56,5 +56,8 @@ jobs:
       - name: Test release package reuse
         run: python tools/test_reuse_official_package.py
 
+      - name: Test optional Cookie Jar toggle behavior
+        run: python tools/test_cookie_jar_toggle.py
+
       - name: Check whitespace errors
         run: git diff --check

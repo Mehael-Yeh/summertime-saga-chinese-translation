@@ -11,14 +11,26 @@ init 998 python:
         except AttributeError:
             return False
 
-    def _ssct_unlock_cookie_jar():
+    def _ssct_cookie_jar_unlocked():
+        return getattr(persistent, 'cookies', None) is True
+
+    def _ssct_cookie_jar_button_label():
+        if _ssct_cookie_jar_unlocked():
+            return renpy.translate_string(_("Restore normal Cookie Jar unlocks"))
+        return renpy.translate_string(_("Unlock all Cookie Jar entries"))
+
+    def _ssct_toggle_cookie_jar():
         if not _ssct_cookie_jar_supported():
             renpy.notify(renpy.translate_string(_("This game version's Cookie Jar interface is incompatible. Unlock data was not changed.")))
             return
-        persistent.cookies = True
+        # Only toggle the native override. Earned scene records stay untouched.
+        persistent.cookies = not persistent.cookies
         renpy.save_persistent()
         renpy.restart_interaction()
-        renpy.notify(renpy.translate_string(_("All Cookie Jar entries unlocked!")))
+        if persistent.cookies:
+            renpy.notify(renpy.translate_string(_("All Cookie Jar entries unlocked!")))
+        else:
+            renpy.notify(renpy.translate_string(_("Normal Cookie Jar unlocks restored.")))
 
     def _ssct_attach_cookie_jar_button(original):
         def with_unlock_button(*args, **kwargs):
@@ -41,7 +53,7 @@ init 999 python:
             _ssct_screen.function = _ssct_attach_cookie_jar_button(_ssct_screen.function)
 
 screen ssct_cookie_jar_unlock_button():
-    textbutton "\U0001f513":
+    textbutton ("\U0001f512" if _ssct_cookie_jar_unlocked() else "\U0001f513"):
         align (.97, .03)
         xysize (80, 80)
         padding (8, 8)
@@ -50,9 +62,9 @@ screen ssct_cookie_jar_unlock_button():
         text_font 'TwemojiCOLRv0.ttf'
         text_size 48
         text_align (.5, .5)
-        alt renpy.translate_string(_("Unlock all Cookie Jar entries"))
-        tooltip renpy.translate_string(_("Unlock all Cookie Jar entries"))
-        action Function(_ssct_unlock_cookie_jar)
+        alt _ssct_cookie_jar_button_label()
+        tooltip _ssct_cookie_jar_button_label()
+        action Function(_ssct_toggle_cookie_jar)
 
 
 translate zh_hans strings:
@@ -64,3 +76,9 @@ translate zh_hans strings:
 
     old "Unlock all Cookie Jar entries"
     new "一键解锁所有角色图鉴"
+
+    old "Restore normal Cookie Jar unlocks"
+    new "恢复角色图鉴的正常解锁状态"
+
+    old "Normal Cookie Jar unlocks restored."
+    new "角色图鉴已恢复正常解锁状态"

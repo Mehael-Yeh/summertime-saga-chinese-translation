@@ -63,5 +63,29 @@
         "method": "bilingual_scene_read"
       }
     }
-  }
+  },
+  "runtime_validations": [
+    {
+      "id": "cookie_jar_toggle_8194",
+      "date": "2026-10-05",
+      "file": "mods/cookie_jar_unlock/cookie_jar_unlock.rpy",
+      "sha256": "2789aa8df515f93e2dd9da9c1930ccf5ae1c96fbb62f58ee983efe55f915e49b",
+      "game_version": "21.0.0-wip.8194",
+      "behavior": "只切换persistent.cookies；关闭恢复正常剧情解锁，保留原有及新获得的场景记录；图标及按钮说明跟随原生开关。",
+      "checks": {
+        "unit_tests": 3,
+        "language_toggle_cycles": 3,
+        "normal_state_cast_entries": 23,
+        "normal_state_scene_entries": 321,
+        "native_baseline_restored": true,
+        "unlock_persisted_after_restart": true,
+        "restore_persisted_after_restart": true,
+        "native_cast_screenshots": [
+          ".codex_tmp/engine8194-official/cookie_toggle_enabled.png",
+          ".codex_tmp/engine8194-official/cookie_toggle_restored.png"
+        ]
+      },
+      "limits": "隔离副本执行切换函数并渲染原生角色列表；未用真实鼠标点击、逐个播放图鉴场景或验收所有设备布局。原历史审校项不覆盖本轮代码，不纳入tl/zh_hans翻译审计。"
+    }
+  ]
 }
