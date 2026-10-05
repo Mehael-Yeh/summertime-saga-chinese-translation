@@ -1,6 +1,6 @@
 # translation_context 目录说明
 
-更新时间：2026-10-04
+更新时间：2026-10-05
 
 本目录保存翻译规范、术语、剧情背景和审校记录，不参与游戏打包。所有内容以当前工作区为准；修改译文后必须同步更新对应记录，否则校验工具会报告过期。
 
@@ -26,7 +26,20 @@
 | `version_migration_8194.json` | 记录（机器） | 8194新增/退役节点、保留的历史审读项及官方引擎验证范围 | 本次迁移证据；当前进度查`progress.md` |
 | `extracted_routes.json` | 记录（机器） | 提取文件与源模块的对应关系 | 拆并文件时更新 |
 
-## 记录分工
+## 新增规则查阅入口
+
+| 主题 | 当前规则与记录位置 |
+| --- | --- |
+| 新版对白归位、源行号、末尾old/new表 | [style_guide.md](style_guide.md#新增规则的适用与记录)中的源码顺序规则；迁移进度查progress |
+| 对话按钮标点及同类复查 | [style_guide.md](style_guide.md#对话按钮选项的结尾标点强制)：普通结尾不带句号，内部逗号及语气标点保留 |
+| 鸣谢页灰色用户名 | [terminology.md](terminology.md#鸣谢页用户名)、[english_residuals.md](english_residuals.md#鸣谢页署名例外) |
+| 设置悬浮说明、同类文本格式、GitHub图标 | [style_guide.md](style_guide.md#设置说明与同类提示的一致性)；回归提示定译查terminology |
+| 联系人姓名与Bridget姓氏 | [terminology.md](terminology.md#角色姓名强制)、[characters.md](characters.md#bridget)：Krüger保留ü |
+| 联系人六类身份标签与更新兼容 | [terminology.md](terminology.md#联系人分类标签)、[style_guide.md](style_guide.md#联系人动态身份标签与版本更新) |
+
+以上规则适用于未来版本的同类文本；最新用户确认优先于历史批次说明。实际实现和验收范围查[progress.md](progress.md)，规则存在不代表对应界面已完成全部验收。
+
+## 台账与变更记录分工
 
 `manual_review.json` 回答“哪些条目被人工看过，当前还缺什么”，用行号和原文／译文指纹锁定版本，`note` 只写当前覆盖状态与未结项，历次改了什么查 `progress.md` 批次记录与 `extracted_language_review.json` 的 `changes`；台账不代表译文质量通过。`extracted_language_review.json` 回答“改了什么、为什么改”，保存修改前后对照、阅读批次和已收敛的问题。`sentence_patterns.json` 与 `recurring_terms.json` 是回归基线，供 `tools/` 下的审计脚本比对当前译文，用于发现文风漂移和术语不一致。
 
