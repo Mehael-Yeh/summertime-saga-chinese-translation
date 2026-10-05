@@ -7,7 +7,7 @@ import os
 from unittest.mock import patch
 
 import reuse_official_package as reuse
-from reuse_official_package import link_notes, select_source, verify
+from reuse_official_package import cleanup_previous, link_notes, select_move_sources, select_source, verify
 
 
 def release(tag, date, names, draft=False):
@@ -92,6 +92,54 @@ class ReuseTests(unittest.TestCase):
                 uploaded[0] = dict(asset, digest='sha256:different')
                 with self.assertRaisesRegex(ValueError, 'overwrite'):
                     reuse.main()
+
+    def test_move_includes_older_platform_archives(self):
+        mac = 'summertimesaga-21.0.0-wip.8194-mac.zip'
+        older = release('v21.0.0-wip.8194-R1', '2026-10-01', [self.name, mac])
+        sources = select_move_sources([older, self.old], 'v21.0.0-wip.8194-R3')
+        self.assertEqual([(s['tag'], [a['name'] for a in s['assets']]) for s in sources],
+                         [('v21.0.0-wip.8194-R2', [self.name]), ('v21.0.0-wip.8194-R1', [mac])])
+
+    def cleanup_fixture(self):
+        asset = dict(name=self.name, size=12, digest='sha256:verified', state='uploaded', id=101)
+        old = release('v21.0.0-wip.8194-R2', '2026-10-05', [])
+        old['assets'] = [asset, dict(name='zh_hans.rpa', id=999, state='uploaded')]
+        target = release('v21.0.0-wip.8194-R3', '2026-10-06', [])
+        target['assets'] = [dict(asset, id=102)]
+        other = release('v21.0.0-wip.7944-R3', '2026-10-07', ['summertimesaga-21.0.0-wip.7944-pc.zip'])
+        return [old, target, other], {self.name: dict(size=12, digest='sha256:verified')}
+
+    def test_cleanup_deletes_only_verified_same_version_archive(self):
+        releases, verified = self.cleanup_fixture()
+        calls = []
+        def fake(*args):
+            calls.append(args)
+            return json.dumps([releases]) if '--slurp' in args else ''
+        with patch.object(reuse, 'gh', fake):
+            cleanup_previous('owner/repo', 'v21.0.0-wip.8194-R3', verified)
+        self.assertEqual([c for c in calls if 'DELETE' in c],
+                         [('api', '--method', 'DELETE', 'repos/owner/repo/releases/assets/101')])
+
+    def test_cleanup_preflight_retains_everything_on_mismatch(self):
+        for fault in ('old_digest', 'destination_digest', 'newer_release', 'newer_empty_release', 'missing_platform', 'missing_digest'):
+            with self.subTest(fault=fault):
+                releases, verified = self.cleanup_fixture()
+                if fault == 'old_digest':
+                    releases[0]['assets'][0]['digest'] = 'sha256:different'
+                elif fault == 'destination_digest':
+                    releases[1]['assets'][0]['digest'] = 'sha256:different'
+                elif fault == 'newer_release':
+                    releases[0]['published_at'] = '2026-10-08'
+                elif fault == 'newer_empty_release':
+                    releases.append(release('v21.0.0-wip.8194-R4', '2026-10-08', []))
+                elif fault == 'missing_platform':
+                    releases[0]['assets'].append(dict(name='summertimesaga-21.0.0-wip.8194-mac.zip', state='uploaded'))
+                else:
+                    releases[0]['assets'][0]['digest'] = None
+                with patch.object(reuse, 'gh', return_value=json.dumps([releases])) as mocked:
+                    with self.assertRaises(ValueError):
+                        cleanup_previous('owner/repo', 'v21.0.0-wip.8194-R3', verified)
+                    self.assertFalse(any('DELETE' in call.args for call in mocked.call_args_list))
 
 
 if __name__ == '__main__':

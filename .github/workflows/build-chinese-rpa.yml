@@ -17,11 +17,12 @@ on:
           - "预发行版"
           - "发行版"
       official_package:
-        description: "复用之前同游戏版本的官方原包（引用链接可避免重复存储）"
+        description: "官方原包处理（默认复制校验后删除旧原包，仅最新同版本发行版保留）"
         required: true
         type: choice
-        default: "复制官方原包"
+        default: "复制并仅保留最新原包"
         options:
+          - "复制并仅保留最新原包"
           - "复制官方原包"
           - "引用原包下载链接"
           - "不复用"
