@@ -2304,7 +2304,7 @@ translate zh_hans strings:
 
     # game/src/plot/jos_baby.rpy:476
     old "Calm down."
-    new "冷静点。"
+    new "冷静点"
 
     # game/src/plot/jos_baby.rpy:904
     old "Need anything?"

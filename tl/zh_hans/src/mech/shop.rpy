@@ -78,7 +78,7 @@ translate zh_hans strings:
 
     # game/src/mech/shop.rpy:56
     old "Add to [what.cart!lt]. [[{usd=$[what.cost:,]}]"
-    new "加入[what.cart!lt]。[[{usd=$[what.cost:,]}]"
+    new "加入[what.cart!lt][[{usd=$[what.cost:,]}]"
 
     # game/src/mech/shop.rpy:59
     old "Add to [what.cart!lt]."

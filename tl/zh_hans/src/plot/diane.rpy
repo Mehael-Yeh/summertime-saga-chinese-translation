@@ -60,7 +60,7 @@ translate zh_hans strings:
 
     # game/src/plot/diane.rpy:11
     old "[saga.cast.debbie]."
-    new "[saga.cast.debbie]。"
+    new "[saga.cast.debbie]"
 
     # game/src/plot/diane.rpy:14
     # game/src/plot/diane.rpy:14

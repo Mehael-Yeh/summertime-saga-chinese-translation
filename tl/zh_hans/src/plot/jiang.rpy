@@ -148,7 +148,7 @@ translate zh_hans strings:
 
     # game/src/plot/jiang.rpy:8
     old "Tool bag."
-    new "工具包。"
+    new "工具包"
 
     # game/src/plot/jiang.rpy:11
     old "Nice garage!"
@@ -160,4 +160,4 @@ translate zh_hans strings:
 
     # game/src/plot/jiang.rpy:17
     old "Nope."
-    new "没有。"
+    new "没有"

@@ -3758,7 +3758,7 @@ translate zh_hans strings:
 
     # game/src/plot/viv04.rpy:887
     old "Don't pay."
-    new "不付钱。"
+    new "不付钱"
 
     old "Merci, [saga.cast.anon]!"
     new "Merci, [saga.cast.anon]!（谢谢！）"

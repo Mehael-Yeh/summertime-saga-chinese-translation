@@ -442,15 +442,15 @@ translate zh_hans strings:
 
     # game/src/plot/jos05.rpy:91
     old "Actually, I might."
-    new "其实，我可能知道个地方。"
+    new "其实，我可能知道个地方"
 
     # game/src/plot/jos05.rpy:125
     old "Bad idea."
-    new "这主意不好。"
+    new "这主意不好"
 
     # game/src/plot/jos05.rpy:136
     old "You've twisted my arm."
-    new "真拿你没办法。"
+    new "真拿你没办法"
 
     # game/src/plot/jos05.rpy:139
     old "No way!"

@@ -13121,6 +13121,256 @@
       "date": "2026-10-05",
       "reason": "用户截图指定：对话选项删句末句号，内部逗号保留",
       "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/mech/shop.rpy",
+      "source": "Add to [what.cart!lt]. [[{usd=$[what.cost:,]}]",
+      "before": "加入[what.cart!lt]。[[{usd=$[what.cost:,]}]",
+      "target": "加入[what.cart!lt][[{usd=$[what.cost:,]}]",
+      "line": 81,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/cedric.rpy",
+      "source": "[saga.cast.jenny].",
+      "before": "[saga.cast.jenny]。",
+      "target": "[saga.cast.jenny]",
+      "line": 235,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/deb08.rpy",
+      "source": "I got this.",
+      "before": "我来吧。",
+      "target": "我来吧",
+      "line": 2268,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/diane.rpy",
+      "source": "[saga.cast.debbie].",
+      "before": "[saga.cast.debbie]。",
+      "target": "[saga.cast.debbie]",
+      "line": 63,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jiang.rpy",
+      "source": "Tool bag.",
+      "before": "工具包。",
+      "target": "工具包",
+      "line": 151,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jiang.rpy",
+      "source": "Nope.",
+      "before": "没有。",
+      "target": "没有",
+      "line": 163,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos02.rpy",
+      "source": "Nah, I promised not to look.",
+      "before": "不，我答应过不看。",
+      "target": "不，我答应过不看",
+      "line": 3877,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos02.rpy",
+      "source": "One peek wouldn't hurt.",
+      "before": "瞄一眼也没关系吧。",
+      "target": "瞄一眼也没关系吧",
+      "line": 3881,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos02.rpy",
+      "source": "Kinda.",
+      "before": "有一点。",
+      "target": "有一点",
+      "line": 3885,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos03.rpy",
+      "source": "Fine, I guess.",
+      "before": "还行吧。",
+      "target": "还行吧",
+      "line": 2599,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos05.rpy",
+      "source": "Actually, I might.",
+      "before": "其实，我可能知道个地方。",
+      "target": "其实，我可能知道个地方",
+      "line": 445,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos05.rpy",
+      "source": "Bad idea.",
+      "before": "这主意不好。",
+      "target": "这主意不好",
+      "line": 449,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos05.rpy",
+      "source": "You've twisted my arm.",
+      "before": "真拿你没办法。",
+      "target": "真拿你没办法",
+      "line": 453,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/josie.rpy",
+      "source": "Russians.",
+      "before": "俄罗斯人。",
+      "target": "俄罗斯人",
+      "line": 207,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/josie.rpy",
+      "source": "See ya.",
+      "before": "回头见。",
+      "target": "回头见",
+      "line": 211,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_baby.rpy",
+      "source": "Calm down.",
+      "before": "冷静点。",
+      "target": "冷静点",
+      "line": 2307,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_lounge.rpy",
+      "source": "Bring it.",
+      "before": "来啊。",
+      "target": "来啊",
+      "line": 563,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "source": "Gotta have four wheels.",
+      "before": "必须得有四个轮子。",
+      "target": "必须得有四个轮子",
+      "line": 809,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "source": "Yes. [[{usd=$[opts[saga.prop.key_compact] - cost:,]}]",
+      "before": "要了。[[{usd=$[opts[saga.prop.key_compact] - cost:,]}]",
+      "target": "要了[[{usd=$[opts[saga.prop.key_compact] - cost:,]}]",
+      "line": 821,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "source": "I guess so. [[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]",
+      "before": "那就要了吧。[[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]",
+      "target": "那就要了吧[[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]",
+      "line": 825,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/school_hall1.rpy",
+      "source": "End the school day and exit the building.",
+      "before": "结束今天的校园活动并离开学校。",
+      "target": "结束今天的校园活动并离开学校",
+      "line": 31,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/school_hall1.rpy",
+      "source": "Not yet.",
+      "before": "还不走。",
+      "target": "还不走",
+      "line": 36,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/titomi.rpy",
+      "source": "Ara Ara.",
+      "before": "啊啦啊啦。",
+      "target": "啊啦啊啦",
+      "line": 362,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/ton_baby.rpy",
+      "source": "[saga.cast.maria].",
+      "before": "[saga.cast.maria]。",
+      "target": "[saga.cast.maria]",
+      "line": 973,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/viv04.rpy",
+      "source": "Don't pay.",
+      "before": "不付钱。",
+      "target": "不付钱",
+      "line": 3761,
+      "date": "2026-10-05",
+      "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
+      "is_latest": true
     }
   ],
   "reading_batches": [

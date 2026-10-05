@@ -2265,7 +2265,7 @@ translate zh_hans strings:
     # game/src/plot/deb08.rpy:589
     # game/src/plot/deb08.rpy:592
     old "I got this."
-    new "我来吧。"
+    new "我来吧"
 
     # game/src/plot/deb08.rpy:376
     # game/src/plot/deb08.rpy:383

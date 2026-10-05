@@ -204,8 +204,8 @@ translate zh_hans strings:
 
     # game/src/plot/josie.rpy:8
     old "Russians."
-    new "俄罗斯人。"
+    new "俄罗斯人"
 
     # game/src/plot/josie.rpy:17
     old "See ya."
-    new "回头见。"
+    new "回头见"

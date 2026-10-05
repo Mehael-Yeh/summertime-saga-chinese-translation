@@ -10006,12 +10006,12 @@
       }
     },
     "tl/zh_hans/src/mech/shop.rpy": {
-      "sha256": "3bf0481cbca999ba8bd89d21ef7b8fffee77717a1282cbf590d8e8c042344e8f",
+      "sha256": "685621f7eabad47f9f85f53d3133a6102ad0fac4b27946c168f787b6ac8bd2b0",
       "pairs": 18,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "3bf0481cbca999ba8bd89d21ef7b8fffee77717a1282cbf590d8e8c042344e8f",
+        "translation_sha256": "685621f7eabad47f9f85f53d3133a6102ad0fac4b27946c168f787b6ac8bd2b0",
         "source_sha256": "2b5ec0ed9530363a61aeae6854393036f1f9a19a009b3ce602480a896c8265af",
         "source": "game/src/mech/shop.rpy",
         "source_local": ".codex_tmp/current7944/src/src/mech/shop.rpy",
@@ -46112,12 +46112,12 @@
       }
     },
     "tl/zh_hans/src/plot/cedric.rpy": {
-      "sha256": "436dfcdc362dde286e0fab46ddd5fc1671ea97b0b4dc34e4317924ddc4def506",
+      "sha256": "69c2d9d235cb7132308a5beedf2b3f314c32d61c0cab0c1bea08c63a36076311",
       "pairs": 42,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "436dfcdc362dde286e0fab46ddd5fc1671ea97b0b4dc34e4317924ddc4def506",
+        "translation_sha256": "69c2d9d235cb7132308a5beedf2b3f314c32d61c0cab0c1bea08c63a36076311",
         "source_sha256": "12cf8848a47c867dad099e9412974f88022318e5513815e1a1f88c1fdee6d1c0",
         "source": "game/src/plot/cedric.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/cedric.rpy",
@@ -51737,12 +51737,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb08.rpy": {
-      "sha256": "70395b58c94383551a5b069cb4df7cd82723716dccfd3daee449de67a0b65857",
+      "sha256": "e3b065e95246cddf33b7aecb28e3e706a3ced76f359141862c147cb984f959d8",
       "pairs": 381,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "70395b58c94383551a5b069cb4df7cd82723716dccfd3daee449de67a0b65857",
+        "translation_sha256": "e3b065e95246cddf33b7aecb28e3e706a3ced76f359141862c147cb984f959d8",
         "source_sha256": "e52a5aaeee3f2c4fd5e9c17c36d2c732dd4deea00605084b6262aeb8d9a3c02f",
         "source": "game/src/plot/deb08.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb08.rpy",
@@ -53648,7 +53648,7 @@
           {
             "id": "strings",
             "line": 2268,
-            "pair_sha256": "206c15dd6b91850e44a977188aee706e42b784740ac65bd7e2892cb138cd38b5"
+            "pair_sha256": "4ade7031b21bbf575fc401f7574db9f366ac426db434caaf1c8d21c46a4420ae"
           },
           {
             "id": "strings",
@@ -103766,12 +103766,12 @@
       }
     },
     "tl/zh_hans/src/plot/diane.rpy": {
-      "sha256": "f8ecbb9b0af7461157121e2b4d7499f18ef5c15d4cf70341dd7c97dbccfdd7ed",
+      "sha256": "191e35388259c86297edce43dce9c473cc2eeb72171c17b0d31c339d6843c838",
       "pairs": 12,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "f8ecbb9b0af7461157121e2b4d7499f18ef5c15d4cf70341dd7c97dbccfdd7ed",
+        "translation_sha256": "191e35388259c86297edce43dce9c473cc2eeb72171c17b0d31c339d6843c838",
         "source_sha256": "c75875ba71a8c23e44ee170bcc4432d7ec5572e34a90b3843a00367dbc6b1cd2",
         "source": "game/src/plot/diane.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/diane.rpy",
@@ -151535,12 +151535,12 @@
       }
     },
     "tl/zh_hans/src/plot/jos_trade.rpy": {
-      "sha256": "f168f9c119cc49b21f0a9754f70dcb3138af415adbb7651a609f31b2929b8b4c",
+      "sha256": "68ef6a6646b159084b461936e2f2cf7273b1d1822f98bbc0fc2b99c2ceff2158",
       "pairs": 142,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "f168f9c119cc49b21f0a9754f70dcb3138af415adbb7651a609f31b2929b8b4c",
+        "translation_sha256": "68ef6a6646b159084b461936e2f2cf7273b1d1822f98bbc0fc2b99c2ceff2158",
         "source_sha256": "479b94e23945c45cf2d55c8d605e77787f5061a2501a2cbefe85e22deaa58583",
         "source": "game/src/plot/jos_trade.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jos_trade.rpy",
@@ -152150,7 +152150,7 @@
           {
             "id": "strings",
             "line": 809,
-            "pair_sha256": "e0e2afada4b92acdb805d2fae719a0140e076e42a3a3eefc81e8f972bd0b3226"
+            "pair_sha256": "1b937fcba5d15abf32a69ef95e002bd50392b4163bae6757a7c4e319e0ea81b9"
           },
           {
             "id": "strings",
@@ -152165,12 +152165,12 @@
           {
             "id": "strings",
             "line": 821,
-            "pair_sha256": "06883a995cfd91798755b74ed4efed422826712275ec7bac5ffc98dccdfda323"
+            "pair_sha256": "1c110017202a6bb70f9602da673f08b13eb56e66558b31619efa3cb3f630127c"
           },
           {
             "id": "strings",
             "line": 825,
-            "pair_sha256": "6b6e4f7670c10ff7edc64e94fabead6c9594ba6cc5fbc98b28c8d2d2b12669c0"
+            "pair_sha256": "90bef1b59ddfa74983f60517b27f6fb873dd3f8c4ee707fd705417a4545a8f84"
           },
           {
             "id": "strings",
@@ -152201,12 +152201,12 @@
       }
     },
     "tl/zh_hans/src/plot/josie.rpy": {
-      "sha256": "8205c8ffd6844f38a94d3d17ff6c83ed1bcd98eb289681d0f9421469767ecb64",
+      "sha256": "5e0ccab9ad4162bb1babb6b65e6d36a90a0c1392149ee4e5fd0fe631d439c280",
       "pairs": 36,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "8205c8ffd6844f38a94d3d17ff6c83ed1bcd98eb289681d0f9421469767ecb64",
+        "translation_sha256": "5e0ccab9ad4162bb1babb6b65e6d36a90a0c1392149ee4e5fd0fe631d439c280",
         "source_sha256": "dd5bae51bb13bc3affacd874d710eb22adccfa0a912f61c121620b03417166ce",
         "source": "game/src/plot/josie.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/josie.rpy",
@@ -177456,12 +177456,12 @@
       }
     },
     "tl/zh_hans/src/plot/school_hall1.rpy": {
-      "sha256": "bdc69c6086b22ff47da1dc4cd1081e05f91cf9ec6158ca21e16ee6f7067ca581",
+      "sha256": "63227ee2c0297ad125087219172c671f45ff753b75ebd23eda69d4a90d99a4d2",
       "pairs": 6,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "bdc69c6086b22ff47da1dc4cd1081e05f91cf9ec6158ca21e16ee6f7067ca581",
+        "translation_sha256": "63227ee2c0297ad125087219172c671f45ff753b75ebd23eda69d4a90d99a4d2",
         "source_sha256": "ca32bdc1f4c35714f54811921af0c4548fc3c4815bc1ae532f21a052bddcfc59",
         "source": "game/src/plot/school_hall1.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/school_hall1.rpy",
@@ -177498,12 +177498,12 @@
           {
             "id": "strings",
             "line": 31,
-            "pair_sha256": "e1bb405f44def939c1254f41f7bafd26e960ec53b37589c99f25642b82c6a97c"
+            "pair_sha256": "70bc5a39f91b301d24cfdff6cb8d534da6db1be16c723c5e58fe00c30ef261ca"
           },
           {
             "id": "strings",
             "line": 36,
-            "pair_sha256": "275d054b51dc7046a920cb53df430523acf2457aae04eba29e7c06af6881541b"
+            "pair_sha256": "e1ff15c9ca194235beb67d1c4e260e0990af07626dc7ab056c65c9fbaf208004"
           }
         ],
         "note": "全文中文按源顺序及本地分支连读，无译文修改。seed范围与派发时机、密码小游戏及共享镜头仍待核实。",
@@ -184146,12 +184146,12 @@
       }
     },
     "tl/zh_hans/src/plot/titomi.rpy": {
-      "sha256": "83234e211545a3826397c74bb4dad2591144e9ebb2fe58d65928bea9973b0c5c",
+      "sha256": "c3b670b3ee2c8b3d54bc2374fadde460f2c8fcffbfc766d829831ab9c2b6deb5",
       "pairs": 61,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "83234e211545a3826397c74bb4dad2591144e9ebb2fe58d65928bea9973b0c5c",
+        "translation_sha256": "c3b670b3ee2c8b3d54bc2374fadde460f2c8fcffbfc766d829831ab9c2b6deb5",
         "source_sha256": "1c126fc79a5ffcfdeeb92962ffdd07be34f26485a7a6f515ce9510fc1b6a0abb",
         "source": "game/src/plot/titomi.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/titomi.rpy",
@@ -184463,7 +184463,7 @@
           {
             "id": "strings",
             "line": 362,
-            "pair_sha256": "8507d6778bb4a976ad1c36181cca436f7fc675bec528b210eef483b70b7f1efc"
+            "pair_sha256": "f40cbe7d31b93eaa47bfb305e1f89d482665ed8da1ec03283fabb7ccbd19ece4"
           },
           {
             "id": "strings",
@@ -184479,12 +184479,12 @@
       }
     },
     "tl/zh_hans/src/plot/ton_baby.rpy": {
-      "sha256": "7295ea6b905a4c4061343abf65a9482648cbb2be073369a4926b030ee909f269",
+      "sha256": "339a9d21ad03347c007951b0e052279e66527b546f87c9c0c2e3372b26c3d89a",
       "pairs": 153,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "7295ea6b905a4c4061343abf65a9482648cbb2be073369a4926b030ee909f269",
+        "translation_sha256": "339a9d21ad03347c007951b0e052279e66527b546f87c9c0c2e3372b26c3d89a",
         "source_sha256": "d8d66b9e352548639ecd738b52a5c10cf4797e07de173fe3b6fc9a39eaf000ba",
         "source": "game/src/plot/ton_baby.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/ton_baby.rpy",
@@ -200893,12 +200893,12 @@
       }
     },
     "tl/zh_hans/src/plot/viv04.rpy": {
-      "sha256": "2b45233730b4af516160b2002dba17d27b323807e4fa9174164403920dde319e",
+      "sha256": "e2fb240f3179f6a160f2a960184759a709711ca28bedb83951ea93352af40d29",
       "pairs": 630,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "2b45233730b4af516160b2002dba17d27b323807e4fa9174164403920dde319e",
+        "translation_sha256": "e2fb240f3179f6a160f2a960184759a709711ca28bedb83951ea93352af40d29",
         "source_sha256": "8954cfcc22d5a1aa51dcaa21dfb93efaf78bbc2f0588ae5efbf6f73176632e6e",
         "source": "game/src/plot/viv04.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/viv04.rpy",
@@ -204050,7 +204050,7 @@
           {
             "id": "strings",
             "line": 3761,
-            "pair_sha256": "224863daba3ee526d82a61841cd7ecfee2e63f58f6c2726580bbc6b3e4f2156c"
+            "pair_sha256": "51c4e3272c2dd09169c0894d378a8ea8eda204a222d9a9dd5c870c15a37b42b4"
           },
           {
             "id": "strings",
@@ -214053,7 +214053,7 @@
       }
     },
     "tl/zh_hans/src/plot/jiang.rpy": {
-      "sha256": "89ce928aa6e1df96560c13f9cca25f330eaf065517accda069d221fea87f71f8",
+      "sha256": "793522c8da1cd317fc53e22a3973f726790194ab72bd1fb58671771e9d896845",
       "pairs": 28,
       "status": "translated_8194_increment",
       "version_migration": {
@@ -214084,7 +214084,7 @@
             "pair_sha256": "1b7aa0eb0d0d68014c2755850600ed5ab208cbf1534244d59d22dde40545b089"
           }
         ],
-        "translation_sha256": "89ce928aa6e1df96560c13f9cca25f330eaf065517accda069d221fea87f71f8",
+        "translation_sha256": "793522c8da1cd317fc53e22a3973f726790194ab72bd1fb58671771e9d896845",
         "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
       },
       "refinement_8194_batch1": {
@@ -214095,7 +214095,7 @@
       }
     },
     "tl/zh_hans/src/plot/jos02.rpy": {
-      "sha256": "5504c80bba4a21a012c732366b284ba9d4a22f427ab05c05af259130cfb96282",
+      "sha256": "7e315c5d44686ec2d1c481693e547e37edc68fb3f90a3eef1168f3110765d060",
       "pairs": 649,
       "status": "translated_8194_increment",
       "version_migration": {
@@ -214206,7 +214206,7 @@
             "pair_sha256": "c277e88b22508a40313da2d72e7837ab6b41f6236e3e57095f6560cf389d5e9b"
           }
         ],
-        "translation_sha256": "5504c80bba4a21a012c732366b284ba9d4a22f427ab05c05af259130cfb96282",
+        "translation_sha256": "7e315c5d44686ec2d1c481693e547e37edc68fb3f90a3eef1168f3110765d060",
         "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
       },
       "refinement_8194_batch1": {
@@ -214217,7 +214217,7 @@
       }
     },
     "tl/zh_hans/src/plot/jos03.rpy": {
-      "sha256": "56c9f62557a7d989d5b0bb735f7f2493ab2830d5116e3a68e872c2a9d2232961",
+      "sha256": "9623c5b910a9384808ed01aff96bcdcaa932b1fa90f1fbcf35d700ce13c3e35c",
       "pairs": 434,
       "status": "translated_8194_increment",
       "version_migration": {
@@ -214323,7 +214323,7 @@
             "pair_sha256": "16d16b64720a8de16bc828dff5336afa3096afcae30304f2b1877b10eaf922d5"
           }
         ],
-        "translation_sha256": "56c9f62557a7d989d5b0bb735f7f2493ab2830d5116e3a68e872c2a9d2232961",
+        "translation_sha256": "9623c5b910a9384808ed01aff96bcdcaa932b1fa90f1fbcf35d700ce13c3e35c",
         "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
       },
       "refinement_8194_batch1": {
@@ -214416,7 +214416,7 @@
       }
     },
     "tl/zh_hans/src/plot/jos05.rpy": {
-      "sha256": "73b9d50ec0580c18a6490ae87a65bc514df6c59d4ca9c503fbe71256e3dca0e6",
+      "sha256": "907e059e8cca83504f98d25ec7e7045b10c6a9aef1f189c33b902db278131a78",
       "pairs": 77,
       "status": "translated_8194_increment",
       "version_migration": {
@@ -214454,10 +214454,10 @@
           {
             "id": "strings",
             "line": 445,
-            "pair_sha256": "7c46e6932968334a090cf3920f438c64c4fa5e84c9f8c7efaf18bd536edab472"
+            "pair_sha256": "32ceaa93e59197b07ceb210a9fa879e40726ce48627f1c84ce92815a7ef20073"
           }
         ],
-        "translation_sha256": "73b9d50ec0580c18a6490ae87a65bc514df6c59d4ca9c503fbe71256e3dca0e6",
+        "translation_sha256": "907e059e8cca83504f98d25ec7e7045b10c6a9aef1f189c33b902db278131a78",
         "note": "当前仅登记本批修正条目，已核对对应英文注释及相邻场景、分支语境；其余新增条目尚不计入全条审读，未进行游戏内逐场验收。"
       },
       "refinement_8194_batch1": {
@@ -214468,7 +214468,7 @@
       }
     },
     "tl/zh_hans/src/plot/jos_baby.rpy": {
-      "sha256": "83d4a915c6552408cc692a49c319895c47dd24ebd151819935052f03e87757e8",
+      "sha256": "d0a1f437185041027b8a53a4a8559d80080d6cc6c3fc89dcc5d26fe667085814",
       "pairs": 386,
       "status": "translated_8194_increment",
       "version_migration": {
@@ -214478,7 +214478,7 @@
       }
     },
     "tl/zh_hans/src/plot/jos_lounge.rpy": {
-      "sha256": "0c1fe7268be26478349ee4c71d9a41beae979953f5cac1104e779d1c52147a59",
+      "sha256": "3b936fefa1d2e27bf40aff25b503718d6de494a757db557438b99afab28b595c",
       "pairs": 94,
       "status": "translated_8194_increment",
       "version_migration": {

@@ -560,4 +560,4 @@ translate zh_hans strings:
 
     # game/src/plot/jos_lounge.rpy:15
     old "Bring it."
-    new "来啊。"
+    new "来啊"

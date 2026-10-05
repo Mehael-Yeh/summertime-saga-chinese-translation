@@ -806,7 +806,7 @@ translate zh_hans strings:
 
     # game/src/plot/jos_trade.rpy:50
     old "Gotta have four wheels."
-    new "必须得有四个轮子。"
+    new "必须得有四个轮子"
 
     # game/src/plot/jos_trade.rpy:53
     old "Take my money!"
@@ -818,11 +818,11 @@ translate zh_hans strings:
 
     # game/src/plot/jos_trade.rpy:139
     old "Yes. [[{usd=$[opts[saga.prop.key_compact] - cost:,]}]"
-    new "要了。[[{usd=$[opts[saga.prop.key_compact] - cost:,]}]"
+    new "要了[[{usd=$[opts[saga.prop.key_compact] - cost:,]}]"
 
     # game/src/plot/jos_trade.rpy:268
     old "I guess so. [[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]"
-    new "那就要了吧。[[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]"
+    new "那就要了吧[[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]"
 
     # game/src/plot/jos_trade.rpy:271
     old "Pass."

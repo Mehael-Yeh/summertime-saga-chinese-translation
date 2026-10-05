@@ -2596,7 +2596,7 @@ translate zh_hans strings:
 
     # game/src/plot/jos03.rpy:24
     old "Fine, I guess."
-    new "还行吧。"
+    new "还行吧"
 
     # game/src/plot/jos03.rpy:27
     old "What's up with her toe?"

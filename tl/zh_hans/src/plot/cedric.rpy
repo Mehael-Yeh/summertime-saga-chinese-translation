@@ -232,7 +232,7 @@ translate zh_hans strings:
 
     # game/src/plot/cedric.rpy:5
     old "[saga.cast.jenny]."
-    new "[saga.cast.jenny]。"
+    new "[saga.cast.jenny]"
 
     # game/src/plot/cedric.rpy:8
     old "What have you been up to?"

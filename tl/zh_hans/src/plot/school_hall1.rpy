@@ -28,9 +28,9 @@ translate zh_hans strings:
 
     # game/src/plot/school_hall1.rpy:29
     old "End the school day and exit the building."
-    new "结束今天的校园活动并离开学校。"
+    new "结束今天的校园活动并离开学校"
     # game/src/plot/school_hall1.rpy:32
 
     # game/src/plot/school_hall1.rpy:31
     old "Not yet."
-    new "还不走。"
+    new "还不走"

@@ -970,7 +970,7 @@ translate zh_hans strings:
 
     # game/src/plot/ton_baby.rpy:114
     old "[saga.cast.maria]."
-    new "[saga.cast.maria]。"
+    new "[saga.cast.maria]"
 
     # game/src/plot/ton_baby.rpy:519
     old "Where's [saga.cast.maria]?"

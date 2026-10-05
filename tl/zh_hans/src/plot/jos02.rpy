@@ -3874,15 +3874,15 @@ translate zh_hans strings:
 
     # game/src/plot/jos02.rpy:975
     old "Nah, I promised not to look."
-    new "不，我答应过不看。"
+    new "不，我答应过不看"
 
     # game/src/plot/jos02.rpy:978
     old "One peek wouldn't hurt."
-    new "瞄一眼也没关系吧。"
+    new "瞄一眼也没关系吧"
 
     # game/src/plot/jos02.rpy:1232
     old "Kinda."
-    new "有一点。"
+    new "有一点"
 
     # game/src/plot/jos02.rpy:1241
     old "No, ma'am!"
