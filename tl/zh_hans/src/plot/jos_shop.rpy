@@ -28,7 +28,7 @@ translate zh_hans jos_shop_ready_33f22cec:
 translate zh_hans jos_shop_ready_73e3b059:
 
     # anon e_b m_laugh @ -m_talk "Alright."
-    anon e_b m_laugh @ -m_talk "好吧。"
+    anon e_b m_laugh @ -m_talk "好啊。"
 
 # game/src/plot/jos_shop.rpy:23
 translate zh_hans jos_shop_ready_once_9274d1f8:
@@ -40,7 +40,7 @@ translate zh_hans jos_shop_ready_once_9274d1f8:
 translate zh_hans jos_shop_ready_once_5cfee88e:
 
     # anon a_calm_down "Woah, wait a second."
-    anon a_calm_down "哇，等一下。"
+    anon a_calm_down "哎，先等等。"
 
 # game/src/plot/jos_shop.rpy:27
 translate zh_hans jos_shop_ready_once_62761989:
@@ -64,13 +64,13 @@ translate zh_hans jos_shop_ready_once_64fdb9df:
 translate zh_hans jos_shop_ready_once_fab4f30a:
 
     # anon f_worried "I dunno..."
-    anon f_worried "不知道……"
+    anon f_worried "这……不太好吧……"
 
 # game/src/plot/jos_shop.rpy:33
 translate zh_hans jos_shop_ready_once_a210b806:
 
     # josie "C'mon, it gets me really hot!"
-    josie "来嘛，这让我特别兴奋！"
+    josie "来嘛，在那儿做让我特别兴奋！"
 
 # game/src/plot/jos_shop.rpy:34
 translate zh_hans jos_shop_ready_once_4f2c550c:
@@ -94,7 +94,7 @@ translate zh_hans jos_shop_ready_once_d0abbebb:
 translate zh_hans jos_shop_ready_once_dec77c0c:
 
     # josie "C'mon."
-    josie "来嘛。"
+    josie "走啦。"
 
 # game/src/plot/jos_shop.rpy:42
 translate zh_hans jos_shop_ready_once_a8ebfbdd:

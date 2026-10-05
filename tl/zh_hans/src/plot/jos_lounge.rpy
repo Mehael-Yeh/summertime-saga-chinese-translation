@@ -16,7 +16,7 @@ translate zh_hans jos_lounge_47d7383d:
 translate zh_hans jos_lounge_6e3db298:
 
     # josie "Dude, It's stream time!"
-    josie "哥们，现在是直播时间！"
+    josie "哥们，我正看直播呢！"
 
 # game/src/plot/jos_lounge.rpy:5
 translate zh_hans jos_lounge_20623e34:
@@ -46,7 +46,7 @@ translate zh_hans jos_lounge_merge_1a70cd03:
 translate zh_hans jos_lounge_merge_c2a50942:
 
     # josie e_ssw "Alright, fine."
-    josie e_ssw "好吧，好吧。"
+    josie e_ssw "行吧，行吧。"
 
 # game/src/plot/jos_lounge.rpy:26
 translate zh_hans jos_lounge_merge_d043bc48:
@@ -70,7 +70,7 @@ translate zh_hans jos_lounge_merge_964aa70e:
 translate zh_hans jos_lounge_merge_9f2ca5fd:
 
     # anon "No, your head is in the way."
-    anon "不，你的头挡着了。"
+    anon "看不见，你的头挡着了。"
 
 # game/src/plot/jos_lounge.rpy:35
 translate zh_hans jos_lounge_merge_b2b4733c:
@@ -82,7 +82,7 @@ translate zh_hans jos_lounge_merge_b2b4733c:
 translate zh_hans jos_lounge_merge_31c1cba3:
 
     # anon a_insert "Don't worry, I've got it."
-    anon a_insert "别担心，我来搞定。"
+    anon a_insert "没事，我来。"
 
 # game/src/plot/jos_lounge.rpy:38
 translate zh_hans jos_lounge_merge_255f00b8:
@@ -112,7 +112,7 @@ translate zh_hans jos_lounge_merge_d695ded3:
 translate zh_hans jos_lounge_merge_923a4622:
 
     # anon "Perfect."
-    anon "完美。"
+    anon "正好。"
 
 # game/src/plot/jos_lounge.rpy:50
 translate zh_hans jos_lounge_merge_61d744e4:
@@ -142,7 +142,7 @@ translate zh_hans jos_lounge_merge_6ede9ef9:
 translate zh_hans jos_lounge_merge_2369f04c:
 
     # anon "Oh, is this where you tell me you only play it for the story?"
-    anon "哦，现在是不是要说，你玩这个只是为了剧情？"
+    anon "哦，接下来是不是要说，你玩这个只是为了看剧情？"
 
 # game/src/plot/jos_lounge.rpy:55
 translate zh_hans jos_lounge_merge_17829222:
@@ -154,7 +154,7 @@ translate zh_hans jos_lounge_merge_17829222:
 translate zh_hans jos_lounge_merge_7b2618af:
 
     # josie "Or you know, when I'm really bored and I wanna cum."
-    josie "或者，特别无聊又想高潮的时候。"
+    josie "或者无聊得要命，又想高潮的时候。"
 
 # game/src/plot/jos_lounge.rpy:58
 translate zh_hans jos_lounge_merge_01627ac1:
@@ -196,7 +196,7 @@ translate zh_hans jos_lounge_merge_d62b10b5:
 translate zh_hans jos_lounge_merge_22696432:
 
     # josie "Yeah, except it's usually a trap and he spends the entire time bullying the shit out of them."
-    josie "嗯，不过通常是个陷阱，他整场都在狠狠欺负他们。"
+    josie "嗯，不过通常就是把人骗来，整场直播都在狠狠损他们。"
 
 # game/src/plot/jos_lounge.rpy:66
 translate zh_hans jos_lounge_merge_5502af91:
@@ -220,7 +220,7 @@ translate zh_hans jos_lounge_merge_97c7ca95:
 translate zh_hans jos_lounge_merge_d3575739:
 
     # josie "I dunno, I kinda like it."
-    josie "不知道，我倒挺喜欢。"
+    josie "还好吧，我倒有点喜欢。"
 
 # game/src/plot/jos_lounge.rpy:71
 translate zh_hans jos_lounge_merge_46352b86:
@@ -244,13 +244,13 @@ translate zh_hans jos_lounge_merge_998f7822:
 translate zh_hans jos_lounge_merge_9aba4e33:
 
     # josie "... Fuck my troll pussy!"
-    josie "……干我这捣蛋鬼的小穴！"
+    josie "……干我这捣蛋鬼的屄！"
 
 # game/src/plot/jos_lounge.rpy:76
 translate zh_hans jos_lounge_merge_93dc7d27:
 
     # anon "Eugh, please don't ever say that again."
-    anon "呃，求你别再说这种话了。"
+    anon "呕，拜托你以后别再这么说了。"
 
 # game/src/plot/jos_lounge.rpy:77
 translate zh_hans jos_lounge_merge_94a8de1e:
@@ -274,7 +274,7 @@ translate zh_hans jos_lounge_merge_892106a8:
 translate zh_hans jos_lounge_merge_fc8d2777:
 
     # josie "No, the hair pulling is great."
-    josie "不，扯头发很舒服。"
+    josie "没有，扯头发挺舒服的。"
 
 # game/src/plot/jos_lounge.rpy:82
 translate zh_hans jos_lounge_merge_e5126e89:
@@ -304,19 +304,19 @@ translate zh_hans jos_lounge_merge_c44205c1:
 translate zh_hans jos_lounge_merge_68e4ee78:
 
     # anon "Good because I'm about two seconds away from popping off!"
-    anon "那就好，我再过两秒就要高潮了！"
+    anon "那就好，我还有两秒就要射了！"
 
 # game/src/plot/jos_lounge.rpy:89
 translate zh_hans jos_lounge_merge_3416b083:
 
     # anon "Here..."
-    anon "要……"
+    anon "我……"
 
 # game/src/plot/jos_lounge.rpy:90
 translate zh_hans jos_lounge_merge_231fbd39:
 
     # anon "... it..."
-    anon "……射……"
+    anon "……要射……"
 
 # game/src/plot/jos_lounge.rpy:91
 translate zh_hans jos_lounge_merge_a9d4d250:
@@ -418,7 +418,7 @@ translate zh_hans jos_lounge_merge_343e4583:
 translate zh_hans jos_lounge_merge_a918c3a5:
 
     # anon a_wave "Well, see ya later... I guess."
-    anon a_wave "那，回头见……大概吧。"
+    anon a_wave "那我就……先走了，回头见。"
 
 # game/src/plot/jos_lounge.rpy:156
 translate zh_hans jos_lounge_merge_e56a6c1a_2:
@@ -430,7 +430,7 @@ translate zh_hans jos_lounge_merge_e56a6c1a_2:
 translate zh_hans jos_lounge_merge_be8f55b0:
 
     # josie f_horny "Oh my god, he's drawing poop again!"
-    josie f_horny "天啊，他又在画屎了！"
+    josie f_horny "天哪，他又在画屎了！"
 
 # game/src/plot/jos_lounge.rpy:161
 translate zh_hans jos_lounge_merge_29190320:
@@ -484,19 +484,19 @@ translate zh_hans jos_lounge_once_37042707:
 translate zh_hans jos_lounge_once_f67606fd:
 
     # anon a_side f_disgusted "It looks like she swallowed a bean bag chair!"
-    anon a_side f_disgusted "看着像吞了个豆袋沙发！"
+    anon a_side f_disgusted "她看着就像吞了个懒人沙发！"
 
 # game/src/plot/jos_lounge.rpy:179
 translate zh_hans jos_lounge_once_a1d7e0eb:
 
     # josie "I think it's supposed to be exaggerated for comedic effect..."
-    josie "我想，是故意夸张，好制造喜剧效果……"
+    josie "应该是故意画得夸张点，好逗人笑吧……"
 
 # game/src/plot/jos_lounge.rpy:180
 translate zh_hans jos_lounge_once_ffa7393b:
 
     # anon f_worried "Geez, I hope so."
-    anon f_worried "天啊，希望是这样。"
+    anon f_worried "老天，希望是这样。"
 
 # game/src/plot/jos_lounge.rpy:184
 translate zh_hans jos_lounge_once_2f879a4d:
@@ -508,7 +508,7 @@ translate zh_hans jos_lounge_once_2f879a4d:
 translate zh_hans jos_lounge_once_6483d38f:
 
     # josie "Honestly, with him... it could be either one."
-    josie "说真的，他画的……两种都有可能。"
+    josie "说真的，就他那风格……两种都有可能。"
 
 # game/src/plot/jos_lounge.rpy:187
 translate zh_hans jos_lounge_once_02466856:
@@ -520,7 +520,7 @@ translate zh_hans jos_lounge_once_02466856:
 translate zh_hans jos_lounge_once_1cf98f35:
 
     # josie e_wnw "See, it's surprisingly entertaining!"
-    josie e_wnw "看吧，出奇地好玩！"
+    josie e_wnw "看吧，比你想的有意思吧！"
 
 # game/src/plot/jos_lounge.rpy:189
 translate zh_hans jos_lounge_once_90d7dbb4:
@@ -544,7 +544,7 @@ translate zh_hans jos_lounge_once_3e1e8a29:
 translate zh_hans jos_lounge_once_c29ac2ad:
 
     # anon a_side f_happy "I mean, I'll totally watch it... if we can..."
-    anon a_side f_happy "我是说，我肯定会看……只要我们能……"
+    anon a_side f_happy "我是说，我当然愿意陪你看……只要我们能……"
 
 # game/src/plot/jos_lounge.rpy:196
 translate zh_hans jos_lounge_once_ffca8d92:
@@ -560,4 +560,4 @@ translate zh_hans strings:
 
     # game/src/plot/jos_lounge.rpy:15
     old "Bring it."
-    new "来啊"
+    new "把手机带上"

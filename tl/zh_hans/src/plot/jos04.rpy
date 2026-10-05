@@ -166,7 +166,7 @@ translate zh_hans jos04_intro_c72748d0:
 translate zh_hans jos04_intro_7d8e2731:
 
     # anon f_horny "Well, I suppose I could swing by for a little bit."
-    anon f_horny "那我想，我可以过来待一会儿。"
+    anon f_horny "那……我想我可以过去待一会儿。"
 
 # game/src/plot/jos04.rpy:46
 translate zh_hans jos04_intro_347380b8:
@@ -238,7 +238,7 @@ translate zh_hans jos04_shop_eec18c66:
 translate zh_hans jos04_shop_d5a7d788:
 
     # anon f_confused @ -m_talk "( I wonder what that's about? )"
-    anon f_confused @ -m_talk "（不知道为了什么？）"
+    anon f_confused @ -m_talk "（不知道他们在吵什么？）"
 
 # game/src/plot/jos04.rpy:77
 translate zh_hans jos04_shop_1f451e92:
@@ -268,7 +268,7 @@ translate zh_hans jos04_shop_4b60fa39:
 translate zh_hans jos04_shop_rails_849cec39:
 
     # anon @ -m_talk "( Someone has to rescue [saga.cast.josie] from her boredom at the dealership... )"
-    anon @ -m_talk "（总得有人把[saga.cast.josie]从车行的无聊中拯救出来……）"
+    anon @ -m_talk "（总得有人去拯救一下[saga.cast.josie]，免得她在车行无聊死……）"
 
 # game/src/plot/jos04.rpy:93
 translate zh_hans jos04_shop_rails_86d602ee:
@@ -496,7 +496,7 @@ translate zh_hans jos04_yoshi_ronald_d03c1a10:
 translate zh_hans jos04_yoshi_ronald_2155703d:
 
     # yoshi "I can't tell you how much we appreciate your business!"
-    yoshi "您惠顾我们的生意，实在感激不尽！"
+    yoshi "您照顾我们的生意，我们实在感激不尽！"
 
 # game/src/plot/jos04.rpy:203
 translate zh_hans jos04_yoshi_ronald_00dec349:
@@ -526,7 +526,7 @@ translate zh_hans jos04_yoshi_ronald_f9e13967:
 translate zh_hans jos04_yoshi_ronald_51f3defb:
 
     # ronald "You know, this is the guy you should really be thanking!"
-    ronald "你知道，你真正该感谢的是这位！"
+    ronald "说起来，你真正该感谢的是这位！"
 
 # game/src/plot/jos04.rpy:215
 translate zh_hans jos04_yoshi_ronald_44f63a69:
@@ -568,7 +568,7 @@ translate zh_hans jos04_yoshi_ronald_bbc37417:
 translate zh_hans jos04_yoshi_ronald_335c66c8:
 
     # yoshi "I'll just be right over there at the front desk, should you require anything."
-    yoshi "我就在那边前台，有什么需要尽管叫我。"
+    yoshi "我就在那边前台，您有什么需要尽管叫我。"
 
 # game/src/plot/jos04.rpy:229
 translate zh_hans jos04_yoshi_ronald_403682e0:
@@ -874,7 +874,7 @@ translate zh_hans jos04_office_ronald_357326bb:
 translate zh_hans jos04_office_ronald_3a996ae0:
 
     # ronald a_finger "But I'm warning you now, you are far from irreplaceable."
-    ronald a_finger "不过我警告你，你远远没到不可替代的地步。"
+    ronald a_finger "不过我警告你，别以为没人能顶替你。"
 
 # game/src/plot/jos04.rpy:347
 translate zh_hans jos04_office_ronald_f25cc0ea:
@@ -928,7 +928,7 @@ translate zh_hans jos04_office_ronald_3572421e:
 translate zh_hans jos04_office_ronald_f72a8f48:
 
     # ronald f_calm "Now that's settled, I'd like to speak with you about the growing needs of our enterprise here in Summerville."
-    ronald f_calm "这事解决了，接下来谈谈我们在夏日镇的生意吧，需求正越来越大。"
+    ronald f_calm "既然这事解决了，我想跟你谈谈我们在夏日镇的生意，现在需要办的事越来越多了。"
 
 # game/src/plot/jos04.rpy:362
 translate zh_hans jos04_office_ronald_aa3bab3f:
@@ -976,7 +976,7 @@ translate zh_hans jos04_office_ronald_7c833618:
 translate zh_hans jos04_office_ronald_2e51f014:
 
     # ronald "I'll let my security team know you're expected."
-    ronald "我会通知安保，今晚你们会来。"
+    ronald "我会跟安保打好招呼，说你们要来。"
 
 # game/src/plot/jos04.rpy:375
 translate zh_hans jos04_office_ronald_4ca52cf3:
@@ -1240,7 +1240,7 @@ translate zh_hans jos04_josie_3362876c:
 translate zh_hans jos04_josie_1b41bc94:
 
     # anon "Yeah, why not."
-    anon "是啊，为什么不呢。"
+    anon "嗯，有什么不可以的。"
 
 # game/src/plot/jos04.rpy:497
 translate zh_hans jos04_josie_e6835d72:
@@ -1336,7 +1336,7 @@ translate zh_hans jos04_josie_d989d86c:
 translate zh_hans jos04_josie_7598c227:
 
     # mono "Offering condolences at my father's death and booing appropriately when I told her about the constant harassment from the Russian Mafia."
-    mono "听说我父亲去世，她表示了同情；听到俄罗斯黑帮不停骚扰我，她也适时地嘘上几声。"
+    mono "听说我父亲去世，她表示了同情；听到俄罗斯黑帮不停骚扰我，她也跟着嘘上几声。"
 
 # game/src/plot/jos04.rpy:530
 translate zh_hans jos04_josie_dc1374be:
@@ -1462,7 +1462,7 @@ translate zh_hans jos04_josie_86cde2fb:
 translate zh_hans jos04_josie_5afdb631:
 
     # anon a_surprised e_s "N-nothing."
-    anon a_surprised e_s "没……没什么。"
+    anon a_surprised e_s "没、没什么。"
 
 # game/src/plot/jos04.rpy:564
 translate zh_hans jos04_josie_cc867e05:
@@ -1630,7 +1630,7 @@ translate zh_hans jos04_josie_merge_95ca9a2c:
 translate zh_hans jos04_josie_merge_dd4e5ed8:
 
     # josie f_horny "See something you like?"
-    josie f_horny "有看上的东西吗？"
+    josie f_horny "怎么样，喜欢吗？"
 
 # game/src/plot/jos04.rpy:613
 translate zh_hans jos04_josie_merge_d91a992e:
@@ -1720,7 +1720,7 @@ translate zh_hans jos04_josie_merge_d67249b7:
 translate zh_hans jos04_josie_merge_5d303bb4:
 
     # anon e_w "These might help me figure out what happened with my dad, you know?"
-    anon e_w "这些说不定能让我弄清楚我爸出了什么事，你知道吧？"
+    anon e_w "这些说不定能让我弄清楚我爸到底出了什么事。"
 
 # game/src/plot/jos04.rpy:645
 translate zh_hans jos04_josie_merge_202b73ed:
@@ -1888,7 +1888,7 @@ translate zh_hans jos04_josie_merge_26737dec:
 translate zh_hans jos04_josie_merge_8c052247:
 
     # josie "Heh, what can I say... Nerdy little white boys turn me on..."
-    josie "呵，怎么说呢……我就是喜欢这种宅宅的白人小子……"
+    josie "呵，怎么说呢……这种宅宅的白人小子就是能让我兴奋……"
 
 # game/src/plot/jos04.rpy:705
 translate zh_hans jos04_josie_merge_5502af91:
@@ -2014,7 +2014,7 @@ translate zh_hans jos04_josie_merge_d2f874df:
 translate zh_hans jos04_josie_merge_81112f6c:
 
     # josie "Don't shush me!"
-    josie "别嘘我！"
+    josie "别叫我小声！"
 
 # game/src/plot/jos04.rpy:735
 translate zh_hans jos04_josie_merge_069920af:
@@ -2068,7 +2068,7 @@ translate zh_hans jos04_josie_merge_537c7755:
 translate zh_hans jos04_josie_merge_dbcc606d:
 
     # josie "Urgh!"
-    josie "呃啊！"
+    josie "可恶！"
 
 # game/src/plot/jos04.rpy:757
 translate zh_hans jos04_josie_merge_01819927:
@@ -2194,7 +2194,7 @@ translate zh_hans jos04_josie_merge_72b879b0:
 translate zh_hans jos04_josie_merge_032ade6f:
 
     # josie @ -m_talk "What did you think was gonna happen?!"
-    josie @ -m_talk "你以为会发生什么？！"
+    josie @ -m_talk "不然你以为我会怎样？！"
 
 # game/src/plot/jos04.rpy:800
 translate zh_hans jos04_josie_merge_57b08a78:
@@ -2230,7 +2230,7 @@ translate zh_hans jos04_josie_merge_84f1ef50:
 translate zh_hans jos04_josie_merge_7f3e78f9:
 
     # anon "I wasn't aware we were labeling-"
-    anon "我都不知道我们已经算是——"
+    anon "我都不知道咱们已经要定关系了——"
 
 # game/src/plot/jos04.rpy:810
 translate zh_hans jos04_josie_merge_fee25285:
@@ -2500,7 +2500,7 @@ translate zh_hans jos04_josie_merge_58c8c971:
 translate zh_hans jos04_josie_merge_171ee74d:
 
     # josie f_shy "Sorry we didn't finish... you know..."
-    josie f_shy "不好意思，没能做完……你知道的……"
+    josie f_shy "不好意思，没能做完……就是那个……"
 
 # game/src/plot/jos04.rpy:934
 translate zh_hans jos04_josie_merge_ad8c1740:
@@ -2536,7 +2536,7 @@ translate zh_hans jos04_josie_merge_d989450e:
 translate zh_hans jos04_josie_merge_5a21535c:
 
     # anon "I'm new at this."
-    anon "我还不太会这个。"
+    anon "我还不太会这些。"
 
 # game/src/plot/jos04.rpy:962
 translate zh_hans jos04_josie_merge_44746db4:
@@ -2590,7 +2590,7 @@ translate zh_hans jos04_josie_alt_d82950fb:
 translate zh_hans jos04_josie_alt_ea09753e:
 
     # josie "That's bananas!"
-    josie "真是疯了！"
+    josie "真是疯了！（bananas也指“香蕉”）"
 
 # game/src/plot/jos04.rpy:997
 translate zh_hans jos04_josie_alt_d5744a3b:
@@ -2626,7 +2626,7 @@ translate zh_hans jos04_josie_alt_b6602985:
 translate zh_hans jos04_josie_alt_d050bb04:
 
     # josie "Man, your life is {i}so{/i} much more exciting than mine."
-    josie "天啊，你的生活比我的精彩{i}多了{/i}。"
+    josie "哎，你的生活比我的精彩{i}多了{/i}。"
 
 # game/src/plot/jos04.rpy:1007
 translate zh_hans jos04_josie_alt_ee31d607:
@@ -2638,7 +2638,7 @@ translate zh_hans jos04_josie_alt_ee31d607:
 translate zh_hans jos04_josie_alt_96658529:
 
     # josie f_worried "Not that I... err-"
-    josie f_worried "不是说我……呃——"
+    josie f_worried "我不是那个意思……呃——"
 
 # game/src/plot/jos04.rpy:1009
 translate zh_hans jos04_josie_alt_fe77ef9c:

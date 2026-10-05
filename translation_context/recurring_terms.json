@@ -1856,6 +1856,17 @@
       "translation": "保安室",
       "first_seen": "tl/zh_hans/res/meta/sets.rpy",
       "note": "8194地点UI新增定译；后续同名引用保持一致。"
+    },
+    {
+      "id": "josie_lanolin_oil",
+      "source_regex": "\\blanolin(?:e)? oil\\b",
+      "target_regexes": [
+        "羊毛脂油"
+      ],
+      "category": "care_item",
+      "translation": "羊毛脂油",
+      "first_seen": "tl/zh_hans/src/plot/jos_baby.rpy",
+      "note": "孕期视频与产后探访的重复护理用语；lanoline为源码拼写变体，原文保留，忠实转述角色说法，不作医学建议。"
     }
   ]
 }

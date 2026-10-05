@@ -22,7 +22,7 @@ translate zh_hans jos05_intro_block_7e1af0c1:
 translate zh_hans jos05_intro_block_4cd802e6:
 
     # anon @ -m_talk "( I'm not setting foot in there until [saga.cast.yoshi] has had a chance to cool down. )"
-    anon @ -m_talk "（[saga.cast.yoshi]没消气之前，我绝不进去。）"
+    anon @ -m_talk "（先让[saga.cast.yoshi]消消气，我再进去。）"
 
 # game/src/plot/jos05.rpy:21
 translate zh_hans jos05_read_fc674c18:
@@ -94,7 +94,7 @@ translate zh_hans jos05_shop_b6c587fd:
 translate zh_hans jos05_shop_a77d8998:
 
     # anon "I didn't know if you'd still be here or not..."
-    anon "我还以为你可能已经不在这儿了……"
+    anon "我还不确定你是不是还在这儿……"
 
 # game/src/plot/jos05.rpy:59
 translate zh_hans jos05_shop_16980faf:
@@ -112,7 +112,7 @@ translate zh_hans jos05_shop_b1b6dc4f:
 translate zh_hans jos05_shop_0b26a7c6:
 
     # anon "You know, because last time I was here we-"
-    anon "你知道的，上次我来这儿，我们——"
+    anon "就是，上次我来的时候，我们——"
 
 # game/src/plot/jos05.rpy:64
 translate zh_hans jos05_shop_049a9eff:
@@ -172,7 +172,7 @@ translate zh_hans jos05_shop_b0785300:
 translate zh_hans jos05_shop_76be5c73:
 
     # josie e_w f_calm "He told me I had six months to find a place."
-    josie e_w f_calm "他说给我六个月找地方。"
+    josie e_w f_calm "他说给我六个月找新住处。"
 
 # game/src/plot/jos05.rpy:76
 translate zh_hans jos05_shop_d8b9a289:
@@ -328,7 +328,7 @@ translate zh_hans jos05_shop_merge_03722f46:
 translate zh_hans jos05_shop_merge_23cee7bf:
 
     # josie @ e_r f_bored "Yeah, right."
-    josie @ e_r f_bored "是啊，才怪。"
+    josie @ e_r f_bored "得了吧。"
 
 # game/src/plot/jos05.rpy:148
 translate zh_hans jos05_shop_merge_44c55ad9:
@@ -388,7 +388,7 @@ translate zh_hans jos05_shop_sex2_357aa302:
 translate zh_hans jos05_shop_sex2_0232b071:
 
     # josie @ e_b f_happy m_laugh "Yes, bowl cut!"
-    josie @ e_b f_happy m_laugh "没错，锅盖头！"
+    josie @ e_b f_happy m_laugh "太好了，锅盖头！"
 
 # game/src/plot/jos05.rpy:182
 translate zh_hans jos05_shop_sex2_0cd9ed6d:

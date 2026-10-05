@@ -154,7 +154,7 @@ translate zh_hans jos02_read_0a2ca51c:
 translate zh_hans jos02_shop_5f6fb468:
 
     # josie "Oh my god, you are such an asshole!"
-    josie "天啊，你真是个混蛋！"
+    josie "天哪，你真是个混蛋！"
 
 # game/src/plot/jos02.rpy:65
 translate zh_hans jos02_shop_1d20942e:
@@ -184,7 +184,7 @@ translate zh_hans jos02_shop_27c535e3:
 translate zh_hans jos02_shop_d7d987de:
 
     # josie "Eugh, you're disgusting!"
-    josie "呃，你真恶心！"
+    josie "呕，你真恶心！"
 
 # game/src/plot/jos02.rpy:71
 translate zh_hans jos02_shop_7f3a8469:
@@ -220,7 +220,7 @@ translate zh_hans jos02_shop_566953a6:
 translate zh_hans jos02_shop_0a5a17a1:
 
     # josie "Oh my god, you are such a bitch!"
-    josie "天啊，你真是个贱人！"
+    josie "天哪，你真是个贱人！"
 
 # game/src/plot/jos02.rpy:83
 translate zh_hans jos02_shop_ea04d664:
@@ -250,7 +250,7 @@ translate zh_hans jos02_shop_7c8321e2:
 translate zh_hans jos02_shop_e6c08a40:
 
     # josie "Eugh, you're the worst!"
-    josie "呃，你真是烂透了！"
+    josie "呕，你真是烂透了！"
 
 # game/src/plot/jos02.rpy:88
 translate zh_hans jos02_shop_42e9ceea:
@@ -388,7 +388,7 @@ translate zh_hans jos02_shop_cbe42cda:
 translate zh_hans jos02_shop_bcf98fc2:
 
     # anon e_w "... You know, to..."
-    anon e_w "……你知道，就是……"
+    anon e_w "……就是……"
 
 # game/src/plot/jos02.rpy:126
 translate zh_hans jos02_shop_51f0701e:
@@ -436,7 +436,7 @@ translate zh_hans jos02_shop_39d517bf:
 translate zh_hans jos02_shop_da739693:
 
     # josie e_w "Dude, can't you see I'm in the middle of a panic attack over here?"
-    josie e_w "哥们，没看见我在这儿都快急疯了吗？"
+    josie e_w "哥们，没看见我都快慌死了吗？"
 
 # game/src/plot/jos02.rpy:137
 translate zh_hans jos02_shop_047b527a:
@@ -640,13 +640,13 @@ translate zh_hans jos02_shop_9457fdde:
 translate zh_hans jos02_shop_15639305:
 
     # anon f_shy "I guess, you're not really in the mood to smooth things over then, huh?"
-    anon f_shy "那你现在大概没心情跟我和好了，是吧？"
+    anon f_shy "那你现在大概没心情听我道歉了，是吧？"
 
 # game/src/plot/jos02.rpy:189
 translate zh_hans jos02_shop_5740b3a6:
 
     # josie e_w "Oh my god, dude..."
-    josie e_w "天啊，哥们……"
+    josie e_w "天哪，哥们……"
 
 # game/src/plot/jos02.rpy:191
 translate zh_hans jos02_shop_2b22530a:
@@ -658,7 +658,7 @@ translate zh_hans jos02_shop_2b22530a:
 translate zh_hans jos02_shop_b8b8465e:
 
     # josie e_ssw f_angry @ e_b m_yell "I'm freaking out here!"
-    josie e_ssw f_angry @ e_b m_yell "我都快急疯了！"
+    josie e_ssw f_angry @ e_b m_yell "我都快慌死了！"
 
 # game/src/plot/jos02.rpy:193
 translate zh_hans jos02_shop_2e9aef23:
@@ -1114,7 +1114,7 @@ translate zh_hans jos02_shop_83dd9b42:
 translate zh_hans jos02_shop_c9c68876:
 
     # anon "I'll just delete his whole gallery."
-    anon "我直接把他的相册全删了。"
+    anon "我直接把整个相册都删了。"
 
 # game/src/plot/jos02.rpy:356
 translate zh_hans jos02_shop_3242b1d0:
@@ -1198,7 +1198,7 @@ translate zh_hans jos02_shop_josie_5ad6879f:
 translate zh_hans jos02_shop_josie_41562421:
 
     # anon a_rub @ -m_talk "( Geez, does she talk to all her customers like that? )"
-    anon a_rub @ -m_talk "（天啊，她跟所有顾客都这么说话吗？）"
+    anon a_rub @ -m_talk "（天哪，她跟所有顾客都这么说话吗？）"
 
 # game/src/plot/jos02.rpy:385
 translate zh_hans jos02_shop_josie_9b930bfe:
@@ -1654,7 +1654,7 @@ translate zh_hans jos02_jiang1_70494123:
 translate zh_hans jos02_jiang1_6e1a8164:
 
     # jiang "{i}*Snort*{/i} Man, get the fuck outta here!"
-    jiang "{i}*嗤笑*{/i}哥们，滚一边去吧！"
+    jiang "{i}*嗤笑*{/i}哥们，你他妈开什么玩笑！"
 
 # game/src/plot/jos02.rpy:531
 translate zh_hans jos02_jiang1_c8fec1a0:
@@ -1696,7 +1696,7 @@ translate zh_hans jos02_jiang1_95d9cf76:
 translate zh_hans jos02_jiang1_fb65ba16:
 
     # anon a_palm "I dunno, something I can assist you with?"
-    anon a_palm "不知道，比如有什么我能帮你做的？"
+    anon a_palm "比如……有什么我能帮你做的？"
 
 # game/src/plot/jos02.rpy:541
 translate zh_hans jos02_jiang1_d335638d:
@@ -1816,7 +1816,7 @@ translate zh_hans jos02_jiang1_merge1_8f8b00ed:
 translate zh_hans jos02_jiang1_merge1_c8ddefc6:
 
     # jiang "You know, gotta make that cheddar!"
-    jiang "你知道的，得赚钱嘛！"
+    jiang "总得挣钱嘛！"
 
 # game/src/plot/jos02.rpy:572
 translate zh_hans jos02_jiang1_merge1_c7aca62f:
@@ -2590,7 +2590,7 @@ translate zh_hans jos02_bag_jiang_cad171cf:
 translate zh_hans jos02_bag_jiang_652fcfa5:
 
     # jiang "Well, no bag... no phone..."
-    jiang "那就找不到工具包……就拿不到手机……"
+    jiang "找不到工具包……就拿不到手机……"
 
 # game/src/plot/jos02.rpy:841
 translate zh_hans jos02_bag_jiang_7d4ceced:
@@ -2770,7 +2770,7 @@ translate zh_hans jos02_jiang2_412ebdd9:
 translate zh_hans jos02_jiang2_d0800c33:
 
     # jiang "Hmm, everything looks good."
-    jiang "嗯，东西都在。"
+    jiang "嗯，看着都没问题。"
 
 # game/src/plot/jos02.rpy:914
 translate zh_hans jos02_jiang2_67aea01a:
@@ -3016,7 +3016,7 @@ translate zh_hans jos02_jiang2_merge3_f1a9e3d8:
 translate zh_hans jos02_jiang2_merge3_02e1900b:
 
     # anon a_palm "There must be something I can do to thank you for helping me."
-    anon a_palm "你帮了我，肯定有办法让我好好谢谢你。"
+    anon a_palm "你帮了我，总得让我做点什么谢谢你。"
 
 # game/src/plot/jos02.rpy:1022
 translate zh_hans jos02_jiang2_merge4_7c863eb0:
@@ -3100,7 +3100,7 @@ translate zh_hans jos02_jiang2_alt_6074b63e:
 translate zh_hans jos02_jiang2_alt_ccaa5a41:
 
     # jiang "I see some pussy peekin'!"
-    jiang "我瞧见一点小穴了！"
+    jiang "小穴都露出来一点了！"
 
 # game/src/plot/jos02.rpy:1052
 translate zh_hans jos02_jiang2_alt_7f5d110b:
@@ -3124,7 +3124,7 @@ translate zh_hans jos02_jiang2_alt_eb0dc585:
 translate zh_hans jos02_jiang2_alt_1209b5da:
 
     # anon "I think that's enough."
-    anon "我想够了。"
+    anon "我觉得够了。"
 
 # game/src/plot/jos02.rpy:1062
 translate zh_hans jos02_jiang2_alt_1b4d30b8:
@@ -3298,7 +3298,7 @@ translate zh_hans jos02_josie_merge_768274ab:
 translate zh_hans jos02_josie_merge_5f715f5b:
 
     # anon "What the-"
-    anon "什么——"
+    anon "搞什么——"
 
 # game/src/plot/jos02.rpy:1185
 translate zh_hans jos02_josie_merge_561d7079:
@@ -3382,7 +3382,7 @@ translate zh_hans jos02_josie_merge_2df23a65:
 translate zh_hans jos02_josie_merge_57f664c9:
 
     # anon "Wow, they're so perky!"
-    anon "哇，真挺拔！"
+    anon "哇，真挺翘！"
 
 # game/src/plot/jos02.rpy:1208
 translate zh_hans jos02_josie_merge_e4a5cd18:
@@ -3400,7 +3400,7 @@ translate zh_hans jos02_josie_merge_85726d32:
 translate zh_hans jos02_josie_merge_ab508a13:
 
     # josie f_worried "They aren't radio knobs, you know?!"
-    josie f_worried "这可不是收音机旋钮，好吗？！"
+    josie f_worried "这又不是收音机的旋钮，好吗？！"
 
 # game/src/plot/jos02.rpy:1211
 translate zh_hans jos02_josie_merge_8d5a08db:
@@ -3670,7 +3670,7 @@ translate zh_hans jos02_josie_merge_d56cd71f:
 translate zh_hans jos02_josie_merge_99b3a541:
 
     # yoshi f_happy "It's my pleasure, sir."
-    yoshi f_happy "这是我的荣幸，先生。"
+    yoshi f_happy "乐意为您效劳，先生。"
 
 # game/src/plot/jos02.rpy:1317
 translate zh_hans jos02_josie_merge_ea64359f:
@@ -3766,7 +3766,7 @@ translate zh_hans jos02_lounge_jiang_96fb37d7:
 translate zh_hans jos02_lounge_jiang_6bbcd82f:
 
     # jiang f_horny "... I'd remember if little Miss DSLs had been by."
-    jiang f_horny "……那位美唇小姐要是来过，我肯定记得。"
+    jiang f_horny "……那位“吹箫嘴”小姐要是来过，我肯定记得。"
 
 # game/src/plot/jos02.rpy:1376
 translate zh_hans jos02_lounge_jiang_cc8e06d9:

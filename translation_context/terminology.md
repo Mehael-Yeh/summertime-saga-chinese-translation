@@ -1,11 +1,19 @@
 # 术语与称谓规范
 
-更新时间：2026-10-05
+更新时间：2026-10-06
 
 用途与维护方式见[index.md](index.md)。
 
 ## Josie车行剧情的语境边界
 
+- `jos_office`的`hard`同时指骑乘费劲和勃起坚硬；中文用“这活／还真是／够呛”接“硬得够呛”，随后保留“我说的不是你的鸡巴”的纠正。保留四段喘断和原斜体，不用“难干”或另造硬仗等比喻。
+- `jos_baby`医院及护士共用对白涵盖男婴、女婴，未区分性别的母亲与孩子合称“她和宝宝”；明确男／女分支仍分别使用他／她。睡眠两条`all/both`分别保留群体／两人范围，不依据其他角色的双胎条件修改人数或游戏逻辑。
+- `jos_baby_belly`的`Shirley`保留姓名，括注说明与前句“肯定”的英文`surely`谐音；不另造中文人名梗。`lanolin/lanoline oil`两次沿用“羊毛脂油”，后者为源码拼写变体；视频中说法仅忠实翻译人物转述，不作医疗建议。
+- `jos_baby_wait`中`No`是否认开玩笑，译“不是”，不是拒绝请求的“不行”；`pull out game`指射精前及时拔出，不能泛指拔出的动作技巧。`Gaylord`、`Phelony`作为她提议的孩子姓名保留原拼写。
+- `jos_table`的`Don't / Stop`是要求继续，不是叫停；两屏分配为“别停！／继续！”。`Keep / Pounding / Me`的extend合读为“继续用力干我！”，保留三个节点，不生成“继续！用力！我！”。
+- `jos_office.creampie`中`I wanna feel it inside me`承接射精请求，不能写成重新插入；角色已经骑在Anon身上。员工折扣`fifteen percent`为减价15%，即八五折，不是支付原价15%。
+- `jos_lounge`的`Bring it.`指把正在看直播的手机带上，随后跳转到`jos_table.alt`；不是挑衅或发起挑战的“来啊”。仅用于这个菜单键，不推广到其他语境。
+- `jos_lounge`的`troll`是故意气人、恶作剧的网络行为，人物互相调侃沿用“捣蛋鬼”；她的自称与Anon的吐槽须前后呼应，不按神话生物“巨魔”处理。`bean bag chair`在孕肚夸张比喻中作“懒人沙发”，不是可食用的豆袋。
 - Josie对Anon的`bowl cut`沿用“锅盖头”，是调侃发型的称呼，不替换玩家姓名。
 - `jos04`中的`boyfriend`沿用“男朋友”，但Josie先拿这个身份顶撞父亲，Anon随后才追问关系；`As far as he's concerned, you are.`只说明在父亲面前的说法，不扩大成双方已经正式确认关系。
 - Jiang的`lucky tool bag`是“幸运工具包”，`no bag... no phone...`表示找回工具包才能拿到手机，不是两件物品都丢了。
@@ -13,6 +21,9 @@
 - `on call`按“待命”处理，不凭此补写已经出外勤；`sprinkler system went off`指消防喷淋启动，不是警报发出声音。
 - `jos02`的`Worst. / Day. / EVER!`连读为“今天。／糟透了。／从来没这么糟过！”，保留逐屏加重的抱怨，不把三个英文词硬拆成中文残句。
 - Josie面对父亲的`depravity`是故作夸张、企图被开除的反话，不是真诚自责；她怀疑Tony动机时的肯定句也带讽刺，不能当成认同Anon。
+- `jos03`的`holding out on me`在看见身体后指隐瞒身体条件，用“藏着这么个大家伙”，不是隐藏技能；`adware`为“广告软件”，不擅称病毒。`TurdBurglar93`是账号名保留，后句`a turd burglar`才译“偷屎贼”。
+- `jos04`的`That's bananas!`表达“真是疯了”，括注`bananas也指“香蕉”`帮助理解后续拼字；B、extend及cps原样保留。`Don't shush me`作“别叫我小声”，不是观众喝倒彩。
+- `jos05`的六个月是找新住处期限；`Yeah, right`作“得了吧”，保留她不信会被赶走的讽刺。`Yes, bowl cut`是答应邀约后的欢呼，不是确认身份。
 
 ## 鸣谢页用户名
 
@@ -1000,3 +1011,9 @@ bytecode_strings.rpy中的Narrative统一译为“叙事”，包括孕中期、
 ## 模式选择
 
 `McDuck mode`固定译为“土豪模式”，替代旧译“麦克老鸭模式”；只改变显示名称，模式内部标识及玩法效果不变。
+
+## Josie勒索场景用语
+
+- `DSL`在Jiang解释前保留缩写，解释为“适合给人吹箫的嘴唇”；后文`little Miss DSLs`用“那位‘吹箫嘴’小姐”回扣粗俗调侃，不能弱化成普通“美唇”。
+- `Divine Reader`在勒索者口中是`Divine Leader`的口音写法，称号译“神圣领袖”；Anon误听为“神圣读者”，后续明确纠正。保留原有accent标签，不添加中文错字口音。
+- `Get the fuck outta here`在Jiang继续讨价还价的场景是嗤笑不信，用“你他妈开什么玩笑”，不是命令离场。

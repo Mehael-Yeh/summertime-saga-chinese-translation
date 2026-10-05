@@ -136,7 +136,7 @@ translate zh_hans jos03_cars_3ff32a75:
 translate zh_hans jos03_cars_a17da56a:
 
     # anon a_surprised "What the-"
-    anon a_surprised "什么——"
+    anon a_surprised "搞什么——"
 
 # game/src/plot/jos03.rpy:73
 translate zh_hans jos03_cars_3a8fc0e5:
@@ -346,7 +346,7 @@ translate zh_hans jos03_cars_6a5e75e8:
 translate zh_hans jos03_cars_e48642c7:
 
     # jab a_wtf "Arrgh!"
-    jab a_wtf "啊！"
+    jab a_wtf "可恶！"
 
 # game/src/plot/jos03.rpy:142
 translate zh_hans jos03_cars_fcc767c1:
@@ -376,7 +376,7 @@ translate zh_hans jos03_cars_99c508fe:
 translate zh_hans jos03_cars_9f35bd0a:
 
     # jab "Please, slow down..."
-    jab "请等等……"
+    jab "请慢一点……"
 
 # game/src/plot/jos03.rpy:161
 translate zh_hans jos03_cars_31cf4916:
@@ -580,7 +580,7 @@ translate zh_hans jos03_misc_josie_269cf10b:
 translate zh_hans jos03_misc_josie_34df4333:
 
     # josie "I suppose Little Miss National Unity might have their paperwork now, who knows."
-    josie "也许现在资料在那位民族团结小姐手里，谁知道呢。"
+    josie "也许现在资料在那位“民族团结”小姐手里，谁知道呢。"
 
 # game/src/plot/jos03.rpy:254
 translate zh_hans jos03_misc_josie_76141cae:
@@ -772,7 +772,7 @@ translate zh_hans jos03_misc_yoo_b2fb7a0b:
 translate zh_hans jos03_misc_yoo_0a10eb2c:
 
     # yoo f_angry @ a_point "You hope in one hand and shit in other, see which one firrs up first."
-    yoo f_angry @ a_point "一只手装希望，另一只手拉屎，看看哪只手先满。"
+    yoo f_angry @ a_point "把希望攥在一只手里，往另一只手里拉屎，看看哪只手先满。"
 
 # game/src/plot/jos03.rpy:308
 translate zh_hans jos03_misc_yoo_9a99c175:
@@ -868,7 +868,7 @@ translate zh_hans jos03_josie1_61b35932:
 translate zh_hans jos03_josie1_c5323e38:
 
     # josie @ e_r f_bored "... My stupid father gave me a raise after you bought the last one."
-    josie @ e_r f_bored "……上次你买完，我那蠢爸爸给我加薪了。"
+    josie @ e_r f_bored "……上次你买完车，我那蠢老爸居然给我加薪了。"
 
 # game/src/plot/jos03.rpy:341
 translate zh_hans jos03_josie1_5502af91:
@@ -916,7 +916,7 @@ translate zh_hans jos03_josie1_10de175b:
 translate zh_hans jos03_josie1_4ed99472:
 
     # josie "Infected every computer in the building with adware..."
-    josie "给整栋楼的电脑全染上了广告病毒……"
+    josie "还往整栋楼的电脑里塞了广告软件……"
 
 # game/src/plot/jos03.rpy:353
 translate zh_hans jos03_josie1_1ef842e3:
@@ -1234,7 +1234,7 @@ translate zh_hans jos03_vest_72f9f340:
 translate zh_hans jos03_vest_alt_0a828bb1:
 
     # yoshi "Excuse me?"
-    yoshi "你说什么？"
+    yoshi "喂？"
 
 # game/src/plot/jos03.rpy:456
 translate zh_hans jos03_vest_alt_767c6cd3:
@@ -1444,7 +1444,7 @@ translate zh_hans jos03_josie2_19f99d79:
 translate zh_hans jos03_josie2_0da6f358:
 
     # anon "Who's TurdBurglar93?"
-    anon "谁是TurdBurglar93？"
+    anon "TurdBurglar93是谁？"
 
 # game/src/plot/jos03.rpy:541
 translate zh_hans jos03_josie2_7c3c04d8:
@@ -1474,7 +1474,7 @@ translate zh_hans jos03_josie2_382e7ab9:
 translate zh_hans jos03_josie2_6b4dc9ea:
 
     # josie e_ssw f_calm "Pay attention to the video"
-    josie e_ssw f_calm "专心看视频。"
+    josie e_ssw f_calm "好好看视频。"
 
 # game/src/plot/jos03.rpy:546
 translate zh_hans jos03_josie2_a1fcc1d8:
@@ -1498,7 +1498,7 @@ translate zh_hans jos03_josie2_4993bed0:
 translate zh_hans jos03_josie2_e8e77420:
 
     # anon f_surprised @ a_up "OH MY GOD!"
-    anon f_surprised @ a_up "我的天！"
+    anon f_surprised @ a_up "哦，我的天哪！"
 
 # game/src/plot/jos03.rpy:553
 translate zh_hans jos03_josie2_5f3380ea:
@@ -1510,7 +1510,7 @@ translate zh_hans jos03_josie2_5f3380ea:
 translate zh_hans jos03_josie2_d8e6c96d:
 
     # anon "Eugh!"
-    anon "呃！"
+    anon "呕！"
 
 # game/src/plot/jos03.rpy:555
 translate zh_hans jos03_josie2_f3936e9d:
@@ -1678,7 +1678,7 @@ translate zh_hans jos03_josie2_9fc7c0f7:
 translate zh_hans jos03_josie2_9e4fb11a:
 
     # mono "The time simply flew by and before I knew it the sun was almost set."
-    mono "时间飞快地流逝，回过神来，太阳都快落山了。"
+    mono "时间过得飞快，等我回过神来，太阳都快落山了。"
 
 # game/src/plot/jos03.rpy:610
 translate zh_hans jos03_josie2_c64a8e5f:
@@ -1744,7 +1744,7 @@ translate zh_hans jos03_josie2_c149b4c8:
 translate zh_hans jos03_josie2_c83f4808:
 
     # josie @ e_r f_bored "Well, duh."
-    josie @ e_r f_bored "嗯，当然。"
+    josie @ e_r f_bored "那还用说。"
 
 # game/src/plot/jos03.rpy:625
 translate zh_hans jos03_josie2_66db8af5:
@@ -1768,7 +1768,7 @@ translate zh_hans jos03_josie2_cb4cfd9f:
 translate zh_hans jos03_josie2_a2f95d84:
 
     # josie a_desk "You know what, this was fun!"
-    josie a_desk "你知道吗，今天挺开心的！"
+    josie a_desk "说真的，今天还挺开心的！"
 
 # game/src/plot/jos03.rpy:633
 translate zh_hans jos03_josie2_72cf5615:
@@ -1786,7 +1786,7 @@ translate zh_hans jos03_josie2_a6b12df9:
 translate zh_hans jos03_josie2_869c518c:
 
     # josie "Pretty sure this is the first time I actually enjoyed being stuck at work."
-    josie "这肯定是我第一次觉得被困在公司也挺好玩。"
+    josie "我还真是头一回觉得，被困在这儿上班也挺开心。"
 
 # game/src/plot/jos03.rpy:636
 translate zh_hans jos03_josie2_57e1ad10:
@@ -1810,7 +1810,7 @@ translate zh_hans jos03_josie2_7fa6e0ce:
 translate zh_hans jos03_josie2_868f47ec:
 
     # anon f_shy "I think there might be a limit to how many stupid internet videos I can watch on a cell phone in one week..."
-    anon f_shy "一周能用手机看多少蠢视频，我想也是有极限的……"
+    anon f_shy "我想，一周对着手机看这些蠢视频，总得有个限度吧……"
 
 # game/src/plot/jos03.rpy:644
 translate zh_hans jos03_josie2_1e0f35df:
@@ -1876,7 +1876,7 @@ translate zh_hans jos03_josie2_7231e987:
 translate zh_hans jos03_josie2_17fd0baa:
 
     # josie "You know, there's other things we can do besides funny videos..."
-    josie "你知道，除了搞笑视频，我们还能做点别的……"
+    josie "除了看搞笑视频，我们还能做点别的啊……"
 
 # game/src/plot/jos03.rpy:668
 translate zh_hans jos03_josie2_9af7a8df:
@@ -1888,7 +1888,7 @@ translate zh_hans jos03_josie2_9af7a8df:
 translate zh_hans jos03_josie2_633c0da2:
 
     # josie "Hehe, lemme show you..."
-    josie "嘿嘿，我让你看看……"
+    josie "呵呵，我让你看看……"
 
 # game/src/plot/jos03.rpy:676
 translate zh_hans jos03_josie2_95722d1c:
@@ -1924,7 +1924,7 @@ translate zh_hans jos03_josie2_689ad4a4:
 translate zh_hans jos03_josie2_414d72ce:
 
     # josie "You've been holding out on me!"
-    josie "你居然还藏着这手！"
+    josie "你居然还藏着这么个大家伙！"
 
 # game/src/plot/jos03.rpy:691
 translate zh_hans jos03_josie2_edd0a51e:
@@ -1978,7 +1978,7 @@ translate zh_hans jos03_josie2_87880fee:
 translate zh_hans jos03_josie2_1231fcac:
 
     # anon "Oh my god."
-    anon "我的天。"
+    anon "天哪。"
 
 # game/src/plot/jos03.rpy:704
 translate zh_hans jos03_josie2_198bdaf6:
@@ -2092,7 +2092,7 @@ translate zh_hans jos03_josie2_c5201e09:
 translate zh_hans jos03_josie2_20b71128:
 
     # yoshi a_hips f_angry "I told her not to leave this desk unattended."
-    yoshi a_hips f_angry "我告诉过她，这张桌子不能没人看着。"
+    yoshi a_hips f_angry "我跟她说过，前台不能没人。"
 
 # game/src/plot/jos03.rpy:761
 translate zh_hans jos03_josie2_68c04914:
@@ -2248,7 +2248,7 @@ translate zh_hans jos03_josie2_f3d7f11b:
 translate zh_hans jos03_josie2_6045d454:
 
     # anon f_shy "Oh, y-yeah... I just stubbed my toe is all."
-    anon f_shy "哦，好、好着呢……就是脚趾撞了一下。"
+    anon f_shy "哦，没、没事……就是脚趾撞了一下。"
 
 # game/src/plot/jos03.rpy:811
 translate zh_hans jos03_josie2_c7ed0065:
@@ -2416,7 +2416,7 @@ translate zh_hans jos03_josie2_0a01c03b:
 translate zh_hans jos03_josie2_e5df6e56:
 
     # anon a_schmutz f_worried "You know, you've got a little something..."
-    anon a_schmutz f_worried "你知道吗，你脸上还有一点……"
+    anon a_schmutz f_worried "那个，你脸上还沾着点……"
 
 # game/src/plot/jos03.rpy:884
 translate zh_hans jos03_josie2_44f27aea:
@@ -2440,7 +2440,7 @@ translate zh_hans jos03_josie2_f74360f2:
 translate zh_hans jos03_josie2_3d02e356:
 
     # josie "Hehe, I know."
-    josie "嘿嘿，我知道。"
+    josie "呵呵，我知道。"
 
 # game/src/plot/jos03.rpy:890
 translate zh_hans jos03_josie2_8db376bf:
@@ -2542,7 +2542,7 @@ translate zh_hans jos03_josie2_b8274875:
 translate zh_hans jos03_josie2_1180b0bc:
 
     # anon f_happy "You certainly made a compelling case for it."
-    anon f_happy "你这理由确实挺有说服力。"
+    anon f_happy "你刚才那番表现，确实挺有说服力。"
 
 # game/src/plot/jos03.rpy:922
 translate zh_hans jos03_josie2_4672e288:

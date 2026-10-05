@@ -28,7 +28,7 @@ translate zh_hans jos_baby_wait_c2159096:
 translate zh_hans jos_baby_wait_9dec4376:
 
     # josie "Hey, what's up, bowl cut?"
-    josie "嘿，怎么啦，锅盖头？"
+    josie "嘿，最近怎么样，锅盖头？"
 
 # game/src/plot/jos_baby.rpy:22
 translate zh_hans jos_baby_wait_ce0e62b2:
@@ -124,7 +124,7 @@ translate zh_hans jos_baby_wait_10cc41e3:
 translate zh_hans jos_baby_wait_bf788938:
 
     # josie "No."
-    josie "不行。"
+    josie "不是。"
 
 # game/src/plot/jos_baby.rpy:44
 translate zh_hans jos_baby_wait_6de7d1cf:
@@ -220,13 +220,13 @@ translate zh_hans jos_baby_wait_eb77dd2e:
 translate zh_hans jos_baby_wait_2dad60ab:
 
     # anon "[saga.cast.josie], those both seem like really bad reasons to have a baby..."
-    anon "[saga.cast.josie]，这两个理由都不太适合用来决定生孩子……"
+    anon "[saga.cast.josie]，为了这两件事就生孩子，太不靠谱了吧……"
 
 # game/src/plot/jos_baby.rpy:70
 translate zh_hans jos_baby_wait_7f65d906:
 
     # josie "You think so?"
-    josie "你觉得？"
+    josie "是吗？"
 
 # game/src/plot/jos_baby.rpy:71
 translate zh_hans jos_baby_wait_647df347:
@@ -280,7 +280,7 @@ translate zh_hans jos_baby_wait_da347fda:
 translate zh_hans jos_baby_wait_cac08679:
 
     # anon e_sse f_worried "I dunno, I've got some things-"
-    anon e_sse f_worried "不知道，我还有点事——"
+    anon e_sse f_worried "这……我还有点事——"
 
 # game/src/plot/jos_baby.rpy:85
 translate zh_hans jos_baby_wait_a40b87db:
@@ -400,13 +400,13 @@ translate zh_hans jos_baby_wait_redo_6608cc89:
 translate zh_hans jos_baby_wait_redo_be5e97a0:
 
     # josie "Your pull out game is weaksauce, dude."
-    josie "哥们，你这拔出来的技术也太差了。"
+    josie "哥们，你也太不会及时拔出来了吧。"
 
 # game/src/plot/jos_baby.rpy:123
 translate zh_hans jos_baby_wait_redo_9389453c:
 
     # anon f_shy "I assume you're going to keep it?"
-    anon f_shy "我猜你打算留下？"
+    anon f_shy "我猜你还是打算把孩子留下？"
 
 # game/src/plot/jos_baby.rpy:124
 translate zh_hans jos_baby_wait_redo_99a073d0:
@@ -502,7 +502,7 @@ translate zh_hans jos_baby_late_car_lounge_0e200a4b:
 translate zh_hans jos_baby_late_car_lounge_518bd25a:
 
     # josie e_ssw "Forget it."
-    josie e_ssw "算了"
+    josie e_ssw "算了。"
 
 # game/src/plot/jos_baby.rpy:164
 translate zh_hans jos_baby_late_car_lounge_5f412e80:
@@ -592,7 +592,7 @@ translate zh_hans jos_baby_late_misc1_9bb76035:
 translate zh_hans jos_baby_late_misc1_61fbd542:
 
     # josie f_calm "It's just \"Gootube\"."
-    josie f_calm "就叫\"Gootube\"。"
+    josie f_calm "就叫“Gootube”。"
 
 # game/src/plot/jos_baby.rpy:223
 translate zh_hans jos_baby_late_misc1_06471e8b:
@@ -646,7 +646,7 @@ translate zh_hans jos_baby_late_misc1_82fb7af2:
 translate zh_hans jos_baby_late_misc1_852f78cf:
 
     # josie f_calm @ e_ssw "This is \"what to expect when you're expecting\" videos."
-    josie f_calm @ e_ssw "我在看\"怀孕之后会发生什么\"的视频。"
+    josie f_calm @ e_ssw "我在看“怀孕之后会发生什么”的视频。"
 
 # game/src/plot/jos_baby.rpy:237
 translate zh_hans jos_baby_late_misc1_22c555e2:
@@ -664,7 +664,7 @@ translate zh_hans jos_baby_late_misc1_e92c18bd:
 translate zh_hans jos_baby_late_misc1_33658004:
 
     # anon f_shy "Well, I'm glad to see you're finally taking this at least a little bit seriously..."
-    anon f_shy "嗯，很高兴你终于至少认真了一点……"
+    anon f_shy "嗯，你总算肯稍微认真对待这事了……"
 
 # game/src/plot/jos_baby.rpy:240
 translate zh_hans jos_baby_late_misc1_937b24c3:
@@ -676,7 +676,7 @@ translate zh_hans jos_baby_late_misc1_937b24c3:
 translate zh_hans jos_baby_late_misc1_54de555a:
 
     # josie e_w f_horny "Did you know that like ninety percent of women poop themselves during delivery?"
-    josie e_w f_horny "你知道吗，大概百分之九十的女人分娩时都会拉出来？"
+    josie e_w f_horny "你知道吗，大概百分之九十的女人生孩子时都会拉屎？"
 
 # game/src/plot/jos_baby.rpy:245
 translate zh_hans jos_baby_late_misc1_7f96fb1b:
@@ -778,7 +778,7 @@ translate zh_hans jos_baby_late_misc3_55bf7d35:
 translate zh_hans jos_baby_late_misc3_3e6b752c:
 
     # anon "That's-"
-    anon "这话——"
+    anon "这——"
 
 # game/src/plot/jos_baby.rpy:275
 translate zh_hans jos_baby_late_misc3_0625e864:
@@ -940,13 +940,13 @@ translate zh_hans jos_baby_bump_deny_9c9df4bd:
 translate zh_hans jos_baby_bump_deny_d126000a:
 
     # anon "Of course not."
-    anon "当然没关系。"
+    anon "当然跟工作无关。"
 
 # game/src/plot/jos_baby.rpy:338
 translate zh_hans jos_baby_bump_deny_b09d9ed4:
 
     # anon a_side "But it can wait."
-    anon a_side "不过可以等会儿。"
+    anon a_side "不过这事不急。"
 
 # game/src/plot/jos_baby.rpy:339
 translate zh_hans jos_baby_bump_deny_50926a41:
@@ -1078,7 +1078,7 @@ translate zh_hans jos_baby_bump_misc2_ac852d19:
 translate zh_hans jos_baby_bump_misc2_771bd862:
 
     # josie f_bored "He isn't."
-    josie f_bored "没反应。"
+    josie f_bored "他还不知道。"
 
 # game/src/plot/jos_baby.rpy:413
 translate zh_hans jos_baby_bump_misc2_be50f4f0:
@@ -1090,7 +1090,7 @@ translate zh_hans jos_baby_bump_misc2_be50f4f0:
 translate zh_hans jos_baby_bump_misc2_938ab863:
 
     # josie f_calm "Nope."
-    josie f_calm "没有。"
+    josie f_calm "还不知道。"
 
 # game/src/plot/jos_baby.rpy:415
 translate zh_hans jos_baby_bump_misc2_aa528d8b:
@@ -1144,7 +1144,7 @@ translate zh_hans jos_baby_bump_misc2_c270051d:
 translate zh_hans jos_baby_bump_misc2_23cee7bf:
 
     # josie @ e_r f_bored "Yeah, right."
-    josie @ e_r f_bored "是啊，才怪。"
+    josie @ e_r f_bored "得了吧。"
 
 # game/src/plot/jos_baby.rpy:436
 translate zh_hans jos_baby_belly_a1967dee:
@@ -1174,13 +1174,13 @@ translate zh_hans jos_baby_belly_car_shop_9e350d88:
 translate zh_hans jos_baby_belly_intro_0472ffa9:
 
     # josie a_phone e_w p_stand "Oh my god, [saga.cast.anon]!"
-    josie a_phone e_w p_stand "天啊，[saga.cast.anon]！"
+    josie a_phone e_w p_stand "天哪，[saga.cast.anon]！"
 
 # game/src/plot/jos_baby.rpy:463
 translate zh_hans jos_baby_belly_intro_d05d4692:
 
     # josie "I am freaking out here!"
-    josie "我快急疯了！"
+    josie "我都快慌死了！"
 
 # game/src/plot/jos_baby.rpy:464
 translate zh_hans jos_baby_belly_intro_d0757e1a:
@@ -1192,7 +1192,7 @@ translate zh_hans jos_baby_belly_intro_d0757e1a:
 translate zh_hans jos_baby_belly_intro_66816842:
 
     # josie f_angry @ e_b m_yell "You put a giant fucking baby inside me, that's what's the matter!"
-    josie f_angry @ e_b m_yell "你让我肚子里长了个他妈那么大的宝宝，这就是怎么了！"
+    josie f_angry @ e_b m_yell "你让我怀上了个他妈这么大的宝宝，还问怎么了！"
 
 # game/src/plot/jos_baby.rpy:495
 translate zh_hans jos_baby_belly_misc1_0c59e2db:
@@ -1204,13 +1204,13 @@ translate zh_hans jos_baby_belly_misc1_0c59e2db:
 translate zh_hans jos_baby_belly_misc1_9a5b8497:
 
     # josie e_w f_annoyed "Yeah, real easy for you to say!"
-    josie e_w f_annoyed "嗯，你说得倒轻巧！"
+    josie e_w f_annoyed "你说得倒轻巧！"
 
 # game/src/plot/jos_baby.rpy:498
 translate zh_hans jos_baby_belly_misc1_b0fabfe6:
 
     # josie "You're not the one who has to squeeze the damn thing out of your vagina!"
-    josie "又不是你得把这家伙从阴道里挤出来！"
+    josie "又不是你得把这该死的家伙从阴道里挤出来！"
 
 # game/src/plot/jos_baby.rpy:499
 translate zh_hans jos_baby_belly_misc1_fd212b07:
@@ -1252,7 +1252,7 @@ translate zh_hans jos_baby_belly_misc1_c1aaa162:
 translate zh_hans jos_baby_belly_misc1_684ee2d5:
 
     # josie f_annoyed "Why the hell did I let you talk me into this?"
-    josie f_annoyed "我当初为什么会让你说服我干这事？"
+    josie f_annoyed "我他妈当初怎么就被你说动了？"
 
 # game/src/plot/jos_baby.rpy:509
 translate zh_hans jos_baby_belly_misc1_6835d580:
@@ -1270,13 +1270,13 @@ translate zh_hans jos_baby_belly_misc1_c6d43735:
 translate zh_hans jos_baby_belly_misc1_fd649fd1:
 
     # anon a_point f_angry "That's-"
-    anon a_point f_angry "这话——"
+    anon a_point f_angry "这——"
 
 # game/src/plot/jos_baby.rpy:512
 translate zh_hans jos_baby_belly_misc1_874e6d35:
 
     # anon a_upset e_b f_hurt m_teeth @ -m_talk "Rrrgh!"
-    anon a_upset e_b f_hurt m_teeth @ -m_talk "啊！"
+    anon a_upset e_b f_hurt m_teeth @ -m_talk "可恶！"
 
 # game/src/plot/jos_baby.rpy:517
 translate zh_hans jos_baby_belly_misc1_24da73b4:
@@ -1318,7 +1318,7 @@ translate zh_hans jos_baby_belly_misc1_cbe42cda:
 translate zh_hans jos_baby_belly_misc1_1eab717a:
 
     # anon "... I know that because you forced me watch most of them with you, remember?"
-    anon "……我知道，是因为大多数你都拉着我一起看了，记得吗？"
+    anon "……我知道，是因为这些视频大半都是你非要拉着我看的，记得吗？"
 
 # game/src/plot/jos_baby.rpy:524
 translate zh_hans jos_baby_belly_misc1_b3c9cb09:
@@ -1360,7 +1360,7 @@ translate zh_hans jos_baby_belly_misc1_a54696dc:
 translate zh_hans jos_baby_belly_misc1_1741ec7e:
 
     # anon a_palm "Seriously, [saga.cast.josie]... You know everything about this stuff."
-    anon a_palm "说真的，[saga.cast.josie]……这些事你全都知道。"
+    anon a_palm "说真的，[saga.cast.josie]……这些事你都了解得很清楚。"
 
 # game/src/plot/jos_baby.rpy:535
 translate zh_hans jos_baby_belly_misc1_b06577dc:
@@ -1402,7 +1402,7 @@ translate zh_hans jos_baby_belly_misc2_11763eee:
 translate zh_hans jos_baby_belly_misc2_d0a915b9:
 
     # josie f_bored "... And don't call me Shirley."
-    josie f_bored "……还有，别叫我Shirley。"
+    josie f_bored "……还有，别叫我Shirley（和“肯定”的英文surely同音）。"
 
 # game/src/plot/jos_baby.rpy:552
 translate zh_hans jos_baby_belly_misc2_02d7a526:
@@ -1510,7 +1510,7 @@ translate zh_hans jos_baby_read2_ccb643f8:
 translate zh_hans jos_baby_read2_55e17f50:
 
     # anon "I'll head over and give him some respite!"
-    anon "我过去换他歇一会儿！"
+    anon "我过去替替他，让他歇一会儿！"
 
 # game/src/plot/jos_baby.rpy:594
 translate zh_hans jos_baby_read2_rails_65c8eb7c:
@@ -1528,7 +1528,7 @@ translate zh_hans jos_baby_read2_rails_4b191703:
 translate zh_hans jos_baby_meet_92aa53b9:
 
     # anon "Hey, you."
-    anon "嘿，你来了。"
+    anon "嘿。"
 
 # game/src/plot/jos_baby.rpy:607
 translate zh_hans jos_baby_meet_8f412b41:
@@ -1648,7 +1648,7 @@ translate zh_hans jos_baby_meet_dc29e0c4:
 translate zh_hans jos_baby_meet_5ae6bea2:
 
     # anon "I'm your daddy."
-    anon "我是爸爸。"
+    anon "我是你爸爸。"
 
 # game/src/plot/jos_baby.rpy:662
 translate zh_hans jos_baby_meet_4460fdd8:
@@ -1720,7 +1720,7 @@ translate zh_hans jos_baby_meet_5a1646dd:
 translate zh_hans jos_baby_meet_d384ee3a:
 
     # josie "No, I'm good."
-    josie "不用，我挺好的。"
+    josie "没什么需要的。"
 
 # game/src/plot/jos_baby.rpy:686
 translate zh_hans jos_baby_meet_236acf23:
@@ -1798,7 +1798,7 @@ translate zh_hans jos_baby_meet_6c8baaab:
 translate zh_hans jos_baby_meet_32aac0e4:
 
     # yoshi e_wnw "Can you please work on improving my daughter's priorities?"
-    yoshi e_wnw "能不能帮忙改改我女儿这本末倒置的毛病？"
+    yoshi e_wnw "你能不能帮我劝劝女儿，让她知道什么事更重要？"
 
 # game/src/plot/jos_baby.rpy:714
 translate zh_hans jos_baby_meet_2b8bdf6a:
@@ -1834,7 +1834,7 @@ translate zh_hans jos_baby_meet_a8d4bda8:
 translate zh_hans jos_baby_meet_63e6ee09:
 
     # yoshi "Oh, lord help me."
-    yoshi "天啊，救救我吧。"
+    yoshi "天哪，救救我吧。"
 
 # game/src/plot/jos_baby.rpy:728
 translate zh_hans jos_baby_meet_c6d472b7:
@@ -1846,7 +1846,7 @@ translate zh_hans jos_baby_meet_c6d472b7:
 translate zh_hans jos_baby_meet_a73e26b4:
 
     # yoshi a_point e_w f_calm "[saga.cast.josie], I expect you back at the front desk on [saga.time.dow + 3]."
-    yoshi a_point e_w f_calm "[saga.cast.josie]，我希望你在[saga.time.dow + 3]回到前台。"
+    yoshi a_point e_w f_calm "[saga.cast.josie]，[saga.time.dow + 3]你就得回来上前台了。"
 
 # game/src/plot/jos_baby.rpy:739
 translate zh_hans jos_baby_meet_756c36c8:
@@ -1900,7 +1900,7 @@ translate zh_hans jos_baby_meet_915af79f:
 translate zh_hans jos_baby_meet_rails_925693d6:
 
     # anon @ -m_talk "( The ward chart says that [saga.cast.josie] is in [saga.cast.josie.where!l]. )"
-    anon @ -m_talk "（病房表上说，[saga.cast.josie]在[saga.cast.josie.where!l]。）"
+    anon @ -m_talk "（病房名单上写着，[saga.cast.josie]在[saga.cast.josie.where!l]。）"
 
 # game/src/plot/jos_baby.rpy:763
 translate zh_hans jos_baby_meet_rails_b75231ac:
@@ -1978,7 +1978,7 @@ translate zh_hans jos_baby_rest_clinic_baby_702928df:
 translate zh_hans jos_baby_rest_clinic_baby_650da1c9:
 
     # anon e_w f_horny "... And maybe catch a glimpse of some breastfeeding."
-    anon e_w f_horny "……顺便也许能看看喂奶。"
+    anon e_w f_horny "……说不定还能看你喂奶。"
 
 # game/src/plot/jos_baby.rpy:798
 translate zh_hans jos_baby_rest_clinic_baby_03722f46:
@@ -2002,7 +2002,7 @@ translate zh_hans jos_baby_rest_clinic_baby_6e4cb564:
 translate zh_hans jos_baby_rest_clinic_baby_9c6549c1:
 
     # anon a_calm_down f_happy_surprised "Oh, well in that case, forget it!"
-    anon a_calm_down f_happy_surprised "哦，那这样的话，算了！"
+    anon a_calm_down f_happy_surprised "哦，那还是算了吧！"
 
 # game/src/plot/jos_baby.rpy:804
 translate zh_hans jos_baby_rest_clinic_baby_121ec361:
@@ -2032,7 +2032,7 @@ translate zh_hans jos_baby_rest_clinic_baby_e45a47b2:
 translate zh_hans jos_baby_rest_micoe_09b3b88c:
 
     # anon f_curious "How's everyone doing?"
-    anon f_curious "大家都怎么样？"
+    anon f_curious "她和宝宝怎么样？"
 
 # game/src/plot/jos_baby.rpy:817
 translate zh_hans jos_baby_rest_micoe_20640cc7:
@@ -2056,19 +2056,19 @@ translate zh_hans jos_baby_rest_micoe_40fda8c5:
 translate zh_hans jos_baby_rest_micoe_1119043d:
 
     # micoe "Sorry, I didn't mean to snap... it's just-"
-    micoe "不好意思，我不是想发火……只是——"
+    micoe "抱歉，我不是故意凶你的……只是——"
 
 # game/src/plot/jos_baby.rpy:824
 translate zh_hans jos_baby_rest_micoe_ac1ac13b:
 
     # micoe "She keeps trying to show me stuff on her phone and I have a lot of work to do."
-    micoe "她一直想给我看手机里的东西，而我还有很多活要干。"
+    micoe "她老想给我看手机上的东西，可我还有一大堆事要忙。"
 
 # game/src/plot/jos_baby.rpy:825
 translate zh_hans jos_baby_rest_micoe_bcc58e34:
 
     # anon f_happy "Heh, oh, I see."
-    anon f_happy "呵，哦，明白了。"
+    anon f_happy "呵，原来是这样。"
 
 # game/src/plot/jos_baby.rpy:826
 translate zh_hans jos_baby_rest_micoe_99b0168c:
@@ -2080,13 +2080,13 @@ translate zh_hans jos_baby_rest_micoe_99b0168c:
 translate zh_hans jos_baby_rest_micoe_ec89d882:
 
     # anon "But seriously, how are they doing?"
-    anon "不过说真的，她们还好吧？"
+    anon "不过说真的，她和宝宝还好吧？"
 
 # game/src/plot/jos_baby.rpy:831
 translate zh_hans jos_baby_rest_micoe_f17d21c2:
 
     # micoe f_calm "She's doing surprisingly well, considering her petite frame."
-    micoe f_calm "考虑到她这么娇小，恢复得出奇地好。"
+    micoe f_calm "她个子这么小，能恢复得这么好，还真让人意外。"
 
 # game/src/plot/jos_baby.rpy:833
 translate zh_hans jos_baby_rest_micoe_5499c750:
@@ -2104,7 +2104,7 @@ translate zh_hans jos_baby_rest_micoe_9ed80da9:
 translate zh_hans jos_baby_rest_micoe_35b1db7d:
 
     # anon @ f_happy "Though she might not be too excited about the 'back to work' part."
-    anon @ f_happy "不过\"回去上班\"这部分，她可能不太高兴。"
+    anon @ f_happy "不过，说到“回去上班”，她可能就没那么高兴了。"
 
 # game/src/plot/jos_baby.rpy:843
 translate zh_hans jos_baby_rest_sleep_54397989:
@@ -2116,13 +2116,13 @@ translate zh_hans jos_baby_rest_sleep_54397989:
 translate zh_hans jos_baby_rest_sleep_d946ad52:
 
     # anon @ -m_talk "( ... They all seem so relaxed. )"
-    anon @ -m_talk "（……他们都好放松。）"
+    anon @ -m_talk "（……大家看起来都很放松。）"
 
 # game/src/plot/jos_baby.rpy:849
 translate zh_hans jos_baby_rest_sleep_dffb90a8:
 
     # anon @ -m_talk "( ... They both seem so relaxed. )"
-    anon @ -m_talk "（……她们两个都好放松。）"
+    anon @ -m_talk "（……她和宝宝看起来都很放松。）"
 
 # game/src/plot/jos_baby.rpy:875
 translate zh_hans jos_baby_post_intro_13d35937:
@@ -2164,7 +2164,7 @@ translate zh_hans jos_baby_post_intro_cbe42cda_1:
 translate zh_hans jos_baby_post_intro_f2cb9b1f:
 
     # anon a_side e_osw f_sad "Seriously?!"
-    anon a_side e_osw f_sad "真的？！"
+    anon a_side e_osw f_sad "不是吧？！"
 
 # game/src/plot/jos_baby.rpy:888
 translate zh_hans jos_baby_post_intro_1765821e:
@@ -2182,7 +2182,7 @@ translate zh_hans jos_baby_post_intro_57e08eb8:
 translate zh_hans jos_baby_post_intro_0a43421a:
 
     # josie "What's going on?"
-    josie "怎么回事？"
+    josie "怎么啦？"
 
 # game/src/plot/jos_baby.rpy:920
 translate zh_hans jos_baby_post_misc1_3ed58278:
@@ -2206,7 +2206,7 @@ translate zh_hans jos_baby_post_misc1_b2e957d6:
 translate zh_hans jos_baby_post_misc1_026aeae0:
 
     # josie e_w "I dunno if you know this, but I'm pretty much the coolest person you know."
-    josie e_w "不知道你知不知道，我差不多是你认识的人里最酷的。"
+    josie e_w "也不知道你发现没有，你认识的人里，我差不多算是最酷的了。"
 
 # game/src/plot/jos_baby.rpy:926
 translate zh_hans jos_baby_post_misc1_b6b6fb57:
@@ -2230,7 +2230,7 @@ translate zh_hans jos_baby_post_misc2_fc9ecc6c:
 translate zh_hans jos_baby_post_misc2_6f83e2c4:
 
     # josie e_w f_confused "You any good at Candy Smash?"
-    josie e_w f_confused "你Candy Smash玩得好吗？"
+    josie e_w f_confused "你玩Candy Smash厉害吗？"
 
 # game/src/plot/jos_baby.rpy:934
 translate zh_hans jos_baby_post_misc2_672ea8f8:
@@ -2242,7 +2242,7 @@ translate zh_hans jos_baby_post_misc2_672ea8f8:
 translate zh_hans jos_baby_post_misc2_e854fdf2:
 
     # josie e_ssw f_calm "Yeah, I figured."
-    josie e_ssw f_calm "是的，我猜到了。"
+    josie e_ssw f_calm "嗯，猜到了。"
 
 # game/src/plot/jos_baby.rpy:940
 translate zh_hans jos_baby_post_misc2_9a9cf055:
@@ -2254,7 +2254,7 @@ translate zh_hans jos_baby_post_misc2_9a9cf055:
 translate zh_hans jos_baby_post_outro_f5a2530d:
 
     # anon a_wave f_shy "I'll leave you to it."
-    anon a_wave f_shy "那你接着忙吧。"
+    anon a_wave f_shy "那你接着玩吧。"
 
 # game/src/plot/jos_baby.rpy:946
 translate zh_hans jos_baby_post_outro_e56a6c1a:

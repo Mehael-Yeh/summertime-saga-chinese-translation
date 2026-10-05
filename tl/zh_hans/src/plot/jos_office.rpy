@@ -4,7 +4,7 @@
 translate zh_hans jos_office_38e81495:
 
     # josie "See something you like?"
-    josie "有看上的东西吗？"
+    josie "怎么样，喜欢吗？"
 
 # game/src/plot/jos_office.rpy:6
 translate zh_hans jos_office_589c5860:
@@ -46,7 +46,7 @@ translate zh_hans jos_office_854630c4:
 translate zh_hans jos_office_4992d8fb:
 
     # josie "Geez, this thing is not easy to sit on..."
-    josie "天啊，这东西可不好坐……"
+    josie "天哪，这东西可不好坐……"
 
 # game/src/plot/jos_office.rpy:21
 translate zh_hans jos_office_00ae983e:
@@ -64,7 +64,7 @@ translate zh_hans jos_office_258db999:
 translate zh_hans jos_office_d31c9bfa:
 
     # anon "Oh, yeah... that's nice!"
-    anon "哦，对……真舒服！"
+    anon "哦，爽……真舒服！"
 
 # game/src/plot/jos_office.rpy:27
 translate zh_hans jos_office_940c900a:
@@ -82,7 +82,7 @@ translate zh_hans jos_office_913072b3:
 translate zh_hans jos_office_4c820ca3:
 
     # anon "I'm just worried you're gonna fall off the desk or something..."
-    anon "我只是担心你会从桌上掉下去之类的……"
+    anon "我就是怕你一不小心从桌上摔下去……"
 
 # game/src/plot/jos_office.rpy:30
 translate zh_hans jos_office_06ce53ed:
@@ -106,7 +106,7 @@ translate zh_hans jos_office_087bfe30:
 translate zh_hans jos_office_b90390e4:
 
     # anon "O-kay."
-    anon "好、好吧。"
+    anon "好——吧。"
 
 # game/src/plot/jos_office.rpy:35
 translate zh_hans jos_office_768ab37d:
@@ -160,7 +160,7 @@ translate zh_hans jos_office_18a8c8dd:
 translate zh_hans jos_office_b7357938:
 
     # josie "Geez, this is a fucking workout!"
-    josie "天啊，这真他妈是个体力活！"
+    josie "天哪，这真他妈是个体力活！"
 
 # game/src/plot/jos_office.rpy:46
 translate zh_hans jos_office_5502af91:
@@ -202,7 +202,7 @@ translate zh_hans jos_office_2d0058db:
 translate zh_hans jos_office_b005ab77:
 
     # josie "Grrraah."
-    josie "啊啊。"
+    josie "可恶。"
 
 # game/src/plot/jos_office.rpy:55
 translate zh_hans jos_office_b2f903a9:
@@ -214,13 +214,13 @@ translate zh_hans jos_office_b2f903a9:
 translate zh_hans jos_office_fea7baea:
 
     # anon "Bounce that ass, [saga.cast.josie]!"
-    anon "扭起来，[saga.cast.josie]！"
+    anon "屁股上下动起来，[saga.cast.josie]！"
 
 # game/src/plot/jos_office.rpy:59
 translate zh_hans jos_office_c9f44187:
 
     # josie "You know..."
-    josie "你知道……"
+    josie "我跟你说……"
 
 # game/src/plot/jos_office.rpy:60
 translate zh_hans jos_office_7e1818f1:
@@ -232,19 +232,19 @@ translate zh_hans jos_office_7e1818f1:
 translate zh_hans jos_office_68ce286b:
 
     # josie "... really..."
-    josie "……真的……"
+    josie "……还真是……"
 
 # game/src/plot/jos_office.rpy:62
 translate zh_hans jos_office_0f1c072c:
 
     # josie "... Ngh, {i}hard{/i}!"
-    josie "……嗯啊，{i}难干{/i}！"
+    josie "……嗯啊，{i}够呛{/i}！"
 
 # game/src/plot/jos_office.rpy:63
 translate zh_hans jos_office_333d7810:
 
     # anon "Heh... yeah, it is."
-    anon "呵……是挺硬的。"
+    anon "呵……是啊，硬得够呛。"
 
 # game/src/plot/jos_office.rpy:64
 translate zh_hans jos_office_048bd286:
@@ -262,7 +262,7 @@ translate zh_hans jos_office_28bac5a7:
 translate zh_hans jos_office_8a6eb3b4:
 
     # anon "Work that big cock!"
-    anon "好好使唤那根大鸡巴！"
+    anon "好好骑这根大鸡巴！"
 
 # game/src/plot/jos_office.rpy:68
 translate zh_hans jos_office_06d16060:
@@ -274,7 +274,7 @@ translate zh_hans jos_office_06d16060:
 translate zh_hans jos_office_2f67c5b5:
 
     # josie "I hope you're appreciating this!"
-    josie "你可得好好珍惜！"
+    josie "你可得领情啊！"
 
 # game/src/plot/jos_office.rpy:71
 translate zh_hans jos_office_64aec75b:
@@ -412,7 +412,7 @@ translate zh_hans jos_office_c6aa4ca1:
 translate zh_hans jos_office_110a0756:
 
     # josie @ e_iw_b "Pfft, for you maybe..."
-    josie @ e_iw_b "嘁，对你来说也许吧……"
+    josie @ e_iw_b "嘁，也就你觉得爽吧……"
 
 # game/src/plot/jos_office.rpy:122
 translate zh_hans jos_office_c5e60653:
@@ -454,7 +454,7 @@ translate zh_hans jos_office_2bf390b1:
 translate zh_hans jos_office_e24311a7:
 
     # josie e_w f_annoyed "... It probably had something to do with you unceremoniously tossing me off your dick like I was a fucking rag doll!"
-    josie e_w f_annoyed "……大概是因为你把我当破布娃娃一样，毫不客气地从鸡巴上甩了下去！"
+    josie e_w f_annoyed "……八成是因为你把我当他妈的布娃娃，直接从鸡巴上甩了下去！"
 
 # game/src/plot/jos_office.rpy:134
 translate zh_hans jos_office_3aa8b436:
@@ -466,7 +466,7 @@ translate zh_hans jos_office_3aa8b436:
 translate zh_hans jos_office_96ccd92c:
 
     # anon a_wtf f_worried "Well, I'm sorry, okay?"
-    anon a_wtf f_worried "好了，对不起，好吗？"
+    anon a_wtf f_worried "好啦，我道歉还不行吗？"
 
 # game/src/plot/jos_office.rpy:140
 translate zh_hans jos_office_54526b8f:
@@ -496,7 +496,7 @@ translate zh_hans jos_office_29552aef:
 translate zh_hans jos_office_3503b853:
 
     # anon a_point e_wnw f_surprised "Geez, is that the time?!"
-    anon a_point e_wnw f_surprised "天啊，都这个点了？！"
+    anon a_point e_wnw f_surprised "天哪，都这个点了？！"
 
 # game/src/plot/jos_office.rpy:155
 translate zh_hans jos_office_334a2dad:
@@ -538,7 +538,7 @@ translate zh_hans jos_office_creampie_d21fd77d:
 translate zh_hans jos_office_creampie_b655bce0:
 
     # josie "I wanna feel it inside me!!"
-    josie "我想感觉它插在里面！！"
+    josie "我想感觉你射在我里面！！"
 
 # game/src/plot/jos_office.rpy:177
 translate zh_hans jos_office_creampie_b9b34674:
@@ -586,7 +586,7 @@ translate zh_hans jos_office_creampie_daf62896:
 translate zh_hans jos_office_creampie_e83a8b56:
 
     # josie d_anon_hard od_wet p_unmount "Jesus, it's like trying to climb off a fence post."
-    josie d_anon_hard od_wet p_unmount "天啊，简直像要从栅栏柱子上爬下来。"
+    josie d_anon_hard od_wet p_unmount "天哪，简直像要从栅栏柱子上爬下来。"
 
 # game/src/plot/jos_office.rpy:191
 translate zh_hans jos_office_creampie_6695179e:
@@ -622,7 +622,7 @@ translate zh_hans jos_office_creampie_c74f42a1:
 translate zh_hans jos_office_creampie_e9af957e:
 
     # josie "I was just informed they upped the employee discount to fifteen percent!"
-    josie "刚听说他们把员工折扣提高到百分之十五了！"
+    josie "刚听说员工现在能打八五折了！"
 
 # game/src/plot/jos_office.rpy:211
 translate zh_hans jos_office_creampie_7168f141:
@@ -658,13 +658,13 @@ translate zh_hans jos_office_creampie_2491a0e4:
 translate zh_hans jos_office_creampie_1e8515bd:
 
     # josie e_w f_annoyed "Yes."
-    josie e_w f_annoyed "信。"
+    josie e_w f_annoyed "对。"
 
 # game/src/plot/jos_office.rpy:223
 translate zh_hans jos_office_creampie_6d6fbf17:
 
     # josie e_ssw f_angry "Rargh! I should never have let my dad make me quit."
-    josie e_ssw f_angry "啊！我当初就不该听我爸的辞职。"
+    josie e_ssw f_angry "可恶！我当初就不该听我爸的，把那份工作辞了。"
 
 # game/src/plot/jos_office.rpy:226
 translate zh_hans jos_office_creampie_710955d9:
@@ -700,4 +700,4 @@ translate zh_hans jos_office_creampie_81f80404:
 translate zh_hans jos_office_creampie_243fecdc:
 
     # josie a_side @ e_r "Stupid car dealership with my stupid father."
-    josie a_side @ e_r "破车行，还有我那蠢爸爸。"
+    josie a_side @ e_r "破车行，还有我那蠢老爸。"

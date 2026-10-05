@@ -64,7 +64,7 @@ translate zh_hans jos_table_847ed4a9:
 translate zh_hans jos_table_f7a37078:
 
     # anon "What are you doing today?"
-    anon "你今天打算做什么？"
+    anon "你今天在忙什么？"
 
 # game/src/plot/jos_table.rpy:41
 translate zh_hans jos_table_692c2a64:
@@ -124,7 +124,7 @@ translate zh_hans jos_table_d2816748:
 translate zh_hans jos_table_56a54ca9:
 
     # josie "These guys have the worst taste in movies, I swear..."
-    josie "这些人品味差透了，净看烂片，我发誓……"
+    josie "真的，这帮人看电影的品味简直差透了……"
 
 # game/src/plot/jos_table.rpy:59
 translate zh_hans jos_table_6e6a37b3:
@@ -136,7 +136,7 @@ translate zh_hans jos_table_6e6a37b3:
 translate zh_hans jos_table_25333a26:
 
     # josie "They keep bringing up this one, about futuristic marines battling giant space bugs..."
-    josie "他们一直在说一部，讲未来的陆战队员大战巨型太空虫子……"
+    josie "他们老提一部电影，讲未来的陆战队员大战巨型太空虫子……"
 
 # game/src/plot/jos_table.rpy:61
 translate zh_hans jos_table_1bdc2e19:
@@ -172,7 +172,7 @@ translate zh_hans jos_table_0d396ca1:
 translate zh_hans jos_table_0100661b:
 
     # josie "Maybe it's just a guy thing..."
-    josie "也许是男人的专属爱好……"
+    josie "也许男人就爱这样吧……"
 
 # game/src/plot/jos_table.rpy:68
 translate zh_hans jos_table_17b31ddd:
@@ -220,7 +220,7 @@ translate zh_hans jos_table_913072b3:
 translate zh_hans jos_table_18dd2824:
 
     # josie "Oh, I don't know... Just keep doing that!"
-    josie "哦，不知道……继续这样就行！"
+    josie "哦，我也不知道了……就这么继续！"
 
 # game/src/plot/jos_table.rpy:77
 translate zh_hans jos_table_b9add8c1:
@@ -256,19 +256,19 @@ translate zh_hans jos_table_1f44649b:
 translate zh_hans jos_table_074703f3:
 
     # josie s_18 "Oh, god!"
-    josie s_18 "哦，天啊！"
+    josie s_18 "哦，天哪！"
 
 # game/src/plot/jos_table.rpy:85
 translate zh_hans jos_table_3c701506:
 
     # josie "Don't!"
-    josie "别！"
+    josie "别停！"
 
 # game/src/plot/jos_table.rpy:86
 translate zh_hans jos_table_d0782eba:
 
     # josie "Stop!"
-    josie "停！"
+    josie "继续！"
 
 # game/src/plot/jos_table.rpy:89
 translate zh_hans jos_table_merge1_62bb682a:
@@ -418,7 +418,7 @@ translate zh_hans jos_table_merge2_f26f51dc:
 translate zh_hans jos_table_alt_2b6f4a8c:
 
     # anon "Or you could just bring it with you?"
-    anon "或者你可以把它带上？"
+    anon "要不你就把手机带过来？"
 
 # game/src/plot/jos_table.rpy:170
 translate zh_hans jos_table_alt_89fdc1d5:
@@ -640,7 +640,7 @@ translate zh_hans jos_table_alt_36460c39:
 translate zh_hans jos_table_alt_f2e15372:
 
     # anon "Oh god!"
-    anon "哦，天啊！"
+    anon "哦，天哪！"
 
 # game/src/plot/jos_table.rpy:256
 translate zh_hans jos_table_alt_398c5f74:
@@ -652,13 +652,13 @@ translate zh_hans jos_table_alt_398c5f74:
 translate zh_hans jos_table_alt_f6f79e86:
 
     # josie "Keep! "
-    josie "继续！"
+    josie "继续"
 
 # game/src/plot/jos_table.rpy:258
 translate zh_hans jos_table_alt_b8214474:
 
     # extend "Pounding! "
-    extend "用力！"
+    extend "用力干"
 
 # game/src/plot/jos_table.rpy:259
 translate zh_hans jos_table_alt_56551861:
@@ -688,4 +688,4 @@ translate zh_hans jos_table_creampie_d165fd93:
 translate zh_hans jos_table_creampie_9e7ec63f:
 
     # josie e_nw f_calm "Mmm, I'm gonna be feeling that tomorrow..."
-    josie e_nw f_calm "嗯，明天还得回味这个劲儿呢……"
+    josie e_nw f_calm "嗯，明天估计还得疼呢……"
