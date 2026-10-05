@@ -17183,6 +17183,26 @@
       "date": "2026-10-05",
       "reason": "补录既有b80744c已提交译文修正，同步台账指纹；本次不改该译文",
       "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/game_seed.rpy",
+      "source": "Rodríguez",
+      "before": "罗德里格斯",
+      "target": "Rodríguez",
+      "line": 18,
+      "date": "2026-10-05",
+      "reason": "补录a57c28d既有译文改动，修复审校台账及依赖指纹；本次保留译文不改",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/menu/mode.rpy",
+      "source": "McDuck mode",
+      "before": "麦克老鸭模式",
+      "target": "土豪模式",
+      "line": 23,
+      "date": "2026-10-05",
+      "reason": "补录a57c28d既有译文改动，修复审校台账及依赖指纹；本次保留译文不改",
+      "is_latest": true
     }
   ],
   "reading_batches": [

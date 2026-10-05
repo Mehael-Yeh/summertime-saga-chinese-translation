@@ -9549,7 +9549,7 @@
           },
           {
             "path": "tl/zh_hans/extracted/game_seed.rpy",
-            "sha256": "1fa87c8839373da2786e0d96bdf88dfc85af4af01338ec3ab5282d4517f0c7a2"
+            "sha256": "3c9a99918a43a73fc30c5409328866a0fee2beb249368d5dcd534eac9a33661a"
           },
           {
             "path": "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy",
@@ -10357,12 +10357,12 @@
       }
     },
     "tl/zh_hans/src/menu/mode.rpy": {
-      "sha256": "e175dd577eacf344a2654eac4eb01c001d261e78fe976a16d77d018e9a2d872a",
+      "sha256": "b90903b5e5cbf93001235f6cac2fc46803f5b8abcb883f8bc0ca6466e15429df",
       "pairs": 14,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "e175dd577eacf344a2654eac4eb01c001d261e78fe976a16d77d018e9a2d872a",
+        "translation_sha256": "b90903b5e5cbf93001235f6cac2fc46803f5b8abcb883f8bc0ca6466e15429df",
         "source_sha256": "013e1f35b343711bae396638a5acc37affc513a1b664dcc93733753bd5c58339",
         "source": "game/src/menu/mode.rpy",
         "source_local": ".codex_tmp/current7944/src/src/menu/mode.rpy",
@@ -10440,7 +10440,12 @@
         "note": "功能批次人工审校。已读本文件全部中文，核对本地界面使用语境；动态字段、共享字符串和外部游戏逻辑未据此结案。旧版兼容条目保留，未把注释行号当作当前运行证据。 2026-10-04：迁移至8194位置；仅保留ID及英中内容摘要均不变的历史审读项，不将新增文本自动计作7944审读覆盖。",
         "external_event_followup": true,
         "dependencies": [],
-        "method": "bilingual_scene_read"
+        "method": "bilingual_scene_read",
+        "fingerprint_sync": {
+          "date": "2026-10-05",
+          "source_commit": "a57c28d",
+          "scope": "仅同步既有单条译文修正及文件指纹，保留原审读项数量，不增加场景覆盖。"
+        }
       },
       "version_migration": {
         "game_version": "21.0.0-wip.8194",
@@ -213928,12 +213933,12 @@
       }
     },
     "tl/zh_hans/extracted/game_seed.rpy": {
-      "sha256": "1fa87c8839373da2786e0d96bdf88dfc85af4af01338ec3ab5282d4517f0c7a2",
+      "sha256": "3c9a99918a43a73fc30c5409328866a0fee2beb249368d5dcd534eac9a33661a",
       "pairs": 4,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "1fa87c8839373da2786e0d96bdf88dfc85af4af01338ec3ab5282d4517f0c7a2",
+        "translation_sha256": "3c9a99918a43a73fc30c5409328866a0fee2beb249368d5dcd534eac9a33661a",
         "source_sha256": "7265923f79aed01d6fb995a8817b854847819cbede06617f32b2d1661f72fe91",
         "source": "game/lib/saga/game.py",
         "source_local": ".codex_tmp/current7944/lib/saga/game.pyc",
@@ -213966,7 +213971,7 @@
           {
             "id": "strings",
             "line": 18,
-            "pair_sha256": "8db14e14b6e09f5484925fa07d18046b6af6c044bf62a401b874e8f7d8d5e601"
+            "pair_sha256": "58e993f220cd3c3c463bae9a3e90d27e3de7edb08ee2a18d47cb807852d4908b"
           }
         ],
         "note": "本地 4 条字符串已逐条审读并登记；条件触发、共享键与外部调度未计完成。",
@@ -214044,7 +214049,12 @@
           "payload_unchanged": true,
           "legacy_note_line_numbers": "Historical free-text notes retain original aggregate line numbers."
         },
-        "ordering": "source_module_then_first_occurrence; diary uses event registration and page/row order"
+        "ordering": "source_module_then_first_occurrence; diary uses event registration and page/row order",
+        "fingerprint_sync": {
+          "date": "2026-10-05",
+          "source_commit": "a57c28d",
+          "scope": "仅同步既有单条译文修正及文件指纹，保留原审读项数量，不增加场景覆盖。"
+        }
       }
     },
     "tl/zh_hans/sms_chat8194.rpy": {
