@@ -2354,12 +2354,10 @@ translate zh_hans jos01_josie2_6ace82c5:
 
 translate zh_hans strings:
 
-    # game/src/plot/jos01.rpy:500
+    # game/src/plot/jos01.rpy:506
     old "Is that a three-headed monkey?"
     new "那是一只三头猴子吗？"
 
-    # game/src/plot/jos01.rpy:503
+    # game/src/plot/jos01.rpy:509
     old "Woah, cool sword!"
     new "哇，好酷的剑！"
-
-# TODO: Translation updated at 2026-10-04 18:32

@@ -2954,7 +2954,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/josie.rpy",
-      "line": 7,
+      "line": 109,
       "source": "Excuse me?",
       "before": "请问？",
       "target": "打扰一下？",
@@ -3233,7 +3233,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/maria.rpy",
-      "line": 346,
+      "line": 338,
       "source": "Just saying hi.",
       "before": "只是来打招呼。",
       "target": "只是来打招呼",
@@ -4628,7 +4628,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mel04.rpy",
-      "line": 764,
+      "line": 770,
       "source": "You gotta catch me first, wonderbread!",
       "before": "你得先抓住我，小白脸！",
       "target": "你得先抓住我，白佬！",
@@ -4844,7 +4844,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_dark.rpy",
-      "line": 1960,
+      "line": 1959,
       "source": "Man, this brings back a lot of memories...",
       "before": "好家伙，这可勾起不少往事……",
       "target": "唉，这可勾起不少往事……",
@@ -5411,7 +5411,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mel05.rpy",
-      "line": 884,
+      "line": 890,
       "source": "Yes! Thank you, [saga.cast.erik]!",
       "before": "是的！谢谢你，[saga.cast.erik]！",
       "target": "太好了！谢谢你，[saga.cast.erik]！",
@@ -5420,7 +5420,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mel05.rpy",
-      "line": 914,
+      "line": 920,
       "source": "( Operation Gluteous Maximum is a go! )",
       "before": "（屁股最大行动开始！）",
       "target": "（臀大肌行动开始！）",
@@ -5429,7 +5429,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mel05.rpy",
-      "line": 919,
+      "line": 925,
       "source": "( Operation Sticky Chicken is a go! )",
       "before": "（黏糊糊烤鸡行动开始！）",
       "target": "（黏糊鸡行动开始！）",
@@ -5438,7 +5438,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mel05.rpy",
-      "line": 954,
+      "line": 960,
       "source": "... Huh?",
       "before": "…… 哈？",
       "target": "……哈？",
@@ -5447,7 +5447,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mel05.rpy",
-      "line": 964,
+      "line": 970,
       "source": "... Yeah.",
       "before": "…… 是啊。",
       "target": "……是啊。",
@@ -5483,7 +5483,7 @@
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
-      "line": 796,
+      "line": 1085,
       "source": "My dreams are getting really intense! ... And hot!",
       "before": "我的梦变得越来越强烈了！…… 而且还很火辣！",
       "target": "我的梦变得越来越强烈了！……而且还很火辣！",
@@ -5771,7 +5771,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 148,
+      "line": 147,
       "source": "What the-",
       "before": "什么——",
       "target": "搞什么——",
@@ -6176,7 +6176,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/tin_baby.rpy",
-      "line": 1594,
+      "line": 1600,
       "source": "She wouldn't even let me give her tips on breast feeding!",
       "before": "她甚至不让我给她哺乳的建议！",
       "target": "她连哺乳的建议都不让我提！",
@@ -6878,7 +6878,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 6175,
+      "line": 6173,
       "source": "Hahahaah!",
       "before": "哈哈哈啊哈！",
       "target": "哈哈哈！",
@@ -7256,7 +7256,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_dark.rpy",
-      "line": 2275,
+      "line": 2274,
       "source": "Y-yeah.",
       "before": "是……是啊。",
       "target": "是、是啊。",
@@ -7283,7 +7283,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_dark.rpy",
-      "line": 2380,
+      "line": 2379,
       "source": "Man, I love this view!",
       "before": "天哪，我爱死这个视角了！",
       "target": "天啊，我爱死这个视角了！",
@@ -7697,7 +7697,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jos01.rpy",
-      "line": 1699,
+      "line": 1705,
       "source": "N-no, sir.",
       "before": "没……没有，先生。",
       "target": "没、没有，先生。",
@@ -7715,7 +7715,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jos01.rpy",
-      "line": 1789,
+      "line": 1795,
       "source": "Grr, don't yell at me!",
       "before": "唔，别冲我吼！",
       "target": "啧，别冲我吼！",
@@ -7724,7 +7724,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jos01.rpy",
-      "line": 1945,
+      "line": 1951,
       "source": "I really need this for my-",
       "before": "我送外卖真的很需要——",
       "target": "我真的需要它来——",
@@ -7733,7 +7733,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jos01.rpy",
-      "line": 2083,
+      "line": 2089,
       "source": "O-okay.",
       "before": "好……好吧。",
       "target": "好、好吧。",
@@ -7751,7 +7751,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 445,
+      "line": 444,
       "source": "Hmm, not really?",
       "before": "嗯，不太有感觉？",
       "target": "嗯，好像没有？",
@@ -7760,7 +7760,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 451,
+      "line": 450,
       "source": "But I always did have a strong stomach.",
       "before": "不过我的胃口一向很好。",
       "target": "不过我的肠胃一向很好。",
@@ -7769,7 +7769,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 696,
+      "line": 695,
       "source": "Y-you're naked.",
       "before": "你……你没穿衣服。",
       "target": "你、你没穿衣服。",
@@ -7778,7 +7778,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 703,
+      "line": 702,
       "source": "Heh, oh... that.",
       "before": "呵呵，哦……这个啊。",
       "target": "呵，哦……这个啊。",
@@ -7796,7 +7796,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1010,
+      "line": 1009,
       "source": "... But you're right on time to meet your godchildren!",
       "before": "……但你正好赶上来见你的教子们！",
       "target": "……但你正好赶上来见你的教子和教女！",
@@ -7805,7 +7805,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1023,
+      "line": 1022,
       "source": "I don't want you cursin' in front of our children!",
       "before": "我不想你在我们孩子们面前骂人！",
       "target": "我不想你在孩子们面前骂人！",
@@ -7814,7 +7814,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1064,
+      "line": 1063,
       "source": "D-did you say godchildren?",
       "before": "你、你说的是教子们？",
       "target": "你、你说的是教子教女？",
@@ -7823,7 +7823,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1157,
+      "line": 1156,
       "source": "Heh, ya better be!",
       "before": "哼，你最好是这样！",
       "target": "呵，你最好是这样！",
@@ -7832,7 +7832,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1249,
+      "line": 1248,
       "source": "She's just so beautiful!",
       "before": "她真是太漂亮了！",
       "target": "她真漂亮！",
@@ -7841,7 +7841,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1273,
+      "line": 1272,
       "source": "They're just so beautiful!",
       "before": "他们真是太漂亮了！",
       "target": "他们真漂亮！",
@@ -7850,7 +7850,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1304,
+      "line": 1303,
       "source": "I imagine he'll grow up to be quite the lady-killer, eh?!",
       "before": "我猜他长大了会是个大情种，呃？！",
       "target": "我猜他长大了会是个大情种，对吧？！",
@@ -7868,7 +7868,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1446,
+      "line": 1445,
       "source": "I'm your godfather, [saga.cast.anon].",
       "before": "我是教父[saga.cast.anon]。",
       "target": "我是你的教父，[saga.cast.anon]。",
@@ -7877,7 +7877,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1545,
+      "line": 1544,
       "source": "If you're up to it, there'll be pizzas that need deliverin'!",
       "before": "你要是有空，店里还有披萨等着你送呢！",
       "target": "你要是有精力，店里还有披萨等着你送呢！",
@@ -7886,7 +7886,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1704,
+      "line": 1700,
       "source": "Oh my god, it's {i}so{/i} good!",
       "before": "哦天哪，这{i}太{/i}好吃了！",
       "target": "哦，天哪，这{i}太{/i}好吃了！",
@@ -7895,7 +7895,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1748,
+      "line": 1744,
       "source": "How many times do I have to tell ya to watch your fuckin' mouth, eh?",
       "before": "我他妈的得跟你说多少次让你注意自己的嘴，嗯？",
       "target": "我得跟你说多少次，让你那张臭嘴放干净点，嗯？",
@@ -7904,7 +7904,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 1767,
+      "line": 1763,
       "source": "I swear to god, our child's first word is gonna be cocksucker.",
       "before": "我发誓，咱们孩子的第一个词肯定是“鸡巴佬”。",
       "target": "我发誓，咱们孩子的第一个词肯定是“叼鸡巴的”。",
@@ -7931,7 +7931,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 2042,
+      "line": 2038,
       "source": "You got it, boss.",
       "before": "明白了，老板。",
       "target": "包在我身上，老板娘。",
@@ -7949,7 +7949,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 2233,
+      "line": 2229,
       "source": "Hold your godchildren for a second, would ya?",
       "before": "帮我抱一下你的教子们，行吗？",
       "target": "帮我抱一下你的教子和教女，行吗？",
@@ -7958,7 +7958,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 2296,
+      "line": 2292,
       "source": "Like puttin' that little stinker down for a nap.",
       "before": "比如哄那个小捣蛋睡午觉。",
       "target": "比如哄那个小家伙睡午觉。",
@@ -7967,7 +7967,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mar_baby.rpy",
-      "line": 2334,
+      "line": 2330,
       "source": "Yeah, they're somethin' else, ain't they?",
       "before": "是啊，他们可真了不起，不是吗？",
       "target": "是啊，他们真不一般，对吧？",
@@ -8480,7 +8480,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mel02.rpy",
-      "line": 1924,
+      "line": 1923,
       "source": "Heh, it's the booze, it warms up your insides...",
       "before": "嘿，是酒的作用，它让你的身体暖和起来……",
       "target": "呵，是酒的作用，它让你的身体暖和起来……",
@@ -8489,7 +8489,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mel02.rpy",
-      "line": 2024,
+      "line": 2023,
       "source": "Thanks! I guess- {i}*Hic*{/i} I guess it isn't that bad singing in front of others.",
       "before": "谢啦！我猜——{i}*呃*{/i}我猜在别人面前唱歌也没那么糟。",
       "target": "谢啦！我猜——{i}*嗝*{/i}我猜在别人面前唱歌也没那么糟。",
@@ -8615,7 +8615,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/mel02.rpy",
-      "line": 1723,
+      "line": 1722,
       "source": "Y-yeah, why?",
       "before": "是——是啊，怎么了？",
       "target": "是、是啊，怎么了？",
@@ -11765,7 +11765,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 4994,
+      "line": 4993,
       "source": "I-is that?",
       "before": "那——那是？",
       "target": "那、那是？",
@@ -11783,7 +11783,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 5375,
+      "line": 5374,
       "source": "Heh, he's so adorable!",
       "before": "嘿嘿，他太可爱了！",
       "target": "呵，他太可爱了！",
@@ -11792,7 +11792,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 5395,
+      "line": 5394,
       "source": "Heh, she's so adorable!",
       "before": "嘿嘿，她太可爱了！",
       "target": "呵，她太可爱了！",
@@ -11801,7 +11801,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 5415,
+      "line": 5414,
       "source": "Heh, they're so adorable!",
       "before": "嘿嘿，他们太可爱了！",
       "target": "呵，他们太可爱了！",
@@ -11819,7 +11819,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 5531,
+      "line": 5530,
       "source": "Heh, okay.",
       "before": "嘿，好吧。",
       "target": "呵，好吧。",
@@ -11828,7 +11828,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 5606,
+      "line": 5604,
       "source": "Aww, [saga.cast.anon]...",
       "before": "啊，[saga.cast.anon]……",
       "target": "哎呀，[saga.cast.anon]……",
@@ -11837,7 +11837,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 5701,
+      "line": 5699,
       "source": "Heh, you'll be coming home soon.",
       "before": "嘿，你很快就能回家了。",
       "target": "呵，你很快就能回家了。",
@@ -11846,7 +11846,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 6001,
+      "line": 5999,
       "source": "Aww, they're so cute!",
       "before": "哇，他们好可爱！",
       "target": "哎呀，他们好可爱！",
@@ -11864,7 +11864,7 @@
     },
     {
       "file": "tl/zh_hans/src/plot/jen_baby.rpy",
-      "line": 6200,
+      "line": 6198,
       "source": "Heh, bye-bye!",
       "before": "嘿，拜拜！",
       "target": "呵，拜拜！",
@@ -12116,7 +12116,7 @@
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
-      "line": 2011,
+      "line": 2877,
       "source": "So bicycle in French is bicyclette... I should probably remember that!",
       "before": "所以“自行车”用法语说是bicyclette（自行车）……我应该记住这个！",
       "target": "所以法语里的自行车叫bicyclette……我应该记住这个！",
@@ -12431,7 +12431,7 @@
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
-      "line": 775,
+      "line": 1057,
       "source": "Enter the lounge in the afternoon [saga.lang.wait(f)!t].",
       "before": "[saga.lang.wait(f)!t]下午进入客厅。",
       "target": "下午[saga.lang.wait(f)!t]进入客厅。",
@@ -12440,7 +12440,7 @@
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
-      "line": 841,
+      "line": 1145,
       "source": "Enter the garage [saga.lang.wait(f)!t] in the [f.when!l].",
       "before": "[saga.lang.wait(f)!t][f.when!l]进入车库。",
       "target": "[f.when!l][saga.lang.wait(f)!t]进入车库。",
@@ -12449,7 +12449,7 @@
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
-      "line": 955,
+      "line": 1297,
       "source": "Hearing those British accents in the background while having fun with [saga.cast.debbie] had better not awaken anything in me.",
       "before": "在背景中听到那些英国口音，并且与[saga.cast.debbie]玩得很开心，最好不要唤醒我内心的任何东西。",
       "target": "和[saga.cast.debbie]快活时背景里那些英国口音，最好别唤醒我内心里的什么东西。",
@@ -12458,7 +12458,7 @@
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
-      "line": 1546,
+      "line": 2249,
       "source": "I think I just made things worse. D: Perhaps I should try consoling her again later.",
       "before": "我想我刚刚让事情变得更糟了。D：或许我该等会儿再试着安慰她。",
       "target": "我想我刚刚让事情变得更糟了。D:或许我该等会儿再试着安慰她。",
@@ -12467,7 +12467,7 @@
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
-      "line": 1942,
+      "line": 2785,
       "source": "I hope that chicken thing isn't permanent.",
       "before": "我希望那个鸡的事情不是永久的。",
       "target": "希望那个变鸡的效果不是永久的。",
@@ -12629,7 +12629,7 @@
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
-      "line": 1231,
+      "line": 1673,
       "source": "Locate the UltraVibe 2000.",
       "before": "找到UltraVibe 2000。",
       "target": "找到超感振动2000。",
@@ -12638,7 +12638,7 @@
     },
     {
       "file": "tl/zh_hans/res/meta/step.rpy",
-      "line": 1234,
+      "line": 1677,
       "source": "The UltraVibe 2000 should be here somewhere.",
       "before": "UltraVibe 2000应该就在附近。",
       "target": "超感振动2000应该就在附近。",

@@ -6231,8 +6231,15 @@ translate zh_hans jen_baby_post_want_ba7df167:
 
 translate zh_hans strings:
 
-
     # game/src/plot/jen_baby.rpy:186
+    old "You doing okay?"
+    new "你还好吗？"
+
+    # game/src/plot/jen_baby.rpy:189
+    old "Are you still mad?"
+    new "你还在生气吗？"
+
+    # game/src/plot/jen_baby.rpy:192
     # game/src/plot/jen_baby.rpy:189
     # game/src/plot/jen_baby.rpy:192
     old "Movie."
@@ -6247,6 +6254,18 @@ translate zh_hans strings:
     new "[saga.cast.roxxy]"
 
     # game/src/plot/jen_baby.rpy:506
+    old "Can I get you something?"
+    new "要不要我给你拿点什么？"
+
+    # game/src/plot/jen_baby.rpy:509
+    old "About [saga.cast.debbie]..."
+    new "关于[saga.cast.debbie]……"
+
+    # game/src/plot/jen_baby.rpy:667
+    old "[saga.cast.debbie] is driving you crazy?"
+    new "[saga.cast.debbie]快把你逼疯了？"
+
+    # game/src/plot/jen_baby.rpy:679
     # game/src/plot/jen_baby.rpy:509
     # game/src/plot/jen_baby.rpy:667
     # game/src/plot/jen_baby.rpy:679
@@ -6256,31 +6275,10 @@ translate zh_hans strings:
     # game/src/plot/jen_baby.rpy:2271
     # game/src/plot/jen_baby.rpy:2274
 
-    # game/src/plot/jen_baby.rpy:508
-    old "About [saga.cast.debbie]..."
-    new "关于[saga.cast.debbie]……"
-
-    # game/src/plot/jen_baby.rpy:188
-    old "Are you still mad?"
-    new "你还在生气吗？"
-
-    # game/src/plot/jen_baby.rpy:505
-    old "Can I get you something?"
-    new "要不要我给你拿点什么？"
-
-    # game/src/plot/jen_baby.rpy:2273
-    old "Looking forward to daycare?"
-    new "期待去托儿所吗？"
-
-    # game/src/plot/jen_baby.rpy:186
-    old "You doing okay?"
-    new "你还好吗？"
-
-    # game/src/plot/jen_baby.rpy:2271
+    # game/src/plot/jen_baby.rpy:2272
     old "You guys need anything?"
     new "你们需要什么吗？"
 
-    # game/src/plot/jen_baby.rpy:666
-    old "[saga.cast.debbie] is driving you crazy?"
-    new "[saga.cast.debbie]快把你逼疯了？"
-# TODO: Translation updated at 2026-10-04 18:32
+    # game/src/plot/jen_baby.rpy:2275
+    old "Looking forward to daycare?"
+    new "期待去托儿所吗？"

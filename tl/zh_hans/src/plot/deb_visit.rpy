@@ -1767,11 +1767,10 @@ translate zh_hans deb_visit_creampie_ec606442:
 translate zh_hans strings:
 
     # game/src/plot/deb_visit.rpy:142
+    old "Okay, sure!"
+    new "好的，没问题！"
+
+    # game/src/plot/deb_visit.rpy:145
     # game/src/plot/deb_visit.rpy:145
     old "Not tonight, [saga.cast.debbie]."
     new "今晚不行，[saga.cast.debbie]"
-
-    # game/src/plot/deb_visit.rpy:142
-    old "Okay, sure!"
-    new "好的，没问题！"
-# TODO: Translation updated at 2026-10-04 18:32

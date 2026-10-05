@@ -2576,8 +2576,6 @@ translate zh_hans mar_dark_maria_trio2_4e335fb9:
 
 translate zh_hans strings:
 
-
     # game/src/plot/mar_dark.rpy:588
     old "Threeway?"
     new "要来三人行吗？"
-# TODO: Translation updated at 2026-10-04 18:32

@@ -2610,8 +2610,11 @@ translate zh_hans mar_baby_post_misc1_5952fbba:
 
 translate zh_hans strings:
 
+    # game/src/plot/mar_baby.rpy:151
+    old "How are you?"
+    new "你还好吗？"
 
-    # game/src/plot/mar_baby.rpy:150
+    # game/src/plot/mar_baby.rpy:386
     # game/src/plot/mar_baby.rpy:378
     old "Take the apron off?"
     new "把围裙脱掉？"
@@ -2619,11 +2622,6 @@ translate zh_hans strings:
     # game/src/plot/mar_baby.rpy:1171
     # game/src/plot/mar_baby.rpy:1174
 
-    # game/src/plot/mar_baby.rpy:150
-    old "How are you?"
-    new "你还好吗？"
-
-    # game/src/plot/mar_baby.rpy:1173
+    # game/src/plot/mar_baby.rpy:1227
     old "What are you doing?"
     new "你在干什么？"
-# TODO: Translation updated at 2026-10-04 18:32

@@ -800,40 +800,38 @@ translate zh_hans jos_trade_scooter2_70b9b7a6:
 
 translate zh_hans strings:
 
-    # game/src/plot/jos_trade.rpy:44
+    # game/src/plot/jos_trade.rpy:47
     old "On a budget."
     new "预算得省着点。"
 
-    # game/src/plot/jos_trade.rpy:47
+    # game/src/plot/jos_trade.rpy:50
     old "Gotta have four wheels."
     new "必须得有四个轮子。"
 
-    # game/src/plot/jos_trade.rpy:50
+    # game/src/plot/jos_trade.rpy:53
     old "Take my money!"
     new "钱拿去！"
 
-    # game/src/plot/jos_trade.rpy:53
+    # game/src/plot/jos_trade.rpy:56
     old "Actually, I'm good."
     new "其实，还是算了。"
 
-    # game/src/plot/jos_trade.rpy:131
+    # game/src/plot/jos_trade.rpy:139
     old "Yes. [[{usd=$[opts[saga.prop.key_compact] - cost:,]}]"
     new "要了。[[{usd=$[opts[saga.prop.key_compact] - cost:,]}]"
 
-    # game/src/plot/jos_trade.rpy:257
+    # game/src/plot/jos_trade.rpy:268
     old "I guess so. [[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]"
     new "那就要了吧。[[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]"
 
-    # game/src/plot/jos_trade.rpy:260
+    # game/src/plot/jos_trade.rpy:271
     old "Pass."
     new "算了"
 
-    # game/src/plot/jos_trade.rpy:362
+    # game/src/plot/jos_trade.rpy:377
     old "Deal! [[{usd=$[opts[saga.prop.key_scooter] - cost:,]}]"
     new "成交！[[{usd=$[opts[saga.prop.key_scooter] - cost:,]}]"
 
-    # game/src/plot/jos_trade.rpy:365
+    # game/src/plot/jos_trade.rpy:380
     old "No deal."
     new "不买了"
-
-# TODO: Translation updated at 2026-10-04 18:32

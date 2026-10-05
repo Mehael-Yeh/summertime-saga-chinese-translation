@@ -2723,5 +2723,3 @@ translate zh_hans strings:
     # game/src/plot/tor05.rpy:840
     old "Could you repeat that?"
     new "你能再说一遍吗？"
-
-# TODO: Translation updated at 2026-10-04 18:32

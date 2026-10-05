@@ -77,20 +77,17 @@ translate zh_hans strings:
     new "放弃[saga.gui.buy!lt]"
 
     # game/src/mech/shop.rpy:56
+    old "Add to [what.cart!lt]. [[{usd=$[what.cost:,]}]"
+    new "加入[what.cart!lt]。[[{usd=$[what.cost:,]}]"
+
+    # game/src/mech/shop.rpy:59
     old "Add to [what.cart!lt]."
     new "添加到[what.cart!lt]"
 
-    # game/src/mech/shop.rpy:59
+    # game/src/mech/shop.rpy:62
     old "Put it back."
     new "放回去"
 
-    # game/src/mech/shop.rpy:62
+    # game/src/mech/shop.rpy:65
     old "Leave it."
     new "不管它"
-# TODO: Translation updated at 2026-10-04 18:32
-
-translate zh_hans strings:
-
-    # game/src/mech/shop.rpy:56
-    old "Add to [what.cart!lt]. [[{usd=$[what.cost:,]}]"
-    new "加入[what.cart!lt]。[[{usd=$[what.cost:,]}]"

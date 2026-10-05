@@ -230,22 +230,18 @@ translate zh_hans cedric_gym_workout_what_38187eb2:
 
 translate zh_hans strings:
 
-
-    # game/src/plot/cedric.rpy:16
-    old "Can you spot me?"
-    new "你能帮我护着点儿吗？"
-
-    # game/src/plot/cedric.rpy:19
-    old "See ya!"
-    new "回头见！"
-
-    # game/src/plot/cedric.rpy:13
-    old "What have you been up to?"
-    new "你最近在忙什么呢？"
-# TODO: Translation updated at 2026-10-04 18:32
-
-translate zh_hans strings:
-
     # game/src/plot/cedric.rpy:5
     old "[saga.cast.jenny]."
     new "[saga.cast.jenny]。"
+
+    # game/src/plot/cedric.rpy:8
+    old "What have you been up to?"
+    new "你最近在忙什么呢？"
+
+    # game/src/plot/cedric.rpy:11
+    old "Can you spot me?"
+    new "你能帮我护着点儿吗？"
+
+    # game/src/plot/cedric.rpy:14
+    old "See ya!"
+    new "回头见！"

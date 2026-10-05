@@ -1181,5 +1181,3 @@ translate zh_hans bar06_office3_barb_2664e5a9:
 
     # anon "I'll see you there, [saga.cast.barb]."
     anon "回见，[saga.cast.barb]。"
-
-# TODO: Translation updated at 2026-10-04 18:32

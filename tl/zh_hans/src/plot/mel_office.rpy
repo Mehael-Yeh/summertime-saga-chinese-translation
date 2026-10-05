@@ -485,11 +485,12 @@ translate zh_hans mel_office_dance_9fa5a2b9:
     melody "我现在就要那根大鸡巴！"
 
 translate zh_hans strings:
-    # game/src/plot/mel_office.rpy:11
-    # game/src/plot/mel_office.rpy:16
-    old "Right to it."
-    new "直奔主题"
+
     # game/src/plot/mel_office.rpy:11
     old "Dance."
     new "跳舞"
-# TODO: Translation updated at 2026-10-04 18:32
+
+    # game/src/plot/mel_office.rpy:17
+    # game/src/plot/mel_office.rpy:16
+    old "Right to it."
+    new "直奔主题"

@@ -2,7 +2,7 @@
 
 当前清单对应8194翻译源码；有效节点以官方归档引擎为准。全库344个翻译文件、40514组英中对应，37256个有效对白节点；无孤立节点或非空原文遗漏。5个本体空白extend不生成译文；本体TODO开发标识仍保留，例外见`english_residuals.md`。后半部分审校覆盖记录保留历史口径，不能当作8194新增内容的逐场验收。
 
-更新时间：2026-10-04
+更新时间：2026-10-05
 
 用途与维护方式见[index.md](index.md)。
 
@@ -92,7 +92,7 @@
 | `deb_sleep.rpy` | 263 | 42 | 2 | anon、debbie |
 | `deb_tv.rpy` | 4583 | 760 | 5 | debbie、anon、hym、mono、lsd |
 | `deb_utility.rpy` | 79 | 13 | 0 | debbie、anon |
-| `deb_visit.rpy` | 1777 | 294 | 2 | debbie、anon、mono |
+| `deb_visit.rpy` | 1776 | 294 | 2 | debbie、anon、mono |
 | `debbie_attic.rpy` | 25 | 4 | 0 | mono、anon |
 | `debbie_bed1.rpy` | 25 | 4 | 0 | anon |
 | `debbie_bed2.rpy` | 43 | 7 | 0 | anon |
@@ -142,7 +142,7 @@
 
 | 文件 | 行数 | 翻译块 | old/new | 主要说话人（推定） |
 |---|---:|---:|---:|---|
-| `jen_baby.rpy` | 6286 | 918 | 11 | jenny、anon、debbie、diane、micoe、extend、mono |
+| `jen_baby.rpy` | 6284 | 918 | 11 | jenny、anon、debbie、diane、micoe、extend、mono |
 | `jen_cam.rpy` | 1172 | 195 | 0 | jenny、anon、mono、extend |
 | `jen_deal.rpy` | 43 | 7 | 0 | jenny、anon |
 | `jen_finger.rpy` | 576 | 94 | 2 | jenny、anon |
@@ -169,7 +169,7 @@
 |---|---:|---:|---:|---|
 | `diane_lobby.rpy` | 19 | 3 | 0 | anon |
 | `diane_plot.rpy` | 68 | 11 | 0 | anon、diane |
-| `diane.rpy` | 71 | 8 | 4 | diane、anon |
+| `diane.rpy` | 68 | 8 | 4 | diane、anon |
 
 ## 酒吧线
 
@@ -178,9 +178,9 @@
 | `bar01.rpy` | 662 | 110 | 0 | barb、anon、ursula、mia、mono、more |
 | `bar02.rpy` | 2024 | 337 | 0 | anon、barb、mia、eve、chad、mono |
 | `bar03.rpy` | 1856 | 309 | 0 | anon、barb、mia、melody、kevin、jane、becca、mono |
-| `bar04.rpy` | 3585 | 597 | 0 | anon、barb、judith、mia、ursula、mono、dexter、eve |
+| `bar04.rpy` | 3583 | 597 | 0 | anon、barb、judith、mia、ursula、mono、dexter、eve |
 | `bar05.rpy` | 2816 | 469 | 0 | anon、barb、mia、annie、ursula、lily、ang、mono |
-| `bar06.rpy` | 1185 | 197 | 0 | barb、anon、iwanka |
+| `bar06.rpy` | 1183 | 197 | 0 | barb、anon、iwanka |
 
 ## Maria线
 
@@ -193,15 +193,15 @@
 
 | 文件 | 行数 | 翻译块 | old/new | 主要说话人（推定） |
 |---|---:|---:|---:|---|
-| `mar_baby.rpy` | 2629 | 392 | 3 | anon、maria、tony、micoe |
+| `mar_baby.rpy` | 2627 | 392 | 3 | anon、maria、tony、micoe |
 | `mar_cook.rpy` | 337 | 66 | 2 | maria、anon |
 | `mar_couch.rpy` | 3930 | 636 | 0 | maria、tony、anon、mono |
-| `mar_dark.rpy` | 2583 | 368 | 1 | tony、maria、anon |
-| `mar_door.rpy` | 706 | 141 | 0 | maria、anon、mono |
+| `mar_dark.rpy` | 2581 | 368 | 1 | tony、maria、anon |
+| `mar_door.rpy` | 705 | 141 | 0 | maria、anon、mono |
 | `mar_kitchen.rpy` | 230 | 38 | 0 | anon、maria |
 | `mar_pantry.rpy` | 449 | 90 | 0 | maria、anon、extend |
 | `maria_lounge.rpy` | 75 | 13 | 0 | anon、maria、TODO |
-| `maria.rpy` | 346 | 49 | 7 | maria、anon |
+| `maria.rpy` | 345 | 49 | 7 | maria、anon |
 
 ## Melody线
 
@@ -210,9 +210,9 @@
 | `mel01.rpy` | 1886 | 314 | 0 | anon、melody、judith、erik、mono、ursula、more、tyrone |
 | `mel02.rpy` | 3265 | 473 | 0 | anon、eve、erik、melody、roxxy、kevin、annie、tammy |
 | `mel03.rpy` | 971 | 148 | 0 | anon、melody、ursula、kevin、eve、annie、mono、more |
-| `mel04.rpy` | 911 | 182 | 0 | anon、melody、eve、tyrone、ursula、chad、mono、chico |
-| `mel05.rpy` | 1391 | 278 | 0 | anon、erik、kevin、eve、mono、melody、more |
-| `mel06.rpy` | 1686 | 337 | 0 | anon、melody、eve、kevin、mono、annie、ursula、more |
+| `mel04.rpy` | 910 | 182 | 0 | anon、melody、eve、tyrone、ursula、chad、mono、chico |
+| `mel05.rpy` | 1390 | 278 | 0 | anon、erik、kevin、eve、mono、melody、more |
+| `mel06.rpy` | 1685 | 337 | 0 | anon、melody、eve、kevin、mono、annie、ursula、more |
 
 ## Tina线
 
@@ -225,7 +225,7 @@
 
 | 文件 | 行数 | 翻译块 | old/new | 主要说话人（推定） |
 |---|---:|---:|---:|---|
-| `tin_baby.rpy` | 1942 | 319 | 4 | anon、tina、becca、micoe |
+| `tin_baby.rpy` | 1944 | 319 | 4 | anon、tina、becca、micoe |
 | `tin_cubicle.rpy` | 7 | 1 | 0 | anon |
 | `tin_dusk.rpy` | 996 | 166 | 0 | tina、anon |
 | `tin_vault.rpy` | 1230 | 203 | 2 | tina、anon、liu、tim |
@@ -239,9 +239,9 @@
 | `tor01.rpy` | 2150 | 358 | 0 | anon、tori、konty、mia、mono、erik、more |
 | `tor02.rpy` | 2828 | 471 | 0 | anon、tori、judith、erik、june、mono、kevin |
 | `tor03.rpy` | 1598 | 266 | 0 | anon、tori、june、erik、mono |
-| `tor04.rpy` | 627 | 104 | 0 | tori、ursula、anon、mono |
-| `tor05.rpy` | 2727 | 449 | 7 | anon、tori、ursula、annie、mono、vee、pa |
-| `tor06.rpy` | 1053 | 174 | 1 | anon、tori、mono |
+| `tor04.rpy` | 625 | 104 | 0 | tori、ursula、anon、mono |
+| `tor05.rpy` | 2725 | 449 | 7 | anon、tori、ursula、annie、mono、vee、pa |
+| `tor06.rpy` | 1051 | 174 | 1 | anon、tori、mono |
 
 ## Tori支线/场景
 
@@ -276,7 +276,7 @@
 
 | 文件 | 行数 | 翻译块 | old/new | 主要说话人（推定） |
 |---|---:|---:|---:|---|
-| `jos01.rpy` | 2365 | 392 | 2 | anon、josie、yoshi、yoo |
+| `jos01.rpy` | 2363 | 392 | 2 | anon、josie、yoshi、yoo |
 | `jos02.rpy` | 3889 | 645 | 4 | anon、josie、jiang、yoo、nyu、yoshi |
 | `jos03.rpy` | 2603 | 432 | 2 | anon、josie、yoshi、nadya、jab、nyu、yoo、sergei |
 | `jos04.rpy` | 2731 | 455 | 0 | anon、josie、yoshi、yoo、ronald、nyu、mono、more |
@@ -314,7 +314,7 @@
 | `car_garage.rpy` | 13 | 2 | 0 | anon |
 | `car_lounge.rpy` | 13 | 2 | 0 | anon |
 | `car_shop.rpy` | 19 | 3 | 0 | anon |
-| `cedric.rpy` | 251 | 38 | 4 | cedric、anon |
+| `cedric.rpy` | 247 | 38 | 4 | cedric、anon |
 | `dexter.rpy` | 41 | 5 | 2 | dexter、anon |
 | `ella.rpy` | 25 | 4 | 0 | anon、ella |
 | `emm_stall.rpy` | 49 | 10 | 0 | anon、emma |
@@ -330,8 +330,8 @@
 | `ind_stall.rpy` | 84 | 17 | 0 | anon、indira |
 | `ivy.rpy` | 102 | 15 | 2 | ivy、anon |
 | `jane.rpy` | 46 | 3 | 6 | jane、anon |
-| `jos_trade.rpy` | 839 | 133 | 9 | josie、anon |
-| `josie.rpy` | 214 | 32 | 4 | josie、anon |
+| `jos_trade.rpy` | 837 | 133 | 9 | josie、anon |
+| `josie.rpy` | 211 | 32 | 4 | josie、anon |
 | `jud_stall.rpy` | 553 | 92 | 0 | judith、anon |
 | `judith.rpy` | 123 | 18 | 3 | judith、anon |
 | `june.rpy` | 71 | 10 | 2 | anon、june |
@@ -346,7 +346,7 @@
 | `liu.rpy` | 101 | 15 | 2 | liu、anon |
 | `mall_booth.rpy` | 25 | 4 | 0 | anon |
 | `mall_hall1.rpy` | 17 | 1 | 2 | anon |
-| `mel_office.rpy` | 495 | 97 | 2 | melody、anon |
+| `mel_office.rpy` | 496 | 97 | 2 | melody、anon |
 | `melody.rpy` | 164 | 23 | 2 | melody、anon |
 | `mia.rpy` | 61 | 9 | 1 | anon、mia |
 | `micoe.rpy` | 36 | 4 | 2 | anon、micoe |
@@ -381,7 +381,7 @@
 | `tech_gamepad.rpy` | 13 | 2 | 0 | anon |
 | `ten_stall.rpy` | 154 | 31 | 0 | anon、tenzin |
 | `titomi.rpy` | 366 | 59 | 2 | titomi、anon |
-| `ton_baby.rpy` | 981 | 151 | 2 | tony、anon |
+| `ton_baby.rpy` | 977 | 151 | 2 | tony、anon |
 | `tony.rpy` | 393 | 55 | 4 | tony、anon |
 | `tool_drill.rpy` | 14 | 2 | 0 | anon |
 | `tool_shovel.rpy` | 259 | 43 | 0 | anon、jenny |
@@ -390,7 +390,7 @@
 | `ursula.rpy` | 49 | 8 | 0 | anon、ursula |
 | `vee.rpy` | 161 | 25 | 2 | vee、anon |
 | `viv.rpy` | 157 | 23 | 4 | viv、anon |
-| `yoo.rpy` | 281 | 44 | 3 | yoo、anon |
+| `yoo.rpy` | 280 | 44 | 3 | yoo、anon |
 | `yoshi.rpy` | 83 | 12 | 2 | yoshi、anon |
 | `zana.rpy` | 31 | 5 | 0 | zana、anon |
 | `costume_vest.rpy` | 13 | 2 | 0 | anon |

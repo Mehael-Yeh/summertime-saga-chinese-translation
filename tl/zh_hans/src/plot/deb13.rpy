@@ -2918,19 +2918,19 @@ translate zh_hans deb13_outro_rails_5dc50160:
 
 translate zh_hans strings:
 
-    # game/src/plot/deb13.rpy:604
+    # game/src/plot/deb13.rpy:608
     old "Transfer funds. [[{usd=$8,000}]"
     new "转账[[{usd=$8,000}]"
 
-    # game/src/plot/deb13.rpy:607
+    # game/src/plot/deb13.rpy:611
+    old "Are you sure there's nothing you can do?"
+    new "真没别的办法了？"
+
+    # game/src/plot/deb13.rpy:622
     # game/src/plot/deb13.rpy:618
     old "To stick it to the man!"
     new "为了坑公司一把！"
 
-    # game/src/plot/deb13.rpy:621
+    # game/src/plot/deb13.rpy:625
     old "Um... funsies?"
     new "呃……因为好玩？"
-
-    # game/src/plot/deb13.rpy:606
-    old "Are you sure there's nothing you can do?"
-    new "真没别的办法了？"

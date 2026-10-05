@@ -1049,5 +1049,3 @@ translate zh_hans strings:
     # game/src/plot/tor06.rpy:274
     old "Toggle augmented reality"
     new "切换增强现实"
-
-# TODO: Translation updated at 2026-10-04 18:32

@@ -266,16 +266,15 @@ translate zh_hans yoo_car_shop_rude_9f32890c:
 
 translate zh_hans strings:
 
-    # game/src/plot/yoo.rpy:5
-    old "Rude."
-    new "真没礼貌"
-
     # game/src/plot/yoo.rpy:8
     # game/src/plot/yoo.rpy:11
     old "I'm done."
     new "我受够了"
 
-    # game/src/plot/yoo.rpy:18
+    # game/src/plot/yoo.rpy:11
+    old "Rude."
+    new "真没礼貌"
+
+    # game/src/plot/yoo.rpy:14
     old "Employee of the month?"
     new "月度最佳员工？"
-# TODO: Translation updated at 2026-10-04 18:32

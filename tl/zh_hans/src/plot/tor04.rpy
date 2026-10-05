@@ -623,5 +623,3 @@ translate zh_hans tor04_outro_block_f570566b:
 
     # anon @ -m_talk "( I should let her rest for now. )"
     anon @ -m_talk "（现在应该让她休息一下。）"
-
-# TODO: Translation updated at 2026-10-04 18:32

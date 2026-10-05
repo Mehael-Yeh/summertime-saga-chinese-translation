@@ -703,4 +703,3 @@ translate zh_hans mar_door_maria_rails_a0f4d594:
 translate zh_hans mar_door_maria_rails_1a0407ba:
     # anon @ -m_talk "( Nuh uh, there's no way I'm walking away from this... )"
     anon @ -m_talk "（不行，我可不能就这么一走了之……）"
-# TODO: Translation updated at 2026-10-04 18:32

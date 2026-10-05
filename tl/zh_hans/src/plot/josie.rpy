@@ -201,9 +201,6 @@ translate zh_hans strings:
     # game/src/plot/josie.rpy:8
     old "Buy a vehicle."
     new "买辆车"
-# TODO: Translation updated at 2026-10-04 18:32
-
-translate zh_hans strings:
 
     # game/src/plot/josie.rpy:8
     old "Russians."

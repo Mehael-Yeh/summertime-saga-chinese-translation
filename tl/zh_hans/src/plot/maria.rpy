@@ -317,7 +317,6 @@ translate zh_hans maria_pizza_shop_outro_cabaf4ec:
 
 translate zh_hans strings:
 
-
     # game/src/plot/maria.rpy:5
     old "Trip."
     new "旅行"
@@ -326,21 +325,21 @@ translate zh_hans strings:
     old "Baby."
     new "宝宝"
 
-    # game/src/plot/maria.rpy:59
+    # game/src/plot/maria.rpy:90
     old "Job."
     new "工作"
 
-    # game/src/plot/maria.rpy:68
+    # game/src/plot/maria.rpy:99
     old "Tonight."
     new "今晚"
 
-    old "Wages. ($[saga.prop.pizza_boxes.owed:,])"
-    new "工钱（$[saga.prop.pizza_boxes.owed:,]）"
+    # game/src/plot/maria.rpy:108
+    old "Just saying hi."
+    new "只是来打招呼"
 
-    # game/src/plot/maria.rpy:176
+    # game/src/plot/maria.rpy:171
     old "Good night."
     new "晚安"
 
-    # game/src/plot/maria.rpy:73
-    old "Just saying hi."
-    new "只是来打招呼"
+    old "Wages. ($[saga.prop.pizza_boxes.owed:,])"
+    new "工钱（$[saga.prop.pizza_boxes.owed:,]）"

@@ -4577,6 +4577,10 @@ translate zh_hans strings:
     new "再见"
 
     # game/src/plot/deb_baby.rpy:946
+    old "Okay?"
+    new "还好吗？"
+
+    # game/src/plot/deb_baby.rpy:1241
     # game/src/plot/deb_baby.rpy:1241
     old "Bump."
     new "孕肚"
@@ -4586,6 +4590,10 @@ translate zh_hans strings:
     new "洗衣"
 
     # game/src/plot/deb_baby.rpy:1254
+    old "I'll leave you be."
+    new "那我不打扰你了"
+
+    # game/src/plot/deb_baby.rpy:1328
     # game/src/plot/deb_baby.rpy:1328
     old "Skinny dip?"
     new "裸泳？"
@@ -4598,14 +4606,6 @@ translate zh_hans strings:
     old "Daycare."
     new "托儿所"
 
-    # game/src/plot/deb_baby.rpy:946
-    old "Okay?"
-    new "还好吗？"
-
-    # game/src/plot/deb_baby.rpy:1254
-    old "I'll leave you be."
-    new "那我不打扰你了"
-
-    # game/src/plot/deb_baby.rpy:1986
+    # game/src/plot/deb_baby.rpy:1987
     old "See you later!"
     new "回头见！"

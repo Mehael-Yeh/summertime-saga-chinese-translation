@@ -1928,15 +1928,17 @@ translate zh_hans tin_baby_post_tina_lounge_9fa05a2e:
 translate zh_hans strings:
 
     # game/src/plot/tin_baby.rpy:150
-    old "Can I get you anything?"
-    new "要我给你拿点什么吗？"
-    # game/src/plot/tin_baby.rpy:148
     old "How are you feeling?"
     new "你感觉怎么样？"
-    # game/src/plot/tin_baby.rpy:793
-    old "How's everything going?"
-    new "一切顺利吗？"
-    # game/src/plot/tin_baby.rpy:690
+
+    # game/src/plot/tin_baby.rpy:153
+    old "Can I get you anything?"
+    new "要我给你拿点什么吗？"
+
+    # game/src/plot/tin_baby.rpy:697
     old "Is there anything I can do?"
     new "有什么我能帮忙的吗？"
-# TODO: Translation updated at 2026-10-04 18:32
+
+    # game/src/plot/tin_baby.rpy:799
+    old "How's everything going?"
+    new "一切顺利吗？"
