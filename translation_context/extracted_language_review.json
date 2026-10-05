@@ -20100,5 +20100,481 @@
     "changes_added": 34,
     "validation": "完整短信在插值前翻译；官方引擎验证英文/中文/英文、标签与照片；隔离测试63条短信/340条映射。",
     "limitations": "专项显示验证，不代表全部剧情或全部UI游玩验收。"
+  },
+  "context_review_8194": {
+    "date": "2026-10-05",
+    "game_version": "21.0.0-wip.8194",
+    "scope": "上下文目录遗留状态复查；不新增人工审读覆盖，不替代运行时任务和镜头验收",
+    "terminology_checks": [
+      {
+        "id": "protege",
+        "status": "current_mapping_confirmed",
+        "hits": [
+          {
+            "file": "tl/zh_hans/src/plot/tin_vault.rpy",
+            "line": 337,
+            "source": "... You are [saga.cast.tony]'s protégé after all.",
+            "target": "……毕竟你是[saga.cast.tony]的徒弟。"
+          }
+        ]
+      },
+      {
+        "id": "old_drill",
+        "status": "current_mapping_confirmed",
+        "hits": [
+          {
+            "file": "tl/zh_hans/src/plot/tool_drill.rpy",
+            "line": 7,
+            "source": "( It's Dad's old drill. )",
+            "target": "（这是爸爸以前用的那把旧电钻。）"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/bar04.rpy",
+            "line": 193,
+            "source": "( I already have that old drill of Dad's in my backpack... )",
+            "target": "（我背包里已经有爸爸那把旧电钻了……）"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/bar04.rpy",
+            "line": 289,
+            "source": "( Conveniently, Dad's old drill is just over there on the shelf... )",
+            "target": "（巧了，爸爸那把旧电钻就在那边的架子上……）"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 1369,
+            "source": "( ... Pretty sure there's an old drill of Dad's in the garage at home... )",
+            "target": "（……我很确定家里车库里还有爸爸以前用的那把旧电钻……）"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 1543,
+            "source": "You know, I've been carrying my Dad's old drill around and now it finally has a use!",
+            "target": "你知道吗，我一直带着我爸的旧电钻，现在终于派上用场了！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 1585,
+            "source": "( Thankfully, there's that old drill of Dad's on the shelf... )",
+            "target": "（还好，爸爸那把旧电钻就在架子上……）"
+          }
+        ]
+      },
+      {
+        "id": "melody_sugar",
+        "status": "current_mapping_confirmed",
+        "hits": [
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 13,
+            "source": "Oh my goodness, [saga.cast.anon]! Is that you, sugar?",
+            "target": "哦天哪，[saga.cast.anon]！是你吗，甜心？"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 37,
+            "source": "Is there anything I can do for you, sugar?",
+            "target": "有什么我能帮你的吗，甜心？"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 127,
+            "source": "Hehehe, it's alright, sugar.",
+            "target": "呵呵呵，没关系，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 169,
+            "source": "Oh, lord no, sugar!",
+            "target": "哦，天哪，不是的，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 223,
+            "source": "Excuse me, sugar, but I'd better get this class under control.",
+            "target": "抱歉，甜心，我得先让班里安静下来。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 529,
+            "source": "Oh, bless you, sugar!",
+            "target": "哦，上帝保佑你，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 589,
+            "source": "Don't you worry about it, sugar.",
+            "target": "别担心，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 697,
+            "source": "Oh, sugar. My skill with the flute is unrivaled!",
+            "target": "哦，甜心。我的笛艺无人能敌！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 781,
+            "source": "Hurry back, sugar!",
+            "target": "快点回来，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 829,
+            "source": "Bye, sugar!",
+            "target": "再见，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 1039,
+            "source": "Good luck, sugar!",
+            "target": "祝你好运，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 1681,
+            "source": "I knew you'd find it, sugar!",
+            "target": "我就知道你能找到，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel01.rpy",
+            "line": 1843,
+            "source": "I knew you would, sugar!",
+            "target": "我就知道你能找到，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel02.rpy",
+            "line": 50,
+            "source": "Well, you're a fast learner, sugar.",
+            "target": "你学得很快，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel02.rpy",
+            "line": 127,
+            "source": "Good luck, sugar!",
+            "target": "祝你好运，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel02.rpy",
+            "line": 344,
+            "source": "Nonsense, sugar, you've got so much potential!",
+            "target": "别胡说，甜心，你潜力无限！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel02.rpy",
+            "line": 3217,
+            "source": "Oh, I bet you don't, sugar!",
+            "target": "哦，我打赌你不会，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel03.rpy",
+            "line": 157,
+            "source": "Yeah, all thanks to you, sugar!",
+            "target": "是啊，多亏了你，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel03.rpy",
+            "line": 929,
+            "source": "Yeah, I'm right here, sugar.",
+            "target": "是啊，我就在这儿，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel04.rpy",
+            "line": 445,
+            "source": "Yeah, I'm right here, sugar.",
+            "target": "是啊，我就在这儿，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel04.rpy",
+            "line": 485,
+            "source": "Oh, sugar. You're so sweet.",
+            "target": "哦，甜心，你真好。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel04.rpy",
+            "line": 605,
+            "source": "Aww, you're quite the little charmer, sugar.",
+            "target": "哎哟，你还挺会哄人的嘛，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel04.rpy",
+            "line": 685,
+            "source": "Hey, be nice to [saga.cast.anon]! He's my little sugar!",
+            "target": "嘿，对[saga.cast.anon]好点！他可是我的小甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel04.rpy",
+            "line": 730,
+            "source": "Well, that's alright, sugar.",
+            "target": "好吧，没关系，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel04.rpy",
+            "line": 805,
+            "source": "It's alright, sugar. You can touch it if you want.",
+            "target": "没事的，甜心。你想摸的话就摸吧。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel04.rpy",
+            "line": 900,
+            "source": "Good night, sugar.",
+            "target": "晚安，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel05.rpy",
+            "line": 44,
+            "source": "Go take a seat then, sugar.",
+            "target": "去坐下吧，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 594,
+            "source": "Well, hello there, sugar.",
+            "target": "哎呀，你好啊，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 629,
+            "source": "Nu uh! Not until I've had a chance to properly thank you, sugar!",
+            "target": "才不呢！除非我好好感谢你一番，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 849,
+            "source": "Thanks again, sugar!",
+            "target": "再次感谢，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 1089,
+            "source": "That's right, sugar.",
+            "target": "是的，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 1224,
+            "source": "Call me [saga.cast.melody.name], sugar.",
+            "target": "叫我[saga.cast.melody.name]，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 1299,
+            "source": "Heh, oh sugar. He's a {i}very{/i} nice guy.",
+            "target": "嘿嘿，哎呀，甜心。他可是个{i}非常{/i}不错的人。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 1334,
+            "source": "Hehe, I've got curves in all the right places, sugar!",
+            "target": "呵呵，我的曲线都恰到好处，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 1374,
+            "source": "Mmm, then you're gonna love this, sugar!",
+            "target": "嗯，那你肯定会喜欢这个的，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 1450,
+            "source": "Right there, sugar...",
+            "target": "就在那儿，甜心……"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 1485,
+            "source": "Pound that pussy, sugar!",
+            "target": "猛肏我的骚屄，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 1600,
+            "source": "You got something special there, sugar!",
+            "target": "甜心，你可真是天赋异禀！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel06.rpy",
+            "line": 1640,
+            "source": "Good! You come and see me anytime, sugar!",
+            "target": "太好了！随时来找我，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel_office.rpy",
+            "line": 69,
+            "source": "Right here, sugar...",
+            "target": "就是这里，甜心……"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel_office.rpy",
+            "line": 94,
+            "source": "Pound me, sugar!",
+            "target": "用力肏我，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel_office.rpy",
+            "line": 154,
+            "source": "Fill me up, sugar!",
+            "target": "把我灌满，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel_office.rpy",
+            "line": 205,
+            "source": "Thanks for the good time, sugar.",
+            "target": "谢谢你让我这么尽兴，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel_office.rpy",
+            "line": 335,
+            "source": "Have a seat then, sugar.",
+            "target": "那就坐好吧，甜心。"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel_office.rpy",
+            "line": 370,
+            "source": "What do you think, sugar?",
+            "target": "你觉得呢，甜心？"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel_office.rpy",
+            "line": 425,
+            "source": "Heh, thanks, sugar!",
+            "target": "嘿嘿，谢谢你，甜心！"
+          },
+          {
+            "file": "tl/zh_hans/src/plot/mel_office.rpy",
+            "line": 480,
+            "source": "I can't take it any longer, sugar!",
+            "target": "我一秒也忍不下去了，甜心！"
+          }
+        ]
+      },
+      {
+        "id": "melody_finale",
+        "status": "current_mapping_confirmed",
+        "hits": [
+          {
+            "file": "tl/zh_hans/src/plot/mel03.rpy",
+            "line": 76,
+            "source": "For the finale, remember?",
+            "target": "为了压轴环节，记得吗？"
+          }
+        ]
+      },
+      {
+        "id": "konty_laughter",
+        "status": "current_mapping_confirmed",
+        "hits": [
+          {
+            "file": "tl/zh_hans/src/plot/tor01.rpy",
+            "line": 1549,
+            "source": "Processing laughter...",
+            "target": "正在处理笑声……"
+          }
+        ]
+      }
+    ],
+    "source_checks": [
+      {
+        "file": ".codex_tmp/engine8194/game/src/plot/maria_lounge.rpy",
+        "sha256": "875b66204a9812cf1f2f2edc4cffcdd90d0c3a2a7aa71b7a4f843bab1fb5f9df",
+        "status": "source_issue_or_placeholder_still_present",
+        "matches": [
+          {
+            "line": 7,
+            "text": "TODO \"maria_lounge.becca\""
+          }
+        ]
+      },
+      {
+        "file": ".codex_tmp/engine8194/game/src/plot/tina_lounge.rpy",
+        "sha256": "4368a8143b3a0391b09506313eea17673b3de29720dcf74fd04cef47fc0d2942",
+        "status": "source_issue_or_placeholder_still_present",
+        "matches": [
+          {
+            "line": 7,
+            "text": "TODO \"tina_lounge.becca\""
+          }
+        ]
+      },
+      {
+        "file": ".codex_tmp/engine8194/game/src/plot/nyu.rpy",
+        "sha256": "30c981d34f02d41f399d6c480fa6b627a29980f5bd6cd6dd8657197a32a04992",
+        "status": "source_issue_or_placeholder_still_present",
+        "matches": [
+          {
+            "line": 20,
+            "text": "TODO \"nyu_car_shop.intro\""
+          },
+          {
+            "line": 25,
+            "text": "TODO \"nyu_car_shop.outro\""
+          }
+        ]
+      },
+      {
+        "file": ".codex_tmp/engine8194/game/src/plot/jos05.rpy",
+        "sha256": "3348b10ff3d24a50d36fed2fccda6f41bfeb02a10c11e67b18598beb99d86e7f",
+        "status": "source_issue_or_placeholder_still_present",
+        "matches": [
+          {
+            "line": 159,
+            "text": "TODO \"...\""
+          }
+        ]
+      },
+      {
+        "file": ".codex_tmp/engine8194/game/src/plot/deb11.rpy",
+        "sha256": "ff0d4aa73a5f285d205d88aba2e18a2533bc6ae86613e81e21f3c09204003b4e",
+        "status": "source_issue_or_placeholder_still_present",
+        "matches": [
+          {
+            "line": 15,
+            "text": "jenny \"The green one was only two hundred dollars more {i}and{/i} it's the color of money so I'm gonna look fab as fuck!\""
+          },
+          {
+            "line": 21,
+            "text": "anon \"Whoa, whoa, whoa... You got my dad to spend two hundred dollars on a new dress for a stupid job interview?!\""
+          }
+        ]
+      },
+      {
+        "file": ".codex_tmp/engine8194/game/src/plot/deb16.rpy",
+        "sha256": "bf7bc6b4f28e405f6cc17525c4845c40764c6e468a0716e026c568465f62bd18",
+        "status": "source_issue_or_placeholder_still_present",
+        "matches": [
+          {
+            "line": 69,
+            "text": "hym \"... You've gotta help me!\""
+          }
+        ]
+      },
+      {
+        "file": ".codex_tmp/engine8194/game/src/plot/mel05.rpy",
+        "sha256": "87f08ae2dbbdd5e8c1d02fcd3921dd45cf5945e4b3ce5165bff65771df7324e9",
+        "status": "source_issue_or_placeholder_still_present",
+        "matches": [
+          {
+            "line": 541,
+            "text": "anon @ -m_talk \"( Operation Gluteous Maximum is a go! )\""
+          }
+        ]
+      },
+      {
+        "file": ".codex_tmp/engine8194/game/src/plot/tor03.rpy",
+        "sha256": "856c9abcfbbe410268c6acf3423c5737c529c9b86c3e0d1780a0a899425b399d",
+        "status": "source_issue_or_placeholder_still_present",
+        "matches": [
+          {
+            "line": 637,
+            "text": "anon a_point f_calm \"I'm ready to take another crack at that belt of yours.\""
+          },
+          {
+            "line": 642,
+            "text": "tori \"You're not trying to hit a baseball here, [saga.cast.anon]... This is delicate work!\""
+          }
+        ]
+      }
+    ],
+    "remaining_status": "见progress.md的遗留疑问的8194复查；保留7944历史指纹及原证据范围"
   }
 }

@@ -17,12 +17,33 @@
 ## 状态说明
 
 - **8194后续顺序**：先审读`jos_baby.rpy`及`jos_office.rpy`、`jos_table.rpy`、`jos_lounge.rpy`、`jos_shop.rpy`等重复场景，再对照新增短信、角色资料与任务提示；最后复查分支衔接和游戏内显示。第一批未修改第三语言参数及本体TODO占位。
-- **提交限制**：本批只保留工作区修改；未经用户明确确认，不暂存、提交或推送。
-
+- **历史批次与当前版本**：下方旧批次的完成、待审和产物结论仅适用于当时范围；8194当前遗留疑问见下一节，不以旧版文本阅读替代新版运行时验收。
 - **完成**：已通读完整文件，完成英文对照、纯中文复读、原文复核及格式校验。
 - **规则修复**：仅修复可高置信确认的姓名、标签或变量问题，尚未对完整剧情逐条精修。
 - **待处理**：尚未完成完整场景级精修。
 
+## 遗留疑问的8194复查
+
+本节为当前状态，复查日期2026-10-05。核对现有译文、角色档案、8194本体源码及已保存的专项引擎结果；没有新增人工审读覆盖或整场游玩结论。机器证据见extracted_language_review.json的context_review_8194。
+
+| 遗留范围 | 本轮结论 | 后续所需证据 |
+| --- | --- | --- |
+| 角色表的Diane、Erik、Judith、Kevin、Tammy等“待补充” | 与已有场景档案和连续阅读记录矛盾，已回写实际范围；Eve已有初始语气，后续关系仍需补充 | 新场景逐线阅读，小游戏和外部任务出口实际验证 |
+| 旧术语待统一：protégé、旧电钻、Melody的sugar/finale、Konty笑声、Tina的babyface、Debbie的小兔子及男生更衣室 | 当前译文已有统一结果，逐项源译对照后移除过期待办；不等于相关路线全验收 | 后续新增同词仍按语境和机器规则复查 |
+| maria_lounge.becca、tina_lounge.becca、Nyu入口及Josie省略号 | 8194仍为本体TODO占位，无新剧情可补；继续保留开发标识 | 上游提供真实台词后重新提取，不能自行编写 |
+| deb11两百美元与多两百美元 | 8194源15、21仍存在金额表述差异；保留原文两种说法 | 上游修订或明确剧情证据 |
+| deb16求助句的说话人 | 8194源69仍标hym，邻近求救为lsd；原脚本疑点未解决 | 镜头/音效及上游说话人确认，不改程序标识 |
+| mel05 Gluteous Maximum、tor03 crack/棒球双关 | 8194源541及637—642保留旧表达，无新增解释；现译保留，未自动结案 | 结合动作镜头复核双关呈现 |
+| step源389典故、492 stopcocks、765口音联想及611 wait(f)拼接 | 当前译文仍保留上述表述和变量，版本迁移未提供完成这些疑问的证据 | 典故语境审读；wait实际输出和完整任务提示显示 |
+| Yumi对Harold的sir | ano02、ano03现有警局上下级语境仍支持“长官”；档案明确适用范围 | 新警局剧情出现时再核对，不推广至其他人的sir |
+| 电脑提示、应用名与密码输入 | 8194界面仍混用直接值和翻译查询；已纠正“补old/new即可显示”及历史别名验证的过度结论 | 认证类接口、实际中英显示、IME输入和成功/失败/读档 |
+| 日记延迟写入、短信时间、jen16入口互斥与jen20写入时机 | 历史静态证据保留，8194专项短信显示测试没有证明调度时机 | 当前版本事件派发与重挂载、日期边界和互斥实际路径 |
+| 园艺、血清、乐器等小游戏；道具点击、扣款、事件及共享镜头 | 连续阅读和静态路径已记录，尚无本次实际游玩证据可解除待审 | 对应小游戏结果、任务生命周期和资源镜头 |
+| Pink package、卡牌名及Rump等图像语义 | 仍缺跨资源确认，不因字面映射通过判作定稿 | 对应商品/卡牌图片与实际说明共同核对 |
+| 设置、联系人、更新日志 | 设置12次字符串查询、联系人18次语言切换、日志370条/24标题专项结果已存在；由“未验证”缩小为具体未验收范围 | 设置真实鼠标悬浮、完整手机导航；已有组件/日志截图不扩大为全界面验收 |
+| 官方原包迁移 | 自动化11项测试和真实API只读来源查询通过；尚未执行大附件复制和线上删除 | 首次手动发包的真实上传、摘要确认与旧附件清理结果 |
+
+所有旧批次中的“某段起继续”仅是当时阅读进度；是否已经读完须结合后续同文件批次及台账，不能据旧日志重复开待办。历史7944源码指纹不会被本次8194复查覆盖。
 
 ## 已完成文件
 
@@ -147,26 +168,16 @@
 | `tl/zh_hans/src/plot/jen28.rpy` | Jenny线；第三次恋爱拒绝、失败送礼与付费女友体验 | Jenny、Anon、Debbie（被提及）、两人的孩子（条件分支） | 完成 | 完整通读161个翻译块和1个菜单映射并逐条复核；理顺怀孕／育儿／成人直播条件开场、“像跟兄弟谈恋爱”的拒绝理由、Anon翻日记与项链送礼、假女朋友提案、甜蜜告白演技骗局、一晚五百美元及次晨条件；修复 `girlfriend the shit out of you` 与 `the real thing` 严重错译，统一成人直播、废柴、爸爸、女友体验及中文标点 | `validate_translations.py --changed`验证19个修改文件；重复术语审计零不一致；`git diff --check`、英文注释diff及BOM/CRLF/块数检查通过 |
 | `tl/zh_hans/src/plot/jen_gfe.rpy` | Jenny线；居家付费女友体验、亲密升温与次晨收费界限 | Jenny、Anon、Debbie、Diane、Cedric（被提及），Matt、Courtney（剧中人物） | 完成 | 完整通读365个翻译块和2组菜单映射并逐条复核；理顺五百美元付款、居家约会、牵手冲突与主动修复、共同观看《好友》、接吻和多条性交分支、重复约会夜及次晨离开；明确“假装当女朋友”仍是收费角色扮演，修复女性高潮、内外射、成人直播、Debbie起床与口水指代等严重错译；恢复Matt、Courtney英文姓名并统一中文标点 | `validate_translations.py --changed`验证19个修改文件；重复术语审计零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/365块/2组菜单检查通过 |
 | `tl/zh_hans/src/plot/jen_cam.rpy` | Jenny线；重复成人直播、怀孕表演、吹箫、私人舔屄与预约分支 | Jenny、Anon、观众（文字互动） | 完成 | 完整通读195个翻译块并逐条复核；理顺普通直播、怀孕身体展示与泌乳、手铐坐脸、观众打赏要求吹箫、忙碌／无兴致拒绝、私人舔屄、啦啦队制服性交及后续预约；修复手交误译，统一成人直播、打赏、小男宠、出气筒、被人围观、女性高潮和中文标点；明确重复事件不确认正式恋爱关系 | `validate_translations.py --changed`验证20个修改文件；重复术语审计47项零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/195块/0组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jen_baby.rpy` | Jenny线；怀孕、孕期成人直播、生产与共同育儿 | Jenny、Anon、Debbie、Diane、医护人员、直播观众 | 完成 | 完整通读919个翻译块和11组菜单映射；复核首次／再次怀孕、孕期不适与异常食欲、Debbie发现怀孕、两组孕期成人直播、诊所与单胎／双胎生产分支、产后护崽和托儿安排；修复主客体反译、亲属称谓、男朋友口误边界、含混口齿及女性高潮误写，统一成人直播、打赏、小男宠、外婆、护崽母熊和中文标点 | `validate_translations.py --changed`验证21个修改文件；重复术语审计48项零不一致；`git diff --check`、英文注释diff及无BOM/LF/919块/11组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jen_deal.rpy` | Jenny线；公共区域议价、保密提醒与下午付费安排 | Jenny、Anon、Debbie（被提及） | 完成 | 完整通读7个翻译块并精修6处；结合付费女友体验及稳定性关系阶段，明确 Anon 提议的是私下交易，Jenny 因担心 Debbie 撞见而制止当场讨论，并要求下午再来且带钱；修复“别在这”的指代含混、`catch us` 场景语义和生硬回应，保持 Jenny 粗鲁、直接、商业化的口吻 | `validate_translations.py --changed`验证22个修改文件；重复术语审计48项零不一致；`git diff --check`、英文注释diff及BOM/CRLF/7块/0组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jen_finger.rpy` | Jenny线；私人前戏、指交高潮与中途停止反制 | Jenny、Anon、Jane（被提及） | 完成 | 完整通读95个翻译块和2组菜单映射并精修51处；明确 Jenny 将亲热默认理解为成人直播、Anon 主动要求前戏、完成分支中 Jenny 高潮潮吹并取消直播、停止分支中 Anon 把她吊在高潮边缘后逃走的控制权反转；修复 `fool around`、`C'mon`、`get down to business`、`cum for me`、内心独白括号和活动译文标点，保持女性高潮与男性射精语义分离 | `validate_translations.py --changed`验证23个修改文件；重复术语审计48项零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/95块/2组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jen_pool.rpy` | Jenny线；泳池性交、溺水笑点、裸泳反悔与支配角色扮演 | Jenny、Anon、Debbie（被提及） | 完成 | 完整通读156个翻译块并精修106处；理顺泳池性交和接近溺水、体外／内射分支、后院乳房照片、裸泳承诺反悔、炸弹入水报复及跳过道歉直接做爱；保留 `Screw you` 的辱骂／性交双关和公主Jenny／殿下／贱民角色扮演，明确稳定性关系延续但未正式确认恋爱 | `validate_translations.py --changed`验证24个修改文件；重复术语审计51项零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/156块/0组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jen_shower.rpy` | Jenny线；前期偷窥、共同淋浴、狗狗支配、淋浴性交与私人吞精承认 | Jenny、Anon、Debbie（被提及）、直播粉丝（被提及） | 完成 | 完整通读326个翻译块和2组菜单映射并精修209处；区分前期偷窥冲突、成人直播合作后的共同淋浴、怀孕身体不安及生气条件分支，理顺狗狗／奖励／乞求玩法与 Anon 明确拒绝羞辱的边界协商；修复淋浴性交、深喉、吞精、女性高潮、体外／内射结果和内心独白括号，明确 Jenny 私下承认喜欢吞精及大鸡巴却仍否认喜欢 Anon | `validate_translations.py --changed`验证25个修改文件；重复术语审计51项零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/326块/2组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jen_sleep.rpy` | Jenny线；夜间同床试探、前戏、外射留宿、内射冲突与次晨斗嘴 | Jenny、Anon、Debbie（被提及） | 完成 | 完整通读133个翻译块和6组菜单映射并精修90处；区分关系早期的越界失败入口与稳定性关系后的成功入口，理顺“只为做爱、不为搂着睡”的边界、前戏承认、中途停止反制、外射后精液清理与同床留宿、内射许可冲突及次晨厨艺斗嘴；统一废柴、巨婴、吊胃口反制、内心独白括号和中文标点，明确共享睡眠推进仍不等于正式恋爱 | `validate_translations.py --changed`验证26个修改文件；重复术语审计51项零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/133块/6组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jen_table.rpy` | Jenny线；餐桌冒险性交、早餐倒计时、咖啡杯体外结果与内射许可冲突 | Jenny、Anon、Debbie | 完成 | 完整通读158个翻译块并精修103处；确认稳定性关系阶段下 Jenny 故意选择 Debbie 在隔壁做早餐时于餐桌性交，并以备餐时间倒计时；理顺高风险挑衅、早餐／性交双关、险些被发现、体外射进咖啡杯导致 Debbie 喝到怪味、Jenny 未高潮抱怨及内射怀孕威胁；统一 `fool around` 为“亲热一下”，修复女性高潮、内射许可和中文标点，明确“别停”不等于允许内射且正式情侣关系仍未确认 | `validate_translations.py --changed`验证27个修改文件；重复术语审计52项零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/158块/0组菜单检查通过 |
 | `tl/zh_hans/src/plot/jen_tv.rpy` | Jenny线；色情片账号、支配乞求、足交与客厅冒险性交 | Jenny、Anon、Debbie（睡觉／被提及）、Diane（被提及） | 完成 | 完整通读145个翻译块和1组菜单映射并精修96个翻译块及1个菜单；区分拒绝／乞求分支并确认两者汇合为足交，理顺公主支配、自我羞辱、Jenny 主动转为客厅性交、Debbie 隔壁风险刺激、体外射身及高潮夹住导致内射的责任争吵；修复 `let me finish` 严重误译、女性高潮、废柴固定辱称、内心独白括号和中文标点，明确稳定性关系仍需家庭保密且未确认正式恋爱 | `validate_translations.py --changed`验证28个修改文件；重复术语审计53项零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/145块/1组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jen_visit.rpy` | Jenny线；深夜夜访、主动索取、明确拒绝与控制欲反弹 | Jenny、Anon | 完成 | 完整通读37个有活动台词的翻译块、1个空白汇合块和2组菜单映射，并精修26个翻译块及1个菜单；区分接受、好声请求后离开及因拒绝报复下体的分支，明确 Jenny 的私人性需求已脱离直播和付费借口，同时保留身体反应不等于同意、Anon 明确说不和 Jenny 无法接受失去控制的冲突；修复 `I need it`、`y-yes?` 回应误译、连续引述、重复惊讶口吻、中文省略号和标点 | `validate_translations.py --changed`验证29个修改文件；重复术语审计53项零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/38块（含1个空白汇合块）/2组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jenny_laptop.rpy` | Jenny线前置；笔记本调查、Pink Channel 账号与三段早期个人成人直播 | Jenny、Anon、Jane（照片）、sam9／Sam（观众） | 完成 | 完整通读150个翻译块并精修102个翻译块；理顺笔记本密码调查、邮件与家庭照片、Pink Channel 账号、三段个人成人直播中玩具升级、肛塞、订阅墙与打赏递进；修复 `cum all over this toy` 和 `fuck myself silly` 的严重动作误译，统一女性高潮、成人直播 `PING`、`tips`、“性爱女神”、内心独白括号和中文标点；明确这是 Anon 加入直播合作前的早期阶段，不能套用后期稳定性关系 | `validate_translations.py --changed`验证30个修改文件；重复术语审计54项零不一致；`git diff --check`、英文注释diff及无BOM/CRLF/150块/0组菜单检查通过 |
-
 | `tl/zh_hans/src/plot/jenny.rpy` | Jenny线公共入口；卧室、餐厅与后院的多阶段互动 | Jenny、Anon、Debbie／Jane（被提及） | 完成 | 完整通读149个活动翻译块和7组菜单映射，精修92个翻译块及4个菜单；区分前期卧室驱赶与泳衣搭话冲突、成人直播合作和休息日、拒播造成的收入争执、餐厅评论区与后期约播、后院从敌意到裸体风险调戏的阶段变化；修复 `loser` 四处漂移、`Hell yeah!`、直播指代、内心独白括号和中文标点，并统一 `camgirl` 为“成人女主播” | `validate_translations.py --changed`验证31个修改文件；重复术语审计55项零不一致；`git diff --check`、英文注释diff及有BOM/LF/149块/7组菜单检查通过 |
 | `tl/zh_hans/src/plot/jos01.rpy` | Josie线；车行初见、手机交易、办公室潜入与求开除之吻 | Josie、Anon、Yoshi、Yoo | 完成 | 完整通读391个活动翻译块和2组菜单映射，精修224个活动译文及1个菜单；修复第278–286条整段译文严重错位，理顺Yoo强行推销、父女工作冲突、T字带凉鞋抢购、手机交易、三头猴/墙上剑两个办公室分支，以及Josie利用接吻求开除却开始对Anon产生兴趣的关系边界；统一锅盖头、TPS报告、T字带凉鞋及英文姓名，并保留Freetwood Panhandrer/Fleetwood Panhandler、J-Ro/J-Lo连续笑点 | `validate_translations.py --changed`验证32个修改文件、重复术语审计58项零不一致、`git diff --check`及英文注释diff通过；无BOM、CRLF/391块/2组菜单结构已核验 |
 | `tl/zh_hans/src/plot/jos_trade.rpy` | Josie线；旧车折价、三类车型报价与阶段性交易入口 | Josie、Anon | 完成 | 完整通读132个活动翻译块和9组菜单映射，精修109个活动译文及9个菜单；理顺踏板车、迷你外阴、过度补偿者三种旧车状态，404里程笑点，预算／四轮／跑车／离开分支，系统底价、15%促销折扣、旧车折价、首次成交与再次报价；区分锅盖头早期挖苦、姓名变体、讨厌工作与承认喜欢Anon的阶段差异，修复Mini Vulva三处漂移、SL-700 Crotch Rocket两处不一致、Cotton姓名泛化、中文省略号和菜单语气 | `validate_translations.py --changed`验证33个修改文件；重复术语审计60项零不一致；`git diff --check`及英文注释diff通过；无BOM、832个CRLF、833行、132个活动翻译块/9组菜单结构已核验 |
@@ -191,17 +202,11 @@
 | `tl/zh_hans/src/plot/mall_hall1.rpy` | 商场公共大厅；夜间打烊限制与时间推进／停留选择 | Anon | 完成 | 完整通读1个活动翻译块和2组菜单映射；把夜间独白改为自然的“商场已经打烊，我也该回家”，统一全角括号；明确区分推进时间并离场与继续留在商场两种机制选项，修复`Take it slow`被逐字译成“放慢脚步”的问题 | 英文原文注释diff通过（有UTF-8 BOM、17个CRLF、0个裸LF、文件末尾LF、1个活动翻译块、2组菜单；Git numstat为3/3） |
 | `tl/zh_hans/src/plot/mel_office.rpy` | Melody后期办公室重复场景；直接性交、口交与私人舞蹈三分支 | Melody、Anon | 完成 | 完整通读97个活动翻译块和2组现有菜单映射，并结合`mel04.rpy`办公室聚会、`mel06.rpy`讲台口交及首次性交回溯人物关系；精修成熟主动的老师式命令与后戏口吻，明确插入、女性高潮、男性射精和内射诉求，贯通长笛／肉箫、私人演奏、激昂演讲、返场演出与压轴好戏双关；统一Melody的`sugar`“甜心”、`good boy`“真乖”、`Yes, ma’am!`“遵命，老师！”及菜单标点 | `validate_translations.py --changed`验证53个修改文件；重复术语审计81项零不一致；`git diff --check`及英文注释diff通过（无BOM、396个裸LF、0个CRLF、文件末尾LF、97个活动翻译块、2组菜单；Git numstat为73/73） |
 | `tl/zh_hans/src/plot/melody.rpy` | Melody跨阶段公共入口；教师休息室提醒、音乐课补进度与办公室事件菜单 | Melody、Anon、Ursula（被提及） | 完成 | 完整通读23个活动翻译块和2组现有菜单映射，并结合`mel01.rpy`缺课补成绩、`mel04.rpy`办公室聚会及`mel06.rpy`后期关系确认入口所跨越的阶段；理顺教师休息室的友善提醒、音乐课补进度与办公室普通问候，恢复`groove`的音乐／学习状态双关，区分通用入口与后期`Fool around.`成人选项；统一`honey`为“亲爱的”、`Dress code.`为“着装规定”，未自行新增中文文件不存在的其他菜单映射 | 英文原文注释diff通过（有UTF-8 BOM、157个裸LF、0个CRLF、文件末尾LF、23个活动翻译块、2组菜单；Git numstat为18/18） |
-
 | `tl/zh_hans/src/plot/mia.rpy` | Mia跨事件学校公共入口；科学教室问候、告别与美术事件菜单 | Mia、Anon、Barbara（相关支线） | 完成 | 完整通读9个活动翻译块和1组现有菜单映射，并结合Barbara美术比赛支线的拼贴、模特、比赛与肖像节点判断关系阶段；修复`How are you?`的健康担忧误读、课堂去向含混及生硬告别，保持Mia友善、拘谨的同学口吻；统一`Art partner.`为“美术搭档”，未自行新增中文文件不存在的其他菜单映射 | 英文原文注释diff通过（有UTF-8 BOM、61个裸LF、0个CRLF、文件末尾LF、9个活动翻译块、1组菜单映射） |
-
 | `tl/zh_hans/src/plot/micoe.rpy` | Micoe医院公共入口；新生儿护理问询与礼貌告别 | Micoe、Anon、当前支线的新生儿（被询问） | 完成 | 完整通读4个活动翻译块和2组菜单映射，并结合`deb_baby.rpy`、`jen_baby.rpy`、`mar_baby.rpy`及`tin_baby.rpy`中Micoe的护理说明确认公共入口用途；修复犹豫语气、单复数代词和对单名工作人员误用“你们”，保持初次问询的专业礼貌；统一`How are they?`为兼容单胎／双胎的“孩子怎么样？” | 英文原文注释diff通过（有UTF-8 BOM、36个CRLF、0个裸LF、文件末尾LF、4个活动翻译块、2组菜单映射） |
-
 | `tl/zh_hans/src/plot/misc_lotion.rpy` | Debbie线物品交互；抽屉中的润肤露香味回忆 | Anon、Debbie（关联人物） | 完成 | 完整通读2个活动翻译块，并结合`deb05.rpy`取润肤露和腿部按摩场景确认早期暧昧阶段；修复ASCII内心独白括号、连续省略号和过度意译，保留Anon对Debbie日常香味的私人迷恋；统一产品名为“巴西 Bum Bum”，同步修正`deb_mall.rpy`旧译并登记重复术语 | 英文原文注释diff通过（有UTF-8 BOM、12个CRLF、0个裸LF、无文件末尾换行、2个活动翻译块、0组菜单映射） |
-
 | `tl/zh_hans/src/plot/misc_tissue.rpy` | Tori线物品交互；Ursula办公室垃圾桶与DNA纸巾样本 | Anon、Tori／Ursula／Annie（剧情关联） | 完成 | 完整通读2个活动翻译块，并结合`tor05.rpy`任务台词及`saga/logic/tor05.pyc`分支逻辑确认点击时序：任务前本能拒绝翻垃圾桶，取得Ursula用过的纸巾后明确不愿再翻；修复ASCII内心独白括号、机械直译和未落实动作对象的问题，以“翻”承接垃圾桶交互；补充Tori、Ursula、Annie的任务关系及`misc_tissue`术语 | 英文原文注释diff通过（有UTF-8 BOM、12个CRLF、0个裸LF、无文件末尾换行、2个活动翻译块、0组菜单映射） |
-
 | `tl/zh_hans/src/plot/misc_toad.rpy` | Tori线血清材料物品交互；森林溪边首次发现发情蟾蜍 | Anon、Tori（任务关联） | 完成 | 完整通读1个活动翻译块，并结合`tor05.rpy`血清任务说明、溪边提示及抓取场景确认时点：此处只是首次观察目标外形，尚未抓取；保留`horny toad`与繁殖季相呼应的“发情”双关，统一为“发情蟾蜍”，不提前加入捕捉结果或关系推进 | 英文原文注释diff通过（有UTF-8 BOM、6个CRLF、0个裸LF、无文件末尾换行、1个活动翻译块、0组菜单映射） |
-
 | `tl/zh_hans/src/plot/misc_towel.rpy` | Debbie家浴室通用物品交互；毛巾与星际搭车客文化彩蛋 | Anon、Debbie（地点关联） | 完成 | 完整通读2个活动翻译块并核对英文源场景、浴室物品位置和演出参数；确认这是不依赖关系进度的通用查看事件，第二句化用《银河系漫游指南》的毛巾经典说法；以“最最有用”保留`most massively useful`的夸张卖弄语气，修复两处ASCII内心独白括号 | 英文原文注释diff通过（有UTF-8 BOM、12个CRLF、0个裸LF、无文件末尾换行、2个活动翻译块、0组菜单映射） |
 | `tl/zh_hans/src/plot/note_tori.rpy` | Tori线；学校课桌上再次查看办公室密码纸条的内心反应 | Anon、Tori、Ursula（任务关联） | 完成 | 完整通读3个活动翻译块，并结合`tor01.rpy`偷拿钥匙、寻找密码和进入Tori办公室的任务脉络确认分支；将`kleptomania`处理为夸张的“偷窃癖”，区分持有学校万能钥匙与未持有时的担忧，保留`[saga.cast.ursula]`和`{i}`标签 | 英文原文注释diff通过（有UTF-8 BOM、18个CRLF、0个裸LF、无文件末尾换行、3个活动翻译块、0组菜单映射） |
 | `tl/zh_hans/src/plot/oli_stall.rpy` | Olivia线；公共场景首次邂逅与突然中断的成人互动 | Anon、Olivia、Olivia的男朋友（被提及） | 完成 | 完整通读73个活动翻译块并结合动作参数重建场景节奏；精修Anon的惊慌、Olivia的主动挑逗、胸部与生殖器触摸、亲吻及男朋友时间压力；统一成人语境下的“胸”“玩”“大男孩”，将内心独白改为全角括号并修复省略号，不净化成人内容或提前确立恋爱关系 | 英文原文注释diff通过（无UTF-8 BOM、291个裸LF、0个CRLF、文件末尾LF、73个活动翻译块、0组菜单映射） |
@@ -210,9 +215,7 @@
 | `tl/zh_hans/src/plot/pizza_main.rpy` | Tony披萨店；入口介绍与自定义店名笑点 | Anon、Tony（店名） | 完成 | 完整通读3个活动翻译块；以“首屈一指”保留故作正式的地点介绍，结合改名条件补足英文缺失的疑似 `sound` 谓语，将 `authentic` 明确为店名“听起来没那么正宗”，并收紧“还真讽刺”的笑点 | 本批 `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；无BOM、20个CRLF、文件末尾LF、3个活动翻译块 |
 | `tl/zh_hans/src/plot/pizza_shop.rpy` | Tony披萨店；夜间、医院、临近打烊与星期日关闭提示 | Anon、Tony（被提及） | 完成 | 完整通读8个活动翻译块；理顺“不全天候营业”的学生噩梦式夸张、`clinic_baby` 医院承接、临近打烊限制及星期日“老掉牙的地方法规”荒诞笑话，统一内心独白与中文标点 | 本批 `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；有BOM、48个CRLF、无末尾换行、8个活动翻译块 |
 | `tl/zh_hans/src/plot/roxxy.rpy` | Roxxy线公共入口；法语教室跨阶段问候、事件菜单与后期亲密关系 | Roxxy、Anon、Dexter、Becca、Missy | 完成 | 完整通读45个活动翻译块和2组菜单映射；按敌对、顾及公众形象、关系缓和、担心Dexter冲突、后期主动亲密五阶段校准口吻；统一后期 `my man` 为“我男人”、`Pom-poms.` 为“啦啦球”，并保留 Roxxy 强势、自信、活泼的性格 | 本批 `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；有BOM、275个裸LF、文件末尾LF、45个活动翻译块、2组菜单映射 |
-
 | `tl/zh_hans/src/plot/sam_stall.rpy` | 商场更衣隔间；误入、内裤砸脸与物品栏自嘲 | Sammy、Anon | 完成 | 完整通读27个活动翻译块并精修25处；按“意外闯入—结巴解释—继续偷看—被内裤砸脸—夺回内裤”理顺连续动作，明确 Sammy 的愤怒拒斥与陌生人边界；统一 `{i}*Hurk*{/i}` 为“呃唔”、`MILF` 为“性感熟女”，修复两次 `It burns` 递进、全角内心独白和物品栏笑点 | `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；无BOM、47个裸LF、文件末尾LF、27个活动翻译块 |
-
 | `tl/zh_hans/src/plot/school_boiler.rpy` | 学校公共区域；上锁的杂物间提示 | Anon | 完成 | 完整通读1个活动翻译块；结合 `mel05.rpy` 的同设施用法，将 `utility closet` 从错误的“杂货间”统一为“杂物间”，保留简短内心独白并明确文件标签 `boiler` 不等于玩家可见的锅炉房 | `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；有BOM、6个CRLF、无末尾换行、1个活动翻译块 |
 | `tl/zh_hans/src/plot/school_girls.rpy` | 学校公共区域；关闭维修的女生更衣室与地板破洞 | Anon；Judith（前情提及） | 完成 | 完整通读3个活动翻译块；承接 `ano01.rpy` 的水管爆裂前情，将室内 `ground` 明确为“地板”，并把 `this locker room` 按当前地点译为“女生更衣室”；统一全角内心独白与中文省略号 | `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；有BOM、18个CRLF、无末尾换行、3个活动翻译块 |
 | `tl/zh_hans/src/plot/school_hall1.rpy` | 学校公共入口；夜间锁门、周末关闭与结束当日校园活动 | Anon；Annie（被提及） | 完成 | 完整通读4个活动翻译块和2组菜单映射；承接 Annie 提供万能钥匙线索及 Anon 擅自“借用”钥匙的剧情，修复“主钥匙”和错乱语序，区分非开放时段提示与离校确认菜单，并统一全角内心独白 | `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；有BOM、36个CRLF、文件末尾LF、4个活动翻译块、2组菜单映射 |
@@ -221,12 +224,10 @@
 | `tl/zh_hans/src/plot/school_office2.rpy` | Tori 办公室门外；电子密码锁与门禁密码提示 | Anon；Tori（被提及） | 完成 | 完整通读3个活动翻译块并核对 `tor01.rpy` 潜入任务前情；将生硬的“自动密码锁”校准为“电子密码锁”，明确 `key code` 是门禁密码，并统一三句全角内心独白与中文省略号 | `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；有BOM、18个CRLF、无末尾换行、3个活动翻译块 |
 | `tl/zh_hans/src/plot/school_pa.rpy` | 学校公共区域；23组随机校内广播 | 广播员、Anon；Ursula、Bridget、Dexter、Melody、Tori、Barb、Viv（被提及） | 完成 | 完整通读23组广播、102个活动翻译块并逐条重译；统一正式播报腔，修复“夏日大学”、车型音译、辣椒菜品、主办公室、田径队名额、公开亲热、性教育DVD及护裆等误译，保留食物中毒、0胜12负、打印机、失窃内裤、啦啦队与天台日漫宅等反差笑点 | `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；无BOM、614个CRLF、文件末尾LF、102个活动翻译块、23组随机广播 |
 | `tl/zh_hans/src/plot/specs_judith.rpy` | Judith 眼镜任务；储物柜中的备用眼镜锁定提示 | Anon；Judith、Tori（任务关联） | 完成 | 完整通读2个活动翻译块，并结合 `tor02.rpy` 中 Tori 寻找渐进镜片、Judith 以假装情侣拍照交换备用眼镜的完整任务脉络；将生硬的“某种怪物”改为带道德自责的内心反问，明确 Anon 在获得同意前拒绝偷走 Judith 的私人眼镜，不提前写成已取物或关系推进；统一全角内心独白与“眼镜”术语 | `validate_translations.py --changed`、重复术语审计、`git diff --check` 及英文注释diff通过；有BOM、12个CRLF、无末尾换行、2个活动翻译块 |
-
 | `tl/zh_hans/src/plot/tammy_lobby.rpy` | Tammy／Erik 家门厅；夜间与临睡前离开提示 | Anon、Tammy／Erik（被提及） | 完成 | 通读并精修 4 个翻译块；将 `making a move` 按场景还原为动身离开，统一全角内心独白与中文省略号 | 最终校验见本批测试记录 |
 | `tl/zh_hans/src/plot/tammy_yard_scope.rpy` | Tammy 家后院；望远镜瑜伽观察 | Anon、Tammy（变量） | 完成 | 通读并精修 10 个翻译块；区分空后院、柔韧度、保持身材和特定姿势性吸引，明确 `turned on` 的成人含义并保持偷窥关系边界 | 最终校验见本批测试记录 |
 | `tl/zh_hans/src/plot/ten_stall.rpy` | 商场更衣隔间；Tenzin 看书与格言式赶人 | Anon、Tenzin | 完成 | 通读并精修 31 个翻译块；复原 Tenzin 故作高深的格言口吻、更衣隔间用途争执和 `Shoo` 赶人笑点，修复全角内心独白及中文省略号 | 最终校验见本批测试记录 |
 | `tl/zh_hans/src/plot/titomi.rpy` | Ara Ara 公共互动；亚裔刻板印象玩笑、菜单抬杠与 Omaha 误会 | Anon、Titomi、Hana（被提及） | 完成 | 完整通读 59 个活动翻译块和 2 个菜单映射；修复 `Excuse me`、`Oh-maha`、`hospitality stick`、`wear a helmet`、`charmed` 等语义，恢复 Ara Ara 英文专名并保持 Titomi 的反讽刻薄口吻 | 最终校验见本批测试记录 |
-
 | `tl/zh_hans/src/plot/ton_baby.rpy` | Tony／Maria生育后续；怀孕反应、待产准备、生产后返店、抱婴儿黑帮故事与后厨三人关系 | Tony、Maria、Anon、婴儿；Luigi（往事提及） | 完成 | 完整通读151个活动翻译块和1组菜单映射；按怀孕早期、临产前、生产后返店、抱婴儿值店和更晚恢复五阶段校准口吻；修复五组动作片／黑帮引用、Luigi姓名、`champ`“冠军”、`capisce`、有声书反转、外送订单及后厨成人暗示，并用不显数量的“小家伙”规避源代码单复数分支疑似颠倒 | 英文原文注释diff通过；无BOM、883个裸LF、文件末尾LF、151个活动翻译块、1组菜单映射 |
 | `tl/zh_hans/src/plot/tony.rpy` | Tony／Maria公共入口；客厅看球、后厨日常、披萨店阶段问候与剧情菜单 | Tony、Maria、Anon | 完成 | 完整通读58个活动翻译块和4组菜单映射；精修37个活动翻译块和2组菜单映射；按初次来店、牛奶任务、Tony解围、试送入职及后期家人式信任校准店主／长辈／老板口吻；修复两处旧块中英错位，统一`champ`“冠军”、外送订单、试送、车子及“她可真是个宝” | 英文原文注释diff通过；无BOM、400个裸LF、0个CRLF、文件末尾LF、58个活动翻译块、4组菜单映射 |
 | `tl/zh_hans/src/plot/tool_drill.rpy` | Debbie家车库物品；父亲旧电钻与后续制作任务道具 | Anon；已故父亲（提及） | 完成 | 完整通读2个活动翻译块，并对照`bar04.rpy`画架制作与`mel01.rpy`木笛制作的相关剧情；精修2个活动翻译块，统一全角内心括号、父亲遗物语气和“旧电钻”物品名 | 英文原文注释diff通过；无BOM、14个CRLF、0个裸LF、文件末尾LF、2个活动翻译块、0组菜单映射 |
@@ -238,7 +239,6 @@
 | `tl/zh_hans/src/plot/viv.rpy` | Viv法语教室／办公室公共入口；课后辅导事件菜单与关系解锁后的“补课”双关 | Viv、Anon；Roxxy（菜单变量） | 完成 | 完整通读23个活动翻译块和4组已有菜单映射，并对照`ano01.rpy`、`viv01-05.rpy`与`viv_office.rpy`确认关系阶段；精修14个活动翻译块和2组菜单映射，恢复缺课进度语义、教师询问与告别的自然回应，并在性关系解锁后补出`more {i}tutoring{/i}`的“又来补课”双关；未为4个缺失菜单擅自新增映射 | `validate_translations.py --changed`验证98个修改文件；重复术语审计零不一致；`git diff --check`及英文注释diff通过；有BOM、0个CRLF、157个裸LF、文件末尾LF、23个活动翻译块、4组菜单映射；Git numstat为16/16 |
 | `tl/zh_hans/src/plot/viv_office.rpy` | Viv线后期；法语教室“补课”预约、办公室重复性爱与复用入口 | Viv、Anon | 完成 | 完整通读14个活动翻译块并对照`viv05.rpy`首次性爱奖励及`viv.rpy`后期办公室问候；精修10个活动翻译块，明确“补课”性爱双关、双方熟稔预约和Viv主动欲望，将`Ravage me!`准确译为“狠狠地肏我吧”，并统一`mon bel homme`“我的帅哥” | `validate_translations.py --changed`验证99个修改文件；重复术语审计及`viv_mon_bel_homme`专项审计零不一致；`git diff --check`及英文注释diff通过；有BOM、84个CRLF、0个裸LF、无文件末尾换行、14个活动翻译块、0组菜单映射；Git numstat为10/10 |
 | `tl/zh_hans/src/plot/viv01.rpy` | Viv线开端；一对一辅导报名、缺页法英词典、Judith借书、June复印机与首次课后辅导 | Viv、Anon、Judith、Jane、June | 完成 | 完整通读219个活动翻译块和3组已有字符串映射，结合动作演出与STR分支精修约134行；恢复“特殊奖励”的早期暧昧、词典缺页任务逻辑、`PC LOAD LETTER`复印机笑点、法语发音互动和Judith羞怯好感；统一`mon bel homme`为“我的帅哥”，未倒灌后期性关系 | `validate_translations.py --changed`验证100个修改文件；重复术语审计零不一致；`git diff --check`及英文注释diff通过；无BOM、1322行、CRLF、文件末尾LF、219个活动翻译块、3组字符串映射；Git numstat为134/134 |
-
 | `tl/zh_hans/src/plot/viv02.rpy` | Viv线第二阶段；逾期图书任务、奶酪作文、首次摸胸奖励与 Ursula 办公室训斥 | Viv、Anon、Jane、Camila、Val、Dexter、Erik、Ursula、Annie | 完成 | 完整通读275个活动翻译块和3组字符串映射；修复“借书”误成“出书”、三本逾期书任务逻辑、Chola与Oedipuss双关、Quick mafs笑点、`fromage`法语用词及 Ursula/Viv 权力关系；统一“我的帅哥”“我的小兔子”“白人小子”“特殊奖励”，明确关系仅推进到摸胸 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`及英文注释diff通过；无BOM、1663个CRLF、文件末尾LF、275个活动翻译块、3组字符串映射 |
 | `tl/zh_hans/src/plot/viv03.rpy` | Viv线第三阶段；浪漫诗任务、Roxxy课堂朗诵、法式接吻奖励与 Ursula 打屁股惩罚 | Viv、Anon、Mia、Judith、Jane、Roxxy、Ursula、Annie | 完成 | 完整通读354个解析块并逐句对照复读；修复露骨爱情书与自慰暗示、Roxxy发音羞辱及暴怒、Debbie关系决定的接吻经验分支、Ursula工作会议与权力惩罚；统一“我的帅哥”“特殊奖励”“法式接吻”及中文省略号，明确关系只推进到接吻 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`及英文注释diff通过；无BOM、2137个CRLF、文件末尾LF、354个解析块 |
 | `tl/zh_hans/src/plot/viv04.rpy` | Viv线第四阶段；考试危机、Roxxy啦啦球任务、Jenny编排动作与两人初次会面 | Viv、Anon、Roxxy、Jenny、Bridget、Debbie | 完成 | 完整通读625个活动翻译块和2组主要菜单映射并逐句对照复读；修复Viv面临解雇的考试危机、Roxxy非女友与女友／性关系分支、Bridget办公室换衣和自夸、Jenny收取500美元编排州冠军赛动作及两人比较胸部的互动；统一“我的帅哥”“特殊奖励”“啦啦球”“啦啦队长”，明确本阶段奖励尚未兑现 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`及英文注释diff通过；无BOM、3770个CRLF、文件末尾LF、625个活动翻译块、2组主要菜单映射 |
@@ -246,7 +246,6 @@
 | `tl/zh_hans/src/plot/ang.rpy` | 教堂公共入口；Angela迎接、告解暗示、离开分支与亚麻布任务菜单 | Angela、Anon | 完成 | 完整通读6个活动翻译块和2组菜单映射；将宗教欢迎语、`unburden yourself`告解暗示及Anon局促复述译得连贯，统一中文省略号和双引号，并确认`Linens.`承接`bar05.rpy`白色旧洗礼袍任务 | `validate_translations.py --changed`通过105个修改文件；重复术语审计中`church_art_linens`零不一致；`git diff --check`及英文注释diff通过；有BOM、48个CRLF、无文件末尾换行、7个translate块、2组菜单映射、0个替换字符 |
 | `tl/zh_hans/src/plot/annie.rpy` | Annie公共入口；走廊巡查、音乐教室专注与美术模特事件菜单 | Annie、Anon | 完成 | 完整通读12个活动翻译块和2组菜单映射；强化Annie短促、纪律化且易怒的口吻，修复`concentrate`误译、连续打断、省略号和菜单动作语义；确认公共入口没有暧昧或关系推进 | `validate_translations.py --changed`通过106个修改文件；重复术语审计零不一致；`git diff --check`及英文注释diff通过；有BOM、87个裸LF、无文件末尾换行、14个translate块、2组菜单映射、0个替换字符 |
 | `tl/zh_hans/src/plot/ari_stall.rpy` | 泳池更衣隔间初遇；误闯、裸胸、Ariane发怒与Anon失败搭讪 | Ariane、Anon | 完成 | 完整通读31个活动翻译块；明确Anon误闯隐私空间、Ariane拒绝免费展示身体及付费追问未构成交易，修复成人指代、连续怒骂、内心独白全角括号、中文省略号，并保留`Batman`、`Sherlock`英文专名 | `validate_translations.py --changed`通过47个修改文件；重复术语审计零不一致；`git diff --check`及英文注释diff通过；无BOM、123个裸LF、文件末尾LF、31个translate块、0组菜单映射、0个替换字符 |
-
 
 ## 全仓校验历史队列（已清零）
 
@@ -275,7 +274,6 @@
 - `tl/zh_hans/src/plot/deb26.rpy:5488`：非空英文对应空译文。
 - `tl/zh_hans/src/plot/jen17.rpy:319`：非空英文对应空译文。
 
-
 ## 上下文与术语更新
 
 - 已建立 `characters.md`、`terminology.md`、`storylines.md`、`style_guide.md`、`file_inventory.md`、`recurring_terms.md` 和机器可读的 `recurring_terms.json`。
@@ -303,17 +301,11 @@
 - 已补充 Erik 卧室物品检查：床底灰尘与书、凌乱抽屉及旧游戏手柄回忆；保持 Anon/Erik 童年好友语气，不擅自解释抽屉污渍来源。
 - 已补充 Debbie 家中短交互：阁楼旧物、卧室进入限制、绘画爱好、内裤抽屉隐私、浴室门缝与 Debbie/Diane 夏令营旧照片；修复女性复数代词，并补建 Diane 的英文姓名档案。
 - 已补充 `jen_baby.rpy` 的首次／再次怀孕、孕期身体变化、成人直播、单胎／双胎生产和共同育儿阶段；明确 Debbie 是“外婆”，Jenny 的男朋友口误不构成正式关系确认，产后称 Anon 为 Daddy 则确认真实父亲身份与共同育儿。
-
 - 已补充 `jen_deal.rpy` 的公共区域议价入口：Anon 主动提出交易，Jenny 为避开 Debbie 将讨论转移到下午并要求带钱，确认付费安排、家庭保密和非正式情侣边界继续存在。
-
 - 已补充 `jen_finger.rpy` 的私人前戏、指交高潮和中途停止分支；明确 Jenny 会因私人快感取消成人直播，Anon 也开始反过来掌握节奏并用她过去的吊胃口手段戏弄她，但这一控制权反转不等于正式恋爱确认。
-
 - 已补充 `jen_pool.rpy` 的泳池性交、溺水走马灯、体外／内射结果、裸泳反悔、炸弹入水报复和公主支配角色；明确危险场所与互相戏弄体现稳定性关系和控制权拉扯，不等于正式恋爱确认。
-
 - 已补充 `jen_shower.rpy` 的前期偷窥边界、成人直播合作后的共同淋浴、狗狗与乞求支配玩法、淋浴性交、深喉吞精及怀孕身体不安分支；明确 Anon 会拒绝羞辱，Jenny 的私人吞精偏好承认也不等于正式恋爱确认。
-
 - 已补充 `jen_sleep.rpy` 的关系阶段分支、做爱与搂着睡的边界、前戏后拒绝做爱的反制、外射后留宿、内射许可冲突和次晨斗嘴；明确同床过夜是非性亲密边界推进，仍不等于正式情侣确认。
-
 - 已补充 `jen_table.rpy` 的餐桌冒险性交、早餐倒计时、炒蛋双关、咖啡杯体外射精和内射许可冲突；明确 Jenny 主动追求被 Debbie 撞见的风险刺激，但仍需家庭保密，也不构成正式情侣确认。
 - 已补充 `jen_tv.rpy` 的色情片账号、拒绝／乞求分支、公主式自我羞辱、足交、客厅风险性交及体外／内射结果；明确高潮时夹住导致无法退出不等于事先许可内射，并登记 `Pink Channel` 与 `Princess [saga.cast.jenny]` 固定处理。
 - 已补充 `jen_visit.rpy` 的深夜主动索取、接受／拒绝分支与控制欲反弹；明确身体反应不等于同意，Anon 当次明确说不仍必须被保留，Jenny 的报复不是默认调情。
@@ -335,23 +327,16 @@
 - 已补充 `pizza_boxes.rpy` 的披萨外送结果与工钱领取交互；区分 Tony／Maria 的完美、部分成功和全部失败反馈，统一 Tony 的 `buddy`“小兄弟”、`smalls`“小子”、`champ`“冠军”，并明确产后抱婴儿状态下“腾不开手／晚上结清工钱”的画面语义。
 - 已补充 `pizza_kitchen.rpy` 的厨房受限入口；将两句内心独白整理为“后厨危险”到“最好别随便闯进去”的递进，统一全角括号，并避免把 `wander in there` 错写成已经进门后的闲逛。
 - 已补充 `tammy_bed2_scope.rpy` 的 Erik 卧室望远镜观察；区分通宵游戏、Jenny 成人内容、润肤露自慰暗示、兽人成人玩具及 Tammy 关系升级分支，并保留 Anon 对新关系发展的惊讶。
-
 - 已补充 `tammy_lobby.rpy` 与 `tammy_yard_scope.rpy` 的时段限制、后院瑜伽观察、偷窥关系边界及 `turned on` 成人语义。
 - 已补充 Tenzin 的陌生人定位、格言式书面口吻、`Shoo` 赶人语义，以及服装店单独 `changing room` 统一译“更衣隔间”。
 - 已补充 Titomi 的 Omaha／Nebraska 背景、Ara Ara 英文专名、反讽抬杠口吻，以及 `hospitality stick in her ass` 与 `wear a helmet` 两处连续笑点。
-
 - 已补充 `ton_baby.rpy` 的怀孕早期、临产准备、生产后返店、抱婴儿黑帮故事与更晚恢复阶段；统一 Tony 的 `champ`“冠军”、五组动作片引用、Luigi 英文姓名、外送订单及 Tony 知情鼓励的后厨成人关系，并登记源代码单复数疑似颠倒的中性处理。
 - 已补充 `tony.rpy` 的客厅、后厨和披萨店跨阶段公共入口；明确初次来店、牛奶任务、街头解围、试送入职与后期家人式信任不能混成同一口吻，并登记 `Trial.`“试送”、`Vehicle.`“车子”、`there's my guy`“我的好小子来了”及 `She's a peach`“她可真是个宝”。
 - 已补充 `tool_drill.rpy` 的父亲旧电钻物品交互；确认该工具位于 Debbie 家车库并承接 `bar04.rpy` 画架、`mel01.rpy` 木笛制作任务，统一“旧电钻”及克制的遗物怀念语气。
-
 - 已补充 `tool_shovel.rpy` 的双阶段取铲子入口、Diane菜园任务承接与Jenny车库电池插曲；固定该任务中的 `shovel` 为“铲子”、`One shovel: acquired!` 为“铲子一把，入手！”，并明确文件未揭示大量电池的用途，不能擅自补成成人道具。
-
 - 已补充 `tv.rpy` 的电视频道浏览与Ronald政治讽刺链；确认竞选、腐败被捕、囚服发布会和与Yoo同牢的画面连续性，固定 `perp walk` 为“被押走时的样子／押解示众”，并明确女子沙滩排球中的 `get into` 表示观看兴趣而非亲自参赛。
-
 - 已补充 `ursula.rpy` 的教师休息室违规闯入事件；明确 Ursula 当场打断辩解、以开除相威胁并命令 Anon 回去上课，统一 `teachers' lounge`“教师休息室”与学生对校长的 `ma'am`“校长”。
-
 - 已补充 `vee.rpy` 的 Consum-R 店员接待与全品类销售笑点；明确 Vee 与 Anon 只是店员和顾客，统一 `vegetable stock`“蔬菜高汤”，并按宣传口号与通道编号分别自然处理 `aisle`。
-
 
 ## 测试与校验状态
 
@@ -404,13 +389,9 @@
 - GitHub Actions 使用 Ren’Py 8.5.3 编译并运行 `tools/build_rpa.py`。
 - 本机 PATH 中未发现 Ren’Py SDK；Ren’Py compile/lint 尚未运行。
 - `python -X utf8 tools/build_rpa.py`：成功打包并校验 327 个文件（`dist/zh_hans.rpa`，42,313,279 字节；构建产物由 `.gitignore` 忽略）。
-
 - `bar01.rpy`：已完整精修美术线开端、陶土课堂、长颈鹿成人双关、Ursula削减预算与Ronald美术比赛约定；统一课堂称谓“老师”、材料“一块陶土”、内心独白全角括号和中文省略号。
-
 - `bar02.rpy`：已完整精修美术搭档招募、Mia魅力门槛、Eve背包与画板任务、Chad自画像交易／Eve武力取回分支、Barbara与Starchild往事及首次互画肖像；统一“画板”“小可爱”和英文专名。
-
 - `bar03.rpy`：已完整精修旧杂志收集、图书馆多功能室、Kevin男性健身杂志、Melody长笛问答与特制布朗尼、拼贴画／大学误听、Barbara对Mia的成人谈话边界、香蕉桃子双关及密宗性爱经历；统一“拼贴画”“多功能室”“小可爱”“藜麦”及课堂称谓“老师”。
-
 
 ## 收尾阶段记录
 
@@ -420,10 +401,10 @@
 - 已完成全仓活动译文括号、中文标点、占位符间空格和英文原文注释完整性检查；不得改动 Ren’Py 变量、标签、说话人标识及英文原文注释。
 - 已将翻译语言目录统一为 `tl/zh_hans/`，同步更新工具、README、GitHub Actions 和术语文档中的路径，并生成 `dist/zh_hans.rpa`。
 
-
 ## 最终校验记录
 
 已完成最终校验：`python -X utf8 tools/validate_translations.py --no-compare` 通过（322 个 Ren’Py 翻译文件）；`python -X utf8 tools/audit_recurring_terms.py --fail-on-mismatch` 通过（全部登记术语 0 mismatch）；`git diff --check` 通过；`python -X utf8 tools/build_rpa.py` 及 `--verify-only` 均通过，生成并验证 `dist/zh_hans.rpa`（327 个文件，42,333,816 字节）。
+
 | `tl/zh_hans/bytecode_strings.rpy`、`tl/zh_hans/sms_fix.rpy` | 补充字符串与短信运行时修复文件重命名并系统性精修 | Anon、Debbie、Jenny、Maria、Daisy、Odette 等 | 完成 | 去除 `renpybox` 前缀；精修成人直播、直播间观众、孕期任务、分娩短信、冷落条件、Bad Monster、Electro Clit、月相、Outlood Express、cookie jar 和姿势/UI 文本；同步短信映射加载路径及术语表 | 完整翻译校验、重复术语审计、RPA 构建与验证通过后归档 |
 
 ### 跨行断句衔接专项复核
@@ -440,108 +421,66 @@
 - 结合 Vivienne 与 Anon 的关系阶段，复核亲昵称呼与 `Truly?!` 等表达的语气，避免提前强化或弱化关系；统一带 `show_lang` 的法语对白处理。
 - 将 Vivienne 法语相关固定表达与第三语言显示规则补充记录到 `translation_context/terminology.md`。
 
-
-
 ## 批次记录（按日期）
 
 ### 2026-10-05
 
+- **上下文目录规范化与遗留复查**：统一Markdown空行、相邻列表和表格排版，补齐历史Mod记录索引；纠正角色覆盖表、术语待办、密码别名及运行时验证范围的滞后说明。对照8194源码记录仍存在的占位、金额与说话人疑点，汇总双关、任务调度、图像语义和真实界面验证的剩余证据要求；保留历史批次，不修改译文、覆盖计数或源指纹。
 - **官方原包迁移后仅保留最新副本**：按用户要求新增并默认选择“复制并仅保留最新原包”。同游戏版本按附件名汇总各平台最新原包，全部复制和摘要校验完成后，再重新核对目标及所有旧原包；仅删除已确认与目标一致的旧官方原包附件，保留旧发行版、说明、汉化包和其他游戏版本。异常、缺少摘要或发现更新来源时保留旧包并使任务失败。补充平台补齐、清理范围和失败保留测试；旧原包固定下载链接会失效的行为已记录。未执行线上附件删除，后续Actions手动发包时执行迁移。
-
 - **发包时复用同版本官方原包**：Build Chinese RPA增加复制附件（默认）/引用下载链接/不复用选项，按精确游戏版本从最近含官方原包的非草稿发行版选择来源；首次无来源仅提示手动上传一次。复制校验大小及可用SHA-256，不覆盖冲突附件；引用模式保留已有发行说明并添加直达链接。任务超时改为30分钟，原包不进入Git或长期Actions Artifact；测试加入CI。现有8194-R2真实API只读选择通过，复制流程使用小文件测试，未实际创建新Release或传输1.43GB原包。存储配额、保留源链接要求和后续验证边界已登记release.md。
-
 - **a57c28d审校台账修复**：针对Actions运行37322560984的台账失败，保留Rodríguez英文姓氏和McDuck mode“土豪模式”两处已提交译文；同步game_seed与mode文件指纹、Rodríguez的既有单条审读项指纹，以及sms_fix引用game_seed的依赖指纹。McDuck mode是8194新增条目，不新增7944历史审读项。补录变更日志与固定译法，审读项数量和翻译对数不变；不修改CI检查或游戏脚本。
-
 - **本体更新日志中文显示**：补齐8194随包提供的24个版本段、370条正文和Preview/Hotfix标题词，共372组old/new；使用独立上下文键，在logs屏幕显示时查询当前语言，不改本体日志数据、版本号、原有布局和滚动。全文按既有姓名/地点/功能术语复核；默认/中文/默认逐条核对、英文完整原串回退及未知条目英文后备通过，顶部和滚动底部截图已复核。去空行后与本体logs屏幕对比，仅正文显示表达式不同。清单、规则、术语、变更记录和台账同步；术语审计补充finale quest的收尾任务语境例外；同时为既有b80744c中YES!→太好了！的改动补录日志并同步单条台账指纹，保留该译文及审读项数量。未翻译外部维基历史页面，未构建RPA或增加全剧情精修覆盖。
-
 - **新增翻译规则补全**：汇总此前用户确认，补齐对话按钮去句号/保留逗号与语气标点、截图同类全量复查、设置悬浮说明及真实显示验收、动态回归提示模板与格式、zh_hans右侧GitHub图标、鸣谢用户名、Bridget原文姓氏和联系人六类身份标签。补充上下文隔离、未知类别后备、版本更新时屏幕结构对照、源行号与末尾old/new归位、规范/术语/角色/进度/台账分工和验收范围；移除与强制按钮规则不一致的“通常”口径。索引增加查阅入口，上游更新流程增加专项复查。本批仅补全文档，不改译文、游戏脚本或审读覆盖，也不构建翻译包。
-
 - **联系人身份标签中文显示**：覆盖8194的`tel_cast`动态类别显示，6类Home/Student/Teacher/Town/Monster/Villain对应家人/学生/教师/镇民/怪物/反派；上下文键隔离其他共享文本，不改姓名、内部类别、图片、样式、点击动作与滚动。去除空行后与本体屏幕逐行对比，仅显示表达式不同。官方隔离引擎18次默认/中文/默认查询通过，未知类别回退及姓名Krüger检查通过；中英联系人卡片组件截图已复核，未计完整手机导航或全剧情游玩验收。规则、清单、变更记录和台账同步；本地deb_mall的独立改动未纳入本次提交。
-
 - **Bridget联系人姓氏修正**：按用户截图将共享字符串`Krüger`的目标由“克鲁格”恢复为`Krüger`，保留原文重音字符。姓名规范、角色记录、变更记录和台账指纹同步；此条替代历史音译定稿，不增加整场精修或游玩覆盖。
-
 - **设置悬浮说明、同类提示与项目链接**：增加完整GetTooltip字符串的显示时翻译，覆盖设置内4条悬浮说明；原有中文映射保留，默认/中文/默认切换的12次官方引擎查询通过。Diane、Josie的更新回归提示沿用主线“后续更新中回归”模板，保留斜体与变量。语言区zh_hans右侧增加36×36的GitHub图标，OpenURL目标为项目仓库；隔离设置截图确认位置与尺寸，未实际打开外部浏览器。专项截图未记录真实鼠标悬停的提示框，因此不能计作全部悬浮排版验收。未来版本复查规则已登记style_guide及术语规范。
-
 - **对话选项标点全仓复查**：以8194源码菜单条目及条件参数为依据，对全仓old/new筛查并逐项核对用途，另修正16个文件中的25条选项，包含金额标注前的句末句号。内部逗号、问号、感叹号、省略号及变量/格式标签保持原样；正文、任务说明、商品描述和通知的句号保留。台账、变更记录与命中的句式基准同步，仅计标点修正，不增加整场精修或游玩验收覆盖。
-
 - **购车按钮标点修正**：按用户截图，将`jos_trade.rpy`的“预算得省着点。”“其实，还是算了。”去掉句末句号；保留内部逗号及“钱拿去！”的感叹号。仅改这2条目标译文，原文、变量、源行号及结构不变；台账与变更记录同步，不增加场景审读覆盖。
-
 - **对话按钮结尾标点规则**：按用户确认登记“普通对话选项不带句号，问号/感叹号/省略号等非句号标点按语气保留”；以`yoo.rpy`“我受够了”“月度最佳员工？”为正确示例。规则已写入`style_guide.md`，按对话按钮用途识别，不泛化到所有old/new或正文文本。本次仅登记规范，未执行全仓按钮标点改写。
-
 - **鸣谢页用户名恢复**：按用户截图确认，右侧灰色署名全部保留原用户名。删除`team.rpy`中Joaka、Arboris、Volé、Jelgan、Abigfatnobody的5条音译映射，并清理空的重复字符串表与孤立行号注释；保留9条职务/分组/按钮译文。对应专名规则和英文残留例外已登记，台账同步减少5组翻译及其历史审读项。
-
 - **8194新增翻译位置归位**：核对`c6be27d`涉及的翻译文件，以当前精修译文为基准整理31个文件；对白保留官方源码行号顺序，分散追加的`translate zh_hans strings`合并成单一末尾字符串表，表内old/new条目按匹配8194源位置归位。清理重复的生成日期注释，保持BOM及换行形式。按ID比对确认对白正文和动作参数未改变，全部英中对应的多重集合保持一致；同步台账条目行号/指纹及文件清单，未增加历史审读覆盖。37256个有效对白ID、官方行号与顺序复核通过，344文件结构检查及强制源证据台账审计通过。
 
 ### 2026-10-04
 
 - **8194版本迁移（2026-10-04）**：对照用户提供的21.0.0-wip.8194本体，补齐2493个新增对白节点，涵盖Josie新剧情、怀孕分支、商城与其他新增角色内容；同步任务、地点、人物资料、界面和26条新短信及8条回忆目录提示，移除78个失效对白节点。全部37256个有效中文对白ID与官方归档引擎对应，无孤立ID或非空原文遗漏；5个本体空白`extend ""`保持无译文，不计作新增对白。详见`version_migration_8194.json`。
+
   短信会话沿用8194原生双向气泡、图片点击与滚动结构，在格式标签和角色变量插值之前翻译完整消息；旧文本回调仅在中文语言下启用，修复切回英文后继续显示中文的问题。官方归档引擎已验证英文→中文→英文切换并检查中英短信截图；隔离映射测试覆盖63条短信与340条映射。
   台账迁移只保留ID和英中内容摘要均不变的历史审读项；新增翻译不计作7944历史审读覆盖。验证范围为隔离Ren’Py compile/lint、官方节点清单、UI字符串差集、结构/占位符、术语/句式/间距及台账完整性。未逐场游玩验收，未改README、未构建RPA或发布Release。
   上传前复检：344个翻译文件结构检查、2027条句式基准、全部登记术语、间距、63条短信映射、6项审计工具测试及台账完整性均通过；台账40514组英中对应、37876条指纹匹配的历史审读项、0陈旧或缺失文件，并启用`--require-sources`核对本地源证据。重新同步译文至8194官方归档副本，compile/lint及短信中英切换执行通过，37256个对白ID、源码路径、行号和顺序再次核对一致。lint仅保留本体配置建议。`CONTRIBUTING.md`的目标版本已同步8194；本轮上传的是翻译源码，不是Release安装包。
 
 ### 2026-09-13
+
 - **背包与PC物品名一致性排查（第一百批）**：逐条比对 `res/meta/prop`（背包）与 `src/mini/pc`（PC 购物清单／商店）的全部物品名，修正 6 处：`The Drilldo "Fuck-Hammer"` 的 PC 条目由“假阳具“操锤””统一为“钻头阳具“操锤””；`UltraVibe 2000` 的 PC 条目由“超振棒2000”、背包条目由“超感振动2000”统一为英文型号 `UltraVibe 2000`，与任务提示和 jen10 对白一致；PC 购物清单的 `Sex Doll "Dirty Harold"`、`DarthMoan`、`BAD MONSTER` 三项补回“- ”项目符号。其余 BAD MONSTER、Dual Sybian、夜光肛塞、Electro Clit、末日巨屌、女兽人等名称已一致。台账两个文件已刷新指纹，`extracted_language_review.json` 追加 6 条记录。另按外部并发定稿，日记英文括注最终为加粗标记内的“坏怪物（Bad Monster）”，台账与句式基准随之刷新。
-
 - **电脑密码英文校验与提示更正（第九十九批）**：按用户确认，`Sticky` 指电脑右下角贴的标签，改为“便利贴”，不再误译成饼干类线索；两台电脑的密码坚持英文校验：Jenny电脑只保留英文攻略写法 `BAD MONSTER`→`BADMONSTER`，Anon电脑只接受 `cookies`／`COOKIES`，中文译名不再作为密码。Jenny日记两处 `BAD MONSTER` 补英文括注“（Bad monster）”，让玩家在日记里看到实际密码；`anon_pc_jenny_laptop.rpy` 已用 old-new 补入 `Homework→家庭作业`、`Photos→照片`。桌面 `app.name` 与运行提示仍由 `hint_translations.rpy` 覆盖（这两处不走 strings 替换表），`check_input_code_aliases.py` 28 项断言覆盖英文/中文边界、提示与应用名切换。
-
 - **两台电脑密码提示与应用名运行时文本修复（第九十八批）**：核实两台电脑的提示都是编译数据属性：Jenny电脑 `prop.jenny_laptop.hint = 'My favorite toy ;)'`、Anon电脑 `prop.anon_pc.hint = 'Sticky'`；桌面图标和普通窗口标题直接显示 `app.name`（如 `Homework`、`Photos`），都不经过 `translate strings`。`tl/zh_hans/hint_translations.rpy` 扩展为运行时文本覆盖：中文下提示分别为“我最喜欢的玩具 ;)”和“便利贴”（Anon 提示按用户手改定为“便利贴”，对应 anon_sticky 密码提醒道具），电脑应用名按设备覆盖为“家庭作业”“照片”“回收站”等；其他语言按反向映射恢复英文。`tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy` 补入 `Homework→家庭作业`、`Photos→照片` 两条 strings 条目，供仍走 `__()` 的窗口标题使用。`tools/check_input_code_aliases.py` 扩到 27 项，新增两台电脑提示与应用名的中英切换断言；`input_codes.md` 已记录该机制。
-
 - **Anon电脑登录谜题提示与别名修复（第九十七批）**：游戏本体 `saga/data/anon_pc.pyc` 中 Anon电脑的登录密码是 `cookies`，提示是 `Sticky`；提示是运行时数据属性，不经过 Ren'Py 字符串翻译表，所以此前界面只能显示“密码提示：Sticky”。新增 `tl/zh_hans/hint_translations.rpy`：在 `zh_hans` 下把 `prop.anon_pc.hint` 覆盖为“黏手的小甜饼”，切换到其他语言或读档时恢复数据原值。扩展 `tl/zh_hans/input_code_aliases.rpy`：别名映射从硬编码 Jenny电脑改为按 `(设备 ref, 原校验键)` 分组；Anon电脑新增 `饼干`／`曲奇`／`小甜饼`／`甜饼干`／`黏手的小甜饼`，英文 `cookies`／`COOKIES` 仍按原大小写归一化校验。`tools/check_input_code_aliases.py` 扩到 27 项，覆盖两套设备隔离、中文别名、原文输入、错误输入与提示中英切换。`translation_context/input_codes.md` 已补充 Anon电脑行与运行时提示翻译规则；README 未改，未构建 RPA，未进行场景游玩验证。
-
 - **道具与任务全文双语复审（第九十六批）**：完成 `res/meta/prop`（455）与 `res/meta/step`（732）逐条英中对照通读，共修正 12 处。道具：三处对白内 ASCII 转义引号改中文全角引号（`in-depth`／`For internal use only`／`mind wipe serum`）；`putting down skank ass hoes` 补句末句号；`cone-shaped plug for anal insertion` 由三重“的”直译改“会在黑暗中发光的锥形肛塞”；性爱娃娃描述补顿号；“流行的电池供电振动阴蒂刺激器”压缩为“热门电池振动阴蒂刺激器”。任务：`in the afternoon [wait]` 与 `[wait] in the [when]` 的时间变量顺序改为中文自然顺序；英国口音那句理顺为“和 Debbie 快活时背景里那些英国口音”；恢复被全角冒号破坏的 ASCII 表情 `D:`；“那个鸡的事情”改“那个变鸡的效果”。台账 prop／step method 升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 12 条记录。
-
 - **共享界面批次（第九十五批）**：完成 `base_box/common_box`（308）与 `base_box/screens_box`（108）逐条英中对照复审，common_box 修正 13 处：`Statement:`／`Tag:`／`Attributes:`／`Transforms:`／`Behind:`／`Transition:`／`Channel:`／`Audio Filename:`／`The Sync ID is:`／`Could not download file list:`／`An error has occured:`／图形错误提示／`Translation identifier:` 的中文半角冒号统一为全角；`[tl.filename]:[tl.linenumber]` 的文件名:行号分隔符保持半角。screens_box 按键／手柄说明无需改动。台账 2 个文件 method 升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 13 条记录。
-
 - **日记与图鉴全文双语复审（第九十四批）**：完成 `extracted/jenny_diary`（294 对）与 `extracted/lewd`（225 对）全文逐条英中对照通读，共修正 11 处。日记：`all over her face` 去掉多出的“浑身”，恢复句首 aqua／size 标记顺序。图鉴：`getting a handjob` 由“被手淫”改“被她打手枪”；`reach lower` 由“向下伸展”改“把手往下伸”；`Make a mess` 由“把房间弄得一团糟”改“弄得到处都是”；`watching porn` 由“看黄片”统一“看色情片”；`Join Jenny in the shower` 由“加入淋浴”改“共浴”；`Repeat` 由“再次”改“重温”；`Climb into bed with` 改“爬上……的床”；`pizzeria` 由“比萨店”统一“披萨店”。台账两个文件 method 升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 11 条记录，`sms_fix` 依赖指纹同步。
-
 - **界面／道具／任务大文件扫描与术语统一（第九十三批）**：对 `base_box/common_box`（308）、`base_box/screens_box`（108）、`res/meta/prop`（455）、`res/meta/step`（732）、`src/mini/pc`（77）共 1680 对做同源句漂移、英文残留、未翻译同形和目标一致性扫描，修正 5 处：`mini/pc` 的 Orcette 商品由“兽人娘”改“女兽人”，与 prop 道具统一；`Dual sybian` 由“双人震荡机”改“双重Sybian”，与 prop 统一；`step` 的法语 `bicyclette`／`Fromage` 两处去掉与句内译义重复的括注。月份名、June、Ren'Py 引擎令牌、按键名和 `%B/%m` 日期占位符按既有规则保留英文；`Failout 3`、`Never-Life 3` 等用户手改继续保留。`extracted_language_review.json` 追加 5 条记录。另更正：`src/mini/atm` 的 `Interest` 源界面紧跟固定“2%”，确认是利率；此前第九十批外的扫描曾误改为“利息”，现恢复“利率”并刷新台账与句式基准。
-
 - **extracted 动态片段小文件批次（第九十二批）**：完成 `anon_pc_jenny_laptop`、`cocktail_donut_garden_serum`、`ex_tv_television_menu_view_wind`、`game_seed`、`gui_wip_lewd_catalogue`、`mesg`、`pom_lang` 共 7 个文件、112 对逐条英中对照复审，修正 1 处：Jenny 电脑里的主播用户名 `xX~热辣小猫69~Xx` 回归 `xX~HOTKITTY69~Xx`，与 `mini/pc` 直播资料一致。用户手改的 `Failout 3→妇射3`、`Never-Life 3→没条命3` 保留；`angle speed` 作为 namedtuple 字段保留源键，`Krüger／Rodríguez`、`娥眉月`、`Outlood邮箱`、短信与月相文本均与既有定译一致。台账 7 个文件 method 升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 1 条记录。
-
 - **角色资料／地点专名批次（第九十一批）**：完成 `base_box/sets`（179）、`res/meta/sets`（6）、`res/meta/cast`（44）共 229 对逐条英中对照复审，无需改动。Hillside Mall→山畔商场、Rusty Angus→锈牛酒吧、Glazies→糖霜甜甜圈店、Planet Thiccness→丰满星球、Cosmic Cumics→宇宙漫画、Consum-R→购乐百货、Pink→粉色诱惑、Ara Ara→啊啦啊啦、Raven Hill→渡鸦山等地点专名，以及角色称号、随机路人和人物简介均与术语表、角色设定及审计基准一致。台账 3 个文件 method 升级为 `bilingual_scene_read`。
-
 - **GUI／小游戏界面批次（第九十批）**：完成 `gui/hud`、`gui/inv`、`gui/tel`、`mini/pc`、`mech/shop` 共 5 个文件、121 对逐条英中对照复审，8 处修正：`mini/pc` 中兽人主题商品 `The Orcette` 由误译“兽耳娘／兽娘”统一“兽人娘”；两处对话引号与 `Fuck-Hammer` 商品引号由 ASCII 转义引号改中文全角引号；`butt plug` 由“肛门塞”统一“肛塞”；`The Doom Dong` 补回列表项目符号；`gui/tel` 的 `Size: ???` 由“大小：……？”改“大小：？？？”。其余 HUD、物品栏、手机、商店借阅／购买分支、成人商店与直播电脑界面逐条核对无误；`BAD MONSTER` 输入码继续依赖 input_codes 的双写法兼容，不改动代码逻辑。台账 5 个文件 method 升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 8 条记录。
-
 - **菜单／功能／小游戏小文件批次（第八十九批）**：把 33 个旧 `chinese_function_batch_read` 文件与 13 个无 method 但有翻译载荷的钩子／界面文件合并为一批，逐条英中对照复审，共 46 个文件、约 200 对，修正 10 处：`sex_speed_control.rpy` 的速度 UI 七条译文把字面 `\uXXXX` 转义还原成“慢一点／快一点／慢／稍慢／标准／快／动画速度：”；`mini/atm.rpy` 的 `Interest` 由“利率”改“利息”；`mini/menu.rpy` 女体盛介绍的 `positively rigid with excitement` 由“欲罢不能”改“兴奋得硬起来”，补回成人双关；`tech/inv.rpy` 的内心独白补回全角括号。其余菜单、存档、设置、团队、小游戏说明、语言钩子、开发中提示、音效等逐条核对无误。台账 46 个文件 method 统一升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 10 条记录。
-
 - **jen_baby 全文双语复审与同源句收敛（第八十八批）**：完成 jen_baby（929 对逐条英中对照）复审，45 处修正：多处 `Heh,` 由“嘿／嘿嘿”统一“呵，”；`Hehe!` 由“呵呵！”改“嘿嘿！”；多处 `Aww` 由“啊／噢／哇”统一“哎呀”；两处 `Yeah, okay.` 统一“嗯，好吧。”；`O-kay.`／`O-okay.` 统一“好、好吧。”；`Uh huh.` 由“嗯嗯。”改“嗯哼。”；`I'm sorry?` 由误译“这……我很抱歉？”改反问“你说什么？”；两处 `Can I get you something?` 统一“要不要我给你拿点什么？”；`NGGHHH!!!`／`HNNGGG!!!` 三处按全库多数统一“嗯啊啊啊！！！”；`Om nom nom` 家族统一“嗷呜嗷呜（嗷呜）”；`*Mumbles incoherently*` 统一“*含糊不清地嘟囔*”；直播呼语 `boys` 由“兄弟们”改“小伙子们”。标点与称谓：结巴“我-我们／是——是的／那——那是／真——真的吗”改为顿号；“不应该—”补成“——”；`Yes, ma'am.` 对 Debbie 改“是，夫人”；`all of them` 由“全都想要”改“全都用过”；`Good lord` 改“老天爷”；`Uh oh` 改“糟糕”；`Sheesh` 补“天啊”；`Are you still mad?`、`is driving you crazy?` 各自同形。台账 jen_baby 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 17 条登记写法，`extracted_language_review.json` 追加 45 条记录。
-
 - **deb26 全文双语复审与同源句收敛（第八十七批）**：完成 deb26（858 对逐条英中对照）复审，44 处修正：四处 `Alright.` 统一“好吧。”；两处 `Y-yeah.` 统一“是、是啊。”；四处 `Aww, sweetie.` 与其余 `Aww` 统一“哎呀”；三处 `Hehe!` 由“呵呵！”改“嘿嘿！”；`Hehe, sweetie!!` 按句首规则作“呵呵，亲爱的！！”；三处 `*Snort*` 统一“*噗嗤*”；两处 `Heh!` 统一“呵！”；两处 `HNNGGG!!!` 统一“嗯啊啊啊！！！”；`*Yawn*` 统一“*哈欠*”；两处 `That's right.` 统一“没错。”；两处 `That was weird.` 统一“真奇怪。”；两处 `Yes, please.` 统一“好的，谢谢。”；两处 `Mhm.`／`Mhmm.` 分别统一“嗯。”／“嗯哼。”；五连叹号 `！！！！！` 收敛为三连。语气与指代修正：`do her real good` 由“狠狠肏舒服”改“让她爽上天”；`Holy crap` 由“天啊”改“我靠”；补回 `Heh, sweetie...` 与多处 `Heh,`／`Aww` 的语气词；`*Ahem*` 由“清嗓子”改“咳咳”；`Mm.` 由“唔……”改“嗯。”；Titomi 自述“还配着这么一对漂亮得不得了的奶子”，不再用第三人称“她那对”。台账 deb26 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 18 条登记写法，`extracted_language_review.json` 追加 44 条记录。
-
 - **deb_baby 全文双语复审与同源句收敛（第八十六批）**：完成 deb_baby（773 对逐条英中对照）复审，33 处修正：三处 `Oh, hey, sweetie!` 统一“哦，嘿，亲爱的！”；三处 `Heh.` 统一“呵。”；两处 `Hehe!` 由“呵呵！”改“嘿嘿！”；`Aww.` 由“哎——”改“哎呀。”；`Sheesh!` 改“天啊！”、`Sheesh.` 改“真是的。”；`Oh, holy crap!` 由“天啊！”按规则改“我靠！”；`You want some?` 两处统一“你想尝尝吗？”；`Oh, wow!` 两处统一“哦，哇！”；`Oh, really?` 保留全库多数的“哦，真的吗？”；`Thank you.` 两处统一“谢谢。”；`I love you so much!` 两处统一“我太爱你了！”；`What?` 两处统一“什么？”。语境修正：“是好事发生了”改“是有件大好事”；“给你做早餐”改“给你做饭”；调情语境的 insatiable 由“贪得无厌”改“贪心”；`settled` 由“应付过去了”改“定下来了”；泛指 `Babies` 改“孩子”；“拍照留证”提前泄底改“拍照了吗”；陈述句“你最近怎么这么黏人？”改“你最近真黏人。”；“你和孩子”改“孩子的事”；“以后非得宠上天不可”补主语改“我非得把你们宠上天不可。”；`With Jenny.` 改“还有 Jenny 陪着”；`moral support` 由“陪着壮胆”改“精神支持”；“一个人没人管”改“一个人待着”；`quality time` 由“好好相处”改“美好时光”；补回 `Aww` 的“哎呀”语气词。台账 deb_baby 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 16 条登记写法，`extracted_language_review.json` 追加 33 条记录。
-
 - **deb_tv 全文双语复审与拟声／拆句收敛（第八十五批）**：完成 deb_tv（765 对逐条英中对照）复审，79 处修正：20 处 `Heh` 系笑声按基准收敛“呵／呵，”，其中独立 `Heh!` 从“嘿嘿！”改“呵！”，`Heh.` 从“嘿。”改“呵。”；五处 `Hehe!` 中“嘻嘻！”统一“嘿嘿！”；`*Ahem*` 三处“嗯哼／咳嗯／咳”统一“*咳咳*”；`*Snort*` 由“*嗤笑*”改“*噗嗤*”；三处长音 `*Sluuuuuuurp*` 统一“*吸溜——*”；`Nom.` 两处统一“啊呜。”；`Mhmm.` 一处“嗯嗯”改“嗯哼。”；`Mm.` 一处“唔。”改“嗯。”；`O-kay.` 由“好-吧。”改“好、好吧。”；十六处 `HNNGGG!!!`／`NGGHHH!!!` 按全库多数统一“嗯啊啊啊！！！”并去掉两处四连叹号；四组 `Here it...`／`... Comes!!` 统一“就要……／……来了！！”，不再重复“要射／要来了”；六处 `Y-yeah, okay.` 统一“好、好吧。”；三处 `Just like that.` 统一“就这样。”；三处 `Oh, wow!` 统一“哦，哇！”；两处 `Okay, sweetie.` 统一“好的，亲爱的。”；两处 `Thanks, Debbie.` 统一“谢了”；两处 `Well, yeah...` 统一“嗯，是啊……”；两处 `Heh, that tickles!` 统一“呵，好痒！”；`Hello?` 两处统一“有人吗？”；`That's my good boy.` 五处统一“这才乖嘛。”。语境修正：`Why don't you...` 邀请改“过来坐我腿上吧？”；“把它夹在我胸间”改“再让我用胸夹一次”；`Tell me something I don't know.` 改“这还用你说。”；`mounds` 补作“完美的双峰”；`look at all this` 改“看看这些”；`Best. Landlady. Ever.` 改“最好的房东。没有之一。”；`runs in my family` 改“家族遗传”而非“传统”；调情语境 `naughty boy` 改“小坏蛋”；菜单 `Ask for a hand.` 由“求助”改“用手帮我”。其余保留按语境区分的 `Yeah.`、`Yes.`、`Me too!!` 差异。台账 deb_tv 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 27 条登记写法，`extracted_language_review.json` 追加 79 条记录。
-
 - **ano15 全文双语复审与应声词收敛（第八十四批）**：完成 ano15（756 对逐条英中对照）复审，40 处修正：两处 `Heh!` 由“哈！／嘿！”统一“呵！”；一处句尾 `Heh.` 由“嘿嘿。”收敛“呵。”；十五处 `Heh,` 由“嘿，／呃，／呵呵，”，统一“呵，”并补回一处漏掉的笑声；三处独立 `Hehe!` 与一处 `Hehe.` 由“呵呵”改“嘿嘿”；`Alright, alright!` 统一“好了，好了！”；两处 `Y-yeah, okay.` 由“是、是，好。”改“是、是，好吧。”；`Yeah, okay.` 三处统一“嗯，好吧。”；`Good lord!` 两处统一“老天爷！”；两处 `Alright.` 统一“好吧。”；同场景 `Okay.` 统一“好。”；两处 `See, I told ya!` 统一“瞧，我早告诉过你吧！”；两处 `I can't believe we're doing this.` 统一“真不敢相信我们真要做了。”；两处 `Huh?` 按“突发震惊／没听清”区分为“啊？／嗯？”；`Oh, gawd!`／`Oh gawd!`／`OH MY GAWD!` 三处连续呼应统一“哦，天哪！”并补全逗号；高潮惊呼 `AHHH, JESUS!!!` 按全库规则改“啊！！！天哪！！！”；两处拆词拼接去掉重复前导破折号，避免游戏内显示“————”；被点名后的 `Yeah?` 作“嗯？”，回应感叹的 `Yeah?` 保留“是吗？”，按语境区分。其余核对无误：夏日镇、Eddie 保留、Obi-Wan、capisce／capicola 意大利语保留＋全角括号、`*Gulp*`→*咽口水*、`*Sigh*`→*叹气*、`*Snort*`→*噗嗤*、`champ`→冠军、`Attaboy`→好样的。台账 ano15 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 12 条登记写法，`extracted_language_review.json` 追加 40 条记录。另同步两处链式台账：mar_couch_noon2a_80861fc6 确定为“天啊，你的鸡巴用起来真棒！”，mar_dark 对 ano15 的依赖指纹随本轮刷新。
-
 - **665 对档双语复审与拟声／产品名收敛（第八十三批）**：完成 deb23（665 对逐条英中对照）复审，18 处修正：七处 `{i}*Ahem*{/i}` 由“*清嗓子*”统一“*咳咳*”；两处 `Aww` 统一“哎呀”；`bum bum cream` 由“屁屁霜”改“Bum Bum润肤霜”（与全库 6 处品牌写法一致）；`Holy crap` 由“我操”改“我靠”；两处口交喉音 `*Glllck*` 由“*咕啵*”改“*咕噜*”；一处独立 `Hehe!` 改“嘿嘿！”；`Oh, really?` 两处同形；`I’m not hiding.` 两处同形；五处 `Really?` 统一“真的？”。其余核对无误：Raven Hill→渡鸦山、Cupid／Kassy 店员线、泳装试衣间整段、`That’s my boy`→“这才对嘛”、`*Snort*`→*噗嗤*、`*Gulp*`→*咕咚*、`*Sluuuuuuurp*`→*吸溜——*、`*Bells jingle*`→*门铃叮当*、菜单项 Conservative.→“保守”。台账 deb23 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 5 条登记写法，`extracted_language_review.json` 追加 18 条记录。
-
 - **mar_couch 全文双语复审（第八十二批）**：mar_couch 共 636 对已 1–636 全部读毕并逐条对照（上一轮的“部分”已完成）。本轮合计 35 处修正：两轮分别处理应声词／破折号（`Sheesh`／`O-oh`／`Hehe`／`Hehehe`／`YES!!!`／`Mhmm`／`Heh`／连字符结巴／`Aww,`／三连与四连破折号）与全篇用词（`Dang`→我去、`Man,`→天啊、三处 `SOGOOD…` 统一、`NGGHHH` 去“嘎”、“说真的，亲爱的？”、“好啊，麻烦你了！”、`Oh, Jesus`／`AHH, GAWD`→天哪、“这他妈什么人啊！”、“你的身体摸起来真棒”、六处 `Yeah?` 统一“是吗？”）。另顺带修正 mel_office 的“操————！！！”→“操——！！！”（全库唯一一处四连破折号）。核对无误：`The Falsettos`→《假声》、`horizontal pizzica`→“横着做披萨”、`champ`→冠军、`Attaboy`→好小子／好样的、棒球解说与性爱交错的三段场面、*Gulp*／*Phew*／*Sigh*／*Whistles* 等拟声。台账 mar_couch 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增相应登记写法，`extracted_language_review.json` 追加两轮共 35 条记录。
-
 - **viv04 全文双语复审（第八十一批）**：viv04 共 630 对已 1–630 全部读毕并逐条对照（上一轮的“部分”已完成）。本轮合计 19 处修正：五处法语原句由整句汉化改回“保留法语＋全角括号释义”（`Ce serait ennuyeux...`／`Tu es mon héros!`／`Très bien!`／`Non`／`Tu me sauves la vie!`）；两处 `What happened?` 统一“怎么了？”；两处 `Pfft, yeah right.` 统一“切，才怪。”；两处 `Oh, I’ve seen it plenty of times.` 与两处 `Tiny, eh? That’s too bad.` 分别同形；两处 `Heh,` 由“嘿嘿”统一“呵，”；两处 `Hehe,` 与一处 `Hehehe!!` 按位置约定改“呵呵，／嘿嘿嘿！！”；两处连字符结巴改顿号；两处 `Pfft` 统一“切”；一处 `Aww,` 统一“哎呀，”。其余核对无误：Bonjour／Merci beaucoup／Oui／Voila／show_lang 行、Roxxy 的啦啦球与州冠军赛线、Jenny 要价五百美元、Jenny–Roxxy 的互夸与“hung like a horse”、*Ahem*→*咳咳*、*Sigh*→*叹气*、“Oh. My. God.”→“我。的。天。”等既有规则一致。台账 viv04 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 4 条登记写法，`extracted_language_review.json` 追加相应记录。
-
 - **559 对档双语复审与应声词收敛（第八十批）**：完成 deb_mall（559 对逐条英中对照）复审，30 处修正：九处 `Heh,` 统一“呵，”；两处 `Aww,` 统一“哎呀，”；`O-oh, right.` 两处同形；四处连字符结巴按顿号收敛；`naughty boy` 调情语境改“小坏蛋”；“但我很高兴发生了”补全为“事情变成了这样”；`you hush` 改“你少说两句”；`If you say so.` 两处同形；`caught up in the moment` 统一“一时冲动”；独立 `Hehe.`/`Hehe!` 改“嘿嘿”；`Really?` 三处统一“真的吗？”；`Alright.` 四处统一“好吧。”；`Y-yeah, okay.` 四处统一“好、好的。”；`Mmm.` 统一“嗯。”；`Eugh` 与 `Ugh` 区分作“呕”。其余核对无误：Raven Hill→渡鸦山（本文件 6 处一致）、Consum-R→购乐百货、Cupid→丘比特、Cosmic Cumics→宇宙漫画店、Bum Bum 润肤霜保留品牌、无骨牛小排／慢炖锅等生活用词、*Gulp*→*咕咚*、*Ahem*→*咳咳*、*Phew*→*呼*。台账 deb_mall 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 7 条已登记写法，`extracted_language_review.json` 追加 30 条记录。
-
 - **490 对档双语复审与昵称／拟声收敛（第七十九批）**：完成 deb13（490 对逐条英中对照）复审，15 处修正：“我可怜的宝贝”两处统一；拖长的 `Yeeeaaah` 改“是啊——”；两处 `Aww` 统一“哎呀”；内心话“才能解决”两处同形；`You know what?` 两处统一“这样吧。”；`Heh, awesome.` 改“呵，漂亮。”；`Are you sure there’s nothing you can do?` 两处同形；`*Muah*` 统一“*啵*”；`Riiight.` 改“哦——是啊。”；`Mhmm.` 改“嗯哼。”；两处独立 `Hehe!` 改“嘿嘿！”。其余核对无误：jump pack→应急启动电源、SAGA汽车经销商、DTF M0M 车牌保留、八千美元报价、Josie 私自延长保修整段、修车工 Jiang 的口音与黄色双关、曲奇街240号、*Ring*／*Gasp*／*Ahem* 等拟声。台账 deb13 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 5 条已登记写法，`extracted_language_review.json` 追加 15 条记录。
-
 - **473 对档双语复审与应声词收敛（第七十八批）**：完成 mel02（473 对逐条英中对照）复审，25 处修正：五处连字符结巴按顿号收敛；六处 `Heh,` 由“嘿”统一“呵”；`creep` 由“白痴”改“变态”；`I just need a minute` 由“冷静一下”改“缓一缓”；两句“在整个学校面前上台”改为“不敢在全校面前上台”；`*Hic*` 一处由“*呃*”改“*嗝*”；两处 `Aww,` 统一“哎呀，”；同源句 `Hey, it’s about time!...` 两处同形；斜体代词后多余空格删除；`Not if I replace it with a fake.` 改陈述句；`Holy crap` 由“我操”改“我靠”；“我希望你没偷来什么的”改“希望你不是偷来的。”；四处 `Really?` 统一“真的？”；三处 `Huh?` 统一“哈？”。其余核对无误：sugar→甜心、World of Orcette→《兽人世界》、bourbon→波本威士忌、卡拉OK与假吉他换真吉他桥段、*Sigh*／*Cough* 等拟声。台账 mel02 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 4 条已登记写法，`extracted_language_review.json` 追加 25 条记录。
-
 - **471 对档双语复审与同源句收敛（第七十七批）**：完成 tor02（471 对逐条英中对照）复审，并在 jen_gfe 顺带收敛 2 行，共 15 处修正：`Alright.` 三处统一“好吧。”；`Yeah.` 两处统一“是啊。”；Erik 复述 `vari-what` 由“变什么”改“渐进什么”；三处连字符结巴按顿号收敛；两处 `Heh,` 由“嘿”统一“呵”（并回头把 jen_gfe 的 `Heh, whatever.` 两行一并改为“呵，随你怎么说。”）；`Oh my god` 两处统一“天哪”；`I didn’t go to all this trouble to not collect her glasses` 的双重否定重写为“可不是为了不拿她的眼镜”；`Uh oh` 由“哎呀”改“糟糕”；“丑得惊为天人”改“丑得惊人”。其余核对无误：Okitatron眼镜／varifocal→渐进镜片／fract→分形、Tori 记不住的助手名、Judith 的眼镜交易与照片桥段、X 光眼镜与“智人平均值”桥段。台账 tor02 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 6 条已登记写法（含 `Heh,` 基准），`extracted_language_review.json` 追加 15 条记录。
-
 - **449 对档双语复审与应声词／同源句收敛（第七十六批）**：完成 jen26（449 对逐条英中对照）复审，15 处修正：`Aww...` 由“哦……”改“哎呀……”；`being so chill` 由“没把事情闹大”改“这么大度”；两处 `Really?`／`R-really?` 统一“真的／真、真的”；`Ugh, fine.` 按全库统一“呃，好吧。”；`Eww, don’t call it a date` 句式理顺；`We used to go see lots of movies` 不再提前说出 Jenny 下一句的“小时候”；内心话 `Oh, it’s almost time for my date with Jenny.` 两处同形；`Eugh...` 改“呕……”（与 Ugh 区分）；四处 `Hahahaah!` 统一“哈哈哈！”；`I err...` 语气填充不加逗号；`B-but` 结巴改顿号；`Ugh...` 由“真是的”改“呃……”；两处 `Oh my god, oh my god, OH MY GOD!` 统一“天哪…”。其余核对无误：Zana 的签名骚扰线与 Jenny 的毒舌、影片 title 《完美贱人》与 `Blue Ninja Lollipop Girl`、*Gulp*→*咽口水*、性爱 `*Gasp*`→*喘息*、`What the hell?`→“搞什么鬼！”、`Sheesh`→“真是的”等既有规则一致。台账 jen26 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 10 条已登记写法，`extracted_language_review.json` 追加 15 条记录。
-
 - **428 对档双语复审与呻吟／应答词收敛（第七十五批）**：完成 deb25（428 对逐条英中对照）复审，16 处修正：`What hasn’t gotten into me` 原译把意思反了，改“倒不如说，还有什么没进到我身体里。”；`But I just can’t-` 不再补出“忍不住了”；`landlady` 两处按 terminology 统一“房东太太”；`Ahh!!`／`Oh!!!`／`Gaaahhh` 呻吟句统一“啊”；`Heh.` 由“呵呵”改“呵”；`Mhmm.` 三处由“嗯”改“嗯哼”；`Wow.` 由“哇哦”改“哇”；两处 `Aww,` 统一“哎呀，”；`was I?` 去掉重复追问；`Y-yeah` 按结巴规则改顿号。其余核对无误：*Sigh*→*叹气*、*Gulp*→*咽口水*、*Whimper*→*呜咽*、*Crash*→*哐当*、language!→“注意言辞！”，Hym／lsd 色情片台词与 Debbie 现实内心独白两条线区分清楚。同时把 style_guide 的 `Ugh` 规则细化为“默认‘呃’，自责、无奈长叹可用‘唉’（同段一致）”，以容纳本文件的自责段落。台账 deb25 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 5 条已登记写法，`extracted_language_review.json` 追加 16 条记录。
-
 - **395 对档双语复审与单复数／结巴收敛（第七十四批）**：完成 mar_baby（395 对逐条英中对照）复审，27 处修正：`How are you feeling?` 三处统一“你感觉怎么样？”；`not really` 由“不太有感觉”改“好像没有”；`strong stomach` 由“胃口好”改“肠胃好”；`Y-you’re naked.`／`Y-yeah, okay.` 按结巴规则收敛；`Heh,` 统一“呵，”、独立 `Hehe!` 统一“嘿嘿！”；`godchildren` 三处由“教子们”改“教子和教女”（双胞胎一男一女）；“我们孩子们”去病；“我是教父Anon”改“我是你的教父，[saga.cast.anon]。”；他／她／他们三组同源句同形；`eh?!` 的“呃？！”改“对吧？！”；`if you’re up to it` 由“有空”改“有精力”；`Oh my god,` 补逗号；“watch your fuckin’ mouth”的“他妈的”移回“嘴”上；`cocksucker` 两分支统一“叼鸡巴的”；`You got it, boss` 按 Maria 身份改“包在我身上，老板娘。”；`Hi, [saga.cast.maria].` 四处统一“嗨”。其余核对无误：champ→冠军、cannoli→意式奶油甜馅卷、capisce→capisce?（懂了没？）、ward chart→病房表、单胎／双胎分支代词全程对应。台账 mar_baby 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 7 条已登记写法，`extracted_language_review.json` 追加 27 条记录。
-
 - **393 对档双语复审与截断／结巴收敛（第七十三批）**：完成 jos01（393 对逐条英中对照）复审，10 处修正：`Hmm,` 与 `Uh huh.` 撞写法，改“嗯，你说送货？”；`Gotcha.` 两处统一“懂了。”；回答“有没有能合租的人”的 `No.` 由“不。”改“没有。”；`You’re not going to help me, are you?` 两处统一；`W-what the-` 由“什——什么情况——”改“什、什么——”（结巴用顿号＋不补出被截断的“情况”）；`this, the most holy of times` 去掉增补的“一年中”；Josie 的 `Grr,` 由“唔”统一“啧”（她本文件三处均为“啧”）；`I really need this for my-` 不再补出“送外卖”；`N-no, sir.`／`O-okay.` 按结巴规则改顿号。其余核对无误：Yoo 的 `J-Ro`／`J-Lo`、`Freetwood Panhandrer`／`Fleetwood Panhandler`、`poor boy`→穷小子、TPS 报告、T字带凉鞋、纸牌接龙／蜈蚣／俄罗斯方块／扫雷、`Hattori Hanzō` 保持英文、《上古卷轴V：天际》引用、三头猴与 Yoshi 的职场闹剧均与 terminology 一致。台账 jos01 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 7 条已登记写法，`extracted_language_review.json` 追加 10 条记录。
-
 - **388 对档双语复审与同源句收敛（第七十二批）**：完成 jen10（388 对逐条英中对照）复审，25 处修正：玩具欠账句两处统一；`Umm, hello?!` 两处统一“喂？！”；`Yup.` 三处统一“嗯。”；`Well, go and get it!` 两处统一“那就去拿！”；`Here.` 两处统一“给。”；`Ugh` 两处由“唉／啊”改“呃”；`Whatever.` 两处统一“随便吧。”；`I uhh...` 四处统一“我呃……”（英文是语气填充，不加顿号）；`What are you-` 保留截断“你这是在——”；`O-oh.` 两处统一“哦……”；`Hehe,` 句首引语按全库位置约定统一“呵呵，”（独立 `Hehe!` 仍作“嘿嘿！”）；`Eugh` 与 `Ugh` 区分统一“呕”；`H-hey` 两处按结巴规则作“嘿、嘿”；`Oh my god` 补回逗号；`N-not` 改“才、才”；`Yeah right` 由“是啊”改“得了吧”（反讽而非附和）；`Grr!` 由“啊啊”改“哼！”（低吼，非呻吟）；电动玩具拟声由“*滋~滋~*”改“*嗡嗡嗡——*”，与全库 `*Bzzt*→*嗡——*` 一致。其余核对无误：loser→废柴、Pink→粉色诱惑、UltraVibe 2000 保留英文、*Gasp*→*倒吸一口气*、*Sigh*→*叹气*、“他们说要找个大的”指直播观众、Grace 两段平行退出对白语气一致。台账 jen10 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 12 条已登记写法，`extracted_language_review.json` 追加 25 条记录。
-
 - **385 对档双语复审与同源句收敛（第七十一批）**：完成 ano09（385 对逐条英中对照）复审，9 处修正：`pump her full of too much` 由“灌得烂醉”收回“别又让她喝太多了”；`Hehe!` 由“呵呵”统一“嘿嘿”；`Yes, sir.` 由“明白，老板”改“是，老板”（与“Yes, sir!”的“遵命，老板！”配套）；`Not only...` 补回“不光”与另一版并列结构一致；`Lesson learned` 由“吃到教训”改“长教训”；`Hahahaah!` 两处统一“哈哈哈”；`I love the color.` 两处统一“我喜欢这个颜色。”；`let’s get crackin’ on those deliveries, eh?` 两处统一并补回“，嗯？”。其余核对无误：champ→冠军、capisce→capisce?（懂了没？）、Holy Mary, Mother, and Joseph!→“圣母玛利亚和圣约瑟在上！”、The Overcompensator→“过度补偿者”、The Blue Falcon／The Sapphire Stallion→“蓝色猎鹰号／蓝宝石种马号”、calzone→意式烤饺、Attaboy→“好小子”、*Gulp*→*咽口水*、Yes, ma’am.→“是，老板娘。”、fifteen percent off→“八五折”全篇一致；Tony 的 dismissive “嗐，甭提了！”与 ano14 同形，作为 Ah/Ahh 的许可变体记入 style_guide。台账 ano09 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 4 条已登记写法，`extracted_language_review.json` 追加 9 条记录。
-
 - **369 对档双语复审与敬称／感叹词分流（第七十批）**：完成 mar_dark（369 对逐条英中对照）复审，并在 deb_tv、ton_baby 补两处同源句，共 27 处修正。`ma’am` 按对象分流：mar_dark 四处由“遵命／是的，夫人”统一为“是，老板娘／是、是，老板娘”，与 ano09／ano10／ano11／mar_kitchen 一致——“夫人”只留给 Anon 对 Debbie。`C'mere you!` 两处统一“你小子过来！”；`That feels really good.` 三处（mar_dark 两处＋deb_tv 一处）统一“真舒服。”；`capiche?` 两处（mar_dark）与 ton_baby 两处恢复“保留意大利语＋全角括注”，不再整句汉化成“懂吗／懂了没”；`OH MY GAWD!` 两处统一“哦，我的天哪！”，`Oh, gawd, fuck me` 的“天啊”改“天哪”，Tony 的 `Man, I love this view!` 按既有规则改“天啊”；`Grr...` 由“啧……”改“哼……”；`give the kid a hard time` 由“欺负”改“为难”；`fucked her brains out` 由“人都快傻了”改“魂儿都飞了”；七处 `Y-yeah` 口吃按“结巴用顿号”收敛。其余核对无误：champ→冠军、cannoli→意式奶油甜馅卷、The Kidney Shifter→“移肾术”、*Whimpers*→*呜咽*；菜单 “Threeway?”→“要来三人行吗？”，同段“Not tonight.”由 jen_visit 的全局串表覆盖（Ren’Py 字符串翻译全局生效），无需在 mar_dark 重复登记。台账 mar_dark 升级为 `bilingual_scene_read`，`sentence_patterns.json` 新增 5 条已登记写法，`extracted_language_review.json` 追加 27 条记录。
-
 - **366 对档双语复审与感叹词／拟声统一（第六十九批）**：完成 jen_gfe（366 对逐条英中对照）复审，8 处修正：`Ahh` 误作“啊哈”（`Ahh, fuck!`／`Ahh, that's it!`）改“啊，操！”“啊，就是这样！”；`{i}*Gulp*{/i}` 由“*咕噜*”改“*咽口水*”；`{i}*Snort*{/i} Zzz.`（熟睡）由“*哼鼻*”改“*鼾声*”；同源句漂移收敛——`Hehehe!` 嘻嘻嘻→嘿嘿嘿、`Okay, okay...` 好吧，好吧→好好好、`Yeah, me too.` 是啊，我也是→嗯，我也是（与该文件 merge2 同形）、`Heh, whatever.` 哼，随便吧→嘿，随你怎么说（与该文件 dawn_once 同形）。Cedric 相关 `lovey-dovey bullshit` 按用户指示保留原判。
 - **感叹词词形分流（全库 15 处）**：`Aha!` 才是发现义的“啊哈！”（全库 5 处，保留）；`Ah／Ahh／Aah` 是呻吟、呼唤或感叹，此前 14 处被并入“啊哈”（ano15 三处、deb08、deb16、deb_tv、jos01 两处、jen_gfe 两处），统一改“啊”；deb_shower 被喘断的 `aahh` 作“啊啊”。规则同时写入 style_guide.md 与 terminology.md。
 - **笑声写法收敛（全库 5 处）**：`Hahahaah!` 系列此前 4 处夹入“啊／啊哈”（jen_baby、jen_pool、jen10、jen26），统一为纯“哈”重复（与全库 140 余处同源写法一致）；ton_baby 的 `Aaahhh!`（`m_laugh` 大笑）由“啊哈！”改“哈哈哈哈！”；tor05 的“啊哈哈哈哈！”同步去掉“啊”。
@@ -573,7 +512,9 @@
 - **190 对档双语复审与反复句式收敛（第四十五批）**：完成 deb14（198）、deb_kitchen（205）共 2 个文件、403 对逐条英中对照复审，8 处修正：`deb14` 两处拉长的 *SNIIIIFF* 由“{i}*用力吸——*{/i}”统一为“{i}*深深吸气*{/i}”（与 deb05 同一嗅闻语境一致）；两处 language! 由“不许说脏话／注意用词”统一“注意言辞”；`Girls my age are... difficult` 由“挺难懂的”改“挺难相处的”；`do it elsewhere` 的译文删掉与下句 Can you do that for me? 重复的“，好吗？”；`seemed surprisingly agreeable` 由“并不介意”加强为“居然还挺配合”；`deb_kitchen` 的 Naughty landlady 由“真是个坏坏的房东太太”统一“真是个不安分的房东太太”。沿同一问题全库收敛：`language` 系列在 deb02／deb04／deb16／deb_laundry 的“不许说脏话／注意用词”一并改为“注意言辞”（保留原句标点）；`naughty landlady` 同一玩笑在 deb_laundry 也统一“不安分的房东太太”。规则写入 style_guide。台账 deb14／deb_kitchen 升级为 `bilingual_scene_read`，其余 4 个文件重算指纹，`extracted_language_review.json` 追加 13 条记录；deb14 那条已登记句式按新译文同步 `sentence_patterns.json`（deb14_outro_bath1_6a305926）。
 - **网络口语收敛（第四十四批）**：针对用户指出的“想浪一浪”一类网络口语，按同一层级全库筛查口语化译法，修正 6 个文件、9 处：`ano09` 的 Holy crap 由“好家伙”改“我靠”；`deb08` 的 Sheesh 由“好家伙”改“天啊”（与该文件 325 行统一）；`deb_mall` 的 Hooo, boy! 由“呼，好家伙！”改“呼，天哪！”；`mar_dark` 中 Tony 三处 Man, 感叹由“好家伙”改“天啊”，怀旧的 `Man, this brings back a lot of memories` 用“唉”保留感慨；`mar_couch` 的 caught up in the moment 由“一时上头”改“一时冲动”；`jen06` 的 walk all over me 由“任她这么拿捏”改“任她这么摆布”。同类候选逐条核对后保留：`我去`（WHOA／Dang／Holy crap 的轻度惊叹，已属普通话口语）、`离谱`（crazy／ridiculously 的既有层级）、`真香`（字面“闻起来很香”）、`笑死`（You kill me 的自然说法）、`绝了`（style_guide 已认可 genius 的译法）。台账 6 个文件刷新指纹，`extracted_language_review.json` 追加 9 条记录。
 - **190 对档双语复审与直播呼语收敛（第四十三批）**：完成 deb05（193）、jen_cam（195）共 2 个文件、388 对逐条英中对照复审，4 处修正（均在 `jen_cam`）：`Damn it, [saga.cast.jenny]!` 由“搞什么啊”统一为全库通行的“该死”（与 jen_shower 同一说话人同类情形一致）；`You're about to get your cock sucked again.` 删掉凭空添出的“有人”，改“又要给你吹箫了。”；两处观众呼语 boys 由“各位”改“小伙子们”。含混发音句 `Try nnt ew cum ew 'ast` 按 style_guide 的“还原语义＋自然停顿”保留“尽……量别……太快就……射！”，不按错别字硬拟口齿。沿同一问题全库收敛直播观众呼语：`jen21`（2 处）、`jen18`（1 处）的“宝贝们”统一为“小伙子们”，与 jen_baby／jenny_laptop／jen_cam 一致，“宝贝们”只保留观众对 Jenny 的称呼用法；规则与 `Damn it` 取词一并写入 `style_guide.md`。另按用户复述核对 `feeling naughty` 系列：`deb_shower`（2 处）与 `deb_island`（1 处）均已是 style_guide 定稿的“想要”（`是不是有点想要了？`／`希望她今天也想要`／`看来某人已经想要了`），全库不再出现“想浪一浪”或“使坏”。deb05 无需改动（家务分担、老腰旧伤、润肤乳与按摩边界、good boy 家族均与原文一致）。台账 deb05／jen_cam 升级为 `bilingual_scene_read`，jen18／jen21 重算指纹，`extracted_language_review.json` 追加 7 条记录。
+
 顺带整理台账：把 `extracted_language_review.json` 里 9 条早前批次留下的占位式 before 值（“原为‘抽鼻子／吸鼻子’”）换成 git 中记录的真实旧译文，并把 jen21 打赏音效那条的 before／target 从说明文字改为实际字符串（`*叮* {w=.03}`→`*叮*{w=.03}`），使 before／target 一律可逐字校验。
+
 - **190 对档双语复审（第四十二批）**：完成 deb04（188）、deb_sink（192）共 2 个文件、380 对逐条英中对照复审，1 处修正：`deb_sink` 中 Debbie 调情语境的 you're such a naughty boy 原用“坏小子”，按 style_guide 改为“小坏蛋”（与 deb_lobby 同角色一致）。顺带核对 `*Gasp*` 的“倒吸一口气（惊讶）17 处／喘息（性爱与喘息）8 处”属语境分工，未做统一。`deb04` 无需改动。台账 2 个文件升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 1 条记录。
 - **180 对档双语复审与拟声收敛（第四十一批）**：完成 jen14（185）逐条英中对照复审，1 处修正（两处 `*Sigh*` 写作“{i}唉{/i}”／“{i}*唉*{/i}”，统一为“{i}*叹气*{/i}”）。同时全库收敛 `*Sigh*`：叹息 5 处、叹口气 1 处、带星号的“*唉*” 2 处，共 8 处统一到主流“*叹气*”（全库 84 处），涉及 deb25、deb_visit、jen14、jen_baby、jen16、mar_couch、tin_vault、viv03。台账 jen14 升级为 `bilingual_scene_read`，其余 7 个文件重算指纹，`extracted_language_review.json` 追加 10 条记录。
 - **180 对档双语复审（第四十批）**：完成 jen18（180）、mel04（181）共 2 个文件、361 对逐条英中对照复审，1 处修正：`mel04` 里 wonderbread 原译“小白脸”（指靠女人养活的男人）语义不符，按同句群的 honky（已译“白佬”）改为“白佬”。`jen18` 无需改动：stunt cock→“鸡巴替身”、big baby→“胆小鬼”、打赏音效与 Princess [jenny] 称呼都正确。台账 2 个文件升级为 `bilingual_scene_read`，`extracted_language_review.json` 追加 1 条记录。
@@ -609,35 +550,23 @@
 - **小型文件双语复审（第十批）**：`src/plot` 下 25 个 10–19 对的文件从中文本地连读升级为全文双语复审，349 对逐条对照英文，13 处修正。修正包括：`maria_lounge` 的 `TODO` 开发占位曾被填入邻近剧情台词，按 `tina_lounge` 同样例恢复占位字串并登记进 `english_residuals.md`；`june`、`ivy` 各自文件内重复英文句统一译法，`erik` 的 `I'll see you later` 与 `june` 对齐；`emm_stall`、`helen_bed2_scope` 恢复被截断半句的破折号，`school_office1` 去掉 Ursula 台词里擅自加强的“滚”，`diane_plot` 花园劳作改“打理花园”，`ind_stall` 的 `*Gasp*` 与全库主流“倒吸一口气”统一，`mia`、`josie` 改口语称呼。其余 14 个文件无需改动；台账 method 升级为 `bilingual_scene_read`，两份机器记录同步刷新。
 - **超小型文件双语复审（第九批）**：把 `src/plot` 下 56 个不足 10 对翻译的文件从“中文本地连读”升级为全文双语复审，逐文件比对解包源脚本字符串与译文对，均一一对应、无缺译。第一组 40 个（≤4 对）修正 3 处：`tin_cubicle` 的 bending over 与 tin02_cubicle.reuse 统一为“被按在自己办公桌上”，`bank_vault` 的 stating the obvious 改“我知道这么说有点多余”，`ella` 的 `H-hey-` 按全库口吃惯例改“嘿、嘿——”。第二组 16 个（5–9 对）修正 9 处：`bank_lobby` 把同文件的“星期天／周日”统一为界面日历的“周日”，`debbie_pants` 4 处口语化与比喻指代，`dexter` 挑衅句改“你想干什么”，`tym_stall` 被截断的 `I didn't-` 不再补内容，`helen_bed1_scope` 调整副词语序，`debbie_garage` 补出宾语指代。其余文件复核后无需改动；台账 method 升级为 `bilingual_scene_read`，`manual_review.json` 指纹与 `extracted_language_review.json` 修改日志同步刷新。
 - **久未改动文件复审（第八批）**：`jen27.rpy`（64对）、`jen25.rpy`（64对）、`jen04.rpy`（63对）、`roxxy.rpy`（46对）、`pizza_boxes.rpy`（45对）完成全文双语复审，共282对，均无需改动。
-
 - **久未改动文件复审（第七批）**：`deb01.rpy`（77对，修正1处 wonderful boy）、`deb02.rpy`（75对，修正1处 Better? 统一）、`deb17.rpy`（66对，修正2处 my boy 指代／held one 含蓄）完成全文双语复审。
-
 - **久未改动文件复审（第六批）**：`deb11.rpy`（88对，无需改动）、`deb10.rpy`（88对，修正2处 tried to warn／flicks their bean）、`ano14.rpy`（79对，修正1处 capiche 口癖）完成全文双语复审。
-
 - **久未改动文件复审（第五批）**：`school_pa.rpy`（102对，公告文案无需改动）、`jen_finger.rpy`（96对，无需改动）、`jen09.rpy`（89对，修正2处 Good boy／My pleasure）完成全文双语复审。
-
 - **久未改动文件复审（第四批）**：`deb12.rpy`（134对，修正2处 what women like／反问框架）与 `deb22.rpy`（123对，修正2处 *thing* 星号、Scouts honor 意译）完成全文双语复审。
-
 - **久未改动文件复审（第三批）**：`jen28.rpy`（161对，修正1处 chump change）、`deb20.rpy`（154对，修正4处 sensual／playing with himself／panties in a bunch）、`jen_sleep.rpy`（138对，通读后无需改动）完成全文双语复审。
-
 - **久未改动文件复审（第二批）**：`deb21.rpy`（305对，修正3处：Jenny 抱怨的落点、Debbie 反讽 Jenny 借口的语气、Anon 安慰用词“犯贱”过重）与 `jen07.rpy`（177对，修正2处：hard no 的拒绝强度、Jenny 回击句缺少的承接结构）完成全文双语复审。
-
 - **久未改动文件优先复审**：按用户要求改为优先处理超过3天未改动的文件。当前 chinese_scene_read 队列中 97 个文件超过30天未改动，1个超过7天；本轮完成 `deb24.rpy`（342对，修正5处：teenage 不暗示未成年、乳交句动词、两处省略回答的递进、Debbie 骂人句的三段衔接）与 `deb18.rpy`（178对，修正2处 my boy 的母子式措辞）。
 - **复审判定说明**：对久未改动文件仍坚持按场景与分支理解，不做字面统一替换；用户确认过的译法（如 Yumi 的“等、等一下！”）保留原译。
-
 - **双语复审第三批**：`tor05.rpy`（456对，修正19处：把“那东西曾经是我的”改为“那里面有我的”、you think 反问、括号与省略号格式、口吃符号、鸡叫拟声、基础液体术语统一）与 `ano03.rpy`（253对，修正4处：Dimitri 谚语断句、Yumi 打断句、漏译 my partner、Jenny 反讽）完成全文双语复审。
 - **露骨度校准**：按用户反馈，`feeling naughty` 不再译作“使坏”，改为性意味明确的“想浪一浪”；同批复核 `naughty` 在项目内的既有层级（艳照／刺激的／色情杂志／不安分的），确认按语境取词。（注：“想浪一浪”当轮即被用户否决，终稿见下一条“露骨度校准（终稿）”，现行为“想要”，全库已无“想浪一浪”写法。）
 - **露骨度校准（终稿）**：用户再次指出“想浪一浪”偏网络口语，`feeling naughty` 最终定为“想要”，并按中文连读把两处心里话补顺：deb_shower_6c6e3467 改为“希望她今天也想要”，deb_shower_peek4_dbdd5dfd 改为“看来某人已经想要了”，deb_island 的 `Feeling a little naughty?` 保留“是不是有点想要了？”。`naughty` 的语境取词（含 `naughty boy` 分调情用“小坏蛋”、训斥用“坏小子”）统一写进 `style_guide.md`，避免同一词反复摇摆；本轮只改译文载荷，`manual_review.json` 与 `extracted_language_review.json` 指纹同步刷新。
 - **用户确认保留**：`ano03.rpy` 中 Yumi 的 `E-excuse me?` 译“等、等一下！”符合她打断对方、要求对方停下的场景，已恢复原译，不再按“打扰一下”处理。
-
 - **双语复审继续**：`deb_shower.rpy`（527对，修正17处，含 my boy／naughty／got carried away 的语境处理）与 `ano13.rpy`（541对，修正6处，含否定句误译、Tina 与 Tony 的措辞回扣）完成全文双语复审，台账 method 升级为 bilingual_scene_read。
 - **规则回扣检查**：本轮同时核对 `capisce`、`prosciutto`／`gorgonzola` 等既有例外译法，确认保持意大利语原词加中文括注符合用户既有口径，未作机械汉化。
-
 - **术语漂移与双语复审**：完整术语审计发现23处不一致，其中8处为译文漂移（stalker 统一“跟踪狂”、lovey-dovey bullshit 统一“卿卿我我的屁话”、自动朗读界面用词），其余为规则自身过期（公主称谓语序、SL-700 无空格、Judith 感叹词、Four-Fingers 绰号口径），已同步规则与文档，审计归零。
 - **工具与流程补强**：术语审计新增 source_exceptions 支持已确认语境例外；新增 `.github/workflows/audit-translations.yml` 质量门禁，在 push/PR 上运行结构、句式、术语、间距、短信映射、输入代码与台账校验；新增 CHANGELOG.md、CONTRIBUTING.md、translation_context/release.md。
 - **双语复审起点**：`tl/zh_hans/src/plot/deb08.rpy` 381 对完成全文双语复审，修正4处措辞，台账 method 升级为 bilingual_scene_read。其余 247 个仅做过中文优先阅读的文件仍待逐文件升级。
-
-
 - **目录规范化与一次性清单归档**：- 新增 `index.md`，登记目录内每个文件的分工、机器记录与人工记录的边界、四个校验入口及清理规则。
   - 固定清单65条（原17条登记问题加53条日记待核，去重后65条）逐条按上下文复核：39条改写并复读，其余26条确认无需改动；lewd两条 `post-boobjob` 按“乳交之后”修正。
   - 一次性范围文件 `proofreading_remaining_65.json`、`remaining_review.json` 的结论并入 `extracted_language_review.json` 的 `proofreading_batches` 与 `closed_task_scopes` 后删除，未决问题转为 `resolved_findings`。
@@ -647,28 +576,42 @@
   - 内容级去重：跨文件重复的 Debbie 称呼段、lang.wait 说明、src/menu 批次说明及三段批次记录改为单一出处，其他文件保留指向链接，避免同一规则两处漂移。
   - 台账收敛：三个无翻译条目的语言入口／样式文件从 `pending` 改为 `non_translation_support_file`；`extracted_language_review.json` 为同一行的多次修订补记 `revision` 与 `is_latest`，无编号的扫描证据补 `id`，已收敛文件的 `*_partial` 状态改为 `closed_after_batch_65`。
 - **角色连续审读与反查**：基线HEAD为0af0b87，开始时工作区干净。本轮连续读取31个文件、2121对原译文本，覆盖主要人物的日常互动、角色初始任务，以及若干完整关系场景和结果分支；实际修改20个翻译文件、138处译文。详细文件清单见file_inventory.md。本轮不是重新宣称全库37947对文本全部逐句定稿，也不把31个文件等同于31个独立场景。
+
   主要修复：菜单与寒暄误译、施受关系、未完句提前补全、喘息误作笑声、开工误译吃饭、设备／工作对象不明、措辞削弱或额外解释，以及同角色近似分支的语气差异。反查前轮Debbie的Yeah, I bet，撤回重述上一整句的冗长回应。保留Tina用户认可的粗口、Tori科学风格、Judith食物叹词、Jenny付费女友边界及原有拒绝。
   修改后复核重点句组，并与逐文件修改前副本逐行比对：138处均只改译文载荷；原文注释、ID、源行号、动作、变量、标签、BOM及本地换行方式保持不变。827条句式回归通过；源注释34818条无差异，有效翻译块34841个位置与顺序无问题。其余最终验证结果接本节末尾。
   README未改，不构建zh_hans.rpa，不进行场景游玩验证，不提交或推送；review_2026-09-12.md保持删除。实际画面、字号、旁注位置与动态分支仍未做游戏内验证，源脚本开发占位继续单独看待。
   最终验证：全库323个文件结构检查通过；827条句式回归、混排间距及全库登记术语0偏差。7944隔离Lint无翻译错误，仅保留config.check_conflicting_properties引擎通用建议。git diff --check通过。
+
 - **全量人工路径审校目标启动**：目标保持为全部对白按实际场景与分支连续读完。新增manual_review.json作为持久台账，纳入323个文件、37947对原译；历史筛查、候选阅读和修改数量不自动折算成路径完成。当前重新对照7944原脚本完整读取+prologue、annie、ang的43条；序章线性路径完成，后两者局部路径已读，Model／Linens跨任务事件仍待交叉核对。全文目标未完成，继续按台账推进。
+
   台账逐条保存翻译ID、位置、原译摘要，逐文件记录译文及原脚本指纹、实际阅读路径和未完成事件；tools/audit_manual_coverage.py只验证当前译文是否匹配记录，不授予人工完成状态。任何后续译文变更使对应文件的已读记录失效，需重新复核。未改README、不构建RPA、不进行游玩验证。
+
 - **首日及取货路径继续审校**：本次在既有138处修改上新增4个文件21处译文修正，未覆盖或撤回已有改动。人工台账新增804条，累计847/37947条；新增阅读范围与未完成边界见file_inventory.md及manual_review.json。ano01本地文本已完整读至放学，尚未把外围任务调度标为完成；bar04、bar05仅登记实际读完的局部路径。全文目标继续保持未完成。
+
   规则归入style_guide和storylines，句式回归累计848条。台账检查补充逐项ID、行号、原译指纹、重复记录及原脚本指纹校验，工具只检查记录有效性，不授予人工覆盖。24个已修改翻译文件通过结构检查，848条定译回归0偏差，847条记录有效且无过期文件。
   README未改，不构建RPA，不进行游玩验证，不提交或推送；本次未重跑引擎Lint。
   补充验证：本批21处与修改前字节副本核对，仅译文载荷变化，前后结构及换行不变；混排间距、登记术语均0偏差，git diff --check通过。README无差异，review_2026-09-12.md不存在。
+
 - **美术比赛与获奖后连续审读**：本批新增569条记录，累计1416/37947条；本批修改5个翻译文件35处译文，句式回归累计883条。保留之前工作区改动，README未改，不构建RPA、不进行场景游玩验证、不提交或推送。
+
   主要修正：发言权限误作称呼、遗漏回家睡觉指令、物品和画作指代、工作安全感、数量与次数、分段强调，以及画布和调色提示。规则已归入style_guide与storylines，实际覆盖和待审边界记在manual_review.json。台账增加已读逻辑依赖指纹；依赖失效时校验不再计入有效记录。全文目标未完成。
   本批验证：27个已修改翻译文件结构检查通过；883条句式回归、混排间距与登记术语0偏差；1416条人工记录及其原脚本/登记依赖指纹有效。35处改动与各自修改前副本逐行核对，仅译文载荷变化，结构、ID、注释、BOM及换行保留；git diff --check通过。本批未重跑引擎Lint。
+
 - **美术前半段继续连读**：新增756条人工记录，累计2172/37947条；本批在既有改动基础上修改3个文件29处译文，句式回归累计912条。修正展示对象、重复安慰、物品指代、寒暄、未完句与Chad口头语。规则归入style_guide和storylines。
+
   bar02关键返回路径出现eve1真值后调用eve2的情况，已留待结合call框架核实；未删除、移动或跳过相应译文，不以猜测掩盖可能的原脚本重复。其余完整事件触发与bar04继续待审，全文目标未完成。README未改，不构建RPA、不进行游玩验证、不提交或推送。
   本批验证：29个已修改翻译文件结构检查、912条句式回归、间距和2172条台账记录均通过；29处新增改动与修改前字节副本核对，仅译文载荷变化，结构、注释、ID、BOM及换行保留；git diff --check通过。本批未重跑引擎Lint。
+
 - **画架与模特任务、中文优先审校**：bar04修正17处，重点包括Dexter两处错译、邀请口吻、指代、感谢回应和课堂衔接；全597条双语连读，另读mel01共享制作提示3条。按用户新要求改为先中文场景连读、发现疑点再回查原文，工具和台账已区分两种阅读方法。ano02中文连读121条，原文25–88行用于疑点核查，修改3处问答与称谓不一致。
+
   人工记录累计2886/37947条，全文任务仍未完成。932条句式回归、混排间距、人工台账及依赖校验通过；当前未提交译文的结构检查通过。未修改README，未构建RPA，未进行游玩验证。
+
 - **威胁、慰问与遇袭主线**：按中文优先方式连读ano03–06全部740条，累计3626条。回查疑点后修改5处：苹果谚语直译、桌游称呼、三屏讨债中的两句及父子嘲讽回扣。原文已有的回忆差异和无现金分支叙述不一致保留并登记。当前4个已修改RPY结构检查通过，937条句式回归、混排间距、3626条覆盖指纹检查通过。README未改，不构建RPA，不进行场景游玩。全文审校仍未完成。
 - **披萨店入职与换车**：完成ano07–09中文连读639条，新增11处修改：录用问答统一、pretty little head自然化及9处champ称呼。覆盖累计4265条。6个当前已修改RPY结构检查、948条句式回归、间距与覆盖指纹检查通过。README未改，无RPA构建和游玩验证；全项目人工审校尚未完成。
 - **厨房教学与持枪解围**：完成ano10–11共647条中文连读，累计4912条。确认ano10既有分段惊叹没有缺失、移位。复核术语表发现上一批ano09的9处champ改名破坏既有专属称呼规则，已全部撤回，恢复冠军，并修正style_guide和对应台账；上一批其余两处修改保留。当前6个修改RPY结构检查、948条句式回归、混排间距及4912条人工记录指纹校验通过。README未改，未构建RPA、未游玩；全文目标未完成。
+
   本批额外运行全库audit_recurring_terms，返回1：Tony的champ共172处、13文件均匹配既有规则；但其他旧规则仍报告候选（包括deb_mall的sweetie及Judith食物感叹词）。这些尚需结合场景复核，不能声称全库术语检查通过，也未机械替换现译。
+
 - **特殊订单与领养面谈后续**：完成ano12–13中文连读546条，修正2处普通对白的复述衔接与句式混用；累计5458条。7个当前修改RPY结构检查、950条句式回归、混排间距和覆盖指纹通过；此前全库术语候选仍待各场景复核，本批未重跑该扫描。README未改，不构建RPA、不进行游玩验证。
 - **等待调查与后续预约**：完成ano14–15中文连读835条，修正1处复述问句，使走私中转站前后对应。首次/重复与旁观选择分别登记，不以文本相似替代场景判断。累计6293条；8个当前修改RPY结构检查、951条句式回归、混排间距和覆盖指纹均通过。旧术语候选继续待相关场景复核。README未改，无RPA构建、游玩或提交；全文任务未完成。
 - **主线结尾与披萨店日常入口**：完成4个文件212条中文连读，本批未改对白。修复中文阅读工具误用old/new旧行号的问题，加入当前原文匹配检查；重读Tony相关菜单，确认不再把牛奶/车子显示在无关代码行，事件emit恢复正确显示。台账6505条及依赖指纹通过。本批没有新增译文变更，不重复运行已有句式检查；README未改，无RPA构建或游玩。全文与跨文件派发仍未完成。
@@ -695,7 +638,9 @@
 - **Tori成绩与实验任务**：完成377条连读，修正4处普通语义问题。23个当前修改RPY结构通过，1006条句式回归零不匹配，覆盖零过期、中英间距零不匹配。README未改，无构建、游玩或提交；全量审校未完成。
 - **Konty连读**：完成36条、八组随机对白。无RPY修改，覆盖校验12364条、零过期、无漏列文件。README未改，无构建、游玩或提交；全量审校未完成。
 - **Tori镜片任务**：tor02中文优先审校新增471条，累计12835/37947条，修正15处。全量审校尚未完成；README未改，无构建和游玩验证。
+
   校验：24个变更RPY结构通过，中英空格零异常，覆盖记录零过期。共享菜单Not really的认可记录同步为当前无句末标点的“倒也没有”，保留现有菜单文本。
+
 - **Tori腰带任务**：tor03新增266条本地中文连读，修正13处；累计13101/37947条。全量审校仍未完成。
 - **腰带故障后续**：tor04新增104条中文连读，修正8处；累计13205/37947条。全量审校仍未完成。
 - **Tori血清任务**：tor05新增456条中文连读，修正14处；累计13661/37947条。全量审校仍未完成。
@@ -703,7 +648,9 @@
 - **商店与借阅入口**：商店与借阅共用流程新增44条，3处修改；累计13943/37947条，全量审校仍未完成。
 - **商店角色接待**：三家商店接待新增56条，2处修改；累计13999/37947条，全量审校未完成。
 - **Melody长笛任务**：mel01净增311条；修正15处措辞与1处说话人，累计14310/37947条，全量审校未完成。
+
   验证补充：结构比较唯一差异为mel01源285说话人由anon纠正为melody，已与7944原脚本核对；排除此单项后的结构与HEAD一致。常规结构检查对此项仍报差异，不记作全绿。
+
 - **演出招募与卡拉OK**：mel02新增473条，9处修改；累计14783/37947条，全量审校未完成。
 - **礼堂破坏事件**：mel03新增148条，5处修改；累计14931/37947条，全量审校未完成。
 - **礼堂清理与庆祝**：mel04新增181条，5处修改；累计15112/37947条，全量审校未完成。
@@ -801,7 +748,9 @@
 - **任务提示第十五段审校**：任务提示第十五段修正3条，累计35669/37952条，整体未完成。
 - **任务提示第十六段审校**：任务提示第十六段修正4条，累计35688/37952条，整体未完成。
 - **日期覆盖位置复核**：五条日期文本完整未变，仅整体上移两行，已按原指纹确认并更新覆盖行号；文件其余627条仍未覆盖，不因刷新文件校验值而计入。
+
   补充：本次文件变化包含未审条目Miss Dewitt删除及Miss DeWitt译名调整，留待专审；全库现37951条，当前文件剩余626条未审。
+
 - **任务提示第十七段审校**：任务提示第十七段修正4条，累计35707/37951条，整体未完成。
 - **任务提示第十八段审校**：任务提示第十八段修正4条，累计35722/37951条，整体未完成。
 - **任务提示第十九段审校**：任务提示第十九段修正5条，累计35737/37951条，整体未完成。
@@ -810,7 +759,9 @@
 - **任务提示第二十二段审校**：任务提示第二十二段修正3条，累计35774/37951条，整体未完成。
 - **菜单功能批量审校**：将src/menu下12个翻译文件作为一批连读中文，集中核对设置、模式、存档、图鉴和制作人员的原文及界面用途。修正操作说明直译，统一存档备注措辞；补齐7944版图鉴引导的两条新原文，保留旧版翻译兼容。月份和June不作全局替换。此批仍需共享字符串与动态标签复核，不据此宣称全项目完成。后续按功能成批处理、成批验证，停止逐文件零碎汇报。
 - **功能批次审校与登记**：菜单12文件与小游戏交互21文件作为功能批次完成本地中文连读及界面语境复核，逐条记录覆盖；本轮22条修改。相机缓存满、ATM利率、限时提示、调酒/吸乳触屏与键盘提示、受孕轮盘统一措辞。外部逻辑和动态字段仍待复核。
+
   菜单批次追加复核：寿司店菜单返回值接入deb26点菜分支；sushi分支键保持不变，其余译后菜名用于点菜和数量回读。修正“Why don’t you pick something?”为让对方点菜的建议，并自然化服务员回应。lewd新增及兼容条目已按源注释行号归位。
+
 - **共享界面批次**：共享界面及引擎文本两文件416条已按功能连读，修正77条；人工覆盖累计36350/37953。引擎疑点对照7944原始rpyc的只读解编副本，不启动游戏。兼容字符串运行使用情况仍待确认。
 - **地点与场景名称批次**：地点功能批次完成185条本地阅读，修正21条；清理重复空注释并按当前源顺序归位，所有旧原文键保留。地图/场景专名与普通词语差异仍需在后续动态引用中检查。
 - **角色资料批次**：角色资料44条完成本地连读及原文复核，修正3条，人工覆盖累计36579/37953。动态资料页与别名调用仍需收尾检查。
@@ -838,6 +789,7 @@
 - **调色结果与重试对白复核**：闭合mini/paint.rpy的外部调用依赖并取消该文件external_event_followup；bar05只关闭调色结果这一检查点，其他待办继续保留。本批无译文修改，覆盖总数不增加。
 - **简单难度与任务反馈合组**：合组核实烹饪/送餐/园艺的简单难度跳过契约与送餐结果对白；pizza_boxes结果及结工资对白重读。无译文修改，新增结构化检查点；正常小游戏结果产生及工资结算代码仍保留待核，不关闭这些整文件的外部标记。
 - **已完成的规则修复（剧情未全面精修）**：| 文件 | 修复内容 | 后续要求 |
+
   |---|---|---|
   | `tl/zh_hans/base_box/sets.rpy` | “托尼披萨店”恢复为 `Tony披萨店` | 后续结合资源调用统一地点名称 |
   | `tl/zh_hans/bytecode_strings.rpy` | 四处手机任务提示将字面 `Anon` 按玩家视角改为“你”；玩家可见标签统一为 `{dom=强势}`、`{sub=顺从}`；恢复 `Sluttygram` 英文专名，并补译 Debbie 的洗衣篮手机留言；其他姓名/变量保持原状 | 后续完整复核资源字符串 |
@@ -848,9 +800,8 @@
   | `tl/zh_hans/src/plot/tor05.rpy` | 定向统一7处血清材料`horny toad`／`horny toad extract`为“发情蟾蜍”／“发情蟾蜍提取物”，补修`boys' locker room`为“男生更衣室”、`Consum-R`英文店名及相关中文省略号 | 后续仍须按文件名顺序完整通读全文件，本次仅完成与`misc_toad.rpy`直接相关的连续性修复 |
 
 ### 2026-09-12
+
 - **非露骨前后对白句式统一**：本轮统一任务提醒、真人模特邀约、纹身草图说明、住院寻人提示、育儿替代分支、关闭场所提示和辅助朗读名称，新增 122 处修改，涉及 23 个文件；上一轮修订保留。
-
-
 - **剩余语义问题修复（当前源码）**：- 修正2个翻译文件共27处：8处剧情阶段提示、14处住宅客厅提示、3处直播表达及2处日记歧义。原文、变量、格式标签与脚本结构不变。
   - 术语和语境边界归入terminology.md、english_residuals.md、recurring_terms.md；句式基准扩展到141条。
   - 全仓323个翻译文件校验、141条句式回归、登记术语及中英文间距检查通过。未进行场景游玩验证；静态检查不代表所有对白均已逐句精修。
@@ -873,14 +824,18 @@
 - **Debbie 的 mister 语境修正**：复查 Debbie 的8处 mister：7处指 Anon，其中5处“先生”按语境改为“你这小子”“小坏蛋”或直接表达警告、拒绝；已合适的电视提醒与庭院“小坏蛋”保留。电话中对威胁者的1处不改。同步更新术语、角色档案和审计规则。
 - **非地名英文残留**：修复10条目标字符串：2条气泡编辑器操作、1句完整日记、1处lite、1处mesmerizing、1处LARPer、3处物品名及1条网页评论。非英语与混合语言句本轮不改；保留理由和开发占位问题见 `english_residuals.md`。新增4条术语审计规则，按用户说明恢复12个月份全称为英文，撤掉June校验例外；防止共享字符串翻译影响角色姓名。
 - **地名与中英文间距专项**：再次排查：Consum-R→购乐百货（19处）、Hillside Mall→山畔商场、Rusty Angus→锈牛酒吧、Glazies→糖霜甜甜圈店；另修正灯室、房车营地、育幼院、小客厅、竞技场的 UI 译名，合计27处。同步更正 Consum-R 保留英文的旧规则，并增加5条场所名称审计规则。
+
   后续按用户确认，将 Ara Ara 的 UI、菜单、任务和对话共10处统一为“啊啦啊啦”，同时将欢迎词调整为“欢迎光临……”，保留店名兼招呼语的日式韵味。
   对照两份 sets.rpy，核对 18 个地点专名；统一 Cosmic Cumics→宇宙漫画、Cupid→丘比特、Saga Financial→传说金融、Ara Ara→啊啦啊啦、Sugar Tats→甜蜜纹身、CineSaga→传说影院。按用户意见与场所设定同步修订 UI：Pink→粉色诱惑、Retro Strike→复古全中。Raven Hill 的 11 处完整名称已为渡鸦山，无旧译残留。
   全仓清理 32 个文件中 111 条译文的中英文间空格，保留英文词组内部空格及程序标记。同步更新 terminology.md、style_guide.md、recurring_terms.md 与 recurring_terms.json，增加 16 条地名规则及只读间距审计工具 tools/audit_mixed_spacing.py，并清除旧文档（含 storylines.md）中要求店名保留英文的冲突规则。本次完成源码修复与静态验证，未构建 RPA、未进行游戏内验收。
   更新时间：2026-08-06
+
 - **重复句式与相似分支收敛**：按用户调整后的范围执行分组复查，不要求全仓逐句重译。新增122处修改，涉及23个文件；113条已确认句式纳入回归基准。候选分组规模、语境例外和源文对应待查项见 `recurring_terms.md`，工具与规则见 `style_guide.md`。上一轮123处修改继续保留。
+
   发包对比基线为 `v21.0.0-wip.7944` 的实际 `zh_hans.rpa` 附件（2026-09-02更新），不能直接用指向旧目录的标签代替。附件 SHA-256：`b7c7976c1f74d205f2794512e34adf991919a33d96ba1755a1f46a2d839924bf`。本轮开始 HEAD 为 `09a055c`；开始时相对附件有335条差异，分布于75个文件。
   未运行游戏内场景验证、Ren’Py compile/lint，未构建或发布新RPA。日记抽取字符串的整页拼接仍需运行时验证；`tin_baby_*` 开发占位继续按 `english_residuals.md` 登记待查。
   本轮验证：全仓323个翻译文件结构检查通过，累计45个修改文件相对HEAD结构检查通过；113条句式基准、全部登记术语、中英文间距均为0 mismatch；`git diff --check`通过。新工具已验证重复分组、高相似检索、译文偏离／原文缺失检测和只读行为。
+
 - **ano10上下文遗漏修正**：此前清理孤立块时未检查替代块的extend衔接，导致有效39869a88保留“哦。”，与后续“的。天哪。”不连贯。本次将其修正为“我。”，保留7944有效ID和动作参数。对171个已删除块按原文文本在对应7944剧情文件检索，并筛查命中附近的extend，候选均落在此处同一连续表达；该筛查不等于所有分支已完整人工审校。清理要求已补入style_guide.md，具体句链归入recurring_terms.md。
 - **翻译块顺序及源码行号归位**：从7944引擎读取有效ID的源码路径与行号，对47个文件进行完整块归位或注释修正，共补齐／修正5265条位置注释。按ID比对确认对白和动作参数未被改写；所有34841个有效中文对白块的源码位置与顺序核对通过。ano10的39869a88归回原文299行，deb_lobby的66773ff1归回101行。Python翻译块不参与对白排序，字符串表保留原状。README不改，不构建RPA，不进行场景游玩验证。
 - **非露骨前后对白第一批（未完成全角色全场景审校）**：- 实际修改9个文件、67处译文：deb_lobby、deb_mall、deb_visit、jen_gfe、jud_stall、mar_door、mel_office、tin_dusk、viv_office。只改译文，保留原文注释、行号、ID、动作参数与源码顺序。
@@ -889,32 +844,43 @@
   - 9个变更文件结构校验、204条句式回归、混排间距及变更范围术语检查通过。未构建RPA、未改README、未进行场景游玩验证。
   - 未完成范围：其他初次／重复关系场景，以及本批大型文件中未覆盖的非露骨前后对白，仍需按实际分支逐场景检查。320条启发式候选仅用于定位，不能当作全部场景覆盖率；本记录不宣称完成“所有主角与其他角色”的全面润色。
 - **全角色、全场景非露骨前后对白专项收尾**：在上一批67处修改之后继续完成本轮系统复核，基线HEAD为357713f。本轮实际新增243处译文修改，涉及44个剧情文件；上一批已提交的修改继续保留，不重复计入。覆盖与人工阅读口径见file_inventory.md；没有把关键词候选数量当作全部场景覆盖率，也不宣称全部对白逐句精修。
+
   主要完成：角色口吻与重复分支统一，初次／再次／忙碌拒绝及孕育后续核对，主客体和单复数纠错，预约星期、收尾指代及短句否定极性修正；修复deb13的9处`[when[1]！l]`格式转换损坏。仅修改RPY译文载荷，保留源注释、ID、源行号、动作、顺序、BOM与换行方式。补强变量转换审计，已有规则分别归入characters、storylines、style_guide、recurring_terms及english_residuals，句式回归增至433条。
   验证：全库323个翻译文件通过结构检查；433条句式回归、全库登记术语、中英文混排间距均0偏差；34818条可核实原文注释0差异；34841个有效对白块位置和顺序0问题；嵌套变量转换回归4项通过。7944隔离环境Lint未报告翻译错误，保留引擎建议开启config.check_conflicting_properties的通用提示。
   未改README，未构建或发布zh_hans.rpa，未进行场景游玩验证，未提交或推送。review_2026-09-12.md保持删除。实际游戏中的视觉呈现、日记动态拼接，以及当前版本源脚本的开发占位仍不在本次静态验证的保证范围内。
+
 - **分段对白连贯性专项**：本轮基线HEAD为8a141d7，开始时工作区干净。新增62处译文修改，涉及22个剧情文件。修复分段语序、重复原因句架、分支共用关联词、回应中的too、关系从句误译、工具与时间指代，并保留原文的口吃、打断和有意重启。没有增删或移动翻译块；源注释、位置、ID、动作、变量、标签、BOM及换行均保留。
+
   覆盖口径：以7944引擎初始化后的节点关系建立静态路径，映射34827个源剧情对白节点，提取35089对相邻对白。人工连读1592对核心分段候选和1531对补充停顿／跨说话人候选，共3123对；其中包含全部26处extend衔接（21处有文本或计时内容，5处为空），并对疑点回查完整英中句组及源分支。亲吻、沉默等中间节点也参与上下文判断。候选对存在共享句和重叠，不代表3123个独立场景，也不等于所有34827条对白逐句重译。
   静态路径保守枚举if／menu及可解析call／return、jump，不执行条件求值。konty和school_pa两处动态跳转的8个／23个目标label已作为独立入口纳入遍历，但没有验证运行时随机值、seed或自定义语句的所有行为。没有进行场景游玩，不能把本次结果称为全部实际分支的游戏内验证；无分段标记的其他隐含衔接仍可能需要后续语境复核。
   规则分别归入style_guide.md、recurring_terms.md、storylines.md；句式回归增至494条，并支持按翻译ID限定语境。补齐校验器对nvl clear后7条教程文本的识别，新增6项测试，覆盖清屏后配对、控制流隔离、同源句ID限定、缺失／错误ID及旧规则兼容。
   验证完成：全库323个翻译文件通过结构检查；62处修改与逐文件备份逐行核对，仅译文载荷改变；494条句式基准、混排间距和登记术语0偏差；34818条源注释0差异；34841个有效块的位置及顺序0问题。6项工具测试通过。最终7944隔离Lint未报告翻译错误，仅保留config.check_conflicting_properties的引擎通用建议。
   README未改，不构建zh_hans.rpa，不进行场景游玩验证，不提交或推送。review_2026-09-12.md保持删除。
+
 - **既有露骨对白忠实性、语义及衔接复核**：本轮基线HEAD为a23b5b2，开始时工作区干净。在已完成的连贯性专项之上，新增51处译文修改，涉及16个剧情文件；上一轮已提交的修正不重复计入本轮数量，未扩写场景。主要修复施受关系、动作含义与阶段、分段位置重复、缺失的姿势／地点／持续状态、力度擅自增强和喘息误作笑声。
+
   阅读口径：逐条查看1122条核心关键词英中候选（含非性含义，需排除），另从655条动作／姿势补充候选中筛查相关项，并补查came／coming、swallow等词形。候选用于发现问题，不等于1122个独立场景。疑点回查源注释、说话人、动作和连续句组；修改后再沿7944节点关系连读前后。未声称所有对白已逐句重译，也没有用关键词数量作为全场景覆盖率。
   规则归入style_guide、characters、storylines、recurring_terms及english_residuals；句式回归累计545条。保留源文的停止／拒绝、疼痛、内外射及条件区别，不把短句或部位词全局强化。
   验证：323个翻译文件通过结构检查；51处变更与修改前副本逐行核对，仅译文载荷变化，原注释、ID、行号、动作、变量、格式、BOM和换行保留；545条定译回归、混排间距和登记术语0偏差；34818条源注释0差异；34841个有效翻译块位置与顺序0问题。7944隔离环境Lint未报告翻译错误，仅保留config.check_conflicting_properties的引擎通用建议；git diff --check通过。
   遵照用户限制，README未改，不构建zh_hans.rpa，不进行场景游玩验证，不提交或推送；review_2026-09-12.md继续保持删除。静态检查不替代实际画面和动态分支验证。
   用户反馈修正：上一轮对Tina的pound处理削弱了原有口吻，已恢复tin_dusk_lounge_2f51d8bc及tin_vault_vault_merge1_ad6e7bb6原译，并更新两条回归及风格规则。上一轮51处修改中这2处撤回，当前保留49处译文修改；不撤回已核实的语义纠错。
+
 - **全面筛查后复核**：基线HEAD为01e285f，开始时工作区干净。本轮净修正100处译文、16个翻译文件，主要补上此前漏检的Jenny日记多片段语序、词义和指代问题；同时复核重复句与前轮改动，纠正把身体反应写成动心、把当下体验泛化为关系表白等偏移，保留用户认可的粗口力度。覆盖口径见file_inventory.md，规则归入style_guide、storylines、recurring_terms，句式回归累计638条。
+
   与修改前副本逐行核对，100处均仅改译文载荷，未增删或移动翻译块；源注释、ID、源行号、动作、变量、标签、BOM及本地换行保留。工作过程中出现jen24、jen26各一处外部修改，保留，未计入上述100处。
   验证：323个文件结构检查、638条句式回归、登记术语和混排间距检查通过；34818条源注释无差异，34841个有效翻译块位置与顺序无问题。7944隔离Lint未报告翻译错误，仅保留config.check_conflicting_properties通用建议。
   README未改，review_2026-09-12.md保持删除；不构建RPA，不进行场景游玩验证，不提交或推送。日记已静态整页连读，但实际字体布局、旁注位置和动态选页未作游戏内验证；源文已有开发占位及异常格式没有以改译文掩盖。静态校验与疑点复核通过，不等于所有文本已无可改进。
+
 - **称谓、叙事分类及含混对白复核**：本轮修改7个翻译文件、15处译文：10处Jenny姓名后置公主称谓（含斜体）、2处Narrative孕期分类、1组直播收入与介意事项的问答、1处拉长粗口误译。全库扫描同类称谓、Narrative及短粗口候选，保留语义正确的“去你的”等表达。规则归入style_guide、terminology、storylines，句式回归累计653条。保留翻译块、原文注释、源码行号、动作、变量及标签；README不改，不构建RPA，不进行场景游玩验证。
 - **继续润色自然度**：本轮修正3个文件19处译文：Jenny日记16处、ano13领养问答2处、viv03诗歌回应1处。按已有7944日记页序连读，筛查口头填充词、指代、评价对象和英语句架残留；保留标签、旁注、变量、原文注释、ID、源行号与动作。规则归入style_guide和storylines，句式回归累计672条。此次是明确候选的语境润色，不代表全部对白逐句精修；README不改，不构建RPA，不进行场景游玩验证。
 - **口头语、指代与语气继续优化**：本轮修改9个剧情文件、18处译文；复核短回应的肯定、勉强接受及不以为然差别，明确问人、调频、真假吉他等对象，调整日常劳动及住院问候的书面句架。保留语境合适的既有译法，没有全局统一所有If you say so。规则归入style_guide、storylines，回归累计690条；不改README，不构建RPA，不进行场景游玩验证。
 - **背包与 PC 愿望单物品名一致（第一百零一批）**：`res/meta/prop.rpy` 的物品名来自 `prop.rpym` 的 `prop.*.name`，PC 直播愿望单写在 `src/mini/pc.rpy`，两处英文源键不同，Ren'Py 字符串表按整串精确匹配，不会自动对齐。逐项比对 10 组同名道具（Fuck-Hammer／Drilldo、Glow in the dark Butt plug、Dual sybian、UltraVibrator 2000、The Doom Dong、Sex Doll "Dirty Harold"、DarthMoan、BAD MONSTER、Electro Clit、The Orcette）后确认同名，并修 2 处游戏内仍显示英文的漏译：PC `/confirmation` 页 `Congratulations!` 补“恭喜！”，愿望单 `else` 分支 `- Electro Clit\n` 补“- 电击阴蒂棒\n”。
+
   `UltraVibe 2000` 按用户 7944 定稿由“保持英文型号”改为中文“超感振动2000”，同步 `step.rpy` 任务 todo／hint 2 处与 `jen10.rpy` 对白 6 处（Ivy 复数口吻作“超感振动棒”）；`prop.rpy` 一侧随用户手改定为“超感振动2000”，PC 侧由“超振棒2000”跟进。品牌随用户手改对齐：`deb13.rpy` 的 `Is this the Saga Car Dealership?` 由“SAGA汽车经销商”改为“请问是传说车行吗？”，与“传说金融／传说影院”及 `step.rpy`“车行”一致。用户同期手动回退 mel02／bar04 的英文游戏名改动，成品保留“兽人世界／兽娘地下城”，规则按现状登记为两种允许写法，不再新增第三种译名。
   机器规则新增 `item_ultravibe_2000`、`item_doom_dong`、`item_drilldo_fuck_hammer`、`item_darth_moan`、`item_dirty_harold_doll`、`item_dual_sybian`、`item_flesh_tube`、`item_whip_penance`、`item_crusader_strapon`、`game_world_of_orcette`、`game_orcettes_dungeon`，`recurring_terms.json` 累计 150 条；句式基准同步用户手改的“传说车行的制服背心”。
   验证：`validate_translations.py --changed` 通过；`audit_manual_coverage.py` 台账刷新为 37958/37958、0 陈旧；`audit_sentence_consistency.py --check-approved` 2027 条 0 偏差；`audit_recurring_terms.py --fail-on-mismatch` 0 偏差；`audit_mixed_spacing.py` 0 偏差；`test_translation_audits.py` 6 项通过；`git diff --check` 通过。README 未改，不构建 zh_hans.rpa，不进行场景游玩验证。
+
 - **移除翻译侧运行时输入/文本补丁（第一百零二批）**：按用户决定删除三个已无必要的文件——`tl/zh_hans/input_code_aliases.rpy`（`BAD MONSTER`→`BADMONSTER` 设备别名）、`tl/zh_hans/hint_translations.rpy`（两台电脑提示与电脑桌面 `app.name` 的运行时覆盖）、`tools/check_input_code_aliases.py`（两者隔离测试）。密码与可输入代码自此完全按本体原键校验：Jenny电脑 `badmonster`／`BADMONSTER`，Anon电脑 `cookies`／`COOKIES`，电视订阅码 `L6bv12R` 与密码 `12345` 原样；不再提供中文别名或空格兼容。
+
   `translation_context/input_codes.md` 重写为“英文原键校验＋old/new 登记显示文本”，`style_guide.md` 的游戏内输入代码一节同步去掉别名要求；`manual_review.json` 删除两个支持文件台账条目（现 331 文件、37958 对、0 陈旧），`extracted_language_review.json` 新增 `runtime_input_support_removed` 结项记录。电脑应用名仍以 `extracted/anon_pc_jenny_laptop.rpy` 的 `old`/`new`（`Homework→家庭作业`、`Photos→照片`、`Recycle Bin→回收站` 等）为准。
   待确认：`src/mini/pc.rpy` 的 `pc_explorer` 直接用 `text app.name` 渲染桌面图标，不经 `__()`；数据模块的 `_()` 在 init 阶段求值，若游戏内桌面图标回到英文，需要把 `set_default_language_at_startup.rpy` 的语言设置提前到数据模块导入之前，而不是恢复覆盖脚本。日记括注 `坏怪物（Bad Monster）` 只指认英文名，实际输入必须是 `badmonster`／`BADMONSTER`（带空格的 `BAD MONSTER` 不再被接受）。

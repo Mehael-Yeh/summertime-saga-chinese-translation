@@ -19,6 +19,7 @@
 | `english_residuals.md` | 记录 | 英文残留与非英语例外判定 | 出现新例外时更新 |
 | `input_codes.md` | 规范 | 游戏内可输入代码与翻译兼容 | 新增密码类文本时更新 |
 | `release.md` | 规范 | 版本兼容矩阵、发版检查清单、上游更新流程 | 版本或发布流程变化时更新 |
+| `mod_review_history.json` | 历史记录（机器） | 已移出翻译审计的Mod审校历史 | 不作为当前翻译覆盖，Mod验证另行记录 |
 | `manual_review.json` | 记录（机器） | 每文件人工审校台账：逐条指纹、当前覆盖状态与未结项，不写批次历史 | 由审校脚本读写，勿手工改行号 |
 | `extracted_language_review.json` | 记录（机器） | 提取文本的修改日志、阅读批次、收敛项 | 改动后同步指纹与结论 |
 | `sentence_patterns.json` | 记录（机器） | 已确认句式基准，用于一致性回归 | 改动句式后同步目标串 |
@@ -63,9 +64,18 @@ python tools/audit_manual_coverage.py
 
 除 `progress.md` 的“进度摘要”和“批次记录（按日期）”外，本目录文档不按日期分章。规范类文件（`style_guide.md`、`terminology.md`、`characters.md`、`recurring_terms.md`、`english_residuals.md`、`input_codes.md`）按主题组织；剧情与文件类文件（`storylines.md`、`file_inventory.md`）按线路或批次范围归组，把历次按日期堆积的记录并入对应主题。需要追溯某一批改了什么，查 `progress.md` 的批次记录和 `extracted_language_review.json` 的 `proofreading_batches`；需要查当前结论，查对应规范文件。
 
+## 排版规范
+
+- Markdown标题、正文段落、表格、列表和代码块之间统一隔一行；禁止连续空行。
+- 同一列表的相邻条目不插空行，表头、分隔行及数据行连续排列；角色档案遵循相同规则。列表中的独立说明段按段落处理，不合并内容。
+- 保留代码块内部排版、列表缩进、表格列和源文引用；不因排版改写剧情结论。
+- 文件使用UTF-8无BOM、LF换行并以一个换行结束；JSON沿用两空格缩进，保持字段、数组次序及指纹含义。
+- 遗留疑问的当前版本结论集中见[progress.md](progress.md#遗留疑问的8194复查)，历史批次保留原日期与证据边界，已收敛的术语状态回写对应主题。
+
 ## 清理规则
 
 一次性任务的范围清单、待办队列和中间产物不长期存放在本目录：结论并入 `progress.md`、`extracted_language_review.json` 或对应规范文件后即删除，避免与本目录的长期记录重复。判断某文件是否可删，先确认没有工具或文档引用它。
 
 ## 变更记录
+
 - 2026-09-13：登记目录全部文件；一次性清单文件（`proofreading_remaining_65.json`、`remaining_review.json`）结论并入 `extracted_language_review.json` 后删除；统一各文件头部用途说明；跨文件重复段落改为单一出处；`manual_review.json` 的无条目文件由 `pending` 收敛为 `non_translation_support_file`；同一行多次修订补记 `revision`／`is_latest`。
