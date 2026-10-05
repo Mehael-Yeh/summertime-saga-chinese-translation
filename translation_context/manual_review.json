@@ -3145,11 +3145,16 @@
       "note": "无翻译条目：该文件仅包含语言入口或样式框架，不产生可核对的对白文本。"
     },
     "tl/zh_hans/hook_add_change_language_entrance.rpy": {
-      "sha256": "609132ee8adff0bbad0380c052ac1ca7b60d2be9f283e2b0d3db87daf802658b",
+      "sha256": "622ce56a7e0a18bdfeecf6b2b8eaad3f295b84acf101c2f5909d3405a8d380ef",
       "pairs": 0,
       "status": "non_translation_support_file",
       "review": null,
-      "note": "无翻译条目：该文件仅包含语言入口或样式框架，不产生可核对的对白文本。"
+      "note": "无翻译条目：该文件仅包含语言入口或样式框架，不产生可核对的对白文本。",
+      "settings_validation": {
+        "date": "2026-10-05",
+        "scope": "4条设置悬浮说明在官方8194引擎下默认/中文/默认切换的12次查询；语言区图标截图与OpenURL目标地址检查。",
+        "full_playthrough": false
+      }
     },
     "tl/zh_hans/res/meta/cast.rpy": {
       "sha256": "e4a82380e5fefd4dee75251ad8e0501515dda537eba9ef6e33b952047232da23",
@@ -9572,7 +9577,7 @@
           },
           {
             "path": "tl/zh_hans/extracted/gui_wip_lewd_catalogue.rpy",
-            "sha256": "e4153d01cc10a7e56aa5ace201f346bd988cebb95e11615ee99ea895d639f88a"
+            "sha256": "2cd96a5bc5a1bb614a1b35e0e9db8cf534f2a20c19e7fda87b32191cf99d67ec"
           }
         ],
         "method": "bilingual_scene_read"
@@ -213220,12 +213225,12 @@
       }
     },
     "tl/zh_hans/extracted/gui_wip_lewd_catalogue.rpy": {
-      "sha256": "e4153d01cc10a7e56aa5ace201f346bd988cebb95e11615ee99ea895d639f88a",
+      "sha256": "2cd96a5bc5a1bb614a1b35e0e9db8cf534f2a20c19e7fda87b32191cf99d67ec",
       "pairs": 11,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "e4153d01cc10a7e56aa5ace201f346bd988cebb95e11615ee99ea895d639f88a",
+        "translation_sha256": "2cd96a5bc5a1bb614a1b35e0e9db8cf534f2a20c19e7fda87b32191cf99d67ec",
         "source_sha256": "b004eae3a985ebc64593c357d9588ae97fe5658253b4abf396414b644a1cf3b5",
         "source": "game/lib/saga/init/gui.py",
         "source_local": ".codex_tmp/current7944/lib/saga/init/gui.pyc",
@@ -213278,12 +213283,12 @@
           {
             "id": "strings",
             "line": 34,
-            "pair_sha256": "1f10cd0b815db1bf22100c635cf721944d6dd7985fd04bc1141b23b95f9e643d"
+            "pair_sha256": "c3571c56d331c569f0d95a9aa86d94369a954f08838fd1e6da8bbf9ad67dec49"
           },
           {
             "id": "strings",
             "line": 38,
-            "pair_sha256": "dc2378511cc6bb5d542245c70618ac6fb77bf081b8f99f8f5d8686479ab06948"
+            "pair_sha256": "657104fd6628214c9d6776f04af9654d475f7f8e1a06ecf013f4d1f137f341fd"
           },
           {
             "id": "strings",
@@ -213380,6 +213385,11 @@
           "legacy_note_line_numbers": "Historical free-text notes retain original aggregate line numbers."
         },
         "ordering": "source_module_then_first_occurrence; diary uses event registration and page/row order"
+      },
+      "settings_validation": {
+        "date": "2026-10-05",
+        "scope": "4条设置悬浮说明在官方8194引擎下默认/中文/默认切换的12次查询；语言区图标截图与OpenURL目标地址检查。",
+        "full_playthrough": false
       }
     },
     "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy": {
@@ -214572,6 +214582,16 @@
         "changed_pairs": 4,
         "scope": "corrected_pairs_only",
         "runtime_playthrough": false
+      }
+    },
+    "tl/zh_hans/settings_translation_support.rpy": {
+      "status": "translated_ui_support",
+      "pairs": 1,
+      "sha256": "275ea0c6d3786afd85a30b4587507c39706cb90358b839d5fcda1e4ad2c038b2",
+      "settings_validation": {
+        "date": "2026-10-05",
+        "scope": "4条设置悬浮说明在官方8194引擎下默认/中文/默认切换的12次查询；语言区图标截图与OpenURL目标地址检查。",
+        "full_playthrough": false
       }
     }
   },

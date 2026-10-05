@@ -13371,6 +13371,26 @@
       "date": "2026-10-05",
       "reason": "按8194源码确认的对话/交互菜单选项：删除句末句号，保留内部逗号、特殊标点及价格变量",
       "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/gui_wip_lewd_catalogue.rpy",
+      "source": "{i}[saga.cast.diane]'s story will return in future updates.{/i}",
+      "before": "{i}[saga.cast.diane]的故事将在未来的更新中回归。{/i}",
+      "target": "{i}[saga.cast.diane]的故事将在后续更新中回归。{/i}",
+      "line": 34,
+      "date": "2026-10-05",
+      "reason": "同类未来更新提示统一句式，保留斜体标签与角色变量",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/gui_wip_lewd_catalogue.rpy",
+      "source": "{i}[saga.cast.josie]'s story will return in future updates.{/i}",
+      "before": "{i}[saga.cast.josie]的故事将在未来的更新中回归。{/i}",
+      "target": "{i}[saga.cast.josie]的故事将在后续更新中回归。{/i}",
+      "line": 38,
+      "date": "2026-10-05",
+      "reason": "同类未来更新提示统一句式，保留斜体标签与角色变量",
+      "is_latest": true
     }
   ],
   "reading_batches": [

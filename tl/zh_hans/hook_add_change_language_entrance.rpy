@@ -66,4 +66,15 @@ screen my_preferences():
                 $ cnt = 0
                 for i in l:
                     if i is not None and i != 'None':
-                        textbutton "%s" % i action Language(i)
+                        hbox:
+                            spacing 8
+                            textbutton "%s" % i action Language(i)
+                            if i == 'zh_hans':
+                                imagebutton:
+                                    idle Transform("tl/zh_hans/assets/github.png", xysize=(36, 36))
+                                    hover Transform("tl/zh_hans/assets/github.png", xysize=(36, 36), alpha=.7)
+                                    xysize (36, 36)
+                                    yalign .5
+                                    action OpenURL("https://github.com/Mehael-Yeh/summertime-saga-chinese-translation")
+                                    tooltip _("Open the Chinese translation project on GitHub")
+                                    alt _("Open the Chinese translation project on GitHub")

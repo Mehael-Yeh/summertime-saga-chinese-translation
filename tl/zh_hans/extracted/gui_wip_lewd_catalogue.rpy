@@ -31,11 +31,11 @@ translate zh_hans strings:
 
     # game/lib/saga/init/wip.py
     old "{i}[saga.cast.diane]'s story will return in future updates.{/i}"
-    new "{i}[saga.cast.diane]的故事将在未来的更新中回归。{/i}"
+    new "{i}[saga.cast.diane]的故事将在后续更新中回归。{/i}"
 
     # game/lib/saga/init/wip.py
     old "{i}[saga.cast.josie]'s story will return in future updates.{/i}"
-    new "{i}[saga.cast.josie]的故事将在未来的更新中回归。{/i}"
+    new "{i}[saga.cast.josie]的故事将在后续更新中回归。{/i}"
 
     # game/lib/saga/lewd.py
     old "missing arguments: {must - kwargs.keys()}"
