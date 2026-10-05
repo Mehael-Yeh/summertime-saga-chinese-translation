@@ -903,34 +903,46 @@ translate zh_hans strings:
     old "Shower"
     new "淋浴"
 
-    # game/saga/init/lewd.py (8194)
-    old "Have sex with [saga.cast.josie] in the afternoon."
-    new "下午和[saga.cast.josie]做爱。"
+    # game/saga/init/lewd.py:1954 (8194)
+    old "Progress through [saga.cast.josie]'s story."
+    new "推进[saga.cast.josie]的剧情。"
 
-    # game/saga/init/lewd.py (8194)
-    old "Have sex with [saga.cast.josie] in the break room again."
-    new "再次在休息室和[saga.cast.josie]做爱。"
+    # game/saga/init/lewd.py:2025 (8194)
+    old "Morning (first-time)."
+    new "早上（首次）"
 
-    # game/saga/init/lewd.py (8194)
-    old "Have sex with [saga.cast.josie] in the break room."
-    new "在休息室和[saga.cast.josie]做爱。"
-
-    # game/saga/init/lewd.py (8194)
-    old "Have sex with [saga.cast.josie] in the evening again."
-    new "再次在晚上和[saga.cast.josie]做爱。"
-
-    # game/saga/init/lewd.py (8194)
-    old "Have sex with [saga.cast.josie] in the evening."
-    new "晚上和[saga.cast.josie]做爱。"
-
-    # game/saga/init/lewd.py (8194)
-    old "Have sex with [saga.cast.josie] in the morning again."
-    new "再次在早上和[saga.cast.josie]做爱。"
-
-    # game/saga/init/lewd.py (8194)
+    # game/saga/init/lewd.py:2026 (8194)
     old "Have sex with [saga.cast.josie] in the morning."
     new "早上和[saga.cast.josie]做爱。"
 
-    # game/saga/init/lewd.py (8194)
-    old "Progress through [saga.cast.josie]'s story."
-    new "推进[saga.cast.josie]的剧情。"
+    # game/saga/init/lewd.py:2033 (8194)
+    old "Morning."
+    new "早上"
+
+    # game/saga/init/lewd.py:2034 (8194)
+    old "Have sex with [saga.cast.josie] in the morning again."
+    new "再次在早上和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py:2039 (8194)
+    old "Afternoon."
+    new "下午"
+
+    # game/saga/init/lewd.py:2040 (8194)
+    old "Have sex with [saga.cast.josie] in the afternoon."
+    new "下午和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py:2048 (8194)
+    old "Have sex with [saga.cast.josie] in the break room."
+    new "在休息室和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py:2059 (8194)
+    old "Have sex with [saga.cast.josie] in the break room again."
+    new "再次在休息室和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py:2065 (8194)
+    old "Have sex with [saga.cast.josie] in the evening."
+    new "晚上和[saga.cast.josie]做爱。"
+
+    # game/saga/init/lewd.py:2076 (8194)
+    old "Have sex with [saga.cast.josie] in the evening again."
+    new "再次在晚上和[saga.cast.josie]做爱。"

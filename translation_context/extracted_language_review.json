@@ -20576,5 +20576,40 @@
       }
     ],
     "remaining_status": "见progress.md的遗留疑问的8194复查；保留7944历史指纹及原证据范围"
+  },
+  "lewd_buttons_8194": {
+    "date": "2026-10-05",
+    "game_version": "21.0.0-wip.8194",
+    "file": "tl/zh_hans/extracted/lewd.rpy",
+    "reason": "新增Josie解锁hint已提取，但三个desc按钮标题漏建old/new；本体lewd_menu_opt已有!it翻译查询。",
+    "added_pairs": [
+      {
+        "source": "Morning (first-time).",
+        "target": "早上（首次）"
+      },
+      {
+        "source": "Morning.",
+        "target": "早上"
+      },
+      {
+        "source": "Afternoon.",
+        "target": "下午"
+      }
+    ],
+    "source": "game/saga/init/lewd.pyc",
+    "source_lines": [
+      2025,
+      2033,
+      2039
+    ],
+    "source_sha256": "1426f731c95eb64217e1899cdefde8cf45401d0cfb71e3b55f6f4ec6616317e0",
+    "validation": {
+      "language_queries": 9,
+      "registered_replay_texts_checked": 226,
+      "unmapped_english": 0,
+      "screen": "原生lewd_menu_choice/opt，以替代Action呈现实际三个原文；未走完整角色图鉴导航或重播剧情",
+      "screenshot": ".codex_tmp/engine8194-official/lewd_buttons_chinese.png"
+    },
+    "historical_review_items_added": 0
   }
 }

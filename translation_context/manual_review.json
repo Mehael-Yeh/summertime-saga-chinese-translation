@@ -9565,7 +9565,7 @@
           },
           {
             "path": "tl/zh_hans/extracted/lewd.rpy",
-            "sha256": "e560ad2d44bd429ba3c4b8bc2c2fa07c5f078329b58e7d01f867d728e2b58056"
+            "sha256": "d63e8c62bc526b492d6c133b5cd84e5cbfb482a0ab0384cfb111ecb609ccb9fb"
           },
           {
             "path": "tl/zh_hans/extracted/mesg.rpy",
@@ -211998,12 +211998,12 @@
       }
     },
     "tl/zh_hans/extracted/lewd.rpy": {
-      "sha256": "e560ad2d44bd429ba3c4b8bc2c2fa07c5f078329b58e7d01f867d728e2b58056",
-      "pairs": 233,
+      "sha256": "d63e8c62bc526b492d6c133b5cd84e5cbfb482a0ab0384cfb111ecb609ccb9fb",
+      "pairs": 236,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "e560ad2d44bd429ba3c4b8bc2c2fa07c5f078329b58e7d01f867d728e2b58056",
+        "translation_sha256": "d63e8c62bc526b492d6c133b5cd84e5cbfb482a0ab0384cfb111ecb609ccb9fb",
         "source_sha256": "485400d575ab91b0ddd61cbf517d38e1e707362c2ba9b3ba9913cdaeb5bd7c37",
         "source": "game/lib/saga/init/lewd.py",
         "source_local": ".codex_tmp/current7944/lib/saga/init/lewd.pyc",
