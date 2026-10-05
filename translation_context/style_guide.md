@@ -311,3 +311,7 @@ jenny_diary.rpy 共 294 条，按页段顺序连同正文、旁注、跨行残�
 - 剧情线与分支事实：[storylines.md](storylines.md)
 - 文件与覆盖清单：[file_inventory.md](file_inventory.md)
 - 批次进度摘要：[progress.md](progress.md)
+
+## 联系人动态身份标签与版本更新
+
+联系人卡片的`who.type`是游戏内部分类键，必须保留以供图片、样式及逻辑使用；仅翻译显示值。8194由`contact_categories8194.rpy`覆盖`tel_cast`显示语句，使用`{#ssct_contact_type}`上下文隔离共享键，按当前语言查询，未知类别保留原文。未来更新必须对照本体`src/gui/tel.rpy`的`tel_cast`完整结构及类别清单，合并新增动作、布局、参数和类别，再复测中文/英文切换与卡片显示；不得仅复制旧版覆盖脚本。

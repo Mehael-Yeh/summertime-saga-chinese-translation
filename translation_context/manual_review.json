@@ -214593,6 +214593,18 @@
         "scope": "4条设置悬浮说明在官方8194引擎下默认/中文/默认切换的12次查询；语言区图标截图与OpenURL目标地址检查。",
         "full_playthrough": false
       }
+    },
+    "tl/zh_hans/contact_categories8194.rpy": {
+      "status": "translated_ui_support",
+      "pairs": 6,
+      "sha256": "6fc9c911b8f4ecc9c3866ba30114566691d1b7ce1e41f1c2eeb0c985e05c54a4",
+      "contact_category_validation": {
+        "date": "2026-10-05",
+        "game_version": "21.0.0-wip.8194",
+        "scope": "6类标签默认/中文/默认共18次官方引擎检查；联系人卡片组件中英截图；未知分类回退、内部类别值不变、Home共享键不受影响。",
+        "upstream_screen_sha256": "a82c8bbbd93a48bef4e8fa918346735943fc923ab2f14592972192f6edecda85",
+        "full_playthrough": false
+      }
     }
   },
   "review_methods": {

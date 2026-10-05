@@ -13401,6 +13401,60 @@
       "date": "2026-10-05",
       "reason": "按用户联系人截图修正Bridget姓氏；姓名保留原文及ü重音字符，替代历史音译定稿",
       "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/contact_categories8194.rpy",
+      "source": "Home{#ssct_contact_type}",
+      "before": "Home",
+      "target": "家人{#ssct_contact_type}",
+      "date": "2026-10-05",
+      "reason": "联系人动态身份标签；使用上下文键避免影响其他Home等共享文本，保留内部类别和姓名",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/contact_categories8194.rpy",
+      "source": "Student{#ssct_contact_type}",
+      "before": "Student",
+      "target": "学生{#ssct_contact_type}",
+      "date": "2026-10-05",
+      "reason": "联系人动态身份标签；使用上下文键避免影响其他Home等共享文本，保留内部类别和姓名",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/contact_categories8194.rpy",
+      "source": "Teacher{#ssct_contact_type}",
+      "before": "Teacher",
+      "target": "教师{#ssct_contact_type}",
+      "date": "2026-10-05",
+      "reason": "联系人动态身份标签；使用上下文键避免影响其他Home等共享文本，保留内部类别和姓名",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/contact_categories8194.rpy",
+      "source": "Town{#ssct_contact_type}",
+      "before": "Town",
+      "target": "镇民{#ssct_contact_type}",
+      "date": "2026-10-05",
+      "reason": "联系人动态身份标签；使用上下文键避免影响其他Home等共享文本，保留内部类别和姓名",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/contact_categories8194.rpy",
+      "source": "Monster{#ssct_contact_type}",
+      "before": "Monster",
+      "target": "怪物{#ssct_contact_type}",
+      "date": "2026-10-05",
+      "reason": "联系人动态身份标签；使用上下文键避免影响其他Home等共享文本，保留内部类别和姓名",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/contact_categories8194.rpy",
+      "source": "Villain{#ssct_contact_type}",
+      "before": "Villain",
+      "target": "反派{#ssct_contact_type}",
+      "date": "2026-10-05",
+      "reason": "联系人动态身份标签；使用上下文键避免影响其他Home等共享文本，保留内部类别和姓名",
+      "is_latest": true
     }
   ],
   "reading_batches": [
