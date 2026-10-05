@@ -1,0 +1,4 @@
+# Keep context formatting stable across Windows and CI checkouts.
+AGENTS.md text eol=lf
+translation_context/*.md text eol=lf
+translation_context/*.json text eol=lf

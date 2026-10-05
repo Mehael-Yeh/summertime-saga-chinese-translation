@@ -29,6 +29,12 @@ jobs:
       - name: Validate translation structure
         run: python tools/validate_translations.py --no-compare
 
+      - name: Check translation context format
+        run: python tools/check_translation_context.py
+
+      - name: Test context formatter safeguards
+        run: python tools/test_translation_context.py
+
       - name: Check sentence baseline
         run: python tools/audit_sentence_consistency.py --check-approved translation_context/sentence_patterns.json
 
