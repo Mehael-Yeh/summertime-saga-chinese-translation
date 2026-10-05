@@ -802,7 +802,7 @@ translate zh_hans strings:
 
     # game/src/plot/jos_trade.rpy:47
     old "On a budget."
-    new "预算得省着点。"
+    new "预算得省着点"
 
     # game/src/plot/jos_trade.rpy:50
     old "Gotta have four wheels."
@@ -814,7 +814,7 @@ translate zh_hans strings:
 
     # game/src/plot/jos_trade.rpy:56
     old "Actually, I'm good."
-    new "其实，还是算了。"
+    new "其实，还是算了"
 
     # game/src/plot/jos_trade.rpy:139
     old "Yes. [[{usd=$[opts[saga.prop.key_compact] - cost:,]}]"

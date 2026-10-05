@@ -151535,12 +151535,12 @@
       }
     },
     "tl/zh_hans/src/plot/jos_trade.rpy": {
-      "sha256": "5f91871bfbbd7c58392bb08ef5390bd2f4aa8257b30a81e540d245f9f9797d87",
+      "sha256": "f168f9c119cc49b21f0a9754f70dcb3138af415adbb7651a609f31b2929b8b4c",
       "pairs": 142,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "5f91871bfbbd7c58392bb08ef5390bd2f4aa8257b30a81e540d245f9f9797d87",
+        "translation_sha256": "f168f9c119cc49b21f0a9754f70dcb3138af415adbb7651a609f31b2929b8b4c",
         "source_sha256": "479b94e23945c45cf2d55c8d605e77787f5061a2501a2cbefe85e22deaa58583",
         "source": "game/src/plot/jos_trade.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jos_trade.rpy",
@@ -152145,7 +152145,7 @@
           {
             "id": "strings",
             "line": 805,
-            "pair_sha256": "c4a1868a4f6478ad5fc62a85137451ee2f7792940a9a3809535bba839dbfc108"
+            "pair_sha256": "a41f2e331868b77a0618b423ed8db4e830ca87a2a1c23fe532c74f66f2f2ffaa"
           },
           {
             "id": "strings",
@@ -152160,7 +152160,7 @@
           {
             "id": "strings",
             "line": 817,
-            "pair_sha256": "3306aeba75fed52a7d14bf6081d29058f526706d3785a45dd37e94e59c292f4c"
+            "pair_sha256": "5bf2c261b721e11cea6897fca9db3547101991198e678be097ec8ac255198e2a"
           },
           {
             "id": "strings",

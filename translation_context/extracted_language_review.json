@@ -13101,6 +13101,26 @@
       "date": "2026-10-04",
       "reason": "8194新增原文补译",
       "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "source": "On a budget.",
+      "before": "预算得省着点。",
+      "target": "预算得省着点",
+      "line": 805,
+      "date": "2026-10-05",
+      "reason": "用户截图指定：对话选项删句末句号，内部逗号保留",
+      "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "source": "Actually, I'm good.",
+      "before": "其实，还是算了。",
+      "target": "其实，还是算了",
+      "line": 817,
+      "date": "2026-10-05",
+      "reason": "用户截图指定：对话选项删句末句号，内部逗号保留",
+      "is_latest": true
     }
   ],
   "reading_batches": [
@@ -15989,7 +16009,7 @@
       "resolution": "按当前译文与上下文复核：已改写或确认无需改动，逐条前后对照见changes与proofreading_batches。"
     }
   ],
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "changes_note": "同一文件同一行出现多条记录表示该行经过多次修订，revision为先后顺序，is_latest标记当前生效版本。",
   "version_migration_8194": {
     "game_version": "21.0.0-wip.8194",
