@@ -13391,6 +13391,16 @@
       "date": "2026-10-05",
       "reason": "同类未来更新提示统一句式，保留斜体标签与角色变量",
       "is_latest": true
+    },
+    {
+      "file": "tl/zh_hans/extracted/game_seed.rpy",
+      "source": "Krüger",
+      "before": "克鲁格",
+      "target": "Krüger",
+      "line": 14,
+      "date": "2026-10-05",
+      "reason": "按用户联系人截图修正Bridget姓氏；姓名保留原文及ü重音字符，替代历史音译定稿",
+      "is_latest": true
     }
   ],
   "reading_batches": [

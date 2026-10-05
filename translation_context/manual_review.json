@@ -9549,7 +9549,7 @@
           },
           {
             "path": "tl/zh_hans/extracted/game_seed.rpy",
-            "sha256": "e31b17cb9f93cb1599b0d093478950e4813587ec62926731e7a101548aafe1b1"
+            "sha256": "1fa87c8839373da2786e0d96bdf88dfc85af4af01338ec3ab5282d4517f0c7a2"
           },
           {
             "path": "tl/zh_hans/extracted/anon_pc_jenny_laptop.rpy",
@@ -213923,12 +213923,12 @@
       }
     },
     "tl/zh_hans/extracted/game_seed.rpy": {
-      "sha256": "e31b17cb9f93cb1599b0d093478950e4813587ec62926731e7a101548aafe1b1",
+      "sha256": "1fa87c8839373da2786e0d96bdf88dfc85af4af01338ec3ab5282d4517f0c7a2",
       "pairs": 4,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "e31b17cb9f93cb1599b0d093478950e4813587ec62926731e7a101548aafe1b1",
+        "translation_sha256": "1fa87c8839373da2786e0d96bdf88dfc85af4af01338ec3ab5282d4517f0c7a2",
         "source_sha256": "7265923f79aed01d6fb995a8817b854847819cbede06617f32b2d1661f72fe91",
         "source": "game/lib/saga/game.py",
         "source_local": ".codex_tmp/current7944/lib/saga/game.pyc",
@@ -213956,7 +213956,7 @@
           {
             "id": "strings",
             "line": 14,
-            "pair_sha256": "1ef4913fe96da44c1603bf307665ad6b4110546f85040ddc27218ee2004cbc4b"
+            "pair_sha256": "ee0d97a7fd1302fc5eb56e8a16e999e98b6ca5c5c5f7aa3c7817d7e4c15d19ee"
           },
           {
             "id": "strings",
