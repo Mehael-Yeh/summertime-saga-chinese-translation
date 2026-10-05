@@ -59,5 +59,10 @@ jobs:
       - name: Test optional Cookie Jar toggle behavior
         run: python tools/test_cookie_jar_toggle.py
 
+      - name: Test optional controls guide layout guards
+        run: |
+          python tools/validate_translations.py --scope mods/controls_guide --no-compare
+          python tools/test_controls_guide.py
+
       - name: Check whitespace errors
         run: git diff --check

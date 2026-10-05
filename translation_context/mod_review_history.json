@@ -86,6 +86,32 @@
         ]
       },
       "limits": "隔离副本执行切换函数并渲染原生角色列表；未用真实鼠标点击、逐个播放图鉴场景或验收所有设备布局。原历史审校项不覆盖本轮代码，不纳入tl/zh_hans翻译审计。"
+    },
+    {
+      "id": "controls_guide_8194",
+      "date": "2026-10-06",
+      "file": "mods/controls_guide/controls_guide.rpy",
+      "sha256": "7ec9cab8a45443217e991bd0cbe67408ef09825523a8f349fff8b71e473ab8cb",
+      "game_version": "21.0.0-wip.8194",
+      "behavior": "原生设置新增控制页；14项通用操作、5项小游戏操作与说明；英文默认、中文专用上下文翻译；不改变按键绑定。",
+      "checks": {
+        "language_sequence": [
+          null,
+          "zh_hans",
+          null
+        ],
+        "native_tab_action": true,
+        "scroll_to_bottom": true,
+        "return_to_native_display": true,
+        "layout_guard_tests": 3,
+        "screenshots": [
+          ".codex_tmp/engine8194-official/controls_en.png",
+          ".codex_tmp/engine8194-official/controls_zh.png",
+          ".codex_tmp/engine8194-official/controls_bottom_en.png",
+          ".codex_tmp/engine8194-official/controls_bottom_zh.png"
+        ]
+      },
+      "limits": "隔离PC版执行真实标签Action和滚动调整，并复核截图；未物理鼠标点击、逐键实测或验收触屏布局；独立Mod，不纳入tl/zh_hans翻译台账。"
     }
   ]
 }
