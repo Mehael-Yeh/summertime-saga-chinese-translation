@@ -700,7 +700,7 @@ translate zh_hans deb_mall_debbie_merge2_f9082336:
 translate zh_hans deb_mall_debbie_merge2_6d9df828:
 
     # anon a_fistpump f_happy "YES!"
-    anon a_fistpump f_happy "要！"
+    anon a_fistpump f_happy "太好了！"
 
 # game/src/plot/deb_mall.rpy:348
 translate zh_hans deb_mall_debbie_merge2_05dee5c6:
