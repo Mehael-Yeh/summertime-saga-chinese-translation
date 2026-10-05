@@ -887,3 +887,8 @@
 
   `translation_context/input_codes.md` 重写为“英文原键校验＋old/new 登记显示文本”，`style_guide.md` 的游戏内输入代码一节同步去掉别名要求；`manual_review.json` 删除两个支持文件台账条目（现 331 文件、37958 对、0 陈旧），`extracted_language_review.json` 新增 `runtime_input_support_removed` 结项记录。电脑应用名仍以 `extracted/anon_pc_jenny_laptop.rpy` 的 `old`/`new`（`Homework→家庭作业`、`Photos→照片`、`Recycle Bin→回收站` 等）为准。
   待确认：`src/mini/pc.rpy` 的 `pc_explorer` 直接用 `text app.name` 渲染桌面图标，不经 `__()`；数据模块的 `_()` 在 init 阶段求值，若游戏内桌面图标回到英文，需要把 `set_default_language_at_startup.rpy` 的语言设置提前到数据模块导入之前，而不是恢复覆盖脚本。日记括注 `坏怪物（Bad Monster）` 只指认英文名，实际输入必须是 `badmonster`／`BADMONSTER`（带空格的 `BAD MONSTER` 不再被接受）。
+
+## 2026-10-06：汉化字体符号缺字修复
+
+- 存档删除✘（U+2718）与跳过动画▸（U+25B8）是中文字体缺字，非图片资源丢失。采用FontGroup为缺字指定引擎内置DejaVuSans；同类补充☑及MiSans缺少的♪，已有字符保留原字体。
+- 隔离8194引擎完成英文→中文→英文→中文的原版删除/跳过样式字体查询；组件截图确认删除符号、三枚跳过箭头、复选标记、音符及中文正常。未进行真实存档删除或完整存档界面交互验收，未构建汉化包。

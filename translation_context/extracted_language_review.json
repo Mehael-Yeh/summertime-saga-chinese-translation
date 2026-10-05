@@ -20611,5 +20611,29 @@
       "screenshot": ".codex_tmp/engine8194-official/lewd_buttons_chinese.png"
     },
     "historical_review_items_added": 0
+  },
+  "font_symbols_8194": {
+    "date": "2026-10-06",
+    "game_version": "21.0.0-wip.8194",
+    "source": "tl/zh_hans/base_box/style_box.rpy",
+    "sha256": "af663a3ebfdb3592bd890d8d4a5fc911dc62e8deb4f43a9d341851b99bbe43b7",
+    "cause": "中文字体缺少U+2718删除符号及U+25B8跳过箭头，原版字符并非图片丢失。",
+    "fix": "FontGroup只对缺失符号指定引擎内置DejaVuSans；覆盖▸、☑、✘，MiSans另补♪；中文及已有字符继续用原字体。",
+    "validation": {
+      "font_cmap": "已核对全部5种仓库字体与引擎DejaVuSans的原版符号覆盖；同时保留已有中文标点和音符字形。",
+      "languages": [
+        null,
+        "zh_hans",
+        null,
+        "zh_hans"
+      ],
+      "native_style_queries": "slot_each_delete_text与skip_text在中文模式均解析到符号备用字体；英文模式恢复DejaVuSans。",
+      "visual": "隔离8194引擎渲染原版skip_indicator组件及slot_each_delete_text样式，✘、三枚▸、☑、♪和中文均正常。",
+      "scope": "组件截图与字体查询；未进行真实存档删除或完整存档界面交互验收。",
+      "artifacts": [
+        ".codex_tmp/engine8194-official/font_runtime_validation.json",
+        ".codex_tmp/engine8194-official/font_native_ui.png"
+      ]
+    }
   }
 }
