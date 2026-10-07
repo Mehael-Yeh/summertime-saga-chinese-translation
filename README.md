@@ -76,6 +76,7 @@ SummertimeSaga/
 | 动画调速 | 动画播放界面调整播放速度 | [安装与使用](mods/sex_speed_control/README.md) |
 | 角色图鉴解锁 | 图鉴右上角锁按钮；点击解锁，再次点击恢复正常剧情解锁状态 | [安装、取消解锁与兼容性](mods/cookie_jar_unlock/README.md) |
 | 控制说明 | 设置→控制；滚动表格列出14项通用按键、5项小游戏操作及限制说明，支持英文／中文切换 | [安装、使用与卸载](mods/controls_guide/README.md) |
+| 怀孕概率 | 设置→游戏选项，在难度和显示受孕结果之间切换0x／0.5x／1x／2x／∞x；悬停时固定在最右箭头右侧显示说明，0x可能阻断部分任务 | [安装、倍率与任务影响](mods/pregnancy_chance/README.md) |
 | 完美存档（构造） | 读取页五角星按当前版本生成并覆盖快速存档第6格；生成档停在第1天、主角房间，补齐联系人、剧情地点、背包及图鉴；全部可携带物品入包并保留原场景展示，收集／加篮撤下唯一物品，原生结账免费且不重复入包 | [安装、状态构造与兼容性](mods/perfect_save/README.md) |
 
 
@@ -101,6 +102,9 @@ SummertimeSaga/
 │   ├── controls_guide/
 │   │   ├── controls_guide.rpy
 │   │   └── README.md         # 控制说明 Mod 安装及使用说明
+│   ├── pregnancy_chance/
+│   │   ├── pregnancy_chance.rpy
+│   │   └── README.md         # 怀孕倍率、任务影响及安装说明
 │   └── perfect_save/
 │       ├── perfect_save.rpy
 │       ├── completion_state.rpy

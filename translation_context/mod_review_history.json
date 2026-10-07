@@ -43565,5 +43565,2279 @@
     "unit_suite_passed": true,
     "context_and_translation_audits_passed": true,
     "native_fixture_sha256": "5324190a6556a9af1729a31125a6b207d0edc0ee757b2983d7454a6644a7ce99"
+  },
+  "pregnancy_chance_mod_20261007": {
+    "date": "2026-10-07",
+    "source": "mods/pregnancy_chance/pregnancy_chance.rpy",
+    "sha256": "e2fdb8bbcde9359c410117dbb0edb48663fbdd05914ac244eb4cc3486d5e319f",
+    "translation_pairs": 11,
+    "status": "native_probability_and_preferences_verified",
+    "settings": "Gameplay; between Difficulty and Reveal pregnancy",
+    "modes": [
+      0,
+      1,
+      2,
+      "always"
+    ],
+    "zero_mode_quest_exemption": false,
+    "native_reviews": [
+      {
+        "version": "21.0.0-wip.7722",
+        "passed": true,
+        "report": ".codex_tmp/perfect-standalone7722/pregnancy_probe_report.json",
+        "report_sha256": "bb41e76cdad14b9e6b6fda86f44601f8ec94e52dc9bc2306a56700e2534fae0e",
+        "probe_sha256": "f372b18a0b3dc5997927ce560ce800ca045d0742dfe194815eb956c110caca12",
+        "roll_cases": [
+          {
+            "risk": 0.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 1,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 2,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 1,
+            "actual": 0.2
+          },
+          {
+            "risk": 0.2,
+            "mode": 2,
+            "actual": 0.4
+          },
+          {
+            "risk": 0.2,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 1,
+            "actual": 0.8
+          },
+          {
+            "risk": 0.8,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 1,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": "always",
+            "actual": 1.0
+          }
+        ],
+        "ui": [
+          {
+            "phase": 1,
+            "language": null,
+            "mode": 1,
+            "label": "1x - Original chance",
+            "tooltip": "Factory settings! Your swimmers play by the original rules. Pregnancy chances are unchanged."
+          },
+          {
+            "phase": 2,
+            "language": null,
+            "mode": 2,
+            "label": "2x - Double chance",
+            "tooltip": "Your swimmers are working overtime! Double the original pregnancy chance, capped at 100%."
+          },
+          {
+            "phase": 3,
+            "language": null,
+            "mode": "always",
+            "label": "∞x - Guaranteed pregnancy",
+            "tooltip": "Bullseye! Every eligible conception attempt succeeds. Existing pregnancies and native eligibility rules still apply."
+          },
+          {
+            "phase": 4,
+            "language": null,
+            "mode": 0,
+            "label": "0x - No pregnancy",
+            "tooltip": "Oh! My swimmers can't get anyone pregnant. Someone's going to be disappointed!\n\n(This option may block progress in some quests. Switch to another multiplier to continue.)"
+          },
+          {
+            "phase": 5,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 6,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 7,
+            "language": "zh_hans",
+            "mode": "always",
+            "label": "∞x - 必定怀孕",
+            "tooltip": "一发入魂！只要原版允许受孕，每次尝试都会成功；已经怀孕或不满足条件时依然不会再次怀孕。"
+          },
+          {
+            "phase": 8,
+            "language": "zh_hans",
+            "mode": 2,
+            "label": "2x - 双倍怀孕概率",
+            "tooltip": "精子们开始加班了！怀孕概率变为原版的两倍，最高为100%。"
+          },
+          {
+            "phase": 9,
+            "language": "zh_hans",
+            "mode": 1,
+            "label": "1x - 原始怀孕概率",
+            "tooltip": "原厂出品！精子们按原版规则办事，怀孕概率保持不变。"
+          },
+          {
+            "phase": 10,
+            "language": "zh_hans",
+            "mode": 1,
+            "label": "1x - 原始怀孕概率",
+            "tooltip": "原厂出品！精子们按原版规则办事，怀孕概率保持不变。"
+          }
+        ],
+        "already_pregnant_guard": true,
+        "child_type_distribution_preserved": true,
+        "native_wheel_begin": true,
+        "screenshots": [
+          {
+            "file": ".codex_tmp/perfect-standalone7722/pregnancy_probe_zh_0.png",
+            "sha256": "760701a7236de0b5681d99a5951a31602db9c3928ae4c4baf99ca61fc077b1d1",
+            "visually_reviewed": true
+          },
+          {
+            "file": ".codex_tmp/perfect-standalone7722/pregnancy_probe_zh_1.png",
+            "sha256": "f5e8b74b41d960520c8e697c1e68c1384533774500e48a7d5108ad4fc157ec12",
+            "visually_reviewed": true
+          }
+        ]
+      },
+      {
+        "version": "21.0.0-wip.7944",
+        "passed": true,
+        "report": ".codex_tmp/perfect-standalone7944/pregnancy_probe_report.json",
+        "report_sha256": "490a62d2aaf6245ff1c50f34d78add1a6a65e674cacc52cf463a5c65837e6677",
+        "probe_sha256": "f372b18a0b3dc5997927ce560ce800ca045d0742dfe194815eb956c110caca12",
+        "roll_cases": [
+          {
+            "risk": 0.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 1,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 2,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 1,
+            "actual": 0.2
+          },
+          {
+            "risk": 0.2,
+            "mode": 2,
+            "actual": 0.4
+          },
+          {
+            "risk": 0.2,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 1,
+            "actual": 0.8
+          },
+          {
+            "risk": 0.8,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 1,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": "always",
+            "actual": 1.0
+          }
+        ],
+        "ui": [
+          {
+            "phase": 1,
+            "language": null,
+            "mode": 1,
+            "label": "1x - Original chance",
+            "tooltip": "Factory settings! Your swimmers play by the original rules. Pregnancy chances are unchanged."
+          },
+          {
+            "phase": 2,
+            "language": null,
+            "mode": 2,
+            "label": "2x - Double chance",
+            "tooltip": "Your swimmers are working overtime! Double the original pregnancy chance, capped at 100%."
+          },
+          {
+            "phase": 3,
+            "language": null,
+            "mode": "always",
+            "label": "∞x - Guaranteed pregnancy",
+            "tooltip": "Bullseye! Every eligible conception attempt succeeds. Existing pregnancies and native eligibility rules still apply."
+          },
+          {
+            "phase": 4,
+            "language": null,
+            "mode": 0,
+            "label": "0x - No pregnancy",
+            "tooltip": "Oh! My swimmers can't get anyone pregnant. Someone's going to be disappointed!\n\n(This option may block progress in some quests. Switch to another multiplier to continue.)"
+          },
+          {
+            "phase": 5,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 6,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 7,
+            "language": "zh_hans",
+            "mode": "always",
+            "label": "∞x - 必定怀孕",
+            "tooltip": "一发入魂！只要原版允许受孕，每次尝试都会成功；已经怀孕或不满足条件时依然不会再次怀孕。"
+          },
+          {
+            "phase": 8,
+            "language": "zh_hans",
+            "mode": 2,
+            "label": "2x - 双倍怀孕概率",
+            "tooltip": "精子们开始加班了！怀孕概率变为原版的两倍，最高为100%。"
+          },
+          {
+            "phase": 9,
+            "language": "zh_hans",
+            "mode": 1,
+            "label": "1x - 原始怀孕概率",
+            "tooltip": "原厂出品！精子们按原版规则办事，怀孕概率保持不变。"
+          },
+          {
+            "phase": 10,
+            "language": "zh_hans",
+            "mode": 1,
+            "label": "1x - 原始怀孕概率",
+            "tooltip": "原厂出品！精子们按原版规则办事，怀孕概率保持不变。"
+          }
+        ],
+        "already_pregnant_guard": true,
+        "child_type_distribution_preserved": true,
+        "native_wheel_begin": true,
+        "screenshots": [
+          {
+            "file": ".codex_tmp/perfect-standalone7944/pregnancy_probe_zh_0.png",
+            "sha256": "760701a7236de0b5681d99a5951a31602db9c3928ae4c4baf99ca61fc077b1d1",
+            "visually_reviewed": true
+          },
+          {
+            "file": ".codex_tmp/perfect-standalone7944/pregnancy_probe_zh_1.png",
+            "sha256": "f5e8b74b41d960520c8e697c1e68c1384533774500e48a7d5108ad4fc157ec12",
+            "visually_reviewed": true
+          }
+        ]
+      },
+      {
+        "version": "21.0.0-wip.8194",
+        "passed": true,
+        "report": ".codex_tmp/perfect-standalone8194/pregnancy_probe_report.json",
+        "report_sha256": "043d2b9f9b7e96bd84f167e51228ad8a9e8cc37facd5a2b48bd0f7f17cf80ee2",
+        "probe_sha256": "f372b18a0b3dc5997927ce560ce800ca045d0742dfe194815eb956c110caca12",
+        "roll_cases": [
+          {
+            "risk": 0.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 1,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 2,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 1,
+            "actual": 0.2
+          },
+          {
+            "risk": 0.2,
+            "mode": 2,
+            "actual": 0.4
+          },
+          {
+            "risk": 0.2,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 1,
+            "actual": 0.8
+          },
+          {
+            "risk": 0.8,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 1,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": "always",
+            "actual": 1.0
+          }
+        ],
+        "ui": [
+          {
+            "phase": 1,
+            "language": null,
+            "mode": 1,
+            "label": "1x - Original chance",
+            "tooltip": "Factory settings! Your swimmers play by the original rules. Pregnancy chances are unchanged."
+          },
+          {
+            "phase": 2,
+            "language": null,
+            "mode": 2,
+            "label": "2x - Double chance",
+            "tooltip": "Your swimmers are working overtime! Double the original pregnancy chance, capped at 100%."
+          },
+          {
+            "phase": 3,
+            "language": null,
+            "mode": "always",
+            "label": "∞x - Guaranteed pregnancy",
+            "tooltip": "Bullseye! Every eligible conception attempt succeeds. Existing pregnancies and native eligibility rules still apply."
+          },
+          {
+            "phase": 4,
+            "language": null,
+            "mode": 0,
+            "label": "0x - No pregnancy",
+            "tooltip": "Oh! My swimmers can't get anyone pregnant. Someone's going to be disappointed!\n\n(This option may block progress in some quests. Switch to another multiplier to continue.)"
+          },
+          {
+            "phase": 5,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 6,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 7,
+            "language": "zh_hans",
+            "mode": "always",
+            "label": "∞x - 必定怀孕",
+            "tooltip": "一发入魂！只要原版允许受孕，每次尝试都会成功；已经怀孕或不满足条件时依然不会再次怀孕。"
+          },
+          {
+            "phase": 8,
+            "language": "zh_hans",
+            "mode": 2,
+            "label": "2x - 双倍怀孕概率",
+            "tooltip": "精子们开始加班了！怀孕概率变为原版的两倍，最高为100%。"
+          },
+          {
+            "phase": 9,
+            "language": "zh_hans",
+            "mode": 1,
+            "label": "1x - 原始怀孕概率",
+            "tooltip": "原厂出品！精子们按原版规则办事，怀孕概率保持不变。"
+          },
+          {
+            "phase": 10,
+            "language": "zh_hans",
+            "mode": 1,
+            "label": "1x - 原始怀孕概率",
+            "tooltip": "原厂出品！精子们按原版规则办事，怀孕概率保持不变。"
+          }
+        ],
+        "already_pregnant_guard": true,
+        "child_type_distribution_preserved": true,
+        "native_wheel_begin": true,
+        "screenshots": [
+          {
+            "file": ".codex_tmp/perfect-standalone8194/pregnancy_probe_zh_0.png",
+            "sha256": "907e32425accd313103e51ea9e13a67f0dcb91c013815695166a161787f934cd",
+            "visually_reviewed": true
+          },
+          {
+            "file": ".codex_tmp/perfect-standalone8194/pregnancy_probe_zh_1.png",
+            "sha256": "73247cdb6a28e8a9028757421d03003e5716961d5fa583ab4a5d3c48c871b327",
+            "visually_reviewed": true
+          }
+        ]
+      }
+    ],
+    "scope": "Native roll and settings component acceptance only; no complete quests, all actors, physical mouse input, or untested platform acceptance.",
+    "checks": {
+      "mod_translation_structure": "passed; 11 pairs",
+      "context_layout": "passed",
+      "approved_patterns": "passed; 0 mismatch",
+      "manual_ledger_integrity": "passed; stale files 0",
+      "changed_translation_scope": "no tl/zh_hans changes",
+      "diff_whitespace": "passed"
+    }
+  },
+  "pregnancy_chance_optimization_20261007": {
+    "date": "2026-10-07",
+    "source": "mods/pregnancy_chance/pregnancy_chance.rpy",
+    "sha256": "cff1df2705a5c3c392fe7e3e9fc8dced10ae3d94746bb9ce26ce47ef70ba6e7a",
+    "modes": [
+      0,
+      0.5,
+      1,
+      2,
+      "always"
+    ],
+    "translation_pairs": 13,
+    "changes": [
+      "Added half chance",
+      "Opaque bottom-center hint on zorder 200; hide on unfocus or settings exit"
+    ],
+    "native_reviews": [
+      {
+        "version": "21.0.0-wip.7722",
+        "passed": true,
+        "report": ".codex_tmp/perfect-standalone7722/pregnancy_probe_report.json",
+        "report_sha256": "0cc6ce947d85b41155d0937ae2b415a5864f5432cf25b8bcd092c62464fb933d",
+        "probe_sha256": "3ba158a66389a78f121dccf40a2356e267fa5d18ef4263577c5f56f9c0f30171",
+        "roll_cases": [
+          {
+            "risk": 0.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 0.5,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 1,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 2,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 0.5,
+            "actual": 0.1
+          },
+          {
+            "risk": 0.2,
+            "mode": 1,
+            "actual": 0.2
+          },
+          {
+            "risk": 0.2,
+            "mode": 2,
+            "actual": 0.4
+          },
+          {
+            "risk": 0.2,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 0.5,
+            "actual": 0.4
+          },
+          {
+            "risk": 0.8,
+            "mode": 1,
+            "actual": 0.8
+          },
+          {
+            "risk": 0.8,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 0.5,
+            "actual": 0.5
+          },
+          {
+            "risk": 1.0,
+            "mode": 1,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": "always",
+            "actual": 1.0
+          }
+        ],
+        "ui": [
+          {
+            "phase": 1,
+            "language": null,
+            "mode": 1,
+            "label": "1x - Original chance",
+            "tooltip": "Factory settings! Your swimmers play by the original rules. Pregnancy chances are unchanged."
+          },
+          {
+            "phase": 2,
+            "language": null,
+            "mode": 2,
+            "label": "2x - Double chance",
+            "tooltip": "Your swimmers are working overtime! Double the original pregnancy chance, capped at 100%."
+          },
+          {
+            "phase": 3,
+            "language": null,
+            "mode": "always",
+            "label": "∞x - Guaranteed pregnancy",
+            "tooltip": "Bullseye! Every eligible conception attempt succeeds. Existing pregnancies and native eligibility rules still apply."
+          },
+          {
+            "phase": 4,
+            "language": null,
+            "mode": 0,
+            "label": "0x - No pregnancy",
+            "tooltip": "Oh! My swimmers can't get anyone pregnant. Someone's going to be disappointed!\n\n(This option may block progress in some quests. Switch to another multiplier to continue.)"
+          },
+          {
+            "phase": 5,
+            "language": null,
+            "mode": 0.5,
+            "label": "0.5x - Half chance",
+            "tooltip": "Your swimmers are taking it easy! Half the original pregnancy chance. Less likely doesn't mean impossible."
+          },
+          {
+            "phase": 6,
+            "language": "zh_hans",
+            "mode": 0.5,
+            "label": "0.5x - 一半怀孕概率",
+            "tooltip": "精子们开始摸鱼了！怀孕概率降为原版的一半，可别把不容易中招当成绝对安全哦。"
+          },
+          {
+            "phase": 7,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 8,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 9,
+            "language": "zh_hans",
+            "mode": "always",
+            "label": "∞x - 必定怀孕",
+            "tooltip": "一发入魂！只要原版允许受孕，每次尝试都会成功；已经怀孕或不满足条件时依然不会再次怀孕。"
+          },
+          {
+            "phase": 10,
+            "language": "zh_hans",
+            "mode": 2,
+            "label": "2x - 双倍怀孕概率",
+            "tooltip": "精子们开始加班了！怀孕概率变为原版的两倍，最高为100%。"
+          },
+          {
+            "phase": 11,
+            "language": "zh_hans",
+            "mode": 1,
+            "label": "1x - 原始怀孕概率",
+            "tooltip": "原厂出品！精子们按原版规则办事，怀孕概率保持不变。"
+          },
+          {
+            "phase": 12,
+            "language": "zh_hans",
+            "mode": 0.5,
+            "label": "0.5x - 一半怀孕概率",
+            "tooltip": "精子们开始摸鱼了！怀孕概率降为原版的一半，可别把不容易中招当成绝对安全哦。"
+          },
+          {
+            "phase": 13,
+            "language": "zh_hans",
+            "mode": 0.5,
+            "label": "0.5x - 一半怀孕概率",
+            "tooltip": "精子们开始摸鱼了！怀孕概率降为原版的一半，可别把不容易中招当成绝对安全哦。"
+          }
+        ],
+        "hint_above_settings": true,
+        "hint_hidden_on_unhover": true,
+        "already_pregnant_guard": true,
+        "child_type_distribution_preserved": true,
+        "native_wheel_begin": true,
+        "warning_screenshot": {
+          "path": ".codex_tmp/perfect-standalone7722/pregnancy_probe_zh_0.png",
+          "sha256": "00a075c5cd2f667e36991e3fe8096dfd2ffefbdbb6b4eefda475e86c70184153",
+          "visually_reviewed": true
+        }
+      },
+      {
+        "version": "21.0.0-wip.7944",
+        "passed": true,
+        "report": ".codex_tmp/perfect-standalone7944/pregnancy_probe_report.json",
+        "report_sha256": "dff8a50c6ec30397b5fd39b8c395fc49f1cc48386c40767564f98ecca710a36a",
+        "probe_sha256": "3ba158a66389a78f121dccf40a2356e267fa5d18ef4263577c5f56f9c0f30171",
+        "roll_cases": [
+          {
+            "risk": 0.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 0.5,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 1,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 2,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 0.5,
+            "actual": 0.1
+          },
+          {
+            "risk": 0.2,
+            "mode": 1,
+            "actual": 0.2
+          },
+          {
+            "risk": 0.2,
+            "mode": 2,
+            "actual": 0.4
+          },
+          {
+            "risk": 0.2,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 0.5,
+            "actual": 0.4
+          },
+          {
+            "risk": 0.8,
+            "mode": 1,
+            "actual": 0.8
+          },
+          {
+            "risk": 0.8,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 0.5,
+            "actual": 0.5
+          },
+          {
+            "risk": 1.0,
+            "mode": 1,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": "always",
+            "actual": 1.0
+          }
+        ],
+        "ui": [
+          {
+            "phase": 1,
+            "language": null,
+            "mode": 1,
+            "label": "1x - Original chance",
+            "tooltip": "Factory settings! Your swimmers play by the original rules. Pregnancy chances are unchanged."
+          },
+          {
+            "phase": 2,
+            "language": null,
+            "mode": 2,
+            "label": "2x - Double chance",
+            "tooltip": "Your swimmers are working overtime! Double the original pregnancy chance, capped at 100%."
+          },
+          {
+            "phase": 3,
+            "language": null,
+            "mode": "always",
+            "label": "∞x - Guaranteed pregnancy",
+            "tooltip": "Bullseye! Every eligible conception attempt succeeds. Existing pregnancies and native eligibility rules still apply."
+          },
+          {
+            "phase": 4,
+            "language": null,
+            "mode": 0,
+            "label": "0x - No pregnancy",
+            "tooltip": "Oh! My swimmers can't get anyone pregnant. Someone's going to be disappointed!\n\n(This option may block progress in some quests. Switch to another multiplier to continue.)"
+          },
+          {
+            "phase": 5,
+            "language": null,
+            "mode": 0.5,
+            "label": "0.5x - Half chance",
+            "tooltip": "Your swimmers are taking it easy! Half the original pregnancy chance. Less likely doesn't mean impossible."
+          },
+          {
+            "phase": 6,
+            "language": "zh_hans",
+            "mode": 0.5,
+            "label": "0.5x - 一半怀孕概率",
+            "tooltip": "精子们开始摸鱼了！怀孕概率降为原版的一半，可别把不容易中招当成绝对安全哦。"
+          },
+          {
+            "phase": 7,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 8,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 9,
+            "language": "zh_hans",
+            "mode": "always",
+            "label": "∞x - 必定怀孕",
+            "tooltip": "一发入魂！只要原版允许受孕，每次尝试都会成功；已经怀孕或不满足条件时依然不会再次怀孕。"
+          },
+          {
+            "phase": 10,
+            "language": "zh_hans",
+            "mode": 2,
+            "label": "2x - 双倍怀孕概率",
+            "tooltip": "精子们开始加班了！怀孕概率变为原版的两倍，最高为100%。"
+          },
+          {
+            "phase": 11,
+            "language": "zh_hans",
+            "mode": 1,
+            "label": "1x - 原始怀孕概率",
+            "tooltip": "原厂出品！精子们按原版规则办事，怀孕概率保持不变。"
+          },
+          {
+            "phase": 12,
+            "language": "zh_hans",
+            "mode": 0.5,
+            "label": "0.5x - 一半怀孕概率",
+            "tooltip": "精子们开始摸鱼了！怀孕概率降为原版的一半，可别把不容易中招当成绝对安全哦。"
+          },
+          {
+            "phase": 13,
+            "language": "zh_hans",
+            "mode": 0.5,
+            "label": "0.5x - 一半怀孕概率",
+            "tooltip": "精子们开始摸鱼了！怀孕概率降为原版的一半，可别把不容易中招当成绝对安全哦。"
+          }
+        ],
+        "hint_above_settings": true,
+        "hint_hidden_on_unhover": true,
+        "already_pregnant_guard": true,
+        "child_type_distribution_preserved": true,
+        "native_wheel_begin": true,
+        "warning_screenshot": {
+          "path": ".codex_tmp/perfect-standalone7944/pregnancy_probe_zh_0.png",
+          "sha256": "00a075c5cd2f667e36991e3fe8096dfd2ffefbdbb6b4eefda475e86c70184153",
+          "visually_reviewed": true
+        }
+      },
+      {
+        "version": "21.0.0-wip.8194",
+        "passed": true,
+        "report": ".codex_tmp/perfect-standalone8194/pregnancy_probe_report.json",
+        "report_sha256": "583f18f4ff4b0b2527a5f6e68919204e3ff4917aa304ddecedd2f0916b81ca22",
+        "probe_sha256": "3ba158a66389a78f121dccf40a2356e267fa5d18ef4263577c5f56f9c0f30171",
+        "roll_cases": [
+          {
+            "risk": 0.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 0.5,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 1,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": 2,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.0,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.2,
+            "mode": 0.5,
+            "actual": 0.1
+          },
+          {
+            "risk": 0.2,
+            "mode": 1,
+            "actual": 0.2
+          },
+          {
+            "risk": 0.2,
+            "mode": 2,
+            "actual": 0.4
+          },
+          {
+            "risk": 0.2,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 0.8,
+            "mode": 0.5,
+            "actual": 0.4
+          },
+          {
+            "risk": 0.8,
+            "mode": 1,
+            "actual": 0.8
+          },
+          {
+            "risk": 0.8,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 0.8,
+            "mode": "always",
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 0,
+            "actual": 0.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 0.5,
+            "actual": 0.5
+          },
+          {
+            "risk": 1.0,
+            "mode": 1,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": 2,
+            "actual": 1.0
+          },
+          {
+            "risk": 1.0,
+            "mode": "always",
+            "actual": 1.0
+          }
+        ],
+        "ui": [
+          {
+            "phase": 1,
+            "language": null,
+            "mode": 1,
+            "label": "1x - Original chance",
+            "tooltip": "Factory settings! Your swimmers play by the original rules. Pregnancy chances are unchanged."
+          },
+          {
+            "phase": 2,
+            "language": null,
+            "mode": 2,
+            "label": "2x - Double chance",
+            "tooltip": "Your swimmers are working overtime! Double the original pregnancy chance, capped at 100%."
+          },
+          {
+            "phase": 3,
+            "language": null,
+            "mode": "always",
+            "label": "∞x - Guaranteed pregnancy",
+            "tooltip": "Bullseye! Every eligible conception attempt succeeds. Existing pregnancies and native eligibility rules still apply."
+          },
+          {
+            "phase": 4,
+            "language": null,
+            "mode": 0,
+            "label": "0x - No pregnancy",
+            "tooltip": "Oh! My swimmers can't get anyone pregnant. Someone's going to be disappointed!\n\n(This option may block progress in some quests. Switch to another multiplier to continue.)"
+          },
+          {
+            "phase": 5,
+            "language": null,
+            "mode": 0.5,
+            "label": "0.5x - Half chance",
+            "tooltip": "Your swimmers are taking it easy! Half the original pregnancy chance. Less likely doesn't mean impossible."
+          },
+          {
+            "phase": 6,
+            "language": "zh_hans",
+            "mode": 0.5,
+            "label": "0.5x - 一半怀孕概率",
+            "tooltip": "精子们开始摸鱼了！怀孕概率降为原版的一半，可别把不容易中招当成绝对安全哦。"
+          },
+          {
+            "phase": 7,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 8,
+            "language": "zh_hans",
+            "mode": 0,
+            "label": "0x - 内射不怀孕",
+            "tooltip": "哦！我的精子居然无法让人怀孕，这可得让人失望了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后才能继续尝试。）"
+          },
+          {
+            "phase": 9,
+            "language": "zh_hans",
+            "mode": "always",
+            "label": "∞x - 必定怀孕",
+            "tooltip": "一发入魂！只要原版允许受孕，每次尝试都会成功；已经怀孕或不满足条件时依然不会再次怀孕。"
+          },
+          {
+            "phase": 10,
+            "language": "zh_hans",
+            "mode": 2,
+            "label": "2x - 双倍怀孕概率",
+            "tooltip": "精子们开始加班了！怀孕概率变为原版的两倍，最高为100%。"
+          },
+          {
+            "phase": 11,
+            "language": "zh_hans",
+            "mode": 1,
+            "label": "1x - 原始怀孕概率",
+            "tooltip": "原厂出品！精子们按原版规则办事，怀孕概率保持不变。"
+          },
+          {
+            "phase": 12,
+            "language": "zh_hans",
+            "mode": 0.5,
+            "label": "0.5x - 一半怀孕概率",
+            "tooltip": "精子们开始摸鱼了！怀孕概率降为原版的一半，可别把不容易中招当成绝对安全哦。"
+          },
+          {
+            "phase": 13,
+            "language": "zh_hans",
+            "mode": 0.5,
+            "label": "0.5x - 一半怀孕概率",
+            "tooltip": "精子们开始摸鱼了！怀孕概率降为原版的一半，可别把不容易中招当成绝对安全哦。"
+          }
+        ],
+        "hint_above_settings": true,
+        "hint_hidden_on_unhover": true,
+        "already_pregnant_guard": true,
+        "child_type_distribution_preserved": true,
+        "native_wheel_begin": true,
+        "warning_screenshot": {
+          "path": ".codex_tmp/perfect-standalone8194/pregnancy_probe_zh_0.png",
+          "sha256": "a4ce846070f78b39564a4f6b8b95ccee60ff69032b22fe0950088ce61b8b7724",
+          "visually_reviewed": true
+        }
+      }
+    ],
+    "scope": "Native probability and settings components; no complete quests or physical mouse input",
+    "checks": {
+      "mod_translation_structure": "passed",
+      "diff_whitespace": "passed"
+    }
+  },
+  "pregnancy_chance_right_hint_20261007": {
+    "date": "2026-10-07",
+    "source": "mods/pregnancy_chance/pregnancy_chance.rpy",
+    "sha256": "1c32428f43d23d10b0b648c69038bb3f4702fd6c6b3d7c7996f12c0a1b82d020",
+    "change": "Right-side native tooltip layout with explicit right-arrow rectangle; independent of pointer and hovered control",
+    "native_reviews": [
+      {
+        "version": "21.0.0-wip.7722",
+        "passed": true,
+        "report": ".codex_tmp/perfect-standalone7722/pregnancy_probe_report.json",
+        "report_sha256": "c74345d83d8668d9634a05a07042431203262fba67d1719d7db88d4f7c498330",
+        "probe_sha256": "ae2cab5a292d7cc26abfdd9b41e9196bf02154c7202cf99fc2458a406eeab82e",
+        "roll_cases": 20,
+        "ui_observations": 15,
+        "hint_anchor_rect": [
+          1477.0,
+          290.0,
+          33.0,
+          44.0
+        ],
+        "hint_anchor_is_right_arrow": true,
+        "hint_anchor_unchanged_across_controls": true,
+        "hint_hidden_on_unhover": true,
+        "screenshot": {
+          "file": ".codex_tmp/perfect-standalone7722/pregnancy_probe_zh_0.png",
+          "sha256": "cacc1ef7ca7f7b43730bc8cc3ef7a5cfcded404dcf27caaebe75cfad4c4aebce",
+          "visually_reviewed": true
+        }
+      },
+      {
+        "version": "21.0.0-wip.7944",
+        "passed": true,
+        "report": ".codex_tmp/perfect-standalone7944/pregnancy_probe_report.json",
+        "report_sha256": "58cdf8b5792eb4328a5fb803b2909fae1a81f9a09c50497840a2161c76cca590",
+        "probe_sha256": "ae2cab5a292d7cc26abfdd9b41e9196bf02154c7202cf99fc2458a406eeab82e",
+        "roll_cases": 20,
+        "ui_observations": 15,
+        "hint_anchor_rect": [
+          1477.0,
+          290.0,
+          33.0,
+          44.0
+        ],
+        "hint_anchor_is_right_arrow": true,
+        "hint_anchor_unchanged_across_controls": true,
+        "hint_hidden_on_unhover": true,
+        "screenshot": {
+          "file": ".codex_tmp/perfect-standalone7944/pregnancy_probe_zh_0.png",
+          "sha256": "cacc1ef7ca7f7b43730bc8cc3ef7a5cfcded404dcf27caaebe75cfad4c4aebce",
+          "visually_reviewed": true
+        }
+      },
+      {
+        "version": "21.0.0-wip.8194",
+        "passed": true,
+        "report": ".codex_tmp/perfect-standalone8194/pregnancy_probe_report.json",
+        "report_sha256": "16774ab28e627a1dfa5f2fceca5cc9f4f443a9c22fe1ebe3bbef10da95b7a77c",
+        "probe_sha256": "ae2cab5a292d7cc26abfdd9b41e9196bf02154c7202cf99fc2458a406eeab82e",
+        "roll_cases": 20,
+        "ui_observations": 15,
+        "hint_anchor_rect": [
+          1477.0,
+          290.0,
+          33.0,
+          44.0
+        ],
+        "hint_anchor_is_right_arrow": true,
+        "hint_anchor_unchanged_across_controls": true,
+        "hint_hidden_on_unhover": true,
+        "screenshot": {
+          "file": ".codex_tmp/perfect-standalone8194/pregnancy_probe_zh_0.png",
+          "sha256": "28f4ac2b53b0aff2dc20d74e46a34de58ce08d51abda953c7f79d0c261b9fff7",
+          "visually_reviewed": true
+        }
+      }
+    ],
+    "checks": {
+      "mod_translation_structure": "passed",
+      "context_layout": "passed",
+      "diff_whitespace": "passed"
+    },
+    "scope": "Native settings and probability checks; no physical mouse or complete quest acceptance"
+  },
+  "pregnancy_chance_humor_20261007": {
+    "date": "2026-10-07",
+    "source": "mods/pregnancy_chance/pregnancy_chance.rpy",
+    "sha256": "94c083bc57223218c2a2730600aa2def3155290bab4e0175b2eec5b9ce8d3077",
+    "change": "Rewrite five bilingual tooltips with exaggerated game-style humor; preserve probability and quest warnings",
+    "translation_pairs": 13,
+    "native_version": "21.0.0-wip.8194",
+    "passed": true,
+    "report": ".codex_tmp/perfect-standalone8194/pregnancy_probe_report.json",
+    "report_sha256": "320e973360e0bc6875c624f47949b46108951ec55bee77eca64c8c3ebe064344",
+    "probe_sha256": "ae2cab5a292d7cc26abfdd9b41e9196bf02154c7202cf99fc2458a406eeab82e",
+    "ui": [
+      {
+        "phase": 1,
+        "language": null,
+        "mode": 1,
+        "label": "1x - Original chance",
+        "tooltip": "Your swimmers clock in as usual. No slacking, no performance enhancers. Original odds: fate supplies the surprise, you pay the bill."
+      },
+      {
+        "phase": 2,
+        "language": null,
+        "mode": 2,
+        "label": "2x - Double chance",
+        "tooltip": "Your swimmers are chasing sales targets. The maternity ward wants to offer you a loyalty card. Double the pregnancy chance, capped at 100%."
+      },
+      {
+        "phase": 3,
+        "language": null,
+        "mode": "always",
+        "label": "∞x - Guaranteed pregnancy",
+        "tooltip": "You turned the cum button into a checkout button. Item: one baby. Payment plan: eighteen years.\n\nEvery eligible native conception attempt succeeds. Existing pregnancies and other native restrictions still apply."
+      },
+      {
+        "phase": 4,
+        "language": null,
+        "mode": 0,
+        "label": "0x - No pregnancy",
+        "tooltip": "All that swagger, and you're firing blanks. The maternity ward already spent your money in its head.\n\n(This option may block progress in some quests. Switch to another multiplier and try again.)"
+      },
+      {
+        "phase": 5,
+        "language": null,
+        "mode": 0.5,
+        "label": "0.5x - Half chance",
+        "tooltip": "Half your swimmers are racing. The other half are smoking behind the locker room. Half the pregnancy chance. Sadly, cribs are still full price."
+      },
+      {
+        "phase": 6,
+        "language": "zh_hans",
+        "mode": 0.5,
+        "label": "0.5x - 一半怀孕概率",
+        "tooltip": "一半精子在冲刺，另一半还在更衣室后面抽烟。怀孕概率减半，但婴儿床可不会半价。"
+      },
+      {
+        "phase": 7,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 8,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 8,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 8,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 9,
+        "language": "zh_hans",
+        "mode": "always",
+        "label": "∞x - 必定怀孕",
+        "tooltip": "你把射精键改成了下单键。商品：婴儿。付款方式：未来十八年。\n\n原版允许受孕时必定成功；已有孕期等限制照常生效。"
+      },
+      {
+        "phase": 10,
+        "language": "zh_hans",
+        "mode": 2,
+        "label": "2x - 双倍怀孕概率",
+        "tooltip": "你的精子开始卷业绩了，妇产科都想给你办会员。怀孕概率翻倍，最高100%。"
+      },
+      {
+        "phase": 11,
+        "language": "zh_hans",
+        "mode": 1,
+        "label": "1x - 原始怀孕概率",
+        "tooltip": "小蝌蚪照常上班，既不摸鱼，也不打鸡血。命中率按原版，惊喜归命运，账单归你。"
+      },
+      {
+        "phase": 12,
+        "language": "zh_hans",
+        "mode": 0.5,
+        "label": "0.5x - 一半怀孕概率",
+        "tooltip": "一半精子在冲刺，另一半还在更衣室后面抽烟。怀孕概率减半，但婴儿床可不会半价。"
+      },
+      {
+        "phase": 13,
+        "language": "zh_hans",
+        "mode": 0.5,
+        "label": "0.5x - 一半怀孕概率",
+        "tooltip": "一半精子在冲刺，另一半还在更衣室后面抽烟。怀孕概率减半，但婴儿床可不会半价。"
+      }
+    ],
+    "roll_cases": 20,
+    "screenshot": {
+      "file": ".codex_tmp/perfect-standalone8194/pregnancy_probe_zh_0.png",
+      "sha256": "48bb728a4e62cb13a97706897cd158ef747a9b8926b354c506a4448d7e116c69",
+      "visually_reviewed": true
+    },
+    "scope": "Current copy checked in 8194; prior older-version protocol evidence remains historical; no new quest acceptance"
+  },
+  "pregnancy_chance_dialogue_humor_20261007": {
+    "date": "2026-10-07",
+    "source": "mods/pregnancy_chance/pregnancy_chance.rpy",
+    "sha256": "f371bb98fb170f8453684fc08e51c1daecf6252b425d7e52b49f5c8d26b489e9",
+    "change": "Replace guaranteed-conception checkout joke with dialogue-based mock surprise and reprimand; preserve native restrictions",
+    "dialogue_reference": [
+      "tl/zh_hans/src/plot/jos_baby.rpy: early pregnancy reveal and bowl-cut nickname",
+      "tl/zh_hans/src/plot/jen_baby.rpy: early pregnancy reveal and angry reaction"
+    ],
+    "translation_pairs": 13,
+    "native_version": "21.0.0-wip.8194",
+    "passed": true,
+    "report": ".codex_tmp/perfect-standalone8194/pregnancy_probe_report.json",
+    "report_sha256": "f5a4acd01430265bccceba9cf5fe6df38ba64010863450ecbe057ce21b40935c",
+    "probe_sha256": "4c1becab77d85295e115ecc3352c033648f6b3d26175770cc39d61ab0a95a435",
+    "ui": [
+      {
+        "phase": 1,
+        "language": null,
+        "mode": 1,
+        "label": "1x - Original chance",
+        "tooltip": "Your swimmers clock in as usual. No slacking, no performance enhancers. Original odds: fate supplies the surprise, you pay the bill."
+      },
+      {
+        "phase": 2,
+        "language": null,
+        "mode": 2,
+        "label": "2x - Double chance",
+        "tooltip": "Your swimmers are chasing sales targets. The maternity ward wants to offer you a loyalty card. Double the pregnancy chance, capped at 100%."
+      },
+      {
+        "phase": 3,
+        "language": null,
+        "mode": "always",
+        "label": "∞x - Guaranteed pregnancy",
+        "tooltip": "Her: 'I'm pregnant.'\nYou: 'Like... with a baby?'\nWhat else, bowl cut? You switched on guaranteed conception, not immunity to getting yelled at.\n\nEvery eligible native conception attempt succeeds. Existing pregnancies and other native restrictions still apply."
+      },
+      {
+        "phase": 4,
+        "language": null,
+        "mode": 0,
+        "label": "0x - No pregnancy",
+        "tooltip": "All that swagger, and you're firing blanks. The maternity ward already spent your money in its head.\n\n(This option may block progress in some quests. Switch to another multiplier and try again.)"
+      },
+      {
+        "phase": 5,
+        "language": null,
+        "mode": 0.5,
+        "label": "0.5x - Half chance",
+        "tooltip": "Half your swimmers are racing. The other half are smoking behind the locker room. Half the pregnancy chance. Sadly, cribs are still full price."
+      },
+      {
+        "phase": 6,
+        "language": "zh_hans",
+        "mode": 0.5,
+        "label": "0.5x - 一半怀孕概率",
+        "tooltip": "一半精子在冲刺，另一半还在更衣室后面抽烟。怀孕概率减半，但婴儿床可不会半价。"
+      },
+      {
+        "phase": 7,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 8,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 8,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 8,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 9,
+        "language": "zh_hans",
+        "mode": "always",
+        "label": "∞x - 必定怀孕",
+        "tooltip": "她：“我怀孕了。”\n你：“……怀的是宝宝？”\n不然呢，锅盖头？你开的是必中，可不是免挨骂。\n\n原版允许受孕时必定成功；已有孕期等限制照常生效。"
+      },
+      {
+        "phase": 9.5,
+        "language": "zh_hans",
+        "mode": "always",
+        "label": "∞x - 必定怀孕",
+        "tooltip": "她：“我怀孕了。”\n你：“……怀的是宝宝？”\n不然呢，锅盖头？你开的是必中，可不是免挨骂。\n\n原版允许受孕时必定成功；已有孕期等限制照常生效。"
+      },
+      {
+        "phase": 10,
+        "language": "zh_hans",
+        "mode": 2,
+        "label": "2x - 双倍怀孕概率",
+        "tooltip": "你的精子开始卷业绩了，妇产科都想给你办会员。怀孕概率翻倍，最高100%。"
+      },
+      {
+        "phase": 11,
+        "language": "zh_hans",
+        "mode": 1,
+        "label": "1x - 原始怀孕概率",
+        "tooltip": "小蝌蚪照常上班，既不摸鱼，也不打鸡血。命中率按原版，惊喜归命运，账单归你。"
+      },
+      {
+        "phase": 12,
+        "language": "zh_hans",
+        "mode": 0.5,
+        "label": "0.5x - 一半怀孕概率",
+        "tooltip": "一半精子在冲刺，另一半还在更衣室后面抽烟。怀孕概率减半，但婴儿床可不会半价。"
+      },
+      {
+        "phase": 13,
+        "language": "zh_hans",
+        "mode": 0.5,
+        "label": "0.5x - 一半怀孕概率",
+        "tooltip": "一半精子在冲刺，另一半还在更衣室后面抽烟。怀孕概率减半，但婴儿床可不会半价。"
+      }
+    ],
+    "roll_cases": 20,
+    "screenshot": {
+      "file": ".codex_tmp/perfect-standalone8194/pregnancy_probe_zh_always.png",
+      "sha256": "33829bb599c855bdf3c392c956a25eb5d2e81ebe017ddaf378c76c9a53c7bd55",
+      "visually_reviewed": true
+    },
+    "scope": "Current copy tested in 8194; excerpt-based writing reference, not complete pregnancy story review; no new quest acceptance or physical mouse verification"
+  },
+  "pregnancy_chance_global_humor_20261007": {
+    "date": "2026-10-07",
+    "source": "mods/pregnancy_chance/pregnancy_chance.rpy",
+    "sha256": "0a588e0ea61e57c5af2c37000324eba38c3fd641f2bec920abc0354e93713213",
+    "change": "Correct global tooltip scope: remove character nickname and dialogue; address player-selected certainty with a generic baby-naming joke",
+    "editorial_scope": "Global setting must not assume a specific character voice, response, relationship or pregnancy quest",
+    "translation_pairs": 13,
+    "native_version": "21.0.0-wip.8194",
+    "passed": true,
+    "report": ".codex_tmp/perfect-standalone8194/pregnancy_probe_report.json",
+    "report_sha256": "d3a5283d1c52def1daf2169c7e3e265705d81b23523b17febf72e769f74d74bf",
+    "probe_sha256": "4c1becab77d85295e115ecc3352c033648f6b3d26175770cc39d61ab0a95a435",
+    "ui": [
+      {
+        "phase": 1,
+        "language": null,
+        "mode": 1,
+        "label": "1x - Original chance",
+        "tooltip": "Your swimmers clock in as usual. No slacking, no performance enhancers. Original odds: fate supplies the surprise, you pay the bill."
+      },
+      {
+        "phase": 2,
+        "language": null,
+        "mode": 2,
+        "label": "2x - Double chance",
+        "tooltip": "Your swimmers are chasing sales targets. The maternity ward wants to offer you a loyalty card. Double the pregnancy chance, capped at 100%."
+      },
+      {
+        "phase": 3,
+        "language": null,
+        "mode": "always",
+        "label": "∞x - Guaranteed pregnancy",
+        "tooltip": "Congratulations! You've upgraded 'It probably won't happen' to 'Got any baby names?' Save the innocent look for someone else. You picked the odds yourself.\n\nEvery eligible native conception attempt succeeds. Existing pregnancies and other native restrictions still apply."
+      },
+      {
+        "phase": 4,
+        "language": null,
+        "mode": 0,
+        "label": "0x - No pregnancy",
+        "tooltip": "All that swagger, and you're firing blanks. The maternity ward already spent your money in its head.\n\n(This option may block progress in some quests. Switch to another multiplier and try again.)"
+      },
+      {
+        "phase": 5,
+        "language": null,
+        "mode": 0.5,
+        "label": "0.5x - Half chance",
+        "tooltip": "Half your swimmers are racing. The other half are smoking behind the locker room. Half the pregnancy chance. Sadly, cribs are still full price."
+      },
+      {
+        "phase": 6,
+        "language": "zh_hans",
+        "mode": 0.5,
+        "label": "0.5x - 一半怀孕概率",
+        "tooltip": "一半精子在冲刺，另一半还在更衣室后面抽烟。怀孕概率减半，但婴儿床可不会半价。"
+      },
+      {
+        "phase": 7,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 8,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 8,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 8,
+        "language": "zh_hans",
+        "mode": 0,
+        "label": "0x - 内射不怀孕",
+        "tooltip": "气势像要给全镇添人口，结果打出去的全是空包弹。妇产科：白高兴了。\n\n（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）"
+      },
+      {
+        "phase": 9,
+        "language": "zh_hans",
+        "mode": "always",
+        "label": "∞x - 必定怀孕",
+        "tooltip": "恭喜，你成功把“应该不会吧”变成了“名字想好了吗”。到时候别摆出那张无辜的脸——概率可是你自己调的。\n\n原版允许受孕时必定成功；已有孕期等限制照常生效。"
+      },
+      {
+        "phase": 9.5,
+        "language": "zh_hans",
+        "mode": "always",
+        "label": "∞x - 必定怀孕",
+        "tooltip": "恭喜，你成功把“应该不会吧”变成了“名字想好了吗”。到时候别摆出那张无辜的脸——概率可是你自己调的。\n\n原版允许受孕时必定成功；已有孕期等限制照常生效。"
+      },
+      {
+        "phase": 10,
+        "language": "zh_hans",
+        "mode": 2,
+        "label": "2x - 双倍怀孕概率",
+        "tooltip": "你的精子开始卷业绩了，妇产科都想给你办会员。怀孕概率翻倍，最高100%。"
+      },
+      {
+        "phase": 11,
+        "language": "zh_hans",
+        "mode": 1,
+        "label": "1x - 原始怀孕概率",
+        "tooltip": "小蝌蚪照常上班，既不摸鱼，也不打鸡血。命中率按原版，惊喜归命运，账单归你。"
+      },
+      {
+        "phase": 12,
+        "language": "zh_hans",
+        "mode": 0.5,
+        "label": "0.5x - 一半怀孕概率",
+        "tooltip": "一半精子在冲刺，另一半还在更衣室后面抽烟。怀孕概率减半，但婴儿床可不会半价。"
+      },
+      {
+        "phase": 13,
+        "language": "zh_hans",
+        "mode": 0.5,
+        "label": "0.5x - 一半怀孕概率",
+        "tooltip": "一半精子在冲刺，另一半还在更衣室后面抽烟。怀孕概率减半，但婴儿床可不会半价。"
+      }
+    ],
+    "roll_cases": 20,
+    "screenshot": {
+      "file": ".codex_tmp/perfect-standalone8194/pregnancy_probe_zh_always.png",
+      "sha256": "95cc06842f73e2111d0059d51a4fccc20635c145c77cc12c3b7c4299786f24e4",
+      "visually_reviewed": true
+    },
+    "scope": "Current copy tested in 8194; generic original tooltip, not a character quote; no new quest acceptance or physical mouse verification"
+  },
+  "pregnancy_chance_all_routes_humor_20261007": {
+    "date": "2026-10-07",
+    "source": "mods/pregnancy_chance/pregnancy_chance.rpy",
+    "sha256": "f827a010cba501a5fa371452e6f6b57f284785f7e2496acfb05afc80aa296ffc",
+    "change": "Rewrite all five bilingual global tooltips from comparison of all current pregnancy routes; no character names, nicknames or assumed universal reaction",
+    "current_version": "21.0.0-wip.8194",
+    "characters_from_native_conception_calls": [
+      "debbie",
+      "jenny",
+      "josie",
+      "maria",
+      "tina"
+    ],
+    "chinese_dialogue_readings": [
+      {
+        "translation": "tl/zh_hans/src/plot/deb_baby.rpy",
+        "sha256": "154b08a1d86dc293556046d09498326a0755bdcd4030f4a4b4eb6c7ac0cf033b",
+        "native_source": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_baby.rpy",
+        "native_sha256": "785f7f2d8faacec36258c8629a16ffd228d24fcb6adc8f5f362b39fe21979c56",
+        "scope": "All Chinese dialogue statements read in source-label order; source labels used for branch context. English excerpts checked separately. Not full bilingual proofreading or in-game story acceptance.",
+        "dialogue_statements": 755
+      },
+      {
+        "translation": "tl/zh_hans/src/plot/jen_baby.rpy",
+        "sha256": "98fd5b4810a00f087a3645516ceab609d15ba456a3d2ee0eb0bbc9ac4c8c373c",
+        "native_source": ".codex_tmp\\engine8194\\game\\src\\plot\\jen_baby.rpy",
+        "native_sha256": "ef4c62992ab5f18836c632da270bc6e8494c051ab7cfee9d19d9a5532483e807",
+        "scope": "All Chinese dialogue statements read in source-label order; source labels used for branch context. English excerpts checked separately. Not full bilingual proofreading or in-game story acceptance.",
+        "dialogue_statements": 896
+      },
+      {
+        "translation": "tl/zh_hans/src/plot/jos_baby.rpy",
+        "sha256": "2e9d6554355d9663243649b89aa6704ebcb343cd31f01c0394b85b016846f4e0",
+        "native_source": ".codex_tmp\\engine8194\\game\\src\\plot\\jos_baby.rpy",
+        "native_sha256": "178dd8027424166f72fe5c334207ce1b0a9b7e00c5d06c83d758a0c51efd46e6",
+        "scope": "All Chinese dialogue statements read in source-label order; source labels used for branch context. English excerpts checked separately. Not full bilingual proofreading or in-game story acceptance.",
+        "dialogue_statements": 380
+      },
+      {
+        "translation": "tl/zh_hans/src/plot/mar_baby.rpy",
+        "sha256": "e240f7e2fe64303c093a552a68474b2ab09b2cb3b34e3d048e69a585618a4a44",
+        "native_source": ".codex_tmp\\engine8194\\game\\src\\plot\\mar_baby.rpy",
+        "native_sha256": "09b70bd39d8571418045f37bf692e488f3c34e3610901df94dc18a254a423412",
+        "scope": "All Chinese dialogue statements read in source-label order; source labels used for branch context. English excerpts checked separately. Not full bilingual proofreading or in-game story acceptance.",
+        "dialogue_statements": 388
+      },
+      {
+        "translation": "tl/zh_hans/src/plot/tin_baby.rpy",
+        "sha256": "91dca8a47da3080a83e02e225ef981305c25dead6bf635c4aa983553dc228679",
+        "native_source": ".codex_tmp\\engine8194\\game\\src\\plot\\tin_baby.rpy",
+        "native_sha256": "dc8d80e0dbbb6666e6ba3199f44a9513d79f74774137452e11985b3e63f0e7ca",
+        "scope": "All Chinese dialogue statements read in source-label order; source labels used for branch context. English excerpts checked separately. Not full bilingual proofreading or in-game story acceptance.",
+        "dialogue_statements": 316
+      },
+      {
+        "translation": "tl/zh_hans/src/plot/ton_baby.rpy",
+        "sha256": "339a9d21ad03347c007951b0e052279e66527b546f87c9c0c2e3372b26c3d89a",
+        "native_source": ".codex_tmp\\engine8194\\game\\src\\plot\\ton_baby.rpy",
+        "native_sha256": "dc48a76d2cc7caddea03be96e591568778f84718ab39f1e3e110d0af47c98190",
+        "scope": "All Chinese dialogue statements read in source-label order; source labels used for branch context. English excerpts checked separately. Not full bilingual proofreading or in-game story acceptance.",
+        "dialogue_statements": 151
+      }
+    ],
+    "surrounding_conception_and_pregnancy_context": [
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\ano10.rpy",
+        "sha256": "98976c6cf296c203c274a07e08c807c0cd60840be7c1cc1ba748931918f1a28f",
+        "hits": [
+          536
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\ano11.rpy",
+        "sha256": "457ce6529fad390c7cd48e565da0c3d726ea1662e7596bcca88b2ddd8be889c4",
+        "hits": [
+          264
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\ano13.rpy",
+        "sha256": "38e1905c858b6111b56fffc64a3adc312693091b0cebda66e50f01ffc0a67a23",
+        "hits": [
+          716
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\ano15.rpy",
+        "sha256": "37a9ab6ba4e799afd4599ca7bbd2d21b077bb325ff9db0dab9001a4acef41122",
+        "hits": [
+          437,
+          439,
+          514,
+          1383,
+          1400,
+          1436,
+          1494,
+          1549
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\ano16.rpy",
+        "sha256": "50de14d230177dd287d4850abec2ffea5f02aab72c641a27595cd74ed55f784a",
+        "hits": [
+          17
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb19.rpy",
+        "sha256": "6bdf6ce1ce6e30f69dbaf9b1c749fb5a03b51c5ce879dfc6cec08e081dda18a4",
+        "hits": [
+          602
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb26.rpy",
+        "sha256": "ffe50daa9dcb3f50cb448250941ee98fb5ebce9fbef59745d61703126e7c55ed",
+        "hits": [
+          1839
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb27.rpy",
+        "sha256": "1c9d2cad907664bf6ae2d33a287b65afa34a358ee66c9b3cd7e6bd206e458317",
+        "hits": [
+          201
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_island.rpy",
+        "sha256": "3f00a10671b887a8c18bdb5798998d774923ef281f6201fdf902aef79d1108a0",
+        "hits": [
+          387
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_kitchen.rpy",
+        "sha256": "71c8b9f073440601dd62aff69e669fa0b6a7f6215767c65b4f78fa5649d9596a",
+        "hits": [
+          355
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_laundry.rpy",
+        "sha256": "d492fdd4956edbd01f582447d317945dbf0c23de747ef23c5459073ec431b08d",
+        "hits": [
+          696
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_lobby.rpy",
+        "sha256": "132faef9591ed92b90e3863b8368fe6e38fc04e7f9491ea40b3772e8bc4792d0",
+        "hits": [
+          272
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_mall.rpy",
+        "sha256": "476bc54ddaea7630371b2864600e8433931395e63f857299f61b280b58571b60",
+        "hits": [
+          663,
+          1224
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_shower.rpy",
+        "sha256": "13dbaf8a26b68e1823245e33cd207ba36b38b550ad9daad9180304527f0aa199",
+        "hits": [
+          349,
+          352,
+          595
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_sink.rpy",
+        "sha256": "ed6afbc38ca37945f6c4a036373096b7ff048d4baa85abb1ff647dab1cc65d5c",
+        "hits": [
+          374
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_tv.rpy",
+        "sha256": "30cb06155d069506cd889e019692670b9b0317c6a78b8852aff81f287e8e4d2a",
+        "hits": [
+          574
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\deb_visit.rpy",
+        "sha256": "f5d68c11197e198ef154d625f4bbae5da16fc1ac8800021e5d1247ffb4f9c54e",
+        "hits": [
+          679
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen24.rpy",
+        "sha256": "c2fc4d04186a1378caa0476712c07092a8f2cb32e24f2af609e6827d9c411e1e",
+        "hits": [
+          646,
+          656,
+          677,
+          688,
+          694
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen26.rpy",
+        "sha256": "f431b8042337e7a037008206e515ab941e0ac9b1742b4bc22f2707a0188e9098",
+        "hits": [
+          926,
+          942,
+          947
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen28.rpy",
+        "sha256": "6c8c2891a32d4878e64c7f0349831274d68800be656802e5130a3934685b2159",
+        "hits": [
+          18,
+          324
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen_cam.rpy",
+        "sha256": "7f5ecb8a56db863858c17d41a7dbc293b1b88d442065c32de1cb030dfb6df8bc",
+        "hits": [
+          187
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen_gfe.rpy",
+        "sha256": "45c3600eab81f23f3fa9ba472a20a97b4cc8d2edd57d48a45ffddc03d878c53b",
+        "hits": [
+          676,
+          717
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen_pool.rpy",
+        "sha256": "1eada760f499754a60865311a26e9fab48ab7fd770b186d8a3312cca8c14a5df",
+        "hits": [
+          144,
+          154
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen_shower.rpy",
+        "sha256": "99a40d64b5bccc9cd91985adcfa076323bcf299fd912cb89d390ee79ceca17b8",
+        "hits": [
+          176,
+          178,
+          746,
+          759
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen_sleep.rpy",
+        "sha256": "d30d7d0fe99cc1d445fada0d940778360c604e3976753c6212a99e7c2c91cfbd",
+        "hits": [
+          285
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen_table.rpy",
+        "sha256": "ce577d64fb18e25607aa3270b3679f8e891520d38318087f0175b4cbc8b33591",
+        "hits": [
+          317,
+          330
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jen_tv.rpy",
+        "sha256": "7832c91703d8a2045fe28ad2f1f2ef845d63a7c8da75b6632b93c47f5d7bf69e",
+        "hits": [
+          275,
+          286
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jos_lounge.rpy",
+        "sha256": "0ed689046b835622d174b109fafd31ac5e68b6e9e7f8f1d9fd90118df18d1bfa",
+        "hits": [
+          129,
+          176
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jos_office.rpy",
+        "sha256": "71b2c803cfa0ce00a47c3b72ad69ae50bd3eee4cfad21f5ecd97ba0ef7da8ddf",
+        "hits": [
+          197
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\jos_table.rpy",
+        "sha256": "39c8ba0abd3e0bba8e3d7ad8f225962b2ec3c05fd64d4d344334db2099978e77",
+        "hits": [
+          121
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\mar01.rpy",
+        "sha256": "08e96217862aa697741804ceadbd12868ddfc498af051fe69cba7d49c1bfb7ee",
+        "hits": [
+          3,
+          341
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\mar_couch.rpy",
+        "sha256": "12bb22efef8f691ae2ec27725ece38bf66b233010fbcc3888177bb15f3e7200a",
+        "hits": [
+          408,
+          516
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\mar_dark.rpy",
+        "sha256": "c4ade4130af01bb5af16f565e97fae125f1e2f0a6be7597a6b45edc27f84407c",
+        "hits": [
+          526,
+          922,
+          931
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\mar_door.rpy",
+        "sha256": "780fe3f876a224e5321597016c77666e39e2d4a42523bf9f6aaa7a2c30d3e382",
+        "hits": [
+          297
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\mar_pantry.rpy",
+        "sha256": "be025fc3533e50bf6ee4f481b4ba04b25c815eafec309b4d32d79a3e7d386dcf",
+        "hits": [
+          104
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\tin02.rpy",
+        "sha256": "4175755263d42757e85ac385e6d0130c2d9bab850602de6a75b1a6e7042aca59",
+        "hits": [
+          388
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\tin_dusk.rpy",
+        "sha256": "c8c602b40b2f75ff92907041b6a64df0b7dab75ed2cd0418cb34519c689ae56e",
+        "hits": [
+          347
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      },
+      {
+        "file": ".codex_tmp\\engine8194\\game\\src\\plot\\tin_vault.rpy",
+        "sha256": "ac3d66db61a6312fd99c6824d3da212961479c5e31c6d1a83f9a1ff09db8ba5f",
+        "hits": [
+          457
+        ],
+        "read_scope": "Chinese mapped dialogue and native structural lines within five preceding and six following lines of each hit; not complete scene reading"
+      }
+    ],
+    "english_source_excerpt_ranges": {
+      "tin_baby": [
+        [
+          24,
+          103
+        ]
+      ],
+      "deb_baby": [
+        [
+          88,
+          117
+        ]
+      ],
+      "jos_baby": [
+        [
+          61,
+          98
+        ]
+      ],
+      "mar_baby": [
+        [
+          591,
+          612
+        ]
+      ],
+      "jen_baby": [
+        [
+          350,
+          397
+        ]
+      ]
+    },
+    "editorial_comparison": {
+      "debbie": "Initial awkward surprise becomes joy, baby equipment, naming and care",
+      "jenny": "Conception anxiety, implausible cover story, pregnancy discomfort, later protective attachment",
+      "josie": "Teasing, maternity-leave and name jokes, late anxiety and affectionate care",
+      "maria": "Hoped-for conception, repeated attempts, celebration and miracle framing, family logistics",
+      "tina": "Unexpected contraceptive failure, magical sperm joke, warm welcome and well-organized care"
+    },
+    "translation_pairs": 13,
+    "passed": true,
+    "report": ".codex_tmp/perfect-standalone8194/pregnancy_probe_report.json",
+    "report_sha256": "55a76aa0f4ff72743f871bf214747ae20c87fd4cf2decd71767616b8d484b932",
+    "probe_sha256": "fe10912db726d3a6f7be68c65d2540ebb82d65cc2cb204a4419a118a2fa64712",
+    "roll_cases": 20,
+    "ui_observations": 36,
+    "tooltip_previews": [
+      {
+        "language": "zh",
+        "mode": 0,
+        "tooltip": "小蝌蚪只参观，不落户。该松口气的松口气，该等好消息的继续等——婴儿床先别买，借口也先别编。\n\n怀孕概率为0。（该选项可能会阻断部分任务进行，切换至其他倍率后重新尝试。）",
+        "screenshot": "pregnancy_tip_zh_0.png"
+      },
+      {
+        "language": "zh",
+        "mode": 0.5,
+        "tooltip": "小蝌蚪改上半天班。盼孩子的可能得多试几次，怕意外的可别先开香槟——它们只是少干活，还没辞职。\n\n怀孕概率为原版的一半。",
+        "screenshot": "pregnancy_tip_zh_half.png"
+      },
+      {
+        "language": "zh",
+        "mode": 1,
+        "tooltip": "原汁原味的“应该不会吧”。有人盼着奇迹，有人备着借口。你的运气照旧，事后装傻的功夫也照旧。\n\n使用原版怀孕概率。",
+        "screenshot": "pregnancy_tip_zh_1.png"
+      },
+      {
+        "language": "zh",
+        "mode": 2,
+        "tooltip": "小蝌蚪开始抢着立功了。“再试一次”更容易变成“再买张婴儿床”。先说清楚：双倍概率，不是双胞胎套餐。\n\n原版怀孕概率翻倍，最高100%。",
+        "screenshot": "pregnancy_tip_zh_2.png"
+      },
+      {
+        "language": "zh",
+        "mode": "always",
+        "tooltip": "本镇的生育奇迹，现在归你批发。等好消息的可以开始想名字了，怕出意外的可以开始想借口了——至于你，别再装作第一次听说精子是干什么的。\n\n原版允许受孕时必定成功；已有孕期等限制照常生效。",
+        "screenshot": "pregnancy_tip_zh_always.png"
+      },
+      {
+        "language": "en",
+        "mode": 0,
+        "tooltip": "Your swimmers are sightseeing, not settling down. The worried can relax; the hopeful can keep hoping. Hold off on the crib shopping and the cover stories.\n\nPregnancy chance is zero. (This option may block progress in some quests. Switch to another multiplier and try again.)",
+        "screenshot": "pregnancy_tip_en_0.png"
+      },
+      {
+        "language": "en",
+        "mode": 0.5,
+        "tooltip": "Your swimmers have gone part-time. Hoping for a baby? It may take more tries. Hoping to avoid one? Hold the champagne. They're working less, not quitting.\n\nPregnancy chance is half the original.",
+        "screenshot": "pregnancy_tip_en_half.png"
+      },
+      {
+        "language": "en",
+        "mode": 1,
+        "tooltip": "The classic 'It probably won't happen.' Someone's hoping for a miracle, someone's preparing a cover story. Your luck stays the same. So does your talent for playing innocent afterwards.\n\nUses the original pregnancy chance.",
+        "screenshot": "pregnancy_tip_en_1.png"
+      },
+      {
+        "language": "en",
+        "mode": 2,
+        "tooltip": "Your swimmers are out to prove themselves. 'Let's try again' is more likely to become 'We'll need another crib.' Double the chance, not a twins meal deal.\n\nPregnancy chance is doubled, capped at 100%.",
+        "screenshot": "pregnancy_tip_en_2.png"
+      },
+      {
+        "language": "en",
+        "mode": "always",
+        "tooltip": "The town's fertility miracles are now available wholesale. Hoping for good news? Start picking names. Dreading a surprise? Start picking excuses. And you? Stop acting like nobody told you what sperm does.\n\nEvery eligible native conception attempt succeeds. Existing pregnancies and other native restrictions still apply.",
+        "screenshot": "pregnancy_tip_en_always.png"
+      }
+    ],
+    "screenshots": [
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_zh_0.png",
+        "sha256": "02940fa5d3a78b5047d9e156854d102eb5449811e129ea3da120167b64a93db1",
+        "language": "zh",
+        "mode": 0,
+        "visually_reviewed": true
+      },
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_zh_half.png",
+        "sha256": "3d019a69a9af757d3a1b8a5e719216e827c17cf8752e1032b34ca739c0c453a1",
+        "language": "zh",
+        "mode": 0.5,
+        "visually_reviewed": true
+      },
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_zh_1.png",
+        "sha256": "0e890b2891ce5ae6028d99b011ceaea75b79804d719930a70548d8596981bd28",
+        "language": "zh",
+        "mode": 1,
+        "visually_reviewed": true
+      },
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_zh_2.png",
+        "sha256": "e73cc65e6564d853ebf016305d18e8d1c06a590fd3b8c199b1b81cb1ef48c506",
+        "language": "zh",
+        "mode": 2,
+        "visually_reviewed": true
+      },
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_zh_always.png",
+        "sha256": "fc21539aec80dfc806aff0f78c19f7defba23b9ebec8f686d6ea2decf2e53527",
+        "language": "zh",
+        "mode": "always",
+        "visually_reviewed": true
+      },
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_en_0.png",
+        "sha256": "8d1a3f68a302417e0b60e6f5400b1bea40fc1bcd415e1d4f76e253407dec869e",
+        "language": "en",
+        "mode": 0,
+        "visually_reviewed": true
+      },
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_en_half.png",
+        "sha256": "08203e8925feaa82fea5fc141beaab9808d56a74dd17e08b41d8eb4e706d99a9",
+        "language": "en",
+        "mode": 0.5,
+        "visually_reviewed": true
+      },
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_en_1.png",
+        "sha256": "21ac49df0b2e657a58f7f992f3a4f28bb5174e23727373b62c072711353740d6",
+        "language": "en",
+        "mode": 1,
+        "visually_reviewed": true
+      },
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_en_2.png",
+        "sha256": "7ce182bd419b63c8b547087674941d1ba5920b9e6173efd2aa8a4d1182da290f",
+        "language": "en",
+        "mode": 2,
+        "visually_reviewed": true
+      },
+      {
+        "file": ".codex_tmp\\perfect-standalone8194\\pregnancy_tip_en_always.png",
+        "sha256": "1c6fa632fb66badbcfa59f150f2f9e4d197162c8464914bd137e35861a1728c9",
+        "language": "en",
+        "mode": "always",
+        "visually_reviewed": true
+      }
+    ],
+    "scope": "8194 text and rendered panels only; engine-driven focus, not physical mouse input. Historical old-version runs do not certify current wording; no complete quest or pregnancy playthrough. Mod wording is original and does not add story mechanics."
   }
 }
