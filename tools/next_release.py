@@ -31,6 +31,21 @@ def existing_release(version, release_type, tag, release):
     return tag, release.get('name') or tag, prerelease
 
 
+def resolve_version(version, releases):
+    if version.strip():
+        return version.strip()
+    published = [release for release in releases
+                 if not release.get('draft', True) and release.get('published_at')]
+    if not published:
+        raise ValueError('没有已发布的 Release，请手动填写游戏版本号')
+    latest = max(published, key=lambda release: release['published_at'])
+    version = re.sub(r'-[TPR]\d+$', '', latest['tag_name'])
+    # Validate the inferred game version before using it for a release target.
+    next_release(version, '发行版', [])
+    print(f'Using game version {version} from latest published Release {latest["tag_name"]}')
+    return version
+
+
 def main():
     repo = os.environ['GITHUB_REPOSITORY']
     def pages(endpoint):
@@ -39,17 +54,18 @@ def main():
             check=True, capture_output=True, text=True)
         return [item for page in json.loads(result.stdout) for item in page]
     target = os.environ.get('EXISTING_RELEASE', '')
+    releases = pages('releases')
+    version = resolve_version(os.environ.get('GAME_VERSION', ''), releases)
     if target:
         # Query only the requested existing target; do not create or move its tag.
-        releases = pages('releases')
         release = next((item for item in releases if item['tag_name'] == target), {})
         tag, title, prerelease = existing_release(
-            os.environ['GAME_VERSION'], os.environ['RELEASE_TYPE'], target, release)
+            version, os.environ['RELEASE_TYPE'], target, release)
     else:
         existing = {item['name'] for item in pages('tags')}
-        existing.update(item['tag_name'] for item in pages('releases'))
+        existing.update(item['tag_name'] for item in releases)
         tag, title, prerelease = next_release(
-            os.environ['GAME_VERSION'], os.environ['RELEASE_TYPE'], existing)
+            version, os.environ['RELEASE_TYPE'], existing)
     with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
         output.write(f'tag={tag}\ntitle={title}\nprerelease={str(prerelease).lower()}\n')
     print(f'Release target: {tag} ({title}); rebuilding={bool(target)}')

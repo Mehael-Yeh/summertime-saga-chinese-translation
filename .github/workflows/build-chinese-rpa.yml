@@ -4,9 +4,10 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: "游戏版本号，例如 v21.0.0-wip.7944（无需填写 T/P/R 编号）"
-        required: true
+        description: "游戏版本号，例如 v21.0.0-wip.7944；留空沿用最近发布的 Release 游戏版本（无需填写 T/P/R 编号）"
+        required: false
         type: string
+        default: ""
       release_type:
         description: "发布类型（T：测试版，P：预发行版，R：发行版）"
         required: true
