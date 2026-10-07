@@ -20,6 +20,23 @@
 
 用户确认Credits页各职务/分组右侧的灰色文字均为用户名，全部保留原名。例如`Joaka`、`Arboris`、`Volé`、`Jelgan`、`Abigfatnobody`，已删除原有5条音译映射；其余如`DarkCookie`、`strayerror`、`CaptainSploosh`也不翻译。重音符、大小写、标点均保持原样；标题、职务/分组和按钮仍是可翻译的界面文本。
 
+## 旧版本更新日志待译
+
+7944／7722官方原生日志分别354／331条；当前8194翻译表覆盖342／319条，其余同一组12条旧原文因新版改写或删除而未精确匹配。显示时保留英文，不计为已翻译；性能、格式和完整滚动验证已通过，旧发行附件未重发。后续回填须按各版changelog原文及行号登记，不覆盖8194的old字符串，也不能因内容相似就强制套用新版译文。
+
+- `- Revisited art for the conclusion of of Debbie's evening scene in the kitchen.`
+- `- Increased jenny presence awareness in various Debbie events.`
+- `- Moved Anon to correct postilion after deciding not to sleep in Jenny's bed.`
+- `- Provided secondary trigger in Deb's first mall trip to avoid conflict with Jenny.`
+- `- Upgraded stat check when asking Deb about kissing practice with a player choice.`
+- `- Delayed escalation in Deb mall event such that it aligns with her story content.`
+- `- Added a pregnancy cycle for Debbie, including a various new dialogue scenes.`
+- `- Worked on adding variety to Summerville in the form of More crowd variants.`
+- `- Fixed part of Jenny's initial sex camshow quest being accidentally skipped.`
+- `- Expanded the forest slightly. Don't worry about it, nothing see there. >_>;;`
+- `- Made a minor cutscene variation for the lotion variant of Deb's Mall event.`
+- `- Introduced small dialogue variations to account for when Deb is at the mall.`
+
 ## 已修复条目
 
 | 项目 | 修改前 | 修改后 | 数量 |

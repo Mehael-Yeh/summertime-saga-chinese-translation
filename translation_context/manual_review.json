@@ -226521,6 +226521,98 @@
         "unit_suite_tests": 288,
         "unit_suite_passed": true,
         "translation_validation": "Passed --changed --no-compare. Default HEAD structure guard reports expected screen/runtime changes; independent comparison confirms all 372 source/target pairs unchanged, and native engine compilation/rendering passed."
+      },
+      "older_version_runtime_validation": {
+        "date": "2026-10-07",
+        "scope": "Same optimized changelog code tested in official 7944 and 7722 engines; no production-code or translation-pair changes; historical release packages not rebuilt",
+        "native_reports": [
+          {
+            "passed": true,
+            "version": "21.0.0-wip.7944",
+            "optimized": true,
+            "coverage": [
+              {
+                "key": "21.0.0",
+                "entries": 354,
+                "headers": 22,
+                "translated_entries": 342,
+                "english_fallback_entries": [
+                  "- Revisited art for the conclusion of of Debbie's evening scene in the kitchen.",
+                  "- Increased jenny presence awareness in various Debbie events.",
+                  "- Moved Anon to correct postilion after deciding not to sleep in Jenny's bed.",
+                  "- Provided secondary trigger in Deb's first mall trip to avoid conflict with Jenny.",
+                  "- Upgraded stat check when asking Deb about kissing practice with a player choice.",
+                  "- Delayed escalation in Deb mall event such that it aligns with her story content.",
+                  "- Added a pregnancy cycle for Debbie, including a various new dialogue scenes.",
+                  "- Worked on adding variety to Summerville in the form of More crowd variants.",
+                  "- Fixed part of Jenny's initial sex camshow quest being accidentally skipped.",
+                  "- Expanded the forest slightly. Don't worry about it, nothing see there. >_>;;",
+                  "- Made a minor cutscene variation for the lotion variant of Deb's Mall event.",
+                  "- Introduced small dialogue variations to account for when Deb is at the mall."
+                ]
+              }
+            ],
+            "fully_revealed": true,
+            "english_roundtrip_exact": true,
+            "native_data_unchanged": true,
+            "older_panel_rendered": true,
+            "initial_chinese_text_render_seconds": 0.09073360002366826,
+            "translation_sha256": "791fa75f00a912a1aff7e80c424182b6ecc569a67f29240d3de804774133b19a",
+            "official_changelog_sha256": "82b1b1329fd3388ae29846b2086fadddd6492262ad38a9810133a3f4951ff6b9",
+            "probe_sha256": "c76c3fe286010def05bd17e7fde902bde8531f68bdf07313d72d1233f6610e73",
+            "installation_scope": "Current changelog helper/screen, font configuration and menu labels; not a full translation-package or gameplay compatibility test",
+            "initial_chinese_text_render_seconds_before": 0.46219960000598803,
+            "baseline_translation_sha256": "22f36cdc531807fdb1980ea76da3293b2fe0298e204a05007caee2837f7e4033",
+            "baseline_probe_sha256": "cedae7abe2582b1aad2cc0191318d5848ab3acf157feb3ca5a4dadfa2a0217b9",
+            "top_and_final_bottom_screenshots_reviewed": true,
+            "native_report": ".codex_tmp/perfect-standalone7944/changelog_probe_after.json",
+            "historical_release_assets_updated": false
+          },
+          {
+            "passed": true,
+            "version": "21.0.0-wip.7722",
+            "optimized": true,
+            "coverage": [
+              {
+                "key": "21.0.0",
+                "entries": 331,
+                "headers": 21,
+                "translated_entries": 319,
+                "english_fallback_entries": [
+                  "- Revisited art for the conclusion of of Debbie's evening scene in the kitchen.",
+                  "- Increased jenny presence awareness in various Debbie events.",
+                  "- Moved Anon to correct postilion after deciding not to sleep in Jenny's bed.",
+                  "- Provided secondary trigger in Deb's first mall trip to avoid conflict with Jenny.",
+                  "- Upgraded stat check when asking Deb about kissing practice with a player choice.",
+                  "- Delayed escalation in Deb mall event such that it aligns with her story content.",
+                  "- Added a pregnancy cycle for Debbie, including a various new dialogue scenes.",
+                  "- Worked on adding variety to Summerville in the form of More crowd variants.",
+                  "- Fixed part of Jenny's initial sex camshow quest being accidentally skipped.",
+                  "- Expanded the forest slightly. Don't worry about it, nothing see there. >_>;;",
+                  "- Made a minor cutscene variation for the lotion variant of Deb's Mall event.",
+                  "- Introduced small dialogue variations to account for when Deb is at the mall."
+                ]
+              }
+            ],
+            "fully_revealed": true,
+            "english_roundtrip_exact": true,
+            "native_data_unchanged": true,
+            "older_panel_rendered": true,
+            "initial_chinese_text_render_seconds": 0.07310009998036548,
+            "translation_sha256": "791fa75f00a912a1aff7e80c424182b6ecc569a67f29240d3de804774133b19a",
+            "official_changelog_sha256": "18e134d211a5cac6f500c879c02442beb0620ffc1c088ec7db78c65df5748005",
+            "probe_sha256": "c76c3fe286010def05bd17e7fde902bde8531f68bdf07313d72d1233f6610e73",
+            "installation_scope": "Current changelog helper/screen, font configuration and menu labels; not a full translation-package or gameplay compatibility test",
+            "initial_chinese_text_render_seconds_before": 0.4389636000851169,
+            "baseline_translation_sha256": "22f36cdc531807fdb1980ea76da3293b2fe0298e204a05007caee2837f7e4033",
+            "baseline_probe_sha256": "cedae7abe2582b1aad2cc0191318d5848ab3acf157feb3ca5a4dadfa2a0217b9",
+            "top_and_final_bottom_screenshots_reviewed": true,
+            "native_report": ".codex_tmp/perfect-standalone7722/changelog_probe_after.json",
+            "historical_release_assets_updated": false
+          }
+        ],
+        "unit_suite_tests": 288,
+        "unit_suite_passed": true
       }
     }
   },

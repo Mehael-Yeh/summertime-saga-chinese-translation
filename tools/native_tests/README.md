@@ -82,3 +82,9 @@ python tools/native_tests/branch_coverage.py .codex_tmp/perfect-standalone8194/p
 ## 最近存档姓名回归
 
 `python tools/native_tests/run_name_probe.py .codex_tmp/perfect-standalone8194 zzz_perfect_inspect.rpy`使用已有隔离入口和quick-6基线，在全新的`ssct-name-probe-saves`测试目录检查无存档回退、无新增元数据的旧原生签名档中文姓名、最近自动存档优先、生成载荷及元数据继承、当前姓名和随机状态保护。不会修改基线存档；入口在finally恢复，原生进程55秒截止。重复运行须使用新的隔离副本或先归档独立测试目录。姓名检查不能作为全卡口或线路验收。
+
+## 更新日志旧版本性能验证
+
+`python tools/native_tests/run_changelog_probe.py .codex_tmp/perfect-standalone7944 zzz_perfect_cross_version.rpy`在已有官方隔离副本安装当前日志模块、字体配置及菜单标签，仅验证日志组件，不覆盖旧版其他翻译。通过`--baseline`指定优化前rpy进行同环境对比。副本须位于仓库`.codex_tmp`且没有zh_hans.rpa，以免重复加载；已有探针在finally恢复，进程55秒截止，存档／偏好使用独立测试目录。
+
+报告按本版实际日志计数，不固定8194条数；核对已知译文、未知原文后备、标题数量、全部段落揭示、最终底部、中英往返和Older面板，保留源码／本体日志／探针摘要及每次Text.render耗时。`changelog_probe_before.json`和`changelog_probe_after.json`分别归档基线与优化结果，顶部及最终底部截图另存；此结果不表示整包或全玩法兼容，也不会更新历史发行附件。
