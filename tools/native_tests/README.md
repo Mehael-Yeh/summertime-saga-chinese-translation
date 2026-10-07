@@ -78,3 +78,7 @@ tools/native_tests/run_navigation_responses.ps1 -StagePath '.codex_tmp/perfect-s
 ```powershell
 python tools/native_tests/branch_coverage.py .codex_tmp/perfect-standalone8194/perfect_gate_inventory.json .codex_tmp/perfect-standalone8194/interactions_tick_4.json --output .codex_tmp/perfect-standalone8194/native_branch_coverage.json
 ```
+
+## 最近存档姓名回归
+
+`python tools/native_tests/run_name_probe.py .codex_tmp/perfect-standalone8194 zzz_perfect_inspect.rpy`使用已有隔离入口和quick-6基线，在全新的`ssct-name-probe-saves`测试目录检查无存档回退、无新增元数据的旧原生签名档中文姓名、最近自动存档优先、生成载荷及元数据继承、当前姓名和随机状态保护。不会修改基线存档；入口在finally恢复，原生进程55秒截止。重复运行须使用新的隔离副本或先归档独立测试目录。姓名检查不能作为全卡口或线路验收。

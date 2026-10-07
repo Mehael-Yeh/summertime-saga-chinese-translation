@@ -226,7 +226,43 @@ init 998 python:
                 'actors': {actor.ref: getattr(getattr(actor, 'where', None), 'ref', None)
                            for actor in cast}}
 
-    def _ssct_perfect_construct():
+    def _ssct_perfect_name_json(data):
+        data['ssct_protagonist_name'] = saga.cast.anon.name
+
+    def _ssct_perfect_legacy_name(slot):
+        # Read native roots without unfreezing the rollback log or loading the
+        # slot into the current game. Never prompt or trust an unknown signer.
+        engine = renpy.loadsave
+        data, signatures = engine.location.load(slot)
+        verify = getattr(renpy.savetoken, 'verify_data', None)
+        if not callable(verify) or not verify(data, signatures):
+            return None
+        roots, unused_log = engine.loads(data)
+        return roots.get('#saga.cast.anon.name')
+
+    def _ssct_perfect_latest_name():
+        import math
+        candidates = []
+        for slot in renpy.list_saved_games(fast=True):
+            try:
+                stamp = renpy.slot_mtime(slot)
+                if isinstance(stamp, (int, float)) and math.isfinite(stamp):
+                    candidates.append((stamp, slot))
+            except Exception:
+                continue
+        for unused_stamp, slot in sorted(candidates, reverse=True):
+            try:
+                metadata = renpy.slot_json(slot) or {}
+                name = metadata.get('ssct_protagonist_name')
+                if not isinstance(name, str) or not name.strip():
+                    name = _ssct_perfect_legacy_name(slot)
+                if isinstance(name, str) and name.strip():
+                    return name
+            except Exception as error:
+                renpy.log('SSCT saved name unavailable for %r: %s' % (slot, type(error).__name__))
+        return 'Anon'
+
+    def _ssct_perfect_construct(protagonist_name='Anon'):
         from saga import cast, flow, step, sets
         from saga.game import init as init_game
         # Native new-game setup installs the GUI, map and daily-life listeners.
@@ -308,7 +344,7 @@ init 998 python:
         progression = _ssct_perfect_progression(steps, origins)
 
         anon = cast.anon
-        anon.name = 'Anon'
+        anon.name = protagonist_name
         anon.cash, anon.bank = 100000, 9990000
         anon.chr = anon.dex = anon.int = anon.str = 10
         anon.costume = 'casual'
@@ -353,6 +389,7 @@ init 998 python:
         contexts, log = renpy.game.contexts, renpy.game.log
         random_state = renpy.random.getstate()
         try:
+            protagonist_name = _ssct_perfect_latest_name()
             renpy.python.clean_stores()
             renpy.execute_default_statement(True)
             context = renpy.execution.Context(True, clear=True)
@@ -360,7 +397,7 @@ init 998 python:
             renpy.game.log = RollbackLog()
             context.goto_label('ssct_perfect_runtime_resume')
             renpy.game.log.begin(force=True)
-            _ssct_perfect_construct()
+            _ssct_perfect_construct(protagonist_name)
             # Include the native #saga stores in the saved roots before starting
             # the resume checkpoint; begin() alone resets their change baseline.
             renpy.game.log.complete(False)
@@ -449,6 +486,7 @@ init 998 python:
         return with_star
 
 init 999 python:
+    config.save_json_callbacks.append(_ssct_perfect_name_json)
     import saga.display.view as _ssct_perfect_view_module
     from saga.entity import Viewable as _ssct_perfect_viewable
     _ssct_perfect_native_sift = _ssct_perfect_view_module.sift

@@ -43515,5 +43515,55 @@
       "diff_check_passed": true,
       "release_asset_test_scope": "Simulated fixtures only; no real release assets changed"
     }
+  },
+  "perfect_save_name_inheritance_20261007": {
+    "date": "2026-10-07",
+    "scope": "Latest readable normal/auto/quick saved protagonist name; Anon fallback; no route or all-gate acceptance claim",
+    "source_sha256": "cf5845bd2cbd1f99d5dadee4cb49a3bcd5fd4e574f225b5b9eea4fc9226fcc32",
+    "native_reports": [
+      {
+        "version": "21.0.0-wip.7722",
+        "checks": [
+          "no saves defaults to Anon",
+          "signed legacy native save supplies Chinese name",
+          "newest save beats current unsaved name",
+          "generated native payload and metadata inherit name",
+          "generation preserves live name and random state"
+        ],
+        "passed": true,
+        "source_sha256": "cf5845bd2cbd1f99d5dadee4cb49a3bcd5fd4e574f225b5b9eea4fc9226fcc32"
+      },
+      {
+        "version": "21.0.0-wip.7944",
+        "checks": [
+          "no saves defaults to Anon",
+          "signed legacy native save supplies Chinese name",
+          "newest save beats current unsaved name",
+          "generated native payload and metadata inherit name",
+          "generation preserves live name and random state"
+        ],
+        "passed": true,
+        "source_sha256": "cf5845bd2cbd1f99d5dadee4cb49a3bcd5fd4e574f225b5b9eea4fc9226fcc32"
+      },
+      {
+        "version": "21.0.0-wip.8194",
+        "checks": [
+          "no saves defaults to Anon",
+          "signed legacy native save supplies Chinese name",
+          "newest save beats current unsaved name",
+          "generated native payload and metadata inherit name",
+          "generation preserves live name and random state"
+        ],
+        "passed": true,
+        "source_sha256": "cf5845bd2cbd1f99d5dadee4cb49a3bcd5fd4e574f225b5b9eea4fc9226fcc32"
+      }
+    ],
+    "targeted_unit_tests": 6,
+    "targeted_unit_tests_passed": true,
+    "baseline_save_files_unchanged": true,
+    "unit_suite_tests": 283,
+    "unit_suite_passed": true,
+    "context_and_translation_audits_passed": true,
+    "native_fixture_sha256": "5324190a6556a9af1729a31125a6b207d0edc0ee757b2983d7454a6644a7ce99"
   }
 }
