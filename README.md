@@ -14,7 +14,7 @@
 
 - 翻译以机器翻译为基础，并持续进行人工校对、术语统一和剧情润色。
 - 仓库源码不包含游戏本体；部分 GitHub Releases 会另附对应版本的 PC 游戏压缩包，是否随附及适配版本以具体发行页为准。
-- 翻译源文件位于 `tl/zh_hans/`，发布版汉化包名为 `zh_hans.rpa`。
+- 翻译源文件位于 `tl/zh_hans/`。发包工作流同时提供含 Mod 的 `zh_hans.rpa` 和不含 Mod 的 `zh_hans_no_mods.rpa`；旧发行版是否提供两种附件，以发行页为准。
 - 项目内置默认切换为中文、语言入口和短信界面适配等辅助脚本。
 - 翻译仍在完善中，可能存在错译、漏译、语气不一致或版本兼容问题。
 
@@ -24,10 +24,12 @@
 
 ### :star: 方法一：安装 `zh_hans.rpa`（推荐）
 
-1. 从项目的 [Releases](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases) 页面[下载](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases/latest)对应版本的 `zh_hans.rpa`。
+1. 从项目的 [Releases](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases) 页面[下载](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases/latest)对应版本的汉化包：**含 Mod 选 `zh_hans.rpa`；仅汉化选 `zh_hans_no_mods.rpa`，下载后改名为 `zh_hans.rpa`。**
 2. 完全退出游戏。
 3. 将 `zh_hans.rpa` 放入游戏根目录下的 `game` 文件夹。
 4. 启动游戏并确认界面与对话已切换为中文。
+
+两种包只安装一种。无 Mod 包保留字体、语言入口、短信适配及更新日志汉化等翻译辅助脚本，排除仓库的整个 `mods/` 目录。从含 Mod 包切换到无 Mod 包时，先删除旧 `game/zh_hans.rpa`，以及此前单独安装的同名 Mod 脚本和 `.rpyc`；换包不会撤销已经写入存档的 Mod 效果。
 
 ```text
 SummertimeSaga/

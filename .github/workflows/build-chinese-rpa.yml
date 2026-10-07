@@ -64,17 +64,26 @@ jobs:
           cp -R mods build/game/mods
           ./renpy-8.5.3-sdk/renpy.sh build compile
 
-      - name: Build and verify zh_hans.rpa
-        run: python tools/build_rpa.py --root build/game --output dist/zh_hans.rpa
+      - name: Test RPA package variants
+        run: python tools/test_build_rpa.py
 
-      - name: Verify zh_hans.rpa
-        run: python tools/build_rpa.py --root build/game --output dist/zh_hans.rpa --verify-only
+      - name: Build and verify both RPA variants
+        run: |
+          python tools/build_rpa.py --root build/game --output dist/zh_hans.rpa --require-compiled
+          python tools/build_rpa.py --root build/game --output dist/zh_hans_no_mods.rpa --exclude-mods --require-compiled
 
-      - name: Upload zh_hans.rpa
+      - name: Verify both RPA variants
+        run: |
+          python tools/build_rpa.py --root build/game --output dist/zh_hans.rpa --verify-only --require-compiled
+          python tools/build_rpa.py --root build/game --output dist/zh_hans_no_mods.rpa --exclude-mods --verify-only --require-compiled
+
+      - name: Upload both RPA variants
         uses: actions/upload-artifact@v7
         with:
           name: summertime-saga-chinese-rpa-${{ github.sha }}
-          path: dist/zh_hans.rpa
+          path: |
+            dist/zh_hans.rpa
+            dist/zh_hans_no_mods.rpa
           if-no-files-found: error
           retention-days: 30
 
@@ -122,7 +131,7 @@ jobs:
           name: summertime-saga-chinese-rpa-${{ github.sha }}
           path: dist
 
-      - name: Publish zh_hans.rpa to GitHub Release
+      - name: Publish both RPA variants to GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
           EVENT_NAME: ${{ github.event_name }}
@@ -136,14 +145,14 @@ jobs:
           set -euo pipefail
           # 发布已有 Release 时只更新附件，不另行分配编号。
           if [[ "$EVENT_NAME" == "release" ]]; then
-            gh release upload "$EXISTING_TAG" dist/zh_hans.rpa --clobber --repo "$GITHUB_REPOSITORY"
+            gh release upload "$EXISTING_TAG" dist/zh_hans.rpa dist/zh_hans_no_mods.rpa --clobber --repo "$GITHUB_REPOSITORY"
           else
             flags=(--latest)
             if [[ "$PRERELEASE" == "true" ]]; then
               flags=(--prerelease --latest=false)
             fi
             # 新编号始终创建新 Release，不覆盖已有编号。
-            gh release create "$NEXT_TAG" dist/zh_hans.rpa \
+            gh release create "$NEXT_TAG" dist/zh_hans.rpa dist/zh_hans_no_mods.rpa \
               --title "$NEXT_TITLE" \
               --target "$TARGET_SHA" \
               --generate-notes \

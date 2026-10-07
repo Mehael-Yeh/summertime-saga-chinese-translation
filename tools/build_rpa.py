@@ -15,22 +15,23 @@ HEADER_SIZE = 34
 KEY = 0x53534354  # "SSCT"
 
 
-def source_files(root: Path) -> list[tuple[str, Path]]:
+def source_files(root: Path, *, include_mods: bool = True) -> list[tuple[str, Path]]:
     files = [
         (path.relative_to(root).as_posix(), path)
         for path in (root / "tl").rglob("*")
         if path.is_file()
     ]
-    files.extend(
-        (path.relative_to(root).as_posix(), path)
-        for path in (root / "mods").rglob("*")
-        if path.is_file() and path.suffix in (".rpy", ".rpyc", ".rpym", ".rpymc")
-    )
+    if include_mods:
+        files.extend(
+            (path.relative_to(root).as_posix(), path)
+            for path in (root / "mods").rglob("*")
+            if path.is_file() and path.suffix in (".rpy", ".rpyc", ".rpym", ".rpymc")
+        )
     return sorted(files)
 
 
-def build(root: Path, output: Path) -> dict[str, str]:
-    files = source_files(root)
+def build(root: Path, output: Path, *, include_mods: bool = True) -> dict[str, str]:
+    files = source_files(root, include_mods=include_mods)
     index: dict[str, list[tuple[int, int]]] = {}
     hashes: dict[str, str] = {}
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -66,8 +67,8 @@ def read_index(archive_path: Path) -> tuple[int, dict[str, list[tuple[int, int]]
     return key, index
 
 
-def verify(root: Path, archive_path: Path) -> None:
-    expected = {name: path for name, path in source_files(root)}
+def verify(root: Path, archive_path: Path, *, include_mods: bool = True) -> None:
+    expected = {name: path for name, path in source_files(root, include_mods=include_mods)}
     key, index = read_index(archive_path)
     if set(index) != set(expected):
         missing = sorted(set(expected) - set(index))
@@ -93,6 +94,8 @@ def main() -> None:
     parser.add_argument("--root", type=Path, default=Path.cwd())
     parser.add_argument("--output", type=Path, default=Path("dist/zh_hans.rpa"))
     parser.add_argument("--verify-only", action="store_true")
+    parser.add_argument("--exclude-mods", action="store_true",
+                        help="Package only translation resources; omit all mods/ entries")
     parser.add_argument("--require-compiled", action="store_true",
                         help="Fail unless every .rpy/.rpym source has a compiled counterpart")
     args = parser.parse_args()
@@ -100,15 +103,16 @@ def main() -> None:
     root = args.root.resolve()
     output = args.output.resolve()
     if args.require_compiled:
-        missing = [name for name, path in source_files(root)
+        missing = [name for name, path in source_files(root, include_mods=not args.exclude_mods)
                    if path.suffix in ('.rpy', '.rpym')
                    and not path.with_suffix(path.suffix + 'c').is_file()]
         if missing:
-            parser.error(f"Missing compiled scripts ({len(missing)}); compile the staged game first")
+            details = ', '.join(missing[:10]) + (' ...' if len(missing) > 10 else '')
+            parser.error(f"Missing compiled scripts ({len(missing)}): {details}; compile the staged game first")
     if not args.verify_only:
-        hashes = build(root, output)
+        hashes = build(root, output, include_mods=not args.exclude_mods)
         print(f"Packed {len(hashes)} files into {output}")
-    verify(root, output)
+    verify(root, output, include_mods=not args.exclude_mods)
 
 
 if __name__ == "__main__":
