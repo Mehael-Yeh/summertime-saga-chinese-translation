@@ -2,11 +2,18 @@
 # Unknown entries fall back to English; never replace saga.menu.logs or game data.
 init -1 python:
     import re as _ssct_logs_re
+    import functools as _ssct_logs_functools
 
     def _ssct_changelog_translation(source):
         return renpy.translate_string(source + '{#ssct_changelog}').removesuffix('{#ssct_changelog}')
 
     def _ssct_changelog_text(content):
+        return _ssct_changelog_cached_text(_preferences.language, content)
+
+    @_ssct_logs_functools.lru_cache(maxsize=8)
+    def _ssct_changelog_cached_text(language, content):
+        if language is None:
+            return content
         result = []
         for line in content.splitlines(True):
             body = line.rstrip('\r\n')
@@ -18,6 +25,30 @@ init -1 python:
             result.append(body + ending)
         return ''.join(result)
 
+    @_ssct_logs_functools.lru_cache(maxsize=8)
+    def _ssct_changelog_cached_sections(language, content):
+        translated = _ssct_changelog_cached_text(language, content)
+        # Native version headers close their style tags on the same line.
+        # Keep blank lines; one boundary newline becomes the vbox line gap.
+        parts = _ssct_logs_re.split(r'(?m)(?=^\{=logs_menu_group\})', translated)
+        parts = [part for part in parts if part]
+        return tuple(part[:-1] if index < len(parts) - 1 and part.endswith('\n')
+                     else part for index, part in enumerate(parts))
+
+    def _ssct_changelog_sections(content):
+        return _ssct_changelog_cached_sections(_preferences.language, content)
+
+    def _ssct_changelog_reveal(scroll, total):
+        screen = renpy.get_screen('logs')
+        if screen is None:
+            return
+        shown = screen.scope['shown']
+        # Lay out only the first viewport and one viewport ahead. Reveal more
+        # as the reader scrolls instead of shaping the entire history at once.
+        if shown < total and scroll.value + scroll.page * 2 >= scroll.range:
+            screen.scope['shown'] = shown + 1
+            renpy.restart_interaction()
+
 init 1:
     screen logs():
         style_prefix 'logs_menu' tag menu
@@ -26,6 +57,7 @@ init 1:
         default keys = saga.menu.logs.keys()
         default log = next(iter(saga.menu.logs))
         default scroll = ui.adjustment()
+        default shown = 2
 
         use base_menu():
             side 't c':
@@ -36,6 +68,7 @@ init 1:
                     hbox:
                         for v in keys:
                             textbutton v action (SetScreenVariable('log', v),
+                                             SetScreenVariable('shown', 2),
                                              Function(scroll.change , 0))
                         textbutton _('Older') action SetScreenVariable('log', None)
 
@@ -46,10 +79,18 @@ init 1:
                         yadjustment scroll
 
                         if log:
-                            text _ssct_changelog_text(saga.menu.logs[log]) substitute False
+                            vbox:
+                                spacing 2
+                                xfill True
+                                for section in _ssct_changelog_sections(saga.menu.logs[log])[:shown]:
+                                    text section substitute False
                         else:
                             text _('Older changelog entries can be found on the '
                                'official wiki.')
+
+        if log and shown < len(_ssct_changelog_sections(saga.menu.logs[log])):
+            timer .05 repeat True action Function(_ssct_changelog_reveal, scroll,
+                len(_ssct_changelog_sections(saga.menu.logs[log])))
 
 
 

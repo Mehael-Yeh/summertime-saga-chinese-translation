@@ -226488,7 +226488,7 @@
     "tl/zh_hans/changelog_translation8194.rpy": {
       "status": "translated_ui_support",
       "pairs": 372,
-      "sha256": "22f36cdc531807fdb1980ea76da3293b2fe0298e204a05007caee2837f7e4033",
+      "sha256": "791fa75f00a912a1aff7e80c424182b6ecc569a67f29240d3de804774133b19a",
       "changelog_validation": {
         "date": "2026-10-05",
         "game_version": "21.0.0-wip.8194",
@@ -226500,6 +226500,27 @@
         "version_sections": 24,
         "scope": "24个版本段370条正文及Preview/Hotfix标题词；默认/中文/默认逐条对比，英文原串完整回退；顶部与滚动底部页面截图；未知新条目英文后备；本体日志数据未改。",
         "full_playthrough": false
+      },
+      "runtime_optimization": {
+        "date": "2026-10-07",
+        "game_version": "21.0.0-wip.8194",
+        "translation_sha256": "791fa75f00a912a1aff7e80c424182b6ecc569a67f29240d3de804774133b19a",
+        "scope": "Rendering-only change; all 372 old/new pairs unchanged. Bounded language/content caches, native version-section layout and viewport-ahead incremental reveal.",
+        "native_first_chinese_text_render_seconds_before": 0.559528800076805,
+        "native_first_chinese_text_render_seconds_after": 0.0761962000397034,
+        "timing_scope": "Sum of native Text.render calls for the initial Chinese display, not total application startup or every machine.",
+        "entries_verified": 370,
+        "version_headers_verified": 24,
+        "complete_scroll_to_last_section": true,
+        "english_roundtrip_exact": true,
+        "top_and_final_bottom_screenshots_reviewed": true,
+        "native_metrics": ".codex_tmp/perfect-standalone8194/log_profile.json",
+        "native_probe_sha256": "1ed39b4cc5b1f8a66266f81bb58d5d5df4f5771bbabef54b1d181fad3d81c930",
+        "targeted_unit_tests": 5,
+        "targeted_unit_tests_passed": true,
+        "unit_suite_tests": 288,
+        "unit_suite_passed": true,
+        "translation_validation": "Passed --changed --no-compare. Default HEAD structure guard reports expected screen/runtime changes; independent comparison confirms all 372 source/target pairs unchanged, and native engine compilation/rendering passed."
       }
     }
   },
