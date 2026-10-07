@@ -26,6 +26,11 @@ on:
           - "复制官方原包"
           - "引用原包下载链接"
           - "不复用"
+      existing_release:
+        description: "重发已有版本的完整标签（例如 v21.0.0-wip.8194-R4）；留空创建新编号。重发保留原包和说明"
+        required: false
+        type: string
+        default: ""
   release:
     types:
       - published
@@ -108,17 +113,18 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Choose next release number
+      - name: Resolve release target
         if: github.event_name == 'workflow_dispatch'
         id: next-release
         env:
           GH_TOKEN: ${{ github.token }}
           GAME_VERSION: ${{ inputs.version }}
           RELEASE_TYPE: ${{ inputs.release_type }}
+          EXISTING_RELEASE: ${{ inputs.existing_release }}
         run: python tools/next_release.py
 
       - name: Find previous official package of the same game version
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' && inputs.existing_release == ''
         env:
           GH_TOKEN: ${{ github.token }}
           TARGET_TAG: ${{ steps.next-release.outputs.tag }}
@@ -135,7 +141,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           EVENT_NAME: ${{ github.event_name }}
-          EXISTING_TAG: ${{ github.event.release.tag_name }}
+          EXISTING_TAG: ${{ github.event.release.tag_name || inputs.existing_release }}
           NEXT_TAG: ${{ steps.next-release.outputs.tag }}
           NEXT_TITLE: ${{ steps.next-release.outputs.title }}
           PRERELEASE: ${{ steps.next-release.outputs.prerelease }}
@@ -144,7 +150,7 @@ jobs:
         run: |
           set -euo pipefail
           # 发布已有 Release 时只更新附件，不另行分配编号。
-          if [[ "$EVENT_NAME" == "release" ]]; then
+          if [[ -n "$EXISTING_TAG" ]]; then
             gh release upload "$EXISTING_TAG" dist/zh_hans.rpa dist/zh_hans_no_mods.rpa --clobber --repo "$GITHUB_REPOSITORY"
           else
             flags=(--latest)
@@ -160,7 +166,7 @@ jobs:
           fi
 
       - name: Reuse official game package
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' && inputs.existing_release == ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: python tools/reuse_official_package.py --apply

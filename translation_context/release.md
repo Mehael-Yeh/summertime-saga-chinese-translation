@@ -58,6 +58,8 @@ GitHub当前文档规定单个Release附件小于2GiB，每个Release最多1000�
 
 ## 构建产物现状
 
+重发已有发行版时，在发包Actions的`existing_release`填写完整标签，例如`v21.0.0-wip.8194-R4`，游戏版本与发布类型必须匹配。工作流验证目标已发布且预发行状态一致，重新编译并覆盖两个RPA附件，保留标签、原包附件和更新说明，不分配新编号，也不执行原包迁移。留空仍按原规则创建下一个编号。
+
 发包Actions从同一份编译后的`build/game`生成两个附件：`zh_hans.rpa`保留现有行为，包含翻译与`mods/`脚本；`zh_hans_no_mods.rpa`使用`tools/build_rpa.py --exclude-mods`，只收集`tl/`资源，排除所有`mods/`条目。无Mod包保留翻译所需的字体、语言入口、短信和更新日志等辅助脚本。两份包分别检查编译产物齐全，并对索引及文件内容进行校验；Artifact上传、已有Release更新和新编号Release创建均包含两个附件。安装时二选一，无Mod包下载后改名为`game/zh_hans.rpa`，先移除旧包及重复散装Mod；已有存档后果不随换包自动回退。
 
 `tools/test_build_rpa.py`覆盖翻译资源逐字一致、Mod目录排除、含Mod包误当无Mod包时拒绝、内容改变时拒绝、所选包编译缺失检查及CLI验证模式。旧发行版不自动补发无Mod附件，是否包含新附件以发行页实际内容为准。

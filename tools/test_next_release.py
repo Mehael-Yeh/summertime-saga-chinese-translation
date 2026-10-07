@@ -1,6 +1,6 @@
 import unittest
 
-from next_release import next_release
+from next_release import existing_release, next_release
 
 
 class ReleaseNumberTests(unittest.TestCase):
@@ -29,6 +29,26 @@ class ReleaseNumberTests(unittest.TestCase):
         for version in ['', 'v21.0.0-wip.7944-T2', 'bad\nversion', '$(command)']:
             with self.assertRaises(ValueError):
                 next_release(version, '发行版', [])
+
+    def test_rebuild_existing_r4(self):
+        tag = 'v21.0.0-wip.8194-R4'
+        release = dict(tag_name=tag, name='R4 title', draft=False, prerelease=False)
+        self.assertEqual(existing_release('v21.0.0-wip.8194', '发行版', tag, release),
+                         (tag, 'R4 title', False))
+
+    def test_rebuild_rejects_invalid_target(self):
+        for tag in ['v21.0.0-wip.7944-R4', 'v21.0.0-wip.8194-P4',
+                    'v21.0.0-wip.8194-R0', 'v21.0.0-wip.8194-R4-extra']:
+            release = dict(tag_name=tag, draft=False, prerelease=False)
+            with self.assertRaises(ValueError):
+                existing_release('v21.0.0-wip.8194', '发行版', tag, release)
+
+    def test_rebuild_requires_published_matching_release(self):
+        tag = 'v21.0.0-wip.8194-R4'
+        for release in [{}, dict(tag_name=tag, draft=True, prerelease=False),
+                        dict(tag_name=tag, draft=False, prerelease=True)]:
+            with self.assertRaises(ValueError):
+                existing_release('v21.0.0-wip.8194', '发行版', tag, release)
 
 
 if __name__ == '__main__':

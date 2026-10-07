@@ -56,6 +56,9 @@ jobs:
       - name: Test release package reuse
         run: python tools/test_reuse_official_package.py
 
+      - name: Test release target selection
+        run: python tools/test_next_release.py
+
       - name: Test RPA package variants
         run: python tools/test_build_rpa.py
 
