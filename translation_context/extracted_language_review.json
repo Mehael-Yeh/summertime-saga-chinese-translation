@@ -22938,5 +22938,931 @@
         ".codex_tmp/engine8194-official/font_native_ui.png"
       ]
     }
+  },
+  "font_symbol_save_compatibility_8194": {
+    "date": "2026-10-06",
+    "game_version": "21.0.0-wip.8194",
+    "source": "tl/zh_hans/base_box/style_box.rpy",
+    "sha256": "6cc4acf2f5234ba30fca89f478535f9fa3f4fe939c2a4e2e2f041732b5309d75",
+    "cause": "辅助函数定义在translate zh_hans python中，语言初始化重新定义函数，使读档中的旧函数引用与store全局函数不同，重存时报PicklingError。",
+    "fix": "辅助函数改在init python中定义一次；语言块仍仅设置中文字体和符号回退，不改函数体或字体范围。",
+    "validation": {
+      "native_save_after_load": true,
+      "fresh_process_reload_and_resave": true,
+      "language_switch_saves": 8,
+      "function_identity_stable": true,
+      "normal_gallery_records": 83,
+      "cookie_override": false,
+      "full_playthrough": false,
+      "artifacts": [
+        ".codex_tmp/font_save_switch_regression.json",
+        ".codex_tmp/engine8194-official/perfect_font_reload_regression.json"
+      ],
+      "structural_comparison": "Python支持文件从语言块移入init的3项结构差异已逐项审阅；无翻译对或对白变动。全量--no-compare检查347文件通过，未修改校验器。"
+    },
+    "historical_review_items_added": 0
+  },
+  "runtime_support_validation_20261006": {
+    "cause": "style_box.rpy is a code-only font configuration script. Moving the helper out of language-switch Python is needed for save serialization; immutable dialogue comparison misclassified its anonymous Python container as a dialogue label.",
+    "fix": "Both baseline and current must consist exclusively of init/translate Python blocks before runtime classification. Parse Python AST and reject functions/classes defined during language switching; retain encoding/newline checks and mixed/dialogue/string-table structure protection. Collect translation labels across the whole file.",
+    "font_runtime_code_changed_in_this_batch": false,
+    "source_sha256": {
+      "tl/zh_hans/base_box/style_box.rpy": "6cc4acf2f5234ba30fca89f478535f9fa3f4fe939c2a4e2e2f041732b5309d75",
+      "tools/validate_translations.py": "ea269275c245e0c46d987374906cd3a16d3967f282f3c6a9d9f57e95b82b513e",
+      "tools/test_translation_audits.py": "690af846c765015c9ae8282bea027980abef18e6a1cdddb27df46502da7b1592"
+    },
+    "validation": {
+      "regression_tests": 12,
+      "changed_files": "passed, one runtime support file",
+      "all_files": "passed, 347 files including three code-only support scripts",
+      "newline_cleanup": "confirm.rpy had 3 CRLF endings among 8 LF markers; decoded content exactly matched HEAD. Normalized to LF with no string or code changes.",
+      "native_execution": "No new engine execution in this batch because font runtime code is unchanged; historical eight switch/save checks retained as historical evidence.",
+      "additional_checks": {
+        "context_format": "19 files; zero differences",
+        "approved_sentences": "2027; zero mismatches",
+        "recurring_terms": "zero mismatches",
+        "manual_coverage": "347 files, 40891 pairs; zero stale or missing",
+        "git_diff_check": "passed"
+      }
+    },
+    "translation_coverage_changed": false,
+    "git_commit_or_push": false
+  },
+  "native_device_frontier_validation_20261006": {
+    "scope": "Native rendered device/minigame execution and independent observed-frontier comparison; incomplete all-route acceptance",
+    "production_mod_changed_in_this_batch": false,
+    "changes": [
+      "Dependency revisions include actual callback-read fields and native memo/step/where, excluding animation timestamps unless read. Repeated directed navigation edges with unchanged prerequisites suspend the goal.",
+      "Collect actual rendered native Emit controls, including view interactions; channel/page traversal prioritizes a consistent direction. Repeated denied Back in an exhausted device context stops with diagnostic evidence.",
+      "Camera uses actual shutter and thumbnail controls and propagates the native Return. Paint uses native color rules and actual tube controls with reentrancy protection, not fabricated success.",
+      "Native reservation failures are observed without clearing reservations; duplicate replay fixtures are rejected; event bounds apply per resumed segment.",
+      "Independent frontier capture identifies actual null or highest empty future-content stages. Comparison reads freshly loaded generated-save fields and rejects absent reference routes or mixed versions.",
+      "Public global programs referenced by active finite callbacks are considered as prerequisite providers, including item jobs/transactions; navigation infrastructure and dialogue-completion notifications are excluded. Indirect script dependencies remain incomplete.",
+      "Except the separately validated native clock adapter, requested inputs must match actual rendered Emit declarations and dispatch the actual action with its extra context. Missing fields cannot match a declared None value. Older unmatched shopping input is retained as failed diagnostic evidence, not accepted UI coverage.",
+      "Device controls include op-only paging and native window init/quit methods declared by the current device. Input history observes per-app content, excluding PC presentation timer st and focus-only permutations.",
+      "Postconditions now include direct callback reads and writes; generated exports include all stored fields except presentation/location protocol fields. Earlier narrow frontier observations remain attached as historical evidence. Indirect callbacks and computed properties remain outside this comparison."
+    ],
+    "paint_user_confirmed": {
+      "top_to_bottom": [
+        "blue",
+        "yellow",
+        "red",
+        "white"
+      ],
+      "pairs": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "colors": [
+        "green",
+        "purple",
+        "pink",
+        "orange"
+      ],
+      "native_bar05_art2_progressed": true
+    },
+    "updated_on": "2026-10-07",
+    "validation": {
+      "regression_tests": 93,
+      "regression_result": "passed",
+      "native_reference_artifact": ".codex_tmp/native-device-frontier-20261006.json",
+      "native_reference_sha256": "4a0c4ddb00c0671eeae98a56cc4dd55109a9515b80f8819325d8d52cef4441cf",
+      "native_time_context": {
+        "date": 80,
+        "dow": 3,
+        "tod": 0
+      },
+      "native_routes": [
+        {
+          "route": "ano",
+          "step": "ano11_setup"
+        },
+        {
+          "route": "bar",
+          "step": "null"
+        },
+        {
+          "route": "deb",
+          "step": "deb16_redux"
+        },
+        {
+          "route": "dia",
+          "step": "dia03_setup"
+        },
+        {
+          "route": "ell",
+          "step": "ell01_intro"
+        },
+        {
+          "route": "jen",
+          "step": "jen13_camslut"
+        },
+        {
+          "route": "jos",
+          "step": "jos02_read"
+        },
+        {
+          "route": "jud",
+          "step": "null"
+        },
+        {
+          "route": "mar",
+          "step": "mar01_maria"
+        },
+        {
+          "route": "mel",
+          "step": "null"
+        },
+        {
+          "route": "tin",
+          "step": "tin01_setup"
+        },
+        {
+          "route": "tor",
+          "step": "tor01_note"
+        },
+        {
+          "route": "viv",
+          "step": "viv02_book2"
+        }
+      ],
+      "native_stop": {
+        "last_observation": {
+          "current_mode": "screen"
+        },
+        "reason": "external_wall_clock_deadline",
+        "seconds": 55
+      },
+      "fresh_generated_and_strict_loaded_state_exports": [
+        {
+          "version": "7722",
+          "generation_report": ".codex_tmp/perfect-standalone7722/perfect_mod_test.json",
+          "strict_report": ".codex_tmp/perfect-standalone7722/perfect_strict_audit.json",
+          "scope": "fresh generation and loaded native field export; not all-route playthrough"
+        },
+        {
+          "version": "7944",
+          "generation_report": ".codex_tmp/perfect-standalone7944/perfect_mod_test.json",
+          "strict_report": ".codex_tmp/perfect-standalone7944/perfect_strict_audit.json",
+          "scope": "fresh generation and loaded native field export; not all-route playthrough"
+        },
+        {
+          "version": "8194",
+          "generation_report": ".codex_tmp/perfect-standalone8194/perfect_mod_test.json",
+          "strict_report": ".codex_tmp/perfect-standalone8194/perfect_strict_audit.json",
+          "scope": "fresh generation and loaded native field export; not all-route playthrough"
+        }
+      ],
+      "frontier_comparison": {
+        "version": "21.0.0-wip.8194",
+        "scope": "native frontier stored postcondition comparison",
+        "missing_native_frontiers": [
+          "ano",
+          "deb",
+          "ell",
+          "jen",
+          "jos",
+          "mar",
+          "tin",
+          "tor",
+          "viv"
+        ],
+        "errors": [],
+        "differences_requiring_review": [
+          {
+            "route": "dia",
+            "entity": "prop.diane_plot",
+            "field": "last",
+            "native_observed": 38,
+            "generated": -1,
+            "matches": false
+          }
+        ],
+        "all_routes_verified": false,
+        "full_dialogue_or_device_acceptance": false,
+        "frontier_comparison_complete": false
+      }
+    },
+    "limits": [
+      "all_routes_verified=false; full_player_playthrough=false",
+      "Observed frontier coverage and differences are listed in validation.frontier_comparison; missing references keep acceptance incomplete.",
+      "Native test credentials do not prove password-revealing dialogue prerequisites; camera acceptance does not certify every image quality or crop.",
+      "Rendered native action execution and stored fields do not certify all mutually exclusive dialogues or repeat interaction behavior.",
+      "Normal route execution on older versions remains uncompleted; fresh generation/export cannot certify backward all-route completion."
+    ],
+    "source_sha256": {
+      "tools/native_tests/perfect_save_route_execution.rpy": "a170caec7649015e0e7859fa2db4823bf94c6ca41830333654e67af16096871c",
+      "tools/native_tests/replay_guard.py": "a84858ee79e9900598117d83aa9d1dc39049d101a994b82eb3bcb8a7baa68167",
+      "tools/native_tests/run_route_execution.ps1": "fa2af2013c645f25e627c30709c870f5b30ad0025ec531ed787061a9305e86bb",
+      "tools/native_tests/perfect_save_strict_audit.rpy": "c6507b7d8af2c49e97f1526819e0f34e72bef84f817379664de56ea9696566d7",
+      "tools/native_tests/compare_terminal_postconditions.py": "06352525a25f186edb35ca38b8df5b47912e178a4caf12603deb5501fd9e354a",
+      "tools/test_replay_guard.py": "b8b998b817c4d54697870f99938c3872cfee2a7036e078c1efbed05a05a63eec",
+      "tools/test_terminal_postconditions.py": "4044633df0bb4ac3d0600a3baa653bbffe04a8139f2d21a94007ff7aa677ac69"
+    },
+    "translation_coverage_changed": false,
+    "git_commit_or_push": false,
+    "repository_checks": {
+      "context_format": "19 files; zero differences",
+      "translation_structure": "changed runtime support file passed",
+      "approved_sentences": "2027; zero mismatches",
+      "recurring_terms": "zero mismatches",
+      "manual_coverage": "Current workspace audit: 347 files, 40891 pairs; 10 stale; zero missing. Prior zero-stale wording not supported by current run.",
+      "git_diff_check": "passed"
+    }
+  },
+  "batches": {
+    "perfect_save_scene_calendar_20261007": {
+      "scope": "Generated save calendar and native scene interactions",
+      "version_policy": "Runtime catalogue; no hard-coded release number",
+      "change": "Constructed end-state starts no earlier than one native calendar week; later clocks retained. No forced NPC, random seed, reservation or encounter. This is a constructed clock, not elapsed-playthrough evidence.",
+      "office_finding": "Rendered sensitive buttons and normal event dispatch successfully acquire specs_lab, plans_ocular and costume_lab in all three engines; source projection is consumed and unique inventory remains one. Reported unidentified office item issue remains unresolved pending exact item identification.",
+      "validation": {
+        "7722": {
+          "report_sha256": "447555bfa18ffa0e73d3756edf84a6986cb30ed6269e775394cc64d6b8a52501",
+          "result": {
+            "version": "21.0.0-wip.7722",
+            "clock": 28,
+            "items": [
+              {
+                "ref": "specs_lab",
+                "rendered_sensitive": true,
+                "source_consumed": true,
+                "owned_once": true
+              },
+              {
+                "ref": "plans_ocular",
+                "rendered_sensitive": true,
+                "source_consumed": true,
+                "owned_once": true
+              },
+              {
+                "ref": "costume_lab",
+                "rendered_sensitive": true,
+                "source_consumed": true,
+                "owned_once": true
+              }
+            ],
+            "ambient": [],
+            "ambient_protocol_available": false
+          }
+        },
+        "7944": {
+          "report_sha256": "3c2a3fe6951c0e08a3a464981e6ff0430f24bf2b8bb7707fedc4a1f47c36126b",
+          "result": {
+            "version": "21.0.0-wip.7944",
+            "clock": 28,
+            "items": [
+              {
+                "ref": "specs_lab",
+                "rendered_sensitive": true,
+                "source_consumed": true,
+                "owned_once": true
+              },
+              {
+                "ref": "plans_ocular",
+                "rendered_sensitive": true,
+                "source_consumed": true,
+                "owned_once": true
+              },
+              {
+                "ref": "costume_lab",
+                "rendered_sensitive": true,
+                "source_consumed": true,
+                "owned_once": true
+              }
+            ],
+            "ambient": [
+              {
+                "place": "pool_stall1",
+                "actor": "indira",
+                "handler_attached": true
+              },
+              {
+                "place": "pool_stall2",
+                "actor": "emma",
+                "handler_attached": true
+              },
+              {
+                "place": "pool_stall3",
+                "actor": "pietro",
+                "handler_attached": true
+              }
+            ],
+            "ambient_protocol_available": true
+          }
+        },
+        "8194": {
+          "report_sha256": "9248fc846c69295131ddfd90c67893b6fa688a9537021fe6e1238bc803623814",
+          "result": {
+            "version": "21.0.0-wip.8194",
+            "clock": 28,
+            "items": [
+              {
+                "ref": "specs_lab",
+                "rendered_sensitive": true,
+                "source_consumed": true,
+                "owned_once": true
+              },
+              {
+                "ref": "plans_ocular",
+                "rendered_sensitive": true,
+                "source_consumed": true,
+                "owned_once": true
+              },
+              {
+                "ref": "costume_lab",
+                "rendered_sensitive": true,
+                "source_consumed": true,
+                "owned_once": true
+              }
+            ],
+            "ambient": [
+              {
+                "place": "pool_stall1",
+                "actor": "emma",
+                "handler_attached": true
+              },
+              {
+                "place": "pool_stall2",
+                "actor": "ariane",
+                "handler_attached": true
+              },
+              {
+                "place": "pool_stall3",
+                "actor": "pietro",
+                "handler_attached": true
+              }
+            ],
+            "ambient_protocol_available": true
+          }
+        }
+      },
+      "limits": [
+        "Ambient test covers native assignment and attached handlers, not full encounter dialogue.",
+        "7722 lacks loaded saga.logic.stall; ambient coverage not claimed.",
+        "Full main/side route playthrough remains incomplete."
+      ],
+      "sources": {
+        "mods/perfect_save/perfect_save.rpy": "8182fd3c411294f88df0b4eeddf05b708683f9f20a0d4c60d344b3d37a633ba4",
+        "tools/native_tests/perfect_save_scene_interactions.rpy": "6f84cea03a39906842811e2567a144c68f9bbfba6167cfbd3025783a589bf36b"
+      }
+    }
+  },
+  "perfect_save_gate_inventory_20261007": {
+    "scope": "Native gate inventory and isolated scalar witnesses; incomplete gate acceptance",
+    "user_policy": "No full route playthrough prerequisite; saved clock day one; temporal gates use separate scenarios",
+    "production_change": "Generated save starts day one first period. Supersedes previous one-week policy.",
+    "all_gates_passed": false,
+    "tests": 99,
+    "versions": {
+      "7722": {
+        "saved_day": 1,
+        "events_and_helpers": 3652,
+        "script_conditions": 3460,
+        "view_rules": 2917,
+        "acceptance": {
+          "all_gates_passed": false,
+          "unknown_branches": 4848,
+          "scope": "Inventory, not completed prerequisites or native interaction acceptance"
+        },
+        "report_sha256": "995a90216098ab23eb0297e95647ea5d3bd2828db29e3e6b1a8b7d794d79424f",
+        "scalar_witnesses_scope": "Separate calendar scenarios and stored scalar facts only; no callback outcomes certified"
+      },
+      "7944": {
+        "saved_day": 1,
+        "events_and_helpers": 3690,
+        "script_conditions": 3696,
+        "view_rules": 2925,
+        "acceptance": {
+          "all_gates_passed": false,
+          "unknown_branches": 4946,
+          "scope": "Inventory, not completed prerequisites or native interaction acceptance"
+        },
+        "report_sha256": "460d981f8ed680584d726fa72864747f7ba66342276a9132af304041043febd8",
+        "scalar_witnesses_scope": "Separate calendar scenarios and stored scalar facts only; no callback outcomes certified"
+      },
+      "8194": {
+        "saved_day": 1,
+        "events_and_helpers": 3824,
+        "script_conditions": 4003,
+        "view_rules": 2949,
+        "acceptance": {
+          "all_gates_passed": false,
+          "unknown_branches": 5142,
+          "scope": "Inventory, not completed prerequisites or native interaction acceptance"
+        },
+        "report_sha256": "1ded4128650da261b5cb942c822be0efd1e58ee7db5928cb3c379212e63301ef",
+        "scalar_witnesses_scope": "Separate calendar scenarios and stored scalar facts only; no callback outcomes certified"
+      }
+    },
+    "limits": [
+      "Scalar branch truth does not establish callback outcome or correct control-flow path.",
+      "Unknown local variables, called predicates, dynamic reservations and random outcomes remain unresolved.",
+      "Script and asset rules are inventoried, not automatically solved."
+    ],
+    "sources": {
+      "tools/native_tests/gate_catalogue.py": "5824a692417934f85d6e864f77b2b5e7f5f2cc2b29975c78e9fa0feac2538522",
+      "tools/native_tests/perfect_save_gate_inventory.rpy": "2966e1bf16c60d8ae3662329ac17d3a02fe6c3e4368bb1e80ea41d91f59b0ab3",
+      "tools/native_tests/perfect_save_generation.rpy": "f18e0558f2bf93f997eac3027faccfd8fd1fdafa304487291ff5ed119f18a5de",
+      "mods/perfect_save/perfect_save.rpy": "d858fffde074a09dd1b69ae820bbe4b82331dfe104c065f127b185766e3ef9ff"
+    },
+    "repository_checks": {
+      "context_format": "passed",
+      "translation_structure": "11 files passed",
+      "approved_sentence_patterns": "1 inherited wording mismatch at debbie.rpy:265; not changed or approved by this Mod batch",
+      "manual_coverage": "10 inherited stale review fingerprints; no automatic re-signing"
+    }
+  },
+  "perfect_save_day_one_activity_history_20261007": {
+    "scope": "Day-one ambient NPC activity history and rendered changing-stall entry",
+    "cause": "Day-one date with missing native activity stamps yields zero random waiting weights. Previously tested day-seven calendar was insufficient evidence after the day-one requirement.",
+    "algorithm": "Discover exact native clock.date writes and explicit getattr missing-history defaults from registered callbacks, including engine-native Partial bindings. Backdate only activity stamps by one native calendar week; exclude deadlines and durations. Preserve day one, native RNG, NPC selection, availability, reservations and cooldown updates.",
+    "tests": 103,
+    "all_gates_passed": false,
+    "versions": {
+      "7722": {
+        "report_sha256": "7f3c38b274e6e368bde9a05e12051bfe0911ac80c4edc516b109e9abd2010a83",
+        "result": {
+          "version": "21.0.0-wip.7722",
+          "clock": 4,
+          "items": [
+            {
+              "ref": "specs_lab",
+              "rendered_sensitive": true,
+              "source_consumed": true,
+              "owned_once": true
+            },
+            {
+              "ref": "plans_ocular",
+              "rendered_sensitive": true,
+              "source_consumed": true,
+              "owned_once": true
+            },
+            {
+              "ref": "costume_lab",
+              "rendered_sensitive": true,
+              "source_consumed": true,
+              "owned_once": true
+            }
+          ],
+          "ambient": [],
+          "ambient_protocol_available": false
+        }
+      },
+      "7944": {
+        "report_sha256": "508f1eff72d59cd101d7191986876f8c7035f637cbbda48da473a9aae5fe2b25",
+        "result": {
+          "version": "21.0.0-wip.7944",
+          "clock": 4,
+          "items": [
+            {
+              "ref": "specs_lab",
+              "rendered_sensitive": true,
+              "source_consumed": true,
+              "owned_once": true
+            },
+            {
+              "ref": "plans_ocular",
+              "rendered_sensitive": true,
+              "source_consumed": true,
+              "owned_once": true
+            },
+            {
+              "ref": "costume_lab",
+              "rendered_sensitive": true,
+              "source_consumed": true,
+              "owned_once": true
+            }
+          ],
+          "ambient": [
+            {
+              "place": "pool_stall1",
+              "actor": "emma",
+              "handler_attached": true
+            },
+            {
+              "place": "pool_stall2",
+              "actor": "indira",
+              "handler_attached": true
+            },
+            {
+              "place": "pool_stall3",
+              "actor": "olivia",
+              "handler_attached": true
+            }
+          ],
+          "ambient_protocol_available": true,
+          "encounter_entry": {
+            "native_label": "emm_stall.block",
+            "actor": "emma",
+            "rendered_button_dispatched": true,
+            "day": 1,
+            "scope": "Native NPC encounter response or entry; not full dialogue playback"
+          }
+        }
+      },
+      "8194": {
+        "report_sha256": "9627c114b015c0bb8463ed81f19bb917656be2f4ffd4cbe9880ed274458b36f9",
+        "result": {
+          "version": "21.0.0-wip.8194",
+          "clock": 4,
+          "items": [
+            {
+              "ref": "specs_lab",
+              "rendered_sensitive": true,
+              "source_consumed": true,
+              "owned_once": true
+            },
+            {
+              "ref": "plans_ocular",
+              "rendered_sensitive": true,
+              "source_consumed": true,
+              "owned_once": true
+            },
+            {
+              "ref": "costume_lab",
+              "rendered_sensitive": true,
+              "source_consumed": true,
+              "owned_once": true
+            }
+          ],
+          "ambient": [
+            {
+              "place": "pool_stall1",
+              "actor": "indira",
+              "handler_attached": true
+            },
+            {
+              "place": "pool_stall2",
+              "actor": "emma",
+              "handler_attached": true
+            },
+            {
+              "place": "pool_stall3",
+              "actor": "ariane",
+              "handler_attached": true
+            }
+          ],
+          "ambient_protocol_available": true,
+          "encounter_entry": {
+            "native_label": "ind_stall.block",
+            "actor": "indira",
+            "rendered_button_dispatched": true,
+            "day": 1,
+            "scope": "Native NPC encounter response or entry; not full dialogue playback"
+          }
+        }
+      }
+    },
+    "limits": [
+      "Encounter test reaches native occupied-stall response or entry, not complete encounter dialogue.",
+      "7722 lacks loaded native ambient stall protocol and is not claimed as ambient coverage.",
+      "Existing generated saves require regeneration to gain activity history."
+    ],
+    "source_sha256": {
+      "mods/perfect_save/completion_state.rpy": "5673022f95da19a92dc41e1ba4f7d70d92dfdfc22062aa3277d993d5eec0db6f",
+      "mods/perfect_save/perfect_save.rpy": "9e7a71b80661963aa27cb2850589fc0c590e2358e24c419ad256160bb63201d8",
+      "tools/native_tests/perfect_save_scene_interactions.rpy": "13dd199d9676ce4c4a81708d26279d92799f2364cf13964732093cc59a7c49a6",
+      "tools/test_activity_dates.py": "a2e44df35c8828828cdc12d682e920e4f87c628231f2e59a957faac0f1912d8d"
+    }
+  },
+  "perfect_save_prerequisite_chain_review_20261007": {
+    "scope": "Control-flow prerequisite parser and admitted native predicate observations; full gate response acceptance remains incomplete",
+    "all_gates_passed": false,
+    "production_mod_changed": false,
+    "unit_tests_passed": 118,
+    "versions": {
+      "7722": {
+        "report_sha256": "88c03906df5715046fd85e7fd0652421caeb30cadfa5714b7c397983bff826ab",
+        "gates": 3652,
+        "script_conditions": 3460,
+        "view_rules": 2917,
+        "condition_path_variants": 10687,
+        "unique_condition_offsets": 1687,
+        "unique_native_observed_offsets": 365,
+        "native_observations": {
+          "native_predicate_observed": 22440,
+          "predecessor_blocked": 2911,
+          "unresolved": 273885
+        },
+        "unresolved_reasons": {
+          "predicate": 42483,
+          "predecessor": 42010,
+          "requires_native_prior_effects": 189392
+        },
+        "searches": {
+          "unresolved": 21346,
+          "no_scalar_witness": 11,
+          "scalar_witness": 17
+        },
+        "native_verified_scalar_witnesses": 17,
+        "all_gates_passed": false,
+        "native_interaction_responses_added": 0,
+        "first_unresolved": {
+          "source": "saga.logic.util._fence",
+          "line": 122,
+          "expression": {
+            "kind": "operation",
+            "operator": "is",
+            "left": {
+              "kind": "unknown"
+            },
+            "right": {
+              "kind": "reference",
+              "module": "saga.util.sentinel",
+              "ref": "nav"
+            }
+          },
+          "reason": "predicate"
+        }
+      },
+      "7944": {
+        "report_sha256": "b98bbc34ab53d686b7257c84c69c6c10702edf265abd21a2f707e42cdb6fcdd4",
+        "gates": 3690,
+        "script_conditions": 3696,
+        "view_rules": 2925,
+        "condition_path_variants": 11019,
+        "unique_condition_offsets": 1727,
+        "unique_native_observed_offsets": 378,
+        "native_observations": {
+          "native_predicate_observed": 22867,
+          "predecessor_blocked": 3017,
+          "unresolved": 282648
+        },
+        "unresolved_reasons": {
+          "predicate": 42899,
+          "predecessor": 42405,
+          "requires_native_prior_effects": 197344
+        },
+        "searches": {
+          "unresolved": 22010,
+          "no_scalar_witness": 11,
+          "scalar_witness": 17
+        },
+        "native_verified_scalar_witnesses": 17,
+        "all_gates_passed": false,
+        "native_interaction_responses_added": 0,
+        "first_unresolved": {
+          "source": "saga.logic.util._fence",
+          "line": 122,
+          "expression": {
+            "kind": "operation",
+            "operator": "is",
+            "left": {
+              "kind": "unknown"
+            },
+            "right": {
+              "kind": "reference",
+              "module": "saga.util.sentinel",
+              "ref": "nav"
+            }
+          },
+          "reason": "predicate"
+        }
+      },
+      "8194": {
+        "report_sha256": "afb8698f257e412d3e660015adb2e4fd8c6ecd9d37436eded49e6cf811b2daeb",
+        "gates": 3824,
+        "script_conditions": 4003,
+        "view_rules": 2949,
+        "condition_path_variants": 11560,
+        "unique_condition_offsets": 1825,
+        "unique_native_observed_offsets": 389,
+        "native_observations": {
+          "native_predicate_observed": 23455,
+          "predecessor_blocked": 3101,
+          "unresolved": 297124
+        },
+        "unresolved_reasons": {
+          "predicate": 44467,
+          "predecessor": 44113,
+          "requires_native_prior_effects": 208544
+        },
+        "searches": {
+          "unresolved": 23090,
+          "no_scalar_witness": 12,
+          "scalar_witness": 18
+        },
+        "native_verified_scalar_witnesses": 18,
+        "all_gates_passed": false,
+        "native_interaction_responses_added": 0,
+        "first_unresolved": {
+          "source": "saga.logic.util._fence",
+          "line": 122,
+          "expression": {
+            "kind": "operation",
+            "operator": "is",
+            "left": {
+              "kind": "unknown"
+            },
+            "right": {
+              "kind": "reference",
+              "module": "saga.util.sentinel",
+              "ref": "nav"
+            }
+          },
+          "reason": "predicate"
+        }
+      }
+    },
+    "source_sha256": {
+      "tools/native_tests/gate_catalogue.py": "8380122cacab1ac8c2a0771ffd7624f89405ee75e9890647e80d763c046dd563",
+      "tools/native_tests/gate_runtime.py": "498ec5671d7c09df221e403ccd6b4a56ee79f862f13f23ef474b979421f5f962",
+      "tools/native_tests/perfect_save_gate_inventory.rpy": "9c6dd338b645dd5609760c9688c984c2c202002739a42be9566bc338cbec9107",
+      "tools/native_tests/run_gate_inventory.ps1": "2749d711409608626533db062d14282b5b017e380b4f92ed6ee43d13155907c8",
+      "tools/test_gate_catalogue.py": "76a5ae642f6aa4bd5a70d452cb1dbf7d69975a626a7776954205f366d177e739",
+      "tools/test_gate_runtime.py": "aa6ebd46f8c95605148bcf79e7abea752e01bb09d3ed9349ee1156358913fd46"
+    },
+    "limits": [
+      "Native predicate observations are not rendered interaction response certificates.",
+      "Wildcard event inputs, local dialogue context, prior state effects, loops, unsupported calls and screen coverage remain incomplete.",
+      "Finite scalar domain exhaustion is not proof of impossibility.",
+      "No new native scene response coverage was added in this batch. Previous scene evidence retains its original scope.",
+      "Inherited translation sentence mismatch and stale manual fingerprints are not automatically reapproved."
+    ],
+    "repository_checks": {
+      "context_format": {
+        "files": 19,
+        "mismatches": 0
+      },
+      "translation_structure": {
+        "files": 11,
+        "passed": true
+      },
+      "approved_sentences": {
+        "passed": false,
+        "mismatches": 1,
+        "location": "tl/zh_hans/src/plot/debbie.rpy:265",
+        "inherited": true
+      },
+      "terminology_changed": {
+        "passed": true,
+        "mismatches": 0
+      },
+      "manual_coverage": {
+        "passed": false,
+        "stale_files": 10,
+        "missing_files": 0,
+        "inherited": true
+      },
+      "git_diff_check": {
+        "passed": true
+      }
+    }
+  },
+  "inherited_changed_pairs_review_20261007": {
+    "scope": "12 inherited changed pairs in 10 files and their adjacent bilingual context",
+    "files": [
+      {
+        "file": "tl/zh_hans/res/meta/cast.rpy",
+        "items": [
+          {
+            "line": 277,
+            "source": "The lovable landlady of [saga.cast.anon]'s best friend, [saga.cast.erik]. A real yoga nut, Mrs. [saga.cast.tammy.clan] is a caring and thoughtful caretaker, if not a little overbearing. Since her divorce a few years ago, she's become a bit too involved in her young tenant's life.\\n\\nEven so, she's usually a warm and welcomed presence; Always quick with a snack and a smile for her guest and his friends.",
+            "target": "[saga.cast.anon]的好朋友[saga.cast.erik]有位讨人喜欢的房东太太。痴迷瑜伽的[saga.cast.tammy.clan]太太很会照顾人，事事周到，只是有时管得有点多。自从几年前离婚，她对这位年轻房客的生活便操心过了头。\\n\\n不过，她大多时候还是温暖又亲切的。房客和朋友们一来，她总能笑眯眯地拿出零食招待。",
+            "previous_pair_sha256": "90a145f452da07e0623e2216efa25b870061cd9baa03aa967258e32cae02b16e",
+            "pair_sha256": "83453c1747725d3edbeb1de4c94a21b6b9e93091a6332089ac7a592241d17f60"
+          }
+        ]
+      },
+      {
+        "file": "tl/zh_hans/res/meta/step.rpy",
+        "items": [
+          {
+            "line": 1077,
+            "source": "Whoa, landladies masturbate too?! Neat!!",
+            "target": "哇，房东太太也自慰吗？！太棒了！！",
+            "previous_pair_sha256": "8da3f9b6eb153a1b00e20d956c65fe8540cac270062cb44ea232109afa62bf3f",
+            "pair_sha256": "31ec9b718b7b6b2dc7b1c06762162cfc6dec3095388e0bfac189ce870c6d8859"
+          }
+        ]
+      },
+      {
+        "file": "tl/zh_hans/src/plot/deb03.rpy",
+        "items": [
+          {
+            "line": 1003,
+            "source": "( That's our landlady, not some floozy on the internet! )",
+            "target": "（她可是我们的房东太太，不是什么网上的骚货！）",
+            "previous_pair_sha256": "fd85329f653ef806ad550cd141c46c06790214d160944c4aace8efc767a81dc9",
+            "pair_sha256": "6669c3d124f8c2752d5a3c7148416e195853b36ec0dedc09ad8da098bfd28c95"
+          }
+        ]
+      },
+      {
+        "file": "tl/zh_hans/src/plot/deb07.rpy",
+        "items": [
+          {
+            "line": 721,
+            "source": "Stop, you're making your old landlady blush!",
+            "target": "别说了，你都快把我这个老房东太太说得脸红了！",
+            "previous_pair_sha256": "f382bf6b4d64d53f680297e77b664422a4a96ab48b564ace69a9cebb6e3bdadb",
+            "pair_sha256": "72c979e89e542663bd2137319dd203188477d25e4585712e12d8ce1a4d8b915c"
+          },
+          {
+            "line": 787,
+            "source": "( I'm just straight up popping boners right between my landlady's feet now! )",
+            "target": "（我居然直接在房东太太的双脚之间硬了起来！）",
+            "previous_pair_sha256": "250b97de8f44dd2a2a019b78d5a9df30856cada847af2239f3cb212f5921349d",
+            "pair_sha256": "f5e251a39ce9ea728d8264d56a500ff6aea42781d12841b290fb4e4be8902939"
+          }
+        ]
+      },
+      {
+        "file": "tl/zh_hans/src/plot/deb09.rpy",
+        "items": [
+          {
+            "line": 187,
+            "source": "( ... It definitely didn't feel like normal dreams a person should be having about their landlady. )",
+            "target": "（……正常人哪会对自己的房东太太做这种梦啊。）",
+            "previous_pair_sha256": "22d44b1e94e7e80fac1cf1d40936d3c3ee1f896d6e0b9632d47ca20c9a8b2aef",
+            "pair_sha256": "7f6bcb2f4cc58e88e90b14797f3b7fda78e51d46b345b48c2529b178a412de21"
+          }
+        ]
+      },
+      {
+        "file": "tl/zh_hans/src/plot/deb10.rpy",
+        "items": [
+          {
+            "line": 103,
+            "source": "( I didn't know landladies masturbated!! )",
+            "target": "（原来房东太太也会自慰的吗？！）",
+            "previous_pair_sha256": "8c4686d05ecd59b3af9b0fd0c9f611e5575b047218763b6f50c2278ba583d1f4",
+            "pair_sha256": "96fa9acd9fea1f239d9c6284bb2a2c9c6e16ed1c113d69e9670c2e2a723e7ad4"
+          }
+        ]
+      },
+      {
+        "file": "tl/zh_hans/src/plot/deb26.rpy",
+        "items": [
+          {
+            "line": 3328,
+            "source": "Sweetie, your wife isn't going to want your old landlady hanging around.",
+            "target": "亲爱的，你未来的妻子不会愿意让你以前的房东太太一直待在身边。",
+            "previous_pair_sha256": "b9670652942be13f8752eb1334d5b6310e3de98882cde7d8b202c1ad353edda0",
+            "pair_sha256": "633b7cd4645239182aa3d1bc1f860adfde73a9f93c57138c093861f39febd0e1"
+          }
+        ]
+      },
+      {
+        "file": "tl/zh_hans/src/plot/deb_tv.rpy",
+        "items": [
+          {
+            "line": 3889,
+            "source": "I mean, I know this is terribly wrong for a landlady to be doing this kinda thing with her tenant...",
+            "target": "我的意思是，我知道作为房东太太和房客做这种事非常不对……",
+            "previous_pair_sha256": "4e71ab6c0571e66000a78b6b361ee18b8d11f48c505bc062bc42b93f65ecbeb1",
+            "pair_sha256": "6127e622d57621a5b54862be8e00c9f2bba4c70ef90044675df1c565f505e211"
+          }
+        ]
+      },
+      {
+        "file": "tl/zh_hans/src/plot/debbie.rpy",
+        "items": [
+          {
+            "line": 265,
+            "source": "Now you go on... and stop worrying about your old landlady!",
+            "target": "好啦，忙你的去吧……别再操心你这老房东太太了！",
+            "previous_pair_sha256": "a797c579059186d7324f986a88a58f9651e39a3cbcd19739a07cd998a722977e",
+            "pair_sha256": "03f929dee08d3c1dc7592391ff1dc312cbd31b9dec15c9e32e5de3afa3312fe2"
+          }
+        ]
+      },
+      {
+        "file": "tl/zh_hans/src/plot/jen_sleep.rpy",
+        "items": [
+          {
+            "line": 403,
+            "source": "Fuck you!",
+            "target": "去你的！",
+            "previous_pair_sha256": "49548914211eb731c739a49eb5bf45dbb6b1504c6bd8e3482d5bdda5f5449a11",
+            "pair_sha256": "e82e6ac353771d8192f0f68369b858e0059f8406cb4152fa004267ff8165a5d4"
+          },
+          {
+            "line": 769,
+            "source": "Fuck you!",
+            "target": "去你的！",
+            "previous_pair_sha256": "49548914211eb731c739a49eb5bf45dbb6b1504c6bd8e3482d5bdda5f5449a11",
+            "pair_sha256": "e82e6ac353771d8192f0f68369b858e0059f8406cb4152fa004267ff8165a5d4"
+          }
+        ]
+      }
+    ],
+    "in_game_verified": false,
+    "new_full_file_review_claimed": false
   }
 }

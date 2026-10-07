@@ -274,7 +274,7 @@ translate zh_hans strings:
 
     # game/res/meta/cast.rpym:725
     old "The lovable landlady of [saga.cast.anon]'s best friend, [saga.cast.erik]. A real yoga nut, Mrs. [saga.cast.tammy.clan] is a caring and thoughtful caretaker, if not a little overbearing. Since her divorce a few years ago, she's become a bit too involved in her young tenant's life.\n\nEven so, she's usually a warm and welcomed presence; Always quick with a snack and a smile for her guest and his friends."
-    new "[saga.cast.anon]的好朋友[saga.cast.erik]有位讨人喜欢的女房东。痴迷瑜伽的[saga.cast.tammy.clan]太太很会照顾人，事事周到，只是有时管得有点多。自从几年前离婚，她对这位年轻房客的生活便操心过了头。\n\n不过，她大多时候还是温暖又亲切的。房客和朋友们一来，她总能笑眯眯地拿出零食招待。"
+    new "[saga.cast.anon]的好朋友[saga.cast.erik]有位讨人喜欢的房东太太。痴迷瑜伽的[saga.cast.tammy.clan]太太很会照顾人，事事周到，只是有时管得有点多。自从几年前离婚，她对这位年轻房客的生活便操心过了头。\n\n不过，她大多时候还是温暖又亲切的。房客和朋友们一来，她总能笑眯眯地拿出零食招待。"
 
     # game/res/meta/cast.rpym:735
     old "Manager of the Summerville bank, [saga.cast.tina] is an elegant woman with a shapely figure and beautiful red hair.\n\nNewly widowed, she yearns for the comfort and prosperity she used to enjoy in her former life."

@@ -3325,7 +3325,7 @@ translate zh_hans deb26_shop_4a606612:
 
 
     # debbie @ a_hold_hand_wipe_tears_anon e_b oa_none "Sweetie, your wife isn't going to want your old landlady hanging around."
-    debbie @ a_hold_hand_wipe_tears_anon e_b oa_none "亲爱的，你未来的妻子不会愿意让你以前的女房东一直待在身边。"
+    debbie @ a_hold_hand_wipe_tears_anon e_b oa_none "亲爱的，你未来的妻子不会愿意让你以前的房东太太一直待在身边。"
 
 # game/src/plot/deb26.rpy:1306
 translate zh_hans deb26_shop_01719823:

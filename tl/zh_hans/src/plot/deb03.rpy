@@ -1000,7 +1000,7 @@ translate zh_hans deb03_outro_merge_33cba64f:
 translate zh_hans deb03_outro_merge_23c72665:
 
     # anon @ -m_talk "( That's our landlady, not some floozy on the internet! )"
-    anon @ -m_talk "（她可是我们的女房东，不是什么网上的骚货！）"
+    anon @ -m_talk "（她可是我们的房东太太，不是什么网上的骚货！）"
 
 # game/src/plot/deb03.rpy:414
 translate zh_hans deb03_outro_merge_e777d979:

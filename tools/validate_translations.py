@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 """Read-only checks for Ren'Py Chinese translation files.
 
-The checker never rewrites files. It validates source/translation string pairs and,
-for tracked files changed from a Git ref, verifies that only translated string
-payloads changed while program structure, line count, encoding markers, and line
-endings stayed intact.
+The checker never rewrites files. It validates source/translation string pairs
+and protects dialogue structure relative to a Git ref. Code-only Python support
+scripts use syntax and definition-phase checks instead of immutable dialogue
+comparison; encoding markers and line endings remain checked.
 """
 from __future__ import annotations
 
 import argparse
+import ast
 import hashlib
 from collections import Counter
 from dataclasses import dataclass
@@ -16,11 +17,15 @@ from pathlib import Path
 import re
 import subprocess
 import sys
+import textwrap
 from typing import Iterable
 
 STRING_RE = re.compile(r'"(?P<body>(?:\\.|[^"\\])*)"')
 TRANSLATE_RE = re.compile(r'^translate\s+zh_hans(?:\s+|:)')
-LABEL_RE = re.compile(r'^translate\s+zh_hans\s+([^:]+):')
+LABEL_RE = re.compile(r'^translate\s+zh_hans\s+([^:]+):', re.MULTILINE)
+SUPPORT_PYTHON_RE = re.compile(
+    r'^(?:init(?:\s+-?\d+)?\s+python(?:\s+(?:early|hide))?|translate\s+zh_hans\s+python):$'
+)
 OLD_RE = re.compile(r'^\s*old\s+"')
 NEW_RE = re.compile(r'^\s*new\s+"')
 SOURCE_COMMENT_RE = re.compile(r'^\s*#\s*(?!game/)(?:[^"\n]*?)"')
@@ -168,6 +173,48 @@ def normalize_structure(text: str) -> list[str]:
     return result
 
 
+def support_python_blocks(text: str) -> list[tuple[int, bool, str]] | None:
+    """Classify code-only support files, never empty/removed dialogue files.
+
+    Both Git baseline and current file must have this form before immutable
+    dialogue comparison can be replaced by runtime-code checks.
+    """
+    blocks: list[tuple[int, bool, str]] = []
+    start = None
+    body: list[str] = []
+    localized = False
+    for number, line in enumerate(text.splitlines(), 1):
+        if line and not line[0].isspace() and not line.startswith('#'):
+            if not SUPPORT_PYTHON_RE.fullmatch(line):
+                return None
+            if start is not None:
+                blocks.append((start, localized, textwrap.dedent('\n'.join(body))))
+            start, localized, body = number, line.startswith('translate '), []
+        elif start is not None:
+            body.append(line)
+        elif line.strip() and not line.lstrip().startswith('#'):
+            return None
+    if start is not None:
+        blocks.append((start, localized, textwrap.dedent('\n'.join(body))))
+    return blocks or None
+
+
+def validate_support_python(path: Path, blocks: list[tuple[int, bool, str]]) -> list[str]:
+    issues = []
+    for start, localized, body in blocks:
+        try:
+            tree = ast.parse(body, filename=str(path))
+        except SyntaxError as exc:
+            issues.append(f'{path}:{start + (exc.lineno or 1)}: support Python syntax error: {exc.msg}')
+            continue
+        if localized:
+            for node in ast.walk(tree):
+                if isinstance(node, (ast.FunctionDef, ast.AsyncFunctionDef, ast.ClassDef)):
+                    issues.append(f'{path}:{start + node.lineno}: define functions/classes in init Python, '
+                                  'not language-switch Python (save serialization identity)')
+    return issues
+
+
 def git_blob(root: Path, ref: str, path: Path) -> bytes | None:
     rel = path.relative_to(root).as_posix()
     proc = subprocess.run(
@@ -202,6 +249,9 @@ def validate_file(root: Path, path: Path, ref: str, compare: bool) -> list[str]:
     except ValueError as exc:
         return [str(exc)]
     lines = text.splitlines()
+    support_blocks = support_python_blocks(text)
+    if support_blocks is not None:
+        issues.extend(validate_support_python(path, support_blocks))
 
     for pair in iter_pairs(lines):
         source_tokens = tokens(pair.source)
@@ -251,7 +301,9 @@ def validate_file(root: Path, path: Path, ref: str, compare: bool) -> list[str]:
                 )
 
     labels = LABEL_RE.findall(text)
-    duplicates = [label for label, count in Counter(labels).items() if count > 1]
+    # Anonymous Python/string-table blocks may occur more than once in Ren'Py.
+    duplicates = [label for label, count in Counter(labels).items()
+                  if count > 1 and label not in ('python', 'strings')]
     if duplicates:
         issues.append(f'{path}: duplicate translation labels: {duplicates}')
 
@@ -276,11 +328,12 @@ def validate_file(root: Path, path: Path, ref: str, compare: bool) -> list[str]:
                     )
                 base_lines = base_text.splitlines()
                 base_labels = LABEL_RE.findall(base_text)
-                # Files without translation blocks are support scripts (language
-                # hooks, startup language defaults). Their code may evolve;
-                # BOM/newline checks above still apply, but line-count/label/structure
-                # comparison only makes sense when translation blocks exist.
-                if labels or base_labels:
+                # translate ... python is executable localization setup, not a
+                # dialogue label. A code-only baseline AND current file are
+                # required; removing dialogue cannot turn off its protection.
+                runtime_support = (support_blocks is not None
+                                   and support_python_blocks(base_text) is not None)
+                if (labels or base_labels) and not runtime_support:
                     if len(lines) != len(base_lines):
                         issues.append(
                             f'{path}: line count changed from {len(base_lines)} to {len(lines)}'
@@ -318,6 +371,10 @@ def main() -> int:
             print(f'- {issue}')
         return 1
     print(f'OK: validated {len(paths)} Ren\'Py translation file(s)')
+    support_count = sum(support_python_blocks(path.read_text(encoding='utf-8-sig')) is not None for path in paths)
+    if support_count:
+        print(f'Code-only support scripts: {support_count}; Python syntax/definition placement checked; '
+              'dialogue structure protection retained')
     return 0
 
 

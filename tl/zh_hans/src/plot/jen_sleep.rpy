@@ -400,7 +400,7 @@ translate zh_hans jen_sleep_merge_645f86d4:
 translate zh_hans jen_sleep_merge_f41f8327:
 
     # jenny "Fuck you!"
-    jenny "操你！"
+    jenny "去你的！"
 
 # game/src/plot/jen_sleep.rpy:211
 translate zh_hans jen_sleep_merge_61e98e5f:
@@ -766,7 +766,7 @@ translate zh_hans jen_sleep_wake_f041aef9:
 translate zh_hans jen_sleep_wake_8351df69:
 
     # jenny a_fold e_r "Fuck you!"
-    jenny a_fold e_r "操你！"
+    jenny a_fold e_r "去你的！"
 
 # game/src/plot/jen_sleep.rpy:358
 translate zh_hans jen_sleep_wake_cebb2197:

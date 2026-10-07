@@ -5,9 +5,50 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
+from unittest.mock import patch
 
 from audit_sentence_consistency import check_approved
-from validate_translations import iter_pairs
+from validate_translations import iter_pairs, validate_file
+
+
+class SupportScriptAuditTests(unittest.TestCase):
+    def check(self, baseline, current):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            path = root / 'runtime.rpy'
+            path.write_text(current, encoding='utf-8', newline='\n')
+            with patch('validate_translations.git_blob', return_value=baseline.encode()), \
+                    patch('validate_translations.git_autocrlf', return_value=False):
+                return validate_file(root, path, 'HEAD', True)
+
+    def test_helper_migration_preserves_valid_runtime_setup(self):
+        old='translate zh_hans python:\n    def font():\n        return "font.ttf"\n    gui.text_font = font()\n'
+        new='init python:\n    def font():\n        return "font.ttf"\n\ntranslate zh_hans python:\n    gui.text_font = font()\n'
+        self.assertEqual(self.check(old,new), [])
+
+    def test_language_switch_redefinition_is_rejected(self):
+        text='translate zh_hans python:\n    def helper():\n        return 1\n'
+        self.assertTrue(any('serialization identity' in issue for issue in self.check(text,text)))
+
+    def test_invalid_runtime_python_is_rejected(self):
+        old='translate zh_hans python:\n    gui.text_font = "font.ttf"\n'
+        new='translate zh_hans python:\n    gui.text_font = (\n'
+        self.assertTrue(any('syntax error' in issue for issue in self.check(old,new)))
+
+    def test_removing_dialogue_cannot_reclassify_it_as_support(self):
+        old='translate zh_hans first:\n    # anon "Hi"\n    anon "你好"\n'
+        new='translate zh_hans python:\n    gui.text_font = "font.ttf"\n'
+        self.assertTrue(any('translation label sequence' in issue for issue in self.check(old,new)))
+
+    def test_old_new_table_structure_remains_protected(self):
+        old='translate zh_hans strings:\n    old "Hi"\n    new "你好"\n'
+        new=old+'    pass\n'
+        self.assertTrue(any('non-translation structure' in issue for issue in self.check(old,new)))
+
+    def test_mixed_runtime_and_dialogue_still_requires_immutable_structure(self):
+        old='translate zh_hans python:\n    gui.text_font = "font.ttf"\n\ntranslate zh_hans first:\n    # anon "Hi"\n    anon "你好"\n'
+        new=old.replace('translate zh_hans first:', 'translate zh_hans other:')
+        self.assertTrue(any('translation label sequence' in issue for issue in self.check(old,new)))
 
 
 class DialogueAuditTests(unittest.TestCase):

@@ -184,7 +184,7 @@ translate zh_hans deb09_dream_4acf1033:
 translate zh_hans deb09_dream_3ebd76cb:
 
     # anon @ -m_talk "( ... It definitely didn't feel like normal dreams a person should be having about their landlady. )"
-    anon @ -m_talk "（……正常人哪会对自己的女房东做这种梦啊。）"
+    anon @ -m_talk "（……正常人哪会对自己的房东太太做这种梦啊。）"
 
 # game/src/plot/deb09.rpy:68
 translate zh_hans deb09_dream_99dab183:

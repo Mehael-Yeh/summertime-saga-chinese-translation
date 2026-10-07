@@ -262,7 +262,7 @@ translate zh_hans debbie_debbie_lobby_outro2_2777fd97:
 translate zh_hans debbie_debbie_lobby_outro2_e289b5f6:
 
     # debbie a_side "Now you go on... and stop worrying about your old landlady!"
-    debbie a_side "好啦，忙你的去吧……别再操心你这老房东了！"
+    debbie a_side "好啦，忙你的去吧……别再操心你这老房东太太了！"
 
 # game/src/plot/debbie.rpy:259
 translate zh_hans debbie_debbie_lobby_outro2_0a01c03b:

@@ -1074,7 +1074,7 @@ translate zh_hans strings:
 
     # game/res/meta/step.rpym:621
     old "Whoa, landladies masturbate too?! Neat!!"
-    new "哇，女房东也自慰吗？！太棒了！！"
+    new "哇，房东太太也自慰吗？！太棒了！！"
 
     # game/res/meta/step.rpym:624
     old "I sure hope [saga.cast.jenny] doesn't hold this over my head. D:"

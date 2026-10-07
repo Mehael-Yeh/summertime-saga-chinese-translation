@@ -3886,7 +3886,7 @@ translate zh_hans deb_tv_play3_0f8deccf:
 translate zh_hans deb_tv_play3_3680bf20:
 
     # debbie "I mean, I know this is terribly wrong for a landlady to be doing this kinda thing with her tenant..."
-    debbie "我的意思是，我知道作为女房东和房客做这种事非常不对……"
+    debbie "我的意思是，我知道作为房东太太和房客做这种事非常不对……"
 
 # game/src/plot/deb_tv.rpy:1414
 translate zh_hans deb_tv_play3_090d2440:

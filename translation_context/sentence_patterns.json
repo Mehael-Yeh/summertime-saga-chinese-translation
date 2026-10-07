@@ -3884,7 +3884,7 @@
     {
       "file": "tl/zh_hans/src/plot/debbie.rpy",
       "source": "Now you go on... and stop worrying about your old landlady!",
-      "target": "好啦，忙你的去吧……别再操心你这老房东了！",
+      "target": "好啦，忙你的去吧……别再操心你这老房东太太了！",
       "id": "debbie_debbie_lobby_outro2_e289b5f6"
     },
     {

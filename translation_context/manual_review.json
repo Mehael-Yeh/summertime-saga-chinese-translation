@@ -3138,11 +3138,16 @@
       }
     },
     "tl/zh_hans/base_box/style_box.rpy": {
-      "sha256": "af663a3ebfdb3592bd890d8d4a5fc911dc62e8deb4f43a9d341851b99bbe43b7",
+      "sha256": "6cc4acf2f5234ba30fca89f478535f9fa3f4fe939c2a4e2e2f041732b5309d75",
       "pairs": 0,
       "status": "non_translation_support_file",
       "review": null,
-      "note": "无翻译条目：该文件仅包含语言入口或样式框架，不产生可核对的对白文本。"
+      "note": "无翻译条目：该文件仅包含语言入口或样式框架，不产生可核对的对白文本。",
+      "font_save_validation": {
+        "date": "2026-10-06",
+        "scope": "8194原生启动后读取存档、英文/中文切换四次并保存；重启读取新存档后再次切换四次并保存，8次均成功；辅助函数身份稳定。",
+        "full_playthrough": false
+      }
     },
     "tl/zh_hans/hook_add_change_language_entrance.rpy": {
       "sha256": "622ce56a7e0a18bdfeecf6b2b8eaad3f295b84acf101c2f5909d3405a8d380ef",
@@ -3157,12 +3162,12 @@
       }
     },
     "tl/zh_hans/res/meta/cast.rpy": {
-      "sha256": "e4a82380e5fefd4dee75251ad8e0501515dda537eba9ef6e33b952047232da23",
+      "sha256": "c8c839f91b70f362970e98b1cfc88063253ed9ea90db5fb224387a35ca1b556e",
       "pairs": 75,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "e4a82380e5fefd4dee75251ad8e0501515dda537eba9ef6e33b952047232da23",
+        "translation_sha256": "c8c839f91b70f362970e98b1cfc88063253ed9ea90db5fb224387a35ca1b556e",
         "source_sha256": "921ded035917f798a7d3bb002fd51186539e4bd54fff9432cd868b7fea4e9c34",
         "source": "game/res/meta/cast.rpym",
         "source_local": ".codex_tmp/current7944/src/res/meta/cast.rpym",
@@ -3392,7 +3397,7 @@
           {
             "id": "strings",
             "line": 277,
-            "pair_sha256": "90a145f452da07e0623e2216efa25b870061cd9baa03aa967258e32cae02b16e"
+            "pair_sha256": "83453c1747725d3edbeb1de4c94a21b6b9e93091a6332089ac7a592241d17f60"
           },
           {
             "id": "strings",
@@ -3413,7 +3418,25 @@
         "note": "全部44条中文及对应英文已读。Tammy称谓与人物指南统一太太；Eve背景保留older sibling未指明性别的传闻；Judith often不是难免，去掉原文没有的必然判断。动态资料页显示及其他别名调用仍待进一步闭环。 2026-10-04：迁移至8194位置；仅保留ID及英中内容摘要均不变的历史审读项，不将新增文本自动计作7944审读覆盖。",
         "external_event_followup": true,
         "dependencies": [],
-        "method": "bilingual_scene_read"
+        "method": "bilingual_scene_read",
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "e4a82380e5fefd4dee75251ad8e0501515dda537eba9ef6e33b952047232da23",
+            "translation_sha256": "c8c839f91b70f362970e98b1cfc88063253ed9ea90db5fb224387a35ca1b556e",
+            "items": [
+              {
+                "line": 277,
+                "source": "The lovable landlady of [saga.cast.anon]'s best friend, [saga.cast.erik]. A real yoga nut, Mrs. [saga.cast.tammy.clan] is a caring and thoughtful caretaker, if not a little overbearing. Since her divorce a few years ago, she's become a bit too involved in her young tenant's life.\\n\\nEven so, she's usually a warm and welcomed presence; Always quick with a snack and a smile for her guest and his friends.",
+                "target": "[saga.cast.anon]的好朋友[saga.cast.erik]有位讨人喜欢的房东太太。痴迷瑜伽的[saga.cast.tammy.clan]太太很会照顾人，事事周到，只是有时管得有点多。自从几年前离婚，她对这位年轻房客的生活便操心过了头。\\n\\n不过，她大多时候还是温暖又亲切的。房客和朋友们一来，她总能笑眯眯地拿出零食招待。",
+                "previous_pair_sha256": "90a145f452da07e0623e2216efa25b870061cd9baa03aa967258e32cae02b16e",
+                "pair_sha256": "83453c1747725d3edbeb1de4c94a21b6b9e93091a6332089ac7a592241d17f60"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
+          }
+        ]
       },
       "version_migration": {
         "game_version": "21.0.0-wip.8194",
@@ -5797,12 +5820,12 @@
       }
     },
     "tl/zh_hans/res/meta/step.rpy": {
-      "sha256": "01976416c14e494e2d459946684d4bce25d73db7a7f246a47cea76f777384bde",
+      "sha256": "5929e2a2acde88814cd537b72349b5ba2cb9485ee4dfd4d22f5b2cfcf969b4c6",
       "pairs": 781,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "01976416c14e494e2d459946684d4bce25d73db7a7f246a47cea76f777384bde",
+        "translation_sha256": "5929e2a2acde88814cd537b72349b5ba2cb9485ee4dfd4d22f5b2cfcf969b4c6",
         "source_sha256": "ce5ed7986ea347ffa5b9320b991c456dcbd9ed57c0495fd4823b016f0230371b",
         "source": "game/res/meta/step.rpym",
         "source_local": ".codex_tmp/current7944/src/res/meta/step.rpym",
@@ -7154,7 +7177,7 @@
           {
             "id": "strings",
             "line": 1077,
-            "pair_sha256": "8da3f9b6eb153a1b00e20d956c65fe8540cac270062cb44ea232109afa62bf3f"
+            "pair_sha256": "31ec9b718b7b6b2dc7b1c06762162cfc6dec3095388e0bfac189ce870c6d8859"
           },
           {
             "id": "strings",
@@ -9505,7 +9528,25 @@
         "note": "全部任务提示本地阅读完成，当前732条。未解除已有疑点和外部事件待复核标记。 2026-10-04：迁移至8194位置；仅保留ID及英中内容摘要均不变的历史审读项，不将新增文本自动计作7944审读覆盖。",
         "external_event_followup": true,
         "dependencies": [],
-        "method": "bilingual_scene_read"
+        "method": "bilingual_scene_read",
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "01976416c14e494e2d459946684d4bce25d73db7a7f246a47cea76f777384bde",
+            "translation_sha256": "5929e2a2acde88814cd537b72349b5ba2cb9485ee4dfd4d22f5b2cfcf969b4c6",
+            "items": [
+              {
+                "line": 1077,
+                "source": "Whoa, landladies masturbate too?! Neat!!",
+                "target": "哇，房东太太也自慰吗？！太棒了！！",
+                "previous_pair_sha256": "8da3f9b6eb153a1b00e20d956c65fe8540cac270062cb44ea232109afa62bf3f",
+                "pair_sha256": "31ec9b718b7b6b2dc7b1c06762162cfc6dec3095388e0bfac189ce870c6d8859"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
+          }
+        ]
       },
       "version_migration": {
         "game_version": "21.0.0-wip.8194",
@@ -47196,12 +47237,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb03.rpy": {
-      "sha256": "9686d615ec1ef8d5ee8365a6e13b5dee21bed0d5728c5ff7e9af40c7237dadc0",
+      "sha256": "bcfffd65a91a75e19a5796b6ceddc8dafa58454f7d509e4add67f947414cb091",
       "pairs": 222,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "9686d615ec1ef8d5ee8365a6e13b5dee21bed0d5728c5ff7e9af40c7237dadc0",
+        "translation_sha256": "bcfffd65a91a75e19a5796b6ceddc8dafa58454f7d509e4add67f947414cb091",
         "source_sha256": "5cd19d11854880f9615d653437f2cf39adbf2026b6cb9939d96379edf6193803",
         "source": "game/src/plot/deb03.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb03.rpy",
@@ -48052,7 +48093,7 @@
           {
             "id": "deb03_outro_merge_23c72665",
             "line": 1003,
-            "pair_sha256": "fd85329f653ef806ad550cd141c46c06790214d160944c4aace8efc767a81dc9"
+            "pair_sha256": "6669c3d124f8c2752d5a3c7148416e195853b36ec0dedc09ad8da098bfd28c95"
           },
           {
             "id": "deb03_outro_merge_e777d979",
@@ -48341,6 +48382,24 @@
               470
             ],
             "note": "源464为空白mono，与译文一致，非漏译。"
+          }
+        ],
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "9686d615ec1ef8d5ee8365a6e13b5dee21bed0d5728c5ff7e9af40c7237dadc0",
+            "translation_sha256": "bcfffd65a91a75e19a5796b6ceddc8dafa58454f7d509e4add67f947414cb091",
+            "items": [
+              {
+                "line": 1003,
+                "source": "( That's our landlady, not some floozy on the internet! )",
+                "target": "（她可是我们的房东太太，不是什么网上的骚货！）",
+                "previous_pair_sha256": "fd85329f653ef806ad550cd141c46c06790214d160944c4aace8efc767a81dc9",
+                "pair_sha256": "6669c3d124f8c2752d5a3c7148416e195853b36ec0dedc09ad8da098bfd28c95"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
           }
         ]
       }
@@ -50997,12 +51056,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb07.rpy": {
-      "sha256": "53267bf1f44d30cfd7f17fe6df47009da65247254b2e00a3931b7d294cd33efd",
+      "sha256": "07546ec780ae92f1e582ce8fc5f640f74382c4fc7409958d6b8faaaa65436532",
       "pairs": 141,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "53267bf1f44d30cfd7f17fe6df47009da65247254b2e00a3931b7d294cd33efd",
+        "translation_sha256": "07546ec780ae92f1e582ce8fc5f640f74382c4fc7409958d6b8faaaa65436532",
         "source_sha256": "d69cf0f69e6d93671390e73f0d43467e7c13962c6764dc15b0f2d88bfa9cb943",
         "source": "game/src/plot/deb07.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb07.rpy",
@@ -51616,7 +51675,7 @@
           {
             "id": "deb07_movie_f7eace49",
             "line": 721,
-            "pair_sha256": "f382bf6b4d64d53f680297e77b664422a4a96ab48b564ace69a9cebb6e3bdadb"
+            "pair_sha256": "72c979e89e542663bd2137319dd203188477d25e4585712e12d8ce1a4d8b915c"
           },
           {
             "id": "deb07_movie_4fc0493e",
@@ -51671,7 +51730,7 @@
           {
             "id": "deb07_movie_33526c09",
             "line": 787,
-            "pair_sha256": "250b97de8f44dd2a2a019b78d5a9df30856cada847af2239f3cb212f5921349d"
+            "pair_sha256": "f5e251a39ce9ea728d8264d56a500ff6aea42781d12841b290fb4e4be8902939"
           },
           {
             "id": "deb07_movie_e8ebbd35",
@@ -51742,6 +51801,31 @@
               238
             ],
             "reason": "空白mono与原文一致"
+          }
+        ],
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "53267bf1f44d30cfd7f17fe6df47009da65247254b2e00a3931b7d294cd33efd",
+            "translation_sha256": "07546ec780ae92f1e582ce8fc5f640f74382c4fc7409958d6b8faaaa65436532",
+            "items": [
+              {
+                "line": 721,
+                "source": "Stop, you're making your old landlady blush!",
+                "target": "别说了，你都快把我这个老房东太太说得脸红了！",
+                "previous_pair_sha256": "f382bf6b4d64d53f680297e77b664422a4a96ab48b564ace69a9cebb6e3bdadb",
+                "pair_sha256": "72c979e89e542663bd2137319dd203188477d25e4585712e12d8ce1a4d8b915c"
+              },
+              {
+                "line": 787,
+                "source": "( I'm just straight up popping boners right between my landlady's feet now! )",
+                "target": "（我居然直接在房东太太的双脚之间硬了起来！）",
+                "previous_pair_sha256": "250b97de8f44dd2a2a019b78d5a9df30856cada847af2239f3cb212f5921349d",
+                "pair_sha256": "f5e251a39ce9ea728d8264d56a500ff6aea42781d12841b290fb4e4be8902939"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
           }
         ]
       }
@@ -53699,12 +53783,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb09.rpy": {
-      "sha256": "a45c0e2697e776e10535d6da72de481af406146ca61932caf1a3d134858713be",
+      "sha256": "7b11c6857a0b7d42b3f4bb40b4b38f7d71cdea227ca61ecc36c674474fdd35bf",
       "pairs": 33,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "a45c0e2697e776e10535d6da72de481af406146ca61932caf1a3d134858713be",
+        "translation_sha256": "7b11c6857a0b7d42b3f4bb40b4b38f7d71cdea227ca61ecc36c674474fdd35bf",
         "source_sha256": "751839e1557951e724b48cfba3e860638c8089632329876578a59c776f0a6b3f",
         "source": "game/src/plot/deb09.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb09.rpy",
@@ -53871,7 +53955,7 @@
           {
             "id": "deb09_dream_3ebd76cb",
             "line": 187,
-            "pair_sha256": "22d44b1e94e7e80fac1cf1d40936d3c3ee1f896d6e0b9632d47ca20c9a8b2aef"
+            "pair_sha256": "7f6bcb2f4cc58e88e90b14797f3b7fda78e51d46b345b48c2529b178a412de21"
           },
           {
             "id": "deb09_dream_99dab183",
@@ -53888,16 +53972,34 @@
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read",
-        "source_checks": []
+        "source_checks": [],
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "a45c0e2697e776e10535d6da72de481af406146ca61932caf1a3d134858713be",
+            "translation_sha256": "7b11c6857a0b7d42b3f4bb40b4b38f7d71cdea227ca61ecc36c674474fdd35bf",
+            "items": [
+              {
+                "line": 187,
+                "source": "( ... It definitely didn't feel like normal dreams a person should be having about their landlady. )",
+                "target": "（……正常人哪会对自己的房东太太做这种梦啊。）",
+                "previous_pair_sha256": "22d44b1e94e7e80fac1cf1d40936d3c3ee1f896d6e0b9632d47ca20c9a8b2aef",
+                "pair_sha256": "7f6bcb2f4cc58e88e90b14797f3b7fda78e51d46b345b48c2529b178a412de21"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
+          }
+        ]
       }
     },
     "tl/zh_hans/src/plot/deb10.rpy": {
-      "sha256": "25dbd32dd8e3084a666ada540945f90c32d2f701004d548f223e262a3518a0d8",
+      "sha256": "a7970062a7952a4eda22f06ed3dad91fc58fed15124445f2d3a5f57733aabe04",
       "pairs": 88,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "25dbd32dd8e3084a666ada540945f90c32d2f701004d548f223e262a3518a0d8",
+        "translation_sha256": "a7970062a7952a4eda22f06ed3dad91fc58fed15124445f2d3a5f57733aabe04",
         "source_sha256": "455d368ec537c6b7badb6eb71adfbd52f80f89d483ebc94d0f3c9d317cd55b84",
         "source": "game/src/plot/deb10.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb10.rpy",
@@ -53996,7 +54098,7 @@
           {
             "id": "deb10_bed1_bccd8166",
             "line": 103,
-            "pair_sha256": "8c4686d05ecd59b3af9b0fd0c9f611e5575b047218763b6f50c2278ba583d1f4"
+            "pair_sha256": "96fa9acd9fea1f239d9c6284bb2a2c9c6e16ed1c113d69e9670c2e2a723e7ad4"
           },
           {
             "id": "deb10_bed1_f0ecd3b9",
@@ -54365,6 +54467,24 @@
               96
             ],
             "reason": "three knuckles deep原文措辞核对"
+          }
+        ],
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "25dbd32dd8e3084a666ada540945f90c32d2f701004d548f223e262a3518a0d8",
+            "translation_sha256": "a7970062a7952a4eda22f06ed3dad91fc58fed15124445f2d3a5f57733aabe04",
+            "items": [
+              {
+                "line": 103,
+                "source": "( I didn't know landladies masturbated!! )",
+                "target": "（原来房东太太也会自慰的吗？！）",
+                "previous_pair_sha256": "8c4686d05ecd59b3af9b0fd0c9f611e5575b047218763b6f50c2278ba583d1f4",
+                "pair_sha256": "96fa9acd9fea1f239d9c6284bb2a2c9c6e16ed1c113d69e9670c2e2a723e7ad4"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
           }
         ]
       }
@@ -73988,12 +74108,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb26.rpy": {
-      "sha256": "b35d5df928ea9b5b0b97a42900d546f4f000ff8c21b90306f595aa96a03ac99c",
+      "sha256": "2421067e6991b0b56d7b684c3947387f13b284587606525e94b473f1967badde",
       "pairs": 858,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "b35d5df928ea9b5b0b97a42900d546f4f000ff8c21b90306f595aa96a03ac99c",
+        "translation_sha256": "2421067e6991b0b56d7b684c3947387f13b284587606525e94b473f1967badde",
         "source_sha256": "db3f73e82e0d502acfa3f7e837ce7ea12e8d922c4327c9e76220390039bed8aa",
         "source": "game/src/plot/deb26.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb26.rpy",
@@ -76443,7 +76563,7 @@
           {
             "id": "deb26_shop_4a606612",
             "line": 3328,
-            "pair_sha256": "b9670652942be13f8752eb1334d5b6310e3de98882cde7d8b202c1ad353edda0"
+            "pair_sha256": "633b7cd4645239182aa3d1bc1f860adfde73a9f93c57138c093861f39febd0e1"
           },
           {
             "id": "deb26_shop_01719823",
@@ -78354,6 +78474,24 @@
               2238
             ],
             "reason": "复读女体盛原有TODO、章鱼烧分支及汇合关系"
+          }
+        ],
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "b35d5df928ea9b5b0b97a42900d546f4f000ff8c21b90306f595aa96a03ac99c",
+            "translation_sha256": "2421067e6991b0b56d7b684c3947387f13b284587606525e94b473f1967badde",
+            "items": [
+              {
+                "line": 3328,
+                "source": "Sweetie, your wife isn't going to want your old landlady hanging around.",
+                "target": "亲爱的，你未来的妻子不会愿意让你以前的房东太太一直待在身边。",
+                "previous_pair_sha256": "b9670652942be13f8752eb1334d5b6310e3de98882cde7d8b202c1ad353edda0",
+                "pair_sha256": "633b7cd4645239182aa3d1bc1f860adfde73a9f93c57138c093861f39febd0e1"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
           }
         ]
       }
@@ -94755,12 +94893,12 @@
       }
     },
     "tl/zh_hans/src/plot/deb_tv.rpy": {
-      "sha256": "4964dbc03596367405d22d9b10579160a9bb9ea88ef3eb46780c6c7695f3aa46",
+      "sha256": "979632f8db993e65804677cd9933ee7bce255bd998f833cef3f808da15bbed54",
       "pairs": 765,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "4964dbc03596367405d22d9b10579160a9bb9ea88ef3eb46780c6c7695f3aa46",
+        "translation_sha256": "979632f8db993e65804677cd9933ee7bce255bd998f833cef3f808da15bbed54",
         "source_sha256": "fa54831158a5403017f18801f0b7ccfe4bda198ba67be105c0d6d919be3d9c61",
         "source": "game/src/plot/deb_tv.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/deb_tv.rpy",
@@ -98017,7 +98155,7 @@
           {
             "id": "deb_tv_play3_3680bf20",
             "line": 3889,
-            "pair_sha256": "4e71ab6c0571e66000a78b6b361ee18b8d11f48c505bc062bc42b93f65ecbeb1"
+            "pair_sha256": "6127e622d57621a5b54862be8e00c9f2bba4c70ef90044675df1c565f505e211"
           },
           {
             "id": "deb_tv_play3_090d2440",
@@ -98637,6 +98775,24 @@
               1307
             ],
             "reason": "I have got it配合起身动作表示由自己调整位置"
+          }
+        ],
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "4964dbc03596367405d22d9b10579160a9bb9ea88ef3eb46780c6c7695f3aa46",
+            "translation_sha256": "979632f8db993e65804677cd9933ee7bce255bd998f833cef3f808da15bbed54",
+            "items": [
+              {
+                "line": 3889,
+                "source": "I mean, I know this is terribly wrong for a landlady to be doing this kinda thing with her tenant...",
+                "target": "我的意思是，我知道作为房东太太和房客做这种事非常不对……",
+                "previous_pair_sha256": "4e71ab6c0571e66000a78b6b361ee18b8d11f48c505bc062bc42b93f65ecbeb1",
+                "pair_sha256": "6127e622d57621a5b54862be8e00c9f2bba4c70ef90044675df1c565f505e211"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
           }
         ]
       }
@@ -100250,12 +100406,12 @@
       }
     },
     "tl/zh_hans/src/plot/debbie.rpy": {
-      "sha256": "b16e2a1269476729ead2232d27c888b80df5f32b1bfb7c8da55b088cacf6af75",
+      "sha256": "e3c6349360c21db5802b21872d6c5c6551c23a9ba710bb9dd14ece8dfb209f19",
       "pairs": 215,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "b16e2a1269476729ead2232d27c888b80df5f32b1bfb7c8da55b088cacf6af75",
+        "translation_sha256": "e3c6349360c21db5802b21872d6c5c6551c23a9ba710bb9dd14ece8dfb209f19",
         "source_sha256": "f1d594f05cc476fc419c9f6a9afdc2cd8dea036ed02a41d19c95b8d0c1aa5686",
         "source": "game/src/plot/debbie.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/debbie.rpy",
@@ -100492,7 +100648,7 @@
           {
             "id": "debbie_debbie_lobby_outro2_e289b5f6",
             "line": 265,
-            "pair_sha256": "a797c579059186d7324f986a88a58f9651e39a3cbcd19739a07cd998a722977e"
+            "pair_sha256": "03f929dee08d3c1dc7592391ff1dc312cbd31b9dec15c9e32e5de3afa3312fe2"
           },
           {
             "id": "debbie_debbie_lobby_outro2_0a01c03b",
@@ -101361,6 +101517,24 @@
               47
             ],
             "reason": "Dreams为任务梦境话题；同词菜单仅本文件三个地点，已参照deb12与deb13怪梦谈话"
+          }
+        ],
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "b16e2a1269476729ead2232d27c888b80df5f32b1bfb7c8da55b088cacf6af75",
+            "translation_sha256": "e3c6349360c21db5802b21872d6c5c6551c23a9ba710bb9dd14ece8dfb209f19",
+            "items": [
+              {
+                "line": 265,
+                "source": "Now you go on... and stop worrying about your old landlady!",
+                "target": "好啦，忙你的去吧……别再操心你这老房东太太了！",
+                "previous_pair_sha256": "a797c579059186d7324f986a88a58f9651e39a3cbcd19739a07cd998a722977e",
+                "pair_sha256": "03f929dee08d3c1dc7592391ff1dc312cbd31b9dec15c9e32e5de3afa3312fe2"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
           }
         ]
       }
@@ -145568,12 +145742,12 @@
       }
     },
     "tl/zh_hans/src/plot/jen_sleep.rpy": {
-      "sha256": "9308dafb599b9b84a210c3ce90155112ae16ea11f530828713e1cae92ffa0a27",
+      "sha256": "4fdcc9ea8338a7e774e22856fbf765827b868ca82147e2dadf7da3841f555389",
       "pairs": 138,
       "status": "local_paths_reviewed",
       "review": {
         "date": "2026-09-13",
-        "translation_sha256": "9308dafb599b9b84a210c3ce90155112ae16ea11f530828713e1cae92ffa0a27",
+        "translation_sha256": "4fdcc9ea8338a7e774e22856fbf765827b868ca82147e2dadf7da3841f555389",
         "source_sha256": "4e357a64fb5ef7f1789cc07df0814db9ac2acae2f55af52774cc3b3a91ca9ba6",
         "source": "game/src/plot/jen_sleep.rpy",
         "source_local": ".codex_tmp/current7944/src/src/plot/jen_sleep.rpy",
@@ -145922,7 +146096,7 @@
           {
             "id": "jen_sleep_merge_f41f8327",
             "line": 403,
-            "pair_sha256": "49548914211eb731c739a49eb5bf45dbb6b1504c6bd8e3482d5bdda5f5449a11"
+            "pair_sha256": "e82e6ac353771d8192f0f68369b858e0059f8406cb4152fa004267ff8165a5d4"
           },
           {
             "id": "jen_sleep_merge_61e98e5f",
@@ -146227,7 +146401,7 @@
           {
             "id": "jen_sleep_wake_8351df69",
             "line": 769,
-            "pair_sha256": "49548914211eb731c739a49eb5bf45dbb6b1504c6bd8e3482d5bdda5f5449a11"
+            "pair_sha256": "e82e6ac353771d8192f0f68369b858e0059f8406cb4152fa004267ff8165a5d4"
           },
           {
             "id": "jen_sleep_wake_cebb2197",
@@ -146284,7 +146458,32 @@
         "external_event_followup": true,
         "dependencies": [],
         "method": "bilingual_scene_read",
-        "source_checks": []
+        "source_checks": [],
+        "incremental_revisions": [
+          {
+            "date": "2026-10-07",
+            "method": "changed_pair_and_adjacent_bilingual_context_read",
+            "previous_translation_sha256": "9308dafb599b9b84a210c3ce90155112ae16ea11f530828713e1cae92ffa0a27",
+            "translation_sha256": "4fdcc9ea8338a7e774e22856fbf765827b868ca82147e2dadf7da3841f555389",
+            "items": [
+              {
+                "line": 403,
+                "source": "Fuck you!",
+                "target": "去你的！",
+                "previous_pair_sha256": "49548914211eb731c739a49eb5bf45dbb6b1504c6bd8e3482d5bdda5f5449a11",
+                "pair_sha256": "e82e6ac353771d8192f0f68369b858e0059f8406cb4152fa004267ff8165a5d4"
+              },
+              {
+                "line": 769,
+                "source": "Fuck you!",
+                "target": "去你的！",
+                "previous_pair_sha256": "49548914211eb731c739a49eb5bf45dbb6b1504c6bd8e3482d5bdda5f5449a11",
+                "pair_sha256": "e82e6ac353771d8192f0f68369b858e0059f8406cb4152fa004267ff8165a5d4"
+              }
+            ],
+            "note": "仅重新审读本次改动及相邻语境；未变内容沿用历史范围，不新增游戏内验收。"
+          }
+        ]
       }
     },
     "tl/zh_hans/src/plot/jen_table.rpy": {

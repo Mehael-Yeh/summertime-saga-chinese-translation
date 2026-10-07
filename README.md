@@ -51,8 +51,12 @@ SummertimeSaga/
     │   │   └── sex_speed_control.rpy
     │   ├── cookie_jar_unlock/
     │   │   └── cookie_jar_unlock.rpy
-    │   └── controls_guide/
-    │       └── controls_guide.rpy
+    │   ├── controls_guide/
+    │   │   └── controls_guide.rpy
+    │   └── perfect_save/
+    │       ├── perfect_save.rpy
+    │       ├── completion_state.rpy
+    │       └── reacquisition.rpy
     └── tl/
         └── zh_hans/
             ├── base_box/
@@ -72,6 +76,7 @@ SummertimeSaga/
 | 动画调速 | 动画播放界面调整播放速度 | [安装与使用](mods/sex_speed_control/README.md) |
 | 角色图鉴解锁 | 图鉴右上角锁按钮；点击解锁，再次点击恢复正常剧情解锁状态 | [安装、取消解锁与兼容性](mods/cookie_jar_unlock/README.md) |
 | 控制说明 | 设置→控制；滚动表格列出14项通用按键、5项小游戏操作及限制说明，支持英文／中文切换 | [安装、使用与卸载](mods/controls_guide/README.md) |
+| 完美存档（构造） | 读取页五角星按当前版本生成并覆盖快速存档第6格；生成档停在第1天、主角房间，补齐联系人、剧情地点、背包及图鉴；全部可携带物品入包并保留原场景展示，收集／加篮撤下唯一物品，原生结账免费且不重复入包 | [安装、状态构造与兼容性](mods/perfect_save/README.md) |
 
 
 ## :arrows_counterclockwise: 更新与卸载
@@ -86,16 +91,21 @@ SummertimeSaga/
 .
 ├── .github/workflows/       # GitHub Actions 自动构建与发布
 ├── assets/                  # 截图示例素材
-├── mods/                    # 动画调速、角色图鉴解锁与控制说明 Mod
+├── mods/                    # 独立Mod及其安装说明
 │   ├── sex_speed_control/
 │   │   ├── sex_speed_control.rpy
 │   │   └── README.md         # 调速 Mod 安装及使用说明
 │   ├── cookie_jar_unlock/
 │   │   ├── cookie_jar_unlock.rpy
 │   │   └── README.md         # 图鉴 Mod 安装及兼容说明
-│   └── controls_guide/
-│       ├── controls_guide.rpy
-│       └── README.md         # 控制说明 Mod 安装及使用说明
+│   ├── controls_guide/
+│   │   ├── controls_guide.rpy
+│   │   └── README.md         # 控制说明 Mod 安装及使用说明
+│   └── perfect_save/
+│       ├── perfect_save.rpy
+│       ├── completion_state.rpy
+│       ├── reacquisition.rpy
+│       └── README.md         # 按当前版本构造存档及安装说明
 ├── tl/zh_hans/              # Ren'Py 简体中文翻译源文件及界面适配脚本
 ├── tools/                   # 校验、术语审计和 RPA 构建工具
 ├── translation_context/     # 角色、剧情、术语、风格和精修进度记录

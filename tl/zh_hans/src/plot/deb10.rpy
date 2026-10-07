@@ -100,7 +100,7 @@ translate zh_hans deb10_bed1_a2d4ae85:
 translate zh_hans deb10_bed1_bccd8166:
 
     # anon "( I didn't know landladies masturbated!! )"
-    anon "（原来女房东也会自慰的吗？！）"
+    anon "（原来房东太太也会自慰的吗？！）"
 
 # game/src/plot/deb10.rpy:36
 translate zh_hans deb10_bed1_f0ecd3b9:

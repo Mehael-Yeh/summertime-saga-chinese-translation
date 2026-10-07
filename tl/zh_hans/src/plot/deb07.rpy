@@ -718,7 +718,7 @@ translate zh_hans deb07_movie_4e92cb58:
 translate zh_hans deb07_movie_f7eace49:
 
     # debbie @ e_b m_laugh of_blush "Stop, you're making your old landlady blush!"
-    debbie @ e_b m_laugh of_blush "别说了，你都快把我这个老房东说得脸红了！"
+    debbie @ e_b m_laugh of_blush "别说了，你都快把我这个老房东太太说得脸红了！"
 
 # game/src/plot/deb07.rpy:250
 translate zh_hans deb07_movie_4fc0493e:
@@ -784,7 +784,7 @@ translate zh_hans deb07_movie_f1718780:
 translate zh_hans deb07_movie_33526c09:
 
     # anon @ -m_talk "( I'm just straight up popping boners right between my landlady's feet now! )"
-    anon @ -m_talk "（我居然直接在女房东的双脚之间硬了起来！）"
+    anon @ -m_talk "（我居然直接在房东太太的双脚之间硬了起来！）"
 
 # game/src/plot/deb07.rpy:278
 translate zh_hans deb07_movie_e8ebbd35:

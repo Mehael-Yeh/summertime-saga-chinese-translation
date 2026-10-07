@@ -1,4 +1,4 @@
-translate zh_hans python:
+init python:
     # 中文字体缺少原版UI符号；仅将缺字交给引擎自带字体，其余字符保持原字体。
     def _ssct_symbol_font(path, music=False):
         group = FontGroup().add(path, None, None)
@@ -6,6 +6,7 @@ translate zh_hans python:
             group.add("DejaVuSans.ttf", codepoint, codepoint)
         return group
 
+translate zh_hans python:
     #游戏内对话文本字体
     gui.text_font = _ssct_symbol_font("tl/zh_hans/fonts/SourceHanSansCN-Bold.ttf")
     #游戏内人物角色名称字体
