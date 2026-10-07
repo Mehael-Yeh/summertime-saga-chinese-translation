@@ -168,6 +168,34 @@ init 997 python:
             except (SyntaxError,TypeError):pass
         return frozenset(values)
 
+    def _ssct_completion_script_choices(label):
+        """Read literal native menu tags without executing a scene."""
+        import ast
+        pending=[renpy.game.script.namemap.get(label)]
+        visited=set()
+        choices=set()
+        while pending:
+            node=pending.pop()
+            if node is None or id(node) in visited:continue
+            visited.add(id(node))
+            pending.extend(getattr(node,'block',()) or ())
+            if isinstance(node,renpy.ast.If):
+                for condition,block in node.entries:pending.extend(block)
+            elif isinstance(node,renpy.ast.Menu):
+                for args in getattr(node,'item_arguments',()) or ():
+                    for name,expression in getattr(args,'arguments',()) or ():
+                        if name!='_choice':continue
+                        try:value=ast.literal_eval(expression)
+                        except (ValueError,SyntaxError,TypeError):continue
+                        if isinstance(value,str):choices.add(value)
+                for caption,condition,block in node.items:
+                    if block:pending.extend(block)
+            elif isinstance(node,renpy.ast.Jump) and not node.expression:
+                pending.append(renpy.game.script.namemap.get(node.target))
+            elif isinstance(node,renpy.ast.Call) and not node.expression:
+                pending.append(renpy.game.script.namemap.get(node.label))
+        return frozenset(choices)
+
     def _ssct_completion_expression(instructions, end, globals_, locals_):
         """Resolve only literal/catalogue expressions; never call native code."""
         if end < 0:
@@ -181,6 +209,8 @@ init 997 python:
             return locals_.get(op.argval), end - 1
         if op.opname in ('LOAD_ATTR', 'LOAD_METHOD'):
             owner, start = _ssct_completion_expression(instructions, end - 1, globals_, locals_)
+            if op.argval=='_choice' and owner is not None and owner is globals_.get('store') and '__script_choices__' in locals_:
+                return locals_['__script_choices__'], start
             if owner is None:
                 return None, start
             # Catalogue lookups and stored fields only; no computed plan/view.
@@ -191,13 +221,23 @@ init 997 python:
             if type(owner).__module__.startswith('saga.enum') and op.argval=='ref':
                 return getattr(owner,'ref'), start
             return getattr(owner, '__dict__', {}).get(op.argval), start
-        if op.opname in ('BUILD_TUPLE', 'BUILD_LIST'):
+        if op.opname=='SET_UPDATE':
+            value,start=_ssct_completion_expression(instructions,end-1,globals_,locals_)
+            base,start=_ssct_completion_expression(instructions,start,globals_,locals_)
+            return (base | value if isinstance(base,frozenset) and isinstance(value,frozenset) else None),start
+        if op.opname=='CALL' and op.arg==1:
+            value,start=_ssct_completion_expression(instructions,end-1,globals_,locals_)
+            if start>=0 and instructions[start].opname in ('LOAD_ATTR','LOAD_METHOD') and instructions[start].argval=='intersection':
+                owner,start=_ssct_completion_expression(instructions,start-1,globals_,locals_)
+                if isinstance(owner,frozenset) and isinstance(value,frozenset):return owner & value,start
+            return None,start
+        if op.opname in ('BUILD_TUPLE', 'BUILD_LIST', 'BUILD_SET'):
             values = []
             start = end - 1
             for unused in range(op.arg):
                 value, start = _ssct_completion_expression(instructions, start, globals_, locals_)
                 values.insert(0, value)
-            return tuple(values), start
+            return (frozenset(values) if op.opname=='BUILD_SET' else tuple(values)), start
         if op.opname in ('FORMAT_VALUE', 'UNARY_NOT'):
             value, start = _ssct_completion_expression(instructions, end-1, globals_, locals_)
             if op.opname=='FORMAT_VALUE' and isinstance(value,frozenset):
@@ -220,7 +260,7 @@ init 997 python:
     def _ssct_completion_model(routes, steps, extra_contexts=()):
         import dis
         model = {'memo': {}, 'listeners': {}, 'deliveries': {}, 'grades': {},
-                 'fields': {}, 'diaries': {}, 'device_tags': {}, 'sources': [], 'dynamic': [],
+                 'fields': {}, 'deleted_fields': set(), 'diaries': {}, 'device_tags': {}, 'prop_tags': {}, 'sources': [], 'dynamic': [],
                  'inspected_callbacks': [], 'unclassified_fields': [],
                  'unsupported_callbacks': [],
                  'initial_repeat_states': {item.ref: getattr(getattr(item, 'step', None), 'ref', None)
@@ -273,11 +313,26 @@ init 997 python:
                            if i.opname not in ('CACHE', 'EXTENDED_ARG', 'NOP', 'RESUME')]
                     # Merge literal assignments across branch joins. A call's
                     # possible replies come from this engine's own script AST.
+                    script_choices=set()
+                    for call_index,call_op in enumerate(ins):
+                        if call_op.opname!='CALL':continue
+                        args,cursor=[],call_index-1
+                        for unused in range(call_op.arg):
+                            argument,cursor=_ssct_completion_expression(ins,cursor,callback.__globals__,bound)
+                            args.insert(0,argument)
+                        if cursor>=0 and ins[cursor].opname=='LOAD_GLOBAL' and ins[cursor].argval=='call' and args and isinstance(args[0],str):
+                            script_choices.update(_ssct_completion_script_choices(args[0]))
+                    bound['__script_choices__']=frozenset(script_choices)
                     assigned={}
                     for index,op in enumerate(ins):
                         if op.opname != 'STORE_FAST' or not index:continue
                         previous=ins[index-1]
                         value,unused=_ssct_completion_expression(ins,index-1,callback.__globals__,bound)
+                        if previous.opname=='CALL' and isinstance(value,frozenset):
+                            # A set of menu tags is one collection, not alternative
+                            # scalar replies; retain its type for later *opts.
+                            bound[op.argval]=value
+                            continue
                         if previous.opname=='CALL':
                             cursor=index-2
                             arguments=[]
@@ -301,11 +356,18 @@ init 997 python:
                     for key,values in assigned.items():
                         if values:bound[key]=next(iter(values)) if len(values)==1 else frozenset(values)
                     for index, op in enumerate(ins):
-                        if op.opname == 'CALL':
-                            arguments, cursor = [], index - 1
+                        if op.opname in ('CALL','CALL_FUNCTION_EX'):
+                            if op.opname=='CALL_FUNCTION_EX':
+                                if op.arg:continue
+                                expanded_tags,cursor=_ssct_completion_expression(ins,index-1,callback.__globals__,bound)
+                                if not isinstance(expanded_tags,(tuple,frozenset)):continue
+                                if cursor<0 or ins[cursor].argval not in ('put','remove'):continue
+                                arguments=list(expanded_tags)
+                            else:
+                                arguments, cursor = [], index - 1
                             if cursor >= 0 and ins[cursor].opname == 'KW_NAMES':
                                 continue
-                            for unused in range(op.arg):
+                            for unused in range(op.arg if op.opname=='CALL' else 0):
                                 value, cursor = _ssct_completion_expression(ins, cursor, callback.__globals__, bound)
                                 arguments.insert(0, value)
                             if cursor < 0:
@@ -331,6 +393,11 @@ init 997 python:
                                     for flag in arguments:
                                         model['device_tags'][target + (flag,)] = method.argval == 'add'
                                     record(source, 'device-tag', target, tuple(arguments))
+                                    continue
+                                if target[0] == 'prop' and hasattr(owner,'tags') and method.argval in ('add','remove') and all(isinstance(flag,str) for flag in arguments):
+                                    for flag in arguments:
+                                        model['prop_tags'][target + (flag,)] = method.argval == 'add'
+                                    record(source, 'prop-tag', target, tuple(arguments))
                                     continue
                                 if method.argval in ('put', 'remove'):
                                     arguments=[value for argument in arguments
@@ -359,6 +426,16 @@ init 997 python:
                                     if target and target[0] in ('step', 'flow', 'cast'):
                                         model['listeners'][target] = method.argval == 'attach'
                                         record(source, method.argval, target, ())
+                        elif op.opname == 'DELETE_ATTR':
+                            owner, unused = _ssct_completion_expression(ins,index-1,callback.__globals__,bound)
+                            target = address(owner)
+                            if target and target[0] in ('prop','sets') and op.argval in ('noop','lock'):
+                                field = target + (op.argval,)
+                                model['fields'].pop(field,None)
+                                model['deleted_fields'].add(field)
+                                record(source,'delete-field',field,())
+                            else:
+                                model['unclassified_fields'].append((source,target,'delete:'+op.argval))
                         elif op.opname == 'STORE_ATTR':
                             owner, cursor = _ssct_completion_expression(ins, index-1, callback.__globals__, bound)
                             value, unused = _ssct_completion_expression(ins, cursor, callback.__globals__, bound)
@@ -370,9 +447,11 @@ init 997 python:
                                     record(source, 'grade', ('flow', route.ref), (value,))
                             elif target and isinstance(value, bool) and (op.argval in ('lock', 'noop')
                                     or (op.argval == 'auto' and target[0] == 'prop' and any(base.__name__ in ('PC', 'Computer') for base in type(owner).__mro__))):
+                                model['deleted_fields'].discard(target + (op.argval,))
                                 model['fields'][target + (op.argval,)] = value
                                 record(source, 'field', target + (op.argval,), (value,))
                             elif target and target[0] == 'cast' and op.argval == 'lust' and isinstance(value, (int, float)):
+                                model['deleted_fields'].discard(target + (op.argval,))
                                 model['fields'][target + (op.argval,)] = value
                                 record(source, 'field', target + (op.argval,), (value,))
                             elif op.argval not in ('where', 'costume', 'mood', 'cash', 'bank', 'cast', 'step', 'wait', 'last', 'chat', 'plan'):
@@ -392,6 +471,21 @@ init 997 python:
                         contexts.append((entity,(entity,)))
         return model
 
+    def _ssct_completion_tv_accounts(model):
+        """Persist the native remembered subscription, not a password UI bypass."""
+        from saga.tech.television import Television, PPV
+        accounts=[]
+        for device in saga.prop:
+            if not isinstance(device,Television):continue
+            for number,channel in device.tuner.items():
+                account=channel.freq
+                if not isinstance(account,PPV) or account.dev is not device:continue
+                # PPV.auto reads hdd; native surf uses auto to authenticate into
+                # ram on each boot. Leave that session lifecycle to the game.
+                device.hdd.add(account.freq)
+                accounts.append((device.ref,number,account.freq))
+        model['tv_accounts']=accounts
+
     def _ssct_completion_place_entries(model, steps):
         """Retire native presentation-only place programs that return clear.
 
@@ -406,7 +500,7 @@ init 997 python:
         places={id(place):place for place in saga.sets}
         ignored={'RESUME','CACHE','EXTENDED_ARG','NOP','PUSH_NULL','PRECALL'}
         allowed=tuple(getattr(renpy.ast,name) for name in
-            ('Scene','Show','Hide','Say','With','Pass') if hasattr(renpy.ast,name))
+            ('Scene','Show','ShowLayer','Camera','Hide','Say','With','Pass') if hasattr(renpy.ast,name))
         resolved=[]
         for node in steps:
             for callback,requirements,mutex,weight in getattr(node,'pool',()):
@@ -457,6 +551,125 @@ init 997 python:
                 break
         model['place_entry_retirements']=resolved
 
+    def _ssct_completion_initial_interactions(model, steps):
+        """Complete native one-off observers and guarded first-use markers.
+
+        Keep repeat handlers registered. Never run callbacks, set read history,
+        or infer completion from the name of an item or dialogue label.
+        """
+        import dis, re
+        from saga.event import call as native_call
+        native_transition=getattr(getattr(native_call,'__func__',native_call),'__globals__',{}).get('transition')
+        from saga.logic.util import req as native_req
+        from saga.util.sentinel import clear, abort
+        catalogues=_ssct_completion_catalogues()
+        props={id(item):item for item in catalogues['prop']}
+        actors={id(actor):actor for actor in catalogues['cast']}
+        allowed=tuple(getattr(renpy.ast,name) for name in
+            ('Scene','Show','ShowLayer','Camera','Hide','Say','With','Pass') if hasattr(renpy.ast,name))
+        def presentation(label):
+            pending=[renpy.game.script.namemap.get(label)]
+            seen=set()
+            while pending:
+                node=pending.pop()
+                if node is None:return False
+                if id(node) in seen:continue
+                seen.add(id(node))
+                if isinstance(node,allowed):continue
+                if isinstance(node,renpy.ast.Label):pending.extend(node.block)
+                elif isinstance(node,renpy.ast.Return):
+                    if node.expression not in (None,'None'):return False
+                elif isinstance(node,renpy.ast.If):
+                    for condition,block in node.entries:pending.extend(block)
+                elif isinstance(node,renpy.ast.Call) and not node.expression:
+                    pending.append(renpy.game.script.namemap.get(node.label))
+                elif isinstance(node,renpy.ast.Jump) and not node.expression:
+                    pending.append(renpy.game.script.namemap.get(node.target))
+                elif isinstance(node,getattr(renpy.ast,'UserStatement',type(None))) and re.fullmatch(
+                        r'pause(?:\s+\d+(?:\.\d+)?)?|window\s+(?:show|hide)(?:\s+.*)?',getattr(node,'line','')):
+                    continue
+                else:return False
+            return True
+        completed=[]
+        unresolved=[]
+        markers=[]
+        for node in steps:
+            for callback,requirements,mutex,weight in getattr(node,'pool',()):
+                while not hasattr(callback,'__code__') and hasattr(callback,'func'):callback=callback.func
+                if not hasattr(callback,'__code__'):continue
+                code=callback.__code__
+                defaults=callback.__defaults__ or ()
+                bound=dict(zip(code.co_varnames[code.co_argcount-len(defaults):code.co_argcount],defaults))
+                bound.update(dict(requirements))
+                bound['ctx']=node
+                ins=[op for op in dis.get_instructions(callback) if op.opname not in
+                     ('CACHE','EXTENDED_ARG','RESUME','NOP','PRECALL','PUSH_NULL')]
+                calls=[]
+                call_sites={}
+                unsafe=False
+                for index,op in enumerate(ins):
+                    if op.opname in ('STORE_GLOBAL','STORE_DEREF','DELETE_ATTR','STORE_SUBSCR'):unsafe=True
+                    if op.opname!='CALL':continue
+                    call_sites[op.offset]=False
+                    args,cursor=[],index-1
+                    for unused in range(op.arg):
+                        value,cursor=_ssct_completion_expression(ins,cursor,callback.__globals__,bound)
+                        args.insert(0,value)
+                    if cursor<0:unsafe=True;continue
+                    method=ins[cursor]
+                    if method.opname=='LOAD_GLOBAL':
+                        function=callback.__globals__.get(method.argval)
+                        if function is native_call and args and isinstance(args[0],str):
+                            calls.append(args[0]);call_sites[op.offset]=True
+                        elif function is not native_req and function is not native_transition:unsafe=True
+                    elif method.opname in ('LOAD_ATTR','LOAD_METHOD') and method.argval=='move':
+                        owner,unused=_ssct_completion_expression(ins,cursor-1,callback.__globals__,bound)
+                        if id(owner) not in actors:unsafe=True
+                    else:unsafe=True
+                # The native module explicitly owns these independent one-shot
+                # programs. Its terminal clear, not a guessed flag, retires them.
+                if callback.__module__=='saga.logic.once':
+                    terminal=None
+                    if ins and ins[-1].opname=='RETURN_VALUE':
+                        terminal,unused=_ssct_completion_expression(ins,len(ins)-2,callback.__globals__,bound)
+                    values=terminal if isinstance(terminal,tuple) else (terminal,)
+                    writes=[op.argval for op in ins if op.opname=='STORE_ATTR']
+                    returns=[op for op in ins if op.opname.startswith('RETURN')]
+                    missing=[label for label in calls if label not in renpy.game.script.namemap]
+                    if not unsafe and (not missing or not writes) and len(returns)==1 and clear in values and all(
+                            value is clear or value is abort for value in values) and calls and all(
+                            presentation(label) or label in missing for label in calls) and all(field in ('costume','where') for field in writes):
+                        target=('step',node.ref)
+                        model['listeners'][target]=False
+                        model['sources'].append((node.ref+'.'+callback.__name__,'native-one-off-clear',target,tuple(calls)))
+                        completed.append({'observer':node.ref,'labels':calls,'event_keys':sorted(dict(requirements)),
+                            'missing_presentation_labels':missing})
+                    else:unresolved.append({'observer':node.ref,'callback':callback.__name__,'reason':'unclassified_native_one_off'})
+                # A repeated action can contain one initial presentation guarded
+                # by a stored boolean. Project that marker without detaching it.
+                for index,op in enumerate(ins):
+                    if op.opname!='STORE_ATTR':continue
+                    owner,cursor=_ssct_completion_expression(ins,index-1,callback.__globals__,bound)
+                    value,unused=_ssct_completion_expression(ins,cursor,callback.__globals__,bound)
+                    if id(owner) not in props or value is not True or type(
+                            getattr(owner,'__dict__',{}).get(op.argval)) is not bool:continue
+                    guarded=False
+                    for guard_index,guard in enumerate(ins[:index]):
+                        if guard.opname!='LOAD_ATTR' or guard.argval!=op.argval:continue
+                        checked,unused=_ssct_completion_expression(ins,guard_index-1,callback.__globals__,bound)
+                        if checked is owner and guard_index+1<len(ins) and ins[guard_index+1].opname=='POP_JUMP_IF_TRUE':
+                            destination=ins[guard_index+1].argval
+                            branch_calls=[safe for offset,safe in call_sites.items() if guard.offset<offset<op.offset]
+                            guarded=op.offset<destination and bool(branch_calls) and all(branch_calls)
+                    if not guarded or not calls or not all(presentation(label) for label in calls):continue
+                    target=('prop',owner.ref,op.argval)
+                    model['fields'][target]=True
+                    model['sources'].append((node.ref+'.'+callback.__name__,'first-use-marker',target,tuple(calls)))
+                    markers.append(list(target))
+        model['one_off_retirements']=completed
+        model['unresolved_one_offs']=unresolved
+        model['first_use_markers']=markers
+
     def _ssct_completion_repeat_states(model):
         """Settle pure native reset transitions without running story callbacks."""
         import dis
@@ -485,14 +698,14 @@ init 997 python:
         model['repeat_states']=settled
 
     def _ssct_completion_greetings(model):
-        """Infer introductory/repeat greeting memory from native branch topology."""
+        """Infer first/repeat encounter memory from native sibling branches."""
         import ast
         seen=set()
         for statement in renpy.game.script.namemap.values():
             if not isinstance(statement,renpy.ast.If):continue
             following=getattr(statement,'next',None)
-            repeated=isinstance(following,renpy.ast.Jump) and not following.expression and following.target.endswith('.intro2')
-            prefix=following.target[:-len('2')] if repeated else None
+            repeated=isinstance(following,renpy.ast.Jump) and not following.expression and following.target.endswith('2')
+            prefix=following.target[:-1] if repeated else None
             for condition,block in statement.entries:
                 topology=repeated and any(isinstance(child,renpy.ast.Jump) and not child.expression
                            and child.target==prefix+'1' for child in block)
@@ -614,10 +827,15 @@ init 997 python:
             home = getattr(catalogues['step'], prefix + 'home', None)
             stages = ((home,) if home is not None else ()) + (node,)
             extra = _ssct_completion_model([], steps=(), extra_contexts=((mother, stages),))
-            for key in ('memo', 'listeners', 'deliveries', 'fields', 'diaries'):
+            for key in ('memo', 'listeners', 'deliveries', 'fields', 'diaries', 'device_tags', 'prop_tags'):
                 for target, value in extra[key].items():
                     if key == 'diaries':model[key].setdefault(target, set()).update(value)
-                    else:model[key][target] = value
+                    else:
+                        model[key][target] = value
+                        if key=='fields':model['deleted_fields'].discard(target)
+            for target in extra['deleted_fields']:
+                model['fields'].pop(target,None)
+                model['deleted_fields'].add(target)
             for key in ('sources', 'dynamic', 'inspected_callbacks', 'unclassified_fields', 'unsupported_callbacks'):
                 model[key].extend(extra[key])
             # Reset only the registered cycle; normal future conception remains enabled.
@@ -656,6 +874,13 @@ init 997 python:
             entity = resolve((catalogue, ref))
             if present:entity.add(flag)
             else:entity.remove(flag)
+        for (catalogue, ref, flag), present in model.get('prop_tags', {}).items():
+            entity = resolve((catalogue, ref))
+            if present:entity.add(flag)
+            else:entity.remove(flag)
+        for catalogue, ref, field in model.get('deleted_fields', ()):
+            entity=resolve((catalogue,ref))
+            if field in getattr(entity,'__dict__',{}):delattr(entity,field)
         for (catalogue, ref, field), value in model['fields'].items():
             setattr(resolve((catalogue, ref)), field, value)
         for ref, grade in model['grades'].items():
@@ -692,6 +917,14 @@ init 997 python:
             expect((flag in getattr(entity, 'memo', getattr(entity, 'tags', ()))) == present, 'memo:' + ref + ':' + flag)
         for (catalogue, ref, flag), present in model.get('device_tags', {}).items():
             expect((flag in resolve((catalogue, ref)).tags) == present, 'device-tag:' + ref + ':' + flag)
+        for (catalogue, ref, flag), present in model.get('prop_tags', {}).items():
+            expect((flag in resolve((catalogue, ref)).tags) == present, 'prop-tag:' + ref + ':' + flag)
+        for catalogue, ref, field in model.get('deleted_fields', ()):
+            expect(field not in getattr(resolve((catalogue,ref)),'__dict__',{}), 'deleted-field:' + ref + ':' + field)
+        for ref,number,frequency in model.get('tv_accounts',()):
+            device=resolve(('prop',ref))
+            expect(frequency in device.hdd and device.tuner[number].freq.auto is True,
+                   'tv-account:' + ref + ':' + str(number))
         for ref,state in model.get('device_states',{}).items():
             expect(getattr(getattr(resolve(('prop',ref)),'step',None),'ref',None)==state,'device-state:'+ref)
         for target, destination in model['deliveries'].items():
@@ -721,6 +954,9 @@ init 997 python:
                 'device_states': model.get('device_states',{}),
                 'acquired_terminals': model.get('acquired_terminals',[]),
                 'device_tags': [list(key) + [value] for key, value in model.get('device_tags', {}).items()],
+                'prop_tags': [list(key) + [value] for key, value in model.get('prop_tags', {}).items()],
+                'deleted_fields': [list(key) for key in sorted(model.get('deleted_fields',()))],
+                'tv_accounts': [[ref,number,frequency.ref] for ref,number,frequency in model.get('tv_accounts',())],
                 'greetings': model.get('greetings',()),
                 'unclassified_fields': model['unclassified_fields'],
                 'unsupported_callbacks': model['unsupported_callbacks'],

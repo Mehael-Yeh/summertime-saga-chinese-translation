@@ -330,6 +330,7 @@ init 998 python:
         completion_model = _ssct_completion_model(
             [route for route in flow if _ssct_perfect_stages(route,steps)], steps)
         _ssct_completion_place_entries(completion_model, steps)
+        _ssct_completion_initial_interactions(completion_model, steps)
         _ssct_completion_greetings(completion_model)
         _ssct_completion_apply(completion_model, steps)
 
@@ -359,6 +360,7 @@ init 998 python:
         # Qualification endings depend on actual final reward ownership,
         # after inventory grants and native delivery postconditions settle.
         _ssct_completion_device_states(completion_model, steps)
+        _ssct_completion_tv_accounts(completion_model)
         progression['inventory'] = sorted(store.ssct_perfect_inventory)
         completion_report = _ssct_completion_validate(completion_model)
         activity_history = _ssct_completion_activity_history(steps)
@@ -377,6 +379,9 @@ init 998 python:
             'activity_date_history': activity_history,
             'completed_place_introductions': introductions,
             'completed_enter_programs': completion_model.get('place_entry_retirements',[]),
+            'completed_one_off_programs': completion_model.get('one_off_retirements',[]),
+            'unresolved_one_off_programs': completion_model.get('unresolved_one_offs',[]),
+            'first_use_markers': completion_model.get('first_use_markers',[]),
             'executed_dialogue': False, 'source': 'fresh current-engine defaults'}
 
     def _ssct_perfect_record():

@@ -94,3 +94,33 @@ python tools/native_tests/branch_coverage.py .codex_tmp/perfect-standalone8194/p
 `python tools/native_tests/run_changelog_probe.py .codex_tmp/perfect-standalone7944 zzz_perfect_cross_version.rpy`在已有官方隔离副本安装当前日志模块、字体配置及菜单标签，仅验证日志组件，不覆盖旧版其他翻译。通过`--baseline`指定优化前rpy进行同环境对比。副本须位于仓库`.codex_tmp`且没有zh_hans.rpa，以免重复加载；已有探针在finally恢复，进程55秒截止，存档／偏好使用独立测试目录。
 
 报告按本版实际日志计数，不固定8194条数；核对已知译文、未知原文后备、标题数量、全部段落揭示、最终底部、中英往返和Older面板，保留源码／本体日志／探针摘要及每次Text.render耗时。`changelog_probe_before.json`和`changelog_probe_after.json`分别归档基线与优化结果，顶部及最终底部截图另存；此结果不表示整包或全玩法兼容，也不会更新历史发行附件。
+
+## Maria储藏室菜单回归
+
+`perfect_save_maria_choices.rpy`为8194定向探针，须替换仓库隔离副本中的测试入口，并将同目录`native_script_continuation.py`复制到副本根目录、安装当前完美存档Mod。使用独立`ssct-maria-regression`存档目录，生成并原生读取quick-6，检查Tony的ogle／poly／trio以及原生三人行菜单，两种选择分别运行到后续菜单。输出`maria_regression.json`，包含当前Mod摘要、实际读档地点及脚本轨迹。完成后恢复原入口；不得安装到玩家游戏。对白及画面省略，不代表完整场景或白天预约流程验收。
+
+## 周日302与首次物品提示回归
+
+```powershell
+python tools/native_tests/run_completion_interactions.py .codex_tmp/perfect-standalone8194 zzz_perfect_inspect.rpy sunday25
+python tools/native_tests/run_completion_interactions.py .codex_tmp/perfect-standalone8194 zzz_perfect_inspect.rpy sunday26
+python tools/native_tests/run_completion_interactions.py .codex_tmp/perfect-standalone8194 zzz_perfect_inspect.rpy chair
+python tools/native_tests/run_completion_interactions.py .codex_tmp/perfect-standalone8194 zzz_perfect_inspect.rpy bed
+python tools/native_tests/run_completion_interactions.py .codex_tmp/perfect-standalone8194 zzz_perfect_inspect.rpy maria
+```
+
+只接受仓库`.codex_tmp`内已有的官方隔离副本及测试入口。每个进程使用独立于玩家的测试存档目录，重新生成／原生读取quick-6；归档旧报告、核对新报告时间及当前Mod摘要，55秒截止，finally恢复入口和选项文件。不得安装到玩家游戏；同一隔离副本的用例串行运行。
+
+周日25／26分别准备原生时钟与日程，按实际地图、公寓入口及角色按钮到达中午／下午的重播分支和后续菜单，并记录角色图鉴的独立时段状态。没有游玩完整一周，也未播放完整场景；清晨／夜间不属于本工具的已验收用例。chair检查实际椅子挡门及离开后恢复；bed直接准备中午Eric卧室，再点击实际床下按钮，检查一次性监听退役、首次对白未执行及正常家具界面，不证明进屋流程。maria省略呈现，范围见上一节。
+
+探针不清除原生重复点击保护：连续点击同一对象会原生回滚，不能据此构造两次切换通过。探索中的回滚、路径调整和清晨场景图层失败单独保留，不能当作通过报告。
+
+## Ross挂画与办公室道具回归
+
+`run_completion_interactions.py`同一入口另接受`office`、`office-desk`、`office-cabinet`、`office-bin`、`office-canvas`，安装`perfect_save_office_canvas.rpy`并生成／原生读取新档。检查挂画egypt标签及对应原生图层、四道具noop实例字段删除、实际敏感按钮和构造契约；定向用例运行实际Emit动作，核对原生相机／焦点进入对应道具。
+
+直接准备空办公室、移走NPC后调用原生导航界面，不证明完整进屋路径或Ross支线游玩。报告为`smith_perfect[_school_X].json`；按同一隔离副本串行运行，保留旧报告及源码摘要，入口和选项在finally恢复。初始世界的noop=True对照不能证明完成剧情后的道具也应禁用。
+
+## 电视订阅与自动登录回归
+
+`python tools/native_tests/run_completion_interactions.py .codex_tmp/perfect-standalone8194 zzz_perfect_inspect.rpy tv-account`安装`perfect_save_tv_account.rpy`，新生成并原生读取隔离档。直接准备下午客厅后，执行实际电视按钮及七次遥控切台，到91台选择稍后观看，再执行遥控器退出及重新打开；检查第一次／第二次原生自动登录与退出后的会话清除，未提交任何账号密码输入。报告为`tv_account_regression.json`，诊断为`tv_account_progress.json`，不证明完整进屋路线或节目播放。

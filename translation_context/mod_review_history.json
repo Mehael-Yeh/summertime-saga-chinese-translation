@@ -45839,5 +45839,989 @@
       }
     ],
     "scope": "8194 text and rendered panels only; engine-driven focus, not physical mouse input. Historical old-version runs do not certify current wording; no complete quest or pregnancy playthrough. Mod wording is original and does not add story mechanics."
+  },
+  "perfect_save_maria_menu_memory_20261007": {
+    "date": "2026-10-07",
+    "version": "21.0.0-wip.8194",
+    "problem": "Constructed save lacked Tony ogle/poly/trio memories; native mar_dark_maria skipped the threeway/solo menu.",
+    "change": "Read literal native menu _choice tags along static call/jump paths; project explicit set intersections and put(*tags), including local opts collections. No live menu choices or callbacks executed during projection.",
+    "baseline": {
+      "file": ".codex_tmp/maria_baseline.json",
+      "sha256": "9f547a0a14bfd4e9399a40f017d147c64f562b997ad537d4786ecb96d8e37a7d",
+      "tony_conditions": {
+        "ogle": false,
+        "poly": false,
+        "trio": false
+      }
+    },
+    "report": {
+      "file": ".codex_tmp/perfect-standalone8194/maria_regression.json",
+      "sha256": "197b390d564c3ac00c8c5c74fc60b3f839df5986d0f8d54809c45ec3b7736edb",
+      "source_sha256": "3b7add55f7578a230999cd5cb4d49b51941d8e7250b060eb02a2d101ebc1e3d2",
+      "loaded_slot": "quick-6",
+      "loaded_date": 1,
+      "loaded_room": "debbie_bed3",
+      "conditions": {
+        "ogle": true,
+        "poly": true,
+        "trio": true
+      },
+      "passed": true
+    },
+    "tests": {
+      "completion_projection": 16,
+      "result": "passed",
+      "python": "3.12.14"
+    },
+    "scope": "Native save reload, menu and both branches up to the next menu; presentation suppressed, no full scene playback or daytime reservation sequence.",
+    "installation": "Repository source updated only. Existing constructed saves require restart and regeneration; original game installation and player saves unchanged."
+  },
+  "perfect_save_sunday302_first_interactions_20261007": {
+    "date": "2026-10-07",
+    "version": "21.0.0-wip.8194",
+    "status": "targeted_regressions_passed_not_all_storylines_certified",
+    "mod_sha256": {
+      "completion_state.rpy": "b69f49fec8835fb86ca6334cd44e5363a7469fdf6da71da4bffc6cdb401d6d08",
+      "perfect_save.rpy": "4b983ee75e33d8af46742ac846bc15f6c07b50b75346392c47a31f0d5f554c1b",
+      "reacquisition.rpy": "642a16e62464cb66e3e2d640efeaa52815daef869509d544beb7ebbfc1aeceb9"
+    },
+    "native_reports": [
+      {
+        "path": ".codex_tmp/perfect-standalone8194/sunday302_25.json",
+        "sha256": "9d41de8347d02c9a2302b3f6d16cae0a6638879fb136a23331e479632c7f77d6",
+        "status": "interaction_menu_reached"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/sunday302_26.json",
+        "sha256": "3a2b14ac3a9c40910db1de522c4ea2d0054100c664e17cbd19b8a9bb4d75138d",
+        "status": "interaction_menu_reached"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/initial_use_chair_5.json",
+        "sha256": "62c1e16f9d6c642c75e0fb0f6df852acfcbe2d019cdc3a04118f24f6fb589a14",
+        "status": "first_use_interactions_passed"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/initial_use_bed_5.json",
+        "sha256": "6ff00d7eaee5b5b7d54b6050b340c8f6d54233cc58b79b45679d4428a880dba2",
+        "status": "first_use_interactions_passed"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/maria_regression.json",
+        "sha256": "39547feaa670f6e76846f0fc3ec652cc73682126ba5062b92f7232d45f466fb8",
+        "status": "passed"
+      }
+    ],
+    "gallery_distinct_states": [
+      {
+        "ref": "p_T2XB6x",
+        "description": "Noon (first-time).",
+        "label": "lewd.p_T2XB6x",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.noon"
+        }
+      },
+      {
+        "ref": "mHALx8er",
+        "description": "Noon (first-time).",
+        "label": "lewd.p_T2XB6x",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.noon",
+          "cast.tony.put": "('ogle',)"
+        }
+      },
+      {
+        "ref": "cf3hn0_6",
+        "description": "Noon (first-time).",
+        "label": "lewd.p_T2XB6x",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.noon",
+          "cast.tony.put": "('ogle', 'poly')"
+        }
+      },
+      {
+        "ref": "b4vx3FlX",
+        "description": "Noon.",
+        "label": "lewd.p_T2XB6x",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.noon",
+          "cast.maria.put": "('couch.noon',)"
+        }
+      },
+      {
+        "ref": "an_Qusue",
+        "description": "Noon.",
+        "label": "lewd.p_T2XB6x",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.noon",
+          "cast.maria.put": "('couch.noon',)",
+          "cast.tony.put": "('ogle',)"
+        }
+      },
+      {
+        "ref": "zGO8MYx6",
+        "description": "Noon.",
+        "label": "lewd.p_T2XB6x",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.noon",
+          "cast.maria.put": "('couch.noon',)",
+          "cast.tony.put": "('ogle', 'poly')"
+        }
+      },
+      {
+        "ref": "ypxpQjLH",
+        "description": "Dusk (first-time).",
+        "label": "mar_couch.dusk",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.dusk",
+          "cast.maria.womb.state": "saga.enum.sow.late"
+        }
+      },
+      {
+        "ref": "pmuSz_gt",
+        "description": "Dusk (first-time).",
+        "label": "mar_couch.dusk",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.dusk",
+          "cast.maria.womb.state": "saga.enum.sow.normal"
+        }
+      },
+      {
+        "ref": "yL_sH3ik",
+        "description": "Dusk.",
+        "label": "mar_couch.dusk",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.dusk",
+          "cast.maria.womb.state": "saga.enum.sow.late",
+          "cast.maria.put": "('couch.dusk',)"
+        }
+      },
+      {
+        "ref": "u9pqPTB1",
+        "description": "Dusk.",
+        "label": "mar_couch.dusk",
+        "state": {
+          "cast.maria.costume": "'casual'",
+          "cast.tony.costume": "'casual'",
+          "time.now": "saga.enum.tod.dusk",
+          "cast.maria.womb.state": "saga.enum.sow.normal",
+          "cast.maria.put": "('couch.dusk',)"
+        }
+      }
+    ],
+    "sunday_branches": [
+      "mar_couch.noon2",
+      "mar_couch.dusk2"
+    ],
+    "one_off_programs": [
+      {
+        "observer": "erik_bed",
+        "labels": [
+          "erik_bed"
+        ],
+        "event_keys": [
+          "focus"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "erik_drawer",
+        "labels": [
+          "erik_drawer"
+        ],
+        "event_keys": [
+          "focus"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "key_school",
+        "labels": [
+          "key_school"
+        ],
+        "event_keys": [
+          "enter",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "pc_anon_saga_ex",
+        "labels": [
+          "anon_pc.saga"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "pc_jenny_img1",
+        "labels": [
+          "jenny_laptop.img1"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "pc_jenny_img3",
+        "labels": [
+          "jenny_laptop.img3"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "pc_jenny_img4",
+        "labels": [
+          "jenny_laptop.img4"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "pc_jenny_img5",
+        "labels": [
+          "jenny_laptop.img5"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "pc_jenny_mail",
+        "labels": [
+          "jenny_laptop.mail"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "pc_jenny_pink",
+        "labels": [
+          "jenny_laptop.pink"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "pc_jenny_wish",
+        "labels": [
+          "jenny_laptop.wish"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "pizza_main",
+        "labels": [
+          "pizza_main"
+        ],
+        "event_keys": [
+          "enter",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "school_girls",
+        "labels": [
+          "school_girls"
+        ],
+        "event_keys": [
+          "enter",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tool_drill",
+        "labels": [
+          "tool_drill"
+        ],
+        "event_keys": [
+          "enter",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tool_shovel",
+        "labels": [
+          "tool_shovel"
+        ],
+        "event_keys": [
+          "enter",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_debbie_boot",
+        "labels": [
+          "debbie_tv.boot"
+        ],
+        "event_keys": [
+          "focus"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_debbie_pink",
+        "labels": [
+          "debbie_tv.pink"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_debbie_pink_auth",
+        "labels": [
+          "debbie_tv.auth"
+        ],
+        "event_keys": [
+          "event",
+          "what"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_watch_arrest",
+        "labels": [
+          "tv.arrest"
+        ],
+        "event_keys": [
+          "event"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_watch_felon",
+        "labels": [
+          "tv.felon"
+        ],
+        "event_keys": [
+          "event"
+        ],
+        "missing_presentation_labels": [
+          "tv.felon"
+        ]
+      },
+      {
+        "observer": "tv_watch_golf",
+        "labels": [
+          "tv.golf"
+        ],
+        "event_keys": [
+          "event"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_watch_jail",
+        "labels": [
+          "tv.jail"
+        ],
+        "event_keys": [
+          "event"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_watch_mayor",
+        "labels": [
+          "tv.mayor"
+        ],
+        "event_keys": [
+          "event"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_watch_savanna",
+        "labels": [
+          "tv.savanna"
+        ],
+        "event_keys": [
+          "event"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_watch_thief",
+        "labels": [
+          "tv.thief"
+        ],
+        "event_keys": [
+          "event"
+        ],
+        "missing_presentation_labels": []
+      },
+      {
+        "observer": "tv_watch_volley",
+        "labels": [
+          "tv.volley"
+        ],
+        "event_keys": [
+          "event"
+        ],
+        "missing_presentation_labels": []
+      }
+    ],
+    "first_use_markers": [
+      [
+        "prop",
+        "anon_chair",
+        "used"
+      ]
+    ],
+    "native_validation": {
+      "chair": {
+        "chair_used": true,
+        "chair_repeat_listener": true,
+        "chair_blocking_door": false,
+        "erik_bed_one_off_retired": true,
+        "erik_drawer_one_off_retired": true,
+        "forbidden_labels": []
+      },
+      "bed": {
+        "chair_used": true,
+        "chair_repeat_listener": true,
+        "chair_blocking_door": false,
+        "erik_bed_one_off_retired": true,
+        "erik_drawer_one_off_retired": true,
+        "forbidden_labels": []
+      }
+    },
+    "unit_tests": {
+      "completion_projection": 23,
+      "place_entry_retirement": 5,
+      "perfect_save_catalogue": 22,
+      "total": 50
+    },
+    "scope": "Fresh construction and native reload; Sunday clock/schedule preparation followed by actual apartment door and Tony inputs. Bedroom camera prepared separately before actual bed input. Chair actual input and door restoration. Maria presentation suppressed; no full week, entry-to-bed route or full scene playback acceptance.",
+    "limitations": [
+      "All storylines and world-state combinations remain unverified.",
+      "26 native one-off programs classified and retired; not 26 scenes played.",
+      "Native tv_watch_felon references absent tv.felon; explicit terminal-clear retirement recorded without pretending that absent scene ran.",
+      "Exploratory repeated-click rollback, path-adjustment and dawn camera sleep-attribute failures preserved separately; not passed cases."
+    ],
+    "old_generated_saves": "Update Mod, restart, regenerate quick-6."
+  },
+  "perfect_save_smith_office_controls_20261007": {
+    "date": "2026-10-07",
+    "version": "21.0.0-wip.8194",
+    "status": "native_disabled_not_perfect_save_regression",
+    "objects": {
+      "school_desk": true,
+      "school_cabinet": true,
+      "school_bin": true
+    },
+    "native_render_rule": "saga.display.view.get removes an entity when its layer is inactive or entity.noop is true; src/gui/view.rpy renders a plain image when entity is None.",
+    "rendered_controls": {
+      "native_initialization": 0,
+      "constructed_save": 0,
+      "constructed_with_tor05_tissue_take_attached": 0,
+      "perfect_mod_not_loaded": 0
+    },
+    "clean_check": {
+      "mod_loaded": false,
+      "constructed": false,
+      "completion_sha256": null,
+      "room": "school_office1"
+    },
+    "reports": [
+      {
+        "path": ".codex_tmp/perfect-standalone8194/smith_inspect.json",
+        "sha256": "58103d07a4566e0faa0d1925a8923a4840d08bf4da576441c2a1f8d979f028ac"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/smith_native.json",
+        "sha256": "66f8491a286bc8964248ba342857f03f3fed2bbadf64fcd8f0451de3f2973ad6"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/smith_perfect_before_canvas_fix.json",
+        "sha256": "a41da7c7a3b161bc62d241392b51e0b34ba1099dedfafe22e09a4f0d09e5e376"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/smith_task_before_canvas_fix.json",
+        "sha256": "90c023123eedd57f83ba4678155bbc20107630a9d526b67a991c461823b26322"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/smith_native_clean.json",
+        "sha256": "db2bf0d660b120b4441303e94a1c65f412d30924db51db4f89cd901938a3ab0b"
+      }
+    ],
+    "probe_sha256": "708e992b9478f1ec1826d092d02bdf5222f96604ecd66d9fa87c074d34e92e06",
+    "scope": "Office and actor position prepared directly, Ursula absent, native nav screen rendered. No full office entry or Tori route playthrough. Raw task-stage allow callbacks do not override native noop flags. No production Mod changes.",
+    "isolated_mod_restored": true,
+    "superseded_by": "perfect_save_ross_canvas_and_office_unlock_20261007",
+    "correction": "Original diagnosis withdrawn: initial-world noop=True comparisons omitted native ano01.annie DELETE_ATTR effects. They do not establish the completed-world restriction."
+  },
+  "perfect_save_ross_canvas_and_office_unlock_20261007": {
+    "date": "2026-10-07",
+    "version": "21.0.0-wip.8194",
+    "status": "targeted_native_regressions_passed",
+    "native_sources": {
+      "saga.logic.bar06.art": "prop.school_canvas.add('egypt')",
+      "saga.logic.ano01.annie": "DELETE_ATTR noop on school_bin, school_cabinet, school_canvas, school_desk"
+    },
+    "implementation": "Extract ordinary prop add/remove tags and literal native prop/sets noop/lock deletion without executing callbacks; preserve later write/delete ordering; apply and validate instance-field deletion.",
+    "mod_sha256": {
+      "mods\\perfect_save\\completion_state.rpy": "769d00dfb9a382dca1ce59d915d444423fd5752c8025595ac0ce209279803859",
+      "mods\\perfect_save\\perfect_save.rpy": "4b983ee75e33d8af46742ac846bc15f6c07b50b75346392c47a31f0d5f554c1b",
+      "mods\\perfect_save\\reacquisition.rpy": "642a16e62464cb66e3e2d640efeaa52815daef869509d544beb7ebbfc1aeceb9"
+    },
+    "probe_sha256": "6e32fb2861c455489947700d2b28558a6b36628cd34b7703758b214cdd49029a",
+    "reports": [
+      {
+        "path": ".codex_tmp/perfect-standalone8194/smith_perfect_school_desk.json",
+        "sha256": "43c7f7a450cab57e14e94317dcf8163bf40732904c479fc391abfe96ce73c171"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/smith_perfect_school_cabinet.json",
+        "sha256": "c4579f84c9b6218b9c1f069c6f671d657acfef89c723fc45f65e6b96480cac8e"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/smith_perfect_school_bin.json",
+        "sha256": "4e7084aab1521a485fb4f71f5d8cfd451902924070793f735c130466d7ac1747"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/smith_perfect_school_canvas.json",
+        "sha256": "350d4b1b3ab720da758884424bbf2f4701dc02a20dfb11df9d52845de2333745"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/maria_regression.json",
+        "sha256": "7b05dd62fd51eb3b2ee9088eca07ecc0b042bdaa55c98261d417146220eb1c3a"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/sunday302_25.json",
+        "sha256": "2f20a5773ac111c950d81592b65ede0df210b7b67e344b515b6451c338158712"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/sunday302_26.json",
+        "sha256": "96d992812d08608aca4b64ab631d251f5ac493f1040495c0234493db6bf5924c"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/initial_use_chair_5.json",
+        "sha256": "e5a5d0c849e790e297aa4394d0a0fd103818f64b47a488ed392aa0bf5f3ac7b2"
+      },
+      {
+        "path": ".codex_tmp/perfect-standalone8194/initial_use_bed_5.json",
+        "sha256": "13ab7b55ca75cea0dd75bfff7b70c00feff03b6303fc2181f7948dc84020e957"
+      }
+    ],
+    "canvas_tags": [
+      "egypt"
+    ],
+    "noop": {
+      "school_desk": null,
+      "school_cabinet": null,
+      "school_bin": null,
+      "school_canvas": null
+    },
+    "deleted_fields": [
+      [
+        "prop",
+        "school_bin",
+        "noop"
+      ],
+      [
+        "prop",
+        "school_cabinet",
+        "noop"
+      ],
+      [
+        "prop",
+        "school_canvas",
+        "noop"
+      ],
+      [
+        "prop",
+        "school_desk",
+        "noop"
+      ],
+      [
+        "sets",
+        "school_shower",
+        "noop"
+      ]
+    ],
+    "unit_tests": {
+      "completion_projection": 27,
+      "perfect_save_catalogue": 22,
+      "place_entry_retirement": 5,
+      "total": 54
+    },
+    "scope": "Fresh native construction/reload. Empty office directly prepared, native nav rendered, each of four actual sensitive Emit inputs reaches the native prop view; egypt image layer confirmed. Prior Maria, Sunday noon/dusk, chair and bed targeted cases rerun. No full Ross route, office entry or all-story acceptance.",
+    "old_generated_saves": "Update Mod, restart, regenerate quick-6.",
+    "previous_diagnosis": "Initial-state comparison incorrectly described completed-world furniture disabling as normal; withdrawn. Original reports preserved."
+  },
+  "perfect_save_sameclass_effects_audit_20261007": {
+    "date": "2026-10-07",
+    "version": "21.0.0-wip.8194",
+    "status": "native_state_audit_passed",
+    "candidate_callbacks": 82,
+    "selection": "Registered step pool callbacks containing prop with add/remove names, or DELETE_ATTR noop/lock. A conservative candidate filter, not complete all-world coverage.",
+    "report": {
+      "path": ".codex_tmp/perfect-standalone8194/sameclass_perfect.json",
+      "sha256": "d945bef4091bd25151d9a5d315d5499cc4d5cabd0a875b116463cda7c5190ad0"
+    },
+    "probe": {
+      "path": ".codex_tmp/sameclass_probe.rpy",
+      "sha256": "bad41974c8a15a279c3b22e99ac5c29e5fe412b15bf7969a4026e785cf297c7d"
+    },
+    "completion_sha256": "769d00dfb9a382dca1ce59d915d444423fd5752c8025595ac0ce209279803859",
+    "projected_effect_sites": [
+      [
+        "ano01_annie.annie",
+        "delete-field",
+        [
+          "prop",
+          "school_bin",
+          "noop"
+        ],
+        []
+      ],
+      [
+        "ano01_annie.annie",
+        "delete-field",
+        [
+          "prop",
+          "school_cabinet",
+          "noop"
+        ],
+        []
+      ],
+      [
+        "ano01_annie.annie",
+        "delete-field",
+        [
+          "prop",
+          "school_canvas",
+          "noop"
+        ],
+        []
+      ],
+      [
+        "ano01_annie.annie",
+        "delete-field",
+        [
+          "prop",
+          "school_desk",
+          "noop"
+        ],
+        []
+      ],
+      [
+        "bar06_art.art",
+        "prop-tag",
+        [
+          "prop",
+          "school_canvas"
+        ],
+        [
+          "egypt"
+        ]
+      ],
+      [
+        "deb06_lotion.lotion",
+        "prop-tag",
+        [
+          "prop",
+          "debbie_pants"
+        ],
+        [
+          "used"
+        ]
+      ],
+      [
+        "deb06_pants.lotion",
+        "prop-tag",
+        [
+          "prop",
+          "debbie_pants"
+        ],
+        [
+          "used"
+        ]
+      ],
+      [
+        "deb13_lobby.lobby",
+        "prop-tag",
+        [
+          "prop",
+          "debbie_car"
+        ],
+        [
+          "broken"
+        ]
+      ],
+      [
+        "deb13_engine.engine_car",
+        "prop-tag",
+        [
+          "prop",
+          "debbie_car"
+        ],
+        [
+          "open"
+        ]
+      ],
+      [
+        "deb13_delay.delay",
+        "prop-tag",
+        [
+          "prop",
+          "debbie_car"
+        ],
+        [
+          "broken",
+          "open"
+        ]
+      ],
+      [
+        "deb14_pants.pants",
+        "prop-tag",
+        [
+          "prop",
+          "debbie_pants"
+        ],
+        [
+          "used"
+        ]
+      ],
+      [
+        "deb16_lobby.lobby",
+        "prop-tag",
+        [
+          "prop",
+          "debbie_tv"
+        ],
+        [
+          "dryer"
+        ]
+      ],
+      [
+        "deb16_tv.tv",
+        "prop-tag",
+        [
+          "prop",
+          "debbie_tv"
+        ],
+        [
+          "dryer"
+        ]
+      ],
+      [
+        "tor05_tissue_annie.tissue_annie",
+        "prop-tag",
+        [
+          "prop",
+          "school_bin"
+        ],
+        [
+          "used"
+        ]
+      ],
+      [
+        "viv02_books_post.books_post",
+        "delete-field",
+        [
+          "sets",
+          "school_shower",
+          "noop"
+        ],
+        []
+      ]
+    ],
+    "actual_props": {
+      "school_canvas": {
+        "tags": [
+          "egypt"
+        ],
+        "noop": null
+      },
+      "debbie_pants": {
+        "tags": [
+          "used"
+        ],
+        "noop": null
+      },
+      "debbie_car": {
+        "tags": [],
+        "noop": null
+      },
+      "debbie_tv": {
+        "tags": [],
+        "noop": null
+      },
+      "school_bin": {
+        "tags": [
+          "used"
+        ],
+        "noop": null
+      }
+    },
+    "actual_deletions": [
+      {
+        "target": [
+          "prop",
+          "school_bin",
+          "noop"
+        ],
+        "instance_absent": true,
+        "value": "None"
+      },
+      {
+        "target": [
+          "prop",
+          "school_cabinet",
+          "noop"
+        ],
+        "instance_absent": true,
+        "value": "None"
+      },
+      {
+        "target": [
+          "prop",
+          "school_canvas",
+          "noop"
+        ],
+        "instance_absent": true,
+        "value": "None"
+      },
+      {
+        "target": [
+          "prop",
+          "school_desk",
+          "noop"
+        ],
+        "instance_absent": true,
+        "value": "None"
+      },
+      {
+        "target": [
+          "sets",
+          "school_shower",
+          "noop"
+        ],
+        "instance_absent": true,
+        "value": "None"
+      }
+    ],
+    "additional_sameclass_omission": {
+      "target": "sets.school_shower.noop",
+      "set_source": "viv02_books_hall1w: STORE_ATTR True",
+      "delete_source": "viv02_books_post: DELETE_ATTR noop",
+      "result": "Current projection removes earlier True write; loaded native object has no noop instance field. Original game initialization already has no noop; the omitted deletion matters because projection previously applied the intermediate quest True write."
+    },
+    "tag_ordering": "Car broken/open and TV dryer additions are followed by native removals; final native load has neither temporary state. Garment and bin used markers present; their native reset handlers remain normal gameplay rules, not permanent first-dialogue markers.",
+    "remaining_scope": "Not all conditions, nested collections (for example USB docs), actor/venue transient tags, daily-reset execution or all native buttons have been certified. No new production code needed for these already covered effects.",
+    "changes": "Audit and evidence only; previous repair package already contains the generic implementation."
+  },
+  "perfect_save_tv_subscription_20261007": {
+    "date": "2026-10-07",
+    "version": "21.0.0-wip.8194",
+    "status": "native_subscription_and_reopen_passed",
+    "cause": "Native PPV remembers subscription in Television.hdd; prior completion projection omitted this independent device history. PPV.auto reads hdd and native surf authenticates into transient ram.",
+    "implementation": "Discover native Television/PPV tuner entries and populate their existing durable hdd subscription; do not hardcode channel 91, credentials, scene tag or bypass the login screen. Only called in isolated perfect construction; native halt/session auth lifecycle retained.",
+    "mod_sha256": {
+      "completion_state.rpy": "c511ea66ac942e1ebb1cdb5ba29410a24b011468261b68436ea7a9290360820b",
+      "perfect_save.rpy": "9b3a0f9b4e0043d50963367579be59a859ceaa38ecee0bf21918e915d95673f8",
+      "reacquisition.rpy": "642a16e62464cb66e3e2d640efeaa52815daef869509d544beb7ebbfc1aeceb9"
+    },
+    "report": {
+      "path": ".codex_tmp/perfect-standalone8194/tv_account_regression.json",
+      "sha256": "81c13c374b4c1cbc73e10a54eb1ed914cb34a8a0787979a175fe414368219a54"
+    },
+    "probe_sha256": "e7bfc057f9a848e9c835457e9658fc46fea22cfd6f5e512da33d62ad4558f71c",
+    "first_boot": {
+      "auto": true,
+      "auth": true,
+      "tune": 91
+    },
+    "after_native_quit": {
+      "auto": true,
+      "auth": false
+    },
+    "second_boot": {
+      "auto": true,
+      "auth": true,
+      "tune": 91
+    },
+    "native_inputs": [
+      "native_tv_interact",
+      "native_pgup",
+      "native_pgup",
+      "native_pgup",
+      "native_pgup",
+      "native_pgup",
+      "native_pgup",
+      "native_pgup",
+      "native_maybe_later",
+      "native_tv_quit",
+      "native_tv_interact",
+      "native_maybe_later"
+    ],
+    "manual_credential_inputs": 0,
+    "accounts": [
+      [
+        "debbie_tv",
+        91,
+        "pink"
+      ]
+    ],
+    "unit_tests": {
+      "completion_projection": 28,
+      "perfect_save_catalogue": 22,
+      "place_entry_retirement": 5,
+      "total": 55
+    },
+    "scope": "Native dusk clock and lounge prepared directly; actual TV and channel buttons, no full room entry route. Fresh native construction/reload, actual power/channel/quit/reopen actions; presentation advanced and Maybe later chosen. No full room-entry route or full programme viewing.",
+    "probe_failures": "Earlier probe attempts timed out or ended without a report due to nested use/say recognition and direct surf invocation outside the native event lifecycle. Not passed cases; native remote quit/reopen replaced the latter. Diagnostic tv_account_progress_before_say_fix.json retained.",
+    "old_generated_saves": "Update Mod, restart, regenerate quick-6."
   }
 }

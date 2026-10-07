@@ -88,6 +88,151 @@ class Projection(unittest.TestCase):
         self.ns['renpy'].game.script.namemap['other'] = Label([Call('future_scene'), Return("'reward'")])
         self.assertEqual(self.returns([Jump('other')]), frozenset(('reward',)))
 
+    def test_menu_tags_follow_jumps_and_ignore_dynamic_arguments(self):
+        menu=Menu([('Yes','True',[])])
+        menu.item_arguments=[NS(arguments=[('_choice',"'observed'")]),
+                             NS(arguments=[('_choice','unknown()')])]
+        self.ns['renpy'].game.script.namemap['future_scene']=Label([menu,Jump('future_scene')])
+        self.assertEqual(self.ns['_ssct_completion_script_choices']('future_scene'),frozenset(('observed',)))
+
+    def test_repeat_history_does_not_require_intro_label_names(self):
+        actor=NS(ref='future_person')
+        self.native['cast'].append(actor)
+        self.native['step'].append(NS(ref='future_person_level1'))
+        branch=If([("saga.cast.future_person < 'visit.noon'",[Jump('future_visit.noon1')])])
+        branch.next=Jump('future_visit.noon2')
+        branch.filename='game/src/plot/future_visit.rpy'
+        branch.linenumber=1
+        self.ns['renpy'].game.script.namemap['branch']=branch
+        model={'memo':{},'sources':[]}
+        self.ns['_ssct_completion_greetings'](model)
+        self.assertTrue(model['memo'][('cast','future_person','visit.noon')])
+
+        # Similar numbering alone does not identify the repeated sibling.
+        branch.next=Jump('another_visit.noon2')
+        model={'memo':{},'sources':[]}
+        self.ns['_ssct_completion_greetings'](model)
+        self.assertEqual(model['memo'],{})
+
+    def initial_interaction_model(self, source, *, once=False, presentation_state=False):
+        from unittest.mock import patch
+        import sys
+        clear,abort=object(),object()
+        def call(*args):self.fail('Projection must not execute dialogue')
+        def req(*args):self.fail('Projection must not execute predicates')
+        def transition(*args):self.fail('Projection must not execute presentation')
+        actor=NS(ref='future_player')
+        item=NS(ref='future_item',used=False)
+        self.native['cast'].append(actor)
+        self.native['prop'].append(item)
+        functions={'call':call,'clear':clear,'abort':abort,
+                   'unknown':lambda:self.fail('Unknown effect must not execute'),
+                   '__name__':'saga.logic.once' if once else 'saga.logic.future_item'}
+        exec(source,functions)
+        node=NS(ref='future_item_intro',pool=[(functions['interact'],(('interact',item),),None,0)])
+        self.ns['renpy'].game.script.namemap['first_scene']=Label(
+            [Python('unknown_effect()')] if presentation_state else [Return(None)])
+        model={'memo':{},'fields':{},'listeners':{},'sources':[]}
+        with patch.dict(sys.modules,{'saga.event':NS(call=call,transition=transition),
+                'saga.logic.util':NS(req=req),'saga.util.sentinel':NS(clear=clear,abort=abort)}):
+            self.ns['_ssct_completion_initial_interactions'](model,[node])
+        return model
+
+    def test_native_one_off_retires_item_observer_without_callback_execution(self):
+        model=self.initial_interaction_model("def interact():\n call('first_scene')\n return abort,clear",once=True)
+        self.assertFalse(model['listeners'][('step','future_item_intro')])
+        self.assertEqual(len(model['one_off_retirements']),1)
+
+    def test_one_off_with_unknown_state_effect_is_not_retired(self):
+        model=self.initial_interaction_model("def interact():\n call('first_scene')\n return abort,clear",once=True,presentation_state=True)
+        self.assertEqual(model['listeners'],{})
+        self.assertEqual(len(model['unresolved_one_offs']),1)
+
+    def test_guarded_first_use_sets_marker_but_keeps_repeat_action(self):
+        model=self.initial_interaction_model("def interact(interact):\n if not interact.used:\n  call('first_scene')\n  interact.used=True\n return abort")
+        self.assertTrue(model['fields'][('prop','future_item','used')])
+        self.assertEqual(model['listeners'],{})
+
+    def test_guarded_unknown_effect_does_not_complete_first_use(self):
+        model=self.initial_interaction_model("def interact(interact):\n if not interact.used:\n  call('first_scene')\n  unknown()\n  interact.used=True\n return abort")
+        self.assertEqual(model['fields'],{})
+
+    def test_missing_native_one_off_label_is_reported(self):
+        model=self.initial_interaction_model("def interact():\n call('missing_scene')\n return abort,clear",once=True)
+        self.assertFalse(model['listeners'][('step','future_item_intro')])
+        self.assertEqual(model['one_off_retirements'][0]['missing_presentation_labels'],['missing_scene'])
+
+    def test_unguarded_boolean_write_is_not_a_first_use_marker(self):
+        model=self.initial_interaction_model("def interact(interact):\n call('first_scene')\n interact.used=True\n return abort")
+        self.assertEqual(model['fields'],{})
+
+    def prop_effect_model(self,source):
+        class Item:
+            ref='future_canvas'
+            noop=False
+            def add(self,flag):self.tags.add(flag)
+            def remove(self,flag):self.tags.discard(flag)
+        item=Item();item.noop=True;item.tags=set()
+        self.native['prop'].append(item)
+        namespace={'prop':self.native['prop']}
+        exec(source,namespace)
+        node=NS(ref='future01_end',pool=[(namespace['complete'],(),None,0)])
+        route=NS(ref='future',step=node)
+        self.native['flow'].append(route);self.native['step'].append(node)
+        return item,self.ns['_ssct_completion_model']([route],[node])
+
+    def test_native_prop_tag_and_attribute_delete_are_applied(self):
+        item,model=self.prop_effect_model("def complete():\n prop.future_canvas.add('changed')\n del prop.future_canvas.noop")
+        self.assertEqual(item.tags,set())
+        self.assertTrue(item.noop)
+        self.ns['_ssct_completion_apply'](model,[])
+        self.assertEqual(item.tags,{'changed'})
+        self.assertFalse(item.noop)
+        self.assertNotIn('noop',item.__dict__)
+        self.assertEqual(self.ns['_ssct_completion_validate'](model)['failures'],[])
+
+    def test_later_native_write_supersedes_attribute_delete(self):
+        item,model=self.prop_effect_model("def complete():\n del prop.future_canvas.noop\n prop.future_canvas.noop=True")
+        self.assertNotIn(('prop','future_canvas','noop'),model['deleted_fields'])
+        self.ns['_ssct_completion_apply'](model,[])
+        self.assertTrue(item.noop)
+
+    def test_later_native_delete_supersedes_attribute_write(self):
+        item,model=self.prop_effect_model("def complete():\n prop.future_canvas.noop=True\n del prop.future_canvas.noop")
+        self.assertNotIn(('prop','future_canvas','noop'),model['fields'])
+        self.ns['_ssct_completion_apply'](model,[])
+        self.assertFalse(item.noop)
+
+    def test_later_prop_tag_remove_clears_added_tag(self):
+        item,model=self.prop_effect_model("def complete():\n prop.future_canvas.add('changed')\n prop.future_canvas.remove('changed')")
+        self.assertFalse(model['prop_tags'][('prop','future_canvas','changed')])
+        self.ns['_ssct_completion_apply'](model,[])
+        self.assertEqual(item.tags,set())
+
+    def test_expanded_choice_intersection_projects_native_memory(self):
+        actor=NS(ref='future_person')
+        self.native['cast'].append(actor)
+        menu=Menu([])
+        menu.item_arguments=[NS(arguments=[('_choice',"'observed'")])]
+        self.ns['renpy'].game.script.namemap['future_scene']=Label([menu])
+        functions={'cast':self.native['cast'],'store':NS(_choice={'live_only'}),
+                   'call':lambda *args: self.fail('Native callback must not run')}
+        exec("def complete():\n call('future_scene')\n cast.future_person.put(*{'observed','unselected'}.intersection(store._choice))",functions)
+        node=NS(ref='future01_end',pool=[(functions['complete'],(),None,0)])
+        route=NS(ref='future',step=node)
+        self.native['flow'].append(route)
+        self.native['step'].append(node)
+        model=self.ns['_ssct_completion_model']([route],[node])
+        self.assertTrue(model['memo'][('cast','future_person','observed')])
+        self.assertNotIn(('cast','future_person','unselected'),model['memo'])
+        self.assertEqual(functions['store']._choice,{'live_only'})
+
+        # Repeat handlers may store a one-tag intersection before expanding it.
+        exec("def complete():\n call('future_scene')\n opts={'observed'}.intersection(store._choice)\n cast.future_person.put(*opts)",functions)
+        node.pool=[(functions['complete'],(),None,0)]
+        model=self.ns['_ssct_completion_model']([route],[node])
+        self.assertTrue(model['memo'][('cast','future_person','observed')])
+
     def test_pure_clock_reset_is_settled_without_callback_execution(self):
         final = NS(ref='future_repeat_ready', pool=[])
         functions = {'step': self.native['step']}
@@ -207,6 +352,37 @@ class Projection(unittest.TestCase):
         model=self.ns['_ssct_completion_model']([route],[node])
         self.assertTrue(model['fields'][('prop','future_laptop','auto')])
         self.assertFalse(model['device_tags'][('prop','future_laptop','paired')])
+
+
+    def test_tv_subscription_persists_without_forcing_session_or_credentials(self):
+        import sys
+        from unittest.mock import patch
+        class Television:
+            ref='future_tv'
+            hdd=set()
+            ram=set()
+        class PPV:
+            def __init__(self,dev):
+                self.dev=dev
+                self.freq=NS(ref='future_subscription')
+            @property
+            def auto(self):return self.freq in self.dev.hdd
+        # Native frequencies are hashable catalogue values.
+        class Frequency:ref='future_subscription'
+        tv=Television()
+        account=PPV(tv)
+        account.freq=Frequency()
+        tv.tuner={123:NS(freq=account),1:NS(freq=Frequency())}
+        other=NS(ref='ordinary_prop')
+        self.native['prop'].extend((tv,other))
+        model={}
+        with patch.dict(sys.modules,{'saga.tech.television':NS(Television=Television,PPV=PPV)}):
+            self.ns['_ssct_completion_tv_accounts'](model)
+            self.ns['_ssct_completion_tv_accounts'](model)
+        self.assertEqual(model['tv_accounts'],[(tv.ref,123,account.freq)])
+        self.assertEqual(tv.hdd,{account.freq})
+        self.assertEqual(tv.ram,set())
+        self.assertTrue(account.auto)
 
 
 if __name__ == '__main__': unittest.main()
